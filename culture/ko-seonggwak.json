@@ -1,0 +1,4646 @@
+{
+  "id": "ko-seonggwak",
+  "name": "한국의 성곽·요새 (Korean Fortifications & Fortresses)",
+  "title": "한국의 성곽·요새 (Korean Fortifications & Fortresses)",
+  "description": "위키데이터 기준 대한민국에 위치한 성곽·산성·요새 등 방어시설 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 458,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "",
+      "name_en": "Ancient Mountain Fortresses in Central Korea",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q66201296",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66201296"
+    },
+    {
+      "name_ko": "B1 벙커",
+      "name_en": "B1 bunker",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55726623",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55726623"
+    },
+    {
+      "name_ko": "",
+      "name_en": "Chungju Sanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.956392,
+      "longitude": 127.978325,
+      "wikidata_id": "Q66311052",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66311052"
+    },
+    {
+      "name_ko": "가덕도왜성",
+      "name_en": "",
+      "admin_area_ko": "가덕도동",
+      "admin_area_en": "Gadeokdo Dong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12582304",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582304"
+    },
+    {
+      "name_ko": "가막리산성",
+      "name_en": "Gamakri Mountain",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.813056,
+      "longitude": 127.52,
+      "wikidata_id": "Q82327717",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327717"
+    },
+    {
+      "name_ko": "가배량성",
+      "name_en": "Geoje Gabaeyangjin Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.781944,
+      "longitude": 128.570278,
+      "wikidata_id": "Q19794491",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794491"
+    },
+    {
+      "name_ko": "가산산성",
+      "name_en": "Gasansanseong Fortress",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12582368",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582368"
+    },
+    {
+      "name_ko": "가야산산성",
+      "name_en": "Gaya Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.817197,
+      "longitude": 128.132519,
+      "wikidata_id": "Q18229686",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18229686"
+    },
+    {
+      "name_ko": "가야산성",
+      "name_en": "Gayasanseong Fortress",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q122538702",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122538702"
+    },
+    {
+      "name_ko": "가은암산성",
+      "name_en": "Gaeunamsanseong Fortress",
+      "admin_area_ko": "단양군",
+      "admin_area_en": "Danyang County",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q122538703",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122538703"
+    },
+    {
+      "name_ko": "각산산성",
+      "name_en": "Sacheon Gaksan Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.941389,
+      "longitude": 128.054444,
+      "wikidata_id": "Q12582530",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582530"
+    },
+    {
+      "name_ko": "갈현성",
+      "name_en": "Galhyeonseong",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Dong District",
+      "latitude": 36.335278,
+      "longitude": 127.47,
+      "wikidata_id": "Q17716114",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17716114"
+    },
+    {
+      "name_ko": "갑곳돈대",
+      "name_en": "Ganghwa Gapgotdon",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.7325,
+      "longitude": 126.5175,
+      "wikidata_id": "Q27330984",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27330984"
+    },
+    {
+      "name_ko": "강릉 고려성",
+      "name_en": "Gangneung Goryeoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.706667,
+      "longitude": 129.009167,
+      "wikidata_id": "Q18604788",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604788"
+    },
+    {
+      "name_ko": "강릉 대공산성",
+      "name_en": "Gangneung Daegongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.736389,
+      "longitude": 128.758333,
+      "wikidata_id": "Q17986971",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17986971"
+    },
+    {
+      "name_ko": "강릉대공산성",
+      "name_en": "Gangneung Daegongsanseong Fortress",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.736855,
+      "longitude": 128.766778,
+      "wikidata_id": "Q122538707",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122538707"
+    },
+    {
+      "name_ko": "강진 전라병영성",
+      "name_en": "Gangjin Jeolla Barracks",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.715278,
+      "longitude": 126.816389,
+      "wikidata_id": "Q16093298",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093298"
+    },
+    {
+      "name_ko": "강진읍성",
+      "name_en": "Gangjineupseong",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.640682,
+      "longitude": 126.768491,
+      "wikidata_id": "Q18604794",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604794"
+    },
+    {
+      "name_ko": "강화 삼랑성",
+      "name_en": "Ganghwa Samrangseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.631667,
+      "longitude": 126.488611,
+      "wikidata_id": "Q16092181",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092181"
+    },
+    {
+      "name_ko": "강화 외성",
+      "name_en": "Ganghwa Outer Fortress",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.683611,
+      "longitude": 126.518889,
+      "wikidata_id": "Q16630683",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16630683"
+    },
+    {
+      "name_ko": "강화 전성",
+      "name_en": "Ganghwa Jeonseong",
+      "admin_area_ko": "강화군",
+      "admin_area_en": "Ganghwa County",
+      "latitude": 37.68201,
+      "longitude": 126.515447,
+      "wikidata_id": "Q122538709",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122538709"
+    },
+    {
+      "name_ko": "강화산성",
+      "name_en": "Ganghwa Sanseong",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.755556,
+      "longitude": 126.476944,
+      "wikidata_id": "Q16092191",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092191"
+    },
+    {
+      "name_ko": "강화중성",
+      "name_en": "Ganghwa Jungseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82325560",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325560"
+    },
+    {
+      "name_ko": "개운포성지",
+      "name_en": "Gaeunpo Castle Site",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.475833,
+      "longitude": 129.341944,
+      "wikidata_id": "Q22972729",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22972729"
+    },
+    {
+      "name_ko": "거류산성",
+      "name_en": "Georyu Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.003056,
+      "longitude": 128.376944,
+      "wikidata_id": "Q18604802",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604802"
+    },
+    {
+      "name_ko": "거물성",
+      "name_en": "Geomulseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124425235",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124425235"
+    },
+    {
+      "name_ko": "거열성",
+      "name_en": "Geoyeolseong Fortress",
+      "admin_area_ko": "거창군",
+      "admin_area_en": "Geochang County",
+      "latitude": 35.706389,
+      "longitude": 127.873611,
+      "wikidata_id": "Q22972736",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22972736"
+    },
+    {
+      "name_ko": "거제 고현성",
+      "name_en": "Geoje Gohyeonseong",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 34.880556,
+      "longitude": 128.619444,
+      "wikidata_id": "Q12584491",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584491"
+    },
+    {
+      "name_ko": "거제 다대산성",
+      "name_en": "Geoje Dadae Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.74,
+      "longitude": 128.621944,
+      "wikidata_id": "Q61091934",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61091934"
+    },
+    {
+      "name_ko": "거제 둔덕기성",
+      "name_en": "Dundeokgiseong Fortress, Geoje",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12593718",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12593718"
+    },
+    {
+      "name_ko": "검단산성",
+      "name_en": "Suncheon Geomdansanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.9125,
+      "longitude": 127.55,
+      "wikidata_id": "Q12583429",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583429"
+    },
+    {
+      "name_ko": "검산성",
+      "name_en": "Geomsanseong",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.640025,
+      "longitude": 129.064158,
+      "wikidata_id": "Q18013194",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013194"
+    },
+    {
+      "name_ko": "견두산성",
+      "name_en": "Gyeondusanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.392222,
+      "longitude": 127.459167,
+      "wikidata_id": "Q17716130",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17716130"
+    },
+    {
+      "name_ko": "견훤산성",
+      "name_en": "Gyeonhwonsanseong Fortress",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.575833,
+      "longitude": 127.898889,
+      "wikidata_id": "Q16298963",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16298963"
+    },
+    {
+      "name_ko": "경상좌도병영성",
+      "name_en": "Gyeongsangjwa-do Byeongyeongseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.576667,
+      "longitude": 129.343611,
+      "wikidata_id": "Q16092211",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092211"
+    },
+    {
+      "name_ko": "경주 남산신성",
+      "name_en": "Namsansinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.816944,
+      "longitude": 129.228611,
+      "wikidata_id": "Q15397800",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15397800"
+    },
+    {
+      "name_ko": "경주 명활성",
+      "name_en": "Myeonghwalseong Fortress",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.835556,
+      "longitude": 129.255278,
+      "wikidata_id": "Q16092219",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092219"
+    },
+    {
+      "name_ko": "경주 부산성",
+      "name_en": "Gyeongju Busanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.846944,
+      "longitude": 129.054444,
+      "wikidata_id": "Q16092221",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092221"
+    },
+    {
+      "name_ko": "경주 월성",
+      "name_en": "Banwolseong",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.831314,
+      "longitude": 129.223337,
+      "wikidata_id": "Q471292",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q471292"
+    },
+    {
+      "name_ko": "경주읍성",
+      "name_en": "Gyeongju Eupseong",
+      "admin_area_ko": "중부동",
+      "admin_area_en": "Jungbu-dong",
+      "latitude": 35.846389,
+      "longitude": 129.213611,
+      "wikidata_id": "Q16092231",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092231"
+    },
+    {
+      "name_ko": "계룡돈대",
+      "name_en": "Gyeryong Dondae",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.724167,
+      "longitude": 126.354167,
+      "wikidata_id": "Q18604817",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604817"
+    },
+    {
+      "name_ko": "계양산성",
+      "name_en": "Gyeyangsanseong Fortress",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.551389,
+      "longitude": 126.718889,
+      "wikidata_id": "Q16725534",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16725534"
+    },
+    {
+      "name_ko": "계족산성",
+      "name_en": "Daejeon Gyejoksanseong Fortress",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.394722,
+      "longitude": 127.451111,
+      "wikidata_id": "Q12584031",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584031"
+    },
+    {
+      "name_ko": "계현산성",
+      "name_en": "Gyehyeonsanseong Fortress",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.256944,
+      "longitude": 127.483333,
+      "wikidata_id": "Q17986979",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17986979"
+    },
+    {
+      "name_ko": "고령 주산성",
+      "name_en": "Goryeong Jusanseong",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.729833,
+      "longitude": 128.253806,
+      "wikidata_id": "Q16092252",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092252"
+    },
+    {
+      "name_ko": "고리울토성",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12584198",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584198"
+    },
+    {
+      "name_ko": "고봉산성",
+      "name_en": "Gobongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.358611,
+      "longitude": 127.472778,
+      "wikidata_id": "Q17716134",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17716134"
+    },
+    {
+      "name_ko": "고성읍성",
+      "name_en": "Goseong-eupseong",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 34.973972,
+      "longitude": 128.320417,
+      "wikidata_id": "Q16092262",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092262"
+    },
+    {
+      "name_ko": "고이도 왕산성",
+      "name_en": "Goido Wangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.954167,
+      "longitude": 126.288056,
+      "wikidata_id": "Q55727432",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727432"
+    },
+    {
+      "name_ko": "고진도성",
+      "name_en": "Gojindoseong",
+      "admin_area_ko": "진도군",
+      "admin_area_en": "Jindo County",
+      "latitude": 34.49145,
+      "longitude": 126.321268,
+      "wikidata_id": "Q82326174",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326174"
+    },
+    {
+      "name_ko": "고창읍성",
+      "name_en": "Gochangeupseong",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.431111,
+      "longitude": 126.703611,
+      "wikidata_id": "Q12584448",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584448"
+    },
+    {
+      "name_ko": "고흥 남양리 산성",
+      "name_en": "Goheung Namyangri Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.732958,
+      "longitude": 127.335681,
+      "wikidata_id": "Q18531196",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531196"
+    },
+    {
+      "name_ko": "고흥 독치성",
+      "name_en": "Goheung Dokchiseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.567,
+      "longitude": 127.308167,
+      "wikidata_id": "Q22973654",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22973654"
+    },
+    {
+      "name_ko": "고흥 발포만호성",
+      "name_en": "Goheung Balpomanhoseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.484069,
+      "longitude": 127.336039,
+      "wikidata_id": "Q18116573",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18116573"
+    },
+    {
+      "name_ko": "고흥 백치성",
+      "name_en": "Goheung Baekchiseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.539722,
+      "longitude": 127.306111,
+      "wikidata_id": "Q24862046",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24862046"
+    },
+    {
+      "name_ko": "고흥 오치 음성",
+      "name_en": "Goheung Ochi Eumseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.521667,
+      "longitude": 127.298889,
+      "wikidata_id": "Q24862049",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24862049"
+    },
+    {
+      "name_ko": "고흥 절이도 목장성",
+      "name_en": "Goheung Jeoli Island Mokseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.4425,
+      "longitude": 127.161472,
+      "wikidata_id": "Q22974871",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974871"
+    },
+    {
+      "name_ko": "곡성 당동리 산성",
+      "name_en": "Gokseong Dangdong-ri Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.134444,
+      "longitude": 127.272222,
+      "wikidata_id": "Q18550227",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18550227"
+    },
+    {
+      "name_ko": "곤을동환해장성",
+      "name_en": "Goneul Donghwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.524444,
+      "longitude": 126.559722,
+      "wikidata_id": "Q18604833",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604833"
+    },
+    {
+      "name_ko": "공산성",
+      "name_en": "Gongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.461944,
+      "longitude": 127.127222,
+      "wikidata_id": "Q12584692",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584692"
+    },
+    {
+      "name_ko": "공주 옥녀봉성",
+      "name_en": "Princess Ongnyeobong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.459444,
+      "longitude": 127.135,
+      "wikidata_id": "Q19940550",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940550"
+    },
+    {
+      "name_ko": "관문성",
+      "name_en": "Gwanmunseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.67,
+      "longitude": 129.334722,
+      "wikidata_id": "Q16094204",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094204"
+    },
+    {
+      "name_ko": "관산성",
+      "name_en": "Guanshanseongseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124380359",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124380359"
+    },
+    {
+      "name_ko": "광덕산성",
+      "name_en": "Gwangdeoksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.796667,
+      "longitude": 127.343889,
+      "wikidata_id": "Q55727568",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727568"
+    },
+    {
+      "name_ko": "광양 마로산성",
+      "name_en": "Gwangyang Marosanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.966717,
+      "longitude": 127.616528,
+      "wikidata_id": "Q17503481",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17503481"
+    },
+    {
+      "name_ko": "광주읍성 유허",
+      "name_en": "Gwangju Castle",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.146944,
+      "longitude": 126.919722,
+      "wikidata_id": "Q12585162",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585162"
+    },
+    {
+      "name_ko": "광희문",
+      "name_en": "Gwanghuimun",
+      "admin_area_ko": "광희동",
+      "admin_area_en": "Gwanghui-dong",
+      "latitude": 37.564375,
+      "longitude": 127.010075,
+      "wikidata_id": "Q5623299",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5623299"
+    },
+    {
+      "name_ko": "괴곡성",
+      "name_en": "Goegokseong Fortress",
+      "admin_area_ko": "제천시",
+      "admin_area_en": "Jecheon",
+      "latitude": 36.9399,
+      "longitude": 128.203633,
+      "wikidata_id": "Q16261089",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16261089"
+    },
+    {
+      "name_ko": "괴산 미륵산성",
+      "name_en": "Mireuk Sanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.643333,
+      "longitude": 127.818333,
+      "wikidata_id": "Q17189434",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17189434"
+    },
+    {
+      "name_ko": "구 대전형무소 망루",
+      "name_en": "Daejeon Prison Watchtower",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.336667,
+      "longitude": 127.410556,
+      "wikidata_id": "Q12585323",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585323"
+    },
+    {
+      "name_ko": "구라산성",
+      "name_en": "Gurasanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.701111,
+      "longitude": 127.612778,
+      "wikidata_id": "Q55727668",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727668"
+    },
+    {
+      "name_ko": "구례 석주관성",
+      "name_en": "Gurye Seokjugwanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.197222,
+      "longitude": 127.565833,
+      "wikidata_id": "Q16093548",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093548"
+    },
+    {
+      "name_ko": "구산성지",
+      "name_en": "",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.151667,
+      "longitude": 128.716111,
+      "wikidata_id": "Q18013229",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013229"
+    },
+    {
+      "name_ko": "구성동산성",
+      "name_en": "Guseong Dongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.374167,
+      "longitude": 127.373889,
+      "wikidata_id": "Q15985333",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15985333"
+    },
+    {
+      "name_ko": "구영등성",
+      "name_en": "Guyeongdeungseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.028611,
+      "longitude": 128.697222,
+      "wikidata_id": "Q19939413",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939413"
+    },
+    {
+      "name_ko": "구율포성",
+      "name_en": "Guyulposeong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.969167,
+      "longitude": 128.687222,
+      "wikidata_id": "Q19939414",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939414"
+    },
+    {
+      "name_ko": "구조라성",
+      "name_en": "Gujora Castle",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.801583,
+      "longitude": 128.694694,
+      "wikidata_id": "Q19939415",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939415"
+    },
+    {
+      "name_ko": "구포왜성",
+      "name_en": "Gupo Waeseong",
+      "admin_area_ko": "덕천동",
+      "admin_area_en": "Deokcheon-dong",
+      "latitude": 35.216667,
+      "longitude": 129.006944,
+      "wikidata_id": "Q11370972",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11370972"
+    },
+    {
+      "name_ko": "국사봉산성",
+      "name_en": "Guksabongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.789167,
+      "longitude": 127.396389,
+      "wikidata_id": "Q55736668",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736668"
+    },
+    {
+      "name_ko": "권금성",
+      "name_en": "Gwongeumseong",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.163056,
+      "longitude": 128.485,
+      "wikidata_id": "Q18604884",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604884"
+    },
+    {
+      "name_ko": "금강산성",
+      "name_en": "Geumgangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.849722,
+      "longitude": 128.641667,
+      "wikidata_id": "Q18604891",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604891"
+    },
+    {
+      "name_ko": "금구산성",
+      "name_en": "Geumgu Fortress",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.767669,
+      "longitude": 127.027608,
+      "wikidata_id": "Q18013251",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013251"
+    },
+    {
+      "name_ko": "금돌성",
+      "name_en": "Geumdolseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.294167,
+      "longitude": 127.938333,
+      "wikidata_id": "Q18604894",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604894"
+    },
+    {
+      "name_ko": "금마도토성",
+      "name_en": "Geummadotoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.997222,
+      "longitude": 127.048778,
+      "wikidata_id": "Q19939463",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939463"
+    },
+    {
+      "name_ko": "금사동토성",
+      "name_en": "",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.633944,
+      "longitude": 126.790861,
+      "wikidata_id": "Q19939465",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939465"
+    },
+    {
+      "name_ko": "금산 백령성",
+      "name_en": "Geumsan Baengnyeongseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.063222,
+      "longitude": 127.390278,
+      "wikidata_id": "Q19939965",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939965"
+    },
+    {
+      "name_ko": "금오산성",
+      "name_en": "Gumi Geumosanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.105833,
+      "longitude": 128.303611,
+      "wikidata_id": "Q18604900",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604900"
+    },
+    {
+      "name_ko": "금오산성",
+      "name_en": "Chilgok Geumosanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.087717,
+      "longitude": 128.296278,
+      "wikidata_id": "Q18604901",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604901"
+    },
+    {
+      "name_ko": "금이성",
+      "name_en": "Geumiseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.6325,
+      "longitude": 127.204444,
+      "wikidata_id": "Q12586546",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12586546"
+    },
+    {
+      "name_ko": "금정산성",
+      "name_en": "Geumjeongsanseong",
+      "admin_area_ko": "금정구",
+      "admin_area_en": "Geumjeong District",
+      "latitude": 35.283056,
+      "longitude": 129.055556,
+      "wikidata_id": "Q5554858",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554858"
+    },
+    {
+      "name_ko": "기장 죽성리왜성",
+      "name_en": "Gijang Japanese Castle",
+      "admin_area_ko": "기장읍",
+      "admin_area_en": "Gijang",
+      "latitude": 35.242,
+      "longitude": 129.241639,
+      "wikidata_id": "Q3913123",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3913123"
+    },
+    {
+      "name_ko": "기장산성",
+      "name_en": "Gijangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.241417,
+      "longitude": 129.193667,
+      "wikidata_id": "Q16094664",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094664"
+    },
+    {
+      "name_ko": "기장읍성",
+      "name_en": "Gijang eupseong",
+      "admin_area_ko": "기장군",
+      "admin_area_en": "Gijang County",
+      "latitude": 35.245667,
+      "longitude": 129.213472,
+      "wikidata_id": "Q18604907",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604907"
+    },
+    {
+      "name_ko": "김포 문수산성",
+      "name_en": "Gimpo Munsusanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.714444,
+      "longitude": 126.533611,
+      "wikidata_id": "Q16092503",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092503"
+    },
+    {
+      "name_ko": "김포 수안산성",
+      "name_en": "Gimpo Suansanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.638056,
+      "longitude": 126.589167,
+      "wikidata_id": "Q16092505",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092505"
+    },
+    {
+      "name_ko": "김해 분산성",
+      "name_en": "Gimhae Bansanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.244722,
+      "longitude": 128.892222,
+      "wikidata_id": "Q16092512",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092512"
+    },
+    {
+      "name_ko": "김해 죽도왜성",
+      "name_en": "Gimhae Jukdo Waeseong",
+      "admin_area_ko": "가락동",
+      "admin_area_en": "Garak-dong",
+      "latitude": 35.195,
+      "longitude": 128.899167,
+      "wikidata_id": "Q18444054",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444054"
+    },
+    {
+      "name_ko": "나주 회진성",
+      "name_en": "Naju Hoejinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.001944,
+      "longitude": 126.669167,
+      "wikidata_id": "Q16092546",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092546"
+    },
+    {
+      "name_ko": "낙안읍성",
+      "name_en": "Naganeupseong Castle",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q137555661",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137555661"
+    },
+    {
+      "name_ko": "낙안읍성",
+      "name_en": "Naganeupseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.906111,
+      "longitude": 127.335833,
+      "wikidata_id": "Q6958428",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6958428"
+    },
+    {
+      "name_ko": "남목마성",
+      "name_en": "Nammokmaseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.543611,
+      "longitude": 129.441389,
+      "wikidata_id": "Q18141458",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18141458"
+    },
+    {
+      "name_ko": "남미질부성",
+      "name_en": "Nammijilbuseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.105278,
+      "longitude": 129.351667,
+      "wikidata_id": "Q20780466",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20780466"
+    },
+    {
+      "name_ko": "남소문",
+      "name_en": "Namsomun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19939603",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939603"
+    },
+    {
+      "name_ko": "남원 교룡산성",
+      "name_en": "Namwon Gyoryongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.429725,
+      "longitude": 127.361958,
+      "wikidata_id": "Q16092325",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092325"
+    },
+    {
+      "name_ko": "남원읍성",
+      "name_en": "Namwon-eupseong Fortress",
+      "admin_area_ko": "동충동",
+      "admin_area_en": "Dongchung-dong",
+      "latitude": 35.412944,
+      "longitude": 127.3845,
+      "wikidata_id": "Q12589976",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12589976"
+    },
+    {
+      "name_ko": "남이 복두산성",
+      "name_en": "Bokdusanseong Fortress in Nami",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.541389,
+      "longitude": 127.383056,
+      "wikidata_id": "Q55728686",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728686"
+    },
+    {
+      "name_ko": "남포읍성",
+      "name_en": "Nampo Eupseong",
+      "admin_area_ko": "남구",
+      "admin_area_en": "Nam District",
+      "latitude": 36.305278,
+      "longitude": 126.608889,
+      "wikidata_id": "Q18604978",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604978"
+    },
+    {
+      "name_ko": "남한산성",
+      "name_en": "Namhansanseong",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.478028,
+      "longitude": 127.184194,
+      "wikidata_id": "Q562529",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q562529"
+    },
+    {
+      "name_ko": "남해 금오산성",
+      "name_en": "Namhae Geumosanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.898889,
+      "longitude": 128.007778,
+      "wikidata_id": "Q18604979",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18604979"
+    },
+    {
+      "name_ko": "남해 선소왜성",
+      "name_en": "Namhae Japanese Castle",
+      "admin_area_ko": "남해읍",
+      "admin_area_en": "Namhae-eup",
+      "latitude": 34.848639,
+      "longitude": 127.911278,
+      "wikidata_id": "Q6961695",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6961695"
+    },
+    {
+      "name_ko": "남해장성",
+      "name_en": "Namhae Great Wall",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.773333,
+      "longitude": 127.958611,
+      "wikidata_id": "Q55728713",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728713"
+    },
+    {
+      "name_ko": "낭비성",
+      "name_en": "Napseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.748333,
+      "longitude": 127.581111,
+      "wikidata_id": "Q55736808",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736808"
+    },
+    {
+      "name_ko": "낭성산성",
+      "name_en": "Nangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.614167,
+      "longitude": 127.660833,
+      "wikidata_id": "Q55728717",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728717"
+    },
+    {
+      "name_ko": "노고봉산성과 애기바위산성",
+      "name_en": "Nogobongsanseong Fortress and Aegibawisanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82325997",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325997"
+    },
+    {
+      "name_ko": "노고성",
+      "name_en": "No Goseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.733889,
+      "longitude": 127.573611,
+      "wikidata_id": "Q55728765",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728765"
+    },
+    {
+      "name_ko": "노성산성",
+      "name_en": "Nonsan Noseongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.295556,
+      "longitude": 127.123611,
+      "wikidata_id": "Q12590385",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12590385"
+    },
+    {
+      "name_ko": "논산 황산성",
+      "name_en": "Nonsan Hwangsan Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.228333,
+      "longitude": 127.202222,
+      "wikidata_id": "Q19941541",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941541"
+    },
+    {
+      "name_ko": "논산 황화산성",
+      "name_en": "Nonsan Hwanghwasanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.188056,
+      "longitude": 127.076111,
+      "wikidata_id": "Q18052678",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18052678"
+    },
+    {
+      "name_ko": "논현포대",
+      "name_en": "Nonhyeon Battery",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.403333,
+      "longitude": 126.704722,
+      "wikidata_id": "Q55728808",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728808"
+    },
+    {
+      "name_ko": "능성",
+      "name_en": "Neungseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.350556,
+      "longitude": 127.460556,
+      "wikidata_id": "Q17716252",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17716252"
+    },
+    {
+      "name_ko": "다대포성지",
+      "name_en": "",
+      "admin_area_ko": "사하구",
+      "admin_area_en": "Saha District",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q97232587",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97232587"
+    },
+    {
+      "name_ko": "단양 온달산성",
+      "name_en": "Ondal Sanseong",
+      "admin_area_ko": "단양군",
+      "admin_area_en": "Danyang County",
+      "latitude": 37.057646,
+      "longitude": 128.484985,
+      "wikidata_id": "Q28698225",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28698225"
+    },
+    {
+      "name_ko": "단양 적성",
+      "name_en": "Jeokseongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.9448,
+      "longitude": 128.321225,
+      "wikidata_id": "Q16094708",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094708"
+    },
+    {
+      "name_ko": "담양 금성산성",
+      "name_en": "Damyang Geumseongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.382222,
+      "longitude": 127.034444,
+      "wikidata_id": "Q16092456",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092456"
+    },
+    {
+      "name_ko": "당진 성상리 산성",
+      "name_en": "Dangjin Seongsang-ri Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.816364,
+      "longitude": 126.677375,
+      "wikidata_id": "Q18550438",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18550438"
+    },
+    {
+      "name_ko": "당진면천읍성",
+      "name_en": "Dangjin Miancheon Fortress",
+      "admin_area_ko": "당진시",
+      "admin_area_en": "Dangjin",
+      "latitude": 36.816293,
+      "longitude": 126.665768,
+      "wikidata_id": "Q18605103",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605103"
+    },
+    {
+      "name_ko": "당진포진성",
+      "name_en": "Dangjinpojinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.9675,
+      "longitude": 126.565833,
+      "wikidata_id": "Q19939679",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939679"
+    },
+    {
+      "name_ko": "대구 달성",
+      "name_en": "Dalseong Fortress",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 35.873611,
+      "longitude": 128.576944,
+      "wikidata_id": "Q16094711",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094711"
+    },
+    {
+      "name_ko": "대국산성",
+      "name_en": "Daeguksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.900556,
+      "longitude": 127.895,
+      "wikidata_id": "Q17987294",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17987294"
+    },
+    {
+      "name_ko": "대덕산성",
+      "name_en": "Daedeoksanseong Fortress",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.819167,
+      "longitude": 128.571667,
+      "wikidata_id": "Q17686172",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17686172"
+    },
+    {
+      "name_ko": "대모산성",
+      "name_en": "Yangju Daemosanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.786389,
+      "longitude": 127.011389,
+      "wikidata_id": "Q16092721",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092721"
+    },
+    {
+      "name_ko": "도살성",
+      "name_en": "Dosalseong fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.85665,
+      "longitude": 128.31045,
+      "wikidata_id": "Q16261372",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16261372"
+    },
+    {
+      "name_ko": "도원산성",
+      "name_en": "Dowonsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.779167,
+      "longitude": 127.326944,
+      "wikidata_id": "Q55729202",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729202"
+    },
+    {
+      "name_ko": "독산성",
+      "name_en": "Doksanseong",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.183611,
+      "longitude": 127.019444,
+      "wikidata_id": "Q16094724",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094724"
+    },
+    {
+      "name_ko": "독안산성",
+      "name_en": "Dogansanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.538611,
+      "longitude": 127.401389,
+      "wikidata_id": "Q55729222",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729222"
+    },
+    {
+      "name_ko": "독용산성",
+      "name_en": "Dokyongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.900875,
+      "longitude": 128.10425,
+      "wikidata_id": "Q18176040",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18176040"
+    },
+    {
+      "name_ko": "돈의문",
+      "name_en": "Donuimun",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.568244,
+      "longitude": 126.968975,
+      "wikidata_id": "Q483836",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483836"
+    },
+    {
+      "name_ko": "동고산성",
+      "name_en": "Donggosanseong",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.809972,
+      "longitude": 127.173361,
+      "wikidata_id": "Q18013337",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013337"
+    },
+    {
+      "name_ko": "동래읍성지",
+      "name_en": "Dongnaeeupseong Fortress",
+      "admin_area_ko": "동래구",
+      "admin_area_en": "Dongnae District",
+      "latitude": 35.2098,
+      "longitude": 129.092,
+      "wikidata_id": "Q4120663",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4120663"
+    },
+    {
+      "name_ko": "동림산성",
+      "name_en": "Donglimsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.685,
+      "longitude": 127.3025,
+      "wikidata_id": "Q24000030",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000030"
+    },
+    {
+      "name_ko": "동복환해장성",
+      "name_en": "Dongbokhwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.556056,
+      "longitude": 126.718889,
+      "wikidata_id": "Q24000536",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000536"
+    },
+    {
+      "name_ko": "두률성",
+      "name_en": "Duryulseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.406389,
+      "longitude": 126.888333,
+      "wikidata_id": "Q55729304",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729304"
+    },
+    {
+      "name_ko": "두릉산성",
+      "name_en": "Dureungsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.415228,
+      "longitude": 126.977019,
+      "wikidata_id": "Q18605088",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605088"
+    },
+    {
+      "name_ko": "두승산성",
+      "name_en": "Duseungsanseong",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18013347",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013347"
+    },
+    {
+      "name_ko": "마산동산성",
+      "name_en": "Masan Dongsanseong Fortress",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.396944,
+      "longitude": 127.4975,
+      "wikidata_id": "Q18000005",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18000005"
+    },
+    {
+      "name_ko": "마산일본성",
+      "name_en": "Masan Japanese Fortress",
+      "admin_area_ko": "산호동",
+      "admin_area_en": "Sanho-dong",
+      "latitude": 35.21383,
+      "longitude": 128.58316,
+      "wikidata_id": "Q18492946",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18492946"
+    },
+    {
+      "name_ko": "마현산성",
+      "name_en": "Gimhae Mahyeonsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.336667,
+      "longitude": 128.852222,
+      "wikidata_id": "Q18230145",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230145"
+    },
+    {
+      "name_ko": "망경산성",
+      "name_en": "Manggyeong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.6925,
+      "longitude": 127.278611,
+      "wikidata_id": "Q55729602",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729602"
+    },
+    {
+      "name_ko": "망이산성",
+      "name_en": "Mangisanseong",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 37.055833,
+      "longitude": 127.483333,
+      "wikidata_id": "Q18230154",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230154"
+    },
+    {
+      "name_ko": "목령산성",
+      "name_en": "Mokryeong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.735,
+      "longitude": 127.435556,
+      "wikidata_id": "Q55729712",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729712"
+    },
+    {
+      "name_ko": "몽촌토성",
+      "name_en": "Mongchontoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.520736,
+      "longitude": 127.118789,
+      "wikidata_id": "Q6899474",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6899474"
+    },
+    {
+      "name_ko": "무성산성 (경기도)",
+      "name_en": "Pyeongtaek Museongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.028983,
+      "longitude": 126.923533,
+      "wikidata_id": "Q12595555",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595555"
+    },
+    {
+      "name_ko": "무장읍성",
+      "name_en": "Mujangeupseong",
+      "admin_area_ko": "고창군",
+      "admin_area_en": "Gochang County",
+      "latitude": 35.418856,
+      "longitude": 126.553304,
+      "wikidata_id": "Q12595609",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595609"
+    },
+    {
+      "name_ko": "무주 적상산성",
+      "name_en": "Muju Jeoksangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.945278,
+      "longitude": 127.685917,
+      "wikidata_id": "Q16094497",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094497"
+    },
+    {
+      "name_ko": "무한성",
+      "name_en": "Anseong Muyangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.036944,
+      "longitude": 127.17,
+      "wikidata_id": "Q21058020",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21058020"
+    },
+    {
+      "name_ko": "문의 장군봉산성",
+      "name_en": "Munmun's Janggunbongsanseong Fortress",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.4575,
+      "longitude": 127.493333,
+      "wikidata_id": "Q55729809",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729809"
+    },
+    {
+      "name_ko": "문학산성",
+      "name_en": "Munhaksan Fortress",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.429444,
+      "longitude": 126.681111,
+      "wikidata_id": "Q16766899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16766899"
+    },
+    {
+      "name_ko": "물금 증산리 왜성",
+      "name_en": "Yangsan Jeungsan-ri Waeseong",
+      "admin_area_ko": "물금읍",
+      "admin_area_en": "Mulgeum",
+      "latitude": 35.311667,
+      "longitude": 128.988889,
+      "wikidata_id": "Q18381061",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18381061"
+    },
+    {
+      "name_ko": "밀양읍성",
+      "name_en": "Miryang Eupseong",
+      "admin_area_ko": "밀양시",
+      "admin_area_en": "Miryang",
+      "latitude": 35.492222,
+      "longitude": 128.756667,
+      "wikidata_id": "Q18605130",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605130"
+    },
+    {
+      "name_ko": "방어진산성",
+      "name_en": "Bangeojinsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.512778,
+      "longitude": 129.42,
+      "wikidata_id": "Q82326042",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326042"
+    },
+    {
+      "name_ko": "배방산성",
+      "name_en": "Baebangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.758056,
+      "longitude": 127.044722,
+      "wikidata_id": "Q18013378",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013378"
+    },
+    {
+      "name_ko": "백골산성",
+      "name_en": "Baekgolsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.368889,
+      "longitude": 127.505556,
+      "wikidata_id": "Q17987935",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17987935"
+    },
+    {
+      "name_ko": "백산성",
+      "name_en": "Baeksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.719167,
+      "longitude": 126.808056,
+      "wikidata_id": "Q12597787",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12597787"
+    },
+    {
+      "name_ko": "별도환해장성",
+      "name_en": "Byeoldwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.526667,
+      "longitude": 126.568611,
+      "wikidata_id": "Q18605170",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605170"
+    },
+    {
+      "name_ko": "별방진",
+      "name_en": "",
+      "admin_area_ko": "제주특별자치도",
+      "admin_area_en": "Jeju Province",
+      "latitude": 33.526389,
+      "longitude": 126.883611,
+      "wikidata_id": "Q24000545",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000545"
+    },
+    {
+      "name_ko": "병마산성",
+      "name_en": "Byeongma Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.636944,
+      "longitude": 127.293611,
+      "wikidata_id": "Q55730346",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730346"
+    },
+    {
+      "name_ko": "보령 충청수영성",
+      "name_en": "Boryeong Chungcheong Suyeongseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.439389,
+      "longitude": 126.523028,
+      "wikidata_id": "Q16095845",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095845"
+    },
+    {
+      "name_ko": "보문산성",
+      "name_en": "Bomunsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.310556,
+      "longitude": 127.421667,
+      "wikidata_id": "Q17716497",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17716497"
+    },
+    {
+      "name_ko": "보은 삼년산성",
+      "name_en": "Samnyeonsanseong",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.487222,
+      "longitude": 127.740833,
+      "wikidata_id": "Q4406617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4406617"
+    },
+    {
+      "name_ko": "복두산성",
+      "name_en": "Bokdusanseong Fortress",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": 36.529192,
+      "longitude": 127.380693,
+      "wikidata_id": "Q82325989",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325989"
+    },
+    {
+      "name_ko": "봉무토성",
+      "name_en": "Bongmu Toseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.644167,
+      "longitude": 126.789722,
+      "wikidata_id": "Q20948041",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20948041"
+    },
+    {
+      "name_ko": "봉배산토성",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12598591",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598591"
+    },
+    {
+      "name_ko": "부강 남성골산성",
+      "name_en": "Bugang Namseonggolsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.531389,
+      "longitude": 127.376111,
+      "wikidata_id": "Q16093252",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093252"
+    },
+    {
+      "name_ko": "부산일본성",
+      "name_en": "Busan Castle",
+      "admin_area_ko": "범일동",
+      "admin_area_en": "Beomil-dong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18444239",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444239"
+    },
+    {
+      "name_ko": "부산진성",
+      "name_en": "Busanjinseong",
+      "admin_area_ko": "범일동",
+      "admin_area_en": "Beomil-dong",
+      "latitude": 35.135917,
+      "longitude": 129.061167,
+      "wikidata_id": "Q5001277",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5001277"
+    },
+    {
+      "name_ko": "부여 가림성",
+      "name_en": "Garimseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.195556,
+      "longitude": 126.898333,
+      "wikidata_id": "Q12598925",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598925"
+    },
+    {
+      "name_ko": "부여 나성",
+      "name_en": "Buyeo Naseong",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.277778,
+      "longitude": 126.94,
+      "wikidata_id": "Q16092526",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092526"
+    },
+    {
+      "name_ko": "부여 석성산성",
+      "name_en": "Buyeo Seokseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.243611,
+      "longitude": 126.978611,
+      "wikidata_id": "Q12598931",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598931"
+    },
+    {
+      "name_ko": "부여 증산성",
+      "name_en": "Jeungsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.321944,
+      "longitude": 126.864167,
+      "wikidata_id": "Q16093290",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093290"
+    },
+    {
+      "name_ko": "부여 청마산성",
+      "name_en": "Ch'ŏngmasansŏng",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.279167,
+      "longitude": 126.971944,
+      "wikidata_id": "Q16093292",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093292"
+    },
+    {
+      "name_ko": "부여 청산성",
+      "name_en": "Buyeo Cheongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.294722,
+      "longitude": 126.928889,
+      "wikidata_id": "Q16095458",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095458"
+    },
+    {
+      "name_ko": "북촌환해장성",
+      "name_en": "Bukchon Hwanhaejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.5525,
+      "longitude": 126.701111,
+      "wikidata_id": "Q18605191",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605191"
+    },
+    {
+      "name_ko": "북한산성",
+      "name_en": "Bukhansanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.645101,
+      "longitude": 126.984452,
+      "wikidata_id": "Q496394",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q496394"
+    },
+    {
+      "name_ko": "분오리돈대",
+      "name_en": "Bunori Dondae",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.590556,
+      "longitude": 126.458056,
+      "wikidata_id": "Q20948342",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20948342"
+    },
+    {
+      "name_ko": "불암산성 (서울)",
+      "name_en": "Bulamsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12599249",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599249"
+    },
+    {
+      "name_ko": "불암산성 (전라남도)",
+      "name_en": "Gwangyang Bulamsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.038333,
+      "longitude": 127.716667,
+      "wikidata_id": "Q12599251",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599251"
+    },
+    {
+      "name_ko": "비금 성치산성",
+      "name_en": "Bigeum Seongchisanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.79,
+      "longitude": 125.989722,
+      "wikidata_id": "Q55730532",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730532"
+    },
+    {
+      "name_ko": "비옥산성",
+      "name_en": "Bioksanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.424167,
+      "longitude": 129.290833,
+      "wikidata_id": "Q18605195",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605195"
+    },
+    {
+      "name_ko": "비인읍성",
+      "name_en": "Biin-eupseong",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.139444,
+      "longitude": 126.6025,
+      "wikidata_id": "Q18605196",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605196"
+    },
+    {
+      "name_ko": "비파산성",
+      "name_en": "Daejeon Bipasanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.270833,
+      "longitude": 127.448889,
+      "wikidata_id": "Q17988282",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17988282"
+    },
+    {
+      "name_ko": "비홍산성",
+      "name_en": "Bihongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.3975,
+      "longitude": 127.266667,
+      "wikidata_id": "Q17189468",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17189468"
+    },
+    {
+      "name_ko": "사근산성",
+      "name_en": "Hamyang Sageun Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.547222,
+      "longitude": 127.785,
+      "wikidata_id": "Q12599605",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599605"
+    },
+    {
+      "name_ko": "사대문",
+      "name_en": "Four Great Gates",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61098331",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61098331"
+    },
+    {
+      "name_ko": "사정성",
+      "name_en": "Sajeongseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.290278,
+      "longitude": 127.384722,
+      "wikidata_id": "Q17988311",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17988311"
+    },
+    {
+      "name_ko": "사천 성황당산성",
+      "name_en": "Sacheon Seonghwangdangsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.057778,
+      "longitude": 128.098889,
+      "wikidata_id": "Q18230270",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230270"
+    },
+    {
+      "name_ko": "사천선진리성",
+      "name_en": "Sacheon Seonjinriseong",
+      "admin_area_ko": "용현면",
+      "admin_area_en": "Yonghyeon-myeon",
+      "latitude": 35.041389,
+      "longitude": 128.047778,
+      "wikidata_id": "Q12599874",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599874"
+    },
+    {
+      "name_ko": "사천읍성",
+      "name_en": "Sacheoneupseong",
+      "admin_area_ko": "사천시",
+      "admin_area_en": "Sacheon",
+      "latitude": 35.084167,
+      "longitude": 128.093333,
+      "wikidata_id": "Q16093404",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093404"
+    },
+    {
+      "name_ko": "삼암돈대",
+      "name_en": "Samam Dondae",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.704167,
+      "longitude": 126.359444,
+      "wikidata_id": "Q20948606",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20948606"
+    },
+    {
+      "name_ko": "삼양환해장성",
+      "name_en": "Samyanghwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.5275,
+      "longitude": 126.575833,
+      "wikidata_id": "Q18605219",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605219"
+    },
+    {
+      "name_ko": "삼정동산성",
+      "name_en": "Samjeong Dongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.322222,
+      "longitude": 127.467778,
+      "wikidata_id": "Q17988545",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17988545"
+    },
+    {
+      "name_ko": "상당산성",
+      "name_en": "Sangdang Sanseong",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.659242,
+      "longitude": 127.540297,
+      "wikidata_id": "Q11249489",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11249489"
+    },
+    {
+      "name_ko": "상주 금흔리 이부곡토성",
+      "name_en": "Sangju Geumheun-ri Ibugoktoseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.448333,
+      "longitude": 128.208889,
+      "wikidata_id": "Q55730727",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730727"
+    },
+    {
+      "name_ko": "서산 해미읍성 회화나무",
+      "name_en": "Seosan Haemieupseong Pagoda Tree",
+      "admin_area_ko": "서구",
+      "admin_area_en": "Seo District",
+      "latitude": 36.712778,
+      "longitude": 126.548611,
+      "wikidata_id": "Q21825427",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21825427"
+    },
+    {
+      "name_ko": "서산산성",
+      "name_en": "Seosan Fortress",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.448722,
+      "longitude": 126.640722,
+      "wikidata_id": "Q17189473",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17189473"
+    },
+    {
+      "name_ko": "서생포 만호진성",
+      "name_en": "Seosaengpo Manhojin Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.391111,
+      "longitude": 129.330278,
+      "wikidata_id": "Q61090761",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61090761"
+    },
+    {
+      "name_ko": "서생포왜성",
+      "name_en": "Seosaengpo Castle",
+      "admin_area_ko": "서생면",
+      "admin_area_en": "Seosaeng-myeon",
+      "latitude": 35.383453,
+      "longitude": 129.334058,
+      "wikidata_id": "Q11250244",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11250244"
+    },
+    {
+      "name_ko": "서운산성",
+      "name_en": "Seounsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.927222,
+      "longitude": 127.284444,
+      "wikidata_id": "Q18013416",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013416"
+    },
+    {
+      "name_ko": "서울 호암산성",
+      "name_en": "Seoul Hoamsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.446389,
+      "longitude": 126.914444,
+      "wikidata_id": "Q12625259",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12625259"
+    },
+    {
+      "name_ko": "서울의 성문",
+      "name_en": "The Eight Gates of Seoul",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q7731656",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7731656"
+    },
+    {
+      "name_ko": "서천 건지산성",
+      "name_en": "Seocheon Geonji Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.086139,
+      "longitude": 126.799803,
+      "wikidata_id": "Q16092200",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092200"
+    },
+    {
+      "name_ko": "서천 남산성",
+      "name_en": "Seocheon Namsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.065911,
+      "longitude": 126.683589,
+      "wikidata_id": "Q18116604",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18116604"
+    },
+    {
+      "name_ko": "서천 장암진성",
+      "name_en": "Seocheon Jangamjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.013083,
+      "longitude": 126.674444,
+      "wikidata_id": "Q19940136",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940136"
+    },
+    {
+      "name_ko": "서천읍성",
+      "name_en": "Seocheon-eupseong",
+      "admin_area_ko": "서구",
+      "admin_area_en": "Seo District",
+      "latitude": 36.080556,
+      "longitude": 126.693611,
+      "wikidata_id": "Q18605391",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605391"
+    },
+    {
+      "name_ko": "석현성",
+      "name_en": "Seok Hyeon-seong",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61099934",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61099934"
+    },
+    {
+      "name_ko": "설봉산성",
+      "name_en": "Icheon Seolbongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.288333,
+      "longitude": 127.419722,
+      "wikidata_id": "Q17503649",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17503649"
+    },
+    {
+      "name_ko": "성기성",
+      "name_en": "Geochang Seonggiseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16093596",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093596"
+    },
+    {
+      "name_ko": "성뫼산성",
+      "name_en": "Seongmoesanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.786389,
+      "longitude": 127.426389,
+      "wikidata_id": "Q82327712",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327712"
+    },
+    {
+      "name_ko": "성미산성",
+      "name_en": "Sungmisanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.683333,
+      "longitude": 127.283889,
+      "wikidata_id": "Q18176059",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18176059"
+    },
+    {
+      "name_ko": "성북동산성",
+      "name_en": "Seongbuk-dongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.305278,
+      "longitude": 127.303333,
+      "wikidata_id": "Q17989147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17989147"
+    },
+    {
+      "name_ko": "성산산성",
+      "name_en": "Seongsansanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.526944,
+      "longitude": 128.373889,
+      "wikidata_id": "Q18648305",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648305"
+    },
+    {
+      "name_ko": "성재산성",
+      "name_en": "Seongjaesanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82325986",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325986"
+    },
+    {
+      "name_ko": "성주 성산성",
+      "name_en": "Seongju Seongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.903889,
+      "longitude": 128.329167,
+      "wikidata_id": "Q19794753",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794753"
+    },
+    {
+      "name_ko": "성치산성",
+      "name_en": "Seongchisanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.432333,
+      "longitude": 127.482528,
+      "wikidata_id": "Q17999998",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17999998"
+    },
+    {
+      "name_ko": "세도 토성산성",
+      "name_en": "Sedo Toseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.204167,
+      "longitude": 126.951389,
+      "wikidata_id": "Q55731044",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731044"
+    },
+    {
+      "name_ko": "세종 성산성",
+      "name_en": "Sejong Seongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.515556,
+      "longitude": 127.374722,
+      "wikidata_id": "Q82325980",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325980"
+    },
+    {
+      "name_ko": "세종 테뫼산성",
+      "name_en": "Sejong Temo Fortress",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82325982",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325982"
+    },
+    {
+      "name_ko": "소문산성",
+      "name_en": "Somunsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.481667,
+      "longitude": 127.365556,
+      "wikidata_id": "Q17989269",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17989269"
+    },
+    {
+      "name_ko": "소의문",
+      "name_en": "Souimun",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 37.562439,
+      "longitude": 126.972008,
+      "wikidata_id": "Q7564124",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7564124"
+    },
+    {
+      "name_ko": "송진포왜성",
+      "name_en": "",
+      "admin_area_ko": "장목면",
+      "admin_area_en": "Jangmok-myeon",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q97233462",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97233462"
+    },
+    {
+      "name_ko": "수산진성",
+      "name_en": "Susanjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.447222,
+      "longitude": 126.885833,
+      "wikidata_id": "Q24000540",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000540"
+    },
+    {
+      "name_ko": "수석리토성",
+      "name_en": "Susukri Toseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.590833,
+      "longitude": 127.176111,
+      "wikidata_id": "Q16093704",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093704"
+    },
+    {
+      "name_ko": "수어장대",
+      "name_en": "Sueojangdae",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.479722,
+      "longitude": 127.176389,
+      "wikidata_id": "Q12603226",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603226"
+    },
+    {
+      "name_ko": "수영사적공원",
+      "name_en": "Fortress site of Gyeongsang Jwasuyeong",
+      "admin_area_ko": "수영구",
+      "admin_area_en": "Suyeong District",
+      "latitude": 35.170833,
+      "longitude": 129.113889,
+      "wikidata_id": "Q5472744",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5472744"
+    },
+    {
+      "name_ko": "수원 서북공심돈",
+      "name_en": "Suwon Northwest Gongsimdon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.286909,
+      "longitude": 126.993104,
+      "wikidata_id": "Q16093710",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093710"
+    },
+    {
+      "name_ko": "수원 화성",
+      "name_en": "Hwaseong Fortress",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.280733,
+      "longitude": 127.010203,
+      "wikidata_id": "Q482423",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482423"
+    },
+    {
+      "name_ko": "수원고읍성",
+      "name_en": "Suwon Ancient Town",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.207861,
+      "longitude": 126.988611,
+      "wikidata_id": "Q18605432",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605432"
+    },
+    {
+      "name_ko": "숙정문",
+      "name_en": "Sukjeongmun",
+      "admin_area_ko": "삼청동",
+      "admin_area_en": "Samcheong-dong",
+      "latitude": 37.595556,
+      "longitude": 126.981111,
+      "wikidata_id": "Q624302",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624302"
+    },
+    {
+      "name_ko": "순천 송광사 송광사사료집성",
+      "name_en": "Songgwangsa Temple, Suncheon Songgwangsa Historical Collection",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.001944,
+      "longitude": 127.269167,
+      "wikidata_id": "Q24867135",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24867135"
+    },
+    {
+      "name_ko": "순천왜성",
+      "name_en": "Suncheon Waeseong Castle",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q137555685",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137555685"
+    },
+    {
+      "name_ko": "순천왜성",
+      "name_en": "Suncheon Castle",
+      "admin_area_ko": "해룡면",
+      "admin_area_en": "Haeryong-myeon",
+      "latitude": 34.907222,
+      "longitude": 127.581111,
+      "wikidata_id": "Q624263",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624263"
+    },
+    {
+      "name_ko": "숭례문",
+      "name_en": "Namdaemun",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 37.559972,
+      "longitude": 126.975308,
+      "wikidata_id": "Q465345",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q465345"
+    },
+    {
+      "name_ko": "시루봉산성",
+      "name_en": "Sirubongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.649444,
+      "longitude": 127.332778,
+      "wikidata_id": "Q55731293",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731293"
+    },
+    {
+      "name_ko": "신산환해장성",
+      "name_en": "Sinsanhwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.388333,
+      "longitude": 126.8925,
+      "wikidata_id": "Q24000537",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000537"
+    },
+    {
+      "name_ko": "신안 흑산도 상라산성",
+      "name_en": "Shinan Heuksando Sangrasanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.694444,
+      "longitude": 125.417222,
+      "wikidata_id": "Q18550894",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18550894"
+    },
+    {
+      "name_ko": "신의 안산성",
+      "name_en": "Sinui Ansanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.603611,
+      "longitude": 126.076667,
+      "wikidata_id": "Q55731383",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731383"
+    },
+    {
+      "name_ko": "신창학성",
+      "name_en": "Shin Chang Hakseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.785306,
+      "longitude": 126.935222,
+      "wikidata_id": "Q19940292",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940292"
+    },
+    {
+      "name_ko": "아막성",
+      "name_en": "Submakseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q28698440",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28698440"
+    },
+    {
+      "name_ko": "아차산성",
+      "name_en": "Achasanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.556178,
+      "longitude": 127.104706,
+      "wikidata_id": "Q4673559",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4673559"
+    },
+    {
+      "name_ko": "안산동산성",
+      "name_en": "Ansan Dongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.4125,
+      "longitude": 127.285,
+      "wikidata_id": "Q17687693",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17687693"
+    },
+    {
+      "name_ko": "안산읍성 및 관아지",
+      "name_en": "Ansan Eupseong and Gwanaji",
+      "admin_area_ko": "안산시",
+      "admin_area_en": "Ansan",
+      "latitude": 37.366111,
+      "longitude": 126.881667,
+      "wikidata_id": "Q18605474",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605474"
+    },
+    {
+      "name_ko": "안성 금광산성",
+      "name_en": "Anseong Gold Mine Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.995278,
+      "longitude": 127.323056,
+      "wikidata_id": "Q55737429",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737429"
+    },
+    {
+      "name_ko": "안흥성",
+      "name_en": "Anheungseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.682528,
+      "longitude": 126.146528,
+      "wikidata_id": "Q19940361",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940361"
+    },
+    {
+      "name_ko": "압해 송공산성",
+      "name_en": "Aphae Songgong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.850833,
+      "longitude": 126.253889,
+      "wikidata_id": "Q55731695",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731695"
+    },
+    {
+      "name_ko": "애월진성",
+      "name_en": "Aewoljinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.465278,
+      "longitude": 126.3225,
+      "wikidata_id": "Q24000544",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000544"
+    },
+    {
+      "name_ko": "애월환해장성",
+      "name_en": "Aewol Hwanhaejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.468333,
+      "longitude": 126.313056,
+      "wikidata_id": "Q18605481",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605481"
+    },
+    {
+      "name_ko": "양동산성",
+      "name_en": "Yangdongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.235556,
+      "longitude": 128.799722,
+      "wikidata_id": "Q18052741",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18052741"
+    },
+    {
+      "name_ko": "양산 북부동 산성",
+      "name_en": "Yangsan Bukbu-dong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.340833,
+      "longitude": 129.050278,
+      "wikidata_id": "Q17189504",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17189504"
+    },
+    {
+      "name_ko": "양산 신기리 산성",
+      "name_en": "Yangsan Singiri Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.352778,
+      "longitude": 129.058056,
+      "wikidata_id": "Q16093923",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093923"
+    },
+    {
+      "name_ko": "양산 우불산성",
+      "name_en": "Yangsan Ubulsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.421389,
+      "longitude": 129.173889,
+      "wikidata_id": "Q18605490",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605490"
+    },
+    {
+      "name_ko": "어래산성",
+      "name_en": "Eoraesanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.041389,
+      "longitude": 126.875556,
+      "wikidata_id": "Q17128403",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17128403"
+    },
+    {
+      "name_ko": "언양천전리성",
+      "name_en": "Eonyang Cheonjeonri Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.560833,
+      "longitude": 129.086389,
+      "wikidata_id": "Q18605498",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605498"
+    },
+    {
+      "name_ko": "여수 고락산성",
+      "name_en": "Yeosu Goraksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.7625,
+      "longitude": 127.699722,
+      "wikidata_id": "Q18052746",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18052746"
+    },
+    {
+      "name_ko": "여주 파사성",
+      "name_en": "Yeoju Pasasung",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.408889,
+      "longitude": 127.547222,
+      "wikidata_id": "Q16093987",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093987"
+    },
+    {
+      "name_ko": "연천 은대리성",
+      "name_en": "Yeoncheon Eundaeri Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.024167,
+      "longitude": 127.058611,
+      "wikidata_id": "Q23995034",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23995034"
+    },
+    {
+      "name_ko": "연천 호로고루",
+      "name_en": "Horogoru",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.986111,
+      "longitude": 126.857778,
+      "wikidata_id": "Q18648639",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648639"
+    },
+    {
+      "name_ko": "영광 법성진성",
+      "name_en": "Yeonggwang Beopseongjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.364167,
+      "longitude": 126.440833,
+      "wikidata_id": "Q19939984",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939984"
+    },
+    {
+      "name_ko": "영등포왜성",
+      "name_en": "",
+      "admin_area_ko": "장목면",
+      "admin_area_en": "Jangmok-myeon",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65332416",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65332416"
+    },
+    {
+      "name_ko": "영산읍성지",
+      "name_en": "Changnyeong Yeongsan-eupseongji",
+      "admin_area_ko": "창녕군",
+      "admin_area_en": "Changnyeong County",
+      "latitude": 35.465278,
+      "longitude": 128.527222,
+      "wikidata_id": "Q18605516",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605516"
+    },
+    {
+      "name_ko": "영인산성",
+      "name_en": "Yeonginsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.848889,
+      "longitude": 126.935,
+      "wikidata_id": "Q55732094",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732094"
+    },
+    {
+      "name_ko": "예산산성",
+      "name_en": "Yesan Mountain Fortress",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.690542,
+      "longitude": 126.820944,
+      "wikidata_id": "Q18000000",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18000000"
+    },
+    {
+      "name_ko": "오량성",
+      "name_en": "Ohryangseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.888333,
+      "longitude": 128.494722,
+      "wikidata_id": "Q19794853",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794853"
+    },
+    {
+      "name_ko": "오창 서림산성",
+      "name_en": "Ochang Seorimsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.760556,
+      "longitude": 127.355833,
+      "wikidata_id": "Q55732225",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732225"
+    },
+    {
+      "name_ko": "옥녀봉토성 (전라남도)",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.541394,
+      "longitude": 126.581824,
+      "wikidata_id": "Q12608172",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12608172"
+    },
+    {
+      "name_ko": "옥천 이성산성",
+      "name_en": "Okcheon Iseongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.3275,
+      "longitude": 127.760833,
+      "wikidata_id": "Q28699453",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28699453"
+    },
+    {
+      "name_ko": "옥포성",
+      "name_en": "Okpo Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.890556,
+      "longitude": 128.694722,
+      "wikidata_id": "Q20445226",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445226"
+    },
+    {
+      "name_ko": "온평환해장성",
+      "name_en": "Onpyeonghwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.417222,
+      "longitude": 126.906944,
+      "wikidata_id": "Q24000541",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000541"
+    },
+    {
+      "name_ko": "완주 위봉산성",
+      "name_en": "Wanju Wibongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.905278,
+      "longitude": 127.253333,
+      "wikidata_id": "Q16094933",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094933"
+    },
+    {
+      "name_ko": "외성산성",
+      "name_en": "Oeseongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.2175,
+      "longitude": 127.1675,
+      "wikidata_id": "Q18605554",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605554"
+    },
+    {
+      "name_ko": "용계산성",
+      "name_en": "Dragon Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.067361,
+      "longitude": 127.304861,
+      "wikidata_id": "Q12608615",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12608615"
+    },
+    {
+      "name_ko": "용산산성",
+      "name_en": "Yongsansanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.771667,
+      "longitude": 128.861944,
+      "wikidata_id": "Q18230687",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230687"
+    },
+    {
+      "name_ko": "용아장성",
+      "name_en": "Seoraksan Yonga Jangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.152424,
+      "longitude": 128.396802,
+      "wikidata_id": "Q16094230",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094230"
+    },
+    {
+      "name_ko": "용암산성",
+      "name_en": "Yongamsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.923611,
+      "longitude": 128.675556,
+      "wikidata_id": "Q17687991",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17687991"
+    },
+    {
+      "name_ko": "용와산성",
+      "name_en": "Yongwasanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.8625,
+      "longitude": 127.0875,
+      "wikidata_id": "Q55732373",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732373"
+    },
+    {
+      "name_ko": "용인 임진산성",
+      "name_en": "Imjinsanseong Fortress",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.329167,
+      "longitude": 127.095833,
+      "wikidata_id": "Q135166056",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135166056"
+    },
+    {
+      "name_ko": "용장성",
+      "name_en": "Jindo Yongjangseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.515556,
+      "longitude": 126.338056,
+      "wikidata_id": "Q12608758",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12608758"
+    },
+    {
+      "name_ko": "용화산성",
+      "name_en": "Yonghwasanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.017778,
+      "longitude": 127.066389,
+      "wikidata_id": "Q55732409",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732409"
+    },
+    {
+      "name_ko": "우금산성",
+      "name_en": "Woogeumsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.672778,
+      "longitude": 126.656389,
+      "wikidata_id": "Q18013607",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013607"
+    },
+    {
+      "name_ko": "우산성",
+      "name_en": "Usanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.458056,
+      "longitude": 126.808889,
+      "wikidata_id": "Q18013612",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013612"
+    },
+    {
+      "name_ko": "우술성",
+      "name_en": "Woosulseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.381667,
+      "longitude": 127.4225,
+      "wikidata_id": "Q17990411",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17990411"
+    },
+    {
+      "name_ko": "운악산성",
+      "name_en": "Unaksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.884722,
+      "longitude": 127.318333,
+      "wikidata_id": "Q55732465",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732465"
+    },
+    {
+      "name_ko": "운주산성",
+      "name_en": "Unjusanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.683056,
+      "longitude": 127.2425,
+      "wikidata_id": "Q12609060",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609060"
+    },
+    {
+      "name_ko": "울산왜성",
+      "name_en": "Ulsan Castle",
+      "admin_area_ko": "학성동",
+      "admin_area_en": "Hakseong-dong",
+      "latitude": 35.554944,
+      "longitude": 129.338861,
+      "wikidata_id": "Q625881",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625881"
+    },
+    {
+      "name_ko": "웅천왜성",
+      "name_en": "Ungcheon Waeseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.106789,
+      "longitude": 128.757814,
+      "wikidata_id": "Q121983997",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121983997"
+    },
+    {
+      "name_ko": "웅천읍성지",
+      "name_en": "Ungcheon-eupseongji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.101667,
+      "longitude": 128.751944,
+      "wikidata_id": "Q18605585",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605585"
+    },
+    {
+      "name_ko": "원주 영원산성",
+      "name_en": "Yeongwon Castle",
+      "admin_area_ko": "판부면",
+      "admin_area_en": "Panbu-myeon",
+      "latitude": 37.309167,
+      "longitude": 128.038611,
+      "wikidata_id": "Q17503894",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17503894"
+    },
+    {
+      "name_ko": "월평동산성",
+      "name_en": "Wolpyeong Hill Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.350278,
+      "longitude": 127.355556,
+      "wikidata_id": "Q17688077",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17688077"
+    },
+    {
+      "name_ko": "은산당산성",
+      "name_en": "Eunsandangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.305556,
+      "longitude": 126.8425,
+      "wikidata_id": "Q18531313",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531313"
+    },
+    {
+      "name_ko": "음성 수정산성",
+      "name_en": "Eumseong Sujeongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.936633,
+      "longitude": 127.706197,
+      "wikidata_id": "Q18191738",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18191738"
+    },
+    {
+      "name_ko": "의령 미타산성",
+      "name_en": "Mitasanseong Fortress in Uiryeong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.514722,
+      "longitude": 128.291667,
+      "wikidata_id": "Q18551060",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18551060"
+    },
+    {
+      "name_ko": "의왕 모락산성",
+      "name_en": "Uiwang Moraksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094384"
+    },
+    {
+      "name_ko": "이성",
+      "name_en": "Iseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.658889,
+      "longitude": 127.200556,
+      "wikidata_id": "Q16094943",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094943"
+    },
+    {
+      "name_ko": "이성산성",
+      "name_en": "Iseongsanseong",
+      "admin_area_ko": "하남시",
+      "admin_area_en": "Hanam",
+      "latitude": 37.524722,
+      "longitude": 127.183889,
+      "wikidata_id": "Q16094945",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094945"
+    },
+    {
+      "name_ko": "이천 설성산성",
+      "name_en": "Icheon Seolseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.145278,
+      "longitude": 127.556111,
+      "wikidata_id": "Q18013654",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013654"
+    },
+    {
+      "name_ko": "이현동산성",
+      "name_en": "Yihyeondongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.406667,
+      "longitude": 127.456389,
+      "wikidata_id": "Q18000001",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18000001"
+    },
+    {
+      "name_ko": "익산 낭산산성",
+      "name_en": "Iksan Nangsansanseong Fortress",
+      "admin_area_ko": "익산시",
+      "admin_area_en": "Iksan",
+      "latitude": 36.056711,
+      "longitude": 127.039078,
+      "wikidata_id": "Q17685999",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17685999"
+    },
+    {
+      "name_ko": "익산 미륵산성",
+      "name_en": "Iksan Mireuksan Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.025,
+      "longitude": 127.0425,
+      "wikidata_id": "Q16093045",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093045"
+    },
+    {
+      "name_ko": "익산 토성",
+      "name_en": "Iksan Toseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.995833,
+      "longitude": 127.051111,
+      "wikidata_id": "Q16095922",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095922"
+    },
+    {
+      "name_ko": "임랑포왜성",
+      "name_en": "",
+      "admin_area_ko": "장안읍",
+      "admin_area_en": "Jangan",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q97234100",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97234100"
+    },
+    {
+      "name_ko": "임자 대둔산성",
+      "name_en": "Imja Daedunsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.061667,
+      "longitude": 126.080278,
+      "wikidata_id": "Q55733686",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733686"
+    },
+    {
+      "name_ko": "임진성",
+      "name_en": "Im Jinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.779167,
+      "longitude": 127.866667,
+      "wikidata_id": "Q22974801",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974801"
+    },
+    {
+      "name_ko": "임천 이목치산성",
+      "name_en": "Imcheon Imokchi Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.132778,
+      "longitude": 126.531944,
+      "wikidata_id": "Q55733712",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733712"
+    },
+    {
+      "name_ko": "작두산성",
+      "name_en": "Jakdusanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.515,
+      "longitude": 127.487778,
+      "wikidata_id": "Q55733760",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733760"
+    },
+    {
+      "name_ko": "장기읍성",
+      "name_en": "Pohang Janggi-eupseong",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.907197,
+      "longitude": 129.456531,
+      "wikidata_id": "Q16094464",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094464"
+    },
+    {
+      "name_ko": "장도포대지",
+      "name_en": "Jangdo Battery Site",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.403316,
+      "longitude": 126.733811,
+      "wikidata_id": "Q65288006",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65288006"
+    },
+    {
+      "name_ko": "장문포왜성",
+      "name_en": "Geoje Jangmunpo Waeseong",
+      "admin_area_ko": "장목면",
+      "admin_area_en": "Jangmok-myeon",
+      "latitude": 34.995,
+      "longitude": 128.669444,
+      "wikidata_id": "Q24000445",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000445"
+    },
+    {
+      "name_ko": "장산 대성산성",
+      "name_en": "Jangsan Daeseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.626944,
+      "longitude": 126.141944,
+      "wikidata_id": "Q55733788",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733788"
+    },
+    {
+      "name_ko": "장산토성",
+      "name_en": "Jangsantoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.634722,
+      "longitude": 126.138889,
+      "wikidata_id": "Q55733792",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733792"
+    },
+    {
+      "name_ko": "장성 입암산성",
+      "name_en": "Jangseong Ibamsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.435833,
+      "longitude": 126.846389,
+      "wikidata_id": "Q12614515",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12614515"
+    },
+    {
+      "name_ko": "장안문",
+      "name_en": "Janganmun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q20652023",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20652023"
+    },
+    {
+      "name_ko": "장암 점상리산성",
+      "name_en": "Jangam Jeomsangri Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.122778,
+      "longitude": 126.493333,
+      "wikidata_id": "Q55733817",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733817"
+    },
+    {
+      "name_ko": "장흥 회령진성",
+      "name_en": "Jangheung Hoeryongjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.483889,
+      "longitude": 126.937778,
+      "wikidata_id": "Q55733876",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733876"
+    },
+    {
+      "name_ko": "저산성",
+      "name_en": "Jeosanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.572222,
+      "longitude": 127.371389,
+      "wikidata_id": "Q55733890",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733890"
+    },
+    {
+      "name_ko": "적오산성",
+      "name_en": "Jeokohsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.415,
+      "longitude": 127.368333,
+      "wikidata_id": "Q17688298",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17688298"
+    },
+    {
+      "name_ko": "전 초팔성",
+      "name_en": "Hapcheonjeon Chopalseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.533333,
+      "longitude": 128.218056,
+      "wikidata_id": "Q24000470",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000470"
+    },
+    {
+      "name_ko": "전송대산성",
+      "name_en": "Jinjujeon Songdaesanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.245833,
+      "longitude": 128.206944,
+      "wikidata_id": "Q18605728",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605728"
+    },
+    {
+      "name_ko": "정선 고성리 산성",
+      "name_en": "Jeongseon Goseong-ri Mountain",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.258056,
+      "longitude": 128.590556,
+      "wikidata_id": "Q18013668",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013668"
+    },
+    {
+      "name_ko": "정양산성",
+      "name_en": "Jeongyangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.165556,
+      "longitude": 128.518611,
+      "wikidata_id": "Q17504169",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17504169"
+    },
+    {
+      "name_ko": "정읍 고사부리성",
+      "name_en": "Jeongeup Gosaburi Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.624056,
+      "longitude": 126.769722,
+      "wikidata_id": "Q19941070",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941070"
+    },
+    {
+      "name_ko": "제임스타운선",
+      "name_en": "Jamestown Line",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q6146251",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6146251"
+    },
+    {
+      "name_ko": "제주 가마오름 일제 동굴진지",
+      "name_en": "Jeju Gama Oreum Japanese Imperial Cave Fortification",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.305,
+      "longitude": 126.247222,
+      "wikidata_id": "Q19603655",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19603655"
+    },
+    {
+      "name_ko": "제주 모슬포 알뜨르비행장 일제 지하벙커",
+      "name_en": "Jeju Moseulpo Altreu Airport Japanese underground bunker",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.204444,
+      "longitude": 126.2725,
+      "wikidata_id": "Q61097832",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61097832"
+    },
+    {
+      "name_ko": "제주 사라봉 일제 동굴진지",
+      "name_en": "Jeju Sarabong Japanese Imperial Cave Fortification",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.518611,
+      "longitude": 126.547778,
+      "wikidata_id": "Q19603656",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19603656"
+    },
+    {
+      "name_ko": "제주 셋알오름 일제 동굴진지",
+      "name_en": "Jeju Seal Oreum Japanese Cave Encampment",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.203333,
+      "longitude": 126.291111,
+      "wikidata_id": "Q55737825",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737825"
+    },
+    {
+      "name_ko": "제주 송악산 외륜 일제 동굴진지",
+      "name_en": "Japanese cave encampment on the outer ring of Songaksan Mountain in Jeju",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.203333,
+      "longitude": 126.291111,
+      "wikidata_id": "Q55737826",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737826"
+    },
+    {
+      "name_ko": "제주 송악산 해안 일제 동굴진지",
+      "name_en": "Japanese cave encampment on the coast of Songaksan Mountain in Jeju",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.202778,
+      "longitude": 126.291389,
+      "wikidata_id": "Q55737827",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737827"
+    },
+    {
+      "name_ko": "제주 어승생악 일제 동굴진지",
+      "name_en": "Jeju Eoseungsaengak Japanese Cave Fortification",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.3925,
+      "longitude": 126.487778,
+      "wikidata_id": "Q19603658",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19603658"
+    },
+    {
+      "name_ko": "제주 일출봉 해안 일제 동굴진지",
+      "name_en": "Japanese cave encampment on Jeju Ilchulbong coast",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.203333,
+      "longitude": 126.291111,
+      "wikidata_id": "Q55737828",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737828"
+    },
+    {
+      "name_ko": "제천 덕주산성",
+      "name_en": "Deokju Sanseong",
+      "admin_area_ko": "제천시",
+      "admin_area_en": "Jecheon",
+      "latitude": 36.861111,
+      "longitude": 128.099444,
+      "wikidata_id": "Q17564465",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17564465"
+    },
+    {
+      "name_ko": "조천진성",
+      "name_en": "Jocheonjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.540278,
+      "longitude": 126.635833,
+      "wikidata_id": "Q24000543",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000543"
+    },
+    {
+      "name_ko": "죽주산성",
+      "name_en": "Jukjusanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.089167,
+      "longitude": 127.429722,
+      "wikidata_id": "Q18016017",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18016017"
+    },
+    {
+      "name_ko": "증평 추성산성",
+      "name_en": "Jeungpyeong Chuseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.807722,
+      "longitude": 127.599444,
+      "wikidata_id": "Q16095031",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095031"
+    },
+    {
+      "name_ko": "지세포성",
+      "name_en": "Geoje Jisepojinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.833056,
+      "longitude": 128.718611,
+      "wikidata_id": "Q20444999",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444999"
+    },
+    {
+      "name_ko": "직산 사산성",
+      "name_en": "Jiksan Sasanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.904722,
+      "longitude": 127.152778,
+      "wikidata_id": "Q16095065",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095065"
+    },
+    {
+      "name_ko": "진도 금갑진성",
+      "name_en": "",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.397222,
+      "longitude": 126.286389,
+      "wikidata_id": "Q24500033",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24500033"
+    },
+    {
+      "name_ko": "진도 남도진성",
+      "name_en": "Jindo Namdojinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.364444,
+      "longitude": 126.164722,
+      "wikidata_id": "Q16095084",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095084"
+    },
+    {
+      "name_ko": "진도 망금산 관방성",
+      "name_en": "Jindo Manggeumsan Gwanbangseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.563694,
+      "longitude": 126.305861,
+      "wikidata_id": "Q19941204",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941204"
+    },
+    {
+      "name_ko": "진도 철마산성",
+      "name_en": "Jindo Cheolmasan Fortress",
+      "admin_area_ko": "진도군",
+      "admin_area_en": "Jindo County",
+      "latitude": 34.487025,
+      "longitude": 126.296267,
+      "wikidata_id": "Q82326176",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326176"
+    },
+    {
+      "name_ko": "진도읍성",
+      "name_en": "Jindo Eupseong",
+      "admin_area_ko": "진도군",
+      "admin_area_en": "Jindo County",
+      "latitude": 34.486583,
+      "longitude": 126.267483,
+      "wikidata_id": "Q18605789",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605789"
+    },
+    {
+      "name_ko": "진원성",
+      "name_en": "Wonseong Jin",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.266944,
+      "longitude": 126.843611,
+      "wikidata_id": "Q55734671",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734671"
+    },
+    {
+      "name_ko": "진주성",
+      "name_en": "Jinju Fortress",
+      "admin_area_ko": "성북동",
+      "admin_area_en": "Seongbuk-dong",
+      "latitude": 35.19,
+      "longitude": 128.073333,
+      "wikidata_id": "Q12618350",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618350"
+    },
+    {
+      "name_ko": "진천 대모산성",
+      "name_en": "Jincheon Daemo Mountain Fortress",
+      "admin_area_ko": "진천군",
+      "admin_area_en": "Jincheon County",
+      "latitude": 36.867686,
+      "longitude": 127.462048,
+      "wikidata_id": "Q16092718",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092718"
+    },
+    {
+      "name_ko": "진해 완포현 고산성",
+      "name_en": "Gosanseong, Wanpo-hyeon, Jinhae",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.165694,
+      "longitude": 128.641333,
+      "wikidata_id": "Q18531345",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531345"
+    },
+    {
+      "name_ko": "진해항 요새",
+      "name_en": "Chinhae port fortress",
+      "admin_area_ko": "진해구",
+      "admin_area_en": "Jinhae district",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q122922545",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122922545"
+    },
+    {
+      "name_ko": "질현성",
+      "name_en": "Hyeonseong Ji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.359722,
+      "longitude": 127.464722,
+      "wikidata_id": "Q16095124",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095124"
+    },
+    {
+      "name_ko": "창녕 목마산성",
+      "name_en": "Changnyeong Mokmasanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.545056,
+      "longitude": 128.51625,
+      "wikidata_id": "Q16095159",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095159"
+    },
+    {
+      "name_ko": "창녕 화왕산성",
+      "name_en": "Changnyeong Hwawangsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.545833,
+      "longitude": 128.534167,
+      "wikidata_id": "Q16095171",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095171"
+    },
+    {
+      "name_ko": "창원 진례산성",
+      "name_en": "Changwon Jinrye Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.231389,
+      "longitude": 128.720833,
+      "wikidata_id": "Q18230977",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230977"
+    },
+    {
+      "name_ko": "창원 진해 안골왜성",
+      "name_en": "Changwon Angol Waeseong",
+      "admin_area_ko": "웅동동",
+      "admin_area_en": "Ungdong-dong",
+      "latitude": 35.093889,
+      "longitude": 128.803333,
+      "wikidata_id": "Q12609217",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609217"
+    },
+    {
+      "name_ko": "창원 진해 완포현 고산성",
+      "name_en": "Changwon Jinhae Wanpo County Gosanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.165694,
+      "longitude": 128.641333,
+      "wikidata_id": "Q65295606",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65295606"
+    },
+    {
+      "name_ko": "창웜 진해 웅천왜성",
+      "name_en": "Chang Worm Jinhae Ungcheon Japanese Castle",
+      "admin_area_ko": "웅천동",
+      "admin_area_en": "Ungcheon-dong",
+      "latitude": 35.101667,
+      "longitude": 128.7475,
+      "wikidata_id": "Q22974601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974601"
+    },
+    {
+      "name_ko": "창의문",
+      "name_en": "Changuimun",
+      "admin_area_ko": "청운동",
+      "admin_area_en": "Cheongun-dong",
+      "latitude": 37.592614,
+      "longitude": 126.966594,
+      "wikidata_id": "Q5072137",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5072137"
+    },
+    {
+      "name_ko": "처인성",
+      "name_en": "Cheo Inseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.1475,
+      "longitude": 127.168611,
+      "wikidata_id": "Q16095252",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095252"
+    },
+    {
+      "name_ko": "천생산성",
+      "name_en": "Cheonsansanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.123306,
+      "longitude": 128.479463,
+      "wikidata_id": "Q12618887",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618887"
+    },
+    {
+      "name_ko": "천안 대성산성",
+      "name_en": "Cheonan Daeseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.747778,
+      "longitude": 127.135278,
+      "wikidata_id": "Q55734791",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734791"
+    },
+    {
+      "name_ko": "천안 백석동 선사유적 및 백제토성",
+      "name_en": "Cheonan Baekseok-dong Prehistoric Site and Baekje Toseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.833806,
+      "longitude": 127.105194,
+      "wikidata_id": "Q16093110",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093110"
+    },
+    {
+      "name_ko": "천안 성거산 위례성",
+      "name_en": "Cheonan Seonggeosan Wiryeseong Fortress",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.879111,
+      "longitude": 127.251333,
+      "wikidata_id": "Q16093584",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093584"
+    },
+    {
+      "name_ko": "천안 세성산성",
+      "name_en": "Cheonan Seseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.754725,
+      "longitude": 127.256481,
+      "wikidata_id": "Q16093628",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093628"
+    },
+    {
+      "name_ko": "천호산성",
+      "name_en": "Cheonho Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.043333,
+      "longitude": 127.128889,
+      "wikidata_id": "Q18116807",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18116807"
+    },
+    {
+      "name_ko": "철마산성",
+      "name_en": "Cheolma Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.029167,
+      "longitude": 128.429167,
+      "wikidata_id": "Q18605808",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605808"
+    },
+    {
+      "name_ko": "철원 성산성",
+      "name_en": "Cheorwon Seongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.301389,
+      "longitude": 127.438333,
+      "wikidata_id": "Q18016026",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18016026"
+    },
+    {
+      "name_ko": "청도읍성",
+      "name_en": "Cheongdo Eupseong",
+      "admin_area_ko": "청도군",
+      "admin_area_en": "Cheongdo County",
+      "latitude": 35.650189,
+      "longitude": 128.706947,
+      "wikidata_id": "Q18605811",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605811"
+    },
+    {
+      "name_ko": "청주 구룡산성",
+      "name_en": "Cheongju Guryongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.486111,
+      "longitude": 127.474722,
+      "wikidata_id": "Q55734868",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734868"
+    },
+    {
+      "name_ko": "청주 당산토성",
+      "name_en": "Cheongju Dangsantoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.634444,
+      "longitude": 127.495,
+      "wikidata_id": "Q55734871",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734871"
+    },
+    {
+      "name_ko": "청주 부모산성",
+      "name_en": "Cheongju Parent Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.634408,
+      "longitude": 127.410242,
+      "wikidata_id": "Q16631180",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16631180"
+    },
+    {
+      "name_ko": "청주 샘봉산성",
+      "name_en": "Cheongju Sambongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.464722,
+      "longitude": 127.529167,
+      "wikidata_id": "Q55734879",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734879"
+    },
+    {
+      "name_ko": "청주 양성산성",
+      "name_en": "Cheongju Yangseongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.514167,
+      "longitude": 127.489167,
+      "wikidata_id": "Q18191782",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18191782"
+    },
+    {
+      "name_ko": "청주 우암산성",
+      "name_en": "Cheongju Uamsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.65,
+      "longitude": 127.501667,
+      "wikidata_id": "Q55734897",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734897"
+    },
+    {
+      "name_ko": "청주 정북동 토성",
+      "name_en": "Cheongju Jeongbuk-dong Toseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.688889,
+      "longitude": 127.455556,
+      "wikidata_id": "Q21710470",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21710470"
+    },
+    {
+      "name_ko": "청주읍성",
+      "name_en": "Cheongju Eupseong",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.6325,
+      "longitude": 127.484722,
+      "wikidata_id": "Q55734918",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734918"
+    },
+    {
+      "name_ko": "청풍 망월산성",
+      "name_en": "Cheongpung Mangwolsanseong Fortress",
+      "admin_area_ko": "제천시",
+      "admin_area_en": "Jecheon",
+      "latitude": 37.001751,
+      "longitude": 128.16538,
+      "wikidata_id": "Q16095714",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095714"
+    },
+    {
+      "name_ko": "초곡산성",
+      "name_en": "Chogoksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.718611,
+      "longitude": 128.487778,
+      "wikidata_id": "Q17991284",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17991284"
+    },
+    {
+      "name_ko": "추화산성",
+      "name_en": "Chuhwasanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.511556,
+      "longitude": 128.765417,
+      "wikidata_id": "Q18052793",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18052793"
+    },
+    {
+      "name_ko": "춘천 봉의산성",
+      "name_en": "Chuncheon Bonguisanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.889722,
+      "longitude": 127.731667,
+      "wikidata_id": "Q17991378",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17991378"
+    },
+    {
+      "name_ko": "충주 견학리 토성",
+      "name_en": "Chungju Gyeonhak-ri Toseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.984167,
+      "longitude": 127.757222,
+      "wikidata_id": "Q61093102",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093102"
+    },
+    {
+      "name_ko": "충주 남산성",
+      "name_en": "Chungju Namsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.954722,
+      "longitude": 127.975833,
+      "wikidata_id": "Q17503320",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17503320"
+    },
+    {
+      "name_ko": "충주 대림산성",
+      "name_en": "Chungju Daelimsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.934444,
+      "longitude": 127.933056,
+      "wikidata_id": "Q18175835",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18175835"
+    },
+    {
+      "name_ko": "충주 장미산성",
+      "name_en": "Jangmi Sanseong",
+      "admin_area_ko": "충주시",
+      "admin_area_en": "Chungju",
+      "latitude": 37.046667,
+      "longitude": 127.857778,
+      "wikidata_id": "Q16094469",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094469"
+    },
+    {
+      "name_ko": "칠원산성",
+      "name_en": "Chilwonsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.306389,
+      "longitude": 128.476389,
+      "wikidata_id": "Q18605849",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605849"
+    },
+    {
+      "name_ko": "칠중성",
+      "name_en": "Nanae Castle",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.963333,
+      "longitude": 126.919722,
+      "wikidata_id": "Q16096376",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096376"
+    },
+    {
+      "name_ko": "침령산성",
+      "name_en": "Chimryongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.728306,
+      "longitude": 127.553583,
+      "wikidata_id": "Q17189676",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17189676"
+    },
+    {
+      "name_ko": "태백경찰서 망루",
+      "name_en": "Category:Watchtower of Taebaek Police Station",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.102706,
+      "longitude": 129.008392,
+      "wikidata_id": "Q136430533",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136430533"
+    },
+    {
+      "name_ko": "태안 백화산성",
+      "name_en": "Taean Baekhwasanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.762222,
+      "longitude": 126.298889,
+      "wikidata_id": "Q19941342",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941342"
+    },
+    {
+      "name_ko": "태안 소근진성",
+      "name_en": "Taean Sogeunjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.819806,
+      "longitude": 126.184167,
+      "wikidata_id": "Q19941343",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941343"
+    },
+    {
+      "name_ko": "택지돈대",
+      "name_en": "Huaedondae",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.601944,
+      "longitude": 126.489167,
+      "wikidata_id": "Q19795061",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19795061"
+    },
+    {
+      "name_ko": "파주 덕진산성",
+      "name_en": "Paju Deokjinsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.514722,
+      "longitude": 128.291667,
+      "wikidata_id": "Q18551334",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18551334"
+    },
+    {
+      "name_ko": "파주 오두산성",
+      "name_en": "Paju Odusanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.790278,
+      "longitude": 126.685556,
+      "wikidata_id": "Q16095950",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095950"
+    },
+    {
+      "name_ko": "파주 육계토성",
+      "name_en": "Paju Yukgye Toseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.992222,
+      "longitude": 126.897222,
+      "wikidata_id": "Q22975206",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22975206"
+    },
+    {
+      "name_ko": "팔거산성",
+      "name_en": "Palgeosanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.925,
+      "longitude": 128.568889,
+      "wikidata_id": "Q17688780",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17688780"
+    },
+    {
+      "name_ko": "평창 노산성",
+      "name_en": "Pyeongchang Nosanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.374444,
+      "longitude": 128.398056,
+      "wikidata_id": "Q18016039",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18016039"
+    },
+    {
+      "name_ko": "포천 고모리산성",
+      "name_en": "Komori Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.789167,
+      "longitude": 127.157778,
+      "wikidata_id": "Q18329008",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18329008"
+    },
+    {
+      "name_ko": "포천 반월성",
+      "name_en": "Pocheon Banwolseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.892778,
+      "longitude": 127.217778,
+      "wikidata_id": "Q18329011",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18329011"
+    },
+    {
+      "name_ko": "포천 방어벙커",
+      "name_en": "Pocheon Bunker",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.945361,
+      "longitude": 127.234694,
+      "wikidata_id": "Q132178899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132178899"
+    },
+    {
+      "name_ko": "풍납토성",
+      "name_en": "Pungnaptoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.530267,
+      "longitude": 127.1162,
+      "wikidata_id": "Q11282530",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11282530"
+    },
+    {
+      "name_ko": "풍동 당산목 및 산치성",
+      "name_en": "Pungdong Dangsanmok and Sanchiseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55735570",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735570"
+    },
+    {
+      "name_ko": "하동 고소성",
+      "name_en": "Hadong Goseongseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.173889,
+      "longitude": 127.680556,
+      "wikidata_id": "Q16095999",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095999"
+    },
+    {
+      "name_ko": "하동 북방리 고성산성",
+      "name_en": "Hadong Goseongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.165,
+      "longitude": 127.916944,
+      "wikidata_id": "Q18231031",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18231031"
+    },
+    {
+      "name_ko": "하동읍성",
+      "name_en": "Hadongeupseong",
+      "admin_area_ko": "하동군",
+      "admin_area_en": "Hadong County",
+      "latitude": 35.026389,
+      "longitude": 127.830833,
+      "wikidata_id": "Q18605898",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605898"
+    },
+    {
+      "name_ko": "하성",
+      "name_en": "Hasung",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.874722,
+      "longitude": 127.9225,
+      "wikidata_id": "Q24000450",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000450"
+    },
+    {
+      "name_ko": "학현산성",
+      "name_en": "Hakhyeonsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.0025,
+      "longitude": 127.1175,
+      "wikidata_id": "Q55735680",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735680"
+    },
+    {
+      "name_ko": "한계산성",
+      "name_en": "Inje Hanhaesanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.128056,
+      "longitude": 128.3225,
+      "wikidata_id": "Q17992066",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17992066"
+    },
+    {
+      "name_ko": "한동환해장성",
+      "name_en": "Han Dong-hwan Haejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.550306,
+      "longitude": 126.828472,
+      "wikidata_id": "Q24000535",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000535"
+    },
+    {
+      "name_ko": "한산읍성",
+      "name_en": "Hansan Eupseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.083056,
+      "longitude": 126.806667,
+      "wikidata_id": "Q18648592",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648592"
+    },
+    {
+      "name_ko": "한양도성",
+      "name_en": "Seoul City Wall",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.572847,
+      "longitude": 127.008503,
+      "wikidata_id": "Q5472741",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5472741"
+    },
+    {
+      "name_ko": "할미산성",
+      "name_en": "Halmi Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.287653,
+      "longitude": 127.176908,
+      "wikidata_id": "Q12624384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12624384"
+    },
+    {
+      "name_ko": "함안 문암산성",
+      "name_en": "Haman Munam Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.276667,
+      "longitude": 128.443889,
+      "wikidata_id": "Q18531372",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531372"
+    },
+    {
+      "name_ko": "함안 성산산성",
+      "name_en": "Haman Seongsansanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.254444,
+      "longitude": 128.419444,
+      "wikidata_id": "Q16096046",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096046"
+    },
+    {
+      "name_ko": "함안 성점산성",
+      "name_en": "Haman Seongjeomsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.237825,
+      "longitude": 128.449694,
+      "wikidata_id": "Q18531373",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531373"
+    },
+    {
+      "name_ko": "함안 포덕산성",
+      "name_en": "Haman Podeoksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.266389,
+      "longitude": 128.489722,
+      "wikidata_id": "Q18531375",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531375"
+    },
+    {
+      "name_ko": "함양 마안산성",
+      "name_en": "Hamyang Maansanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.571389,
+      "longitude": 127.779444,
+      "wikidata_id": "Q18531376",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531376"
+    },
+    {
+      "name_ko": "함양 방지산성",
+      "name_en": "Hamyang Banjisanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.678611,
+      "longitude": 127.68,
+      "wikidata_id": "Q18531377",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531377"
+    },
+    {
+      "name_ko": "함양 팔령산성",
+      "name_en": "Hamyang Palyeongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.469444,
+      "longitude": 127.638056,
+      "wikidata_id": "Q18531379",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531379"
+    },
+    {
+      "name_ko": "함양 황석산성",
+      "name_en": "Hamyang Hwangseoksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.650833,
+      "longitude": 127.751389,
+      "wikidata_id": "Q16096048",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096048"
+    },
+    {
+      "name_ko": "합미산성",
+      "name_en": "Hapmisanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.741944,
+      "longitude": 127.355833,
+      "wikidata_id": "Q82325532",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325532"
+    },
+    {
+      "name_ko": "합미성",
+      "name_en": "Hapmiseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.462222,
+      "longitude": 127.250278,
+      "wikidata_id": "Q17095103",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095103"
+    },
+    {
+      "name_ko": "합천 대야성",
+      "name_en": "Hapcheon Daeyaseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.560194,
+      "longitude": 128.165528,
+      "wikidata_id": "Q20445624",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445624"
+    },
+    {
+      "name_ko": "합천 미숭산성",
+      "name_en": "Misungsanseong Fortress in Hapcheon",
+      "admin_area_ko": "합천군",
+      "admin_area_en": "Hapcheon County",
+      "latitude": 35.769937,
+      "longitude": 128.164717,
+      "wikidata_id": "Q18013372",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013372"
+    },
+    {
+      "name_ko": "합천 백마산성",
+      "name_en": "Hapcheon Baekma Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.615,
+      "longitude": 128.215833,
+      "wikidata_id": "Q18648612",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648612"
+    },
+    {
+      "name_ko": "합천 성산토성",
+      "name_en": "Hapcheon Seongsantoseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.576111,
+      "longitude": 128.284167,
+      "wikidata_id": "Q61093183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093183"
+    },
+    {
+      "name_ko": "합천 악견산성",
+      "name_en": "Hapcheon Akgyeonsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.528464,
+      "longitude": 128.033103,
+      "wikidata_id": "Q18648613",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648613"
+    },
+    {
+      "name_ko": "항파두성",
+      "name_en": "Hangpaduseong",
+      "admin_area_ko": "제주",
+      "admin_area_en": "Jeju City",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124726222",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124726222"
+    },
+    {
+      "name_ko": "해남 금강산성",
+      "name_en": "Haenam Geumgangsanseong Fortress",
+      "admin_area_ko": "해남군",
+      "admin_area_en": "Haenam County",
+      "latitude": 34.588333,
+      "longitude": 126.61,
+      "wikidata_id": "Q55735888",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735888"
+    },
+    {
+      "name_ko": "해남 북평 달량진성",
+      "name_en": "Haenam Bukpyeong Dalryangjin Fortress",
+      "admin_area_ko": "해남군",
+      "admin_area_en": "Haenam County",
+      "latitude": 34.405,
+      "longitude": 126.629444,
+      "wikidata_id": "Q55735898",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735898"
+    },
+    {
+      "name_ko": "행원환해장성",
+      "name_en": "Haengwon Hwanhaejangseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.557694,
+      "longitude": 126.80975,
+      "wikidata_id": "Q24000534",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000534"
+    },
+    {
+      "name_ko": "행주산성",
+      "name_en": "Haengjusanseong",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.596947,
+      "longitude": 126.831958,
+      "wikidata_id": "Q12624761",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12624761"
+    },
+    {
+      "name_ko": "혜화문",
+      "name_en": "Hyehwamun",
+      "admin_area_ko": "혜화동",
+      "admin_area_en": "Hyehwa-dong",
+      "latitude": 37.587939,
+      "longitude": 127.003933,
+      "wikidata_id": "Q11286633",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11286633"
+    },
+    {
+      "name_ko": "호미산성",
+      "name_en": "Uiryeong Homi Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.376667,
+      "longitude": 128.334722,
+      "wikidata_id": "Q18176098",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18176098"
+    },
+    {
+      "name_ko": "홀어머니산성",
+      "name_en": "Baeksan-ri Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095109",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095109"
+    },
+    {
+      "name_ko": "홍산 태봉산성",
+      "name_en": "Hongsan Taebongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.220411,
+      "longitude": 126.758228,
+      "wikidata_id": "Q18648648",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648648"
+    },
+    {
+      "name_ko": "홍성 결성읍성",
+      "name_en": "Hongseong Gyeolseongeupseong",
+      "admin_area_ko": "홍성군",
+      "admin_area_en": "Hongseong County",
+      "latitude": 36.522589,
+      "longitude": 126.543603,
+      "wikidata_id": "Q18648650",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648650"
+    },
+    {
+      "name_ko": "홍성 신금성",
+      "name_en": "Hongseong Shingeumseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.539167,
+      "longitude": 126.555,
+      "wikidata_id": "Q31180384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31180384"
+    },
+    {
+      "name_ko": "홍성 장곡산성",
+      "name_en": "Hongseong Janggoksanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.493333,
+      "longitude": 126.731111,
+      "wikidata_id": "Q18648649",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648649"
+    },
+    {
+      "name_ko": "홍지문 및 탕춘대성",
+      "name_en": "Hongjimun and Tangchundaeseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12625497",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12625497"
+    },
+    {
+      "name_ko": "화개산성",
+      "name_en": "Hwagaesanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18016060",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18016060"
+    },
+    {
+      "name_ko": "화도진지",
+      "name_en": "Hwadojinji",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.4825,
+      "longitude": 126.628889,
+      "wikidata_id": "Q19603908",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19603908"
+    },
+    {
+      "name_ko": "화봉산성",
+      "name_en": "Hwabongsanseong Fortress",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": 36.496398,
+      "longitude": 127.406688,
+      "wikidata_id": "Q82325992",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325992"
+    },
+    {
+      "name_ko": "화산산성",
+      "name_en": "Hwasan Mountain Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.097869,
+      "longitude": 128.784003,
+      "wikidata_id": "Q18016061",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18016061"
+    },
+    {
+      "name_ko": "화성 당성",
+      "name_en": "Hwaseong Dangseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.193056,
+      "longitude": 126.714167,
+      "wikidata_id": "Q16096194",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096194"
+    },
+    {
+      "name_ko": "화성 화량진성",
+      "name_en": "Hwaseong Hwaryangjinseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.202222,
+      "longitude": 126.674722,
+      "wikidata_id": "Q55736146",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736146"
+    },
+    {
+      "name_ko": "화순 비봉산성",
+      "name_en": "Hwasun Bibongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.995,
+      "longitude": 126.943611,
+      "wikidata_id": "Q18531399",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531399"
+    },
+    {
+      "name_ko": "화순 오성산성",
+      "name_en": "Hwasun Oseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.064444,
+      "longitude": 127.022778,
+      "wikidata_id": "Q18531401",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531401"
+    },
+    {
+      "name_ko": "화순 철옹산성",
+      "name_en": "Hwasun Cheolongsanseong Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.114275,
+      "longitude": 127.150128,
+      "wikidata_id": "Q18531403",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18531403"
+    },
+    {
+      "name_ko": "환미산성",
+      "name_en": "Hwanmisanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.88,
+      "longitude": 127.382222,
+      "wikidata_id": "Q82327720",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327720"
+    },
+    {
+      "name_ko": "환해장성",
+      "name_en": "Hwanhaejangseong",
+      "admin_area_ko": "제주특별자치도",
+      "admin_area_en": "Jeju Province",
+      "latitude": 33.417222,
+      "longitude": 126.906944,
+      "wikidata_id": "Q18648664",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648664"
+    },
+    {
+      "name_ko": "흑석동산성",
+      "name_en": "Heukseok Hill Fortress",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.258333,
+      "longitude": 127.329444,
+      "wikidata_id": "Q17992277",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17992277"
+    },
+    {
+      "name_ko": "흑성산성",
+      "name_en": "Heukseongsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.796833,
+      "longitude": 127.209208,
+      "wikidata_id": "Q12626155",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12626155"
+    },
+    {
+      "name_ko": "흑응산성",
+      "name_en": "Heukungsanseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.658611,
+      "longitude": 128.448889,
+      "wikidata_id": "Q18648688",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648688"
+    },
+    {
+      "name_ko": "흥양현읍성",
+      "name_en": "Heungyanghyeoneupseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.613611,
+      "longitude": 127.285278,
+      "wikidata_id": "Q18116879",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18116879"
+    },
+    {
+      "name_ko": "흥인지문",
+      "name_en": "Heunginjimun",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.571153,
+      "longitude": 127.009639,
+      "wikidata_id": "Q482721",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482721"
+    }
+  ],
+  "meta": {
+    "title": "한국의 성곽·요새 (Korean Fortifications & Fortresses) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 성곽·산성·요새 등 방어시설 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 458 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국의 성곽·요새 (Korean Fortifications & Fortresses) | ListBase",
+    "seo_description": "다운로드 한국의 성곽·요새 (Korean Fortifications & Fortresses) — 458 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 458 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

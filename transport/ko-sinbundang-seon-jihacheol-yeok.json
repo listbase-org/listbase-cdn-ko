@@ -1,0 +1,214 @@
+{
+  "id": "ko-sinbundang-seon-jihacheol-yeok",
+  "name": "신분당선 지하철 역 (Sinbundang Line subway stations)",
+  "title": "신분당선 지하철 역 (Sinbundang Line subway stations)",
+  "description": "신분당선(Sinbundang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 13개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Sinbundang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "강남",
+      "name_romanized": "gangnam",
+      "lines": "02호선, 신분당선",
+      "lines_en": "Line 2, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.497175,
+      "longitude": 127.027926,
+      "around_stations": "양재, 교대, 역삼",
+      "around_count": 3
+    },
+    {
+      "name": "양재",
+      "name_romanized": "",
+      "lines": "03호선, 신분당선",
+      "lines_en": "Line 3, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.484147,
+      "longitude": 127.034631,
+      "around_stations": "남부터미널, 매봉, 강남, 양재시민의숲",
+      "around_count": 4
+    },
+    {
+      "name": "판교",
+      "name_romanized": "",
+      "lines": "경강선, 신분당선",
+      "lines_en": "Gyeonggang Line, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.394761,
+      "longitude": 127.111217,
+      "around_stations": "정자, 청계산입구, 이매",
+      "around_count": 3
+    },
+    {
+      "name": "정자",
+      "name_romanized": "",
+      "lines": "수인분당선, 신분당선",
+      "lines_en": "Suin-Bundang Line, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.36706,
+      "longitude": 127.108105,
+      "around_stations": "미금, 수내, 판교",
+      "around_count": 3
+    },
+    {
+      "name": "미금",
+      "name_romanized": "",
+      "lines": "수인분당선, 신분당선",
+      "lines_en": "Suin-Bundang Line, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.350077,
+      "longitude": 127.10891,
+      "around_stations": "오리, 정자, 동천",
+      "around_count": 3
+    },
+    {
+      "name": "동천",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.337928,
+      "longitude": 127.102976,
+      "around_stations": "수지구청, 미금",
+      "around_count": 2
+    },
+    {
+      "name": "수지구청",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.322702,
+      "longitude": 127.095026,
+      "around_stations": "성복, 동천",
+      "around_count": 2
+    },
+    {
+      "name": "성복",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.313335,
+      "longitude": 127.0801,
+      "around_stations": "상현, 수지구청",
+      "around_count": 2
+    },
+    {
+      "name": "상현",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.297664,
+      "longitude": 127.069342,
+      "around_stations": "광교중앙, 성복",
+      "around_count": 2
+    },
+    {
+      "name": "광교중앙",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.288617,
+      "longitude": 127.051478,
+      "around_stations": "광교, 상현",
+      "around_count": 2
+    },
+    {
+      "name": "양재시민의숲",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.470023,
+      "longitude": 127.03842,
+      "around_stations": "청계산입구, 양재",
+      "around_count": 2
+    },
+    {
+      "name": "광교",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.30211,
+      "longitude": 127.044483,
+      "around_stations": "광교중앙",
+      "around_count": 1
+    },
+    {
+      "name": "청계산입구",
+      "name_romanized": "",
+      "lines": "신분당선",
+      "lines_en": "Sinbundang Line",
+      "lines_count": 1,
+      "latitude": 37.447211,
+      "longitude": 127.055664,
+      "around_stations": "판교, 양재시민의숲",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "신분당선 지하철 역 (Sinbundang Line subway stations) - 무료 다운로드",
+    "description": "신분당선(Sinbundang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 13개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Sinbundang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 13 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "신분당선 지하철 역 (Sinbundang Line subway stations) | ListBase",
+    "seo_description": "다운로드 신분당선 지하철 역 (Sinbundang Line subway stations) — 13 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 13 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

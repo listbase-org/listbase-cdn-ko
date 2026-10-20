@@ -1,0 +1,632 @@
+{
+  "id": "ko-07-hoseon-jihacheol-yeok",
+  "name": "07호선 지하철 역 (Line 7 subway stations)",
+  "title": "07호선 지하철 역 (Line 7 subway stations)",
+  "description": "07호선(Line 7)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 51개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 7 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "가산디지털단지",
+      "name_romanized": "",
+      "lines": "01호선, 07호선",
+      "lines_en": "Line 1, Line 7",
+      "lines_count": 2,
+      "latitude": 37.481072,
+      "longitude": 126.882343,
+      "around_stations": "철산, 남구로, 구로, 독산",
+      "around_count": 4
+    },
+    {
+      "name": "온수",
+      "name_romanized": "",
+      "lines": "01호선, 07호선",
+      "lines_en": "Line 1, Line 7",
+      "lines_count": 2,
+      "latitude": 37.492258,
+      "longitude": 126.823388,
+      "around_stations": "까치울, 천왕, 오류동, 역곡",
+      "around_count": 4
+    },
+    {
+      "name": "도봉산",
+      "name_romanized": "",
+      "lines": "01호선, 07호선",
+      "lines_en": "Line 1, Line 7",
+      "lines_count": 2,
+      "latitude": 37.689313,
+      "longitude": 127.046222,
+      "around_stations": "수락산, 장암, 망월사, 도봉",
+      "around_count": 4
+    },
+    {
+      "name": "건대입구",
+      "name_romanized": "",
+      "lines": "02호선, 07호선",
+      "lines_en": "Line 2, Line 7",
+      "lines_count": 2,
+      "latitude": 37.540693,
+      "longitude": 127.07023,
+      "around_stations": "뚝섬유원지, 어린이대공원, 성수, 구의",
+      "around_count": 4
+    },
+    {
+      "name": "대림",
+      "name_romanized": "",
+      "lines": "02호선, 07호선",
+      "lines_en": "Line 2, Line 7",
+      "lines_count": 2,
+      "latitude": 37.49297,
+      "longitude": 126.895801,
+      "around_stations": "구로디지털단지, 신도림, 남구로, 신풍",
+      "around_count": 4
+    },
+    {
+      "name": "고속터미널",
+      "name_romanized": "",
+      "lines": "03호선, 07호선, 09호선",
+      "lines_en": "Line 3, Line 7, Line 9",
+      "lines_count": 3,
+      "latitude": 37.50481,
+      "longitude": 127.004943,
+      "around_stations": "잠원, 교대, 반포, 내방, 신반포, 사평",
+      "around_count": 6
+    },
+    {
+      "name": "노원",
+      "name_romanized": "",
+      "lines": "04호선, 07호선",
+      "lines_en": "Line 4, Line 7",
+      "lines_count": 2,
+      "latitude": 37.655128,
+      "longitude": 127.061368,
+      "around_stations": "중계, 마들, 창동, 상계",
+      "around_count": 4
+    },
+    {
+      "name": "이수(총신대)",
+      "name_romanized": "",
+      "lines": "04호선, 07호선",
+      "lines_en": "Line 4, Line 7",
+      "lines_count": 2,
+      "latitude": 37.486263,
+      "longitude": 126.981989,
+      "around_stations": "남성, 내방, 동작, 사당",
+      "around_count": 4
+    },
+    {
+      "name": "군자",
+      "name_romanized": "",
+      "lines": "05호선, 07호선",
+      "lines_en": "Line 5, Line 7",
+      "lines_count": 2,
+      "latitude": 37.557121,
+      "longitude": 127.079542,
+      "around_stations": "장한평, 아차산, 어린이대공원, 중곡",
+      "around_count": 4
+    },
+    {
+      "name": "태릉입구",
+      "name_romanized": "",
+      "lines": "06호선, 07호선",
+      "lines_en": "Line 6, Line 7",
+      "lines_count": 2,
+      "latitude": 37.617983,
+      "longitude": 127.07512,
+      "around_stations": "석계, 화랑대, 공릉, 먹골",
+      "around_count": 4
+    },
+    {
+      "name": "강남구청",
+      "name_romanized": "",
+      "lines": "07호선, 수인분당선",
+      "lines_en": "Line 7, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.517186,
+      "longitude": 127.04128,
+      "around_stations": "선정릉, 압구정로데오, 학동, 청담",
+      "around_count": 4
+    },
+    {
+      "name": "학동",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.514229,
+      "longitude": 127.031656,
+      "around_stations": "논현, 강남구청",
+      "around_count": 2
+    },
+    {
+      "name": "논현",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.511093,
+      "longitude": 127.021415,
+      "around_stations": "반포, 학동",
+      "around_count": 2
+    },
+    {
+      "name": "반포",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.508178,
+      "longitude": 127.011727,
+      "around_stations": "고속터미널, 논현",
+      "around_count": 2
+    },
+    {
+      "name": "내방",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.487618,
+      "longitude": 126.993513,
+      "around_stations": "이수(총신대), 고속터미널",
+      "around_count": 2
+    },
+    {
+      "name": "까치울",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.506207,
+      "longitude": 126.810939,
+      "around_stations": "부천종합운동장, 온수",
+      "around_count": 2
+    },
+    {
+      "name": "부천종합운동장",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.50538,
+      "longitude": 126.797337,
+      "around_stations": "춘의, 까치울",
+      "around_count": 2
+    },
+    {
+      "name": "춘의",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.503663,
+      "longitude": 126.787036,
+      "around_stations": "신중동, 부천종합운동장",
+      "around_count": 2
+    },
+    {
+      "name": "부평구청",
+      "name_romanized": "",
+      "lines": "07호선, 인천선",
+      "lines_en": "Line 7, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.508336,
+      "longitude": 126.720548,
+      "around_stations": "부평시장, 갈산, 굴포천",
+      "around_count": 3
+    },
+    {
+      "name": "사가정",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.580894,
+      "longitude": 127.088478,
+      "around_stations": "용마산, 면목",
+      "around_count": 2
+    },
+    {
+      "name": "용마산",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.573647,
+      "longitude": 127.086727,
+      "around_stations": "중곡, 사가정",
+      "around_count": 2
+    },
+    {
+      "name": "중곡",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.565923,
+      "longitude": 127.08432,
+      "around_stations": "군자, 용마산",
+      "around_count": 2
+    },
+    {
+      "name": "어린이대공원",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.548014,
+      "longitude": 127.074658,
+      "around_stations": "건대입구, 군자",
+      "around_count": 2
+    },
+    {
+      "name": "남성",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.484596,
+      "longitude": 126.971251,
+      "around_stations": "숭실대입구, 이수(총신대)",
+      "around_count": 2
+    },
+    {
+      "name": "숭실대입구",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.496029,
+      "longitude": 126.953822,
+      "around_stations": "상도, 남성",
+      "around_count": 2
+    },
+    {
+      "name": "상도",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.502834,
+      "longitude": 126.94791,
+      "around_stations": "장승배기, 숭실대입구",
+      "around_count": 2
+    },
+    {
+      "name": "장승배기",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.504898,
+      "longitude": 126.93915,
+      "around_stations": "신대방삼거리, 상도",
+      "around_count": 2
+    },
+    {
+      "name": "신대방삼거리",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.499701,
+      "longitude": 126.928276,
+      "around_stations": "보라매, 장승배기",
+      "around_count": 2
+    },
+    {
+      "name": "보라매",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.499872,
+      "longitude": 126.920428,
+      "around_stations": "신풍, 신대방삼거리",
+      "around_count": 2
+    },
+    {
+      "name": "신풍",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.50008,
+      "longitude": 126.90993,
+      "around_stations": "대림, 보라매",
+      "around_count": 2
+    },
+    {
+      "name": "남구로",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.486056,
+      "longitude": 126.887249,
+      "around_stations": "가산디지털단지, 대림",
+      "around_count": 2
+    },
+    {
+      "name": "철산",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.47605,
+      "longitude": 126.867911,
+      "around_stations": "광명사거리, 가산디지털단지",
+      "around_count": 2
+    },
+    {
+      "name": "광명사거리",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.479252,
+      "longitude": 126.854876,
+      "around_stations": "천왕, 철산",
+      "around_count": 2
+    },
+    {
+      "name": "천왕",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.486637,
+      "longitude": 126.838713,
+      "around_stations": "온수, 광명사거리",
+      "around_count": 2
+    },
+    {
+      "name": "장암",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.700109,
+      "longitude": 127.053196,
+      "around_stations": "도봉산",
+      "around_count": 1
+    },
+    {
+      "name": "중화",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.602545,
+      "longitude": 127.079264,
+      "around_stations": "상봉, 먹골",
+      "around_count": 2
+    },
+    {
+      "name": "상봉",
+      "name_romanized": "",
+      "lines": "07호선, 경의선, 경춘선",
+      "lines_en": "Line 7, Gyeongui-Jungang Line, Gyeongchun Line",
+      "lines_count": 3,
+      "latitude": 37.596362,
+      "longitude": 127.085032,
+      "around_stations": "중랑, 망우, 면목, 중화, 광운대",
+      "around_count": 5
+    },
+    {
+      "name": "면목",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.588579,
+      "longitude": 127.087503,
+      "around_stations": "사가정, 상봉",
+      "around_count": 2
+    },
+    {
+      "name": "뚝섬유원지",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.53154,
+      "longitude": 127.066704,
+      "around_stations": "청담, 건대입구",
+      "around_count": 2
+    },
+    {
+      "name": "청담",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.519365,
+      "longitude": 127.05335,
+      "around_stations": "강남구청, 뚝섬유원지",
+      "around_count": 2
+    },
+    {
+      "name": "수락산",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.67785,
+      "longitude": 127.055315,
+      "around_stations": "마들, 도봉산",
+      "around_count": 2
+    },
+    {
+      "name": "마들",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.66494,
+      "longitude": 127.057675,
+      "around_stations": "노원, 수락산",
+      "around_count": 2
+    },
+    {
+      "name": "중계",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.644583,
+      "longitude": 127.064303,
+      "around_stations": "하계, 노원",
+      "around_count": 2
+    },
+    {
+      "name": "하계",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.636352,
+      "longitude": 127.06799,
+      "around_stations": "공릉, 중계",
+      "around_count": 2
+    },
+    {
+      "name": "공릉",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.625742,
+      "longitude": 127.072896,
+      "around_stations": "태릉입구, 하계",
+      "around_count": 2
+    },
+    {
+      "name": "먹골",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.610637,
+      "longitude": 127.077725,
+      "around_stations": "중화, 태릉입구",
+      "around_count": 2
+    },
+    {
+      "name": "신중동",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.503048,
+      "longitude": 126.77596,
+      "around_stations": "부천시청, 춘의",
+      "around_count": 2
+    },
+    {
+      "name": "부천시청",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.504631,
+      "longitude": 126.763538,
+      "around_stations": "상동, 신중동",
+      "around_count": 2
+    },
+    {
+      "name": "상동",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.505781,
+      "longitude": 126.753083,
+      "around_stations": "삼산체육관, 부천시청",
+      "around_count": 2
+    },
+    {
+      "name": "삼산체육관",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.506411,
+      "longitude": 126.742153,
+      "around_stations": "굴포천, 상동",
+      "around_count": 2
+    },
+    {
+      "name": "굴포천",
+      "name_romanized": "",
+      "lines": "07호선",
+      "lines_en": "Line 7",
+      "lines_count": 1,
+      "latitude": 37.506997,
+      "longitude": 126.73128,
+      "around_stations": "부평구청, 삼산체육관",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "07호선 지하철 역 (Line 7 subway stations) - 무료 다운로드",
+    "description": "07호선(Line 7)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 51개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 7 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 51 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "07호선 지하철 역 (Line 7 subway stations) | ListBase",
+    "seo_description": "다운로드 07호선 지하철 역 (Line 7 subway stations) — 51 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 51 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

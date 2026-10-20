@@ -1,0 +1,2091 @@
+{
+  "id": "ko-jeollabuk-sigungu-dong",
+  "name": "Jeollabuk 시군구·동읍면 — Jeollabuk Districts & Neighborhoods",
+  "title": "Jeollabuk 시군구·동읍면 — Jeollabuk Districts & Neighborhoods",
+  "description": "Jeollabuk (전라북도) — 시군구 및 동·읍·면 행정 지명 목록 410건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Jeollabuk 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 410,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "계화면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "동진면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "백산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "변산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "보안면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "부안읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "상서면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "위도면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "주산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "줄포면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "진서면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "하서면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "부안군",
+      "dong_eup_myeon": "행안면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "계남면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "계북면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "번암면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "산서면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "장계면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "장수읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "장수군",
+      "dong_eup_myeon": "천천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "갈공동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "검산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "공덕면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "광활면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "금구면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "금산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "난봉동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "도장동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "만경읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "명덕동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "백구면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "백산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "백학동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "복죽동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "봉남면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "부량면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "상동동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "서암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "서정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "성덕면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "순동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "신곡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "신덕동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "신풍동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "양전동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "연정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "오정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "옥산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "요촌동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "용동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "용지면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "월봉동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "월성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "입석동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "장화동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "제월동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "죽산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "진봉면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "청하면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "하동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "황산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "황산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "김제시",
+      "dong_eup_myeon": "흥사동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "갈치동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "고죽동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "광치동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "금동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "금지면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "내척동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "노암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "대강면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "대산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "덕과면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "도통동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "동충동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "보절면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "사매면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "산곡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "산내면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "산동면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "송동면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "수지면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "식정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "신정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "쌍교동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "아영면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "어현동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "왕정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "용정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "운봉읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "월락동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "이백면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "인월면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "조산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "주생면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "주천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "죽항동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "천거동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "하정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "향교동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "남원시",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "경천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "고산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "구이면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "동상면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "봉동읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "비봉면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "삼례읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "상관면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "소양면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "용진읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "운주면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "이서면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "완주군",
+      "dong_eup_myeon": "화산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "무주군",
+      "dong_eup_myeon": "무주읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "무주군",
+      "dong_eup_myeon": "무풍면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "무주군",
+      "dong_eup_myeon": "부남면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "무주군",
+      "dong_eup_myeon": "설천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "무주군",
+      "dong_eup_myeon": "안성면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "무주군",
+      "dong_eup_myeon": "적상면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "동향면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "마령면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "백운면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "부귀면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "상전면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "성수면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "안천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "용담면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "정천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "주천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "진안군",
+      "dong_eup_myeon": "진안읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "갈산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "금강동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "금마면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "남중동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "낭산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "덕기동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "마동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "만석동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "망성면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "모현동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "모현동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "목천동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "부송동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "삼기면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "석암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "석왕동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "석탄동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "성당면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "송학동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "신동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "신용동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "어양동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "여산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "영등동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "오산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "왕궁면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "용동면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "용안면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "용제동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "웅포면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "월성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "은기동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "인화동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "인화동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "임상동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "정족동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "주현동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "창인동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "창인동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "춘포면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "팔봉동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "평화동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "함라면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "함열읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "현영동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "익산시",
+      "dong_eup_myeon": "황등면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "개복동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "개사동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "개정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "개정면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "경암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "경장동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "구암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "금광동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "금동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "금암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "나운동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "나포면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "내초동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "내흥동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "대명동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "대야면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "동흥남동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "둔율동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "명산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "미룡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "미원동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "미장동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "비응도동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "사정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "산북동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "삼학동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "서수면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "서흥남동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "선양동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "성산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "소룡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "송창동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "송풍동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "수송동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "신관동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "신영동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "신창동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "신풍동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "영동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "영화동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "오룡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "오식도동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "옥구읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "옥도면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "옥산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "옥서면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "월명동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "임피면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "장미동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "장재동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "조촌동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "죽성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "중앙로1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "중앙로2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "중앙로3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "지곡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "창성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "평화동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "해망동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "군산시",
+      "dong_eup_myeon": "회현면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "강흥동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "경원동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "경원동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "경원동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "고랑동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "고사동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "금상동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "금암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "남노송동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "남정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "다가동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "다가동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "다가동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "다가동4가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "대성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "덕진동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "덕진동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "도덕동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "도도동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "동서학동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "동완산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "만성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "반월동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "산정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "삼천동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "삼천동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "삼천동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "상림동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "색장동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "서노송동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "서서학동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "서신동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "서완산동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "서완산동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "석구동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "성덕동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "송천동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "송천동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "여의동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "용복동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "용정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "우아동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "우아동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "우아동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "원당동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "원동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "인후동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "인후동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "전동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "전동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "전미동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "전미동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중노송동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중앙동4가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중인동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중화산동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "중화산동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "진북동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "태평동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "팔복동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "팔복동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "팔복동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "팔복동4가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "평화동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "평화동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "평화동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "풍남동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "풍남동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "풍남동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "호성동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "호성동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "호성동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "효자동1가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "효자동2가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "전주시",
+      "dong_eup_myeon": "효자동3가"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "구림면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "금과면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "동계면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "복흥면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "순창읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "쌍치면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "유등면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "인계면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "적성면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "팔덕면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "순창군",
+      "dong_eup_myeon": "풍산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "강진면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "관촌면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "덕치면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "삼계면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "성수면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "신덕면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "신평면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "오수면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "운암면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "임실읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "지사면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "임실군",
+      "dong_eup_myeon": "청웅면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "고수면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "고창읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "공음면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "대산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "무장면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "부안면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "상하면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "성내면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "성송면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "신림면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "심원면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "아산면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "해리면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "고창군",
+      "dong_eup_myeon": "흥덕면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "감곡면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "고부면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "공평동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "과교동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "교암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "구룡동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "금붕동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "내장동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "농소동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "덕천면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "망제동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "부전동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "산내면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "산외면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "삼산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "상동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "상평동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "소성면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "송산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "수성동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "시기동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "신정동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "신태인읍"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "쌍암동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "연지동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "영원면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "영파동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "옹동면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "용계동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "이평면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "입암면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "장명동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "정우면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "진산동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "칠보면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "태인면"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "하모동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "하북동"
+    },
+    {
+      "sido": "전라북도",
+      "sigungu": "정읍시",
+      "dong_eup_myeon": "흑암동"
+    }
+  ],
+  "meta": {
+    "title": "Jeollabuk 시군구·동읍면 — Jeollabuk Districts & Neighborhoods - 무료 다운로드",
+    "description": "Jeollabuk (전라북도) — 시군구 및 동·읍·면 행정 지명 목록 410건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Jeollabuk 편. 필드: sido, sigungu, dong_eup_myeon. 포함 410 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Jeollabuk 시군구·동읍면 — Jeollabuk Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Jeollabuk 시군구·동읍면 — Jeollabuk Districts & Neighborhoods — 410 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 410 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

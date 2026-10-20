@@ -1,0 +1,169 @@
+{
+  "id": "ko-cheukjeong-danwi-pressure",
+  "name": "압력 단위 (12)",
+  "title": "압력 단위 (12)",
+  "description": "CLDR ko 로케일의 'pressure' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "pressure-atmosphere",
+      "bunryu": "pressure",
+      "ireum": "atm",
+      "yakja": "atm",
+      "gan_yakja": "atm",
+      "danwi_paeteon": "{0}atm",
+      "id": 1
+    },
+    {
+      "unit_code": "pressure-bar",
+      "bunryu": "pressure",
+      "ireum": "바",
+      "yakja": "bar",
+      "gan_yakja": "bar",
+      "danwi_paeteon": "{0}바",
+      "id": 2
+    },
+    {
+      "unit_code": "pressure-gasoline-energy-density",
+      "bunryu": "pressure",
+      "ireum": "gas E",
+      "yakja": "gas E",
+      "gan_yakja": "gas E",
+      "danwi_paeteon": "{0} gas E",
+      "id": 3
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "bunryu": "pressure",
+      "ireum": "헥토파스칼",
+      "yakja": "hPa",
+      "gan_yakja": "hPa",
+      "danwi_paeteon": "{0}헥토파스칼",
+      "id": 4
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "bunryu": "pressure",
+      "ireum": "수은주인치",
+      "yakja": "inHg",
+      "gan_yakja": "inHg",
+      "danwi_paeteon": "{0}수은주인치",
+      "id": 5
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "bunryu": "pressure",
+      "ireum": "킬로파스칼",
+      "yakja": "kPa",
+      "gan_yakja": "kPa",
+      "danwi_paeteon": "{0}킬로파스칼",
+      "id": 6
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "bunryu": "pressure",
+      "ireum": "메가파스칼",
+      "yakja": "MPa",
+      "gan_yakja": "MPa",
+      "danwi_paeteon": "{0}메가파스칼",
+      "id": 7
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "bunryu": "pressure",
+      "ireum": "밀리바",
+      "yakja": "mbar",
+      "gan_yakja": "mbar",
+      "danwi_paeteon": "{0}밀리바",
+      "id": 8
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "bunryu": "pressure",
+      "ireum": "수은주밀리미터",
+      "yakja": "mmHg",
+      "gan_yakja": "mmHg",
+      "danwi_paeteon": "{0}수은주밀리미터",
+      "id": 9
+    },
+    {
+      "unit_code": "pressure-ofhg",
+      "bunryu": "pressure",
+      "ireum": "수은주",
+      "yakja": "Hg",
+      "gan_yakja": "Hg",
+      "danwi_paeteon": "{0}수은주",
+      "id": 10
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "bunryu": "pressure",
+      "ireum": "파스칼",
+      "yakja": "Pa",
+      "gan_yakja": "Pa",
+      "danwi_paeteon": "{0}파스칼",
+      "id": 11
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "bunryu": "pressure",
+      "ireum": "제곱인치당 파운드",
+      "yakja": "psi",
+      "gan_yakja": "psi",
+      "danwi_paeteon": "{0}제곱인치당 파운드",
+      "id": 12
+    }
+  ],
+  "meta": {
+    "title": "압력 단위 (12) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'pressure' 분류 측정 단위와 한국어 명칭. 포함 12 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "압력 단위 (12) | ListBase",
+    "seo_description": "다운로드 압력 단위 (12) — 12 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 12 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

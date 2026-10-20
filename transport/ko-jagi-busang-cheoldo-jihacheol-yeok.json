@@ -1,0 +1,137 @@
+{
+  "id": "ko-jagi-busang-cheoldo-jihacheol-yeok",
+  "name": "자기부상철도 지하철 역 (Incheon Airport Maglev subway stations)",
+  "title": "자기부상철도 지하철 역 (Incheon Airport Maglev subway stations)",
+  "description": "자기부상철도(Incheon Airport Maglev)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 6개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Incheon Airport Maglev stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "인천공항1터미널",
+      "name_romanized": "",
+      "lines": "공항철도, 자기부상철도",
+      "lines_en": "AREX (Airport Railroad Express), Incheon Airport Maglev",
+      "lines_count": 2,
+      "latitude": 37.4475222,
+      "longitude": 126.4503834,
+      "around_stations": "인천공항2터미널, 공항화물청사, 장기주차장",
+      "around_count": 3
+    },
+    {
+      "name": "장기주차장",
+      "name_romanized": "",
+      "lines": "자기부상철도",
+      "lines_en": "Incheon Airport Maglev",
+      "lines_count": 1,
+      "latitude": 37.443916279157115,
+      "longitude": 126.45557721439164,
+      "around_stations": "인천공항1터미널, 합동청사",
+      "around_count": 2
+    },
+    {
+      "name": "합동청사",
+      "name_romanized": "",
+      "lines": "자기부상철도",
+      "lines_en": "Incheon Airport Maglev",
+      "lines_count": 1,
+      "latitude": 37.4413522,
+      "longitude": 126.4575236,
+      "around_stations": "장기주차장, 파라다이스시티",
+      "around_count": 2
+    },
+    {
+      "name": "파라다이스시티",
+      "name_romanized": "",
+      "lines": "자기부상철도",
+      "lines_en": "Incheon Airport Maglev",
+      "lines_count": 1,
+      "latitude": 37.4379539,
+      "longitude": 126.4580952,
+      "around_stations": "합동청사, 워터파크",
+      "around_count": 2
+    },
+    {
+      "name": "워터파크",
+      "name_romanized": "",
+      "lines": "자기부상철도",
+      "lines_en": "Incheon Airport Maglev",
+      "lines_count": 1,
+      "latitude": 37.429221,
+      "longitude": 126.434231,
+      "around_stations": "파라다이스시티, 용유",
+      "around_count": 2
+    },
+    {
+      "name": "용유",
+      "name_romanized": "",
+      "lines": "자기부상철도",
+      "lines_en": "Incheon Airport Maglev",
+      "lines_count": 1,
+      "latitude": 37.424832,
+      "longitude": 126.423652,
+      "around_stations": "워터파크",
+      "around_count": 1
+    }
+  ],
+  "meta": {
+    "title": "자기부상철도 지하철 역 (Incheon Airport Maglev subway stations) - 무료 다운로드",
+    "description": "자기부상철도(Incheon Airport Maglev)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 6개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Incheon Airport Maglev stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 6 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "자기부상철도 지하철 역 (Incheon Airport Maglev subway stations) | ListBase",
+    "seo_description": "다운로드 자기부상철도 지하철 역 (Incheon Airport Maglev subway stations) — 6 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 6 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

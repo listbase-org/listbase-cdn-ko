@@ -1,0 +1,181 @@
+{
+  "id": "ko-gyeongsangnam-gyegok",
+  "name": "계곡 — 경상남도",
+  "title": "계곡 — 경상남도",
+  "description": "경상남도에 위치한 계곡(골) 10건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "mountain_at",
+      "label": "Mountain At",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27331316",
+      "name_ko": "느릅묵골",
+      "name_en": "느릅묵골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.679444,
+      "longitude": 128.121111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27321881",
+      "name_ko": "대바위골",
+      "name_en": "대바위골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.595,
+      "longitude": 127.900833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27331279",
+      "name_ko": "두산지음골",
+      "name_en": "두산지음골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.670278,
+      "longitude": 128.091667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27323602",
+      "name_ko": "마학골",
+      "name_en": "마학골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.795278,
+      "longitude": 127.743333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27331275",
+      "name_ko": "불로골",
+      "name_en": "불로골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.532778,
+      "longitude": 128.166389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27321894",
+      "name_ko": "시험골",
+      "name_en": "시험골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.700833,
+      "longitude": 127.763889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27324901",
+      "name_ko": "안깊은골",
+      "name_en": "안깊은골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.559722,
+      "longitude": 128.544444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27331310",
+      "name_ko": "지실골",
+      "name_en": "지실골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.661389,
+      "longitude": 128.052778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27331312",
+      "name_ko": "한실골",
+      "name_en": "한실골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 35.654167,
+      "longitude": 128.068611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27323471",
+      "name_ko": "한치골",
+      "name_en": "한치골",
+      "mountain_at": "",
+      "located_in_at": "경상남도",
+      "latitude": 34.920556,
+      "longitude": 128.375,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "계곡 — 경상남도 - 무료 다운로드",
+    "description": "경상남도에 위치한 계곡(골) 10건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함. 포함 10 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "계곡 — 경상남도 | ListBase",
+    "seo_description": "다운로드 계곡 — 경상남도 — 10 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 10 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

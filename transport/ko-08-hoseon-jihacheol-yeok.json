@@ -1,0 +1,258 @@
+{
+  "id": "ko-08-hoseon-jihacheol-yeok",
+  "name": "08호선 지하철 역 (Line 8 subway stations)",
+  "title": "08호선 지하철 역 (Line 8 subway stations)",
+  "description": "08호선(Line 8)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 17개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 8 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "잠실",
+      "name_romanized": "jamsil",
+      "lines": "02호선, 08호선",
+      "lines_en": "Line 2, Line 8",
+      "lines_count": 2,
+      "latitude": 37.51395,
+      "longitude": 127.102234,
+      "around_stations": "석촌, 몽촌토성, 잠실나루, 잠실새내",
+      "around_count": 4
+    },
+    {
+      "name": "가락시장",
+      "name_romanized": "",
+      "lines": "03호선, 08호선",
+      "lines_en": "Line 3, Line 8",
+      "lines_count": 2,
+      "latitude": 37.492522,
+      "longitude": 127.118234,
+      "around_stations": "수서, 경찰병원, 송파, 문정",
+      "around_count": 4
+    },
+    {
+      "name": "천호",
+      "name_romanized": "",
+      "lines": "05호선, 08호선",
+      "lines_en": "Line 5, Line 8",
+      "lines_count": 2,
+      "latitude": 37.538397,
+      "longitude": 127.123572,
+      "around_stations": "광나루, 강동, 강동구청, 암사",
+      "around_count": 4
+    },
+    {
+      "name": "암사",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.55021,
+      "longitude": 127.127562,
+      "around_stations": "천호",
+      "around_count": 1
+    },
+    {
+      "name": "강동구청",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.530341,
+      "longitude": 127.120508,
+      "around_stations": "몽촌토성, 천호",
+      "around_count": 2
+    },
+    {
+      "name": "몽촌토성",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.517409,
+      "longitude": 127.112359,
+      "around_stations": "잠실, 강동구청",
+      "around_count": 2
+    },
+    {
+      "name": "신흥",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.440918,
+      "longitude": 127.147564,
+      "around_stations": "수진, 단대오거리",
+      "around_count": 2
+    },
+    {
+      "name": "수진",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.437428,
+      "longitude": 127.140722,
+      "around_stations": "모란, 신흥",
+      "around_count": 2
+    },
+    {
+      "name": "모란",
+      "name_romanized": "",
+      "lines": "08호선, 수인분당선",
+      "lines_en": "Line 8, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.43213,
+      "longitude": 127.129087,
+      "around_stations": "야탑, 태평, 수진",
+      "around_count": 3
+    },
+    {
+      "name": "석촌",
+      "name_romanized": "",
+      "lines": "08호선, 09호선",
+      "lines_en": "Line 8, Line 9",
+      "lines_count": 2,
+      "latitude": 37.505431,
+      "longitude": 127.106979,
+      "around_stations": "석촌고분, 송파나루, 잠실, 송파",
+      "around_count": 4
+    },
+    {
+      "name": "송파",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.499703,
+      "longitude": 127.112183,
+      "around_stations": "가락시장, 석촌",
+      "around_count": 2
+    },
+    {
+      "name": "문정",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.485855,
+      "longitude": 127.1225,
+      "around_stations": "장지, 가락시장",
+      "around_count": 2
+    },
+    {
+      "name": "장지",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.478703,
+      "longitude": 127.126191,
+      "around_stations": "복정, 문정",
+      "around_count": 2
+    },
+    {
+      "name": "복정",
+      "name_romanized": "",
+      "lines": "08호선, 수인분당선",
+      "lines_en": "Line 8, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.470047,
+      "longitude": 127.126662,
+      "around_stations": "가천대, 수서, 산성, 장지",
+      "around_count": 4
+    },
+    {
+      "name": "산성",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.457122,
+      "longitude": 127.149908,
+      "around_stations": "남한산성입구, 복정",
+      "around_count": 2
+    },
+    {
+      "name": "남한산성입구",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.451535,
+      "longitude": 127.159816,
+      "around_stations": "단대오거리, 산성",
+      "around_count": 2
+    },
+    {
+      "name": "단대오거리",
+      "name_romanized": "",
+      "lines": "08호선",
+      "lines_en": "Line 8",
+      "lines_count": 1,
+      "latitude": 37.44521,
+      "longitude": 127.156866,
+      "around_stations": "신흥, 남한산성입구",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "08호선 지하철 역 (Line 8 subway stations) - 무료 다운로드",
+    "description": "08호선(Line 8)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 17개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 8 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 17 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "08호선 지하철 역 (Line 8 subway stations) | ListBase",
+    "seo_description": "다운로드 08호선 지하철 역 (Line 8 subway stations) — 17 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 17 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

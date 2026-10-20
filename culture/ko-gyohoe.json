@@ -1,0 +1,306 @@
+{
+  "id": "ko-gyohoe",
+  "name": "대한민국의 교회 (Churches of South Korea)",
+  "title": "대한민국의 교회 (Churches of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 교회 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "가실성당",
+      "name_en": "Gasil Cathedral",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.936666666,
+      "longitude": 128.405277777,
+      "wikidata_id": "Q16799631",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16799631"
+    },
+    {
+      "name_ko": "감곡성당",
+      "name_en": "Gamgok Catholic Church",
+      "admin_area_ko": "음성군",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 37.121388888,
+      "longitude": 127.641111111,
+      "wikidata_id": "Q12582625",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582625"
+    },
+    {
+      "name_ko": "강릉 임당동성당",
+      "name_en": "",
+      "admin_area_ko": "강릉시",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.754361111,
+      "longitude": 128.892027777,
+      "wikidata_id": "Q19598709",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19598709"
+    },
+    {
+      "name_ko": "구 철원 제일교회",
+      "name_en": "",
+      "admin_area_ko": "철원읍",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.250555555,
+      "longitude": 127.203888888,
+      "wikidata_id": "Q16726703",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16726703"
+    },
+    {
+      "name_ko": "남제주 강병대교회",
+      "name_en": "",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.226666666,
+      "longitude": 126.2575,
+      "wikidata_id": "Q18683809",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18683809"
+    },
+    {
+      "name_ko": "당진 솔뫼마을 김대건신부 유적",
+      "name_en": "Roman Catholic Shrine of Solmoe",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.819727,
+      "longitude": 126.785793,
+      "wikidata_id": "Q18156293",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18156293"
+    },
+    {
+      "name_ko": "대구제일교회",
+      "name_en": "Daegu first church",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 35.86769,
+      "longitude": 128.58562,
+      "wikidata_id": "Q12591362",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12591362"
+    },
+    {
+      "name_ko": "명성교회",
+      "name_en": "Myungsung Presbyterian Church",
+      "admin_area_ko": "명일동",
+      "admin_area_en": "Myeongil-dong",
+      "latitude": 37.548293878,
+      "longitude": 127.148159577,
+      "wikidata_id": "Q6949320",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6949320"
+    },
+    {
+      "name_ko": "새남터",
+      "name_en": "Saenamteo",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5249626,
+      "longitude": 126.956892,
+      "wikidata_id": "Q3461233",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3461233"
+    },
+    {
+      "name_ko": "서울 해병대사령부 초대교회",
+      "name_en": "Seoul Marine Corps Headquarters First Church",
+      "admin_area_ko": "용산동",
+      "admin_area_en": "Seoul",
+      "latitude": 37.542222222,
+      "longitude": 126.980277777,
+      "wikidata_id": "Q93732166",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q93732166"
+    },
+    {
+      "name_ko": "성공회 내동성당",
+      "name_en": "Naedong Anglican Church",
+      "admin_area_ko": "동인천동",
+      "admin_area_en": "Dongincheon-dong",
+      "latitude": 37.474027589,
+      "longitude": 126.627521985,
+      "wikidata_id": "Q12601864",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601864"
+    },
+    {
+      "name_ko": "성공회 수동성당",
+      "name_en": "Cheongju Anglican Church",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.638055555,
+      "longitude": 127.494166666,
+      "wikidata_id": "Q12601866",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601866"
+    },
+    {
+      "name_ko": "성공회 온수리성당",
+      "name_en": "Ganghwa Onsuri Anglican Church",
+      "admin_area_ko": "강화군",
+      "admin_area_en": "Ganghwa County",
+      "latitude": 37.640555555,
+      "longitude": 126.490277777,
+      "wikidata_id": "Q12601867",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601867"
+    },
+    {
+      "name_ko": "승동교회",
+      "name_en": "Seungdong Church",
+      "admin_area_ko": "인사동",
+      "admin_area_en": "Insa-dong",
+      "latitude": 37.571388888,
+      "longitude": 126.986111111,
+      "wikidata_id": "Q12603840",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603840"
+    },
+    {
+      "name_ko": "아산 공세리성당",
+      "name_en": "Gongseri Roman Catholic Church",
+      "admin_area_ko": "아산시",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.883333333,
+      "longitude": 126.913416666,
+      "wikidata_id": "Q19657159",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19657159"
+    },
+    {
+      "name_ko": "여의도순복음교회",
+      "name_en": "Yoido Full Gospel Church",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.531044,
+      "longitude": 126.923265,
+      "wikidata_id": "Q485338",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q485338"
+    },
+    {
+      "name_ko": "영락교회",
+      "name_en": "Young Nak Presbyterian Church",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.563954,
+      "longitude": 126.988946,
+      "wikidata_id": "Q1756443",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1756443"
+    },
+    {
+      "name_ko": "용산신학교와 원효로성당",
+      "name_en": "Yongsan Theological Seminary and Wonhyoro Catholic Church",
+      "admin_area_ko": "용산구",
+      "admin_area_en": "Yongsan District",
+      "latitude": 37.534809,
+      "longitude": 126.954076,
+      "wikidata_id": "Q16094228",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094228"
+    },
+    {
+      "name_ko": "정교회 성 바울로 성당",
+      "name_en": "Saint Paul Orthodox church in Incheon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.462966,
+      "longitude": 126.704168,
+      "wikidata_id": "Q16167004",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16167004"
+    },
+    {
+      "name_ko": "정교회 성모희보성당",
+      "name_en": "Orthodox church of the Annunciation of Our Lady in Busan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.1059,
+      "longitude": 129.030937,
+      "wikidata_id": "Q11648089",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11648089"
+    },
+    {
+      "name_ko": "정동제일교회",
+      "name_en": "Chungdong First Methodist Church",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.565555555,
+      "longitude": 126.972222222,
+      "wikidata_id": "Q12615535",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12615535"
+    },
+    {
+      "name_ko": "천도교 중앙대교당",
+      "name_en": "Cheondogyo Jungangdaegyodang",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.5752149,
+      "longitude": 126.9833985,
+      "wikidata_id": "Q12618846",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618846"
+    },
+    {
+      "name_ko": "합덕성당",
+      "name_en": "Hapdeok Catholic church",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.792917,
+      "longitude": 126.785639,
+      "wikidata_id": "Q16631231",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16631231"
+    },
+    {
+      "name_ko": "혜화동성당",
+      "name_en": "Hyehwa-dong church",
+      "admin_area_ko": "혜화동",
+      "admin_area_en": "Seoul",
+      "latitude": 37.586125,
+      "longitude": 127.0025,
+      "wikidata_id": "Q16799669",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16799669"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 교회 (Churches of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 교회 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 24 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 교회 (Churches of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 교회 (Churches of South Korea) — 24 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 24 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

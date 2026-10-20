@@ -1,0 +1,72 @@
+{
+  "id": "ko-pusan-eunhaeng",
+  "name": "Pusan 은행 — SWIFT/BIC 코드",
+  "title": "Pusan 은행 — SWIFT/BIC 코드",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KR located in the city the source records verbatim as \"PUSAN\" (3 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 8,
+      "bank": "BANK OF AMERICA, N.A. PUSAN",
+      "city": "PUSAN",
+      "branch": "",
+      "swift_code": "BOFAKR2102P"
+    },
+    {
+      "id": 61,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "PUSAN",
+      "branch": "",
+      "swift_code": "DEUTKRS102P"
+    },
+    {
+      "id": 271,
+      "bank": "YAMAGUCHI BANK, LTD., THE, BUSAN BRANCH",
+      "city": "PUSAN",
+      "branch": "",
+      "swift_code": "YMBKKR2P"
+    }
+  ],
+  "meta": {
+    "title": "Pusan 은행 — SWIFT/BIC 코드 - 무료 다운로드",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KR located in the city the source records verbatim as \"PUSAN\" (3 institutions). 포함 3 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Pusan 은행 — SWIFT/BIC 코드 | ListBase",
+    "seo_description": "다운로드 Pusan 은행 — SWIFT/BIC 코드 — 3 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 3 건 / 5 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "ko-seupji",
+  "name": "대한민국의 습지 (Wetlands of South Korea)",
+  "title": "대한민국의 습지 (Wetlands of South Korea)",
+  "description": "대한민국에 위치한 습지 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q124974582",
+      "name_ko": "1100 고도 습지",
+      "name_en": "1100 Altitude Wetland",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.35,
+      "longitude": 126.466667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q5521127",
+      "name_ko": "강화 매화마름 군락지",
+      "name_en": "Ganghwa Maehwamarum Habitat",
+      "located_in_at": "길상면",
+      "latitude": 37.616667,
+      "longitude": 126.516667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94_%EB%A7%A4%ED%99%94%EB%A7%88%EB%A6%84_%EA%B5%B0%EB%9D%BD%EC%A7%80"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q124974574",
+      "name_ko": "대부도갯벌",
+      "name_en": "Daebudo Tidal Flat",
+      "located_in_at": "안산시",
+      "latitude": 37.216667,
+      "longitude": 126.566667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q7739606",
+      "name_ko": "대암산 용늪 고습지",
+      "name_en": "The High Moor, Yongneup of Mt. Daeam",
+      "located_in_at": "",
+      "latitude": 38.215556,
+      "longitude": 128.123889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q137351747",
+      "name_ko": "대평늪",
+      "name_en": "Daepyeong Neup",
+      "located_in_at": "함안군",
+      "latitude": 35.338692,
+      "longitude": 128.338909,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q30156824",
+      "name_ko": "두웅습지",
+      "name_en": "Du-ung wetland",
+      "located_in_at": "충청남도",
+      "latitude": 36.833333,
+      "longitude": 126.183333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%91%90%EC%9B%85%EC%8A%B5%EC%A7%80"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q16745726",
+      "name_ko": "물장오리오름",
+      "name_en": "Muljangori-oreum wetland",
+      "located_in_at": "제주",
+      "latitude": 33.4,
+      "longitude": 126.616667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AC%BC%EC%9E%A5%EC%98%A4%EB%A6%AC%EC%98%A4%EB%A6%84"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q24000169",
+      "name_ko": "영월 한반도 지형",
+      "name_en": "Hanbando Wetland Ramsar Site",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.218056,
+      "longitude": 128.331944,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94_%ED%95%9C%EB%B0%98%EB%8F%84_%EC%A7%80%ED%98%95"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q7077221",
+      "name_ko": "오대산국립공원 습지",
+      "name_en": "Odaesan National Park Wetlands",
+      "located_in_at": "",
+      "latitude": 37.766667,
+      "longitude": 128.666667,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 습지 (Wetlands of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 습지 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 9 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 습지 (Wetlands of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 습지 (Wetlands of South Korea) — 9 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 9 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

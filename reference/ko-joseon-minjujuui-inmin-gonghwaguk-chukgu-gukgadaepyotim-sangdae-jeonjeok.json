@@ -1,0 +1,874 @@
+{
+  "id": "ko-joseon-minjujuui-inmin-gonghwaguk-chukgu-gukgadaepyotim-sangdae-jeonjeok",
+  "name": "조선민주주의인민공화국(북한) 축구 국가대표팀 — 상대팀별 통산 전적 (73개 팀)",
+  "title": "조선민주주의인민공화국(북한) 축구 국가대표팀 — 상대팀별 통산 전적 (73개 팀)",
+  "description": "조선민주주의인민공화국(북한) 축구 국가대표팀 — results.csv의 모든 경기에서 계산한 상대팀별 통산 전적: 경기 수, 승, 무, 패, 득점, 실점, 첫 경기와 최근 경기. 최종 점수 기준(승부차기 제외). 경기 수 순으로 정렬.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "sangdaeteam",
+      "label": "Sangdaeteam",
+      "type": "string"
+    },
+    {
+      "key": "gyeonggi_su",
+      "label": "Gyeonggi Su",
+      "type": "number"
+    },
+    {
+      "key": "seung",
+      "label": "Seung",
+      "type": "number"
+    },
+    {
+      "key": "mu",
+      "label": "Mu",
+      "type": "number"
+    },
+    {
+      "key": "pae",
+      "label": "Pae",
+      "type": "number"
+    },
+    {
+      "key": "deukjeom",
+      "label": "Deukjeom",
+      "type": "number"
+    },
+    {
+      "key": "siljeom",
+      "label": "Siljeom",
+      "type": "number"
+    },
+    {
+      "key": "cheot_gyeonggi",
+      "label": "Cheot Gyeonggi",
+      "type": "date"
+    },
+    {
+      "key": "choegeun_gyeonggi",
+      "label": "Choegeun Gyeonggi",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "sangdaeteam": "China",
+      "gyeonggi_su": 27,
+      "seung": 8,
+      "mu": 7,
+      "pae": 12,
+      "deukjeom": 26,
+      "siljeom": 33,
+      "cheot_gyeonggi": "1956-10-07",
+      "choegeun_gyeonggi": "2017-12-16"
+    },
+    {
+      "sangdaeteam": "Iran",
+      "gyeonggi_su": 21,
+      "seung": 0,
+      "mu": 4,
+      "pae": 17,
+      "deukjeom": 9,
+      "siljeom": 36,
+      "cheot_gyeonggi": "1973-05-04",
+      "choegeun_gyeonggi": "2025-06-10"
+    },
+    {
+      "sangdaeteam": "Japan",
+      "gyeonggi_su": 20,
+      "seung": 7,
+      "mu": 4,
+      "pae": 9,
+      "deukjeom": 14,
+      "siljeom": 20,
+      "cheot_gyeonggi": "1975-06-17",
+      "choegeun_gyeonggi": "2024-03-21"
+    },
+    {
+      "sangdaeteam": "South Korea",
+      "gyeonggi_su": 19,
+      "seung": 1,
+      "mu": 10,
+      "pae": 8,
+      "deukjeom": 6,
+      "siljeom": 17,
+      "cheot_gyeonggi": "1978-12-20",
+      "choegeun_gyeonggi": "2019-10-15"
+    },
+    {
+      "sangdaeteam": "Thailand",
+      "gyeonggi_su": 18,
+      "seung": 9,
+      "mu": 5,
+      "pae": 4,
+      "deukjeom": 29,
+      "siljeom": 18,
+      "cheot_gyeonggi": "1978-12-15",
+      "choegeun_gyeonggi": "2017-07-14"
+    },
+    {
+      "sangdaeteam": "Hong Kong",
+      "gyeonggi_su": 16,
+      "seung": 10,
+      "mu": 6,
+      "pae": 0,
+      "deukjeom": 28,
+      "siljeom": 9,
+      "cheot_gyeonggi": "1975-06-24",
+      "choegeun_gyeonggi": "2018-11-13"
+    },
+    {
+      "sangdaeteam": "Kuwait",
+      "gyeonggi_su": 14,
+      "seung": 1,
+      "mu": 7,
+      "pae": 6,
+      "deukjeom": 12,
+      "siljeom": 20,
+      "cheot_gyeonggi": "1973-05-08",
+      "choegeun_gyeonggi": "2014-10-31"
+    },
+    {
+      "sangdaeteam": "Qatar",
+      "gyeonggi_su": 14,
+      "seung": 4,
+      "mu": 6,
+      "pae": 4,
+      "deukjeom": 18,
+      "siljeom": 26,
+      "cheot_gyeonggi": "1989-10-20",
+      "choegeun_gyeonggi": "2025-03-20"
+    },
+    {
+      "sangdaeteam": "United Arab Emirates",
+      "gyeonggi_su": 12,
+      "seung": 3,
+      "mu": 5,
+      "pae": 4,
+      "deukjeom": 12,
+      "siljeom": 11,
+      "cheot_gyeonggi": "1989-10-12",
+      "choegeun_gyeonggi": "2025-03-25"
+    },
+    {
+      "sangdaeteam": "Uzbekistan",
+      "gyeonggi_su": 12,
+      "seung": 1,
+      "mu": 2,
+      "pae": 9,
+      "deukjeom": 7,
+      "siljeom": 22,
+      "cheot_gyeonggi": "1998-12-07",
+      "choegeun_gyeonggi": "2024-11-19"
+    },
+    {
+      "sangdaeteam": "Saudi Arabia",
+      "gyeonggi_su": 11,
+      "seung": 1,
+      "mu": 4,
+      "pae": 6,
+      "deukjeom": 6,
+      "siljeom": 18,
+      "cheot_gyeonggi": "1982-11-24",
+      "choegeun_gyeonggi": "2019-01-08"
+    },
+    {
+      "sangdaeteam": "Singapore",
+      "gyeonggi_su": 10,
+      "seung": 8,
+      "mu": 1,
+      "pae": 1,
+      "deukjeom": 19,
+      "siljeom": 8,
+      "cheot_gyeonggi": "1975-06-19",
+      "choegeun_gyeonggi": "2010-11-02"
+    },
+    {
+      "sangdaeteam": "Syria",
+      "gyeonggi_su": 10,
+      "seung": 3,
+      "mu": 3,
+      "pae": 4,
+      "deukjeom": 12,
+      "siljeom": 16,
+      "cheot_gyeonggi": "1973-05-06",
+      "choegeun_gyeonggi": "2024-06-06"
+    },
+    {
+      "sangdaeteam": "Indonesia",
+      "gyeonggi_su": 9,
+      "seung": 8,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 28,
+      "siljeom": 4,
+      "cheot_gyeonggi": "1963-11-18",
+      "choegeun_gyeonggi": "2012-09-10"
+    },
+    {
+      "sangdaeteam": "Jordan",
+      "gyeonggi_su": 9,
+      "seung": 3,
+      "mu": 3,
+      "pae": 3,
+      "deukjeom": 8,
+      "siljeom": 8,
+      "cheot_gyeonggi": "2001-01-28",
+      "choegeun_gyeonggi": "2025-03-14"
+    },
+    {
+      "sangdaeteam": "Lebanon",
+      "gyeonggi_su": 9,
+      "seung": 1,
+      "mu": 3,
+      "pae": 5,
+      "deukjeom": 6,
+      "siljeom": 15,
+      "cheot_gyeonggi": "2000-02-16",
+      "choegeun_gyeonggi": "2019-11-19"
+    },
+    {
+      "sangdaeteam": "India",
+      "gyeonggi_su": 8,
+      "seung": 7,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 23,
+      "siljeom": 6,
+      "cheot_gyeonggi": "1974-09-06",
+      "choegeun_gyeonggi": "2019-07-13"
+    },
+    {
+      "sangdaeteam": "Iraq",
+      "gyeonggi_su": 8,
+      "seung": 3,
+      "mu": 1,
+      "pae": 4,
+      "deukjeom": 7,
+      "siljeom": 8,
+      "cheot_gyeonggi": "1974-09-04",
+      "choegeun_gyeonggi": "2016-08-21"
+    },
+    {
+      "sangdaeteam": "Malaysia",
+      "gyeonggi_su": 8,
+      "seung": 4,
+      "mu": 3,
+      "pae": 1,
+      "deukjeom": 16,
+      "siljeom": 7,
+      "cheot_gyeonggi": "1974-09-15",
+      "choegeun_gyeonggi": "2017-11-13"
+    },
+    {
+      "sangdaeteam": "Vietnam",
+      "gyeonggi_su": 8,
+      "seung": 3,
+      "mu": 4,
+      "pae": 1,
+      "deukjeom": 10,
+      "siljeom": 7,
+      "cheot_gyeonggi": "1993-04-09",
+      "choegeun_gyeonggi": "2018-12-25"
+    },
+    {
+      "sangdaeteam": "Bahrain",
+      "gyeonggi_su": 7,
+      "seung": 4,
+      "mu": 1,
+      "pae": 2,
+      "deukjeom": 10,
+      "siljeom": 10,
+      "cheot_gyeonggi": "2005-03-25",
+      "choegeun_gyeonggi": "2018-12-29"
+    },
+    {
+      "sangdaeteam": "Mongolia",
+      "gyeonggi_su": 7,
+      "seung": 7,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 43,
+      "siljeom": 4,
+      "cheot_gyeonggi": "1960-10-10",
+      "choegeun_gyeonggi": "2018-11-11"
+    },
+    {
+      "sangdaeteam": "Myanmar",
+      "gyeonggi_su": 7,
+      "seung": 6,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 25,
+      "siljeom": 4,
+      "cheot_gyeonggi": "1974-09-14",
+      "choegeun_gyeonggi": "2024-06-11"
+    },
+    {
+      "sangdaeteam": "Turkmenistan",
+      "gyeonggi_su": 7,
+      "seung": 2,
+      "mu": 4,
+      "pae": 1,
+      "deukjeom": 7,
+      "siljeom": 7,
+      "cheot_gyeonggi": "1998-12-09",
+      "choegeun_gyeonggi": "2019-11-14"
+    },
+    {
+      "sangdaeteam": "North Vietnam",
+      "gyeonggi_su": 6,
+      "seung": 6,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 17,
+      "siljeom": 2,
+      "cheot_gyeonggi": "1956-10-10",
+      "choegeun_gyeonggi": "1966-12-06"
+    },
+    {
+      "sangdaeteam": "Tajikistan",
+      "gyeonggi_su": 6,
+      "seung": 4,
+      "mu": 1,
+      "pae": 1,
+      "deukjeom": 6,
+      "siljeom": 2,
+      "cheot_gyeonggi": "2008-08-07",
+      "choegeun_gyeonggi": "2019-07-19"
+    },
+    {
+      "sangdaeteam": "Yemen",
+      "gyeonggi_su": 6,
+      "seung": 4,
+      "mu": 2,
+      "pae": 0,
+      "deukjeom": 22,
+      "siljeom": 3,
+      "cheot_gyeonggi": "1966-11-30",
+      "choegeun_gyeonggi": "2015-10-13"
+    },
+    {
+      "sangdaeteam": "Guam",
+      "gyeonggi_su": 5,
+      "seung": 5,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 42,
+      "siljeom": 3,
+      "cheot_gyeonggi": "2005-03-11",
+      "choegeun_gyeonggi": "2016-11-09"
+    },
+    {
+      "sangdaeteam": "Macau",
+      "gyeonggi_su": 5,
+      "seung": 5,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 26,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1980-12-22",
+      "choegeun_gyeonggi": "2009-12-04"
+    },
+    {
+      "sangdaeteam": "Nepal",
+      "gyeonggi_su": 4,
+      "seung": 4,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 11,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1985-04-29",
+      "choegeun_gyeonggi": "2011-04-09"
+    },
+    {
+      "sangdaeteam": "Philippines",
+      "gyeonggi_su": 4,
+      "seung": 2,
+      "mu": 1,
+      "pae": 1,
+      "deukjeom": 7,
+      "siljeom": 4,
+      "cheot_gyeonggi": "2012-03-09",
+      "choegeun_gyeonggi": "2016-10-10"
+    },
+    {
+      "sangdaeteam": "Taiwan",
+      "gyeonggi_su": 4,
+      "seung": 4,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 16,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1992-06-03",
+      "choegeun_gyeonggi": "2018-11-16"
+    },
+    {
+      "sangdaeteam": "Australia",
+      "gyeonggi_su": 3,
+      "seung": 2,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 10,
+      "siljeom": 3,
+      "cheot_gyeonggi": "1965-11-21",
+      "choegeun_gyeonggi": "2012-12-05"
+    },
+    {
+      "sangdaeteam": "Bulgaria",
+      "gyeonggi_su": 3,
+      "seung": 0,
+      "mu": 0,
+      "pae": 3,
+      "deukjeom": 1,
+      "siljeom": 12,
+      "cheot_gyeonggi": "1974-05-25",
+      "choegeun_gyeonggi": "1986-04-30"
+    },
+    {
+      "sangdaeteam": "Kyrgyzstan",
+      "gyeonggi_su": 3,
+      "seung": 1,
+      "mu": 1,
+      "pae": 1,
+      "deukjeom": 6,
+      "siljeom": 3,
+      "cheot_gyeonggi": "2010-02-19",
+      "choegeun_gyeonggi": "2025-06-05"
+    },
+    {
+      "sangdaeteam": "Sri Lanka",
+      "gyeonggi_su": 3,
+      "seung": 3,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 8,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2008-07-31",
+      "choegeun_gyeonggi": "2019-09-10"
+    },
+    {
+      "sangdaeteam": "Sweden",
+      "gyeonggi_su": 3,
+      "seung": 0,
+      "mu": 2,
+      "pae": 1,
+      "deukjeom": 2,
+      "siljeom": 6,
+      "cheot_gyeonggi": "2003-02-18",
+      "choegeun_gyeonggi": "2013-01-23"
+    },
+    {
+      "sangdaeteam": "Bangladesh",
+      "gyeonggi_su": 2,
+      "seung": 2,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 4,
+      "siljeom": 2,
+      "cheot_gyeonggi": "1980-09-16",
+      "choegeun_gyeonggi": "1985-05-04"
+    },
+    {
+      "sangdaeteam": "Cambodia",
+      "gyeonggi_su": 2,
+      "seung": 2,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 6,
+      "siljeom": 0,
+      "cheot_gyeonggi": "1965-08-10",
+      "choegeun_gyeonggi": "1966-11-26"
+    },
+    {
+      "sangdaeteam": "Canada",
+      "gyeonggi_su": 2,
+      "seung": 1,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 0,
+      "cheot_gyeonggi": "1986-08-27",
+      "choegeun_gyeonggi": "1986-09-04"
+    },
+    {
+      "sangdaeteam": "Egypt",
+      "gyeonggi_su": 2,
+      "seung": 0,
+      "mu": 1,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 2,
+      "cheot_gyeonggi": "1963-11-22",
+      "choegeun_gyeonggi": "2001-01-23"
+    },
+    {
+      "sangdaeteam": "Latvia",
+      "gyeonggi_su": 2,
+      "seung": 0,
+      "mu": 1,
+      "pae": 1,
+      "deukjeom": 2,
+      "siljeom": 3,
+      "cheot_gyeonggi": "2005-12-26",
+      "choegeun_gyeonggi": "2005-12-30"
+    },
+    {
+      "sangdaeteam": "Palestine",
+      "gyeonggi_su": 2,
+      "seung": 2,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 7,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1966-11-29",
+      "choegeun_gyeonggi": "2012-03-16"
+    },
+    {
+      "sangdaeteam": "Portugal",
+      "gyeonggi_su": 2,
+      "seung": 0,
+      "mu": 0,
+      "pae": 2,
+      "deukjeom": 3,
+      "siljeom": 12,
+      "cheot_gyeonggi": "1966-07-23",
+      "choegeun_gyeonggi": "2010-06-21"
+    },
+    {
+      "sangdaeteam": "Russia",
+      "gyeonggi_su": 2,
+      "seung": 1,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 3,
+      "cheot_gyeonggi": "1966-07-12",
+      "choegeun_gyeonggi": "1987-02-21"
+    },
+    {
+      "sangdaeteam": "Afghanistan",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2011-04-11",
+      "choegeun_gyeonggi": "2011-04-11"
+    },
+    {
+      "sangdaeteam": "Algeria",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 3,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1969-12-05",
+      "choegeun_gyeonggi": "1969-12-05"
+    },
+    {
+      "sangdaeteam": "Bolivia",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1993-01-19",
+      "choegeun_gyeonggi": "1993-01-19"
+    },
+    {
+      "sangdaeteam": "Brazil",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 2,
+      "cheot_gyeonggi": "2010-06-15",
+      "choegeun_gyeonggi": "2010-06-15"
+    },
+    {
+      "sangdaeteam": "Burkina Faso",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 3,
+      "siljeom": 3,
+      "cheot_gyeonggi": "2017-07-16",
+      "choegeun_gyeonggi": "2017-07-16"
+    },
+    {
+      "sangdaeteam": "Chile",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 1,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1966-07-15",
+      "choegeun_gyeonggi": "1966-07-15"
+    },
+    {
+      "sangdaeteam": "Congo",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 0,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2009-10-13",
+      "choegeun_gyeonggi": "2009-10-13"
+    },
+    {
+      "sangdaeteam": "Finland",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 3,
+      "siljeom": 2,
+      "cheot_gyeonggi": "1993-01-31",
+      "choegeun_gyeonggi": "1993-01-31"
+    },
+    {
+      "sangdaeteam": "Greece",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 2,
+      "cheot_gyeonggi": "2010-05-25",
+      "choegeun_gyeonggi": "2010-05-25"
+    },
+    {
+      "sangdaeteam": "Guinea",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 3,
+      "siljeom": 0,
+      "cheot_gyeonggi": "1965-08-07",
+      "choegeun_gyeonggi": "1965-08-07"
+    },
+    {
+      "sangdaeteam": "Israel",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 0,
+      "siljeom": 2,
+      "cheot_gyeonggi": "1974-09-12",
+      "choegeun_gyeonggi": "1974-09-12"
+    },
+    {
+      "sangdaeteam": "Italy",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 1,
+      "siljeom": 0,
+      "cheot_gyeonggi": "1966-07-19",
+      "choegeun_gyeonggi": "1966-07-19"
+    },
+    {
+      "sangdaeteam": "Ivory Coast",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 0,
+      "siljeom": 3,
+      "cheot_gyeonggi": "2010-06-25",
+      "choegeun_gyeonggi": "2010-06-25"
+    },
+    {
+      "sangdaeteam": "Kazakhstan",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 0,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2006-02-24",
+      "choegeun_gyeonggi": "2006-02-24"
+    },
+    {
+      "sangdaeteam": "Laos",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 1,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2013-02-06",
+      "choegeun_gyeonggi": "2013-02-06"
+    },
+    {
+      "sangdaeteam": "Mali",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 1,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2009-12-27",
+      "choegeun_gyeonggi": "2009-12-27"
+    },
+    {
+      "sangdaeteam": "Mexico",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 2,
+      "cheot_gyeonggi": "2010-03-17",
+      "choegeun_gyeonggi": "2010-03-17"
+    },
+    {
+      "sangdaeteam": "Nigeria",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 3,
+      "cheot_gyeonggi": "2010-06-06",
+      "choegeun_gyeonggi": "2010-06-06"
+    },
+    {
+      "sangdaeteam": "Norway",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 0,
+      "siljeom": 3,
+      "cheot_gyeonggi": "1973-07-25",
+      "choegeun_gyeonggi": "1973-07-25"
+    },
+    {
+      "sangdaeteam": "Oman",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 2,
+      "cheot_gyeonggi": "2007-06-28",
+      "choegeun_gyeonggi": "2007-06-28"
+    },
+    {
+      "sangdaeteam": "Pakistan",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 0,
+      "siljeom": 0,
+      "cheot_gyeonggi": "1985-04-28",
+      "choegeun_gyeonggi": "1985-04-28"
+    },
+    {
+      "sangdaeteam": "Paraguay",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 0,
+      "siljeom": 1,
+      "cheot_gyeonggi": "2010-05-15",
+      "choegeun_gyeonggi": "2010-05-15"
+    },
+    {
+      "sangdaeteam": "Poland",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 2,
+      "cheot_gyeonggi": "1986-10-07",
+      "choegeun_gyeonggi": "1986-10-07"
+    },
+    {
+      "sangdaeteam": "Somalia",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 14,
+      "siljeom": 0,
+      "cheot_gyeonggi": "1963-11-11",
+      "choegeun_gyeonggi": "1963-11-11"
+    },
+    {
+      "sangdaeteam": "South Africa",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 1,
+      "pae": 0,
+      "deukjeom": 0,
+      "siljeom": 0,
+      "cheot_gyeonggi": "2010-04-22",
+      "choegeun_gyeonggi": "2010-04-22"
+    },
+    {
+      "sangdaeteam": "United States",
+      "gyeonggi_su": 1,
+      "seung": 1,
+      "mu": 0,
+      "pae": 0,
+      "deukjeom": 2,
+      "siljeom": 1,
+      "cheot_gyeonggi": "1991-10-19",
+      "choegeun_gyeonggi": "1991-10-19"
+    },
+    {
+      "sangdaeteam": "Venezuela",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 2,
+      "cheot_gyeonggi": "2010-03-06",
+      "choegeun_gyeonggi": "2010-03-06"
+    },
+    {
+      "sangdaeteam": "Zambia",
+      "gyeonggi_su": 1,
+      "seung": 0,
+      "mu": 0,
+      "pae": 1,
+      "deukjeom": 1,
+      "siljeom": 4,
+      "cheot_gyeonggi": "2009-11-21",
+      "choegeun_gyeonggi": "2009-11-21"
+    }
+  ],
+  "meta": {
+    "title": "조선민주주의인민공화국(북한) 축구 국가대표팀 — 상대팀별 통산 전적 (73개 팀) - 무료 다운로드",
+    "description": "조선민주주의인민공화국(북한) 축구 국가대표팀 — results.csv의 모든 경기에서 계산한 상대팀별 통산 전적: 경기 수, 승, 무, 패, 득점, 실점, 첫 경기와 최근 경기. 최종 점수 기준(승부차기 제외). 경기 수 순으로 정렬. 포함 73 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "조선민주주의인민공화국(북한) 축구 국가대표팀 — 상대팀별 통산 전적 (73개 팀) | ListBase",
+    "seo_description": "다운로드 조선민주주의인민공화국(북한) 축구 국가대표팀 — 상대팀별 통산 전적 (73개 팀) — 73 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 73 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

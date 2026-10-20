@@ -1,0 +1,1420 @@
+{
+  "id": "ko-sejong-haengjeong-guyek",
+  "name": "세종특별자치시 법정동 코드 (현행)",
+  "title": "세종특별자치시 법정동 코드 (현행)",
+  "description": "현재 유효한 세종특별자치시 법정동·행정구역 코드 151건 — 시도, 시군구, 읍면동, 리 단위. 전국 현행 코드 데이터셋에서 시도(name_level_1) 기준으로 분리.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_level_1",
+      "label": "Name Level 1",
+      "type": "string"
+    },
+    {
+      "key": "name_level_2",
+      "label": "Name Level 2",
+      "type": "string"
+    },
+    {
+      "key": "name_level_3",
+      "label": "Name Level 3",
+      "type": "string"
+    },
+    {
+      "key": "name_level_4",
+      "label": "Name Level 4",
+      "type": "string"
+    },
+    {
+      "key": "created_at",
+      "label": "Created At",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3600000000",
+      "name": "세종특별자치시",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010100",
+      "name": "세종특별자치시 반곡동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "반곡동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010200",
+      "name": "세종특별자치시 소담동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "소담동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010300",
+      "name": "세종특별자치시 보람동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "보람동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010400",
+      "name": "세종특별자치시 대평동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "대평동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010500",
+      "name": "세종특별자치시 가람동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "가람동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010600",
+      "name": "세종특별자치시 한솔동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "한솔동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010700",
+      "name": "세종특별자치시 나성동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "나성동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010800",
+      "name": "세종특별자치시 새롬동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "새롬동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611010900",
+      "name": "세종특별자치시 다정동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "다정동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611011000",
+      "name": "세종특별자치시 어진동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "어진동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611011100",
+      "name": "세종특별자치시 종촌동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "종촌동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611011200",
+      "name": "세종특별자치시 고운동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "고운동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611011300",
+      "name": "세종특별자치시 아름동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "아름동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611011400",
+      "name": "세종특별자치시 도담동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "도담동",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611011500",
+      "name": "세종특별자치시 산울동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "산울동",
+      "name_level_4": "",
+      "created_at": "2020-07-15"
+    },
+    {
+      "code": "3611011600",
+      "name": "세종특별자치시 해밀동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "해밀동",
+      "name_level_4": "",
+      "created_at": "2020-07-15"
+    },
+    {
+      "code": "3611011700",
+      "name": "세종특별자치시 합강동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "합강동",
+      "name_level_4": "",
+      "created_at": "2020-07-15"
+    },
+    {
+      "code": "3611011800",
+      "name": "세종특별자치시 집현동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "집현동",
+      "name_level_4": "",
+      "created_at": "2020-07-15"
+    },
+    {
+      "code": "3611011900",
+      "name": "세종특별자치시 세종동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "세종동",
+      "name_level_4": "",
+      "created_at": "2022-07-01"
+    },
+    {
+      "code": "3611012000",
+      "name": "세종특별자치시 누리동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "누리동",
+      "name_level_4": "",
+      "created_at": "2022-07-01"
+    },
+    {
+      "code": "3611012100",
+      "name": "세종특별자치시 한별동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "한별동",
+      "name_level_4": "",
+      "created_at": "2022-07-01"
+    },
+    {
+      "code": "3611012200",
+      "name": "세종특별자치시 다솜동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "다솜동",
+      "name_level_4": "",
+      "created_at": "2022-07-01"
+    },
+    {
+      "code": "3611012300",
+      "name": "세종특별자치시 용호동",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "용호동",
+      "name_level_4": "",
+      "created_at": "2022-07-01"
+    },
+    {
+      "code": "3611025000",
+      "name": "세종특별자치시 조치원읍",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025021",
+      "name": "세종특별자치시 조치원읍 원리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "원리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025022",
+      "name": "세종특별자치시 조치원읍 상리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "상리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025023",
+      "name": "세종특별자치시 조치원읍 평리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "평리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025024",
+      "name": "세종특별자치시 조치원읍 교리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "교리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025025",
+      "name": "세종특별자치시 조치원읍 정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025026",
+      "name": "세종특별자치시 조치원읍 명리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "명리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025027",
+      "name": "세종특별자치시 조치원읍 남리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "남리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025028",
+      "name": "세종특별자치시 조치원읍 침산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "침산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025029",
+      "name": "세종특별자치시 조치원읍 신흥리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "신흥리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025030",
+      "name": "세종특별자치시 조치원읍 죽림리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "죽림리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025031",
+      "name": "세종특별자치시 조치원읍 번암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "번암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025032",
+      "name": "세종특별자치시 조치원읍 신안리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "신안리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025033",
+      "name": "세종특별자치시 조치원읍 봉산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "봉산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611025034",
+      "name": "세종특별자치시 조치원읍 서창리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "조치원읍",
+      "name_level_4": "서창리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611031000",
+      "name": "세종특별자치시 연기면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연기면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611031021",
+      "name": "세종특별자치시 연기면 연기리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연기면",
+      "name_level_4": "연기리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611031022",
+      "name": "세종특별자치시 연기면 보통리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연기면",
+      "name_level_4": "보통리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611031023",
+      "name": "세종특별자치시 연기면 눌왕리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연기면",
+      "name_level_4": "눌왕리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611031024",
+      "name": "세종특별자치시 연기면 수산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연기면",
+      "name_level_4": "수산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032000",
+      "name": "세종특별자치시 연동면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032021",
+      "name": "세종특별자치시 연동면 내판리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "내판리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032022",
+      "name": "세종특별자치시 연동면 문주리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "문주리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032023",
+      "name": "세종특별자치시 연동면 명학리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "명학리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032024",
+      "name": "세종특별자치시 연동면 응암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "응암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032025",
+      "name": "세종특별자치시 연동면 노송리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "노송리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032026",
+      "name": "세종특별자치시 연동면 예양리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "예양리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032027",
+      "name": "세종특별자치시 연동면 송용리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "송용리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611032028",
+      "name": "세종특별자치시 연동면 합강리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연동면",
+      "name_level_4": "합강리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033000",
+      "name": "세종특별자치시 부강면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033021",
+      "name": "세종특별자치시 부강면 부강리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "부강리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033022",
+      "name": "세종특별자치시 부강면 행산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "행산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033023",
+      "name": "세종특별자치시 부강면 산수리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "산수리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033024",
+      "name": "세종특별자치시 부강면 갈산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "갈산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033025",
+      "name": "세종특별자치시 부강면 문곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "문곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033026",
+      "name": "세종특별자치시 부강면 등곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "등곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033027",
+      "name": "세종특별자치시 부강면 노호리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "노호리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611033028",
+      "name": "세종특별자치시 부강면 금호리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "부강면",
+      "name_level_4": "금호리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034000",
+      "name": "세종특별자치시 금남면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034021",
+      "name": "세종특별자치시 금남면 용포리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "용포리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034022",
+      "name": "세종특별자치시 금남면 발산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "발산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034023",
+      "name": "세종특별자치시 금남면 감성리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "감성리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034024",
+      "name": "세종특별자치시 금남면 두만리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "두만리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034025",
+      "name": "세종특별자치시 금남면 용담리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "용담리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034026",
+      "name": "세종특별자치시 금남면 축산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "축산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034027",
+      "name": "세종특별자치시 금남면 금천리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "금천리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034028",
+      "name": "세종특별자치시 금남면 영치리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "영치리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034029",
+      "name": "세종특별자치시 금남면 남곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "남곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034030",
+      "name": "세종특별자치시 금남면 황용리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "황용리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034031",
+      "name": "세종특별자치시 금남면 영대리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "영대리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034032",
+      "name": "세종특별자치시 금남면 달전리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "달전리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034033",
+      "name": "세종특별자치시 금남면 박산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "박산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034034",
+      "name": "세종특별자치시 금남면 대박리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "대박리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034035",
+      "name": "세종특별자치시 금남면 부용리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "부용리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034036",
+      "name": "세종특별자치시 금남면 장재리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "장재리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034037",
+      "name": "세종특별자치시 금남면 호탄리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "호탄리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034038",
+      "name": "세종특별자치시 금남면 신촌리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "신촌리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034039",
+      "name": "세종특별자치시 금남면 도암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "도암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034040",
+      "name": "세종특별자치시 금남면 성덕리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "성덕리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034041",
+      "name": "세종특별자치시 금남면 영곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "영곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034042",
+      "name": "세종특별자치시 금남면 성강리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "성강리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034043",
+      "name": "세종특별자치시 금남면 봉암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "봉암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034044",
+      "name": "세종특별자치시 금남면 국곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "국곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034045",
+      "name": "세종특별자치시 금남면 원봉리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "원봉리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611034046",
+      "name": "세종특별자치시 금남면 도남리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "금남면",
+      "name_level_4": "도남리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035000",
+      "name": "세종특별자치시 장군면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035021",
+      "name": "세종특별자치시 장군면 도계리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "도계리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035022",
+      "name": "세종특별자치시 장군면 평기리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "평기리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035023",
+      "name": "세종특별자치시 장군면 대교리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "대교리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035024",
+      "name": "세종특별자치시 장군면 봉안리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "봉안리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035025",
+      "name": "세종특별자치시 장군면 금암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "금암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035026",
+      "name": "세종특별자치시 장군면 하봉리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "하봉리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035027",
+      "name": "세종특별자치시 장군면 은용리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "은용리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035028",
+      "name": "세종특별자치시 장군면 산학리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "산학리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035029",
+      "name": "세종특별자치시 장군면 송문리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "송문리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035030",
+      "name": "세종특별자치시 장군면 송정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "송정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035031",
+      "name": "세종특별자치시 장군면 송학리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "송학리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035032",
+      "name": "세종특별자치시 장군면 용현리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "용현리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035033",
+      "name": "세종특별자치시 장군면 용암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "용암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611035034",
+      "name": "세종특별자치시 장군면 태산리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "장군면",
+      "name_level_4": "태산리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036000",
+      "name": "세종특별자치시 연서면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036021",
+      "name": "세종특별자치시 연서면 월하리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "월하리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036022",
+      "name": "세종특별자치시 연서면 쌍전리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "쌍전리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036023",
+      "name": "세종특별자치시 연서면 성제리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "성제리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036024",
+      "name": "세종특별자치시 연서면 고복리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "고복리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036025",
+      "name": "세종특별자치시 연서면 용암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "용암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036026",
+      "name": "세종특별자치시 연서면 쌍류리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "쌍류리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036027",
+      "name": "세종특별자치시 연서면 청라리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "청라리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036028",
+      "name": "세종특별자치시 연서면 기룡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "기룡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036029",
+      "name": "세종특별자치시 연서면 신대리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "신대리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036030",
+      "name": "세종특별자치시 연서면 국촌리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "국촌리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036031",
+      "name": "세종특별자치시 연서면 와촌리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "와촌리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036032",
+      "name": "세종특별자치시 연서면 부동리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "부동리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611036033",
+      "name": "세종특별자치시 연서면 봉암리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "연서면",
+      "name_level_4": "봉암리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037000",
+      "name": "세종특별자치시 전의면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037021",
+      "name": "세종특별자치시 전의면 읍내리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "읍내리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037022",
+      "name": "세종특별자치시 전의면 동교리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "동교리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037023",
+      "name": "세종특별자치시 전의면 서정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "서정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037024",
+      "name": "세종특별자치시 전의면 원성리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "원성리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037025",
+      "name": "세종특별자치시 전의면 신흥리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "신흥리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037026",
+      "name": "세종특별자치시 전의면 유천리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "유천리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037027",
+      "name": "세종특별자치시 전의면 관정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "관정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037028",
+      "name": "세종특별자치시 전의면 신정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "신정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037029",
+      "name": "세종특별자치시 전의면 노곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "노곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037030",
+      "name": "세종특별자치시 전의면 신방리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "신방리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037031",
+      "name": "세종특별자치시 전의면 영당리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "영당리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037032",
+      "name": "세종특별자치시 전의면 양곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "양곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037033",
+      "name": "세종특별자치시 전의면 달전리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "달전리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037034",
+      "name": "세종특별자치시 전의면 금사리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "금사리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611037035",
+      "name": "세종특별자치시 전의면 다방리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전의면",
+      "name_level_4": "다방리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038000",
+      "name": "세종특별자치시 전동면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038021",
+      "name": "세종특별자치시 전동면 노장리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "노장리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038022",
+      "name": "세종특별자치시 전동면 봉대리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "봉대리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038023",
+      "name": "세종특별자치시 전동면 청송리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "청송리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038024",
+      "name": "세종특별자치시 전동면 석곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "석곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038025",
+      "name": "세종특별자치시 전동면 보덕리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "보덕리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038026",
+      "name": "세종특별자치시 전동면 송곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "송곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038027",
+      "name": "세종특별자치시 전동면 송정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "송정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038028",
+      "name": "세종특별자치시 전동면 청람리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "청람리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038029",
+      "name": "세종특별자치시 전동면 미곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "미곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038030",
+      "name": "세종특별자치시 전동면 송성리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "송성리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611038031",
+      "name": "세종특별자치시 전동면 심중리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "전동면",
+      "name_level_4": "심중리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611039000",
+      "name": "세종특별자치시 소정면",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "소정면",
+      "name_level_4": "",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611039021",
+      "name": "세종특별자치시 소정면 소정리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "소정면",
+      "name_level_4": "소정리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611039022",
+      "name": "세종특별자치시 소정면 운당리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "소정면",
+      "name_level_4": "운당리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611039023",
+      "name": "세종특별자치시 소정면 대곡리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "소정면",
+      "name_level_4": "대곡리",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "3611039024",
+      "name": "세종특별자치시 소정면 고등리",
+      "name_level_1": "세종특별자치시",
+      "name_level_2": "",
+      "name_level_3": "소정면",
+      "name_level_4": "고등리",
+      "created_at": "2012-07-01"
+    }
+  ],
+  "meta": {
+    "title": "세종특별자치시 법정동 코드 (현행) - 무료 다운로드",
+    "description": "현재 유효한 세종특별자치시 법정동·행정구역 코드 151건 — 시도, 시군구, 읍면동, 리 단위. 전국 현행 코드 데이터셋에서 시도(name_level_1) 기준으로 분리. 포함 151 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세종특별자치시 법정동 코드 (현행) | ListBase",
+    "seo_description": "다운로드 세종특별자치시 법정동 코드 (현행) — 151 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 151 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

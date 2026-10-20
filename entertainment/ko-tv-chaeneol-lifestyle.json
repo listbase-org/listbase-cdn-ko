@@ -1,0 +1,226 @@
+{
+  "id": "ko-tv-chaeneol-lifestyle",
+  "name": "대한민국 라이프스타일 채널",
+  "title": "대한민국 라이프스타일 채널",
+  "description": "라이프스타일 전문 채널 9개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'lifestyle'. Korean 'lifestyle' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "DogTV.kr",
+      "name": "Dog TV",
+      "alt_names": "도그TV",
+      "network": "",
+      "owners": "Happy Dog Ltd",
+      "country": "KR",
+      "categories": "lifestyle, education",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.thedogtv.com/"
+    },
+    {
+      "id": 2,
+      "channel_id": "DongaTV.kr",
+      "name": "DongaTV",
+      "alt_names": "동아TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "1999-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://dongatv.com/"
+    },
+    {
+      "id": 3,
+      "channel_id": "FashionN.kr",
+      "name": "Fashion N",
+      "alt_names": "패션N",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.imtcast.com/fashionn/index.jsp#CH_N"
+    },
+    {
+      "id": 4,
+      "channel_id": "GTV.kr",
+      "name": "GTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Berry Media",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=gtv"
+    },
+    {
+      "id": 5,
+      "channel_id": "KBSLife.kr",
+      "name": "KBS Life",
+      "alt_names": "KBS 라이프",
+      "network": "",
+      "owners": "Korean Broadcasting System",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2021-04-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.kbsn.co.kr/"
+    },
+    {
+      "id": 6,
+      "channel_id": "KBSNLife.kr",
+      "name": "KBS N Life",
+      "alt_names": "KBS N 라이프로 변경",
+      "network": "",
+      "owners": "Korean Broadcasting System",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2015-03-08",
+      "closed": "2021-03-31",
+      "replaced_by": "",
+      "website": "http://www.kbsn.co.kr/"
+    },
+    {
+      "id": 7,
+      "channel_id": "KukiTV.kr",
+      "name": "Kuki TV",
+      "alt_names": "인증 쿠키건강TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.kukitv.co.kr/"
+    },
+    {
+      "id": 8,
+      "channel_id": "LivingTV.kr",
+      "name": "Living TV",
+      "alt_names": "리빙TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.ilivingtv.co.kr/"
+    },
+    {
+      "id": 9,
+      "channel_id": "OLIFE.kr",
+      "name": "OLIFE",
+      "alt_names": "오라이프, OL!FE",
+      "network": "",
+      "owners": "KT Corporation",
+      "country": "KR",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "2020-09-14",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ena.skylifetv.co.kr/OLIFE/"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 라이프스타일 채널 - 무료 다운로드",
+    "description": "라이프스타일 전문 채널 9개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'lifestyle'. Korean 'lifestyle' TV channels split from the ko-tv-chaeneol master dataset. 포함 9 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 라이프스타일 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 라이프스타일 채널 — 9 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 9 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

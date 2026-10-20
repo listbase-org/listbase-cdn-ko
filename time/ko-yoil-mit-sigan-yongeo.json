@@ -1,0 +1,219 @@
+{
+  "id": "ko-yoil-mit-sigan-yongeo",
+  "name": "요일·분기·시간대·연호 한국어 용어 (CLDR)",
+  "title": "요일·분기·시간대·연호 한국어 용어 (CLDR)",
+  "description": "그레고리력 기준 요일, 분기, 하루 시간대 구분, 연호의 한국어 정식 명칭과 약자.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gubun",
+      "label": "Gubun",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "gubun": "yoil",
+      "code": "sun",
+      "ireum": "일요일",
+      "yakja": "일"
+    },
+    {
+      "id": 2,
+      "gubun": "yoil",
+      "code": "mon",
+      "ireum": "월요일",
+      "yakja": "월"
+    },
+    {
+      "id": 3,
+      "gubun": "yoil",
+      "code": "tue",
+      "ireum": "화요일",
+      "yakja": "화"
+    },
+    {
+      "id": 4,
+      "gubun": "yoil",
+      "code": "wed",
+      "ireum": "수요일",
+      "yakja": "수"
+    },
+    {
+      "id": 5,
+      "gubun": "yoil",
+      "code": "thu",
+      "ireum": "목요일",
+      "yakja": "목"
+    },
+    {
+      "id": 6,
+      "gubun": "yoil",
+      "code": "fri",
+      "ireum": "금요일",
+      "yakja": "금"
+    },
+    {
+      "id": 7,
+      "gubun": "yoil",
+      "code": "sat",
+      "ireum": "토요일",
+      "yakja": "토"
+    },
+    {
+      "id": 8,
+      "gubun": "bungi",
+      "code": "1",
+      "ireum": "제 1/4분기",
+      "yakja": "1분기"
+    },
+    {
+      "id": 9,
+      "gubun": "bungi",
+      "code": "2",
+      "ireum": "제 2/4분기",
+      "yakja": "2분기"
+    },
+    {
+      "id": 10,
+      "gubun": "bungi",
+      "code": "3",
+      "ireum": "제 3/4분기",
+      "yakja": "3분기"
+    },
+    {
+      "id": 11,
+      "gubun": "bungi",
+      "code": "4",
+      "ireum": "제 4/4분기",
+      "yakja": "4분기"
+    },
+    {
+      "id": 12,
+      "gubun": "sigan-dae",
+      "code": "midnight",
+      "ireum": "자정",
+      "yakja": "자정"
+    },
+    {
+      "id": 13,
+      "gubun": "sigan-dae",
+      "code": "am",
+      "ireum": "오전",
+      "yakja": "오전"
+    },
+    {
+      "id": 14,
+      "gubun": "sigan-dae",
+      "code": "noon",
+      "ireum": "정오",
+      "yakja": "정오"
+    },
+    {
+      "id": 15,
+      "gubun": "sigan-dae",
+      "code": "pm",
+      "ireum": "오후",
+      "yakja": "오후"
+    },
+    {
+      "id": 16,
+      "gubun": "sigan-dae",
+      "code": "morning1",
+      "ireum": "아침",
+      "yakja": "아침"
+    },
+    {
+      "id": 17,
+      "gubun": "sigan-dae",
+      "code": "morning2",
+      "ireum": "오전",
+      "yakja": "오전"
+    },
+    {
+      "id": 18,
+      "gubun": "sigan-dae",
+      "code": "afternoon1",
+      "ireum": "오후",
+      "yakja": "오후"
+    },
+    {
+      "id": 19,
+      "gubun": "sigan-dae",
+      "code": "evening1",
+      "ireum": "저녁",
+      "yakja": "저녁"
+    },
+    {
+      "id": 20,
+      "gubun": "sigan-dae",
+      "code": "night1",
+      "ireum": "밤",
+      "yakja": "밤"
+    },
+    {
+      "id": 21,
+      "gubun": "yeonho",
+      "code": "0",
+      "ireum": "기원전",
+      "yakja": "BC"
+    },
+    {
+      "id": 22,
+      "gubun": "yeonho",
+      "code": "0-alt-variant",
+      "ireum": "기원전",
+      "yakja": "BCE"
+    },
+    {
+      "id": 23,
+      "gubun": "yeonho",
+      "code": "1",
+      "ireum": "서기",
+      "yakja": "AD"
+    },
+    {
+      "id": 24,
+      "gubun": "yeonho",
+      "code": "1-alt-variant",
+      "ireum": "서기",
+      "yakja": "CE"
+    }
+  ],
+  "meta": {
+    "title": "요일·분기·시간대·연호 한국어 용어 (CLDR) - 무료 다운로드",
+    "description": "그레고리력 기준 요일, 분기, 하루 시간대 구분, 연호의 한국어 정식 명칭과 약자. 포함 24 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "요일·분기·시간대·연호 한국어 용어 (CLDR) | ListBase",
+    "seo_description": "다운로드 요일·분기·시간대·연호 한국어 용어 (CLDR) — 24 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 24 건 / 5 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

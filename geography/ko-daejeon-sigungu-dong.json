@@ -1,0 +1,3531 @@
+{
+  "id": "ko-daejeon-sigungu-dong",
+  "name": "Daejeon 시군구·동읍면 — Daejeon Districts & Neighborhoods",
+  "title": "Daejeon 시군구·동읍면 — Daejeon Districts & Neighborhoods",
+  "description": "Daejeon (대전광역시) — 시군구 및 동·읍·면 행정 지명 목록 698건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Daejeon 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 698,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "가정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "갑동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "계산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "관평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "교촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "구룡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "구성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "구암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "궁동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "금고동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "금탄동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "노은동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "대정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "덕명동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "덕진동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "도룡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "둔곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "문지동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "반석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "방동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "방현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "복용동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "봉명동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "봉산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "상대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "세동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "송강동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "수남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "신동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "신봉동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "신성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "안산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "어은동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "외삼동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "용계동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "원내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "원신흥동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "원촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "자운동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "장대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "전민동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "죽동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "지족동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "추목동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "탑립동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "하기동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "학하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "dong_eup_myeon": "화암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "갈전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "대화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "덕암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "목상동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "문평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "미호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "법동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "비래동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "삼정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "상서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "석봉동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "송촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "신대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "신일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "신탄진동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "연축동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "오정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "와동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "용호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "읍내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "이현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "중리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "dong_eup_myeon": "평촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가수원동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가양동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가좌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가좌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "갈마동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "갈산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "감삼동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "강동동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "개화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "검암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "경서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "공촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "공항동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "관저동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "광천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "괴곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "괴정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "구랑동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "구산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "금호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "남부민동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내당동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내발산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내방동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "녹산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "농성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "눌차동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "당하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대저1동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대저2동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대항동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "덕이동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "덕흥동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "도마동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "도안동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동대신동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동대신동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동대신동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동선동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "두류동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "둔산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "등촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "마곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "마륵동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "마전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "만년동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "매노동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "매월동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "명지동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "미음동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "방화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "백석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "범방동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "법곳동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "벽진동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "변동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "복수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "본동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "본리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "봉곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "봉림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부민동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부민동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부민동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부용동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부용동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "불로동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "비산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "산직동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "상리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "상인동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "생곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서대신동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서대신동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서대신동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "석남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "성당동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "세하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "송현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "시천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "식만동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "신당동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "신현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "신호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "심곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "쌍촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "아미동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "아미동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "암남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "양동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "연희동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "염창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오류동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오쇠동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "왕길동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "외발산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용문동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "우명동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원당동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원대동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원대동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원대동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "월성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "월암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "월평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "유천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "유촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "이곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "이현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "일산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "장기동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "장안동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "정림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "주엽동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "죽동동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "죽전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "중리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "지사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "진천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "천성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "초장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "충무동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "충무동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "충무동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "치평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "탄방동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "탄현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "파호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "평리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "평촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "풍암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "호림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "호산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "화곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "흑석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "가양동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "가오동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "각산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "간석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "강일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "검사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "계림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "고덕동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "고잔동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "광산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "괴전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "구도동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "구월동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "궁동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금강동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "길동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "남촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "낭월동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내탑동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "논현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "능성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대별동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대의동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대인동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "덕곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도선동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도학동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동명동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동부동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "둔산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "둔촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "마두동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "마산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "마장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "만석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "만수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "매여동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "명일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "문봉동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "미곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "미대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "미포동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "방어동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "방촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "백석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "백안동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "범일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "봉무동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "부동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "불로동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "불로동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "비룡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사근동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사리현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사복동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "산수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "산황동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "삼괴동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "삼성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "삼정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상매동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상소동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상왕십리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서부동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "선교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "설문동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성수동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성수동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "세천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "소제동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "소태동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "소호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "수기동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "수산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "수정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "숙천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "식사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신기동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신무동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신상동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신안동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신용동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "암사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "오동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "옥수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용계동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용답동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용연동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용운동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "운림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "운연동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "원동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "월남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "율암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "율하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "응봉동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "이사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "인동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "일산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "입석동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "자양동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장척동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장항동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "전하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "정발산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "좌천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "주산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "주전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "주촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "중대동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "중산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지묘동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지영동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지저동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "직동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "진인동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "창영동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "천호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "초량동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "추동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "판암동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "평광동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "풍동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "하소동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "하왕십리동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "학동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "행당동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "호남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "홍도동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "홍익동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "화수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "화평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "황금동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "효동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "효목동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "효평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "경동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "계산동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "계산동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "공평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "관동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "관동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "관동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광복동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광복동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광복동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광희동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광희동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "구완동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "금동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남북동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남성로"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남외동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동6가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남학동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "다동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "다운동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "달성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "답동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대봉동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대신동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대안동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대창동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대창동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대흥동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "덕교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "덕산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동문동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동성로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동성로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동성로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "만리동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "만리동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "명동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "명동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "목달동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "목동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무의동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무학동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "묵정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "문창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "반구동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "방산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "보수동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "보수동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "보수동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "복산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "봉래동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "봉래동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "봉산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "사일동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "사정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "산림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "산성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼각동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼덕동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼덕동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼덕동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "상덕동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "상서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서내동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서문로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서문로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서성로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서성로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서소문동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서야동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "석교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "선린동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "선화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "선화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "성안동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "소공동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송월동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송월동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송월동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송학동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송학동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송학동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수창동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수표동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수하동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "순화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "시장북로"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신당동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신생동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신포동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신흥동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신흥동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신흥동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "쌍림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "안영동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "약사동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "어남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "영주동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "예관동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "예장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "오류동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "오장동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "옥계동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "옥교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "완전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "용덕동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "용동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "우정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "운남동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "운북동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "운서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "유곡동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "유동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "유천동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "율목동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "은행동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을왕동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로6가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로7가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "의주로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "의주로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인현동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인현동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "입정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장관동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장충동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장충동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장현동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "저동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "저동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "정생동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "종로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "종로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "주교동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "주자동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중림동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동6가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동7가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "창선동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "창선동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "초동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로5가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충정로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "침산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태화동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "포정동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "필동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "필동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "필동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "하서동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "학산동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "학성동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동4가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동6가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동7가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "해안동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "해안동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "해안동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "향촌동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "호동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "황학동"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "회현동1가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "회현동2가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "회현동3가"
+    },
+    {
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "흥인동"
+    }
+  ],
+  "meta": {
+    "title": "Daejeon 시군구·동읍면 — Daejeon Districts & Neighborhoods - 무료 다운로드",
+    "description": "Daejeon (대전광역시) — 시군구 및 동·읍·면 행정 지명 목록 698건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Daejeon 편. 필드: sido, sigungu, dong_eup_myeon. 포함 698 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Daejeon 시군구·동읍면 — Daejeon Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Daejeon 시군구·동읍면 — Daejeon Districts & Neighborhoods — 698 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 698 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

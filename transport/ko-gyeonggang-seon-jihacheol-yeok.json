@@ -1,0 +1,192 @@
+{
+  "id": "ko-gyeonggang-seon-jihacheol-yeok",
+  "name": "경강선 지하철 역 (Gyeonggang Line subway stations)",
+  "title": "경강선 지하철 역 (Gyeonggang Line subway stations)",
+  "description": "경강선(Gyeonggang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 11개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Gyeonggang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "삼동",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.409522,
+      "longitude": 127.20336,
+      "around_stations": "이매, 경기광주",
+      "around_count": 2
+    },
+    {
+      "name": "경기광주",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.399907,
+      "longitude": 126.630347,
+      "around_stations": "삼동, 초월",
+      "around_count": 2
+    },
+    {
+      "name": "초월",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.374419,
+      "longitude": 127.299,
+      "around_stations": "경기광주, 곤지암",
+      "around_count": 2
+    },
+    {
+      "name": "곤지암",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.351315,
+      "longitude": 127.34674,
+      "around_stations": "초월, 신둔도예촌",
+      "around_count": 2
+    },
+    {
+      "name": "신둔도예촌",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.317185,
+      "longitude": 127.40476,
+      "around_stations": "곤지암, 이천",
+      "around_count": 2
+    },
+    {
+      "name": "이천",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.265579,
+      "longitude": 127.44226,
+      "around_stations": "신둔도예촌, 부발",
+      "around_count": 2
+    },
+    {
+      "name": "부발",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.260192,
+      "longitude": 127.490277,
+      "around_stations": "이천, 세종대왕릉",
+      "around_count": 2
+    },
+    {
+      "name": "여주",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.282701,
+      "longitude": 127.628607,
+      "around_stations": "세종대왕릉",
+      "around_count": 1
+    },
+    {
+      "name": "세종대왕릉",
+      "name_romanized": "",
+      "lines": "경강선",
+      "lines_en": "Gyeonggang Line",
+      "lines_count": 1,
+      "latitude": 37.295309,
+      "longitude": 127.570938,
+      "around_stations": "부발, 여주",
+      "around_count": 2
+    },
+    {
+      "name": "이매",
+      "name_romanized": "",
+      "lines": "경강선, 수인분당선",
+      "lines_en": "Gyeonggang Line, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.396104,
+      "longitude": 127.12827,
+      "around_stations": "서현, 야탑, 판교, 삼동",
+      "around_count": 4
+    },
+    {
+      "name": "판교",
+      "name_romanized": "",
+      "lines": "경강선, 신분당선",
+      "lines_en": "Gyeonggang Line, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.394761,
+      "longitude": 127.111217,
+      "around_stations": "정자, 청계산입구, 이매",
+      "around_count": 3
+    }
+  ],
+  "meta": {
+    "title": "경강선 지하철 역 (Gyeonggang Line subway stations) - 무료 다운로드",
+    "description": "경강선(Gyeonggang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 11개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Gyeonggang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 11 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "경강선 지하철 역 (Gyeonggang Line subway stations) | ListBase",
+    "seo_description": "다운로드 경강선 지하철 역 (Gyeonggang Line subway stations) — 11 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 11 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

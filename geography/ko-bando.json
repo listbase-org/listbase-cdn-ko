@@ -1,0 +1,137 @@
+{
+  "id": "ko-bando",
+  "name": "대한민국의 반도 (Peninsulas of South Korea)",
+  "title": "대한민국의 반도 (Peninsulas of South Korea)",
+  "description": "대한민국에 위치한 반도(半島) 목록. 한반도·태안반도·변산반도·무안반도·김포반도 등. 곶(串, Q185113)은 Wikidata 상위클래스 트리상 반도 하위로 분류되어 P279* 탐색 시 기존 ko-got(곶) 데이터셋과 중복되므로, 직접 P31=Q34763만 사용해 두 데이터셋을 분리한다. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "body_of_water_at",
+      "label": "Body Of Water At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27299747",
+      "name_ko": "고다곶",
+      "name_en": "고다곶",
+      "located_in_at": "부천시",
+      "body_of_water_at": "",
+      "latitude": 37.423056,
+      "longitude": 126.423333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q22973189",
+      "name_ko": "김포반도",
+      "name_en": "김포반도",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 37.665,
+      "longitude": 126.621,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8F%AC%EB%B0%98%EB%8F%84"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q12595576",
+      "name_ko": "무안반도",
+      "name_en": "무안반도",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%88%EB%B0%98%EB%8F%84"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q30033898",
+      "name_ko": "변산반도",
+      "name_en": "변산반도",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 35.641778,
+      "longitude": 126.5555,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%82%B0%EB%B0%98%EB%8F%84"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q6763258",
+      "name_ko": "태안반도",
+      "name_en": "태안반도",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%EB%B0%98%EB%8F%84"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q483134",
+      "name_ko": "한반도",
+      "name_en": "한반도",
+      "located_in_at": "",
+      "body_of_water_at": "황해",
+      "latitude": 37.5,
+      "longitude": 127,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%B0%98%EB%8F%84"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 반도 (Peninsulas of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 반도(半島) 목록. 한반도·태안반도·변산반도·무안반도·김포반도 등. 곶(串, Q185113)은 Wikidata 상위클래스 트리상 반도 하위로 분류되어 P279* 탐색 시 기존 ko-got(곶) 데이터셋과 중복되므로, 직접 P31=Q34763만 사용해 두 데이터셋을 분리한다. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 6 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 반도 (Peninsulas of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 반도 (Peninsulas of South Korea) — 6 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 6 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

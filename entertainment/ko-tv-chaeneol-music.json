@@ -1,0 +1,211 @@
+{
+  "id": "ko-tv-chaeneol-music",
+  "name": "대한민국 음악 채널",
+  "title": "대한민국 음악 채널",
+  "description": "음악 전문 채널 8개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'music'. Korean 'music' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "GMTV.kr",
+      "name": "GMTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.berrymedia.co.kr/bbs/group.php?gr_id=gmtv"
+    },
+    {
+      "id": 2,
+      "channel_id": "GayoTV.kr",
+      "name": "GayoTV",
+      "alt_names": "가요TV",
+      "network": "",
+      "owners": "Aegis Hwajin Broadcasting",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "2007-02-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://gayotv.co.kr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "GugakTV.kr",
+      "name": "Gugak TV",
+      "alt_names": "국악방송TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.igbf.kr/"
+    },
+    {
+      "id": 4,
+      "channel_id": "InetTV.kr",
+      "name": "Inet TV",
+      "alt_names": "아이넷TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "2001-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://inettv.tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "MBCM.kr",
+      "name": "MBC M",
+      "alt_names": "",
+      "network": "",
+      "owners": "Munhwa Broadcasting Corporation",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "2020-02-18",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mbcplus.com/"
+    },
+    {
+      "id": 6,
+      "channel_id": "Mnet.kr",
+      "name": "Mnet",
+      "alt_names": "엠넷",
+      "network": "",
+      "owners": "CJ ENM Entertainment Division",
+      "country": "KR",
+      "categories": "entertainment, music",
+      "is_nsfw": false,
+      "launched": "1995-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.mnet.com/"
+    },
+    {
+      "id": 7,
+      "channel_id": "SBSM.kr",
+      "name": "SBS M",
+      "alt_names": "SBS MTV, MTV Korea",
+      "network": "",
+      "owners": "SBS Paramount LLC",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "2001-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://sbsm.sbs.co.kr/"
+    },
+    {
+      "id": 8,
+      "channel_id": "THEKPOP.kr",
+      "name": "THE K-POP",
+      "alt_names": "",
+      "network": "",
+      "owners": "SBS Medianet",
+      "country": "KR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://sbsmedianet.sbs.co.kr/onair.html?channel=S20"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 음악 채널 - 무료 다운로드",
+    "description": "음악 전문 채널 8개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'music'. Korean 'music' TV channels split from the ko-tv-chaeneol master dataset. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 음악 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 음악 채널 — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

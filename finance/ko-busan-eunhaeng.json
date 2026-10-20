@@ -1,0 +1,72 @@
+{
+  "id": "ko-busan-eunhaeng",
+  "name": "Busan 은행 — SWIFT/BIC 코드",
+  "title": "Busan 은행 — SWIFT/BIC 코드",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KR located in the city the source records verbatim as \"BUSAN\" (3 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 30,
+      "bank": "BUSAN BANK",
+      "city": "BUSAN",
+      "branch": "",
+      "swift_code": "PUSBKR2P"
+    },
+    {
+      "id": 136,
+      "bank": "KOREA EXCHANGE",
+      "city": "BUSAN",
+      "branch": "",
+      "swift_code": "KORXKR21"
+    },
+    {
+      "id": 253,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
+      "city": "BUSAN",
+      "branch": "(BUSAN BRANCH)",
+      "swift_code": "HSBCKRSEBSN"
+    }
+  ],
+  "meta": {
+    "title": "Busan 은행 — SWIFT/BIC 코드 - 무료 다운로드",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KR located in the city the source records verbatim as \"BUSAN\" (3 institutions). 포함 3 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Busan 은행 — SWIFT/BIC 코드 | ListBase",
+    "seo_description": "다운로드 Busan 은행 — SWIFT/BIC 코드 — 3 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 3 건 / 5 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

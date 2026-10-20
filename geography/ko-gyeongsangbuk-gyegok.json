@@ -1,0 +1,896 @@
+{
+  "id": "ko-gyeongsangbuk-gyegok",
+  "name": "계곡 — 경상북도",
+  "title": "계곡 — 경상북도",
+  "description": "경상북도에 위치한 계곡(골) 75건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "mountain_at",
+      "label": "Mountain At",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27290119",
+      "name_ko": "가래골",
+      "name_en": "가래골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.231111,
+      "longitude": 129.262778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27308201",
+      "name_ko": "가래골",
+      "name_en": "가래골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.068333,
+      "longitude": 129.139444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27314307",
+      "name_ko": "가시골",
+      "name_en": "가시골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.419444,
+      "longitude": 129.138333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27303268",
+      "name_ko": "강시골",
+      "name_en": "강시골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.052222,
+      "longitude": 128.935278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27323832",
+      "name_ko": "고무골",
+      "name_en": "고무골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.930556,
+      "longitude": 129.205833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27290334",
+      "name_ko": "고수골",
+      "name_en": "고수골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.108056,
+      "longitude": 129.276389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27303223",
+      "name_ko": "곰집골",
+      "name_en": "곰집골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.0175,
+      "longitude": 128.74,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27304304",
+      "name_ko": "구룡곡",
+      "name_en": "구룡곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.037778,
+      "longitude": 128.8275,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27303537",
+      "name_ko": "굴골",
+      "name_en": "굴골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.054444,
+      "longitude": 128.931389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27304329",
+      "name_ko": "금당곡",
+      "name_en": "금당곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.038056,
+      "longitude": 128.816389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27304148",
+      "name_ko": "노룬다리",
+      "name_en": "노룬다리",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.066944,
+      "longitude": 128.803611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q27304137",
+      "name_ko": "늡둥이골",
+      "name_en": "늡둥이골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.008333,
+      "longitude": 128.925833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27304144",
+      "name_ko": "늦골",
+      "name_en": "늦골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.048611,
+      "longitude": 128.911111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27307571",
+      "name_ko": "달받골",
+      "name_en": "달받골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.023611,
+      "longitude": 128.872778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27337765",
+      "name_ko": "달발골",
+      "name_en": "달발골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.943889,
+      "longitude": 128.502222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27308207",
+      "name_ko": "대미네골",
+      "name_en": "대미네골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.03,
+      "longitude": 129.076389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27323817",
+      "name_ko": "도청계골",
+      "name_en": "도청계골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.818889,
+      "longitude": 129.236111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27336507",
+      "name_ko": "동막골",
+      "name_en": "동막골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.9425,
+      "longitude": 128.796944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q27304236",
+      "name_ko": "마심이골",
+      "name_en": "마심이골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.0225,
+      "longitude": 128.889444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27314311",
+      "name_ko": "무덤시골",
+      "name_en": "무덤시골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.458333,
+      "longitude": 129.229444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q27314403",
+      "name_ko": "무들골",
+      "name_en": "무들골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.188056,
+      "longitude": 129.2125,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27308210",
+      "name_ko": "물방아골",
+      "name_en": "물방아골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.025,
+      "longitude": 129.081667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q27304052",
+      "name_ko": "박달골",
+      "name_en": "박달골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.021667,
+      "longitude": 128.946389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q27314336",
+      "name_ko": "반지나골",
+      "name_en": "반지나골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.110278,
+      "longitude": 129.0375,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27309779",
+      "name_ko": "백병골",
+      "name_en": "백병골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.023611,
+      "longitude": 129.185,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q27336535",
+      "name_ko": "백천개곡",
+      "name_en": "백천개곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.071111,
+      "longitude": 128.977778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q27304076",
+      "name_ko": "뱀골",
+      "name_en": "뱀골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.039444,
+      "longitude": 128.648056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q27304009",
+      "name_ko": "벌바위골",
+      "name_en": "벌바위골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.031944,
+      "longitude": 128.945,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q27303991",
+      "name_ko": "보터나리골",
+      "name_en": "보터나리골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.071389,
+      "longitude": 128.946111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q27337748",
+      "name_ko": "북간터골",
+      "name_en": "북간터골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.956944,
+      "longitude": 128.541944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27304554",
+      "name_ko": "북마골",
+      "name_en": "북마골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.012222,
+      "longitude": 128.913056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q27324912",
+      "name_ko": "불당골",
+      "name_en": "불당골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 35.685278,
+      "longitude": 128.625833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q27309829",
+      "name_ko": "불심골",
+      "name_en": "불심골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.040278,
+      "longitude": 129.151389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q27337767",
+      "name_ko": "비로계곡",
+      "name_en": "비로계곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.934722,
+      "longitude": 128.501944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q27323821",
+      "name_ko": "사기점골",
+      "name_en": "사기점골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.904444,
+      "longitude": 129.285833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q27306600",
+      "name_ko": "삼골",
+      "name_en": "삼골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.060278,
+      "longitude": 128.965,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q27314275",
+      "name_ko": "삽작골",
+      "name_en": "삽작골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.338889,
+      "longitude": 129.202222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q27309831",
+      "name_ko": "삿갓봉골",
+      "name_en": "삿갓봉골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.054722,
+      "longitude": 129.162222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q27323846",
+      "name_ko": "샘골",
+      "name_en": "샘골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.792222,
+      "longitude": 129.008056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27306638",
+      "name_ko": "샛구미골",
+      "name_en": "샛구미골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.039167,
+      "longitude": 128.913889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q27337759",
+      "name_ko": "석륜임계곡",
+      "name_en": "석륜임계곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.954722,
+      "longitude": 128.514722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q27337744",
+      "name_ko": "석천폭포골",
+      "name_en": "석천폭포골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.963333,
+      "longitude": 128.546667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q27308211",
+      "name_ko": "선한골",
+      "name_en": "선한골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.020278,
+      "longitude": 129.091389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q27314364",
+      "name_ko": "수박골",
+      "name_en": "수박골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.2025,
+      "longitude": 129.230833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q27323834",
+      "name_ko": "심미골",
+      "name_en": "심미골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.929167,
+      "longitude": 129.191389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q27323901",
+      "name_ko": "양양골",
+      "name_en": "양양골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.566111,
+      "longitude": 129.063889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q27314353",
+      "name_ko": "오구낙골",
+      "name_en": "오구낙골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.128611,
+      "longitude": 129.068333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q27314305",
+      "name_ko": "오래골",
+      "name_en": "오래골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.416944,
+      "longitude": 129.111389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q27308235",
+      "name_ko": "오미골",
+      "name_en": "오미골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.009444,
+      "longitude": 129.114167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q27323837",
+      "name_ko": "옷나무골",
+      "name_en": "옷나무골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.893056,
+      "longitude": 129.216389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q27336516",
+      "name_ko": "우구치계곡",
+      "name_en": "우구치계곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.0525,
+      "longitude": 128.786111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q27307479",
+      "name_ko": "우등실골",
+      "name_en": "우등실골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.007222,
+      "longitude": 128.960278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q27323838",
+      "name_ko": "우범골",
+      "name_en": "우범골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.874722,
+      "longitude": 129.133889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q27336510",
+      "name_ko": "우터골",
+      "name_en": "우터골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.939722,
+      "longitude": 128.8425,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q27337761",
+      "name_ko": "월전계곡",
+      "name_en": "월전계곡",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.953611,
+      "longitude": 128.508611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q27302438",
+      "name_ko": "자새골",
+      "name_en": "자새골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.034722,
+      "longitude": 128.936667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q27323844",
+      "name_ko": "장구이골",
+      "name_en": "장구이골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.819167,
+      "longitude": 129.135556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q27323827",
+      "name_ko": "전내골",
+      "name_en": "전내골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.995278,
+      "longitude": 129.155556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q27314345",
+      "name_ko": "절골",
+      "name_en": "절골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.149722,
+      "longitude": 129.024722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q27308203",
+      "name_ko": "점골",
+      "name_en": "점골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.039722,
+      "longitude": 129.098611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q27323819",
+      "name_ko": "중미골",
+      "name_en": "중미골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.868889,
+      "longitude": 129.237222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q27303380",
+      "name_ko": "중봉골",
+      "name_en": "중봉골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.020556,
+      "longitude": 128.91,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q27303454",
+      "name_ko": "진바위골",
+      "name_en": "진바위골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.060278,
+      "longitude": 128.985,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q27322160",
+      "name_ko": "질매재",
+      "name_en": "질매재",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.056667,
+      "longitude": 127.960556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q27302470",
+      "name_ko": "참새골",
+      "name_en": "참새골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.038889,
+      "longitude": 128.858333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q27322074",
+      "name_ko": "큰골",
+      "name_en": "큰골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.433889,
+      "longitude": 127.911389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q27322152",
+      "name_ko": "큰골",
+      "name_en": "큰골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.179167,
+      "longitude": 128.054167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q27308225",
+      "name_ko": "큰굴골",
+      "name_en": "큰굴골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.024167,
+      "longitude": 129.051111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q27307553",
+      "name_ko": "타랭이골",
+      "name_en": "타랭이골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.025833,
+      "longitude": 128.971667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q27290333",
+      "name_ko": "탑골",
+      "name_en": "탑골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.106111,
+      "longitude": 129.285556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q27323820",
+      "name_ko": "피아골",
+      "name_en": "피아골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.877778,
+      "longitude": 129.2275,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q27321982",
+      "name_ko": "화랑이골",
+      "name_en": "화랑이골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.471944,
+      "longitude": 128.842778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q27314316",
+      "name_ko": "화일골",
+      "name_en": "화일골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.340556,
+      "longitude": 129.019722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q27314324",
+      "name_ko": "활골",
+      "name_en": "활골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 36.218611,
+      "longitude": 129.291111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q27303325",
+      "name_ko": "흰병골",
+      "name_en": "흰병골",
+      "mountain_at": "",
+      "located_in_at": "경상북도",
+      "latitude": 37.036111,
+      "longitude": 128.876111,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "계곡 — 경상북도 - 무료 다운로드",
+    "description": "경상북도에 위치한 계곡(골) 75건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함. 포함 75 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "계곡 — 경상북도 | ListBase",
+    "seo_description": "다운로드 계곡 — 경상북도 — 75 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 75 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

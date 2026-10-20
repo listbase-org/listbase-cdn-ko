@@ -1,0 +1,2996 @@
+{
+  "id": "ko-eoneo",
+  "name": "세계의 언어 (591)",
+  "title": "세계의 언어 (591)",
+  "description": "세계의 언어 목록 — ISO 639 / BCP-47 기본 하위태그 591개(지역별 변형 18개 제외), 한국어 명칭(유니코드 CLDR) 및 영어 명칭 포함. 예: 한국어(ko), 영어(en), 일본어(ja), 중국어(zh), 스페인어(es), 프랑스어(fr), 아랍어(ar). 코드순 정렬. 기존 세계 참조 자료(ko-gukga 국가 목록)를 보완하는 KO 버킷 최초의 언어 목록. 출처: umpirsky/language-list (CLDR).",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 591,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "aa",
+      "name_ko": "아파르어",
+      "name_en": "Afar"
+    },
+    {
+      "code": "ab",
+      "name_ko": "압카즈어",
+      "name_en": "Abkhazian"
+    },
+    {
+      "code": "ace",
+      "name_ko": "아체어",
+      "name_en": "Achinese"
+    },
+    {
+      "code": "ach",
+      "name_ko": "아콜리어",
+      "name_en": "Acoli"
+    },
+    {
+      "code": "ada",
+      "name_ko": "아당메어",
+      "name_en": "Adangme"
+    },
+    {
+      "code": "ady",
+      "name_ko": "아닥헤어",
+      "name_en": "Adyghe"
+    },
+    {
+      "code": "ae",
+      "name_ko": "아베스타어",
+      "name_en": "Avestan"
+    },
+    {
+      "code": "aeb",
+      "name_ko": "튀니지 아랍어",
+      "name_en": "Tunisian Arabic"
+    },
+    {
+      "code": "af",
+      "name_ko": "아프리칸스어",
+      "name_en": "Afrikaans"
+    },
+    {
+      "code": "afh",
+      "name_ko": "아프리히리어",
+      "name_en": "Afrihili"
+    },
+    {
+      "code": "agq",
+      "name_ko": "아그햄어",
+      "name_en": "Aghem"
+    },
+    {
+      "code": "ain",
+      "name_ko": "아이누어",
+      "name_en": "Ainu"
+    },
+    {
+      "code": "ak",
+      "name_ko": "아칸어",
+      "name_en": "Akan"
+    },
+    {
+      "code": "akk",
+      "name_ko": "아카드어",
+      "name_en": "Akkadian"
+    },
+    {
+      "code": "akz",
+      "name_ko": "Alabama",
+      "name_en": "Alabama"
+    },
+    {
+      "code": "ale",
+      "name_ko": "알류트어",
+      "name_en": "Aleut"
+    },
+    {
+      "code": "aln",
+      "name_ko": "Gheg Albanian",
+      "name_en": "Gheg Albanian"
+    },
+    {
+      "code": "alt",
+      "name_ko": "남부 알타이어",
+      "name_en": "Southern Altai"
+    },
+    {
+      "code": "am",
+      "name_ko": "암하라어",
+      "name_en": "Amharic"
+    },
+    {
+      "code": "an",
+      "name_ko": "아라곤어",
+      "name_en": "Aragonese"
+    },
+    {
+      "code": "ang",
+      "name_ko": "고대 영어",
+      "name_en": "Old English"
+    },
+    {
+      "code": "anp",
+      "name_ko": "앙가어",
+      "name_en": "Angika"
+    },
+    {
+      "code": "ar",
+      "name_ko": "아랍어",
+      "name_en": "Arabic"
+    },
+    {
+      "code": "arc",
+      "name_ko": "아람어",
+      "name_en": "Aramaic"
+    },
+    {
+      "code": "arn",
+      "name_ko": "아라우칸어",
+      "name_en": "Mapuche"
+    },
+    {
+      "code": "aro",
+      "name_ko": "Araona",
+      "name_en": "Araona"
+    },
+    {
+      "code": "arp",
+      "name_ko": "아라파호어",
+      "name_en": "Arapaho"
+    },
+    {
+      "code": "arq",
+      "name_ko": "알제리 아랍어",
+      "name_en": "Algerian Arabic"
+    },
+    {
+      "code": "arw",
+      "name_ko": "아라와크어",
+      "name_en": "Arawak"
+    },
+    {
+      "code": "ary",
+      "name_ko": "모로코 아랍어",
+      "name_en": "Moroccan Arabic"
+    },
+    {
+      "code": "arz",
+      "name_ko": "이집트 아랍어",
+      "name_en": "Egyptian Arabic"
+    },
+    {
+      "code": "as",
+      "name_ko": "아샘어",
+      "name_en": "Assamese"
+    },
+    {
+      "code": "asa",
+      "name_ko": "아수어",
+      "name_en": "Asu"
+    },
+    {
+      "code": "ase",
+      "name_ko": "American Sign Language",
+      "name_en": "American Sign Language"
+    },
+    {
+      "code": "ast",
+      "name_ko": "아스투리아어",
+      "name_en": "Asturian"
+    },
+    {
+      "code": "av",
+      "name_ko": "아바릭어",
+      "name_en": "Avaric"
+    },
+    {
+      "code": "avk",
+      "name_ko": "Kotava",
+      "name_en": "Kotava"
+    },
+    {
+      "code": "awa",
+      "name_ko": "아와히어",
+      "name_en": "Awadhi"
+    },
+    {
+      "code": "ay",
+      "name_ko": "아이마라어",
+      "name_en": "Aymara"
+    },
+    {
+      "code": "az",
+      "name_ko": "아제르바이잔어",
+      "name_en": "Azerbaijani"
+    },
+    {
+      "code": "azb",
+      "name_ko": "남아제르바이잔어",
+      "name_en": "South Azerbaijani"
+    },
+    {
+      "code": "ba",
+      "name_ko": "바슈키르어",
+      "name_en": "Bashkir"
+    },
+    {
+      "code": "bal",
+      "name_ko": "발루치어",
+      "name_en": "Baluchi"
+    },
+    {
+      "code": "ban",
+      "name_ko": "발리어",
+      "name_en": "Balinese"
+    },
+    {
+      "code": "bar",
+      "name_ko": "Bavarian",
+      "name_en": "Bavarian"
+    },
+    {
+      "code": "bas",
+      "name_ko": "바사어",
+      "name_en": "Basaa"
+    },
+    {
+      "code": "bax",
+      "name_ko": "바문어",
+      "name_en": "Bamun"
+    },
+    {
+      "code": "bbc",
+      "name_ko": "Batak Toba",
+      "name_en": "Batak Toba"
+    },
+    {
+      "code": "bbj",
+      "name_ko": "고말라어",
+      "name_en": "Ghomala"
+    },
+    {
+      "code": "be",
+      "name_ko": "벨라루스어",
+      "name_en": "Belarusian"
+    },
+    {
+      "code": "bej",
+      "name_ko": "베자어",
+      "name_en": "Beja"
+    },
+    {
+      "code": "bem",
+      "name_ko": "벰바어",
+      "name_en": "Bemba"
+    },
+    {
+      "code": "bew",
+      "name_ko": "Betawi",
+      "name_en": "Betawi"
+    },
+    {
+      "code": "bez",
+      "name_ko": "베나어",
+      "name_en": "Bena"
+    },
+    {
+      "code": "bfd",
+      "name_ko": "바푸트어",
+      "name_en": "Bafut"
+    },
+    {
+      "code": "bfq",
+      "name_ko": "Badaga",
+      "name_en": "Badaga"
+    },
+    {
+      "code": "bg",
+      "name_ko": "불가리아어",
+      "name_en": "Bulgarian"
+    },
+    {
+      "code": "bho",
+      "name_ko": "호즈푸리어",
+      "name_en": "Bhojpuri"
+    },
+    {
+      "code": "bi",
+      "name_ko": "비슬라마어",
+      "name_en": "Bislama"
+    },
+    {
+      "code": "bik",
+      "name_ko": "비콜어",
+      "name_en": "Bikol"
+    },
+    {
+      "code": "bin",
+      "name_ko": "비니어",
+      "name_en": "Bini"
+    },
+    {
+      "code": "bjn",
+      "name_ko": "Banjar",
+      "name_en": "Banjar"
+    },
+    {
+      "code": "bkm",
+      "name_ko": "콤어",
+      "name_en": "Kom"
+    },
+    {
+      "code": "bla",
+      "name_ko": "식시카어",
+      "name_en": "Siksika"
+    },
+    {
+      "code": "bm",
+      "name_ko": "밤바라어",
+      "name_en": "Bambara"
+    },
+    {
+      "code": "bn",
+      "name_ko": "벵골어",
+      "name_en": "Bengali"
+    },
+    {
+      "code": "bo",
+      "name_ko": "티베트어",
+      "name_en": "Tibetan"
+    },
+    {
+      "code": "bpy",
+      "name_ko": "Bishnupriya",
+      "name_en": "Bishnupriya"
+    },
+    {
+      "code": "bqi",
+      "name_ko": "Bakhtiari",
+      "name_en": "Bakhtiari"
+    },
+    {
+      "code": "br",
+      "name_ko": "브르타뉴어",
+      "name_en": "Breton"
+    },
+    {
+      "code": "bra",
+      "name_ko": "브라지어",
+      "name_en": "Braj"
+    },
+    {
+      "code": "brh",
+      "name_ko": "브라후이어",
+      "name_en": "Brahui"
+    },
+    {
+      "code": "brx",
+      "name_ko": "보도어",
+      "name_en": "Bodo"
+    },
+    {
+      "code": "bs",
+      "name_ko": "보스니아어",
+      "name_en": "Bosnian"
+    },
+    {
+      "code": "bss",
+      "name_ko": "아쿠즈어",
+      "name_en": "Akoose"
+    },
+    {
+      "code": "bua",
+      "name_ko": "부리아타",
+      "name_en": "Buriat"
+    },
+    {
+      "code": "bug",
+      "name_ko": "부기어",
+      "name_en": "Buginese"
+    },
+    {
+      "code": "bum",
+      "name_ko": "불루어",
+      "name_en": "Bulu"
+    },
+    {
+      "code": "byn",
+      "name_ko": "브린어",
+      "name_en": "Blin"
+    },
+    {
+      "code": "byv",
+      "name_ko": "메둠바어",
+      "name_en": "Medumba"
+    },
+    {
+      "code": "ca",
+      "name_ko": "카탈로니아어",
+      "name_en": "Catalan"
+    },
+    {
+      "code": "cad",
+      "name_ko": "카도어",
+      "name_en": "Caddo"
+    },
+    {
+      "code": "car",
+      "name_ko": "카리브어",
+      "name_en": "Carib"
+    },
+    {
+      "code": "cay",
+      "name_ko": "카유가어",
+      "name_en": "Cayuga"
+    },
+    {
+      "code": "cch",
+      "name_ko": "아삼어",
+      "name_en": "Atsam"
+    },
+    {
+      "code": "ce",
+      "name_ko": "체첸어",
+      "name_en": "Chechen"
+    },
+    {
+      "code": "ceb",
+      "name_ko": "세부아노어",
+      "name_en": "Cebuano"
+    },
+    {
+      "code": "cgg",
+      "name_ko": "치가어",
+      "name_en": "Chiga"
+    },
+    {
+      "code": "ch",
+      "name_ko": "차모로어",
+      "name_en": "Chamorro"
+    },
+    {
+      "code": "chb",
+      "name_ko": "치브차어",
+      "name_en": "Chibcha"
+    },
+    {
+      "code": "chg",
+      "name_ko": "차가타이어",
+      "name_en": "Chagatai"
+    },
+    {
+      "code": "chk",
+      "name_ko": "추크어",
+      "name_en": "Chuukese"
+    },
+    {
+      "code": "chm",
+      "name_ko": "마리어",
+      "name_en": "Mari"
+    },
+    {
+      "code": "chn",
+      "name_ko": "치누크어와 영어 프랑스어의 혼성어",
+      "name_en": "Chinook Jargon"
+    },
+    {
+      "code": "cho",
+      "name_ko": "촉토어",
+      "name_en": "Choctaw"
+    },
+    {
+      "code": "chp",
+      "name_ko": "치페우얀",
+      "name_en": "Chipewyan"
+    },
+    {
+      "code": "chr",
+      "name_ko": "체로키어",
+      "name_en": "Cherokee"
+    },
+    {
+      "code": "chy",
+      "name_ko": "샤이엔어",
+      "name_en": "Cheyenne"
+    },
+    {
+      "code": "ckb",
+      "name_ko": "소라니 쿠르드어",
+      "name_en": "Central Kurdish"
+    },
+    {
+      "code": "co",
+      "name_ko": "코르시카어",
+      "name_en": "Corsican"
+    },
+    {
+      "code": "cop",
+      "name_ko": "콥트어",
+      "name_en": "Coptic"
+    },
+    {
+      "code": "cps",
+      "name_ko": "Capiznon",
+      "name_en": "Capiznon"
+    },
+    {
+      "code": "cr",
+      "name_ko": "크리어",
+      "name_en": "Cree"
+    },
+    {
+      "code": "crh",
+      "name_ko": "크리민 터키어; 크리민 타타르어",
+      "name_en": "Crimean Turkish"
+    },
+    {
+      "code": "cs",
+      "name_ko": "체코어",
+      "name_en": "Czech"
+    },
+    {
+      "code": "csb",
+      "name_ko": "카슈비아어",
+      "name_en": "Kashubian"
+    },
+    {
+      "code": "cu",
+      "name_ko": "교회 슬라브어",
+      "name_en": "Church Slavic"
+    },
+    {
+      "code": "cv",
+      "name_ko": "추바시어",
+      "name_en": "Chuvash"
+    },
+    {
+      "code": "cy",
+      "name_ko": "웨일스어",
+      "name_en": "Welsh"
+    },
+    {
+      "code": "da",
+      "name_ko": "덴마크어",
+      "name_en": "Danish"
+    },
+    {
+      "code": "dak",
+      "name_ko": "다코타어",
+      "name_en": "Dakota"
+    },
+    {
+      "code": "dar",
+      "name_ko": "다르그와어",
+      "name_en": "Dargwa"
+    },
+    {
+      "code": "dav",
+      "name_ko": "타이타어",
+      "name_en": "Taita"
+    },
+    {
+      "code": "de",
+      "name_ko": "독일어",
+      "name_en": "German"
+    },
+    {
+      "code": "del",
+      "name_ko": "델라웨어어",
+      "name_en": "Delaware"
+    },
+    {
+      "code": "den",
+      "name_ko": "슬라브어",
+      "name_en": "Slave"
+    },
+    {
+      "code": "dgr",
+      "name_ko": "도그리브어",
+      "name_en": "Dogrib"
+    },
+    {
+      "code": "din",
+      "name_ko": "딩카어",
+      "name_en": "Dinka"
+    },
+    {
+      "code": "dje",
+      "name_ko": "자르마어",
+      "name_en": "Zarma"
+    },
+    {
+      "code": "doi",
+      "name_ko": "도그리어",
+      "name_en": "Dogri"
+    },
+    {
+      "code": "dsb",
+      "name_ko": "저지 소르비아어",
+      "name_en": "Lower Sorbian"
+    },
+    {
+      "code": "dtp",
+      "name_ko": "Central Dusun",
+      "name_en": "Central Dusun"
+    },
+    {
+      "code": "dua",
+      "name_ko": "드와라어",
+      "name_en": "Duala"
+    },
+    {
+      "code": "dum",
+      "name_ko": "중세 네덜란드어",
+      "name_en": "Middle Dutch"
+    },
+    {
+      "code": "dv",
+      "name_ko": "디베히어",
+      "name_en": "Divehi"
+    },
+    {
+      "code": "dyo",
+      "name_ko": "졸라 포니어",
+      "name_en": "Jola-Fonyi"
+    },
+    {
+      "code": "dyu",
+      "name_ko": "드율라어",
+      "name_en": "Dyula"
+    },
+    {
+      "code": "dz",
+      "name_ko": "종카어",
+      "name_en": "Dzongkha"
+    },
+    {
+      "code": "dzg",
+      "name_ko": "다장가어",
+      "name_en": "Dazaga"
+    },
+    {
+      "code": "ebu",
+      "name_ko": "엠부어",
+      "name_en": "Embu"
+    },
+    {
+      "code": "ee",
+      "name_ko": "에웨어",
+      "name_en": "Ewe"
+    },
+    {
+      "code": "efi",
+      "name_ko": "이픽어",
+      "name_en": "Efik"
+    },
+    {
+      "code": "egl",
+      "name_ko": "Emilian",
+      "name_en": "Emilian"
+    },
+    {
+      "code": "egy",
+      "name_ko": "이집트어 (고대)",
+      "name_en": "Ancient Egyptian"
+    },
+    {
+      "code": "eka",
+      "name_ko": "이카죽어",
+      "name_en": "Ekajuk"
+    },
+    {
+      "code": "el",
+      "name_ko": "그리스어",
+      "name_en": "Greek"
+    },
+    {
+      "code": "elx",
+      "name_ko": "엘람어",
+      "name_en": "Elamite"
+    },
+    {
+      "code": "en",
+      "name_ko": "영어",
+      "name_en": "English"
+    },
+    {
+      "code": "enm",
+      "name_ko": "영어, 중세",
+      "name_en": "Middle English"
+    },
+    {
+      "code": "eo",
+      "name_ko": "에스페란토어",
+      "name_en": "Esperanto"
+    },
+    {
+      "code": "es",
+      "name_ko": "스페인어",
+      "name_en": "Spanish"
+    },
+    {
+      "code": "esu",
+      "name_ko": "Central Yupik",
+      "name_en": "Central Yupik"
+    },
+    {
+      "code": "et",
+      "name_ko": "에스토니아어",
+      "name_en": "Estonian"
+    },
+    {
+      "code": "eu",
+      "name_ko": "바스크어",
+      "name_en": "Basque"
+    },
+    {
+      "code": "ewo",
+      "name_ko": "이원도어",
+      "name_en": "Ewondo"
+    },
+    {
+      "code": "ext",
+      "name_ko": "Extremaduran",
+      "name_en": "Extremaduran"
+    },
+    {
+      "code": "fa",
+      "name_ko": "페르시아어",
+      "name_en": "Persian"
+    },
+    {
+      "code": "fan",
+      "name_ko": "팡그어",
+      "name_en": "Fang"
+    },
+    {
+      "code": "fat",
+      "name_ko": "판티어",
+      "name_en": "Fanti"
+    },
+    {
+      "code": "ff",
+      "name_ko": "풀라어",
+      "name_en": "Fulah"
+    },
+    {
+      "code": "fi",
+      "name_ko": "핀란드어",
+      "name_en": "Finnish"
+    },
+    {
+      "code": "fil",
+      "name_ko": "필리핀어",
+      "name_en": "Filipino"
+    },
+    {
+      "code": "fit",
+      "name_ko": "Tornedalen Finnish",
+      "name_en": "Tornedalen Finnish"
+    },
+    {
+      "code": "fj",
+      "name_ko": "피지어",
+      "name_en": "Fijian"
+    },
+    {
+      "code": "fo",
+      "name_ko": "페로어",
+      "name_en": "Faroese"
+    },
+    {
+      "code": "fon",
+      "name_ko": "폰어",
+      "name_en": "Fon"
+    },
+    {
+      "code": "fr",
+      "name_ko": "프랑스어",
+      "name_en": "French"
+    },
+    {
+      "code": "frc",
+      "name_ko": "Cajun French",
+      "name_en": "Cajun French"
+    },
+    {
+      "code": "frm",
+      "name_ko": "중세 프랑스어",
+      "name_en": "Middle French"
+    },
+    {
+      "code": "fro",
+      "name_ko": "고대 프랑스어",
+      "name_en": "Old French"
+    },
+    {
+      "code": "frp",
+      "name_ko": "Arpitan",
+      "name_en": "Arpitan"
+    },
+    {
+      "code": "frr",
+      "name_ko": "북부 프리슬란드어",
+      "name_en": "Northern Frisian"
+    },
+    {
+      "code": "frs",
+      "name_ko": "동부 프리슬란드어",
+      "name_en": "Eastern Frisian"
+    },
+    {
+      "code": "fur",
+      "name_ko": "프리우리안어",
+      "name_en": "Friulian"
+    },
+    {
+      "code": "fy",
+      "name_ko": "프리지아어",
+      "name_en": "Western Frisian"
+    },
+    {
+      "code": "ga",
+      "name_ko": "아일랜드어",
+      "name_en": "Irish"
+    },
+    {
+      "code": "gaa",
+      "name_ko": "가어",
+      "name_en": "Ga"
+    },
+    {
+      "code": "gag",
+      "name_ko": "가가우스어",
+      "name_en": "Gagauz"
+    },
+    {
+      "code": "gan",
+      "name_ko": "Gan Chinese",
+      "name_en": "Gan Chinese"
+    },
+    {
+      "code": "gay",
+      "name_ko": "가요어",
+      "name_en": "Gayo"
+    },
+    {
+      "code": "gba",
+      "name_ko": "그바야어",
+      "name_en": "Gbaya"
+    },
+    {
+      "code": "gbz",
+      "name_ko": "조로아스터 다리어",
+      "name_en": "Zoroastrian Dari"
+    },
+    {
+      "code": "gd",
+      "name_ko": "스코틀랜드 게일어",
+      "name_en": "Scottish Gaelic"
+    },
+    {
+      "code": "gez",
+      "name_ko": "게이즈어",
+      "name_en": "Geez"
+    },
+    {
+      "code": "gil",
+      "name_ko": "키리바시어",
+      "name_en": "Gilbertese"
+    },
+    {
+      "code": "gl",
+      "name_ko": "갈리시아어",
+      "name_en": "Galician"
+    },
+    {
+      "code": "glk",
+      "name_ko": "길라키어",
+      "name_en": "Gilaki"
+    },
+    {
+      "code": "gmh",
+      "name_ko": "중세 고지 독일어",
+      "name_en": "Middle High German"
+    },
+    {
+      "code": "gn",
+      "name_ko": "과라니어",
+      "name_en": "Guarani"
+    },
+    {
+      "code": "goh",
+      "name_ko": "고대 고지 독일어",
+      "name_en": "Old High German"
+    },
+    {
+      "code": "gom",
+      "name_ko": "고아 콘칸어",
+      "name_en": "Goan Konkani"
+    },
+    {
+      "code": "gon",
+      "name_ko": "곤디어",
+      "name_en": "Gondi"
+    },
+    {
+      "code": "gor",
+      "name_ko": "고론탈로어",
+      "name_en": "Gorontalo"
+    },
+    {
+      "code": "got",
+      "name_ko": "고트어",
+      "name_en": "Gothic"
+    },
+    {
+      "code": "grb",
+      "name_ko": "게르보어",
+      "name_en": "Grebo"
+    },
+    {
+      "code": "grc",
+      "name_ko": "그리스어, 고대",
+      "name_en": "Ancient Greek"
+    },
+    {
+      "code": "gsw",
+      "name_ko": "독일어(스위스)",
+      "name_en": "Swiss German"
+    },
+    {
+      "code": "gu",
+      "name_ko": "구자라트어",
+      "name_en": "Gujarati"
+    },
+    {
+      "code": "guc",
+      "name_ko": "Wayuu",
+      "name_en": "Wayuu"
+    },
+    {
+      "code": "gur",
+      "name_ko": "Frafra",
+      "name_en": "Frafra"
+    },
+    {
+      "code": "guz",
+      "name_ko": "구시어",
+      "name_en": "Gusii"
+    },
+    {
+      "code": "gv",
+      "name_ko": "맹크스어",
+      "name_en": "Manx"
+    },
+    {
+      "code": "gwi",
+      "name_ko": "그위친어",
+      "name_en": "Gwichʼin"
+    },
+    {
+      "code": "ha",
+      "name_ko": "하우사어",
+      "name_en": "Hausa"
+    },
+    {
+      "code": "hai",
+      "name_ko": "하이다어",
+      "name_en": "Haida"
+    },
+    {
+      "code": "hak",
+      "name_ko": "Hakka Chinese",
+      "name_en": "Hakka Chinese"
+    },
+    {
+      "code": "haw",
+      "name_ko": "하와이어",
+      "name_en": "Hawaiian"
+    },
+    {
+      "code": "he",
+      "name_ko": "히브리어",
+      "name_en": "Hebrew"
+    },
+    {
+      "code": "hi",
+      "name_ko": "힌디어",
+      "name_en": "Hindi"
+    },
+    {
+      "code": "hif",
+      "name_ko": "피지 힌디어",
+      "name_en": "Fiji Hindi"
+    },
+    {
+      "code": "hil",
+      "name_ko": "헤리가뇬어",
+      "name_en": "Hiligaynon"
+    },
+    {
+      "code": "hit",
+      "name_ko": "하타이트어",
+      "name_en": "Hittite"
+    },
+    {
+      "code": "hmn",
+      "name_ko": "히몸어",
+      "name_en": "Hmong"
+    },
+    {
+      "code": "ho",
+      "name_ko": "히리 모투어",
+      "name_en": "Hiri Motu"
+    },
+    {
+      "code": "hr",
+      "name_ko": "크로아티아어",
+      "name_en": "Croatian"
+    },
+    {
+      "code": "hsb",
+      "name_ko": "고지 소르비아어",
+      "name_en": "Upper Sorbian"
+    },
+    {
+      "code": "hsn",
+      "name_ko": "Xiang Chinese",
+      "name_en": "Xiang Chinese"
+    },
+    {
+      "code": "ht",
+      "name_ko": "아이티어",
+      "name_en": "Haitian"
+    },
+    {
+      "code": "hu",
+      "name_ko": "헝가리어",
+      "name_en": "Hungarian"
+    },
+    {
+      "code": "hup",
+      "name_ko": "후파어",
+      "name_en": "Hupa"
+    },
+    {
+      "code": "hy",
+      "name_ko": "아르메니아어",
+      "name_en": "Armenian"
+    },
+    {
+      "code": "hz",
+      "name_ko": "헤레로어",
+      "name_en": "Herero"
+    },
+    {
+      "code": "ia",
+      "name_ko": "인테르링구아 (국제보조어협회)",
+      "name_en": "Interlingua"
+    },
+    {
+      "code": "iba",
+      "name_ko": "이반어",
+      "name_en": "Iban"
+    },
+    {
+      "code": "ibb",
+      "name_ko": "이비비오어",
+      "name_en": "Ibibio"
+    },
+    {
+      "code": "id",
+      "name_ko": "인도네시아어",
+      "name_en": "Indonesian"
+    },
+    {
+      "code": "ie",
+      "name_ko": "인테르링구에",
+      "name_en": "Interlingue"
+    },
+    {
+      "code": "ig",
+      "name_ko": "이그보어",
+      "name_en": "Igbo"
+    },
+    {
+      "code": "ii",
+      "name_ko": "쓰촨 이어",
+      "name_en": "Sichuan Yi"
+    },
+    {
+      "code": "ik",
+      "name_ko": "이누피아크어",
+      "name_en": "Inupiaq"
+    },
+    {
+      "code": "ilo",
+      "name_ko": "이로코어",
+      "name_en": "Iloko"
+    },
+    {
+      "code": "inh",
+      "name_ko": "인귀시어",
+      "name_en": "Ingush"
+    },
+    {
+      "code": "io",
+      "name_ko": "이도어",
+      "name_en": "Ido"
+    },
+    {
+      "code": "is",
+      "name_ko": "아이슬란드어",
+      "name_en": "Icelandic"
+    },
+    {
+      "code": "it",
+      "name_ko": "이탈리아어",
+      "name_en": "Italian"
+    },
+    {
+      "code": "iu",
+      "name_ko": "이눅티투트어",
+      "name_en": "Inuktitut"
+    },
+    {
+      "code": "izh",
+      "name_ko": "Ingrian",
+      "name_en": "Ingrian"
+    },
+    {
+      "code": "ja",
+      "name_ko": "일본어",
+      "name_en": "Japanese"
+    },
+    {
+      "code": "jam",
+      "name_ko": "Jamaican Creole English",
+      "name_en": "Jamaican Creole English"
+    },
+    {
+      "code": "jbo",
+      "name_ko": "로반어",
+      "name_en": "Lojban"
+    },
+    {
+      "code": "jgo",
+      "name_ko": "응곰바어",
+      "name_en": "Ngomba"
+    },
+    {
+      "code": "jmc",
+      "name_ko": "마차메어",
+      "name_en": "Machame"
+    },
+    {
+      "code": "jpr",
+      "name_ko": "유대-페르시아어",
+      "name_en": "Judeo-Persian"
+    },
+    {
+      "code": "jrb",
+      "name_ko": "유대-아라비아어",
+      "name_en": "Judeo-Arabic"
+    },
+    {
+      "code": "jut",
+      "name_ko": "Jutish",
+      "name_en": "Jutish"
+    },
+    {
+      "code": "jv",
+      "name_ko": "자바어",
+      "name_en": "Javanese"
+    },
+    {
+      "code": "ka",
+      "name_ko": "조지아어",
+      "name_en": "Georgian"
+    },
+    {
+      "code": "kaa",
+      "name_ko": "카라칼파크어",
+      "name_en": "Kara-Kalpak"
+    },
+    {
+      "code": "kab",
+      "name_ko": "커바일어",
+      "name_en": "Kabyle"
+    },
+    {
+      "code": "kac",
+      "name_ko": "카친어",
+      "name_en": "Kachin"
+    },
+    {
+      "code": "kaj",
+      "name_ko": "까꼬토끄어",
+      "name_en": "Jju"
+    },
+    {
+      "code": "kam",
+      "name_ko": "캄바어",
+      "name_en": "Kamba"
+    },
+    {
+      "code": "kaw",
+      "name_ko": "카위어",
+      "name_en": "Kawi"
+    },
+    {
+      "code": "kbd",
+      "name_ko": "카바르디어",
+      "name_en": "Kabardian"
+    },
+    {
+      "code": "kbl",
+      "name_ko": "카넴부어",
+      "name_en": "Kanembu"
+    },
+    {
+      "code": "kcg",
+      "name_ko": "티얍어",
+      "name_en": "Tyap"
+    },
+    {
+      "code": "kde",
+      "name_ko": "마콘데어",
+      "name_en": "Makonde"
+    },
+    {
+      "code": "kea",
+      "name_ko": "크리올어",
+      "name_en": "Kabuverdianu"
+    },
+    {
+      "code": "ken",
+      "name_ko": "Kenyang",
+      "name_en": "Kenyang"
+    },
+    {
+      "code": "kfo",
+      "name_ko": "코로어",
+      "name_en": "Koro"
+    },
+    {
+      "code": "kg",
+      "name_ko": "콩고어",
+      "name_en": "Kongo"
+    },
+    {
+      "code": "kgp",
+      "name_ko": "Kaingang",
+      "name_en": "Kaingang"
+    },
+    {
+      "code": "kha",
+      "name_ko": "카시어",
+      "name_en": "Khasi"
+    },
+    {
+      "code": "kho",
+      "name_ko": "호탄어",
+      "name_en": "Khotanese"
+    },
+    {
+      "code": "khq",
+      "name_ko": "코이라 친니어",
+      "name_en": "Koyra Chiini"
+    },
+    {
+      "code": "khw",
+      "name_ko": "코와르어",
+      "name_en": "Khowar"
+    },
+    {
+      "code": "ki",
+      "name_ko": "키쿠유어",
+      "name_en": "Kikuyu"
+    },
+    {
+      "code": "kiu",
+      "name_ko": "Kirmanjki",
+      "name_en": "Kirmanjki"
+    },
+    {
+      "code": "kj",
+      "name_ko": "쿠안야마어",
+      "name_en": "Kuanyama"
+    },
+    {
+      "code": "kk",
+      "name_ko": "카자흐어",
+      "name_en": "Kazakh"
+    },
+    {
+      "code": "kkj",
+      "name_ko": "카코어",
+      "name_en": "Kako"
+    },
+    {
+      "code": "kl",
+      "name_ko": "그린란드어",
+      "name_en": "Kalaallisut"
+    },
+    {
+      "code": "kln",
+      "name_ko": "칼렌진어",
+      "name_en": "Kalenjin"
+    },
+    {
+      "code": "km",
+      "name_ko": "캄보디아어",
+      "name_en": "Khmer"
+    },
+    {
+      "code": "kmb",
+      "name_ko": "킴분두어",
+      "name_en": "Kimbundu"
+    },
+    {
+      "code": "kn",
+      "name_ko": "칸나다어",
+      "name_en": "Kannada"
+    },
+    {
+      "code": "ko",
+      "name_ko": "한국어",
+      "name_en": "Korean"
+    },
+    {
+      "code": "koi",
+      "name_ko": "코미페르먀크어",
+      "name_en": "Komi-Permyak"
+    },
+    {
+      "code": "kok",
+      "name_ko": "코카니어",
+      "name_en": "Konkani"
+    },
+    {
+      "code": "kos",
+      "name_ko": "코스라이엔어",
+      "name_en": "Kosraean"
+    },
+    {
+      "code": "kpe",
+      "name_ko": "크펠레어",
+      "name_en": "Kpelle"
+    },
+    {
+      "code": "kr",
+      "name_ko": "칸누리어",
+      "name_en": "Kanuri"
+    },
+    {
+      "code": "krc",
+      "name_ko": "카라챠이-발카르어",
+      "name_en": "Karachay-Balkar"
+    },
+    {
+      "code": "kri",
+      "name_ko": "Krio",
+      "name_en": "Krio"
+    },
+    {
+      "code": "krj",
+      "name_ko": "Kinaray-a",
+      "name_en": "Kinaray-a"
+    },
+    {
+      "code": "krl",
+      "name_ko": "카렐리야어",
+      "name_en": "Karelian"
+    },
+    {
+      "code": "kru",
+      "name_ko": "쿠르크어",
+      "name_en": "Kurukh"
+    },
+    {
+      "code": "ks",
+      "name_ko": "카슈미르어",
+      "name_en": "Kashmiri"
+    },
+    {
+      "code": "ksb",
+      "name_ko": "샴발라어",
+      "name_en": "Shambala"
+    },
+    {
+      "code": "ksf",
+      "name_ko": "바피아어",
+      "name_en": "Bafia"
+    },
+    {
+      "code": "ksh",
+      "name_ko": "콜로그니안어",
+      "name_en": "Colognian"
+    },
+    {
+      "code": "ku",
+      "name_ko": "쿠르드어",
+      "name_en": "Kurdish"
+    },
+    {
+      "code": "kum",
+      "name_ko": "쿠믹어",
+      "name_en": "Kumyk"
+    },
+    {
+      "code": "kut",
+      "name_ko": "쿠테네어",
+      "name_en": "Kutenai"
+    },
+    {
+      "code": "kv",
+      "name_ko": "코미어",
+      "name_en": "Komi"
+    },
+    {
+      "code": "kw",
+      "name_ko": "콘월어",
+      "name_en": "Cornish"
+    },
+    {
+      "code": "ky",
+      "name_ko": "키르기스어",
+      "name_en": "Kyrgyz"
+    },
+    {
+      "code": "la",
+      "name_ko": "라틴어",
+      "name_en": "Latin"
+    },
+    {
+      "code": "lad",
+      "name_ko": "라디노어",
+      "name_en": "Ladino"
+    },
+    {
+      "code": "lag",
+      "name_ko": "랑기어",
+      "name_en": "Langi"
+    },
+    {
+      "code": "lah",
+      "name_ko": "라한다어",
+      "name_en": "Lahnda"
+    },
+    {
+      "code": "lam",
+      "name_ko": "람바어",
+      "name_en": "Lamba"
+    },
+    {
+      "code": "lb",
+      "name_ko": "룩셈부르크어",
+      "name_en": "Luxembourgish"
+    },
+    {
+      "code": "lez",
+      "name_ko": "레즈기안어",
+      "name_en": "Lezghian"
+    },
+    {
+      "code": "lfn",
+      "name_ko": "링구아 프랑카 노바",
+      "name_en": "Lingua Franca Nova"
+    },
+    {
+      "code": "lg",
+      "name_ko": "간다어",
+      "name_en": "Ganda"
+    },
+    {
+      "code": "li",
+      "name_ko": "림버거어",
+      "name_en": "Limburgish"
+    },
+    {
+      "code": "lij",
+      "name_ko": "Ligurian",
+      "name_en": "Ligurian"
+    },
+    {
+      "code": "liv",
+      "name_ko": "Livonian",
+      "name_en": "Livonian"
+    },
+    {
+      "code": "lkt",
+      "name_ko": "라코타어",
+      "name_en": "Lakota"
+    },
+    {
+      "code": "lmo",
+      "name_ko": "Lombard",
+      "name_en": "Lombard"
+    },
+    {
+      "code": "ln",
+      "name_ko": "링갈라어",
+      "name_en": "Lingala"
+    },
+    {
+      "code": "lo",
+      "name_ko": "라오어",
+      "name_en": "Lao"
+    },
+    {
+      "code": "lol",
+      "name_ko": "몽구어",
+      "name_en": "Mongo"
+    },
+    {
+      "code": "loz",
+      "name_ko": "로지어",
+      "name_en": "Lozi"
+    },
+    {
+      "code": "lt",
+      "name_ko": "리투아니아어",
+      "name_en": "Lithuanian"
+    },
+    {
+      "code": "ltg",
+      "name_ko": "Latgalian",
+      "name_en": "Latgalian"
+    },
+    {
+      "code": "lu",
+      "name_ko": "루바-카탄가어",
+      "name_en": "Luba-Katanga"
+    },
+    {
+      "code": "lua",
+      "name_ko": "루바-룰루아어",
+      "name_en": "Luba-Lulua"
+    },
+    {
+      "code": "lui",
+      "name_ko": "루이세노어",
+      "name_en": "Luiseno"
+    },
+    {
+      "code": "lun",
+      "name_ko": "룬다어",
+      "name_en": "Lunda"
+    },
+    {
+      "code": "luo",
+      "name_ko": "루오어",
+      "name_en": "Luo"
+    },
+    {
+      "code": "lus",
+      "name_ko": "루샤이어",
+      "name_en": "Mizo"
+    },
+    {
+      "code": "luy",
+      "name_ko": "루야어",
+      "name_en": "Luyia"
+    },
+    {
+      "code": "lv",
+      "name_ko": "라트비아어",
+      "name_en": "Latvian"
+    },
+    {
+      "code": "lzh",
+      "name_ko": "Literary Chinese",
+      "name_en": "Literary Chinese"
+    },
+    {
+      "code": "lzz",
+      "name_ko": "Laz",
+      "name_en": "Laz"
+    },
+    {
+      "code": "mad",
+      "name_ko": "마두라어",
+      "name_en": "Madurese"
+    },
+    {
+      "code": "maf",
+      "name_ko": "마파어",
+      "name_en": "Mafa"
+    },
+    {
+      "code": "mag",
+      "name_ko": "마가히",
+      "name_en": "Magahi"
+    },
+    {
+      "code": "mai",
+      "name_ko": "마이틸리",
+      "name_en": "Maithili"
+    },
+    {
+      "code": "mak",
+      "name_ko": "마카사어",
+      "name_en": "Makasar"
+    },
+    {
+      "code": "man",
+      "name_ko": "만딩고어",
+      "name_en": "Mandingo"
+    },
+    {
+      "code": "mas",
+      "name_ko": "마사이어",
+      "name_en": "Masai"
+    },
+    {
+      "code": "mde",
+      "name_ko": "마바어",
+      "name_en": "Maba"
+    },
+    {
+      "code": "mdf",
+      "name_ko": "모크샤어",
+      "name_en": "Moksha"
+    },
+    {
+      "code": "mdr",
+      "name_ko": "만다르어",
+      "name_en": "Mandar"
+    },
+    {
+      "code": "men",
+      "name_ko": "멘데어",
+      "name_en": "Mende"
+    },
+    {
+      "code": "mer",
+      "name_ko": "메루어",
+      "name_en": "Meru"
+    },
+    {
+      "code": "mfe",
+      "name_ko": "모리스얀어",
+      "name_en": "Morisyen"
+    },
+    {
+      "code": "mg",
+      "name_ko": "말라가시어",
+      "name_en": "Malagasy"
+    },
+    {
+      "code": "mga",
+      "name_ko": "아일랜드어, 중세",
+      "name_en": "Middle Irish"
+    },
+    {
+      "code": "mgh",
+      "name_ko": "마크후와-메토어",
+      "name_en": "Makhuwa-Meetto"
+    },
+    {
+      "code": "mgo",
+      "name_ko": "메타어",
+      "name_en": "Metaʼ"
+    },
+    {
+      "code": "mh",
+      "name_ko": "마셜제도어",
+      "name_en": "Marshallese"
+    },
+    {
+      "code": "mi",
+      "name_ko": "마오리어",
+      "name_en": "Maori"
+    },
+    {
+      "code": "mic",
+      "name_ko": "미크맥어",
+      "name_en": "Micmac"
+    },
+    {
+      "code": "min",
+      "name_ko": "미낭카바우",
+      "name_en": "Minangkabau"
+    },
+    {
+      "code": "mk",
+      "name_ko": "마케도니아어",
+      "name_en": "Macedonian"
+    },
+    {
+      "code": "ml",
+      "name_ko": "말라얄람어",
+      "name_en": "Malayalam"
+    },
+    {
+      "code": "mn",
+      "name_ko": "몽고어",
+      "name_en": "Mongolian"
+    },
+    {
+      "code": "mnc",
+      "name_ko": "만주어",
+      "name_en": "Manchu"
+    },
+    {
+      "code": "mni",
+      "name_ko": "마니푸리어",
+      "name_en": "Manipuri"
+    },
+    {
+      "code": "moh",
+      "name_ko": "모호크어",
+      "name_en": "Mohawk"
+    },
+    {
+      "code": "mos",
+      "name_ko": "모시어",
+      "name_en": "Mossi"
+    },
+    {
+      "code": "mr",
+      "name_ko": "마라티어",
+      "name_en": "Marathi"
+    },
+    {
+      "code": "mrj",
+      "name_ko": "서부 마리어",
+      "name_en": "Western Mari"
+    },
+    {
+      "code": "ms",
+      "name_ko": "말레이어",
+      "name_en": "Malay"
+    },
+    {
+      "code": "mt",
+      "name_ko": "몰타어",
+      "name_en": "Maltese"
+    },
+    {
+      "code": "mua",
+      "name_ko": "문당어",
+      "name_en": "Mundang"
+    },
+    {
+      "code": "mul",
+      "name_ko": "다중 언어",
+      "name_en": "Multiple Languages"
+    },
+    {
+      "code": "mus",
+      "name_ko": "크리크어",
+      "name_en": "Creek"
+    },
+    {
+      "code": "mwl",
+      "name_ko": "미란데어",
+      "name_en": "Mirandese"
+    },
+    {
+      "code": "mwr",
+      "name_ko": "마르와리어",
+      "name_en": "Marwari"
+    },
+    {
+      "code": "mwv",
+      "name_ko": "Mentawai",
+      "name_en": "Mentawai"
+    },
+    {
+      "code": "my",
+      "name_ko": "버마어",
+      "name_en": "Burmese"
+    },
+    {
+      "code": "mye",
+      "name_ko": "미예네어",
+      "name_en": "Myene"
+    },
+    {
+      "code": "myv",
+      "name_ko": "엘즈야어",
+      "name_en": "Erzya"
+    },
+    {
+      "code": "mzn",
+      "name_ko": "마잔데라니어",
+      "name_en": "Mazanderani"
+    },
+    {
+      "code": "na",
+      "name_ko": "나우루어",
+      "name_en": "Nauru"
+    },
+    {
+      "code": "nan",
+      "name_ko": "Min Nan Chinese",
+      "name_en": "Min Nan Chinese"
+    },
+    {
+      "code": "nap",
+      "name_ko": "나폴리어",
+      "name_en": "Neapolitan"
+    },
+    {
+      "code": "naq",
+      "name_ko": "나마어",
+      "name_en": "Nama"
+    },
+    {
+      "code": "nb",
+      "name_ko": "노르웨이어(보크말)",
+      "name_en": "Norwegian Bokmål"
+    },
+    {
+      "code": "nd",
+      "name_ko": "북부 은데벨레어",
+      "name_en": "North Ndebele"
+    },
+    {
+      "code": "nds",
+      "name_ko": "저지 독일어",
+      "name_en": "Low German"
+    },
+    {
+      "code": "ne",
+      "name_ko": "네팔어",
+      "name_en": "Nepali"
+    },
+    {
+      "code": "new",
+      "name_ko": "네와르어",
+      "name_en": "Newari"
+    },
+    {
+      "code": "ng",
+      "name_ko": "느동가어",
+      "name_en": "Ndonga"
+    },
+    {
+      "code": "nia",
+      "name_ko": "니아스어",
+      "name_en": "Nias"
+    },
+    {
+      "code": "niu",
+      "name_ko": "니웨언어",
+      "name_en": "Niuean"
+    },
+    {
+      "code": "njo",
+      "name_ko": "Ao Naga",
+      "name_en": "Ao Naga"
+    },
+    {
+      "code": "nl",
+      "name_ko": "네덜란드어",
+      "name_en": "Dutch"
+    },
+    {
+      "code": "nmg",
+      "name_ko": "크와시오어",
+      "name_en": "Kwasio"
+    },
+    {
+      "code": "nn",
+      "name_ko": "노르웨이어(니노르스크)",
+      "name_en": "Norwegian Nynorsk"
+    },
+    {
+      "code": "nnh",
+      "name_ko": "느기엠본어",
+      "name_en": "Ngiemboon"
+    },
+    {
+      "code": "no",
+      "name_ko": "노르웨이어",
+      "name_en": "Norwegian"
+    },
+    {
+      "code": "nog",
+      "name_ko": "노가이어",
+      "name_en": "Nogai"
+    },
+    {
+      "code": "non",
+      "name_ko": "노르웨이, 고대",
+      "name_en": "Old Norse"
+    },
+    {
+      "code": "nov",
+      "name_ko": "Novial",
+      "name_en": "Novial"
+    },
+    {
+      "code": "nqo",
+      "name_ko": "응코어",
+      "name_en": "NʼKo"
+    },
+    {
+      "code": "nr",
+      "name_ko": "남부 은데벨레어",
+      "name_en": "South Ndebele"
+    },
+    {
+      "code": "nso",
+      "name_ko": "소토어 (북부)",
+      "name_en": "Northern Sotho"
+    },
+    {
+      "code": "nus",
+      "name_ko": "누에르어",
+      "name_en": "Nuer"
+    },
+    {
+      "code": "nv",
+      "name_ko": "나바호어",
+      "name_en": "Navajo"
+    },
+    {
+      "code": "nwc",
+      "name_ko": "네와르어 (고전)",
+      "name_en": "Classical Newari"
+    },
+    {
+      "code": "ny",
+      "name_ko": "니안자어; 치츄어; 츄어",
+      "name_en": "Nyanja"
+    },
+    {
+      "code": "nym",
+      "name_ko": "니암웨지어",
+      "name_en": "Nyamwezi"
+    },
+    {
+      "code": "nyn",
+      "name_ko": "니안콜어",
+      "name_en": "Nyankole"
+    },
+    {
+      "code": "nyo",
+      "name_ko": "뉴로어",
+      "name_en": "Nyoro"
+    },
+    {
+      "code": "nzi",
+      "name_ko": "느지마어",
+      "name_en": "Nzima"
+    },
+    {
+      "code": "oc",
+      "name_ko": "오크어",
+      "name_en": "Occitan"
+    },
+    {
+      "code": "oj",
+      "name_ko": "오지브웨이어",
+      "name_en": "Ojibwa"
+    },
+    {
+      "code": "om",
+      "name_ko": "오로모어",
+      "name_en": "Oromo"
+    },
+    {
+      "code": "or",
+      "name_ko": "오리야어",
+      "name_en": "Oriya"
+    },
+    {
+      "code": "os",
+      "name_ko": "오세트어",
+      "name_en": "Ossetic"
+    },
+    {
+      "code": "osa",
+      "name_ko": "오세이지어",
+      "name_en": "Osage"
+    },
+    {
+      "code": "ota",
+      "name_ko": "터키어, 오스만",
+      "name_en": "Ottoman Turkish"
+    },
+    {
+      "code": "pa",
+      "name_ko": "펀잡어",
+      "name_en": "Punjabi"
+    },
+    {
+      "code": "pag",
+      "name_ko": "판가시난어",
+      "name_en": "Pangasinan"
+    },
+    {
+      "code": "pal",
+      "name_ko": "팔레비어",
+      "name_en": "Pahlavi"
+    },
+    {
+      "code": "pam",
+      "name_ko": "팜팡가어",
+      "name_en": "Pampanga"
+    },
+    {
+      "code": "pap",
+      "name_ko": "파피아먼토어",
+      "name_en": "Papiamento"
+    },
+    {
+      "code": "pau",
+      "name_ko": "파라우안어",
+      "name_en": "Palauan"
+    },
+    {
+      "code": "pcd",
+      "name_ko": "Picard",
+      "name_en": "Picard"
+    },
+    {
+      "code": "pdc",
+      "name_ko": "Pennsylvania German",
+      "name_en": "Pennsylvania German"
+    },
+    {
+      "code": "pdt",
+      "name_ko": "Plautdietsch",
+      "name_en": "Plautdietsch"
+    },
+    {
+      "code": "peo",
+      "name_ko": "고대 페르시아어",
+      "name_en": "Old Persian"
+    },
+    {
+      "code": "pfl",
+      "name_ko": "Palatine German",
+      "name_en": "Palatine German"
+    },
+    {
+      "code": "phn",
+      "name_ko": "페니키아어",
+      "name_en": "Phoenician"
+    },
+    {
+      "code": "pi",
+      "name_ko": "팔리어",
+      "name_en": "Pali"
+    },
+    {
+      "code": "pl",
+      "name_ko": "폴란드어",
+      "name_en": "Polish"
+    },
+    {
+      "code": "pms",
+      "name_ko": "Piedmontese",
+      "name_en": "Piedmontese"
+    },
+    {
+      "code": "pnt",
+      "name_ko": "폰틱어",
+      "name_en": "Pontic"
+    },
+    {
+      "code": "pon",
+      "name_ko": "폼페이어",
+      "name_en": "Pohnpeian"
+    },
+    {
+      "code": "prg",
+      "name_ko": "Prussian",
+      "name_en": "Prussian"
+    },
+    {
+      "code": "pro",
+      "name_ko": "고대 프로방스어",
+      "name_en": "Old Provençal"
+    },
+    {
+      "code": "ps",
+      "name_ko": "파슈토어",
+      "name_en": "Pashto"
+    },
+    {
+      "code": "pt",
+      "name_ko": "포르투갈어",
+      "name_en": "Portuguese"
+    },
+    {
+      "code": "qu",
+      "name_ko": "케추아어",
+      "name_en": "Quechua"
+    },
+    {
+      "code": "quc",
+      "name_ko": "키체어",
+      "name_en": "Kʼicheʼ"
+    },
+    {
+      "code": "qug",
+      "name_ko": "Chimborazo Highland Quichua",
+      "name_en": "Chimborazo Highland Quichua"
+    },
+    {
+      "code": "raj",
+      "name_ko": "라자스탄어",
+      "name_en": "Rajasthani"
+    },
+    {
+      "code": "rap",
+      "name_ko": "라파뉴이",
+      "name_en": "Rapanui"
+    },
+    {
+      "code": "rar",
+      "name_ko": "라로통가어",
+      "name_en": "Rarotongan"
+    },
+    {
+      "code": "rgn",
+      "name_ko": "Romagnol",
+      "name_en": "Romagnol"
+    },
+    {
+      "code": "rif",
+      "name_ko": "Riffian",
+      "name_en": "Riffian"
+    },
+    {
+      "code": "rm",
+      "name_ko": "레토로만어",
+      "name_en": "Romansh"
+    },
+    {
+      "code": "rn",
+      "name_ko": "룬디어",
+      "name_en": "Rundi"
+    },
+    {
+      "code": "ro",
+      "name_ko": "루마니아어",
+      "name_en": "Romanian"
+    },
+    {
+      "code": "rof",
+      "name_ko": "롬보어",
+      "name_en": "Rombo"
+    },
+    {
+      "code": "rom",
+      "name_ko": "집시어",
+      "name_en": "Romany"
+    },
+    {
+      "code": "root",
+      "name_ko": "어근",
+      "name_en": "Root"
+    },
+    {
+      "code": "rtm",
+      "name_ko": "Rotuman",
+      "name_en": "Rotuman"
+    },
+    {
+      "code": "ru",
+      "name_ko": "러시아어",
+      "name_en": "Russian"
+    },
+    {
+      "code": "rue",
+      "name_ko": "루신어",
+      "name_en": "Rusyn"
+    },
+    {
+      "code": "rug",
+      "name_ko": "Roviana",
+      "name_en": "Roviana"
+    },
+    {
+      "code": "rup",
+      "name_ko": "아로마니아어",
+      "name_en": "Aromanian"
+    },
+    {
+      "code": "rw",
+      "name_ko": "르완다어",
+      "name_en": "Kinyarwanda"
+    },
+    {
+      "code": "rwk",
+      "name_ko": "르와어",
+      "name_en": "Rwa"
+    },
+    {
+      "code": "sa",
+      "name_ko": "산스크리트어",
+      "name_en": "Sanskrit"
+    },
+    {
+      "code": "sad",
+      "name_ko": "산다웨어",
+      "name_en": "Sandawe"
+    },
+    {
+      "code": "sah",
+      "name_ko": "야큐트어",
+      "name_en": "Sakha"
+    },
+    {
+      "code": "sam",
+      "name_ko": "사마리아 아랍어",
+      "name_en": "Samaritan Aramaic"
+    },
+    {
+      "code": "saq",
+      "name_ko": "삼부루어",
+      "name_en": "Samburu"
+    },
+    {
+      "code": "sas",
+      "name_ko": "사사크어",
+      "name_en": "Sasak"
+    },
+    {
+      "code": "sat",
+      "name_ko": "산탈리어",
+      "name_en": "Santali"
+    },
+    {
+      "code": "saz",
+      "name_ko": "Saurashtra",
+      "name_en": "Saurashtra"
+    },
+    {
+      "code": "sba",
+      "name_ko": "느감바이어",
+      "name_en": "Ngambay"
+    },
+    {
+      "code": "sbp",
+      "name_ko": "상구어",
+      "name_en": "Sangu"
+    },
+    {
+      "code": "sc",
+      "name_ko": "사르디니아어",
+      "name_en": "Sardinian"
+    },
+    {
+      "code": "scn",
+      "name_ko": "시칠리아어",
+      "name_en": "Sicilian"
+    },
+    {
+      "code": "sco",
+      "name_ko": "스코틀랜드어",
+      "name_en": "Scots"
+    },
+    {
+      "code": "sd",
+      "name_ko": "신디어",
+      "name_en": "Sindhi"
+    },
+    {
+      "code": "sdc",
+      "name_ko": "Sassarese Sardinian",
+      "name_en": "Sassarese Sardinian"
+    },
+    {
+      "code": "se",
+      "name_ko": "북부 사미어",
+      "name_en": "Northern Sami"
+    },
+    {
+      "code": "see",
+      "name_ko": "세네카어",
+      "name_en": "Seneca"
+    },
+    {
+      "code": "seh",
+      "name_ko": "세나어",
+      "name_en": "Sena"
+    },
+    {
+      "code": "sei",
+      "name_ko": "Seri",
+      "name_en": "Seri"
+    },
+    {
+      "code": "sel",
+      "name_ko": "셀쿠프어",
+      "name_en": "Selkup"
+    },
+    {
+      "code": "ses",
+      "name_ko": "코이야보로 세니어",
+      "name_en": "Koyraboro Senni"
+    },
+    {
+      "code": "sg",
+      "name_ko": "산고어",
+      "name_en": "Sango"
+    },
+    {
+      "code": "sga",
+      "name_ko": "아일랜드, 고대",
+      "name_en": "Old Irish"
+    },
+    {
+      "code": "sgs",
+      "name_ko": "Samogitian",
+      "name_en": "Samogitian"
+    },
+    {
+      "code": "sh",
+      "name_ko": "세르비아-크로아티아어",
+      "name_en": "Serbo-Croatian"
+    },
+    {
+      "code": "shi",
+      "name_ko": "타셸히트어",
+      "name_en": "Tachelhit"
+    },
+    {
+      "code": "shn",
+      "name_ko": "샨어",
+      "name_en": "Shan"
+    },
+    {
+      "code": "shu",
+      "name_ko": "차디언 아라비아어",
+      "name_en": "Chadian Arabic"
+    },
+    {
+      "code": "si",
+      "name_ko": "스리랑카어",
+      "name_en": "Sinhala"
+    },
+    {
+      "code": "sid",
+      "name_ko": "시다모어",
+      "name_en": "Sidamo"
+    },
+    {
+      "code": "sk",
+      "name_ko": "슬로바키아어",
+      "name_en": "Slovak"
+    },
+    {
+      "code": "sl",
+      "name_ko": "슬로베니아어",
+      "name_en": "Slovenian"
+    },
+    {
+      "code": "sli",
+      "name_ko": "Lower Silesian",
+      "name_en": "Lower Silesian"
+    },
+    {
+      "code": "sly",
+      "name_ko": "Selayar",
+      "name_en": "Selayar"
+    },
+    {
+      "code": "sm",
+      "name_ko": "사모아어",
+      "name_en": "Samoan"
+    },
+    {
+      "code": "sma",
+      "name_ko": "남부 사미어",
+      "name_en": "Southern Sami"
+    },
+    {
+      "code": "smj",
+      "name_ko": "룰레 사미어",
+      "name_en": "Lule Sami"
+    },
+    {
+      "code": "smn",
+      "name_ko": "이나리 사미어",
+      "name_en": "Inari Sami"
+    },
+    {
+      "code": "sms",
+      "name_ko": "스콜트 사미어",
+      "name_en": "Skolt Sami"
+    },
+    {
+      "code": "sn",
+      "name_ko": "쇼나어",
+      "name_en": "Shona"
+    },
+    {
+      "code": "snk",
+      "name_ko": "소닌케어",
+      "name_en": "Soninke"
+    },
+    {
+      "code": "so",
+      "name_ko": "소말리아어",
+      "name_en": "Somali"
+    },
+    {
+      "code": "sog",
+      "name_ko": "소그디엔어",
+      "name_en": "Sogdien"
+    },
+    {
+      "code": "sq",
+      "name_ko": "알바니아어",
+      "name_en": "Albanian"
+    },
+    {
+      "code": "sr",
+      "name_ko": "세르비아어",
+      "name_en": "Serbian"
+    },
+    {
+      "code": "srn",
+      "name_ko": "스라난 통가어",
+      "name_en": "Sranan Tongo"
+    },
+    {
+      "code": "srr",
+      "name_ko": "세레르어",
+      "name_en": "Serer"
+    },
+    {
+      "code": "ss",
+      "name_ko": "시스와티어",
+      "name_en": "Swati"
+    },
+    {
+      "code": "ssy",
+      "name_ko": "사호어",
+      "name_en": "Saho"
+    },
+    {
+      "code": "st",
+      "name_ko": "소토어 (남부)",
+      "name_en": "Southern Sotho"
+    },
+    {
+      "code": "stq",
+      "name_ko": "Saterland Frisian",
+      "name_en": "Saterland Frisian"
+    },
+    {
+      "code": "su",
+      "name_ko": "순다어",
+      "name_en": "Sundanese"
+    },
+    {
+      "code": "suk",
+      "name_ko": "수쿠마족어",
+      "name_en": "Sukuma"
+    },
+    {
+      "code": "sus",
+      "name_ko": "수수어",
+      "name_en": "Susu"
+    },
+    {
+      "code": "sux",
+      "name_ko": "수메르어",
+      "name_en": "Sumerian"
+    },
+    {
+      "code": "sv",
+      "name_ko": "스웨덴어",
+      "name_en": "Swedish"
+    },
+    {
+      "code": "sw",
+      "name_ko": "스와힐리어",
+      "name_en": "Swahili"
+    },
+    {
+      "code": "swb",
+      "name_ko": "코모로어",
+      "name_en": "Comorian"
+    },
+    {
+      "code": "swc",
+      "name_ko": "콩고 스와힐리어",
+      "name_en": "Congo Swahili"
+    },
+    {
+      "code": "syc",
+      "name_ko": "시리아어 (고전)",
+      "name_en": "Classical Syriac"
+    },
+    {
+      "code": "syr",
+      "name_ko": "시리아어",
+      "name_en": "Syriac"
+    },
+    {
+      "code": "szl",
+      "name_ko": "Silesian",
+      "name_en": "Silesian"
+    },
+    {
+      "code": "ta",
+      "name_ko": "타밀어",
+      "name_en": "Tamil"
+    },
+    {
+      "code": "tcy",
+      "name_ko": "Tulu",
+      "name_en": "Tulu"
+    },
+    {
+      "code": "te",
+      "name_ko": "텔루구어",
+      "name_en": "Telugu"
+    },
+    {
+      "code": "tem",
+      "name_ko": "팀니어",
+      "name_en": "Timne"
+    },
+    {
+      "code": "teo",
+      "name_ko": "테조어",
+      "name_en": "Teso"
+    },
+    {
+      "code": "ter",
+      "name_ko": "테레노어",
+      "name_en": "Tereno"
+    },
+    {
+      "code": "tet",
+      "name_ko": "테툼어",
+      "name_en": "Tetum"
+    },
+    {
+      "code": "tg",
+      "name_ko": "타지크어",
+      "name_en": "Tajik"
+    },
+    {
+      "code": "th",
+      "name_ko": "태국어",
+      "name_en": "Thai"
+    },
+    {
+      "code": "ti",
+      "name_ko": "티그리냐어",
+      "name_en": "Tigrinya"
+    },
+    {
+      "code": "tig",
+      "name_ko": "티그레어",
+      "name_en": "Tigre"
+    },
+    {
+      "code": "tiv",
+      "name_ko": "티비어",
+      "name_en": "Tiv"
+    },
+    {
+      "code": "tk",
+      "name_ko": "투르크멘어",
+      "name_en": "Turkmen"
+    },
+    {
+      "code": "tkl",
+      "name_ko": "토켈라우제도어",
+      "name_en": "Tokelau"
+    },
+    {
+      "code": "tkr",
+      "name_ko": "차후르어",
+      "name_en": "Tsakhur"
+    },
+    {
+      "code": "tl",
+      "name_ko": "타갈로그어",
+      "name_en": "Tagalog"
+    },
+    {
+      "code": "tlh",
+      "name_ko": "클링온어",
+      "name_en": "Klingon"
+    },
+    {
+      "code": "tli",
+      "name_ko": "틀링깃족어",
+      "name_en": "Tlingit"
+    },
+    {
+      "code": "tly",
+      "name_ko": "탈리쉬어",
+      "name_en": "Talysh"
+    },
+    {
+      "code": "tmh",
+      "name_ko": "타마섹어",
+      "name_en": "Tamashek"
+    },
+    {
+      "code": "tn",
+      "name_ko": "세츠와나어",
+      "name_en": "Tswana"
+    },
+    {
+      "code": "to",
+      "name_ko": "통가어",
+      "name_en": "Tongan"
+    },
+    {
+      "code": "tog",
+      "name_ko": "통가어 (니아살랜드)",
+      "name_en": "Nyasa Tonga"
+    },
+    {
+      "code": "tpi",
+      "name_ko": "토크 피신어",
+      "name_en": "Tok Pisin"
+    },
+    {
+      "code": "tr",
+      "name_ko": "터키어",
+      "name_en": "Turkish"
+    },
+    {
+      "code": "tru",
+      "name_ko": "Turoyo",
+      "name_en": "Turoyo"
+    },
+    {
+      "code": "trv",
+      "name_ko": "타로코어",
+      "name_en": "Taroko"
+    },
+    {
+      "code": "ts",
+      "name_ko": "총가어",
+      "name_en": "Tsonga"
+    },
+    {
+      "code": "tsd",
+      "name_ko": "Tsakonian",
+      "name_en": "Tsakonian"
+    },
+    {
+      "code": "tsi",
+      "name_ko": "트심시안어",
+      "name_en": "Tsimshian"
+    },
+    {
+      "code": "tt",
+      "name_ko": "타타르어",
+      "name_en": "Tatar"
+    },
+    {
+      "code": "ttt",
+      "name_ko": "Muslim Tat",
+      "name_en": "Muslim Tat"
+    },
+    {
+      "code": "tum",
+      "name_ko": "툼부카어",
+      "name_en": "Tumbuka"
+    },
+    {
+      "code": "tvl",
+      "name_ko": "투발루어",
+      "name_en": "Tuvalu"
+    },
+    {
+      "code": "tw",
+      "name_ko": "트위어",
+      "name_en": "Twi"
+    },
+    {
+      "code": "twq",
+      "name_ko": "타사와크어",
+      "name_en": "Tasawaq"
+    },
+    {
+      "code": "ty",
+      "name_ko": "타히티어",
+      "name_en": "Tahitian"
+    },
+    {
+      "code": "tyv",
+      "name_ko": "투비니안어",
+      "name_en": "Tuvinian"
+    },
+    {
+      "code": "tzm",
+      "name_ko": "중앙모로코 타마지트어",
+      "name_en": "Central Atlas Tamazight"
+    },
+    {
+      "code": "udm",
+      "name_ko": "우드말트어",
+      "name_en": "Udmurt"
+    },
+    {
+      "code": "ug",
+      "name_ko": "위구르어",
+      "name_en": "Uyghur"
+    },
+    {
+      "code": "uga",
+      "name_ko": "유가리틱어",
+      "name_en": "Ugaritic"
+    },
+    {
+      "code": "uk",
+      "name_ko": "우크라이나어",
+      "name_en": "Ukrainian"
+    },
+    {
+      "code": "umb",
+      "name_ko": "윤번두어",
+      "name_en": "Umbundu"
+    },
+    {
+      "code": "und",
+      "name_ko": "알 수 없는 언어",
+      "name_en": "Unknown Language"
+    },
+    {
+      "code": "ur",
+      "name_ko": "우르두어",
+      "name_en": "Urdu"
+    },
+    {
+      "code": "uz",
+      "name_ko": "우즈베크어",
+      "name_en": "Uzbek"
+    },
+    {
+      "code": "vai",
+      "name_ko": "바이어",
+      "name_en": "Vai"
+    },
+    {
+      "code": "ve",
+      "name_ko": "벤다어",
+      "name_en": "Venda"
+    },
+    {
+      "code": "vec",
+      "name_ko": "Venetian",
+      "name_en": "Venetian"
+    },
+    {
+      "code": "vep",
+      "name_ko": "Veps",
+      "name_en": "Veps"
+    },
+    {
+      "code": "vi",
+      "name_ko": "베트남어",
+      "name_en": "Vietnamese"
+    },
+    {
+      "code": "vls",
+      "name_ko": "West Flemish",
+      "name_en": "West Flemish"
+    },
+    {
+      "code": "vmf",
+      "name_ko": "Main-Franconian",
+      "name_en": "Main-Franconian"
+    },
+    {
+      "code": "vo",
+      "name_ko": "볼라퓌크어",
+      "name_en": "Volapük"
+    },
+    {
+      "code": "vot",
+      "name_ko": "보틱어",
+      "name_en": "Votic"
+    },
+    {
+      "code": "vro",
+      "name_ko": "Võro",
+      "name_en": "Võro"
+    },
+    {
+      "code": "vun",
+      "name_ko": "분조어",
+      "name_en": "Vunjo"
+    },
+    {
+      "code": "wa",
+      "name_ko": "왈론어",
+      "name_en": "Walloon"
+    },
+    {
+      "code": "wae",
+      "name_ko": "월저어",
+      "name_en": "Walser"
+    },
+    {
+      "code": "wal",
+      "name_ko": "와라모어",
+      "name_en": "Wolaytta"
+    },
+    {
+      "code": "war",
+      "name_ko": "와라이어",
+      "name_en": "Waray"
+    },
+    {
+      "code": "was",
+      "name_ko": "와쇼어",
+      "name_en": "Washo"
+    },
+    {
+      "code": "wbp",
+      "name_ko": "Warlpiri",
+      "name_en": "Warlpiri"
+    },
+    {
+      "code": "wo",
+      "name_ko": "올로프어",
+      "name_en": "Wolof"
+    },
+    {
+      "code": "wuu",
+      "name_ko": "Wu Chinese",
+      "name_en": "Wu Chinese"
+    },
+    {
+      "code": "xal",
+      "name_ko": "칼미크어",
+      "name_en": "Kalmyk"
+    },
+    {
+      "code": "xh",
+      "name_ko": "코사어",
+      "name_en": "Xhosa"
+    },
+    {
+      "code": "xmf",
+      "name_ko": "Mingrelian",
+      "name_en": "Mingrelian"
+    },
+    {
+      "code": "xog",
+      "name_ko": "소가어",
+      "name_en": "Soga"
+    },
+    {
+      "code": "yao",
+      "name_ko": "야오족어",
+      "name_en": "Yao"
+    },
+    {
+      "code": "yap",
+      "name_ko": "얍페세어",
+      "name_en": "Yapese"
+    },
+    {
+      "code": "yav",
+      "name_ko": "양본어",
+      "name_en": "Yangben"
+    },
+    {
+      "code": "ybb",
+      "name_ko": "옘바어",
+      "name_en": "Yemba"
+    },
+    {
+      "code": "yi",
+      "name_ko": "이디시어",
+      "name_en": "Yiddish"
+    },
+    {
+      "code": "yo",
+      "name_ko": "요루바어",
+      "name_en": "Yoruba"
+    },
+    {
+      "code": "yrl",
+      "name_ko": "Nheengatu",
+      "name_en": "Nheengatu"
+    },
+    {
+      "code": "yue",
+      "name_ko": "Cantonese",
+      "name_en": "Cantonese"
+    },
+    {
+      "code": "za",
+      "name_ko": "주앙어",
+      "name_en": "Zhuang"
+    },
+    {
+      "code": "zap",
+      "name_ko": "사포테크어",
+      "name_en": "Zapotec"
+    },
+    {
+      "code": "zbl",
+      "name_ko": "블리스 심볼",
+      "name_en": "Blissymbols"
+    },
+    {
+      "code": "zea",
+      "name_ko": "Zeelandic",
+      "name_en": "Zeelandic"
+    },
+    {
+      "code": "zen",
+      "name_ko": "제나가어",
+      "name_en": "Zenaga"
+    },
+    {
+      "code": "zgh",
+      "name_ko": "표준 모로코 타마제크어",
+      "name_en": "Standard Moroccan Tamazight"
+    },
+    {
+      "code": "zh",
+      "name_ko": "중국어",
+      "name_en": "Chinese"
+    },
+    {
+      "code": "zu",
+      "name_ko": "줄루어",
+      "name_en": "Zulu"
+    },
+    {
+      "code": "zun",
+      "name_ko": "주니어",
+      "name_en": "Zuni"
+    },
+    {
+      "code": "zxx",
+      "name_ko": "언어 관련 내용 없음",
+      "name_en": "No linguistic content"
+    },
+    {
+      "code": "zza",
+      "name_ko": "자자어",
+      "name_en": "Zaza"
+    }
+  ],
+  "meta": {
+    "title": "세계의 언어 (591) - 무료 다운로드",
+    "description": "세계의 언어 목록 — ISO 639 / BCP-47 기본 하위태그 591개(지역별 변형 18개 제외), 한국어 명칭(유니코드 CLDR) 및 영어 명칭 포함. 예: 한국어(ko), 영어(en), 일본어(ja), 중국어(zh), 스페인어(es), 프랑스어(fr), 아랍어(ar). 코드순 정렬. 기존 세계 참조 자료(ko-gukga 국가 목록)를 보완하는 KO 버킷 최초의 언어 목록. 출처: umpirsky/language-list (CLDR). 포함 591 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세계의 언어 (591) | ListBase",
+    "seo_description": "다운로드 세계의 언어 (591) — 591 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 591 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

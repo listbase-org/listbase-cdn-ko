@@ -1,0 +1,316 @@
+{
+  "id": "ko-dongsang",
+  "name": "대한민국의 동상 (Statues of South Korea)",
+  "title": "대한민국의 동상 (Statues of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 동상 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "갑사 석조보살입상",
+      "name_en": "Gongju Gapsa Stone Standing Bodhisattva Statue",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.365555555,
+      "longitude": 127.184722222,
+      "wikidata_id": "Q16726310",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16726310"
+    },
+    {
+      "name_ko": "갓바위",
+      "name_en": "Gatbawi",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.981537,
+      "longitude": 128.73644,
+      "wikidata_id": "Q5526956",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5526956"
+    },
+    {
+      "name_ko": "개령암지 마애불상군",
+      "name_en": "Namwon Gaeryeongamji Rock-carved Buddha Statues",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.36925,
+      "longitude": 127.543138888,
+      "wikidata_id": "Q12583212",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583212"
+    },
+    {
+      "name_ko": "거창 상림리 석조보살입상",
+      "name_en": "Geochang Sangnim-ri Stone Bodhisattva Statue",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.6875,
+      "longitude": 127.894444444,
+      "wikidata_id": "Q12583356",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583356"
+    },
+    {
+      "name_ko": "경주 삼릉계곡 마애관음보살상",
+      "name_en": "Gyeongju Namsan Samneunggye Rock-carved Avalokitesvara Bodhisattva Standing Statue",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.795,
+      "longitude": 129.221944444,
+      "wikidata_id": "Q27953775",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27953775"
+    },
+    {
+      "name_ko": "고봉국사주자원불",
+      "name_en": "Gobong Guksa Jujawon Buddha",
+      "admin_area_ko": "순천시",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.002333333,
+      "longitude": 127.274861111,
+      "wikidata_id": "Q24000211",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000211"
+    },
+    {
+      "name_ko": "관촉사 석조미륵보살입상",
+      "name_en": "Nonsan Gwanchoksa Temple Stone Standing Maitreya Bodhisattva",
+      "admin_area_ko": "논산시",
+      "admin_area_en": "Nonsan",
+      "latitude": 36.188055555,
+      "longitude": 127.1125,
+      "wikidata_id": "Q12584952",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584952"
+    },
+    {
+      "name_ko": "구미 해평리 석조여래좌상",
+      "name_en": "Stone seated Buddha statue in Haepyeong-ri, Gumi",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.203333333,
+      "longitude": 128.373888888,
+      "wikidata_id": "Q12585422",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585422"
+    },
+    {
+      "name_ko": "금산 천내리 용호석",
+      "name_en": "",
+      "admin_area_ko": "금산군",
+      "admin_area_en": "Geumsan County",
+      "latitude": 36.117777777,
+      "longitude": 127.568611111,
+      "wikidata_id": "Q16726352",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16726352"
+    },
+    {
+      "name_ko": "남원 신계리 마애여래좌상",
+      "name_en": "Rock-carved seated Buddha in Singye-ri, Namwon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.434166666,
+      "longitude": 127.301666666,
+      "wikidata_id": "Q12589953",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12589953"
+    },
+    {
+      "name_ko": "보성 유신리 마애여래좌상",
+      "name_en": "Rock-carved Buddha Seated Statue in Yusin-ri, Boseong",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.877777777,
+      "longitude": 127.239722222,
+      "wikidata_id": "Q12598377",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598377"
+    },
+    {
+      "name_ko": "봉학사지 석조여래좌상",
+      "name_en": "Stone seated Buddha statue at Bonghaksa Temple site, Goesan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.6325,
+      "longitude": 127.818333333,
+      "wikidata_id": "Q12598639",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598639"
+    },
+    {
+      "name_ko": "부여 홍산 상천리 마애불입상",
+      "name_en": "Buyeo Sangcheon-ri Rock-carved Buddha Statue",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.235057,
+      "longitude": 126.754319,
+      "wikidata_id": "Q16978632",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978632"
+    },
+    {
+      "name_ko": "산청 석남암사지 석조비로자나불좌상",
+      "name_en": "Stone Seated Vairochana Buddha Statue",
+      "admin_area_ko": "산청군",
+      "admin_area_en": "Sancheong County",
+      "latitude": 35.300277777,
+      "longitude": 127.804166666,
+      "wikidata_id": "Q19483861",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19483861"
+    },
+    {
+      "name_ko": "삼존불비상",
+      "name_en": "Triad Buddha Statue",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.558333333,
+      "longitude": 126.999722222,
+      "wikidata_id": "Q31177152",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31177152"
+    },
+    {
+      "name_ko": "순평사 금동여래좌상",
+      "name_en": "Sunchang Sunpyeongsa Gilt-bronze Seated Buddha",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.3809171,
+      "longitude": 127.1294236,
+      "wikidata_id": "Q12603483",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603483"
+    },
+    {
+      "name_ko": "양산 가산리 마애여래입상",
+      "name_en": "Yangsan Gasan-ri Rock-carved Buddha Statue",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.288611111,
+      "longitude": 129.034166666,
+      "wikidata_id": "Q18119260",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18119260"
+    },
+    {
+      "name_ko": "영암 도갑사 석조여래좌상",
+      "name_en": "Yeongam Dogapsa Stone Seated Buddha Statue",
+      "admin_area_ko": "영암군",
+      "admin_area_en": "Yeongam County",
+      "latitude": 34.753888888,
+      "longitude": 126.663888888,
+      "wikidata_id": "Q12607411",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12607411"
+    },
+    {
+      "name_ko": "울주 간월사지 석조여래좌상",
+      "name_en": "Stone Seated Buddha at Ganwolsa Temple Site, Ulju",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.556666666,
+      "longitude": 129.072222222,
+      "wikidata_id": "Q12582561",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582561"
+    },
+    {
+      "name_ko": "이천 소고리 마애삼존석불",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.173333,
+      "longitude": 127.4575,
+      "wikidata_id": "Q55733480",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733480"
+    },
+    {
+      "name_ko": "진천 노원리 석조마애여래입상",
+      "name_en": "Jincheon Nowon-ri Rock-carved Buddha Statue",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.915833333,
+      "longitude": 127.411666666,
+      "wikidata_id": "Q450341",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q450341"
+    },
+    {
+      "name_ko": "창원 성주사 석조석가삼존십육나한상",
+      "name_en": "Changwon Seongjusa Stone Buddha Triad and Sixteen Arhat Statues",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.176944444,
+      "longitude": 128.717777777,
+      "wikidata_id": "Q55734746",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734746"
+    },
+    {
+      "name_ko": "충주 철조여래좌상",
+      "name_en": "Iron Seated Buddha, Chungju",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.969444444,
+      "longitude": 127.929166666,
+      "wikidata_id": "Q12620173",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12620173"
+    },
+    {
+      "name_ko": "평화의 소녀상",
+      "name_en": "Statue of Peace",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5749345,
+      "longitude": 126.9803476,
+      "wikidata_id": "Q11482253",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11482253"
+    },
+    {
+      "name_ko": "형제의 상",
+      "name_en": "Statue of Brothers",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5351,
+      "longitude": 126.976,
+      "wikidata_id": "Q491940",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q491940"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 동상 (Statues of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 동상 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 25 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 동상 (Statues of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 동상 (Statues of South Korea) — 25 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 25 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

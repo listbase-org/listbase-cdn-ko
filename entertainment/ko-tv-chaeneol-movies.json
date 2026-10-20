@@ -1,0 +1,376 @@
+{
+  "id": "ko-tv-chaeneol-movies",
+  "name": "대한민국 영화 채널",
+  "title": "대한민국 영화 채널",
+  "description": "영화 전문 채널 19개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'movies'. Korean 'movies' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AXN.kr",
+      "name": "AXN",
+      "alt_names": "AXN South Korea",
+      "network": "",
+      "owners": "Sony Pictures Television",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2005-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://axntv.co.kr/"
+    },
+    {
+      "id": 2,
+      "channel_id": "AsiaM.kr",
+      "name": "AsiaM",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.asiantv.co.kr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "AsiaN.kr",
+      "name": "AsiaN",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2003-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.asiantv.co.kr/"
+    },
+    {
+      "id": 4,
+      "channel_id": "CatchOn1.kr",
+      "name": "Catch On 1",
+      "alt_names": "캐치온1",
+      "network": "",
+      "owners": "CJ ENM Entertainment Division",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2002-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://catchon.tving.com/catchon/"
+    },
+    {
+      "id": 5,
+      "channel_id": "CatchOn2.kr",
+      "name": "Catch On 2",
+      "alt_names": "캐치온2",
+      "network": "",
+      "owners": "CJ ENM Entertainment Division",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2002-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://catchon.tving.com/catchon/"
+    },
+    {
+      "id": 6,
+      "channel_id": "ChannelChina.kr",
+      "name": "Channel China",
+      "alt_names": "채널차이나",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2010-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cntv.co.kr/china"
+    },
+    {
+      "id": 7,
+      "channel_id": "ChannelOllehTV.kr",
+      "name": "Channel Olleh TV",
+      "alt_names": "채널 Olleh TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2019-05-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.kaonmedia.com:8443/eng/company/intro02_3.asp"
+    },
+    {
+      "id": 8,
+      "channel_id": "ChunghwaTV.kr",
+      "name": "Chunghwa TV",
+      "alt_names": "중화TV",
+      "network": "",
+      "owners": "CJ ENM Entertainment Division",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2004-05-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://zhtv.tving.com/zhtv"
+    },
+    {
+      "id": 9,
+      "channel_id": "CinemaHeaven.kr",
+      "name": "Cinema Heaven",
+      "alt_names": "시네마천국",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 10,
+      "channel_id": "IndieFilm.kr",
+      "name": "Indie Film",
+      "alt_names": "인디필름",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2010-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.indiefilm.kr/"
+    },
+    {
+      "id": 11,
+      "channel_id": "Mplex.kr",
+      "name": "Mplex",
+      "alt_names": "Movie Complex, 엠플렉스",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2004-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.ikmh.co.kr/03_mplex/channel.php"
+    },
+    {
+      "id": 12,
+      "channel_id": "OCN.kr",
+      "name": "OCN",
+      "alt_names": "",
+      "network": "",
+      "owners": "CJ Group",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "1999-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ocn.tving.com/"
+    },
+    {
+      "id": 13,
+      "channel_id": "OCNMovies.kr",
+      "name": "OCN Movies",
+      "alt_names": "OCN 무비스",
+      "network": "",
+      "owners": "CJ Group",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2020-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ocnmovies.tving.com/ocnmovies"
+    },
+    {
+      "id": 14,
+      "channel_id": "OCNThrills.kr",
+      "name": "OCN Thrills",
+      "alt_names": "OCN 쓰릴스",
+      "network": "CJ E&M Media Content Division",
+      "owners": "CJ Group",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2020-02-29",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ocnthrills.m.tving.com/"
+    },
+    {
+      "id": 15,
+      "channel_id": "PLAYYActionMovie.kr",
+      "name": "PLAYY Action Movie",
+      "alt_names": "PLAYY 액션 영화",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 16,
+      "channel_id": "PLAYYHealingMovie.kr",
+      "name": "PLAYY Healing Movie",
+      "alt_names": "PLAYY 힐링 영화",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 17,
+      "channel_id": "PLAYYPremiumMovie.kr",
+      "name": "PLAYY Premium Movie",
+      "alt_names": "PLAYY 프리미엄 영화",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 18,
+      "channel_id": "PLAYYWellMadeMovie.kr",
+      "name": "PLAYY Well-Made Movie",
+      "alt_names": "PLAYY 웰메이드 영화",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 19,
+      "channel_id": "TheMovie.kr",
+      "name": "The Movie",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.chthemovie.com/"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 영화 채널 - 무료 다운로드",
+    "description": "영화 전문 채널 19개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'movies'. Korean 'movies' TV channels split from the ko-tv-chaeneol master dataset. 포함 19 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 영화 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 영화 채널 — 19 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 19 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

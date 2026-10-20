@@ -1,0 +1,296 @@
+{
+  "id": "ko-ginyeommul",
+  "name": "대한민국의 기념물 (Monuments and Memorials of South Korea)",
+  "title": "대한민국의 기념물 (Monuments and Memorials of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 기념물 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "감악산비",
+      "name_en": "Gamak Mountain Monument",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.9425,
+      "longitude": 126.970833333,
+      "wikidata_id": "Q12582647",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582647"
+    },
+    {
+      "name_ko": "고경명 선생 비",
+      "name_en": "Monument to Teacher Go Gyeong-myeong",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.122777777,
+      "longitude": 127.473472222,
+      "wikidata_id": "Q18730719",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18730719"
+    },
+    {
+      "name_ko": "구례 윤문효공 묘전석등 및 석비",
+      "name_en": "Gurye Yun Mun Hyo-gong's tombstone lantern and stone monument",
+      "admin_area_ko": "구례군",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.286638888,
+      "longitude": 127.416222222,
+      "wikidata_id": "Q24000235",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000235"
+    },
+    {
+      "name_ko": "김해김씨비각",
+      "name_en": "Gimhae Kim Clan Monument",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.190555555,
+      "longitude": 128.080277777,
+      "wikidata_id": "Q19939549",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939549"
+    },
+    {
+      "name_ko": "대구부수성비",
+      "name_en": "Daegu Bususeongbi",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.875277777,
+      "longitude": 128.658333333,
+      "wikidata_id": "Q31177147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31177147"
+    },
+    {
+      "name_ko": "돈암서원 원정비",
+      "name_en": "Donam Seowon Wonjeongbi",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.209113888,
+      "longitude": 127.180575,
+      "wikidata_id": "Q18328655",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18328655"
+    },
+    {
+      "name_ko": "법천사지 지광국사탑비",
+      "name_en": "Monument to State Preceptor Jigwang at Beopcheonsa Temple Site, Wonju",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.206111111,
+      "longitude": 127.761666666,
+      "wikidata_id": "Q12598071",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598071"
+    },
+    {
+      "name_ko": "보덕각",
+      "name_en": "Uiryeong Bodeokgak",
+      "admin_area_ko": "의령군",
+      "admin_area_en": "Uiryeong County",
+      "latitude": 35.391666666,
+      "longitude": 128.429444444,
+      "wikidata_id": "Q18684238",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18684238"
+    },
+    {
+      "name_ko": "보령 성주사지 낭혜화상탑비",
+      "name_en": "Seongjusaji Nanghyehwasang Tapbi",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.344722222,
+      "longitude": 126.655555555,
+      "wikidata_id": "Q12598329",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598329"
+    },
+    {
+      "name_ko": "봉화 청량정사",
+      "name_en": "Bonghwa Cheongnyangjeongsa Temple",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.787777777,
+      "longitude": 128.919722222,
+      "wikidata_id": "Q82326359",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326359"
+    },
+    {
+      "name_ko": "사택지적비",
+      "name_en": "Sataekjijeok Monument",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.276388888,
+      "longitude": 126.918888888,
+      "wikidata_id": "Q12599914",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599914"
+    },
+    {
+      "name_ko": "서울 삼전도비",
+      "name_en": "Samjeondo Monument",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.510555555,
+      "longitude": 127.101666666,
+      "wikidata_id": "Q497146",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q497146"
+    },
+    {
+      "name_ko": "세종대왕 동상",
+      "name_en": "Statue of King Sejong",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.572823,
+      "longitude": 126.976878,
+      "wikidata_id": "Q30601154",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30601154"
+    },
+    {
+      "name_ko": "유당공원 내 비군",
+      "name_en": "Monument in Yudang Park",
+      "admin_area_ko": "광양시",
+      "admin_area_en": "Gwangyang",
+      "latitude": 34.970555555,
+      "longitude": 127.592222222,
+      "wikidata_id": "Q55732641",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732641"
+    },
+    {
+      "name_ko": "유엔군 초전기념관",
+      "name_en": "UN Forces First Battle Memorial",
+      "admin_area_ko": "오산시",
+      "admin_area_en": "Osan",
+      "latitude": 37.184331,
+      "longitude": 127.049005,
+      "wikidata_id": "Q26755865",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26755865"
+    },
+    {
+      "name_ko": "윤계 선생 순절비",
+      "name_en": "Monument to the Death of Teacher Yun Gye",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.213611111,
+      "longitude": 126.827777777,
+      "wikidata_id": "Q55732899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732899"
+    },
+    {
+      "name_ko": "전국체육대회 우승기",
+      "name_en": "National Sports Festival championship, 2nd, 3rd place",
+      "admin_area_ko": "공릉동",
+      "admin_area_en": "Seoul",
+      "latitude": 37.633611111,
+      "longitude": 127.096666666,
+      "wikidata_id": "Q93601243",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q93601243"
+    },
+    {
+      "name_ko": "창녕 신라 진흥왕 척경비",
+      "name_en": "King Jinheung’s Cheokgyeongbi",
+      "admin_area_ko": "창녕읍",
+      "admin_area_en": "Changnyeong-eup",
+      "latitude": 35.54083333,
+      "longitude": 128.5025,
+      "wikidata_id": "Q12618601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618601"
+    },
+    {
+      "name_ko": "청주 서원 모충사",
+      "name_en": "Cheongju Seowon Mochungsa Temple",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.627777777,
+      "longitude": 127.470277777,
+      "wikidata_id": "Q55734880",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734880"
+    },
+    {
+      "name_ko": "포항 냉수리 신라비",
+      "name_en": "Pohang Naengsu-ri Silla Stele",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.12990556,
+      "longitude": 129.26308611,
+      "wikidata_id": "Q11282048",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11282048"
+    },
+    {
+      "name_ko": "함안 파산 봉수대",
+      "name_en": "Haman Pasan Beacon Fire Tower",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.17972222,
+      "longitude": 128.44166667,
+      "wikidata_id": "Q24000299",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000299"
+    },
+    {
+      "name_ko": "해남 명량대첩비",
+      "name_en": "Haenam Myeongryang Battle Monument",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.584427777,
+      "longitude": 126.314352777,
+      "wikidata_id": "Q12595171",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595171"
+    },
+    {
+      "name_ko": "홍산 금천 석홍교 중창비",
+      "name_en": "Hongsan Geumcheon Seokhonggyo Bridge Monument",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.130555555,
+      "longitude": 126.453333333,
+      "wikidata_id": "Q55736070",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736070"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 기념물 (Monuments and Memorials of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 기념물 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 23 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 기념물 (Monuments and Memorials of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 기념물 (Monuments and Memorials of South Korea) — 23 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 23 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

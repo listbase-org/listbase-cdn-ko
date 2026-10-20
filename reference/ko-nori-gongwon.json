@@ -1,0 +1,166 @@
+{
+  "id": "ko-nori-gongwon",
+  "name": "대한민국의 놀이공원 (Amusement Parks of South Korea)",
+  "title": "대한민국의 놀이공원 (Amusement Parks of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 놀이공원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "경주월드",
+      "name_en": "Gyeongju World",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.8355876,
+      "longitude": 129.2806942,
+      "wikidata_id": "Q12583900",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583900"
+    },
+    {
+      "name_ko": "금오랜드",
+      "name_en": "Geumo Land",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.113,
+      "longitude": 128.316,
+      "wikidata_id": "Q5554860",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554860"
+    },
+    {
+      "name_ko": "동촌유원지",
+      "name_en": "Dongchon Amusement Park",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.88281,
+      "longitude": 128.650621,
+      "wikidata_id": "Q108417160",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108417160"
+    },
+    {
+      "name_ko": "롯데월드",
+      "name_en": "Lotte World",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.51119444,
+      "longitude": 127.09811111,
+      "wikidata_id": "Q494668",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494668"
+    },
+    {
+      "name_ko": "서울랜드",
+      "name_en": "Seoul Land",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.43421389,
+      "longitude": 127.019975,
+      "wikidata_id": "Q483663",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483663"
+    },
+    {
+      "name_ko": "에버랜드",
+      "name_en": "Everland",
+      "admin_area_ko": "처인구",
+      "admin_area_en": "Cheoin-gu",
+      "latitude": 37.29517778,
+      "longitude": 127.20445278,
+      "wikidata_id": "Q494673",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494673"
+    },
+    {
+      "name_ko": "옥포랜드",
+      "name_en": "Okpo Land",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.893638888,
+      "longitude": 128.700416666,
+      "wikidata_id": "Q17047405",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17047405"
+    },
+    {
+      "name_ko": "용마랜드",
+      "name_en": "Yongma Land",
+      "admin_area_ko": "중랑구",
+      "admin_area_en": "Jungnang District",
+      "latitude": 37.594357213,
+      "longitude": 127.105538442,
+      "wikidata_id": "Q23044897",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23044897"
+    },
+    {
+      "name_ko": "이월드",
+      "name_en": "E WORLD",
+      "admin_area_ko": "달서구",
+      "admin_area_en": "Daegu",
+      "latitude": 35.853304,
+      "longitude": 128.564378,
+      "wikidata_id": "Q12612274",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12612274"
+    },
+    {
+      "name_ko": "제주신화월드",
+      "name_en": "Jeju Shinhwa World",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.30645,
+      "longitude": 126.3162,
+      "wikidata_id": "Q60767828",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60767828"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 놀이공원 (Amusement Parks of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 놀이공원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 10 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 놀이공원 (Amusement Parks of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 놀이공원 (Amusement Parks of South Korea) — 10 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 10 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

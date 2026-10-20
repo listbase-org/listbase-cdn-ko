@@ -1,0 +1,2996 @@
+{
+  "id": "ko-incheon-beopjeongdong",
+  "name": "인천광역시 법정동코드 (Incheon Metropolitan City legal-dong codes)",
+  "title": "인천광역시 법정동코드 (Incheon Metropolitan City legal-dong codes)",
+  "description": "인천광역시의 법정동코드 — 시·군·구, 읍·면·동, 리 포함. 현행 코드 293건. 전국 법정동코드 데이터셋(ko-beopjeongdong-codes)의 시·도별 분할본. Legal-dong administrative codes for Incheon Metropolitan City (인천광역시), split from the national ko-beopjeongdong-codes dataset. 293 active codes.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 293,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "eupmyeondong",
+      "label": "Eupmyeondong",
+      "type": "string"
+    },
+    {
+      "key": "ri",
+      "label": "Ri",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "number"
+    },
+    {
+      "key": "created_at",
+      "label": "Created At",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "code": "2800000000",
+      "name": "인천광역시",
+      "sido": "인천광역시",
+      "sigungu": "",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 1,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2811500000",
+      "name": "인천광역시 중구영종출장",
+      "sido": "인천광역시",
+      "sigungu": "중구영종출장",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2811600000",
+      "name": "인천광역시 중구용유출장",
+      "sido": "인천광역시",
+      "sigungu": "중구용유출장",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2812500000",
+      "name": "인천광역시 제물포구",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510100",
+      "name": "인천광역시 제물포구 만석동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "만석동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510200",
+      "name": "인천광역시 제물포구 화수동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "화수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510300",
+      "name": "인천광역시 제물포구 송현동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510400",
+      "name": "인천광역시 제물포구 화평동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "화평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510500",
+      "name": "인천광역시 제물포구 창영동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "창영동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510600",
+      "name": "인천광역시 제물포구 금곡동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "금곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510700",
+      "name": "인천광역시 제물포구 송림동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송림동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510800",
+      "name": "인천광역시 제물포구 중앙동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "중앙동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812510900",
+      "name": "인천광역시 제물포구 중앙동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "중앙동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511000",
+      "name": "인천광역시 제물포구 중앙동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "중앙동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511100",
+      "name": "인천광역시 제물포구 중앙동4가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "중앙동4가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511200",
+      "name": "인천광역시 제물포구 해안동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "해안동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511300",
+      "name": "인천광역시 제물포구 해안동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "해안동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511400",
+      "name": "인천광역시 제물포구 해안동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "해안동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511500",
+      "name": "인천광역시 제물포구 해안동4가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "해안동4가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511600",
+      "name": "인천광역시 제물포구 관동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "관동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511700",
+      "name": "인천광역시 제물포구 관동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "관동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511800",
+      "name": "인천광역시 제물포구 관동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "관동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812511900",
+      "name": "인천광역시 제물포구 항동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512000",
+      "name": "인천광역시 제물포구 항동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512100",
+      "name": "인천광역시 제물포구 항동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512200",
+      "name": "인천광역시 제물포구 항동4가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동4가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512300",
+      "name": "인천광역시 제물포구 항동5가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동5가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512400",
+      "name": "인천광역시 제물포구 항동6가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동6가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512500",
+      "name": "인천광역시 제물포구 항동7가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "항동7가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512600",
+      "name": "인천광역시 제물포구 송학동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송학동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512700",
+      "name": "인천광역시 제물포구 송학동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송학동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512800",
+      "name": "인천광역시 제물포구 송학동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송학동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812512900",
+      "name": "인천광역시 제물포구 사동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513000",
+      "name": "인천광역시 제물포구 신생동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "신생동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513100",
+      "name": "인천광역시 제물포구 신포동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "신포동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513200",
+      "name": "인천광역시 제물포구 답동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "답동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513300",
+      "name": "인천광역시 제물포구 신흥동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "신흥동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513400",
+      "name": "인천광역시 제물포구 신흥동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "신흥동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513500",
+      "name": "인천광역시 제물포구 신흥동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "신흥동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513600",
+      "name": "인천광역시 제물포구 선화동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "선화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513700",
+      "name": "인천광역시 제물포구 유동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "유동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513800",
+      "name": "인천광역시 제물포구 율목동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "율목동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812513900",
+      "name": "인천광역시 제물포구 도원동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "도원동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514000",
+      "name": "인천광역시 제물포구 내동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "내동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514100",
+      "name": "인천광역시 제물포구 경동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "경동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514200",
+      "name": "인천광역시 제물포구 용동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "용동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514300",
+      "name": "인천광역시 제물포구 인현동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "인현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514400",
+      "name": "인천광역시 제물포구 전동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "전동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514500",
+      "name": "인천광역시 제물포구 북성동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "북성동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514600",
+      "name": "인천광역시 제물포구 북성동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "북성동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514700",
+      "name": "인천광역시 제물포구 북성동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "북성동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514800",
+      "name": "인천광역시 제물포구 선린동",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "선린동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812514900",
+      "name": "인천광역시 제물포구 송월동1가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송월동1가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812515000",
+      "name": "인천광역시 제물포구 송월동2가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송월동2가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2812515100",
+      "name": "인천광역시 제물포구 송월동3가",
+      "sido": "인천광역시",
+      "sigungu": "제물포구",
+      "eupmyeondong": "송월동3가",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815500000",
+      "name": "인천광역시 영종구",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510100",
+      "name": "인천광역시 영종구 중산동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "중산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510200",
+      "name": "인천광역시 영종구 운남동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "운남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510300",
+      "name": "인천광역시 영종구 운서동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "운서동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510400",
+      "name": "인천광역시 영종구 운북동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "운북동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510500",
+      "name": "인천광역시 영종구 을왕동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "을왕동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510600",
+      "name": "인천광역시 영종구 남북동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "남북동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510700",
+      "name": "인천광역시 영종구 덕교동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "덕교동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2815510800",
+      "name": "인천광역시 영종구 무의동",
+      "sido": "인천광역시",
+      "sigungu": "영종구",
+      "eupmyeondong": "무의동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2817700000",
+      "name": "인천광역시 미추홀구",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710100",
+      "name": "인천광역시 미추홀구 숭의동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "숭의동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710200",
+      "name": "인천광역시 미추홀구 용현동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "용현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710300",
+      "name": "인천광역시 미추홀구 학익동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "학익동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710400",
+      "name": "인천광역시 미추홀구 도화동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "도화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710500",
+      "name": "인천광역시 미추홀구 주안동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "주안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710600",
+      "name": "인천광역시 미추홀구 관교동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "관교동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2817710700",
+      "name": "인천광역시 미추홀구 문학동",
+      "sido": "인천광역시",
+      "sigungu": "미추홀구",
+      "eupmyeondong": "문학동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-07-01"
+    },
+    {
+      "code": "2818500000",
+      "name": "인천광역시 연수구",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2818510100",
+      "name": "인천광역시 연수구 옥련동",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "옥련동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2818510200",
+      "name": "인천광역시 연수구 선학동",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "선학동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2818510300",
+      "name": "인천광역시 연수구 연수동",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "연수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2818510400",
+      "name": "인천광역시 연수구 청학동",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "청학동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2818510500",
+      "name": "인천광역시 연수구 동춘동",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "동춘동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2818510600",
+      "name": "인천광역시 연수구 송도동",
+      "sido": "인천광역시",
+      "sigungu": "연수구",
+      "eupmyeondong": "송도동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2006-03-06"
+    },
+    {
+      "code": "2820000000",
+      "name": "인천광역시 남동구",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2820010100",
+      "name": "인천광역시 남동구 구월동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "구월동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2820010200",
+      "name": "인천광역시 남동구 간석동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "간석동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2820010300",
+      "name": "인천광역시 남동구 만수동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "만수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2820010400",
+      "name": "인천광역시 남동구 장수동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "장수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820010500",
+      "name": "인천광역시 남동구 서창동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "서창동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820010600",
+      "name": "인천광역시 남동구 운연동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "운연동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820010700",
+      "name": "인천광역시 남동구 남촌동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "남촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820010800",
+      "name": "인천광역시 남동구 수산동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "수산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820010900",
+      "name": "인천광역시 남동구 도림동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "도림동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820011000",
+      "name": "인천광역시 남동구 논현동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "논현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2820011100",
+      "name": "인천광역시 남동구 고잔동",
+      "sido": "인천광역시",
+      "sigungu": "남동구",
+      "eupmyeondong": "고잔동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2823700000",
+      "name": "인천광역시 부평구",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710100",
+      "name": "인천광역시 부평구 부평동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "부평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710200",
+      "name": "인천광역시 부평구 십정동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "십정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710300",
+      "name": "인천광역시 부평구 산곡동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "산곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710400",
+      "name": "인천광역시 부평구 청천동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "청천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710500",
+      "name": "인천광역시 부평구 삼산동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "삼산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710600",
+      "name": "인천광역시 부평구 갈산동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "갈산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710700",
+      "name": "인천광역시 부평구 부개동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "부개동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710800",
+      "name": "인천광역시 부평구 일신동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "일신동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2823710900",
+      "name": "인천광역시 부평구 구산동",
+      "sido": "인천광역시",
+      "sigungu": "부평구",
+      "eupmyeondong": "구산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824500000",
+      "name": "인천광역시 계양구",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824510100",
+      "name": "인천광역시 계양구 효성동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "효성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824510200",
+      "name": "인천광역시 계양구 계산동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "계산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824510300",
+      "name": "인천광역시 계양구 작전동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "작전동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2824510400",
+      "name": "인천광역시 계양구 서운동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "서운동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-01"
+    },
+    {
+      "code": "2824510500",
+      "name": "인천광역시 계양구 임학동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "임학동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824510600",
+      "name": "인천광역시 계양구 용종동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "용종동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-07"
+    },
+    {
+      "code": "2824510700",
+      "name": "인천광역시 계양구 병방동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "병방동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824510800",
+      "name": "인천광역시 계양구 방축동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "방축동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824510900",
+      "name": "인천광역시 계양구 박촌동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "박촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511000",
+      "name": "인천광역시 계양구 동양동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "동양동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511100",
+      "name": "인천광역시 계양구 귤현동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "귤현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511200",
+      "name": "인천광역시 계양구 상야동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "상야동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511300",
+      "name": "인천광역시 계양구 하야동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "하야동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511400",
+      "name": "인천광역시 계양구 평동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511500",
+      "name": "인천광역시 계양구 노오지동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "노오지동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511600",
+      "name": "인천광역시 계양구 선주지동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "선주지동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511700",
+      "name": "인천광역시 계양구 이화동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "이화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511800",
+      "name": "인천광역시 계양구 오류동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "오류동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824511900",
+      "name": "인천광역시 계양구 갈현동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "갈현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824512000",
+      "name": "인천광역시 계양구 둑실동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "둑실동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824512100",
+      "name": "인천광역시 계양구 목상동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "목상동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824512200",
+      "name": "인천광역시 계양구 다남동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "다남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2824512300",
+      "name": "인천광역시 계양구 장기동",
+      "sido": "인천광역시",
+      "sigungu": "계양구",
+      "eupmyeondong": "장기동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2826500000",
+      "name": "인천광역시 서구검단출장",
+      "sido": "인천광역시",
+      "sigungu": "서구검단출장",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2827500000",
+      "name": "인천광역시 서해구",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510100",
+      "name": "인천광역시 서해구 검암동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "검암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510200",
+      "name": "인천광역시 서해구 경서동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "경서동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510300",
+      "name": "인천광역시 서해구 공촌동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "공촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510400",
+      "name": "인천광역시 서해구 연희동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "연희동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510500",
+      "name": "인천광역시 서해구 심곡동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "심곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510600",
+      "name": "인천광역시 서해구 가정동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "가정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510700",
+      "name": "인천광역시 서해구 신현동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "신현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510800",
+      "name": "인천광역시 서해구 석남동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "석남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827510900",
+      "name": "인천광역시 서해구 원창동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "원창동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827511000",
+      "name": "인천광역시 서해구 가좌동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "가좌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2827511100",
+      "name": "인천광역시 서해구 청라동",
+      "sido": "인천광역시",
+      "sigungu": "서해구",
+      "eupmyeondong": "청라동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829000000",
+      "name": "인천광역시 검단구",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010100",
+      "name": "인천광역시 검단구 백석동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "백석동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010200",
+      "name": "인천광역시 검단구 시천동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "시천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010300",
+      "name": "인천광역시 검단구 마전동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "마전동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010400",
+      "name": "인천광역시 검단구 당하동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "당하동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010500",
+      "name": "인천광역시 검단구 원당동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "원당동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010600",
+      "name": "인천광역시 검단구 대곡동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "대곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010700",
+      "name": "인천광역시 검단구 금곡동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "금곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010800",
+      "name": "인천광역시 검단구 오류동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "오류동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829010900",
+      "name": "인천광역시 검단구 왕길동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "왕길동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2829011000",
+      "name": "인천광역시 검단구 불로동",
+      "sido": "인천광역시",
+      "sigungu": "검단구",
+      "eupmyeondong": "불로동",
+      "ri": "",
+      "level": 3,
+      "created_at": "2026-07-01"
+    },
+    {
+      "code": "2871000000",
+      "name": "인천광역시 강화군",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025000",
+      "name": "인천광역시 강화군 강화읍",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025021",
+      "name": "인천광역시 강화군 강화읍 신문리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "신문리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025022",
+      "name": "인천광역시 강화군 강화읍 관청리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "관청리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025023",
+      "name": "인천광역시 강화군 강화읍 국화리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "국화리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025024",
+      "name": "인천광역시 강화군 강화읍 남산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "남산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025025",
+      "name": "인천광역시 강화군 강화읍 갑곳리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "갑곳리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025026",
+      "name": "인천광역시 강화군 강화읍 용정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "용정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025027",
+      "name": "인천광역시 강화군 강화읍 옥림리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "옥림리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025028",
+      "name": "인천광역시 강화군 강화읍 월곳리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "월곳리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871025029",
+      "name": "인천광역시 강화군 강화읍 대산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "강화읍",
+      "ri": "대산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031000",
+      "name": "인천광역시 강화군 선원면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031021",
+      "name": "인천광역시 강화군 선원면 금월리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "금월리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031022",
+      "name": "인천광역시 강화군 선원면 연리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "연리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031023",
+      "name": "인천광역시 강화군 선원면 지산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "지산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031024",
+      "name": "인천광역시 강화군 선원면 신정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "신정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031025",
+      "name": "인천광역시 강화군 선원면 창리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "창리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031026",
+      "name": "인천광역시 강화군 선원면 선행리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "선행리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871031027",
+      "name": "인천광역시 강화군 선원면 냉정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "선원면",
+      "ri": "냉정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032000",
+      "name": "인천광역시 강화군 불은면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032021",
+      "name": "인천광역시 강화군 불은면 두운리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "두운리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032022",
+      "name": "인천광역시 강화군 불은면 고능리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "고능리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032023",
+      "name": "인천광역시 강화군 불은면 오두리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "오두리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032024",
+      "name": "인천광역시 강화군 불은면 넙성리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "넙성리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032025",
+      "name": "인천광역시 강화군 불은면 신현리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "신현리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032026",
+      "name": "인천광역시 강화군 불은면 삼동암리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "삼동암리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032027",
+      "name": "인천광역시 강화군 불은면 삼성리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "삼성리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871032028",
+      "name": "인천광역시 강화군 불은면 덕성리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "불은면",
+      "ri": "덕성리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033000",
+      "name": "인천광역시 강화군 길상면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033021",
+      "name": "인천광역시 강화군 길상면 온수리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "온수리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033022",
+      "name": "인천광역시 강화군 길상면 선두리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "선두리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033023",
+      "name": "인천광역시 강화군 길상면 동검리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "동검리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033024",
+      "name": "인천광역시 강화군 길상면 초지리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "초지리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033025",
+      "name": "인천광역시 강화군 길상면 장흥리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "장흥리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871033026",
+      "name": "인천광역시 강화군 길상면 길직리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "길상면",
+      "ri": "길직리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034000",
+      "name": "인천광역시 강화군 화도면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034021",
+      "name": "인천광역시 강화군 화도면 내리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "내리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034022",
+      "name": "인천광역시 강화군 화도면 상방리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "상방리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034023",
+      "name": "인천광역시 강화군 화도면 문산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "문산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034024",
+      "name": "인천광역시 강화군 화도면 덕포리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "덕포리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034025",
+      "name": "인천광역시 강화군 화도면 사기리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "사기리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034026",
+      "name": "인천광역시 강화군 화도면 동막리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "동막리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034027",
+      "name": "인천광역시 강화군 화도면 흥왕리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "흥왕리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034028",
+      "name": "인천광역시 강화군 화도면 여차리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "여차리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871034029",
+      "name": "인천광역시 강화군 화도면 장화리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "화도면",
+      "ri": "장화리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035000",
+      "name": "인천광역시 강화군 양도면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035021",
+      "name": "인천광역시 강화군 양도면 하일리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "하일리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035022",
+      "name": "인천광역시 강화군 양도면 능내리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "능내리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035023",
+      "name": "인천광역시 강화군 양도면 건평리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "건평리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035024",
+      "name": "인천광역시 강화군 양도면 인산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "인산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035025",
+      "name": "인천광역시 강화군 양도면 삼흥리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "삼흥리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035026",
+      "name": "인천광역시 강화군 양도면 길정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "길정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035027",
+      "name": "인천광역시 강화군 양도면 도장리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "도장리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871035028",
+      "name": "인천광역시 강화군 양도면 조산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양도면",
+      "ri": "조산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871036000",
+      "name": "인천광역시 강화군 내가면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "내가면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871036021",
+      "name": "인천광역시 강화군 내가면 고천리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "내가면",
+      "ri": "고천리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871036022",
+      "name": "인천광역시 강화군 내가면 오상리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "내가면",
+      "ri": "오상리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871036023",
+      "name": "인천광역시 강화군 내가면 외포리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "내가면",
+      "ri": "외포리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871036024",
+      "name": "인천광역시 강화군 내가면 황청리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "내가면",
+      "ri": "황청리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871036025",
+      "name": "인천광역시 강화군 내가면 구하리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "내가면",
+      "ri": "구하리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037000",
+      "name": "인천광역시 강화군 하점면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037021",
+      "name": "인천광역시 강화군 하점면 신봉리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "신봉리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037022",
+      "name": "인천광역시 강화군 하점면 장정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "장정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037023",
+      "name": "인천광역시 강화군 하점면 부근리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "부근리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037024",
+      "name": "인천광역시 강화군 하점면 삼거리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "삼거리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037025",
+      "name": "인천광역시 강화군 하점면 신삼리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "신삼리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037026",
+      "name": "인천광역시 강화군 하점면 망월리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "망월리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037027",
+      "name": "인천광역시 강화군 하점면 창후리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "창후리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871037028",
+      "name": "인천광역시 강화군 하점면 이강리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "하점면",
+      "ri": "이강리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871038000",
+      "name": "인천광역시 강화군 양사면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양사면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871038021",
+      "name": "인천광역시 강화군 양사면 철산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양사면",
+      "ri": "철산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871038022",
+      "name": "인천광역시 강화군 양사면 덕하리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양사면",
+      "ri": "덕하리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871038023",
+      "name": "인천광역시 강화군 양사면 북성리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양사면",
+      "ri": "북성리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871038024",
+      "name": "인천광역시 강화군 양사면 교산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양사면",
+      "ri": "교산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871038025",
+      "name": "인천광역시 강화군 양사면 인화리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "양사면",
+      "ri": "인화리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039000",
+      "name": "인천광역시 강화군 송해면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039021",
+      "name": "인천광역시 강화군 송해면 솔정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "솔정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039022",
+      "name": "인천광역시 강화군 송해면 신당리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "신당리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039023",
+      "name": "인천광역시 강화군 송해면 숭뢰리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "숭뢰리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039024",
+      "name": "인천광역시 강화군 송해면 당산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "당산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039025",
+      "name": "인천광역시 강화군 송해면 상도리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "상도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039026",
+      "name": "인천광역시 강화군 송해면 하도리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "하도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871039027",
+      "name": "인천광역시 강화군 송해면 양오리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "송해면",
+      "ri": "양오리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040000",
+      "name": "인천광역시 강화군 교동면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040021",
+      "name": "인천광역시 강화군 교동면 대룡리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "대룡리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040022",
+      "name": "인천광역시 강화군 교동면 읍내리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "읍내리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040023",
+      "name": "인천광역시 강화군 교동면 상용리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "상용리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040024",
+      "name": "인천광역시 강화군 교동면 봉소리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "봉소리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040025",
+      "name": "인천광역시 강화군 교동면 고구리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "고구리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040026",
+      "name": "인천광역시 강화군 교동면 삼선리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "삼선리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040027",
+      "name": "인천광역시 강화군 교동면 인사리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "인사리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040028",
+      "name": "인천광역시 강화군 교동면 난정리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "난정리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040029",
+      "name": "인천광역시 강화군 교동면 양갑리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "양갑리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040030",
+      "name": "인천광역시 강화군 교동면 동산리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "동산리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040031",
+      "name": "인천광역시 강화군 교동면 서한리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "서한리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040032",
+      "name": "인천광역시 강화군 교동면 무학리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "무학리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871040033",
+      "name": "인천광역시 강화군 교동면 지석리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "교동면",
+      "ri": "지석리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041000",
+      "name": "인천광역시 강화군 삼산면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041021",
+      "name": "인천광역시 강화군 삼산면 석모리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "석모리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041022",
+      "name": "인천광역시 강화군 삼산면 상리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "상리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041023",
+      "name": "인천광역시 강화군 삼산면 하리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "하리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041024",
+      "name": "인천광역시 강화군 삼산면 석포리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "석포리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041025",
+      "name": "인천광역시 강화군 삼산면 매음리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "매음리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041026",
+      "name": "인천광역시 강화군 삼산면 서검리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "서검리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871041027",
+      "name": "인천광역시 강화군 삼산면 미법리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "삼산면",
+      "ri": "미법리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871042000",
+      "name": "인천광역시 강화군 서도면",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "서도면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871042021",
+      "name": "인천광역시 강화군 서도면 주문도리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "서도면",
+      "ri": "주문도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871042022",
+      "name": "인천광역시 강화군 서도면 아차도리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "서도면",
+      "ri": "아차도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871042023",
+      "name": "인천광역시 강화군 서도면 말도리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "서도면",
+      "ri": "말도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2871042024",
+      "name": "인천광역시 강화군 서도면 볼음도리",
+      "sido": "인천광역시",
+      "sigungu": "강화군",
+      "eupmyeondong": "서도면",
+      "ri": "볼음도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872000000",
+      "name": "인천광역시 옹진군",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872031000",
+      "name": "인천광역시 옹진군 북도면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "북도면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872031021",
+      "name": "인천광역시 옹진군 북도면 시도리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "북도면",
+      "ri": "시도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872031022",
+      "name": "인천광역시 옹진군 북도면 신도리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "북도면",
+      "ri": "신도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872031023",
+      "name": "인천광역시 옹진군 북도면 모도리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "북도면",
+      "ri": "모도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872031024",
+      "name": "인천광역시 옹진군 북도면 장봉리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "북도면",
+      "ri": "장봉리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872033000",
+      "name": "인천광역시 옹진군 백령면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "백령면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872033021",
+      "name": "인천광역시 옹진군 백령면 진촌리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "백령면",
+      "ri": "진촌리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872033022",
+      "name": "인천광역시 옹진군 백령면 북포리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "백령면",
+      "ri": "북포리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872033023",
+      "name": "인천광역시 옹진군 백령면 가을리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "백령면",
+      "ri": "가을리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872033024",
+      "name": "인천광역시 옹진군 백령면 연화리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "백령면",
+      "ri": "연화리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872033025",
+      "name": "인천광역시 옹진군 백령면 남포리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "백령면",
+      "ri": "남포리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872034000",
+      "name": "인천광역시 옹진군 대청면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "대청면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872034021",
+      "name": "인천광역시 옹진군 대청면 대청리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "대청면",
+      "ri": "대청리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872034022",
+      "name": "인천광역시 옹진군 대청면 소청리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "대청면",
+      "ri": "소청리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035000",
+      "name": "인천광역시 옹진군 덕적면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035021",
+      "name": "인천광역시 옹진군 덕적면 북리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "북리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035022",
+      "name": "인천광역시 옹진군 덕적면 진리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "진리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035023",
+      "name": "인천광역시 옹진군 덕적면 서포리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "서포리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035024",
+      "name": "인천광역시 옹진군 덕적면 소야리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "소야리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035025",
+      "name": "인천광역시 옹진군 덕적면 울도리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "울도리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035026",
+      "name": "인천광역시 옹진군 덕적면 백아리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "백아리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035027",
+      "name": "인천광역시 옹진군 덕적면 문갑리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "문갑리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872035028",
+      "name": "인천광역시 옹진군 덕적면 굴업리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "덕적면",
+      "ri": "굴업리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872036000",
+      "name": "인천광역시 옹진군 영흥면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "영흥면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872036021",
+      "name": "인천광역시 옹진군 영흥면 외리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "영흥면",
+      "ri": "외리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872036022",
+      "name": "인천광역시 옹진군 영흥면 내리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "영흥면",
+      "ri": "내리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872036023",
+      "name": "인천광역시 옹진군 영흥면 선재리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "영흥면",
+      "ri": "선재리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872037000",
+      "name": "인천광역시 옹진군 자월면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "자월면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872037021",
+      "name": "인천광역시 옹진군 자월면 자월리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "자월면",
+      "ri": "자월리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872037022",
+      "name": "인천광역시 옹진군 자월면 이작리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "자월면",
+      "ri": "이작리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872037023",
+      "name": "인천광역시 옹진군 자월면 승봉리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "자월면",
+      "ri": "승봉리",
+      "level": 4,
+      "created_at": "1995-03-01"
+    },
+    {
+      "code": "2872038000",
+      "name": "인천광역시 옹진군 연평면",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "연평면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1999-07-20"
+    },
+    {
+      "code": "2872038021",
+      "name": "인천광역시 옹진군 연평면 연평리",
+      "sido": "인천광역시",
+      "sigungu": "옹진군",
+      "eupmyeondong": "연평면",
+      "ri": "연평리",
+      "level": 4,
+      "created_at": "1999-07-20"
+    }
+  ],
+  "meta": {
+    "title": "인천광역시 법정동코드 (Incheon Metropolitan City legal-dong codes) - 무료 다운로드",
+    "description": "인천광역시의 법정동코드 — 시·군·구, 읍·면·동, 리 포함. 현행 코드 293건. 전국 법정동코드 데이터셋(ko-beopjeongdong-codes)의 시·도별 분할본. Legal-dong administrative codes for Incheon Metropolitan City (인천광역시), split from the national ko-beopjeongdong-codes dataset. 293 active codes. 포함 293 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "인천광역시 법정동코드 (Incheon Metropolitan City legal-dong codes) | ListBase",
+    "seo_description": "다운로드 인천광역시 법정동코드 (Incheon Metropolitan City legal-dong codes) — 293 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 293 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

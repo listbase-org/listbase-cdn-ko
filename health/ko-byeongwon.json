@@ -1,0 +1,1576 @@
+{
+  "id": "ko-byeongwon",
+  "name": "대한민국의 병원 (Hospitals of South Korea)",
+  "title": "대한민국의 병원 (Hospitals of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 병원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "강동경희대학교병원",
+      "name_en": "Kyung Hee University Hospital at Gangdong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.55459,
+      "longitude": 127.157561,
+      "wikidata_id": "Q52857511",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52857511"
+    },
+    {
+      "name_ko": "계명대학교 대구동산병원",
+      "name_en": "Keimyung University Daegu Dongsan Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.868616,
+      "longitude": 128.582921,
+      "wikidata_id": "Q98099530",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98099530"
+    },
+    {
+      "name_ko": "국립소록도병원",
+      "name_en": "Sorokdo National Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.520969,
+      "longitude": 127.132888,
+      "wikidata_id": "Q16094647",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094647"
+    },
+    {
+      "name_ko": "국립재활원",
+      "name_en": "National Rehabilitation Center",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.638831,
+      "longitude": 127.010548,
+      "wikidata_id": "Q12585755",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585755"
+    },
+    {
+      "name_ko": "국립정신건강센터",
+      "name_en": "National Center for Mental Health",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.565073,
+      "longitude": 127.086222,
+      "wikidata_id": "Q16094643",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094643"
+    },
+    {
+      "name_ko": "근로복지공단 대구병원",
+      "name_en": "COMWEL Daegu Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.950806,
+      "longitude": 128.564694,
+      "wikidata_id": "Q22973017",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22973017"
+    },
+    {
+      "name_ko": "근로복지공단 창원병원",
+      "name_en": "COMWEL Changwon Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.218472,
+      "longitude": 128.671083,
+      "wikidata_id": "Q16167309",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16167309"
+    },
+    {
+      "name_ko": "나은 병원",
+      "name_en": "Na Eun Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.489096,
+      "longitude": 126.679736,
+      "wikidata_id": "Q56583147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56583147"
+    },
+    {
+      "name_ko": "대전산재병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.368417,
+      "longitude": 127.428778,
+      "wikidata_id": "Q16095533",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095533"
+    },
+    {
+      "name_ko": "동해산재병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.532278,
+      "longitude": 129.105917,
+      "wikidata_id": "Q16183877",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16183877"
+    },
+    {
+      "name_ko": "명지성모병원",
+      "name_en": "Myeongji St. Mary’s Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.493889,
+      "longitude": 126.899167,
+      "wikidata_id": "Q55729673",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729673"
+    },
+    {
+      "name_ko": "명지춘혜병원",
+      "name_en": "Myeongji Chunhye Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.500733,
+      "longitude": 126.89708,
+      "wikidata_id": "Q56583127",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56583127"
+    },
+    {
+      "name_ko": "목포한국병원",
+      "name_en": "Mokpo Hankook Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.809414,
+      "longitude": 126.415853,
+      "wikidata_id": "Q18648205",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648205"
+    },
+    {
+      "name_ko": "서울송도병원",
+      "name_en": "Songdo Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.551256,
+      "longitude": 127.008171,
+      "wikidata_id": "Q56583272",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56583272"
+    },
+    {
+      "name_ko": "성가롤로병원",
+      "name_en": "Saint Carollo Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.964637,
+      "longitude": 127.543187,
+      "wikidata_id": "Q22974256",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974256"
+    },
+    {
+      "name_ko": "순천산재병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.961139,
+      "longitude": 127.525167,
+      "wikidata_id": "Q16182496",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16182496"
+    },
+    {
+      "name_ko": "안동병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.546746,
+      "longitude": 128.700509,
+      "wikidata_id": "Q18648346",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648346"
+    },
+    {
+      "name_ko": "안산산재병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.31675,
+      "longitude": 126.874,
+      "wikidata_id": "Q12605679",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12605679"
+    },
+    {
+      "name_ko": "양병원",
+      "name_en": "Yang Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.633313,
+      "longitude": 127.20557,
+      "wikidata_id": "Q56583385",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56583385"
+    },
+    {
+      "name_ko": "용인도정신병원",
+      "name_en": "Yongin Mental Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.257077,
+      "longitude": 127.155938,
+      "wikidata_id": "Q56583078",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56583078"
+    },
+    {
+      "name_ko": "이대목동병원",
+      "name_en": "Ewha Womans University Mokdong Hospital",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.536686,
+      "longitude": 126.886207,
+      "wikidata_id": "Q12613238",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12613238"
+    },
+    {
+      "name_ko": "정선산재병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.383028,
+      "longitude": 128.65875,
+      "wikidata_id": "Q16176143",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16176143"
+    },
+    {
+      "name_ko": "태백산재병원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.104083,
+      "longitude": 129.00425,
+      "wikidata_id": "Q16262409",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16262409"
+    },
+    {
+      "name_ko": "혜민서",
+      "name_en": "Hyeminseo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.56623,
+      "longitude": 126.98827,
+      "wikidata_id": "Q3391229",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3391229"
+    },
+    {
+      "name_ko": "서울특별시 서울의료원",
+      "name_en": "Seoul Medical Center",
+      "admin_area_ko": "강남구",
+      "admin_area_en": "Gangnam District",
+      "latitude": 37.612782,
+      "longitude": 127.09763,
+      "wikidata_id": "Q12601359",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601359"
+    },
+    {
+      "name_ko": "강릉아산병원",
+      "name_en": "Gangneung Asan Hospital",
+      "admin_area_ko": "강릉시",
+      "admin_area_en": "Gangneung",
+      "latitude": 37.818429,
+      "longitude": 128.857705,
+      "wikidata_id": "Q16092551",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092551"
+    },
+    {
+      "name_ko": "강원도강릉의료원",
+      "name_en": "Gangwon State Gangneung Medical Center",
+      "admin_area_ko": "강릉시",
+      "admin_area_en": "Gangneung",
+      "latitude": 37.749271,
+      "longitude": 128.888176,
+      "wikidata_id": "Q16093221",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093221"
+    },
+    {
+      "name_ko": "전라남도강진의료원",
+      "name_en": "Jeollanam-do Gangjin Medical Center",
+      "admin_area_ko": "강진군",
+      "admin_area_en": "Gangjin County",
+      "latitude": 34.636661,
+      "longitude": 126.755821,
+      "wikidata_id": "Q16093301",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093301"
+    },
+    {
+      "name_ko": "거창적십자병원",
+      "name_en": "Geochang Red Cross Hospital",
+      "admin_area_ko": "거창군",
+      "admin_area_en": "Geochang County",
+      "latitude": 35.686507,
+      "longitude": 127.909122,
+      "wikidata_id": "Q16093544",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093544"
+    },
+    {
+      "name_ko": "국립암센터",
+      "name_en": "National Cancer Center",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.663167,
+      "longitude": 126.783361,
+      "wikidata_id": "Q12585740",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585740"
+    },
+    {
+      "name_ko": "국민건강보험 일산병원",
+      "name_en": "National Health Insurance Service Ilsan Hospital",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.645443,
+      "longitude": 126.793013,
+      "wikidata_id": "Q19794560",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794560"
+    },
+    {
+      "name_ko": "서울특별시 축령정신병원",
+      "name_en": "Seoul Municipal Chukryeong Mental Hospital",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.739826,
+      "longitude": 127.310708,
+      "wikidata_id": "Q49890086",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49890086"
+    },
+    {
+      "name_ko": "부산대학교치과병원",
+      "name_en": "Pusan National University Dental Hospital",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.401204,
+      "longitude": 129.039822,
+      "wikidata_id": "Q16184585",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16184585"
+    },
+    {
+      "name_ko": "계명대학교 경주동산병원",
+      "name_en": "Keimyung University Kyungju Dongsan Hospital",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.84561,
+      "longitude": 129.209453,
+      "wikidata_id": "Q110724070",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110724070"
+    },
+    {
+      "name_ko": "동국대학교일산병원",
+      "name_en": "Dongguk University Ilsan Hospital",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.55754,
+      "longitude": 127.000778,
+      "wikidata_id": "Q30265202",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30265202"
+    },
+    {
+      "name_ko": "명지병원",
+      "name_en": "Myongji Hospital",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.642134,
+      "longitude": 126.831233,
+      "wikidata_id": "Q18648199",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648199"
+    },
+    {
+      "name_ko": "국립공주병원",
+      "name_en": "Gongju National Hospital",
+      "admin_area_ko": "공주시",
+      "admin_area_en": "Gongju",
+      "latitude": 36.401783,
+      "longitude": 127.110608,
+      "wikidata_id": "Q12585690",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585690"
+    },
+    {
+      "name_ko": "충청남도 공주의료원",
+      "name_en": "Chungcheongnam-do Gongju Medical Center",
+      "admin_area_ko": "공주시",
+      "admin_area_en": "Gongju",
+      "latitude": 36.459054,
+      "longitude": 127.109454,
+      "wikidata_id": "Q16094165",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094165"
+    },
+    {
+      "name_ko": "광주보훈병원",
+      "name_en": "Gwangju Veterans Hospital",
+      "admin_area_ko": "광산구",
+      "admin_area_en": "Gwangsan District",
+      "latitude": 35.207957,
+      "longitude": 126.849712,
+      "wikidata_id": "Q12585135",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585135"
+    },
+    {
+      "name_ko": "조선대학교치과병원",
+      "name_en": "Chosun University Dental Hospital",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.144186,
+      "longitude": 126.927176,
+      "wikidata_id": "Q30264037",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30264037"
+    },
+    {
+      "name_ko": "광주기독병원",
+      "name_en": "Kwangju Christian Hospital",
+      "admin_area_ko": "광주시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.136745,
+      "longitude": 126.912047,
+      "wikidata_id": "Q12585116",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585116"
+    },
+    {
+      "name_ko": "한양대학교구리병원",
+      "name_en": "Hanyang University Guri Hospital",
+      "admin_area_ko": "구리시",
+      "admin_area_en": "Guri",
+      "latitude": 37.601285,
+      "longitude": 127.13237,
+      "wikidata_id": "Q30254020",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30254020"
+    },
+    {
+      "name_ko": "전라북도 군산의료원",
+      "name_en": "Jeollabuk-do Gunsan Medical Center",
+      "admin_area_ko": "군산시",
+      "admin_area_en": "Gunsan",
+      "latitude": 35.954948,
+      "longitude": 126.711438,
+      "wikidata_id": "Q16094889",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094889"
+    },
+    {
+      "name_ko": "서울특별시 용인정신병원",
+      "name_en": "Seoul Municipal Yongin Mental Hospital",
+      "admin_area_ko": "기흥구",
+      "admin_area_en": "Giheung-gu",
+      "latitude": 37.250412,
+      "longitude": 127.155601,
+      "wikidata_id": "Q49887706",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49887706"
+    },
+    {
+      "name_ko": "경상북도김천의료원",
+      "name_en": "Gyeongsangbuk-do Gimcheon Medical Center",
+      "admin_area_ko": "김천시",
+      "admin_area_en": "Gimcheon",
+      "latitude": 36.122676,
+      "longitude": 128.125963,
+      "wikidata_id": "Q16095037",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095037"
+    },
+    {
+      "name_ko": "국립나주병원",
+      "name_en": "Naju National Hospital",
+      "admin_area_ko": "나주시",
+      "admin_area_en": "Naju",
+      "latitude": 35.009169,
+      "longitude": 126.82562,
+      "wikidata_id": "Q12585703",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585703"
+    },
+    {
+      "name_ko": "포항성모병원",
+      "name_en": "Pohang Saint Mary's Hospital",
+      "admin_area_ko": "남구",
+      "admin_area_en": "Nam-gu",
+      "latitude": 36.015877,
+      "longitude": 129.339325,
+      "wikidata_id": "Q22975227",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22975227"
+    },
+    {
+      "name_ko": "전라북도 남원의료원",
+      "name_en": "Jeollabuk-do Namwon Medical Center",
+      "admin_area_ko": "남원시",
+      "admin_area_en": "Namwon",
+      "latitude": 35.431911,
+      "longitude": 127.406661,
+      "wikidata_id": "Q16095148",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095148"
+    },
+    {
+      "name_ko": "원자력병원",
+      "name_en": "Korea Cancer Center Hospital",
+      "admin_area_ko": "노원구",
+      "admin_area_en": "Nowon District",
+      "latitude": 37.629433,
+      "longitude": 127.082647,
+      "wikidata_id": "Q12609341",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609341"
+    },
+    {
+      "name_ko": "계명대학교 동산병원",
+      "name_en": "Keimyung University Dongsan Hospital",
+      "admin_area_ko": "달서구",
+      "admin_area_en": "Dalseo District",
+      "latitude": 35.853484,
+      "longitude": 128.479949,
+      "wikidata_id": "Q110724047",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110724047"
+    },
+    {
+      "name_ko": "대구보훈병원",
+      "name_en": "Daegu Veterans Hospital",
+      "admin_area_ko": "달서구",
+      "admin_area_en": "Dalseo District",
+      "latitude": 35.802887,
+      "longitude": 128.551811,
+      "wikidata_id": "Q12591302",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12591302"
+    },
+    {
+      "name_ko": "경북대학교병원",
+      "name_en": "Kyungpook National University Hospital",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.866381,
+      "longitude": 128.604259,
+      "wikidata_id": "Q10855215",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10855215"
+    },
+    {
+      "name_ko": "대구의료원",
+      "name_en": "Daegu Medical Center",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.859603,
+      "longitude": 128.54007,
+      "wikidata_id": "Q16096150",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096150"
+    },
+    {
+      "name_ko": "대구파티마병원",
+      "name_en": "Daegu Fatima Hospital",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.884238,
+      "longitude": 128.624415,
+      "wikidata_id": "Q16095440",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095440"
+    },
+    {
+      "name_ko": "대전보훈병원",
+      "name_en": "Daejeon Veterans Hospital",
+      "admin_area_ko": "대덕구",
+      "admin_area_en": "Daedeok District",
+      "latitude": 36.447124,
+      "longitude": 127.439706,
+      "wikidata_id": "Q16095525",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095525"
+    },
+    {
+      "name_ko": "박금자산부인과의원",
+      "name_en": "Park Keum-Ja Obstetrics & Gynecology Clinic",
+      "admin_area_ko": "대림동",
+      "admin_area_en": "Daerim-dong",
+      "latitude": 37.487705,
+      "longitude": 126.904517,
+      "wikidata_id": "Q137321603",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137321603"
+    },
+    {
+      "name_ko": "단산 한의원 병원",
+      "name_en": "Dunsan Korean Medicine Hospital",
+      "admin_area_ko": "대전",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.346163,
+      "longitude": 127.379673,
+      "wikidata_id": "Q43896395",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43896395"
+    },
+    {
+      "name_ko": "대전선병원",
+      "name_en": "Daejeon Sun Hospital",
+      "admin_area_ko": "대전",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.335916,
+      "longitude": 127.410433,
+      "wikidata_id": "Q30280977",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280977"
+    },
+    {
+      "name_ko": "서울특별시 고양정신병원",
+      "name_en": "Seoul Municipal Goyang Mental Hospital",
+      "admin_area_ko": "덕양구",
+      "admin_area_en": "Deogyang-gu",
+      "latitude": 37.711442,
+      "longitude": 126.854567,
+      "wikidata_id": "Q49892006",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49892006"
+    },
+    {
+      "name_ko": "인천광역시의료원",
+      "name_en": "Incheon Metropolitan Medical Center",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Dong District",
+      "latitude": 37.478791,
+      "longitude": 126.668094,
+      "wikidata_id": "Q16099444",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099444"
+    },
+    {
+      "name_ko": "충청남도 천안의료원",
+      "name_en": "Chungcheongnam-do Cheonan Medical Center",
+      "admin_area_ko": "동남구",
+      "admin_area_en": "Dongnam District",
+      "latitude": 36.775441,
+      "longitude": 127.178619,
+      "wikidata_id": "Q16100068",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100068"
+    },
+    {
+      "name_ko": "서울특별시 동부병원",
+      "name_en": "Seoul Metropolitan Dongbu Hospital",
+      "admin_area_ko": "동대문구",
+      "admin_area_en": "Dongdaemun District",
+      "latitude": 37.575342,
+      "longitude": 127.030973,
+      "wikidata_id": "Q22974115",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974115"
+    },
+    {
+      "name_ko": "경상남도마산의료원",
+      "name_en": "Gyeongsangnam-do Masan Medical Center",
+      "admin_area_ko": "마산합포구",
+      "admin_area_en": "Masanhappo District",
+      "latitude": 35.19882,
+      "longitude": 128.565948,
+      "wikidata_id": "Q16093727",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093727"
+    },
+    {
+      "name_ko": "국립마산병원",
+      "name_en": "Masan National Tuberculosis Hospital",
+      "admin_area_ko": "마산합포구",
+      "admin_area_en": "Masanhappo District",
+      "latitude": 35.168428,
+      "longitude": 128.564184,
+      "wikidata_id": "Q12585715",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585715"
+    },
+    {
+      "name_ko": "국립목포병원",
+      "name_en": "Mokpo National Tuberculosis Hospital",
+      "admin_area_ko": "목포시",
+      "admin_area_en": "Mokpo",
+      "latitude": 34.827073,
+      "longitude": 126.437247,
+      "wikidata_id": "Q12585718",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585718"
+    },
+    {
+      "name_ko": "목포시의료원",
+      "name_en": "Mokpo-si Medical Center",
+      "admin_area_ko": "목포시",
+      "admin_area_en": "Mokpo",
+      "latitude": 34.803913,
+      "longitude": 126.404882,
+      "wikidata_id": "Q16096481",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096481"
+    },
+    {
+      "name_ko": "서울특별시 백암정신병원",
+      "name_en": "Seoul Municipal Baekam Mental Hospital",
+      "admin_area_ko": "백암면",
+      "admin_area_en": "Baegam-myeon",
+      "latitude": 37.121986,
+      "longitude": 127.364861,
+      "wikidata_id": "Q49888124",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49888124"
+    },
+    {
+      "name_ko": "고신대학교복음병원",
+      "name_en": "Gospel Hospital",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.080592,
+      "longitude": 129.015898,
+      "wikidata_id": "Q5587391",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5587391"
+    },
+    {
+      "name_ko": "봉생기념병원",
+      "name_en": "BongSeng Memorial Hospital",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.131029,
+      "longitude": 129.050044,
+      "wikidata_id": "Q30280087",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280087"
+    },
+    {
+      "name_ko": "부산광역시의료원",
+      "name_en": "Busan Medical Center",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.187248,
+      "longitude": 129.059031,
+      "wikidata_id": "Q15108512",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15108512"
+    },
+    {
+      "name_ko": "인제대학교 해운대백병원",
+      "name_en": "Inje University Haeundae Paik Hospital",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.171386,
+      "longitude": 129.058058,
+      "wikidata_id": "Q30253968",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30253968"
+    },
+    {
+      "name_ko": "좋은문화병원",
+      "name_en": "Good Moonhwa Hospital",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.140933,
+      "longitude": 129.058942,
+      "wikidata_id": "Q30254183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30254183"
+    },
+    {
+      "name_ko": "침례병원",
+      "name_en": "Baptist Hospital",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.267941,
+      "longitude": 129.094307,
+      "wikidata_id": "Q30281074",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30281074"
+    },
+    {
+      "name_ko": "순천향대학교부천병원",
+      "name_en": "Soonchunhyang University Bucheon Hospital",
+      "admin_area_ko": "부천시",
+      "admin_area_en": "Bucheon",
+      "latitude": 37.498059,
+      "longitude": 126.762675,
+      "wikidata_id": "Q16096190",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096190"
+    },
+    {
+      "name_ko": "경상북도포항의료원",
+      "name_en": "Gyeongsangbuk-do Pohang Medical Center",
+      "admin_area_ko": "북구",
+      "admin_area_en": "Buk-gu",
+      "latitude": 36.034903,
+      "longitude": 129.354376,
+      "wikidata_id": "Q16100424",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100424"
+    },
+    {
+      "name_ko": "부산보훈병원",
+      "name_en": "Busan Veterans Hospital",
+      "admin_area_ko": "사상구",
+      "admin_area_en": "Sasang District",
+      "latitude": 35.15328,
+      "longitude": 129.00651,
+      "wikidata_id": "Q31180605",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31180605"
+    },
+    {
+      "name_ko": "강원도삼척의료원",
+      "name_en": "Gangwon-do Samcheok Medical Center",
+      "admin_area_ko": "삼척시",
+      "admin_area_en": "Samcheok",
+      "latitude": 37.440285,
+      "longitude": 129.163106,
+      "wikidata_id": "Q16093234",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093234"
+    },
+    {
+      "name_ko": "상주적십자병원",
+      "name_en": "Sangju Red Cross Hospital",
+      "admin_area_ko": "상주시",
+      "admin_area_en": "Sangju",
+      "latitude": 36.414584,
+      "longitude": 128.155526,
+      "wikidata_id": "Q12600542",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12600542"
+    },
+    {
+      "name_ko": "제주특별자치도서귀포의료원",
+      "name_en": "Jeju Special Self-governing Seogwipo Medical Center",
+      "admin_area_ko": "서귀포시",
+      "admin_area_en": "Seogwipo",
+      "latitude": 33.255272,
+      "longitude": 126.563726,
+      "wikidata_id": "Q16097120",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097120"
+    },
+    {
+      "name_ko": "충청남도 서산의료원",
+      "name_en": "Chungcheongnam-do Seosan Medical Center",
+      "admin_area_ko": "서산시",
+      "admin_area_en": "Seosan",
+      "latitude": 36.775555,
+      "longitude": 126.465185,
+      "wikidata_id": "Q16097167",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097167"
+    },
+    {
+      "name_ko": "강남세브란스병원",
+      "name_en": "Gangnam Severance Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.492801,
+      "longitude": 127.046294,
+      "wikidata_id": "Q30260428",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30260428"
+    },
+    {
+      "name_ko": "강동성심병원",
+      "name_en": "Kangdong Sacred Heart Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.53617,
+      "longitude": 127.135444,
+      "wikidata_id": "Q43896415",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43896415"
+    },
+    {
+      "name_ko": "강북삼성병원",
+      "name_en": "Kangbuk Samsung Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.568589,
+      "longitude": 126.96786,
+      "wikidata_id": "Q30280617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280617"
+    },
+    {
+      "name_ko": "건국대학교병원",
+      "name_en": "Konkuk University Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.540943,
+      "longitude": 127.072205,
+      "wikidata_id": "Q12583384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583384"
+    },
+    {
+      "name_ko": "경찰병원",
+      "name_en": "National Police Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.496278,
+      "longitude": 127.1235,
+      "wikidata_id": "Q12583911",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583911"
+    },
+    {
+      "name_ko": "경희대학교치과병원",
+      "name_en": "Kyung Hee University Dental Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5962,
+      "longitude": 127.052542,
+      "wikidata_id": "Q30262835",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30262835"
+    },
+    {
+      "name_ko": "국립중앙의료원",
+      "name_en": "National Medical Center",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.567257,
+      "longitude": 127.005661,
+      "wikidata_id": "Q12585766",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585766"
+    },
+    {
+      "name_ko": "김안과병원",
+      "name_en": "Kim's Eye Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.521424,
+      "longitude": 126.902695,
+      "wikidata_id": "Q50036770",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50036770"
+    },
+    {
+      "name_ko": "대림성모병원",
+      "name_en": "Daerim St. Mary's Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.490636,
+      "longitude": 126.907185,
+      "wikidata_id": "Q16095450",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095450"
+    },
+    {
+      "name_ko": "대항병원",
+      "name_en": "Daehang Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.475592,
+      "longitude": 126.987922,
+      "wikidata_id": "Q30254271",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30254271"
+    },
+    {
+      "name_ko": "박사 청소년 클리닉",
+      "name_en": "Dr Youth Clinic",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.55606,
+      "longitude": 126.951063,
+      "wikidata_id": "Q30267032",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30267032"
+    },
+    {
+      "name_ko": "부평 힘찬병원",
+      "name_en": "Himchan Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.506763,
+      "longitude": 127.106566,
+      "wikidata_id": "Q30279884",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30279884"
+    },
+    {
+      "name_ko": "분당서울대학교병원",
+      "name_en": "Seoul National University Bundang Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.352088,
+      "longitude": 127.123335,
+      "wikidata_id": "Q7451677",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7451677"
+    },
+    {
+      "name_ko": "삼성의료원",
+      "name_en": "Samsung Medical Center",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.488167,
+      "longitude": 127.085472,
+      "wikidata_id": "Q624119",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624119"
+    },
+    {
+      "name_ko": "삼육서울병원",
+      "name_en": "Sahmyook Medical Center",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.588056,
+      "longitude": 127.065556,
+      "wikidata_id": "Q2945878",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2945878"
+    },
+    {
+      "name_ko": "서울대학교 어린이병원",
+      "name_en": "Seoul National University Children's Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.579371,
+      "longitude": 127.000933,
+      "wikidata_id": "Q30254058",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30254058"
+    },
+    {
+      "name_ko": "서울대학교병원",
+      "name_en": "Seoul National University Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.579602,
+      "longitude": 126.998998,
+      "wikidata_id": "Q4403855",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4403855"
+    },
+    {
+      "name_ko": "서울대학교치과병원",
+      "name_en": "Seoul National University Dental Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.577991,
+      "longitude": 126.999552,
+      "wikidata_id": "Q12601207",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601207"
+    },
+    {
+      "name_ko": "서울아산병원",
+      "name_en": "Asan Medical Center",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.526503,
+      "longitude": 127.108125,
+      "wikidata_id": "Q4803501",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4803501"
+    },
+    {
+      "name_ko": "서울우리들병원",
+      "name_en": "Gimpo Airport Wooridul Spine Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.561364,
+      "longitude": 126.797567,
+      "wikidata_id": "Q30280540",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280540"
+    },
+    {
+      "name_ko": "서울특별시 보라매병원",
+      "name_en": "Seoul Metropolitan Boramae Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.493428,
+      "longitude": 126.924059,
+      "wikidata_id": "Q16095057",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095057"
+    },
+    {
+      "name_ko": "성애병원",
+      "name_en": "Sungae Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.512144,
+      "longitude": 126.92235,
+      "wikidata_id": "Q12602048",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12602048"
+    },
+    {
+      "name_ko": "실로암안과병원",
+      "name_en": "Siloam Eye Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.559023,
+      "longitude": 126.852683,
+      "wikidata_id": "Q30274483",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30274483"
+    },
+    {
+      "name_ko": "연세대학교 치과대학병원",
+      "name_en": "Yonsei University Dental Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.565801,
+      "longitude": 126.938556,
+      "wikidata_id": "Q30262860",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30262860"
+    },
+    {
+      "name_ko": "우리들 병원",
+      "name_en": "Wooridul Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.518874,
+      "longitude": 127.049628,
+      "wikidata_id": "Q30280530",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280530"
+    },
+    {
+      "name_ko": "제일병원",
+      "name_en": "Cheil General Hospital and Women's Healthcare Center",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.561264,
+      "longitude": 126.999224,
+      "wikidata_id": "Q30279765",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30279765"
+    },
+    {
+      "name_ko": "중앙보훈병원",
+      "name_en": "Central Veterans Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.529303,
+      "longitude": 127.147683,
+      "wikidata_id": "Q16099935",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099935"
+    },
+    {
+      "name_ko": "한전병원",
+      "name_en": "Hanil General Hospital",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.645856,
+      "longitude": 127.028576,
+      "wikidata_id": "Q12624294",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12624294"
+    },
+    {
+      "name_ko": "충청북도 청주의료원",
+      "name_en": "Chungcheongbuk-do Cheongju Medical Center",
+      "admin_area_ko": "서원구",
+      "admin_area_en": "Seowon-gu",
+      "latitude": 36.640073,
+      "longitude": 127.472484,
+      "wikidata_id": "Q16100139",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100139"
+    },
+    {
+      "name_ko": "서울특별시 어린이병원",
+      "name_en": "Seoul Child Hospital",
+      "admin_area_ko": "서초구",
+      "admin_area_en": "Seocho District",
+      "latitude": 37.45611,
+      "longitude": 127.068566,
+      "wikidata_id": "Q16097707",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097707"
+    },
+    {
+      "name_ko": "보바스기념병원",
+      "name_en": "Bobath memorial hospital",
+      "admin_area_ko": "성남시",
+      "admin_area_en": "Seongnam",
+      "latitude": 37.355642,
+      "longitude": 127.098581,
+      "wikidata_id": "Q30269471",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30269471"
+    },
+    {
+      "name_ko": "분당제생병원",
+      "name_en": "Bundang Jesaeng Hospital",
+      "admin_area_ko": "성남시",
+      "admin_area_en": "Seongnam",
+      "latitude": 37.388167,
+      "longitude": 127.121778,
+      "wikidata_id": "Q4997502",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4997502"
+    },
+    {
+      "name_ko": "서울특별시 장애인치과병원",
+      "name_en": "Seoul Dental Hospital for the Disabled",
+      "admin_area_ko": "성동구",
+      "admin_area_en": "Seongdong District",
+      "latitude": 37.566666,
+      "longitude": 127.032229,
+      "wikidata_id": "Q24639314",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24639314"
+    },
+    {
+      "name_ko": "루시나산부인과의원",
+      "name_en": "Lucina Obstetrics & Gynecology Clinic",
+      "admin_area_ko": "성북구",
+      "admin_area_en": "Seongbuk District",
+      "latitude": 37.590244,
+      "longitude": 127.015385,
+      "wikidata_id": "Q137321140",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137321140"
+    },
+    {
+      "name_ko": "강원도속초의료원",
+      "name_en": "Gangwon-do Sokcho Medical Center",
+      "admin_area_ko": "속초시",
+      "admin_area_en": "Sokcho",
+      "latitude": 38.216542,
+      "longitude": 128.588525,
+      "wikidata_id": "Q16097955",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097955"
+    },
+    {
+      "name_ko": "윌스기념병원",
+      "name_en": "Leon Wiltse Memorial Hospital",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.284197,
+      "longitude": 127.008704,
+      "wikidata_id": "Q30260746",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30260746"
+    },
+    {
+      "name_ko": "이춘택병원",
+      "name_en": "LeeChunTek Orthopaedic Specialty Hospital",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.272128,
+      "longitude": 127.015575,
+      "wikidata_id": "Q121600010",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121600010"
+    },
+    {
+      "name_ko": "전라남도순천의료원",
+      "name_en": "Jeollanam-do Suncheon Medical Center",
+      "admin_area_ko": "순천시",
+      "admin_area_en": "Suncheon",
+      "latitude": 34.958167,
+      "longitude": 127.482957,
+      "wikidata_id": "Q16098071",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16098071"
+    },
+    {
+      "name_ko": "에이치플러스 양지병원",
+      "name_en": "H PLUS YANGJI Hospital",
+      "admin_area_ko": "신림동",
+      "admin_area_en": "Sillim-dong",
+      "latitude": 37.484389,
+      "longitude": 126.932472,
+      "wikidata_id": "Q97227793",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97227793"
+    },
+    {
+      "name_ko": "세브란스병원",
+      "name_en": "Severance Hospital",
+      "admin_area_ko": "신촌동",
+      "admin_area_en": "Sinchon-dong",
+      "latitude": 37.5624,
+      "longitude": 126.941,
+      "wikidata_id": "Q625321",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625321"
+    },
+    {
+      "name_ko": "경상북도안동의료원",
+      "name_en": "Gyeongsangbuk-do Andong Medical Center",
+      "admin_area_ko": "안동시",
+      "admin_area_en": "Andong",
+      "latitude": 36.568133,
+      "longitude": 128.731755,
+      "wikidata_id": "Q16098275",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16098275"
+    },
+    {
+      "name_ko": "경기도의료원",
+      "name_en": "Gyeonggi Medical Center",
+      "admin_area_ko": "안성시",
+      "admin_area_en": "Anseong",
+      "latitude": 37.29182,
+      "longitude": 126.99631,
+      "wikidata_id": "Q16093650",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093650"
+    },
+    {
+      "name_ko": "한림대학교성심병원",
+      "name_en": "Hallym University Sacred Heart Hospital",
+      "admin_area_ko": "안양",
+      "admin_area_en": "Anyang-si",
+      "latitude": 37.391645,
+      "longitude": 126.961948,
+      "wikidata_id": "Q43896371",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43896371"
+    },
+    {
+      "name_ko": "양산부산대학교병원",
+      "name_en": "Pusan National University Yangsan Hospital",
+      "admin_area_ko": "양산시",
+      "admin_area_en": "Yangsan",
+      "latitude": 35.327787,
+      "longitude": 129.005948,
+      "wikidata_id": "Q16096446",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096446"
+    },
+    {
+      "name_ko": "서울특별시 서남병원",
+      "name_en": "Seoul Metropolitan Seonam Hospital",
+      "admin_area_ko": "양천구",
+      "admin_area_en": "Yangcheon District",
+      "latitude": 37.511996,
+      "longitude": 126.832612,
+      "wikidata_id": "Q22974117",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974117"
+    },
+    {
+      "name_ko": "경인의료재활센터병원",
+      "name_en": "Gyeongin Rehabilitation Center Hospital",
+      "admin_area_ko": "연수구",
+      "admin_area_en": "Yeonsu District",
+      "latitude": 37.418665,
+      "longitude": 126.689188,
+      "wikidata_id": "Q12583821",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583821"
+    },
+    {
+      "name_ko": "인천적십자병원",
+      "name_en": "Incheon Red Cross Hospital",
+      "admin_area_ko": "연수구",
+      "admin_area_en": "Yeonsu District",
+      "latitude": 37.418665,
+      "longitude": 126.689188,
+      "wikidata_id": "Q16099473",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099473"
+    },
+    {
+      "name_ko": "강원도영월의료원",
+      "name_en": "Gangwon-do Yeongwol Medical Center",
+      "admin_area_ko": "영월군",
+      "admin_area_en": "Yeongwol County",
+      "latitude": 37.186471,
+      "longitude": 128.464707,
+      "wikidata_id": "Q16098628",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16098628"
+    },
+    {
+      "name_ko": "마음사랑병원",
+      "name_en": "Maeumsarang Hospital",
+      "admin_area_ko": "완주군",
+      "admin_area_en": "Wanju County",
+      "latitude": 35.860219,
+      "longitude": 127.255379,
+      "wikidata_id": "Q50036780",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50036780"
+    },
+    {
+      "name_ko": "순천향대학교서울병원",
+      "name_en": "Soonchunhyang University Seoul Hospital",
+      "admin_area_ko": "용산구",
+      "admin_area_en": "Yongsan District",
+      "latitude": 37.534144,
+      "longitude": 127.004296,
+      "wikidata_id": "Q16097590",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097590"
+    },
+    {
+      "name_ko": "울진군의료원",
+      "name_en": "Uljingun Medical Center",
+      "admin_area_ko": "울진군",
+      "admin_area_en": "Uljin County",
+      "latitude": 36.992678,
+      "longitude": 129.408983,
+      "wikidata_id": "Q16099142",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099142"
+    },
+    {
+      "name_ko": "강원특별자치도원주의료원",
+      "name_en": "Gangwon-do Wonju Medical Center",
+      "admin_area_ko": "원주시",
+      "admin_area_en": "Wonju",
+      "latitude": 37.332609,
+      "longitude": 127.948668,
+      "wikidata_id": "Q16099186",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099186"
+    },
+    {
+      "name_ko": "연세대학교 원주세브란스기독병원",
+      "name_en": "Wonju Severance Christian Hospital",
+      "admin_area_ko": "원주시",
+      "admin_area_en": "Wonju",
+      "latitude": 37.565792,
+      "longitude": 126.938561,
+      "wikidata_id": "Q18648369",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648369"
+    },
+    {
+      "name_ko": "서울특별시 서북병원",
+      "name_en": "Seoul Metropolitan Seobuk Hospital",
+      "admin_area_ko": "은평구",
+      "admin_area_en": "Eunpyeong District",
+      "latitude": 37.603984,
+      "longitude": 126.904172,
+      "wikidata_id": "Q12601358",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601358"
+    },
+    {
+      "name_ko": "서울특별시 은평병원",
+      "name_en": "Seoul Metropolitan Eunpyeong Hospital",
+      "admin_area_ko": "은평구",
+      "admin_area_en": "Eunpyeong District",
+      "latitude": 37.594004,
+      "longitude": 126.923233,
+      "wikidata_id": "Q12601363",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601363"
+    },
+    {
+      "name_ko": "제주특별자치도제주의료원",
+      "name_en": "Jeju Special Self-governing Jeju Medical Center",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.444869,
+      "longitude": 126.560386,
+      "wikidata_id": "Q16099836",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099836"
+    },
+    {
+      "name_ko": "제주한라병원",
+      "name_en": "Cheju Halla General Hospital",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.490112,
+      "longitude": 126.484834,
+      "wikidata_id": "Q18648493",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648493"
+    },
+    {
+      "name_ko": "서울적십자병원",
+      "name_en": "Seoul Redcross Hospital",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.567312,
+      "longitude": 126.967025,
+      "wikidata_id": "Q16097572",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097572"
+    },
+    {
+      "name_ko": "서울특별시 북부병원",
+      "name_en": "Seoul Metropolitan Bukbu Hospital",
+      "admin_area_ko": "중랑구",
+      "admin_area_en": "Jungnang District",
+      "latitude": 37.604234,
+      "longitude": 127.107099,
+      "wikidata_id": "Q22974116",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974116"
+    },
+    {
+      "name_ko": "진안군의료원",
+      "name_en": "Jinangun Medical Center",
+      "admin_area_ko": "진안군",
+      "admin_area_en": "Jinan County",
+      "latitude": 35.794666,
+      "longitude": 127.431685,
+      "wikidata_id": "Q21710599",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21710599"
+    },
+    {
+      "name_ko": "국립부곡병원",
+      "name_en": "Bugok National Hospital",
+      "admin_area_ko": "창녕군",
+      "admin_area_en": "Changnyeong County",
+      "latitude": 35.433258,
+      "longitude": 128.612799,
+      "wikidata_id": "Q12585728",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585728"
+    },
+    {
+      "name_ko": "창원파티마병원",
+      "name_en": "Changwon Fatima Hospital",
+      "admin_area_ko": "창원시",
+      "admin_area_en": "Changwon",
+      "latitude": 35.237249,
+      "longitude": 128.645915,
+      "wikidata_id": "Q12618690",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618690"
+    },
+    {
+      "name_ko": "순천향대학교천안병원",
+      "name_en": "Soonchunhyang University Cheonan Hospital",
+      "admin_area_ko": "천안시",
+      "admin_area_en": "Cheonan",
+      "latitude": 36.80288,
+      "longitude": 127.136365,
+      "wikidata_id": "Q17487297",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17487297"
+    },
+    {
+      "name_ko": "국립춘천병원",
+      "name_en": "Chuncheon National Hospital",
+      "admin_area_ko": "춘천시",
+      "admin_area_en": "Chuncheon",
+      "latitude": 37.771598,
+      "longitude": 127.76644,
+      "wikidata_id": "Q12585769",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585769"
+    },
+    {
+      "name_ko": "충청북도 충주의료원",
+      "name_en": "Chungcheongbuk-do Chungju Medical Center",
+      "admin_area_ko": "충주시",
+      "admin_area_en": "Chungju",
+      "latitude": 36.979429,
+      "longitude": 127.969927,
+      "wikidata_id": "Q16100240",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100240"
+    },
+    {
+      "name_ko": "국립법무병원",
+      "name_en": "Institute of Forensic Psychiatry, Ministry of Justice",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.413204,
+      "longitude": 127.239116,
+      "wikidata_id": "Q16100318",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100318"
+    },
+    {
+      "name_ko": "청주성모병원",
+      "name_en": "Cheongju St. Mary's Hospital",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.683772,
+      "longitude": 127.48805,
+      "wikidata_id": "Q30279778",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30279778"
+    },
+    {
+      "name_ko": "칠곡경북대학교병원",
+      "name_en": "Kyungpook National University Chilgok Hospital",
+      "admin_area_ko": "칠곡군",
+      "admin_area_en": "Chilgok County",
+      "latitude": 35.956732,
+      "longitude": 128.56384,
+      "wikidata_id": "Q16100321",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100321"
+    },
+    {
+      "name_ko": "통영적십자병원",
+      "name_en": "Tongyeong Red Cross Hospital",
+      "admin_area_ko": "통영시",
+      "admin_area_en": "Tongyeong",
+      "latitude": 34.842258,
+      "longitude": 128.419823,
+      "wikidata_id": "Q12621245",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12621245"
+    },
+    {
+      "name_ko": "포항세명기독병원",
+      "name_en": "Pohang SeMyeong Christianity Hospital",
+      "admin_area_ko": "포항시",
+      "admin_area_en": "Pohang",
+      "latitude": 36.017792,
+      "longitude": 129.362022,
+      "wikidata_id": "Q30265640",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30265640"
+    },
+    {
+      "name_ko": "충청남도 홍성의료원",
+      "name_en": "Chungcheongnam-do Hongseong Medical Center",
+      "admin_area_ko": "홍성군",
+      "admin_area_en": "Hongseong County",
+      "latitude": 36.599285,
+      "longitude": 126.67384,
+      "wikidata_id": "Q16100782",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100782"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 병원 (Hospitals of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 병원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 151 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 병원 (Hospitals of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 병원 (Hospitals of South Korea) — 151 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 151 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

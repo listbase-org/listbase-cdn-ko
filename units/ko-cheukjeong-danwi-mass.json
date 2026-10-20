@@ -1,0 +1,214 @@
+{
+  "id": "ko-cheukjeong-danwi-mass",
+  "name": "질량 단위 (17)",
+  "title": "질량 단위 (17)",
+  "description": "CLDR ko 로케일의 'mass' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "mass-carat",
+      "bunryu": "mass",
+      "ireum": "캐럿",
+      "yakja": "CD",
+      "gan_yakja": "CD",
+      "danwi_paeteon": "{0}캐럿",
+      "id": 1
+    },
+    {
+      "unit_code": "mass-dalton",
+      "bunryu": "mass",
+      "ireum": "돌턴",
+      "yakja": "Da",
+      "gan_yakja": "Da",
+      "danwi_paeteon": "{0}돌턴",
+      "id": 2
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "bunryu": "mass",
+      "ireum": "지구 질량",
+      "yakja": "M⊕",
+      "gan_yakja": "M⊕",
+      "danwi_paeteon": "{0}지구 질량",
+      "id": 3
+    },
+    {
+      "unit_code": "mass-fun",
+      "bunryu": "mass",
+      "ireum": "fun [JP]",
+      "yakja": "fun [JP]",
+      "gan_yakja": "fun [JP]",
+      "danwi_paeteon": "{0} fun [JP]",
+      "id": 4
+    },
+    {
+      "unit_code": "mass-grain",
+      "bunryu": "mass",
+      "ireum": "그레인",
+      "yakja": "grain",
+      "gan_yakja": "grain",
+      "danwi_paeteon": "{0}그레인",
+      "id": 5
+    },
+    {
+      "unit_code": "mass-gram",
+      "bunryu": "mass",
+      "ireum": "그램",
+      "yakja": "그램",
+      "gan_yakja": "g",
+      "danwi_paeteon": "{0}그램",
+      "id": 6
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "bunryu": "mass",
+      "ireum": "킬로그램",
+      "yakja": "kg",
+      "gan_yakja": "kg",
+      "danwi_paeteon": "{0}킬로그램",
+      "id": 7
+    },
+    {
+      "unit_code": "mass-microgram",
+      "bunryu": "mass",
+      "ireum": "마이크로그램",
+      "yakja": "μg",
+      "gan_yakja": "μg",
+      "danwi_paeteon": "{0}마이크로그램",
+      "id": 8
+    },
+    {
+      "unit_code": "mass-milligram",
+      "bunryu": "mass",
+      "ireum": "밀리그램",
+      "yakja": "mg",
+      "gan_yakja": "mg",
+      "danwi_paeteon": "{0}밀리그램",
+      "id": 9
+    },
+    {
+      "unit_code": "mass-ounce",
+      "bunryu": "mass",
+      "ireum": "온스",
+      "yakja": "oz",
+      "gan_yakja": "oz",
+      "danwi_paeteon": "{0}온스",
+      "id": 10
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "bunryu": "mass",
+      "ireum": "트로이 온스",
+      "yakja": "oz t",
+      "gan_yakja": "oz t",
+      "danwi_paeteon": "{0}트로이 온스",
+      "id": 11
+    },
+    {
+      "unit_code": "mass-pound",
+      "bunryu": "mass",
+      "ireum": "파운드",
+      "yakja": "lb",
+      "gan_yakja": "lb",
+      "danwi_paeteon": "{0}파운드",
+      "id": 12
+    },
+    {
+      "unit_code": "mass-slug",
+      "bunryu": "mass",
+      "ireum": "slug",
+      "yakja": "slug",
+      "gan_yakja": "slug",
+      "danwi_paeteon": "{0} slug",
+      "id": 13
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "bunryu": "mass",
+      "ireum": "태양 질량",
+      "yakja": "M☉",
+      "gan_yakja": "M☉",
+      "danwi_paeteon": "{0}태양 질량",
+      "id": 14
+    },
+    {
+      "unit_code": "mass-stone",
+      "bunryu": "mass",
+      "ireum": "스톤",
+      "yakja": "st",
+      "gan_yakja": "st",
+      "danwi_paeteon": "{0}스톤",
+      "id": 15
+    },
+    {
+      "unit_code": "mass-ton",
+      "bunryu": "mass",
+      "ireum": "톤",
+      "yakja": "tn",
+      "gan_yakja": "tn",
+      "danwi_paeteon": "{0}톤",
+      "id": 16
+    },
+    {
+      "unit_code": "mass-tonne",
+      "bunryu": "mass",
+      "ireum": "메트릭 톤",
+      "yakja": "t",
+      "gan_yakja": "t",
+      "danwi_paeteon": "{0}메트릭 톤",
+      "id": 17
+    }
+  ],
+  "meta": {
+    "title": "질량 단위 (17) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'mass' 분류 측정 단위와 한국어 명칭. 포함 17 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "질량 단위 (17) | ListBase",
+    "seo_description": "다운로드 질량 단위 (17) — 17 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 17 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

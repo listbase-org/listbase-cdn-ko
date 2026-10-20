@@ -1,0 +1,106 @@
+{
+  "id": "ko-cheukjeong-danwi-temperature",
+  "name": "온도 단위 (5)",
+  "title": "온도 단위 (5)",
+  "description": "CLDR ko 로케일의 'temperature' 분류 측정 단위와 한국어 명칭.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "temperature-celsius",
+      "bunryu": "temperature",
+      "ireum": "섭씨",
+      "yakja": "°C",
+      "gan_yakja": "°C",
+      "danwi_paeteon": "섭씨 {0}도",
+      "id": 1
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "bunryu": "temperature",
+      "ireum": "화씨",
+      "yakja": "°F",
+      "gan_yakja": "°F",
+      "danwi_paeteon": "화씨 {0}도",
+      "id": 2
+    },
+    {
+      "unit_code": "temperature-generic",
+      "bunryu": "temperature",
+      "ireum": "도",
+      "yakja": "°",
+      "gan_yakja": "°",
+      "danwi_paeteon": "{0}도",
+      "id": 3
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "bunryu": "temperature",
+      "ireum": "켈빈",
+      "yakja": "K",
+      "gan_yakja": "K",
+      "danwi_paeteon": "{0}켈빈",
+      "id": 4
+    },
+    {
+      "unit_code": "temperature-rankine",
+      "bunryu": "temperature",
+      "ireum": "°R",
+      "yakja": "°R",
+      "gan_yakja": "°R",
+      "danwi_paeteon": "{0} °R",
+      "id": 5
+    }
+  ],
+  "meta": {
+    "title": "온도 단위 (5) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'temperature' 분류 측정 단위와 한국어 명칭. 포함 5 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "온도 단위 (5) | ListBase",
+    "seo_description": "다운로드 온도 단위 (5) — 5 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 5 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

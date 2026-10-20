@@ -1,0 +1,271 @@
+{
+  "id": "ko-tv-chaeneol-religious",
+  "name": "대한민국 종교 채널",
+  "title": "대한민국 종교 채널",
+  "description": "종교 전문 채널 12개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'religious'. Korean 'religious' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BBSTV.kr",
+      "name": "BBS TV",
+      "alt_names": "불교방송",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2008-12-02",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bbsi.co.kr/"
+    },
+    {
+      "id": 2,
+      "channel_id": "BTNTV.kr",
+      "name": "BTN TV",
+      "alt_names": "BTN불교TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "1995-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.btn.co.kr/btntv/main.asp"
+    },
+    {
+      "id": 3,
+      "channel_id": "CGNTVSouthKorea.kr",
+      "name": "CGNTV South Korea",
+      "alt_names": "CGN韩国, 시지엔티비",
+      "network": "CGN",
+      "owners": "Christian Global network",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2005-03-29",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cgntv.net/"
+    },
+    {
+      "id": 4,
+      "channel_id": "CPBCTV.kr",
+      "name": "CPBC TV",
+      "alt_names": "가톨릭평화방송",
+      "network": "",
+      "owners": "Roman Catholic Archdiocese of Seoul",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cpbc.co.kr/tv"
+    },
+    {
+      "id": 5,
+      "channel_id": "CTSTV.kr",
+      "name": "CTS TV",
+      "alt_names": "CTS기독교TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "1995-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cts.tv/"
+    },
+    {
+      "id": 6,
+      "channel_id": "Cchannel.kr",
+      "name": "C channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cchannel.com/main/"
+    },
+    {
+      "id": 7,
+      "channel_id": "FGTV.kr",
+      "name": "FGTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Yoido Full Gospel Church",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.fgtv.com/"
+    },
+    {
+      "id": 8,
+      "channel_id": "GCN.kr",
+      "name": "GCN",
+      "alt_names": "GCN 방송",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.gcntv.org/"
+    },
+    {
+      "id": 9,
+      "channel_id": "GoodTV.kr",
+      "name": "Good TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://home.goodtv.co.kr/"
+    },
+    {
+      "id": 10,
+      "channel_id": "HopeChannelKorea.kr",
+      "name": "Hope Channel Korea",
+      "alt_names": "호프채널코리아",
+      "network": "",
+      "owners": "Seventh-day Adventist Church",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://hopechannel.kr/"
+    },
+    {
+      "id": 11,
+      "channel_id": "RUTCTV.kr",
+      "name": "RUTC TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://rutc.tv/"
+    },
+    {
+      "id": 12,
+      "channel_id": "WBSTV.kr",
+      "name": "WBS TV",
+      "alt_names": "원음방송",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://wbsi.kr/index_tv.php"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 종교 채널 - 무료 다운로드",
+    "description": "종교 전문 채널 12개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'religious'. Korean 'religious' TV channels split from the ko-tv-chaeneol master dataset. 포함 12 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 종교 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 종교 채널 — 12 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 12 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

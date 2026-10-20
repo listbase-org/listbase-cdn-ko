@@ -1,0 +1,8 @@
+﻿"Name","Icao Code","Iata Code","Local Code","Facility Type","Latitude","Longitude","Elevation Ft","Country Code","Timezone","Is Private","Is Military","Is Civilian","Is Closed","Is Vfr","Is Ifr","Ppr Required"
+"BUSAN / GIMHAE","RKPK","PUS","","internationalAirport","35.18061111111111","128.938","15","KR","","false","false","false","false","true","true","false"
+"CHEONGJU","RKTU","CJJ","","internationalAirport","36.71638888888889","127.4991666666667","49","KR","","false","false","false","false","true","true","false"
+"JEJU","RKPC","CJU","","internationalAirport","33.5113","126.493","36","KR","","false","false","false","false","true","true","false"
+"MUAN","RKJB","MWX","","internationalAirport","34.99138888888889","126.3827777777778","11","KR","","false","false","false","false","true","true","false"
+"SEOUL / GIMPO","RKSS","GMP","","internationalAirport","37.55694444444445","126.7975","17","KR","","false","false","false","false","true","true","false"
+"SEOUL / INCHEON","RKSI","ICN","","internationalAirport","37.4625","126.4391666666667","14","KR","","false","false","false","false","true","true","false"
+"YANGYANG","RKNY","YNY","","internationalAirport","38.0613","128.669","63","KR","","false","false","false","false","true","true","false"

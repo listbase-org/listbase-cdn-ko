@@ -1,0 +1,336 @@
+{
+  "id": "ko-macheollu",
+  "name": "대한민국의 마천루 (Skyscrapers of South Korea)",
+  "title": "대한민국의 마천루 (Skyscrapers of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 마천루 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "63빌딩",
+      "name_en": "63 Building",
+      "admin_area_ko": "여의동",
+      "admin_area_en": "Yeoui-dong",
+      "latitude": 37.519722222,
+      "longitude": 126.94,
+      "wikidata_id": "Q22968",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22968"
+    },
+    {
+      "name_ko": "GS타워",
+      "name_en": "GS Tower",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.502423,
+      "longitude": 127.037589,
+      "wikidata_id": "Q6458430",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6458430"
+    },
+    {
+      "name_ko": "GT타워",
+      "name_en": "Seocho Garak Tower East",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.49805556,
+      "longitude": 127.0258333,
+      "wikidata_id": "Q17063396",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17063396"
+    },
+    {
+      "name_ko": "G타워",
+      "name_en": "G-Tower",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.39635278,
+      "longitude": 126.63421111,
+      "wikidata_id": "Q18998053",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18998053"
+    },
+    {
+      "name_ko": "두류역자이",
+      "name_en": "Duryu station Xi",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.858055555,
+      "longitude": 128.557222222,
+      "wikidata_id": "Q136758135",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136758135"
+    },
+    {
+      "name_ko": "디지털 미디어 시티 랜드마크 빌딩",
+      "name_en": "Seoul Lite",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.574575,
+      "longitude": 126.888419,
+      "wikidata_id": "Q202477",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q202477"
+    },
+    {
+      "name_ko": "롯데월드타워",
+      "name_en": "Lotte World Tower",
+      "admin_area_ko": "송파구",
+      "admin_area_en": "Songpa District",
+      "latitude": 37.5125,
+      "longitude": 127.1025,
+      "wikidata_id": "Q494895",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494895"
+    },
+    {
+      "name_ko": "롯데타운타워",
+      "name_en": "Busan Lotte World Tower",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.097457,
+      "longitude": 129.037213,
+      "wikidata_id": "Q496218",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q496218"
+    },
+    {
+      "name_ko": "부띠크모나코",
+      "name_en": "Boutique Monaco",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.497299,
+      "longitude": 127.024655,
+      "wikidata_id": "Q4950454",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4950454"
+    },
+    {
+      "name_ko": "부산국제금융센터",
+      "name_en": "Busan International Finance Center",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.14641389,
+      "longitude": 129.06485,
+      "wikidata_id": "Q15464762",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15464762"
+    },
+    {
+      "name_ko": "삼성 타워팰리스",
+      "name_en": "Samsung Tower Palace",
+      "admin_area_ko": "강남구",
+      "admin_area_en": "Gangnam District",
+      "latitude": 37.48847222,
+      "longitude": 127.05402778,
+      "wikidata_id": "Q484441",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q484441"
+    },
+    {
+      "name_ko": "삼성 타워팰리스 3차 G동",
+      "name_en": "Samsung Tower Palace 3 – Tower G",
+      "admin_area_ko": "강남구",
+      "admin_area_en": "Gangnam District",
+      "latitude": 37.48711,
+      "longitude": 127.05284,
+      "wikidata_id": "Q1320312",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1320312"
+    },
+    {
+      "name_ko": "삼일빌딩",
+      "name_en": "31 Building",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.5686,
+      "longitude": 126.9872,
+      "wikidata_id": "Q4634775",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4634775"
+    },
+    {
+      "name_ko": "서울 제3국제금융센터",
+      "name_en": "Three International Finance Center",
+      "admin_area_ko": "영등포구",
+      "admin_area_en": "Yeongdeungpo District",
+      "latitude": 37.525219,
+      "longitude": 126.926025,
+      "wikidata_id": "Q4403620",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4403620"
+    },
+    {
+      "name_ko": "수성 리더스 뷰 타워",
+      "name_en": "Suseong SK Leader's View",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.83868889,
+      "longitude": 128.62308333,
+      "wikidata_id": "Q19940219",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940219"
+    },
+    {
+      "name_ko": "씨드큐브 창동",
+      "name_en": "Seed Cube Changdong",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.654561111,
+      "longitude": 127.050052777,
+      "wikidata_id": "Q117319808",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117319808"
+    },
+    {
+      "name_ko": "울산 이안 엑소디움 타워",
+      "name_en": "",
+      "admin_area_ko": "울산광역시",
+      "admin_area_en": "Ulsan",
+      "latitude": 35.553125,
+      "longitude": 129.32258056,
+      "wikidata_id": "Q19940648",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940648"
+    },
+    {
+      "name_ko": "위브 더 제니스 타워 A동",
+      "name_en": "We've the Zenith Tower A",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.1575,
+      "longitude": 129.14444444,
+      "wikidata_id": "Q1242598",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1242598"
+    },
+    {
+      "name_ko": "이스트 센트럴 타워",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.53720556,
+      "longitude": 127.13205,
+      "wikidata_id": "Q30752509",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30752509"
+    },
+    {
+      "name_ko": "전경련회관",
+      "name_en": "FKI Tower",
+      "admin_area_ko": "여의동",
+      "admin_area_en": "Yeoui-dong",
+      "latitude": 37.52210833,
+      "longitude": 126.919475,
+      "wikidata_id": "Q16099606",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099606"
+    },
+    {
+      "name_ko": "종로타워",
+      "name_en": "Jongno Tower",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.57079,
+      "longitude": 126.98356,
+      "wikidata_id": "Q6275510",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6275510"
+    },
+    {
+      "name_ko": "트리마제",
+      "name_en": "Seoul Trimage",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.53933056,
+      "longitude": 127.04515833,
+      "wikidata_id": "Q21058453",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21058453"
+    },
+    {
+      "name_ko": "파크원",
+      "name_en": "Parc1",
+      "admin_area_ko": "영등포구",
+      "admin_area_en": "Seoul",
+      "latitude": 37.526621,
+      "longitude": 126.928003,
+      "wikidata_id": "Q1774820",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1774820"
+    },
+    {
+      "name_ko": "해운대 그랜드 호텔",
+      "name_en": "Haeundae Grand Hotel",
+      "admin_area_ko": "부산광역시의 구",
+      "admin_area_en": "district of Busan",
+      "latitude": 35.158675,
+      "longitude": 129.155375,
+      "wikidata_id": "Q130526514",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130526514"
+    },
+    {
+      "name_ko": "해운대 아이파크",
+      "name_en": "Haeundae I Park",
+      "admin_area_ko": "해운대구",
+      "admin_area_en": "Busan",
+      "latitude": 35.156258,
+      "longitude": 129.141815,
+      "wikidata_id": "Q5638300",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5638300"
+    },
+    {
+      "name_ko": "해운대 엘시티 더샵",
+      "name_en": "Haeundae LCT The Sharp",
+      "admin_area_ko": "해운대구",
+      "admin_area_en": "Haeundae District",
+      "latitude": 35.160425,
+      "longitude": 129.168885,
+      "wikidata_id": "Q5961370",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5961370"
+    },
+    {
+      "name_ko": "힐스테이트 도원 센트럴",
+      "name_en": "HILLSTATE Dowon Central",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.876666666,
+      "longitude": 128.583055555,
+      "wikidata_id": "Q136757981",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136757981"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 마천루 (Skyscrapers of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 마천루 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 27 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 마천루 (Skyscrapers of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 마천루 (Skyscrapers of South Korea) — 27 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 27 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

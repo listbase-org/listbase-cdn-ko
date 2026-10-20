@@ -1,0 +1,196 @@
+{
+  "id": "ko-cheukjeong-danwi-duration",
+  "name": "시간 단위 (15)",
+  "title": "시간 단위 (15)",
+  "description": "CLDR ko 로케일의 'duration' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "duration-century",
+      "bunryu": "duration",
+      "ireum": "세기",
+      "yakja": "C",
+      "gan_yakja": "C",
+      "danwi_paeteon": "{0}세기",
+      "id": 1
+    },
+    {
+      "unit_code": "duration-day",
+      "bunryu": "duration",
+      "ireum": "일",
+      "yakja": "일",
+      "gan_yakja": "일",
+      "danwi_paeteon": "{0}일",
+      "id": 2
+    },
+    {
+      "unit_code": "duration-decade",
+      "bunryu": "duration",
+      "ireum": "dec",
+      "yakja": "dec",
+      "gan_yakja": "dec",
+      "danwi_paeteon": "{0}dec",
+      "id": 3
+    },
+    {
+      "unit_code": "duration-fortnight",
+      "bunryu": "duration",
+      "ireum": "fortnight",
+      "yakja": "fortnight",
+      "gan_yakja": "fortnight",
+      "danwi_paeteon": "{0} fw",
+      "id": 4
+    },
+    {
+      "unit_code": "duration-hour",
+      "bunryu": "duration",
+      "ireum": "시간",
+      "yakja": "시간",
+      "gan_yakja": "시간",
+      "danwi_paeteon": "{0}시간",
+      "id": 5
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "bunryu": "duration",
+      "ireum": "마이크로초",
+      "yakja": "μs",
+      "gan_yakja": "μs",
+      "danwi_paeteon": "{0}마이크로초",
+      "id": 6
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "bunryu": "duration",
+      "ireum": "밀리초",
+      "yakja": "밀리초",
+      "gan_yakja": "ms",
+      "danwi_paeteon": "{0}밀리초",
+      "id": 7
+    },
+    {
+      "unit_code": "duration-minute",
+      "bunryu": "duration",
+      "ireum": "분",
+      "yakja": "분",
+      "gan_yakja": "분",
+      "danwi_paeteon": "{0}분",
+      "id": 8
+    },
+    {
+      "unit_code": "duration-month",
+      "bunryu": "duration",
+      "ireum": "개월",
+      "yakja": "개월",
+      "gan_yakja": "개월",
+      "danwi_paeteon": "{0}개월",
+      "id": 9
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "bunryu": "duration",
+      "ireum": "나노초",
+      "yakja": "ns",
+      "gan_yakja": "ns",
+      "danwi_paeteon": "{0}나노초",
+      "id": 10
+    },
+    {
+      "unit_code": "duration-night",
+      "bunryu": "duration",
+      "ireum": "박",
+      "yakja": "박",
+      "gan_yakja": "박",
+      "danwi_paeteon": "{0}박",
+      "id": 11
+    },
+    {
+      "unit_code": "duration-quarter",
+      "bunryu": "duration",
+      "ireum": "분기",
+      "yakja": "분기",
+      "gan_yakja": "분기",
+      "danwi_paeteon": "{0}분기",
+      "id": 12
+    },
+    {
+      "unit_code": "duration-second",
+      "bunryu": "duration",
+      "ireum": "초",
+      "yakja": "초",
+      "gan_yakja": "초",
+      "danwi_paeteon": "{0}초",
+      "id": 13
+    },
+    {
+      "unit_code": "duration-week",
+      "bunryu": "duration",
+      "ireum": "주",
+      "yakja": "주",
+      "gan_yakja": "주",
+      "danwi_paeteon": "{0}주",
+      "id": 14
+    },
+    {
+      "unit_code": "duration-year",
+      "bunryu": "duration",
+      "ireum": "년",
+      "yakja": "년",
+      "gan_yakja": "년",
+      "danwi_paeteon": "{0}년",
+      "id": 15
+    }
+  ],
+  "meta": {
+    "title": "시간 단위 (15) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'duration' 분류 측정 단위와 한국어 명칭. 포함 15 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "시간 단위 (15) | ListBase",
+    "seo_description": "다운로드 시간 단위 (15) — 15 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 15 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

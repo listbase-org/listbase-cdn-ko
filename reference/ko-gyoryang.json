@@ -1,0 +1,456 @@
+{
+  "id": "ko-gyoryang",
+  "name": "대한민국의 교량 (Bridges of South Korea)",
+  "title": "대한민국의 교량 (Bridges of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 교량(다리) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "가덕대교",
+      "name_en": "Gadeok Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.0784,
+      "longitude": 128.8394,
+      "wikidata_id": "Q16093106",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093106"
+    },
+    {
+      "name_ko": "구리암사대교",
+      "name_en": "Guri–Amsa Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.5692,
+      "longitude": 127.1321,
+      "wikidata_id": "Q12585408",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585408"
+    },
+    {
+      "name_ko": "남지교",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.38086,
+      "longitude": 128.4742,
+      "wikidata_id": "Q16096134",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096134"
+    },
+    {
+      "name_ko": "부산대교",
+      "name_en": "Busan Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.0962,
+      "longitude": 129.0387,
+      "wikidata_id": "Q12598793",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598793"
+    },
+    {
+      "name_ko": "북천철교",
+      "name_en": "Bukcheon Railway Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.851136,
+      "longitude": 129.219317,
+      "wikidata_id": "Q15261352",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15261352"
+    },
+    {
+      "name_ko": "서부산낙동강교",
+      "name_en": "Seobusannakdonggang Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.154486,
+      "longitude": 128.960853,
+      "wikidata_id": "Q12589689",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12589689"
+    },
+    {
+      "name_ko": "서천교 (경주시)",
+      "name_en": "Seocheon Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.823936,
+      "longitude": 129.166696,
+      "wikidata_id": "Q12601494",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601494"
+    },
+    {
+      "name_ko": "여수대교",
+      "name_en": "Myodo Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.866188,
+      "longitude": 127.719708,
+      "wikidata_id": "Q16098469",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16098469"
+    },
+    {
+      "name_ko": "지천철교",
+      "name_en": "Jicheon Railway Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.889678,
+      "longitude": 128.504851,
+      "wikidata_id": "Q16099964",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16099964"
+    },
+    {
+      "name_ko": "창덕궁 금천교",
+      "name_en": "Changdeokgung Palace Geumcheongyo Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.582769,
+      "longitude": 126.988753,
+      "wikidata_id": "Q16095177",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095177"
+    },
+    {
+      "name_ko": "홍산 만덕교",
+      "name_en": "Hongsan Manduk Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.215833,
+      "longitude": 126.756667,
+      "wikidata_id": "Q55736072",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736072"
+    },
+    {
+      "name_ko": "화천 꺼먹다리",
+      "name_en": "Hwacheon Geomeok Bridge",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.106583,
+      "longitude": 127.76325,
+      "wikidata_id": "Q21060855",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21060855"
+    },
+    {
+      "name_ko": "고성 건봉사 능파교",
+      "name_en": "Neungpagyo",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.4025,
+      "longitude": 128.378333,
+      "wikidata_id": "Q16092255",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092255"
+    },
+    {
+      "name_ko": "고성 육송정 홍교",
+      "name_en": "Yuksongjeong Honggyo",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.389111,
+      "longitude": 128.402139,
+      "wikidata_id": "Q16092261",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092261"
+    },
+    {
+      "name_ko": "신매대교",
+      "name_en": "Sinmae Bridge",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.922033,
+      "longitude": 127.714168,
+      "wikidata_id": "Q127605581",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127605581"
+    },
+    {
+      "name_ko": "가조연륙교",
+      "name_en": "Gajo Bridge",
+      "admin_area_ko": "거제시",
+      "admin_area_en": "Geoje",
+      "latitude": 34.925934,
+      "longitude": 128.527444,
+      "wikidata_id": "Q12582467",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582467"
+    },
+    {
+      "name_ko": "거제대교",
+      "name_en": "Geoje Bridge",
+      "admin_area_ko": "거제시",
+      "admin_area_en": "Geoje",
+      "latitude": 34.884023,
+      "longitude": 128.471325,
+      "wikidata_id": "Q12583326",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583326"
+    },
+    {
+      "name_ko": "만안교",
+      "name_en": "Manangyo",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.414444,
+      "longitude": 126.911944,
+      "wikidata_id": "Q54932437",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54932437"
+    },
+    {
+      "name_ko": "파주 경의선 장단역 죽음의 다리",
+      "name_en": "Paju Gyeongui Line Jangdan Station Bridge of Death",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.903611,
+      "longitude": 126.696944,
+      "wikidata_id": "Q55735457",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735457"
+    },
+    {
+      "name_ko": "경주 불국사 연화교 및 칠보교",
+      "name_en": "Lotus Flower Bridge and Seven Treasure Bridge",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.790414,
+      "longitude": 129.331725,
+      "wikidata_id": "Q12583867",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583867"
+    },
+    {
+      "name_ko": "경주 불국사 청운교 및 백운교",
+      "name_en": "Blue Cloud bridge and White Cloud Bridge",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.789761,
+      "longitude": 129.331622,
+      "wikidata_id": "Q12583868",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583868"
+    },
+    {
+      "name_ko": "경주 춘양교지와 월정교지",
+      "name_en": "Gyeongju Chunyang Bridge and Woljeong Bridge",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.8294,
+      "longitude": 129.2181,
+      "wikidata_id": "Q65235305",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65235305"
+    },
+    {
+      "name_ko": "88낙동강교",
+      "name_en": "88 Nakdong river bridge",
+      "admin_area_ko": "고령군",
+      "admin_area_en": "Goryeong County",
+      "latitude": 35.759167,
+      "longitude": 128.385,
+      "wikidata_id": "Q16093062",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093062"
+    },
+    {
+      "name_ko": "이순신대교",
+      "name_en": "Yi Sun-sin Bridge",
+      "admin_area_ko": "광양시",
+      "admin_area_en": "Gwangyang",
+      "latitude": 34.905833,
+      "longitude": 127.705278,
+      "wikidata_id": "Q498235",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q498235"
+    },
+    {
+      "name_ko": "아양교",
+      "name_en": "Ayang Bridge",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.888861,
+      "longitude": 128.641667,
+      "wikidata_id": "Q16098214",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16098214"
+    },
+    {
+      "name_ko": "아양기찻길",
+      "name_en": "Ayang Gichatgil",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.890278,
+      "longitude": 128.638361,
+      "wikidata_id": "Q130455860",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130455860"
+    },
+    {
+      "name_ko": "월드컵대교",
+      "name_en": "World Cup Bridge",
+      "admin_area_ko": "상암동",
+      "admin_area_en": "Sangam-dong",
+      "latitude": 37.556083,
+      "longitude": 126.885111,
+      "wikidata_id": "Q12609460",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609460"
+    },
+    {
+      "name_ko": "금남교",
+      "name_en": "Geumnam Bridge",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": 36.478333,
+      "longitude": 127.270556,
+      "wikidata_id": "Q16094962",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094962"
+    },
+    {
+      "name_ko": "월영교",
+      "name_en": "Moonlight Bridge",
+      "admin_area_ko": "안동시",
+      "admin_area_en": "Andong",
+      "latitude": 36.576667,
+      "longitude": 128.76075,
+      "wikidata_id": "Q12609478",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609478"
+    },
+    {
+      "name_ko": "울산대교",
+      "name_en": "Ulsan Bridge",
+      "admin_area_ko": "울산광역시",
+      "admin_area_en": "Ulsan",
+      "latitude": 35.511667,
+      "longitude": 129.391389,
+      "wikidata_id": "Q18648402",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648402"
+    },
+    {
+      "name_ko": "38대교",
+      "name_en": "38 bridge",
+      "admin_area_ko": "인제군",
+      "admin_area_en": "Inje County",
+      "latitude": 38.019844,
+      "longitude": 128.125903,
+      "wikidata_id": "Q18141299",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18141299"
+    },
+    {
+      "name_ko": "청라하늘대교",
+      "name_en": "Cheongna Haneul Bridge",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.51544,
+      "longitude": 126.58653,
+      "wikidata_id": "Q136766579",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136766579"
+    },
+    {
+      "name_ko": "금강대교",
+      "name_en": "Geumgang Bridge",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 36.443194,
+      "longitude": 127.0003,
+      "wikidata_id": "Q16094946",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094946"
+    },
+    {
+      "name_ko": "말레이지아교",
+      "name_en": "Mareijia Bridge",
+      "admin_area_ko": "조리읍",
+      "admin_area_en": "Jori-eup",
+      "latitude": 37.749444,
+      "longitude": 126.798611,
+      "wikidata_id": "Q122586641",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122586641"
+    },
+    {
+      "name_ko": "모전교",
+      "name_en": "Mojeon Bridge",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.569107,
+      "longitude": 126.979263,
+      "wikidata_id": "Q109460524",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109460524"
+    },
+    {
+      "name_ko": "창경궁 옥천교",
+      "name_en": "Changgyeonggung Palace Okcheon Bridge",
+      "admin_area_ko": "종로동",
+      "admin_area_en": "Jongno-dong",
+      "latitude": 37.58,
+      "longitude": 126.994722,
+      "wikidata_id": "Q16095138",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095138"
+    },
+    {
+      "name_ko": "진천 농다리",
+      "name_en": "Jincheon Nongdari Bridge",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.825833,
+      "longitude": 127.493333,
+      "wikidata_id": "Q28698707",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28698707"
+    },
+    {
+      "name_ko": "자유의 다리",
+      "name_en": "Bridge of Freedom",
+      "admin_area_ko": "파주시",
+      "admin_area_en": "Paju",
+      "latitude": 37.88991,
+      "longitude": 126.738792,
+      "wikidata_id": "Q10492990",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10492990"
+    },
+    {
+      "name_ko": "해오름대교",
+      "name_en": "Haeoreum bridge",
+      "admin_area_ko": "포항시",
+      "admin_area_en": "Pohang",
+      "latitude": 36.051486,
+      "longitude": 129.375298,
+      "wikidata_id": "Q137921475",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137921475"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 교량 (Bridges of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 교량(다리) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 39 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 교량 (Bridges of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 교량 (Bridges of South Korea) — 39 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 39 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

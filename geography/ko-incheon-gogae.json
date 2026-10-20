@@ -1,0 +1,368 @@
+{
+  "id": "ko-incheon-gogae",
+  "name": "고개 — 인천광역시",
+  "title": "고개 — 인천광역시",
+  "description": "인천광역시에 위치한 고개(산길 고갯마루) 17건. Wikidata 기반 — 한국어/영어 명칭, 고도(m), WGS84 좌표, 한국어 위키백과 링크 포함. 시·도 구분은 Wikidata P131(소재 행정구역) 값을 우선 사용하고, 해당 값이 없는 경우 이미 정제된 ko-<시도>-upyeonbeonho 우편번호 좌표를 앵커로 한 k=15 역거리가중 투표로 도출함 (레코드별 sido_source 필드 참조).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "sido_slug",
+      "label": "Sido Slug",
+      "type": "string"
+    },
+    {
+      "key": "sido_ko",
+      "label": "Sido Ko",
+      "type": "string"
+    },
+    {
+      "key": "sido_en",
+      "label": "Sido En",
+      "type": "string"
+    },
+    {
+      "key": "sido_source",
+      "label": "Sido Source",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "geo_baejeong_geori_km",
+      "label": "Geo Baejeong Geori Km",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27299667",
+      "name_ko": "나루고개",
+      "name_en": "나루고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.733611,
+      "longitude": 126.438889,
+      "geo_baejeong_geori_km": 2.189,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27295365",
+      "name_ko": "덕고개",
+      "name_en": "덕고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.797778,
+      "longitude": 126.410833,
+      "geo_baejeong_geori_km": 0.266,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27299564",
+      "name_ko": "동고령",
+      "name_en": "동고령",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "derived_knn",
+      "located_in_at": "",
+      "elevation_m": "",
+      "latitude": 37.23,
+      "longitude": 126.125,
+      "geo_baejeong_geori_km": 1.318,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27299566",
+      "name_ko": "망재",
+      "name_en": "망재",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.224444,
+      "longitude": 126.132222,
+      "geo_baejeong_geori_km": 0.952,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27299638",
+      "name_ko": "목비고개",
+      "name_en": "목비고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.66972,
+      "longitude": 126.49139,
+      "geo_baejeong_geori_km": 1.766,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27299671",
+      "name_ko": "미꾸지고개",
+      "name_en": "미꾸지고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.74111,
+      "longitude": 126.38694,
+      "geo_baejeong_geori_km": 2.441,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27295492",
+      "name_ko": "밀재고개",
+      "name_en": "밀재고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.771111,
+      "longitude": 126.243056,
+      "geo_baejeong_geori_km": 1.289,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27299695",
+      "name_ko": "방개고개",
+      "name_en": "방개고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.68194,
+      "longitude": 126.34528,
+      "geo_baejeong_geori_km": 1.834,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27295366",
+      "name_ko": "배우고개",
+      "name_en": "배우고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.78457,
+      "longitude": 126.3911,
+      "geo_baejeong_geori_km": 1.426,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27299642",
+      "name_ko": "분오리고개",
+      "name_en": "분오리고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.599444,
+      "longitude": 126.458333,
+      "geo_baejeong_geori_km": 3.397,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27299656",
+      "name_ko": "불오리고개",
+      "name_en": "불오리고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.675556,
+      "longitude": 126.444167,
+      "geo_baejeong_geori_km": 2.4,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q27299701",
+      "name_ko": "새가리고개",
+      "name_en": "새가리고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.68583,
+      "longitude": 126.3325,
+      "geo_baejeong_geori_km": 2.206,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27295367",
+      "name_ko": "새말고개",
+      "name_en": "새말고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.788611,
+      "longitude": 126.409167,
+      "geo_baejeong_geori_km": 1.103,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27295370",
+      "name_ko": "송림고개",
+      "name_en": "송림고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.784167,
+      "longitude": 126.310278,
+      "geo_baejeong_geori_km": 2.088,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27299677",
+      "name_ko": "전득이고개",
+      "name_en": "전득이고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.673611,
+      "longitude": 126.368611,
+      "geo_baejeong_geori_km": 1.307,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27299478",
+      "name_ko": "처녀고개",
+      "name_en": "처녀고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.971111,
+      "longitude": 124.683889,
+      "geo_baejeong_geori_km": 136.527,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27299657",
+      "name_ko": "하우고개",
+      "name_en": "하우고개",
+      "sido_slug": "incheon",
+      "sido_ko": "인천광역시",
+      "sido_en": "Incheon",
+      "sido_source": "source_p131",
+      "located_in_at": "인천광역시",
+      "elevation_m": "",
+      "latitude": 37.67,
+      "longitude": 126.415278,
+      "geo_baejeong_geori_km": 0.999,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "고개 — 인천광역시 - 무료 다운로드",
+    "description": "인천광역시에 위치한 고개(산길 고갯마루) 17건. Wikidata 기반 — 한국어/영어 명칭, 고도(m), WGS84 좌표, 한국어 위키백과 링크 포함. 시·도 구분은 Wikidata P131(소재 행정구역) 값을 우선 사용하고, 해당 값이 없는 경우 이미 정제된 ko-<시도>-upyeonbeonho 우편번호 좌표를 앵커로 한 k=15 역거리가중 투표로 도출함 (레코드별 sido_source 필드 참조). 포함 17 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "고개 — 인천광역시 | ListBase",
+    "seo_description": "다운로드 고개 — 인천광역시 — 17 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 17 건 / 14 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

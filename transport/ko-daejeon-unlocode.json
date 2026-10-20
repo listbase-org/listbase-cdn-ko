@@ -1,0 +1,232 @@
+{
+  "id": "ko-daejeon-unlocode",
+  "name": "UN/LOCODE 위치 코드 — 대전광역시 (Daejeon)",
+  "title": "UN/LOCODE 위치 코드 — 대전광역시 (Daejeon)",
+  "description": "대전광역시의 UN/LOCODE 위치 코드 3건. UNECE 국제연합 무역·운송 지역 코드(UN/LOCODE) 대한민국 목록에서 행정구역 코드 30(KR-30)에 해당하는 항목만 추출한 것입니다. 각 레코드는 LOCODE, 지명(발음 구별 기호 포함/미포함), 기능 분류(항만·철도·도로·공항·우편·복합운송), 승인 상태, IATA 코드, 좌표를 포함합니다. All 3 UN/LOCODE entries for Daejeon, South Korea, split from the national ko-unlocode list. Sido assignment is taken directly from UN/LOCODE's own Subdivision column — no geographic inference was used.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "sido_slug",
+      "label": "Sido Slug",
+      "type": "string"
+    },
+    {
+      "key": "sido_name_kr",
+      "label": "Sido Name Kr",
+      "type": "string"
+    },
+    {
+      "key": "sido_name_en",
+      "label": "Sido Name En",
+      "type": "string"
+    },
+    {
+      "key": "sido_code",
+      "label": "Sido Code",
+      "type": "string"
+    },
+    {
+      "key": "sido_chulcheo",
+      "label": "Sido Chulcheo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 23,
+      "locode": "KRCGY",
+      "country": "KR",
+      "location": "CGY",
+      "name": "Chungyang",
+      "name_wo_diacritics": "Chungyang",
+      "subdivision_code": "30",
+      "subdivision_name": "Daejeon Gwang'yeogsi [Taejǒn‐Kwangyǒkshi]",
+      "subdivision_type": "Metropolitan city",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": "",
+      "sido_slug": "daejeon",
+      "sido_name_kr": "대전광역시",
+      "sido_name_en": "Daejeon",
+      "sido_code": "KR-30",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 2,
+      "parent_index": 189,
+      "locode": "KRQET",
+      "country": "KR",
+      "location": "QET",
+      "name": "Daedeok/Dawjeon",
+      "name_wo_diacritics": "Daedeok/Dawjeon",
+      "subdivision_code": "30",
+      "subdivision_name": "Daejeon Gwang'yeogsi [Taejǒn‐Kwangyǒkshi]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "--34----",
+      "functions": "Road transport, Air transport (airport)",
+      "iata": "",
+      "coordinates": "3623N 12722E",
+      "latitude": 36.3833,
+      "longitude": 127.3667,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "sido_slug": "daejeon",
+      "sido_name_kr": "대전광역시",
+      "sido_name_en": "Daejeon",
+      "sido_code": "KR-30",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 3,
+      "parent_index": 229,
+      "locode": "KRTJN",
+      "country": "KR",
+      "location": "TJN",
+      "name": "Daejeon",
+      "name_wo_diacritics": "Daejeon",
+      "subdivision_code": "30",
+      "subdivision_name": "Daejeon Gwang'yeogsi [Taejǒn‐Kwangyǒkshi]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "QTW",
+      "coordinates": "3619N 12725E",
+      "latitude": 36.3167,
+      "longitude": 127.4167,
+      "date_updated": "2005-07",
+      "remarks": "",
+      "sido_slug": "daejeon",
+      "sido_name_kr": "대전광역시",
+      "sido_name_en": "Daejeon",
+      "sido_code": "KR-30",
+      "sido_chulcheo": "source_subdivision"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE 위치 코드 — 대전광역시 (Daejeon) - 무료 다운로드",
+    "description": "대전광역시의 UN/LOCODE 위치 코드 3건. UNECE 국제연합 무역·운송 지역 코드(UN/LOCODE) 대한민국 목록에서 행정구역 코드 30(KR-30)에 해당하는 항목만 추출한 것입니다. 각 레코드는 LOCODE, 지명(발음 구별 기호 포함/미포함), 기능 분류(항만·철도·도로·공항·우편·복합운송), 승인 상태, IATA 코드, 좌표를 포함합니다. All 3 UN/LOCODE entries for Daejeon, South Korea, split from the national ko-unlocode list. Sido assignment is taken directly from UN/LOCODE's own Subdivision column — no geographic inference was used. 포함 3 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "UN/LOCODE 위치 코드 — 대전광역시 (Daejeon) | ListBase",
+    "seo_description": "다운로드 UN/LOCODE 위치 코드 — 대전광역시 (Daejeon) — 3 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 3 건 / 25 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "id": "ko-04-hoseon-jihacheol-yeok",
+  "name": "04호선 지하철 역 (Line 4 subway stations)",
+  "title": "04호선 지하철 역 (Line 4 subway stations)",
+  "description": "04호선(Line 4)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 48개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 4 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "창동",
+      "name_romanized": "",
+      "lines": "01호선, 04호선",
+      "lines_en": "Line 1, Line 4",
+      "lines_count": 2,
+      "latitude": 37.653166,
+      "longitude": 127.047731,
+      "around_stations": "쌍문, 노원, 방학, 녹천",
+      "around_count": 4
+    },
+    {
+      "name": "금정",
+      "name_romanized": "",
+      "lines": "01호선, 04호선",
+      "lines_en": "Line 1, Line 4",
+      "lines_count": 2,
+      "latitude": 37.372221,
+      "longitude": 126.943429,
+      "around_stations": "산본, 범계, 명학, 군포",
+      "around_count": 4
+    },
+    {
+      "name": "동대문",
+      "name_romanized": "dongdaemun",
+      "lines": "01호선, 04호선",
+      "lines_en": "Line 1, Line 4",
+      "lines_count": 2,
+      "latitude": 37.57142,
+      "longitude": 127.009745,
+      "around_stations": "동대문역사문화공원, 혜화, 종로5가, 동묘앞",
+      "around_count": 4
+    },
+    {
+      "name": "서울",
+      "name_romanized": "seoul",
+      "lines": "01호선, 04호선, 경의선, 공항철도",
+      "lines_en": "Line 1, Line 4, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.554648,
+      "longitude": 126.972559,
+      "around_stations": "신촌(경의선), 시청, 남영, 공덕, 숙대입구, 회현",
+      "around_count": 6
+    },
+    {
+      "name": "사당",
+      "name_romanized": "",
+      "lines": "02호선, 04호선",
+      "lines_en": "Line 2, Line 4",
+      "lines_count": 2,
+      "latitude": 37.47653,
+      "longitude": 126.981685,
+      "around_stations": "남태령, 이수(총신대), 낙성대, 방배",
+      "around_count": 4
+    },
+    {
+      "name": "동대문역사문화공원",
+      "name_romanized": "",
+      "lines": "02호선, 04호선, 05호선",
+      "lines_en": "Line 2, Line 4, Line 5",
+      "lines_count": 3,
+      "latitude": 37.565138,
+      "longitude": 127.007896,
+      "around_stations": "을지로4가, 청구, 동대문, 충무로, 신당",
+      "around_count": 5
+    },
+    {
+      "name": "충무로",
+      "name_romanized": "",
+      "lines": "03호선, 04호선",
+      "lines_en": "Line 3, Line 4",
+      "lines_count": 2,
+      "latitude": 37.561243,
+      "longitude": 126.99428,
+      "around_stations": "을지로3가, 동대입구, 동대문역사문화공원, 명동",
+      "around_count": 4
+    },
+    {
+      "name": "남태령",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.463873,
+      "longitude": 126.989134,
+      "around_stations": "선바위, 사당",
+      "around_count": 2
+    },
+    {
+      "name": "당고개",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.670272,
+      "longitude": 127.079066,
+      "around_stations": "상계",
+      "around_count": 1
+    },
+    {
+      "name": "상계",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.660878,
+      "longitude": 127.073572,
+      "around_stations": "노원, 당고개",
+      "around_count": 2
+    },
+    {
+      "name": "노원",
+      "name_romanized": "",
+      "lines": "04호선, 07호선",
+      "lines_en": "Line 4, Line 7",
+      "lines_count": 2,
+      "latitude": 37.655128,
+      "longitude": 127.061368,
+      "around_stations": "중계, 마들, 창동, 상계",
+      "around_count": 4
+    },
+    {
+      "name": "쌍문",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.648627,
+      "longitude": 127.034709,
+      "around_stations": "수유, 창동",
+      "around_count": 2
+    },
+    {
+      "name": "수유",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.638052,
+      "longitude": 127.025732,
+      "around_stations": "미아, 쌍문",
+      "around_count": 2
+    },
+    {
+      "name": "미아",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.62667,
+      "longitude": 127.025983,
+      "around_stations": "미아사거리, 수유",
+      "around_count": 2
+    },
+    {
+      "name": "미아사거리",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.613292,
+      "longitude": 127.030053,
+      "around_stations": "길음, 미아",
+      "around_count": 2
+    },
+    {
+      "name": "길음",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.603407,
+      "longitude": 127.025053,
+      "around_stations": "성신여대입구, 미아사거리",
+      "around_count": 2
+    },
+    {
+      "name": "성신여대입구",
+      "name_romanized": "",
+      "lines": "04호선, 우이신설경전철",
+      "lines_en": "Line 4, Ui-Sinseol LRT",
+      "lines_count": 2,
+      "latitude": 37.592624,
+      "longitude": 127.016403,
+      "around_stations": "보문, 정릉, 길음, 한성대입구",
+      "around_count": 4
+    },
+    {
+      "name": "한성대입구",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.588458,
+      "longitude": 127.006221,
+      "around_stations": "혜화, 성신여대입구",
+      "around_count": 2
+    },
+    {
+      "name": "혜화",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.582336,
+      "longitude": 127.001844,
+      "around_stations": "동대문, 한성대입구",
+      "around_count": 2
+    },
+    {
+      "name": "명동",
+      "name_romanized": "myeongdong",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.560989,
+      "longitude": 126.986325,
+      "around_stations": "회현, 충무로",
+      "around_count": 2
+    },
+    {
+      "name": "회현",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.558514,
+      "longitude": 126.978246,
+      "around_stations": "서울, 명동",
+      "around_count": 2
+    },
+    {
+      "name": "숙대입구",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.54456,
+      "longitude": 126.972106,
+      "around_stations": "삼각지, 서울",
+      "around_count": 2
+    },
+    {
+      "name": "삼각지",
+      "name_romanized": "",
+      "lines": "04호선, 06호선",
+      "lines_en": "Line 4, Line 6",
+      "lines_count": 2,
+      "latitude": 37.534777,
+      "longitude": 126.97311,
+      "around_stations": "효창공원앞, 녹사평, 숙대입구, 신용산",
+      "around_count": 4
+    },
+    {
+      "name": "신용산",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.52917,
+      "longitude": 126.967894,
+      "around_stations": "이촌, 삼각지",
+      "around_count": 2
+    },
+    {
+      "name": "동작",
+      "name_romanized": "",
+      "lines": "04호선, 09호선",
+      "lines_en": "Line 4, Line 9",
+      "lines_count": 2,
+      "latitude": 37.502971,
+      "longitude": 126.979306,
+      "around_stations": "흑석, 구반포, 이촌, 이수(총신대)",
+      "around_count": 4
+    },
+    {
+      "name": "이수(총신대)",
+      "name_romanized": "",
+      "lines": "04호선, 07호선",
+      "lines_en": "Line 4, Line 7",
+      "lines_count": 2,
+      "latitude": 37.486263,
+      "longitude": 126.981989,
+      "around_stations": "남성, 내방, 동작, 사당",
+      "around_count": 4
+    },
+    {
+      "name": "경마공원",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.443885,
+      "longitude": 127.007888,
+      "around_stations": "대공원, 선바위",
+      "around_count": 2
+    },
+    {
+      "name": "대공원",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.435675,
+      "longitude": 127.006523,
+      "around_stations": "과천, 경마공원",
+      "around_count": 2
+    },
+    {
+      "name": "과천",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.433021,
+      "longitude": 126.996568,
+      "around_stations": "정부과천청사, 대공원",
+      "around_count": 2
+    },
+    {
+      "name": "정부과천청사",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.426513,
+      "longitude": 126.98978,
+      "around_stations": "인덕원, 과천",
+      "around_count": 2
+    },
+    {
+      "name": "인덕원",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.401553,
+      "longitude": 126.976715,
+      "around_stations": "평촌, 정부과천청사",
+      "around_count": 2
+    },
+    {
+      "name": "평촌",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.394287,
+      "longitude": 126.963883,
+      "around_stations": "범계, 인덕원",
+      "around_count": 2
+    },
+    {
+      "name": "범계",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.389793,
+      "longitude": 126.950806,
+      "around_stations": "금정, 평촌",
+      "around_count": 2
+    },
+    {
+      "name": "선바위",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.451673,
+      "longitude": 127.002303,
+      "around_stations": "경마공원, 남태령",
+      "around_count": 2
+    },
+    {
+      "name": "산본",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.358101,
+      "longitude": 126.933274,
+      "around_stations": "수리산, 금정",
+      "around_count": 2
+    },
+    {
+      "name": "대야미",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.328467,
+      "longitude": 126.917332,
+      "around_stations": "반월, 수리산",
+      "around_count": 2
+    },
+    {
+      "name": "반월",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.312212,
+      "longitude": 126.903524,
+      "around_stations": "상록수, 대야미",
+      "around_count": 2
+    },
+    {
+      "name": "상록수",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.302795,
+      "longitude": 126.866489,
+      "around_stations": "한대앞, 반월",
+      "around_count": 2
+    },
+    {
+      "name": "한대앞",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.309689,
+      "longitude": 126.85344,
+      "around_stations": "중앙, 사리, 상록수",
+      "around_count": 3
+    },
+    {
+      "name": "중앙",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.315941,
+      "longitude": 126.838573,
+      "around_stations": "고잔, 한대앞",
+      "around_count": 2
+    },
+    {
+      "name": "고잔",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.316777,
+      "longitude": 126.823249,
+      "around_stations": "초지, 중앙",
+      "around_count": 2
+    },
+    {
+      "name": "초지",
+      "name_romanized": "",
+      "lines": "04호선, 서해선, 수인분당선",
+      "lines_en": "Line 4, Seohae Line, Suin-Bundang Line",
+      "lines_count": 3,
+      "latitude": 37.320646,
+      "longitude": 126.805913,
+      "around_stations": "안산, 고잔, 선부, 원곡",
+      "around_count": 4
+    },
+    {
+      "name": "안산",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.327082,
+      "longitude": 126.788532,
+      "around_stations": "신길온천, 초지",
+      "around_count": 2
+    },
+    {
+      "name": "신길온천",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.338212,
+      "longitude": 126.765844,
+      "around_stations": "정왕, 안산",
+      "around_count": 2
+    },
+    {
+      "name": "정왕",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.351735,
+      "longitude": 126.742989,
+      "around_stations": "오이도, 신길온천",
+      "around_count": 2
+    },
+    {
+      "name": "오이도",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.362357,
+      "longitude": 126.738714,
+      "around_stations": "달월, 정왕",
+      "around_count": 2
+    },
+    {
+      "name": "수리산",
+      "name_romanized": "",
+      "lines": "04호선",
+      "lines_en": "Line 4",
+      "lines_count": 1,
+      "latitude": 37.349801,
+      "longitude": 126.925365,
+      "around_stations": "대야미, 산본",
+      "around_count": 2
+    },
+    {
+      "name": "이촌",
+      "name_romanized": "",
+      "lines": "04호선, 경의선",
+      "lines_en": "Line 4, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.522272,
+      "longitude": 126.974345,
+      "around_stations": "용산, 서빙고, 신용산, 동작",
+      "around_count": 4
+    }
+  ],
+  "meta": {
+    "title": "04호선 지하철 역 (Line 4 subway stations) - 무료 다운로드",
+    "description": "04호선(Line 4)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 48개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 4 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 48 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "04호선 지하철 역 (Line 4 subway stations) | ListBase",
+    "seo_description": "다운로드 04호선 지하철 역 (Line 4 subway stations) — 48 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 48 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

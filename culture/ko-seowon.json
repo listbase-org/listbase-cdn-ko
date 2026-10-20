@@ -1,0 +1,1856 @@
+{
+  "id": "ko-seowon",
+  "name": "한국의 서원 (Korean Seowon — Confucian Academies)",
+  "title": "한국의 서원 (Korean Seowon — Confucian Academies)",
+  "description": "위키데이터 기준 대한민국에 위치한 서원(사립 유교 교육기관) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 179,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "",
+      "name_en": "Donggang Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.9992,
+      "longitude": 129.2914,
+      "wikidata_id": "Q66199409",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66199409"
+    },
+    {
+      "name_ko": "갈천서원",
+      "name_en": "Galcheon Seowon",
+      "admin_area_ko": "고성군",
+      "admin_area_en": "Goseong County",
+      "latitude": 35.048056,
+      "longitude": 128.250556,
+      "wikidata_id": "Q27951707",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27951707"
+    },
+    {
+      "name_ko": "강성서원",
+      "name_en": "Gangseong Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.801389,
+      "longitude": 126.834167,
+      "wikidata_id": "Q55727049",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727049"
+    },
+    {
+      "name_ko": "검암서원",
+      "name_en": "Geomam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.578889,
+      "longitude": 127.569444,
+      "wikidata_id": "Q18566213",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18566213"
+    },
+    {
+      "name_ko": "경현서원",
+      "name_en": "Gyeonghyeonseowon (Naju)",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.066833,
+      "longitude": 126.703914,
+      "wikidata_id": "Q82325617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325617"
+    },
+    {
+      "name_ko": "고산서원",
+      "name_en": "Gosan seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124337038",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124337038"
+    },
+    {
+      "name_ko": "고산서원",
+      "name_en": "Gosan Seowon, Andong",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q5587131",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5587131"
+    },
+    {
+      "name_ko": "고성 도연서원",
+      "name_en": "Goseong Doyeon Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65235625",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65235625"
+    },
+    {
+      "name_ko": "고성 위계서원",
+      "name_en": "Goseong Wigye Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65235999",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65235999"
+    },
+    {
+      "name_ko": "고창 도암서원",
+      "name_en": "Gochang Doam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.377222,
+      "longitude": 126.506667,
+      "wikidata_id": "Q82326814",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326814"
+    },
+    {
+      "name_ko": "구례 방산서원",
+      "name_en": "",
+      "admin_area_ko": "구례군",
+      "admin_area_en": "Gurye County",
+      "latitude": 35.285,
+      "longitude": 127.416111,
+      "wikidata_id": "Q55730166",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730166"
+    },
+    {
+      "name_ko": "구암서원",
+      "name_en": "",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.898333,
+      "longitude": 128.598889,
+      "wikidata_id": "Q16092372",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092372"
+    },
+    {
+      "name_ko": "구연서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.7625,
+      "longitude": 127.830833,
+      "wikidata_id": "Q55727707",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727707"
+    },
+    {
+      "name_ko": "국계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55727730",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727730"
+    },
+    {
+      "name_ko": "군자서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55727761",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727761"
+    },
+    {
+      "name_ko": "규암 부산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55727817",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727817"
+    },
+    {
+      "name_ko": "귤림서원",
+      "name_en": "",
+      "admin_area_ko": "제주특별자치도",
+      "admin_area_en": "Jeju Province",
+      "latitude": 33.510206,
+      "longitude": 126.524833,
+      "wikidata_id": "Q22972981",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22972981"
+    },
+    {
+      "name_ko": "금산 용강서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18230677",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230677"
+    },
+    {
+      "name_ko": "금오서원",
+      "name_en": "Geumoh Seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.227778,
+      "longitude": 128.338611,
+      "wikidata_id": "Q12586528",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12586528"
+    },
+    {
+      "name_ko": "기암서원",
+      "name_en": "Giam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.6575,
+      "longitude": 127.568333,
+      "wikidata_id": "Q55727932",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727932"
+    },
+    {
+      "name_ko": "김천 도동서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61093177",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093177"
+    },
+    {
+      "name_ko": "김포 대포서원",
+      "name_en": "Daepo Seowon",
+      "admin_area_ko": "김포시",
+      "admin_area_en": "Gimpo",
+      "latitude": 37.616944,
+      "longitude": 126.629444,
+      "wikidata_id": "Q55728446",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728446"
+    },
+    {
+      "name_ko": "나주 미천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19939881",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939881"
+    },
+    {
+      "name_ko": "남계서원",
+      "name_en": "Namgye Seowon",
+      "admin_area_ko": "대한민국",
+      "admin_area_en": "South Korea",
+      "latitude": 35.548889,
+      "longitude": 127.783611,
+      "wikidata_id": "Q12589757",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12589757"
+    },
+    {
+      "name_ko": "남고서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094852",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094852"
+    },
+    {
+      "name_ko": "남악서원",
+      "name_en": "Jinju Namak Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.076389,
+      "longitude": 128.172778,
+      "wikidata_id": "Q18052674",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18052674"
+    },
+    {
+      "name_ko": "내산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094700",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094700"
+    },
+    {
+      "name_ko": "덕곡서원",
+      "name_en": "Uiryeong Deokgokseowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16092770",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092770"
+    },
+    {
+      "name_ko": "덕천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19483718",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19483718"
+    },
+    {
+      "name_ko": "도계서원",
+      "name_en": "Dogye Seowon (Yeongcheon)",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12592933",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12592933"
+    },
+    {
+      "name_ko": "도계서원",
+      "name_en": "Dogye Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.638,
+      "longitude": 126.812306,
+      "wikidata_id": "Q17094865",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094865"
+    },
+    {
+      "name_ko": "도계서원",
+      "name_en": "Dogye Seowon (Bonghwa-gun)",
+      "admin_area_ko": "봉화군",
+      "admin_area_en": "Bonghwa County",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61091430",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61091430"
+    },
+    {
+      "name_ko": "도계서원",
+      "name_en": "",
+      "admin_area_ko": "안동시",
+      "admin_area_en": "Andong",
+      "latitude": 36.662222,
+      "longitude": 128.696667,
+      "wikidata_id": "Q82326867",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326867"
+    },
+    {
+      "name_ko": "도동서원 (달성군)",
+      "name_en": "Dalseong Dodong Seowon",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.701242,
+      "longitude": 128.371575,
+      "wikidata_id": "Q12592972",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12592972"
+    },
+    {
+      "name_ko": "도봉서원",
+      "name_en": "",
+      "admin_area_ko": "도봉구",
+      "admin_area_en": "Dobong District",
+      "latitude": 37.688283,
+      "longitude": 127.028592,
+      "wikidata_id": "Q16092799",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092799"
+    },
+    {
+      "name_ko": "도산서원",
+      "name_en": "Goseong Dosan Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.103333,
+      "longitude": 128.334444,
+      "wikidata_id": "Q27951706",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27951706"
+    },
+    {
+      "name_ko": "도산서원",
+      "name_en": "Dosan Seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.727222,
+      "longitude": 128.843333,
+      "wikidata_id": "Q625663",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625663"
+    },
+    {
+      "name_ko": "도원서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55729203",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729203"
+    },
+    {
+      "name_ko": "독성서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55729221",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729221"
+    },
+    {
+      "name_ko": "돈암서원",
+      "name_en": "Donam Seowon",
+      "admin_area_ko": "연산면",
+      "admin_area_en": "Yeonsan-myeon",
+      "latitude": 36.208889,
+      "longitude": 127.180278,
+      "wikidata_id": "Q12593183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12593183"
+    },
+    {
+      "name_ko": "동강서원",
+      "name_en": "",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.999203,
+      "longitude": 129.29164,
+      "wikidata_id": "Q137646556",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137646556"
+    },
+    {
+      "name_ko": "동곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65243268",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65243268"
+    },
+    {
+      "name_ko": "동락서원 강당",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.111389,
+      "longitude": 128.399167,
+      "wikidata_id": "Q20945596",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20945596"
+    },
+    {
+      "name_ko": "동죽서원",
+      "name_en": "",
+      "admin_area_ko": "정읍시",
+      "admin_area_en": "Jeongeup",
+      "latitude": 35.613611,
+      "longitude": 126.818333,
+      "wikidata_id": "Q17094868",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094868"
+    },
+    {
+      "name_ko": "매림서원",
+      "name_en": "Maerim Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.684167,
+      "longitude": 128.224167,
+      "wikidata_id": "Q82341522",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82341522"
+    },
+    {
+      "name_ko": "매산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55729613",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729613"
+    },
+    {
+      "name_ko": "명곡서원",
+      "name_en": "",
+      "admin_area_ko": "강진군",
+      "admin_area_en": "Gangjin County",
+      "latitude": 34.657222,
+      "longitude": 126.846944,
+      "wikidata_id": "Q55729659",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729659"
+    },
+    {
+      "name_ko": "무성서원",
+      "name_en": "Museong Seowon",
+      "admin_area_ko": "칠보면",
+      "admin_area_en": "Chilbo-myeon",
+      "latitude": 35.601944,
+      "longitude": 126.983611,
+      "wikidata_id": "Q12595557",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595557"
+    },
+    {
+      "name_ko": "무양서원",
+      "name_en": "Muyang Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.210139,
+      "longitude": 126.839139,
+      "wikidata_id": "Q19794668",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794668"
+    },
+    {
+      "name_ko": "문헌서원",
+      "name_en": "Munmunseowon",
+      "admin_area_ko": "서천군",
+      "admin_area_en": "Seocheon County",
+      "latitude": 36.091667,
+      "longitude": 126.781389,
+      "wikidata_id": "Q12595845",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595845"
+    },
+    {
+      "name_ko": "미연서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18605127",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18605127"
+    },
+    {
+      "name_ko": "밀양 남계서원",
+      "name_en": "Miryang Namgye Seowon",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.553191,
+      "longitude": 128.616736,
+      "wikidata_id": "Q65249147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65249147"
+    },
+    {
+      "name_ko": "밀양 표충서원",
+      "name_en": "Miryang Pyochung Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.532593,
+      "longitude": 128.959934,
+      "wikidata_id": "Q65249243",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65249243"
+    },
+    {
+      "name_ko": "밀양 혜산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65249246",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65249246"
+    },
+    {
+      "name_ko": "박산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55729993",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729993"
+    },
+    {
+      "name_ko": "반곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094891",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094891"
+    },
+    {
+      "name_ko": "백록서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55730226",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730226"
+    },
+    {
+      "name_ko": "백산서원",
+      "name_en": "Baeksan Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.971667,
+      "longitude": 127.848889,
+      "wikidata_id": "Q12597786",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12597786"
+    },
+    {
+      "name_ko": "백산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17128365",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17128365"
+    },
+    {
+      "name_ko": "병산서원",
+      "name_en": "Byeongsan Seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.54028,
+      "longitude": 128.55278,
+      "wikidata_id": "Q695166",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q695166"
+    },
+    {
+      "name_ko": "보은 상현서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q31179029",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31179029"
+    },
+    {
+      "name_ko": "봉곡서원",
+      "name_en": "",
+      "admin_area_ko": "논산시",
+      "admin_area_en": "Nonsan",
+      "latitude": 36.098333,
+      "longitude": 127.093333,
+      "wikidata_id": "Q55730387",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730387"
+    },
+    {
+      "name_ko": "봉산서원",
+      "name_en": "Bongsan seowon",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.033721,
+      "longitude": 126.851137,
+      "wikidata_id": "Q124059100",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124059100"
+    },
+    {
+      "name_ko": "봉산서원",
+      "name_en": "Bongsan seowon (Pyeongchang)",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124059244",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124059244"
+    },
+    {
+      "name_ko": "봉산서원",
+      "name_en": "Bongsan seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124059309",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124059309"
+    },
+    {
+      "name_ko": "봉산서원",
+      "name_en": "Bongsan seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q124059382",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124059382"
+    },
+    {
+      "name_ko": "봉산서원",
+      "name_en": "Bongsan seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.870957,
+      "longitude": 128.746411,
+      "wikidata_id": "Q124059620",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124059620"
+    },
+    {
+      "name_ko": "봉암서원",
+      "name_en": "Bongam Seowon (Gyeongbuk)",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.587778,
+      "longitude": 128.556944,
+      "wikidata_id": "Q82326850",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326850"
+    },
+    {
+      "name_ko": "분양서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17189467",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17189467"
+    },
+    {
+      "name_ko": "사양서원",
+      "name_en": "",
+      "admin_area_ko": "청송군",
+      "admin_area_en": "Cheongsong County",
+      "latitude": 36.458889,
+      "longitude": 129.032222,
+      "wikidata_id": "Q55737225",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737225"
+    },
+    {
+      "name_ko": "사충서원 및 묘정비",
+      "name_en": "",
+      "admin_area_ko": "하남시",
+      "admin_area_en": "Hanam",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16163975",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16163975"
+    },
+    {
+      "name_ko": "산청 대포서원",
+      "name_en": "Sancheong Daepo Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.465024,
+      "longitude": 127.840525,
+      "wikidata_id": "Q65259252",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65259252"
+    },
+    {
+      "name_ko": "산청 도천서원 신안사재",
+      "name_en": "",
+      "admin_area_ko": "산청군",
+      "admin_area_en": "Sancheong County",
+      "latitude": 35.327099,
+      "longitude": 127.952774,
+      "wikidata_id": "Q65259290",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65259290"
+    },
+    {
+      "name_ko": "산청 안곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61093189",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093189"
+    },
+    {
+      "name_ko": "상의재",
+      "name_en": "Sangjae seowon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.459167,
+      "longitude": 127.4425,
+      "wikidata_id": "Q55737255",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737255"
+    },
+    {
+      "name_ko": "서악서원",
+      "name_en": "Seoak Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.826667,
+      "longitude": 129.188889,
+      "wikidata_id": "Q624305",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624305"
+    },
+    {
+      "name_ko": "석계서원",
+      "name_en": "Seokgyeseowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q20444038",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444038"
+    },
+    {
+      "name_ko": "석실서원",
+      "name_en": "Seoksil Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12601599",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601599"
+    },
+    {
+      "name_ko": "선암서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61095872",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61095872"
+    },
+    {
+      "name_ko": "설봉서원",
+      "name_en": "Seolbong Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55730953",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730953"
+    },
+    {
+      "name_ko": "설재서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q21058563",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21058563"
+    },
+    {
+      "name_ko": "섬계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q22974141",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22974141"
+    },
+    {
+      "name_ko": "성암서원",
+      "name_en": "Seongam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.782222,
+      "longitude": 126.443889,
+      "wikidata_id": "Q16093605",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093605"
+    },
+    {
+      "name_ko": "성주 옥천서원",
+      "name_en": "",
+      "admin_area_ko": "용암면",
+      "admin_area_en": "Yongam-myeon",
+      "latitude": 35.840833,
+      "longitude": 128.2775,
+      "wikidata_id": "Q26745982",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26745982"
+    },
+    {
+      "name_ko": "세도 동곡서원 흥학당",
+      "name_en": "",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.179951,
+      "longitude": 126.931516,
+      "wikidata_id": "Q55731038",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731038"
+    },
+    {
+      "name_ko": "소수서원",
+      "name_en": "Sosu Seowon",
+      "admin_area_ko": "순흥면",
+      "admin_area_en": "Sunheung-myeon",
+      "latitude": 36.925556,
+      "longitude": 128.58,
+      "wikidata_id": "Q625586",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625586"
+    },
+    {
+      "name_ko": "소양서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q21709835",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21709835"
+    },
+    {
+      "name_ko": "송계서원",
+      "name_en": "Songgyeseowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q109534163",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109534163"
+    },
+    {
+      "name_ko": "송곡서원 (충남)",
+      "name_en": "Songgok Seowon (South Chungcheong Province)",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.727778,
+      "longitude": 126.411944,
+      "wikidata_id": "Q55731122",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731122"
+    },
+    {
+      "name_ko": "송담서원",
+      "name_en": "Songdam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65264771",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65264771"
+    },
+    {
+      "name_ko": "송학서원",
+      "name_en": "",
+      "admin_area_ko": "청송군",
+      "admin_area_en": "Cheongsong County",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55731164",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731164"
+    },
+    {
+      "name_ko": "송호서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q21824943",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21824943"
+    },
+    {
+      "name_ko": "수림서원",
+      "name_en": "Goseong Surim Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.061111,
+      "longitude": 128.336667,
+      "wikidata_id": "Q27951705",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27951705"
+    },
+    {
+      "name_ko": "순천 용강서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18230418",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230418"
+    },
+    {
+      "name_ko": "신안서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094948",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094948"
+    },
+    {
+      "name_ko": "신천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q21059100",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21059100"
+    },
+    {
+      "name_ko": "심곡서원",
+      "name_en": "Yongin Simgokseowon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.305833,
+      "longitude": 127.076667,
+      "wikidata_id": "Q12604831",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12604831"
+    },
+    {
+      "name_ko": "쌍천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55731462",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731462"
+    },
+    {
+      "name_ko": "안곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55731569",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731569"
+    },
+    {
+      "name_ko": "안성 덕봉서원",
+      "name_en": "Anseong Deokbong Seowon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.046111,
+      "longitude": 127.192222,
+      "wikidata_id": "Q16092775",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092775"
+    },
+    {
+      "name_ko": "압계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094956",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094956"
+    },
+    {
+      "name_ko": "연동 합호서원",
+      "name_en": "",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094015",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094015"
+    },
+    {
+      "name_ko": "염의서원",
+      "name_en": "Yeomui Seowon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.940278,
+      "longitude": 126.714167,
+      "wikidata_id": "Q82327525",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327525"
+    },
+    {
+      "name_ko": "영주 의산서원",
+      "name_en": "Uisanseowon Confucian Academy",
+      "admin_area_ko": "갈산리",
+      "admin_area_en": "Galsan-ri",
+      "latitude": 36.783056,
+      "longitude": 128.544444,
+      "wikidata_id": "Q24966008",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24966008"
+    },
+    {
+      "name_ko": "영주 이산서원",
+      "name_en": "",
+      "admin_area_ko": "내림리",
+      "admin_area_en": "Naerim-ri",
+      "latitude": 36.815389,
+      "longitude": 128.701083,
+      "wikidata_id": "Q20445100",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445100"
+    },
+    {
+      "name_ko": "영천 용계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24000270",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000270"
+    },
+    {
+      "name_ko": "영천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094963",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094963"
+    },
+    {
+      "name_ko": "예림서원",
+      "name_en": "Yerim Seowon",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.466193,
+      "longitude": 128.727237,
+      "wikidata_id": "Q12073347",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12073347"
+    },
+    {
+      "name_ko": "예연서원",
+      "name_en": "Yeyeon Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094147"
+    },
+    {
+      "name_ko": "오봉서원",
+      "name_en": "Obong Seowon (五峰書院)",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65274452",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65274452"
+    },
+    {
+      "name_ko": "옥계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19794863",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794863"
+    },
+    {
+      "name_ko": "옥동서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094180",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094180"
+    },
+    {
+      "name_ko": "옥병서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55732254",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732254"
+    },
+    {
+      "name_ko": "옥산서원",
+      "name_en": "Oksan Seowon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.011944,
+      "longitude": 129.163611,
+      "wikidata_id": "Q625744",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625744"
+    },
+    {
+      "name_ko": "옥전서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q31179638",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31179638"
+    },
+    {
+      "name_ko": "옥천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19794866",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794866"
+    },
+    {
+      "name_ko": "옥화서원",
+      "name_en": "Sunghyeonsa Temple and Okhwa Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.616667,
+      "longitude": 127.698056,
+      "wikidata_id": "Q55732264",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732264"
+    },
+    {
+      "name_ko": "용연서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094236",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094236"
+    },
+    {
+      "name_ko": "용장서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094992",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094992"
+    },
+    {
+      "name_ko": "용주서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18444372",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444372"
+    },
+    {
+      "name_ko": "우곡서원",
+      "name_en": "Ugok Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.384444,
+      "longitude": 128.675556,
+      "wikidata_id": "Q82328019",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82328019"
+    },
+    {
+      "name_ko": "우저서원",
+      "name_en": "Woojeo Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12608952",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12608952"
+    },
+    {
+      "name_ko": "월정서원",
+      "name_en": "Woljeong Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.067156,
+      "longitude": 126.686861,
+      "wikidata_id": "Q12609485",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609485"
+    },
+    {
+      "name_ko": "유천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095008",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095008"
+    },
+    {
+      "name_ko": "음성 운곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55737658",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737658"
+    },
+    {
+      "name_ko": "의령 태암서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65333991",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65333991"
+    },
+    {
+      "name_ko": "의성명곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82327976",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327976"
+    },
+    {
+      "name_ko": "이양서원",
+      "name_en": "Yiyangseowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65282174",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65282174"
+    },
+    {
+      "name_ko": "임고서원",
+      "name_en": "Imgo Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.016389,
+      "longitude": 128.974167,
+      "wikidata_id": "Q65283959",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65283959"
+    },
+    {
+      "name_ko": "임장서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55733693",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733693"
+    },
+    {
+      "name_ko": "임천 간곡서원",
+      "name_en": "Gangok seowon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.105833,
+      "longitude": 126.543056,
+      "wikidata_id": "Q55733709",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733709"
+    },
+    {
+      "name_ko": "임천서원",
+      "name_en": "Imcheon Seowon, Andong",
+      "admin_area_ko": "안동시",
+      "admin_area_en": "Andong",
+      "latitude": 36.569167,
+      "longitude": 128.679167,
+      "wikidata_id": "Q12060691",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12060691"
+    },
+    {
+      "name_ko": "자계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61095884",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61095884"
+    },
+    {
+      "name_ko": "자운서원",
+      "name_en": "Jaunseowon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.867222,
+      "longitude": 126.871389,
+      "wikidata_id": "Q12614175",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12614175"
+    },
+    {
+      "name_ko": "장대서원",
+      "name_en": "Jangdaeseowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.288611,
+      "longitude": 128.617222,
+      "wikidata_id": "Q82328015",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82328015"
+    },
+    {
+      "name_ko": "장성 고산서원",
+      "name_en": "Jangseong Gosan Seowon",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.272222,
+      "longitude": 126.841944,
+      "wikidata_id": "Q65288255",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65288255"
+    },
+    {
+      "name_ko": "정읍 옥산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17128601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17128601"
+    },
+    {
+      "name_ko": "정읍 용계서원",
+      "name_en": "",
+      "admin_area_ko": "정읍시",
+      "admin_area_en": "Jeongeup",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734144",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734144"
+    },
+    {
+      "name_ko": "조정서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734420",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734420"
+    },
+    {
+      "name_ko": "주봉서원",
+      "name_en": "Jubong Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.759167,
+      "longitude": 126.767778,
+      "wikidata_id": "Q55734498",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734498"
+    },
+    {
+      "name_ko": "주암서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095042",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095042"
+    },
+    {
+      "name_ko": "주천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17128629",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17128629"
+    },
+    {
+      "name_ko": "죽림서원",
+      "name_en": "Jukrim Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65293478",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65293478"
+    },
+    {
+      "name_ko": "죽수서원",
+      "name_en": "Juksu Seowon",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.986389,
+      "longitude": 126.973056,
+      "wikidata_id": "Q55734558",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734558"
+    },
+    {
+      "name_ko": "지천서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734644",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734644"
+    },
+    {
+      "name_ko": "진안 화산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734666",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734666"
+    },
+    {
+      "name_ko": "진주 광제서원",
+      "name_en": "Jinju Gwangje Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65294286",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65294286"
+    },
+    {
+      "name_ko": "창강서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734733",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734733"
+    },
+    {
+      "name_ko": "창계서원",
+      "name_en": "Changgyeseowon (Jeonbuk)",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.663428,
+      "longitude": 127.523244,
+      "wikidata_id": "Q12618590",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618590"
+    },
+    {
+      "name_ko": "창동서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095055",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095055"
+    },
+    {
+      "name_ko": "창주서원",
+      "name_en": "Changju Seowon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.420556,
+      "longitude": 127.395278,
+      "wikidata_id": "Q17095057",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095057"
+    },
+    {
+      "name_ko": "청계서원",
+      "name_en": "Cheonggye Seowon",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12619062",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12619062"
+    },
+    {
+      "name_ko": "청도 용강서원",
+      "name_en": "Yonggang Confucian Academy Chungyeolsa Temple and Tomb Maintenance of 14 Doctors",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18230993",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230993"
+    },
+    {
+      "name_ko": "청송 병암서원",
+      "name_en": "",
+      "admin_area_ko": "청송군",
+      "admin_area_en": "Cheongsong County",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734846",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734846"
+    },
+    {
+      "name_ko": "청주 구계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734867",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734867"
+    },
+    {
+      "name_ko": "청주 신항서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24859811",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24859811"
+    },
+    {
+      "name_ko": "청주 운곡서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55734898",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734898"
+    },
+    {
+      "name_ko": "충렬서원",
+      "name_en": "Chungnyeol Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12620125",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12620125"
+    },
+    {
+      "name_ko": "충주 팔봉서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61093058",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093058"
+    },
+    {
+      "name_ko": "칠산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55735201",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735201"
+    },
+    {
+      "name_ko": "퇴수서원",
+      "name_en": "Tosu Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65303954",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65303954"
+    },
+    {
+      "name_ko": "포천 화산서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24000640",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000640"
+    },
+    {
+      "name_ko": "풍계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095093",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095093"
+    },
+    {
+      "name_ko": "필암서원",
+      "name_en": "Piram Seowon",
+      "admin_area_ko": "황룡면",
+      "admin_area_en": "Hwangnyong-myeon",
+      "latitude": 35.308056,
+      "longitude": 126.750833,
+      "wikidata_id": "Q12622333",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12622333"
+    },
+    {
+      "name_ko": "함안 덕연서원",
+      "name_en": "",
+      "admin_area_ko": "함안군",
+      "admin_area_en": "Haman County",
+      "latitude": 35.296914,
+      "longitude": 128.509274,
+      "wikidata_id": "Q65333708",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65333708"
+    },
+    {
+      "name_ko": "함양 송호서원",
+      "name_en": "Hamyang Songho Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65317617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65317617"
+    },
+    {
+      "name_ko": "합천 덕원서원",
+      "name_en": "Hapcheon Deokwon Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65318217",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65318217"
+    },
+    {
+      "name_ko": "합천 청계서원",
+      "name_en": "Hapcheon Cheonggye Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65318615",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65318615"
+    },
+    {
+      "name_ko": "해망서원",
+      "name_en": "Hamang seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55735917",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735917"
+    },
+    {
+      "name_ko": "행림서원",
+      "name_en": "Haenglim Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65319457",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65319457"
+    },
+    {
+      "name_ko": "호계서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55736029",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736029"
+    },
+    {
+      "name_ko": "호암서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095108",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095108"
+    },
+    {
+      "name_ko": "화동서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82326809",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326809"
+    },
+    {
+      "name_ko": "화산서원",
+      "name_en": "Hwasan Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.414722,
+      "longitude": 128.694167,
+      "wikidata_id": "Q82327931",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327931"
+    },
+    {
+      "name_ko": "화암서원 (전북)",
+      "name_en": "Hwaam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.019444,
+      "longitude": 127.031944,
+      "wikidata_id": "Q55736180",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736180"
+    },
+    {
+      "name_ko": "황강서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17095123",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095123"
+    },
+    {
+      "name_ko": "회연서원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55736259",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55736259"
+    },
+    {
+      "name_ko": "효암서원",
+      "name_en": "Hyoam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.165723,
+      "longitude": 127.189806,
+      "wikidata_id": "Q65324401",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65324401"
+    },
+    {
+      "name_ko": "흥암서원",
+      "name_en": "Sangju Heungam Seowon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12626218",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12626218"
+    }
+  ],
+  "meta": {
+    "title": "한국의 서원 (Korean Seowon — Confucian Academies) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 서원(사립 유교 교육기관) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 179 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국의 서원 (Korean Seowon — Confucian Academies) | ListBase",
+    "seo_description": "다운로드 한국의 서원 (Korean Seowon — Confucian Academies) — 179 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 179 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

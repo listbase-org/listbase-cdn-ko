@@ -1,0 +1,178 @@
+{
+  "id": "ko-cheukjeong-danwi-area",
+  "name": "넓이 단위 (13)",
+  "title": "넓이 단위 (13)",
+  "description": "CLDR ko 로케일의 'area' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "area-acre",
+      "bunryu": "area",
+      "ireum": "에이커",
+      "yakja": "ac",
+      "gan_yakja": "ac",
+      "danwi_paeteon": "{0}에이커",
+      "id": 1
+    },
+    {
+      "unit_code": "area-bu-jp",
+      "bunryu": "area",
+      "ireum": "bu [JP]",
+      "yakja": "bu [JP]",
+      "gan_yakja": "bu [JP]",
+      "danwi_paeteon": "{0} bu [JP]",
+      "id": 2
+    },
+    {
+      "unit_code": "area-cho",
+      "bunryu": "area",
+      "ireum": "cho [JP]",
+      "yakja": "cho [JP]",
+      "gan_yakja": "cho [JP]",
+      "danwi_paeteon": "{0} cho [JP]",
+      "id": 3
+    },
+    {
+      "unit_code": "area-dunam",
+      "bunryu": "area",
+      "ireum": "두남",
+      "yakja": "두남",
+      "gan_yakja": "두남",
+      "danwi_paeteon": "{0}두남",
+      "id": 4
+    },
+    {
+      "unit_code": "area-hectare",
+      "bunryu": "area",
+      "ireum": "헥타르",
+      "yakja": "ha",
+      "gan_yakja": "ha",
+      "danwi_paeteon": "{0}헥타르",
+      "id": 5
+    },
+    {
+      "unit_code": "area-se-jp",
+      "bunryu": "area",
+      "ireum": "se [JP]",
+      "yakja": "se [JP]",
+      "gan_yakja": "se [JP]",
+      "danwi_paeteon": "{0} se [JP]",
+      "id": 6
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "bunryu": "area",
+      "ireum": "제곱센티미터",
+      "yakja": "cm²",
+      "gan_yakja": "cm²",
+      "danwi_paeteon": "{0}제곱센티미터",
+      "id": 7
+    },
+    {
+      "unit_code": "area-square-foot",
+      "bunryu": "area",
+      "ireum": "제곱피트",
+      "yakja": "ft²",
+      "gan_yakja": "ft²",
+      "danwi_paeteon": "{0}제곱피트",
+      "id": 8
+    },
+    {
+      "unit_code": "area-square-inch",
+      "bunryu": "area",
+      "ireum": "제곱인치",
+      "yakja": "in²",
+      "gan_yakja": "in²",
+      "danwi_paeteon": "{0}제곱인치",
+      "id": 9
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "bunryu": "area",
+      "ireum": "제곱킬로미터",
+      "yakja": "km²",
+      "gan_yakja": "km²",
+      "danwi_paeteon": "{0}제곱킬로미터",
+      "id": 10
+    },
+    {
+      "unit_code": "area-square-meter",
+      "bunryu": "area",
+      "ireum": "제곱미터",
+      "yakja": "m²",
+      "gan_yakja": "m²",
+      "danwi_paeteon": "{0}제곱미터",
+      "id": 11
+    },
+    {
+      "unit_code": "area-square-mile",
+      "bunryu": "area",
+      "ireum": "제곱마일",
+      "yakja": "mi²",
+      "gan_yakja": "mi²",
+      "danwi_paeteon": "{0}제곱마일",
+      "id": 12
+    },
+    {
+      "unit_code": "area-square-yard",
+      "bunryu": "area",
+      "ireum": "제곱야드",
+      "yakja": "yd²",
+      "gan_yakja": "yd²",
+      "danwi_paeteon": "{0}제곱야드",
+      "id": 13
+    }
+  ],
+  "meta": {
+    "title": "넓이 단위 (13) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'area' 분류 측정 단위와 한국어 명칭. 포함 13 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "넓이 단위 (13) | ListBase",
+    "seo_description": "다운로드 넓이 단위 (13) — 13 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 13 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

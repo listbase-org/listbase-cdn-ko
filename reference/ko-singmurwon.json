@@ -1,0 +1,146 @@
+{
+  "id": "ko-singmurwon",
+  "name": "대한민국의 식물원 (Botanical Gardens of South Korea)",
+  "title": "대한민국의 식물원 (Botanical Gardens of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 식물원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "남산야외식물원",
+      "name_en": "Namsan Outdoor Botanical Garden",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.542903,
+      "longitude": 126.993668,
+      "wikidata_id": "Q137532905",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137532905"
+    },
+    {
+      "name_ko": "금강식물원",
+      "name_en": "Geumgang Botanical Garden",
+      "admin_area_ko": "금정구",
+      "admin_area_en": "Geumjeong District",
+      "latitude": 35.2215,
+      "longitude": 129.0751,
+      "wikidata_id": "Q137612181",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137612181"
+    },
+    {
+      "name_ko": "산이정원",
+      "name_en": "Sani Garden",
+      "admin_area_ko": "산이면",
+      "admin_area_en": "Sani-myeon",
+      "latitude": 34.70906,
+      "longitude": 126.386477,
+      "wikidata_id": "Q137533339",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137533339"
+    },
+    {
+      "name_ko": "서울식물원",
+      "name_en": "Seoul Botanic Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.572341,
+      "longitude": 126.834475,
+      "wikidata_id": "Q47524353",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47524353"
+    },
+    {
+      "name_ko": "창경궁 대온실",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.583056,
+      "longitude": 126.993889,
+      "wikidata_id": "Q55734734",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734734"
+    },
+    {
+      "name_ko": "안산식물원",
+      "name_en": "Ansan Botanical Garden",
+      "admin_area_ko": "안산시",
+      "admin_area_en": "Ansan",
+      "latitude": 37.314486,
+      "longitude": 126.860833,
+      "wikidata_id": "Q131048230",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131048230"
+    },
+    {
+      "name_ko": "여미지식물원",
+      "name_en": "Yeomiji Botanical Garden",
+      "admin_area_ko": "제주특별자치도",
+      "admin_area_en": "Jeju Province",
+      "latitude": 33.2518,
+      "longitude": 126.415,
+      "wikidata_id": "Q486315",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q486315"
+    },
+    {
+      "name_ko": "한림공원",
+      "name_en": "Hallim Park",
+      "admin_area_ko": "제주특별자치도",
+      "admin_area_en": "Jeju Province",
+      "latitude": 33.388889,
+      "longitude": 126.241667,
+      "wikidata_id": "Q27340793",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340793"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 식물원 (Botanical Gardens of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 식물원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 식물원 (Botanical Gardens of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 식물원 (Botanical Gardens of South Korea) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

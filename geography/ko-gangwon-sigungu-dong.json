@@ -1,0 +1,1576 @@
+{
+  "id": "ko-gangwon-sigungu-dong",
+  "name": "Gangwon 시군구·동읍면 — Gangwon Districts & Neighborhoods",
+  "title": "Gangwon 시군구·동읍면 — Gangwon Districts & Neighborhoods",
+  "description": "Gangwon (강원도) — 시군구 및 동·읍·면 행정 지명 목록 307건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gangwon 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 307,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "강원도",
+      "sigungu": "양구군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양구군",
+      "dong_eup_myeon": "동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양구군",
+      "dong_eup_myeon": "방산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양구군",
+      "dong_eup_myeon": "양구읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양구군",
+      "dong_eup_myeon": "해안면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "갑천면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "강림면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "공근면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "둔내면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "서원면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "안흥면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "우천면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "청일면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "횡성군",
+      "dong_eup_myeon": "횡성읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "금천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "동점동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "문곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "백산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "상사미동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "소도동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "원동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "장성동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "적각동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "조탄동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "창죽동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "철암동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "통동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "하사미동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "혈동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "태백시",
+      "dong_eup_myeon": "황지동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "대관령면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "대화면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "미탄면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "방림면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "봉평면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "용평면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "진부면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "평창군",
+      "dong_eup_myeon": "평창읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "강동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "강문동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "견소동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "구정면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "금학동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "난곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "남문동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "남항진동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "내곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "노암동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "담산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "대전동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "두산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "명주동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "박월동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "병산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "사천면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "성산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "신석동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "안현동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "연곡면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "옥계면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "옥천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "왕산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "용강동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "운산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "운정동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "월호평동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "유산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "유천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "임당동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "입암동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "장현동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "저동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "주문진읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "죽헌동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "지변동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "청량동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "초당동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "포남동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "학동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "홍제동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "강릉시",
+      "dong_eup_myeon": "회산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "내면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "내촌면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "두촌면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "북방면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "서면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "서석면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "홍천읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "홍천군",
+      "dong_eup_myeon": "화촌면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "김삿갓면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "상동읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "수주면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "영월읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "주천면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "중동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "영월군",
+      "dong_eup_myeon": "한반도면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "가곡면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "갈천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "건지동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "근덕면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "근산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "남양동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "노곡면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "당저동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "도경동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "도계읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "등봉동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "마달동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "마평동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "미로면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "사직동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "신기면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "오분동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "오사동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "우지동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "원당동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "원덕읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "읍상동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "읍중동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "자원동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "적노동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "정상동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "정하동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "조비동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "증산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "평전동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "삼척시",
+      "dong_eup_myeon": "하장면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "인제군",
+      "dong_eup_myeon": "기린면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "인제군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "인제군",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "인제군",
+      "dong_eup_myeon": "상남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "인제군",
+      "dong_eup_myeon": "서화면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "인제군",
+      "dong_eup_myeon": "인제읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "괴란동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "구미동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "구호동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "귀운동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "나안동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "단봉동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "달방동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "대구동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "대진동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "동회동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "만우동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "망상동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "묵호진동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "발한동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "부곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "북평동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "비천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "삼화동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "쇄운동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "심곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "어달동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "용정동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "이기동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "이도동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "이로동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "지가동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "지흥동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "천곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "초구동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "추암동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "평릉동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "호현동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "동해시",
+      "dong_eup_myeon": "효가동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양양군",
+      "dong_eup_myeon": "강현면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양양군",
+      "dong_eup_myeon": "서면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양양군",
+      "dong_eup_myeon": "손양면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양양군",
+      "dong_eup_myeon": "양양읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양양군",
+      "dong_eup_myeon": "현남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "양양군",
+      "dong_eup_myeon": "현북면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "근화동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "낙원동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "남산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "동내면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "동산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "봉의동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "북산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "사농동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "사북면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "삼천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "서면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "석사동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "소양로1가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "소양로2가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "소양로3가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "소양로4가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "송암동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "신동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "신동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "신북읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "약사동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "옥천동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "온의동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "요선동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "우두동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "운교동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "조양동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "중도동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "중앙로1가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "중앙로2가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "중앙로3가"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "칠전동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "퇴계동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "효자동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "춘천시",
+      "dong_eup_myeon": "후평동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "간성읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "개천면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "거류면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "거진읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "고성읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "구만면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "대가면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "동해면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "마암면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "삼산면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "상리면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "영오면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "영현면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "죽왕면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "토성면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "하이면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "하일면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "현내면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "회화면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "가현동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "개운동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "관설동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "귀래면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "단계동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "단구동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "명륜동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "무실동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "문막읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "반곡동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "봉산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "부론면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "소초면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "신림면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "우산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "원동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "인동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "일산동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "지정면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "태장동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "판부면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "평원동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "학성동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "행구동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "호저면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "원주시",
+      "dong_eup_myeon": "흥업면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "고한읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "북평면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "사북읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "신동읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "여량면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "임계면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "정선읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "정선군",
+      "dong_eup_myeon": "화암면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "화천군",
+      "dong_eup_myeon": "간동면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "화천군",
+      "dong_eup_myeon": "사내면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "화천군",
+      "dong_eup_myeon": "상서면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "화천군",
+      "dong_eup_myeon": "하남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "화천군",
+      "dong_eup_myeon": "화천읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "금호동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "노학동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "대포동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "도문동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "동명동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "설악동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "영랑동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "장사동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "조양동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "청학동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "속초시",
+      "dong_eup_myeon": "청호동"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "갈말읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "근남면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "근북면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "김화읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "동송읍"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "서면"
+    },
+    {
+      "sido": "강원도",
+      "sigungu": "철원군",
+      "dong_eup_myeon": "철원읍"
+    }
+  ],
+  "meta": {
+    "title": "Gangwon 시군구·동읍면 — Gangwon Districts & Neighborhoods - 무료 다운로드",
+    "description": "Gangwon (강원도) — 시군구 및 동·읍·면 행정 지명 목록 307건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gangwon 편. 필드: sido, sigungu, dong_eup_myeon. 포함 307 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gangwon 시군구·동읍면 — Gangwon Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Gangwon 시군구·동읍면 — Gangwon Districts & Neighborhoods — 307 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 307 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

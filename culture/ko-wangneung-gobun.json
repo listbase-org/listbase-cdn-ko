@@ -1,0 +1,1866 @@
+{
+  "id": "ko-wangneung-gobun",
+  "name": "한국의 능·고분 (Korean Royal Tombs & Ancient Tombs)",
+  "title": "한국의 능·고분 (Korean Royal Tombs & Ancient Tombs)",
+  "description": "위키데이터 기준 대한민국에 위치한 능(왕릉)·고분 등 무덤 유적 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 180,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "",
+      "name_en": "Gwangju Myeonghwa-dong Janggobun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.126089,
+      "longitude": 126.723775,
+      "wikidata_id": "Q20043990",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20043990"
+    },
+    {
+      "name_ko": "",
+      "name_en": "Haenam Yongduri Gobun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.533108,
+      "longitude": 126.590706,
+      "wikidata_id": "Q22125655",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22125655"
+    },
+    {
+      "name_ko": "강화 고천리 고인돌군",
+      "name_en": "Ganghwa Gocheon-ri Dolmen Group",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.741389,
+      "longitude": 126.424722,
+      "wikidata_id": "Q20444550",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444550"
+    },
+    {
+      "name_ko": "강화 교산리 고인돌군",
+      "name_en": "Ganghwa Gyosan-ri Dolmen Group",
+      "admin_area_ko": "강화군",
+      "admin_area_en": "Ganghwa County",
+      "latitude": 37.807018,
+      "longitude": 126.390472,
+      "wikidata_id": "Q65234551",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65234551"
+    },
+    {
+      "name_ko": "강화 내가 오상리 고인돌",
+      "name_en": "Ganghwa Naega Osang-ri Dolmen",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.73,
+      "longitude": 126.401667,
+      "wikidata_id": "Q27952402",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27952402"
+    },
+    {
+      "name_ko": "강화 부근리 고인돌군",
+      "name_en": "Gangwha Bujeong-ri Dolmen Group",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65234567",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65234567"
+    },
+    {
+      "name_ko": "강화 부근리 점골 고인돌",
+      "name_en": "Ganghwa Bujeong-ri Jeomgol Dolmen",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.765833,
+      "longitude": 126.425278,
+      "wikidata_id": "Q27952404",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27952404"
+    },
+    {
+      "name_ko": "강화 부근리 지석묘",
+      "name_en": "Geoseok tomb near Ganghwa-ri",
+      "admin_area_ko": "강화군",
+      "admin_area_en": "Ganghwa County",
+      "latitude": 37.773056,
+      "longitude": 126.4375,
+      "wikidata_id": "Q22973965",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22973965"
+    },
+    {
+      "name_ko": "강화 삼거리 고인돌군",
+      "name_en": "Ganghwa Samgeori Dolmen Group",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55727144",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727144"
+    },
+    {
+      "name_ko": "강화 오상리 고인돌군",
+      "name_en": "Ganghwa Osang-ri Dolmen Group",
+      "admin_area_ko": "강화군",
+      "admin_area_en": "Ganghwa County",
+      "latitude": 37.736087,
+      "longitude": 126.387124,
+      "wikidata_id": "Q65234576",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65234576"
+    },
+    {
+      "name_ko": "거창 개봉 고분",
+      "name_en": "Geochang Gaebong Tomb",
+      "admin_area_ko": "거창군",
+      "admin_area_en": "Geochang County",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65234786",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65234786"
+    },
+    {
+      "name_ko": "검단 대곡동 지석묘군",
+      "name_en": "",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.629167,
+      "longitude": 126.6575,
+      "wikidata_id": "Q65234950",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65234950"
+    },
+    {
+      "name_ko": "경산 임당동과 조영동 고분군",
+      "name_en": "",
+      "admin_area_ko": "경산시",
+      "admin_area_en": "Gyeongsan",
+      "latitude": 35.839975,
+      "longitude": 128.749671,
+      "wikidata_id": "Q19940912",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940912"
+    },
+    {
+      "name_ko": "경순왕 경천묘",
+      "name_en": "Tomb of King Gyeongsun",
+      "admin_area_ko": "원주시",
+      "admin_area_en": "Wonju",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q82326748",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326748"
+    },
+    {
+      "name_ko": "경주 경덕왕릉",
+      "name_en": "Tomb of King Gyeongdeok",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.763056,
+      "longitude": 129.187222,
+      "wikidata_id": "Q16092203",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092203"
+    },
+    {
+      "name_ko": "경주 경애왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24857083",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24857083"
+    },
+    {
+      "name_ko": "경주 구정동 방형분",
+      "name_en": "Gujeong-dong Square Tomb",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.778333,
+      "longitude": 129.296944,
+      "wikidata_id": "Q16092212",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092212"
+    },
+    {
+      "name_ko": "경주 금척리 고분군",
+      "name_en": "Gyeongju Geumcheok-ri Ancient Tombs",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.833333,
+      "longitude": 129.12,
+      "wikidata_id": "Q16095309",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095309"
+    },
+    {
+      "name_ko": "경주 문성왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18381053",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18381053"
+    },
+    {
+      "name_ko": "경주 미추왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16093047",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093047"
+    },
+    {
+      "name_ko": "경주 법흥왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16093183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093183"
+    },
+    {
+      "name_ko": "경주 선덕여왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24861394",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24861394"
+    },
+    {
+      "name_ko": "경주 신무왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q27953412",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27953412"
+    },
+    {
+      "name_ko": "경주 신문왕릉",
+      "name_en": "Tomb of King Sinmun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24857090",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24857090"
+    },
+    {
+      "name_ko": "경주 원성왕릉 석상 및 석주일괄",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16092226",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092226"
+    },
+    {
+      "name_ko": "경주 일성왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094438",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094438"
+    },
+    {
+      "name_ko": "경주 전 민애왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q27953418",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27953418"
+    },
+    {
+      "name_ko": "경주 정강왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q27953414",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27953414"
+    },
+    {
+      "name_ko": "경주 지마왕릉",
+      "name_en": "Tomb of King Jima, Gyeongju",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24857064",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24857064"
+    },
+    {
+      "name_ko": "경주 진지왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18381337",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18381337"
+    },
+    {
+      "name_ko": "경주 진평왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24857091",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24857091"
+    },
+    {
+      "name_ko": "경주 탈해왕릉",
+      "name_en": "Tomb of King Talhae, Gyeongju",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16095890",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095890"
+    },
+    {
+      "name_ko": "경주 헌강왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q27953415",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27953415"
+    },
+    {
+      "name_ko": "경주 헌안왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16096112",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096112"
+    },
+    {
+      "name_ko": "경주 황성동 고분",
+      "name_en": "",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.867222,
+      "longitude": 129.211389,
+      "wikidata_id": "Q23995033",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23995033"
+    },
+    {
+      "name_ko": "경주 효공왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24857106",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24857106"
+    },
+    {
+      "name_ko": "경주 효소왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q27953411",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27953411"
+    },
+    {
+      "name_ko": "경주 희강왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19939317",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939317"
+    },
+    {
+      "name_ko": "경주간묘",
+      "name_en": "Gyeongju Ganmyo",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.864485,
+      "longitude": 129.21233,
+      "wikidata_id": "Q65235310",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65235310"
+    },
+    {
+      "name_ko": "계성고분군",
+      "name_en": "",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.482167,
+      "longitude": 128.51025,
+      "wikidata_id": "Q20444485",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444485"
+    },
+    {
+      "name_ko": "고창 죽림리 지석묘군",
+      "name_en": "Jiseok Tombs in Jukrim-ri, Gochang",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.4475,
+      "longitude": 126.646111,
+      "wikidata_id": "Q27952407",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27952407"
+    },
+    {
+      "name_ko": "고창 화순 강화 고인돌 유적",
+      "name_en": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 34.96667,
+      "longitude": 126.92917,
+      "wikidata_id": "Q495286",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q495286"
+    },
+    {
+      "name_ko": "곤릉",
+      "name_en": "Ganghwa Gonreung",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.670556,
+      "longitude": 126.457222,
+      "wikidata_id": "Q19794504",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19794504"
+    },
+    {
+      "name_ko": "공릉",
+      "name_en": "Gongneung",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.746389,
+      "longitude": 126.828889,
+      "wikidata_id": "Q12584653",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584653"
+    },
+    {
+      "name_ko": "공주 단지리 고분군",
+      "name_en": "Gongju Danjiri Tombs",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16092647",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092647"
+    },
+    {
+      "name_ko": "공주 초봉리 고인돌",
+      "name_en": "Gongju Chobong-ri Dolmen",
+      "admin_area_ko": "공주시",
+      "admin_area_en": "Gongju",
+      "latitude": 36.376667,
+      "longitude": 127.071944,
+      "wikidata_id": "Q55727524",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727524"
+    },
+    {
+      "name_ko": "광명 가학동 지석묘",
+      "name_en": "Dolmen in Gahak-dong",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.408333,
+      "longitude": 126.856667,
+      "wikidata_id": "Q55727570",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727570"
+    },
+    {
+      "name_ko": "광명 철산동 지석묘",
+      "name_en": "Gwangmyeong Cheolsan-dong Stone Tomb",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.4775,
+      "longitude": 126.864444,
+      "wikidata_id": "Q55727573",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727573"
+    },
+    {
+      "name_ko": "광양 지곡리 각비 고인돌군",
+      "name_en": "Gwangyang Jigok-ri dolmen group",
+      "admin_area_ko": "광양시",
+      "admin_area_en": "Gwangyang",
+      "latitude": 34.991944,
+      "longitude": 127.576111,
+      "wikidata_id": "Q55727591",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727591"
+    },
+    {
+      "name_ko": "광주 삼거동 고인돌군",
+      "name_en": "Gwangju Samgeo-dong Dolmen Group",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.152222,
+      "longitude": 126.6725,
+      "wikidata_id": "Q55727608",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727608"
+    },
+    {
+      "name_ko": "광주 월계동 장고분",
+      "name_en": "Gwangju Wolgye-dong Janggobun",
+      "admin_area_ko": "첨단동",
+      "admin_area_en": "Cheomdan-dong",
+      "latitude": 35.214167,
+      "longitude": 126.841944,
+      "wikidata_id": "Q16094290",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094290"
+    },
+    {
+      "name_ko": "구암 한백겸 묘 및 신도비",
+      "name_en": "tomb and memorial stele of Han Baek-gyeom",
+      "admin_area_ko": "강천면",
+      "admin_area_en": "Gangcheon-myeon",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65237294",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65237294"
+    },
+    {
+      "name_ko": "국곡리 고인돌",
+      "name_en": "Sejong Gukgok-ri Dolmen",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18328455",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18328455"
+    },
+    {
+      "name_ko": "권율장군묘",
+      "name_en": "Tomb of General Kwon Yul",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.733611,
+      "longitude": 126.949722,
+      "wikidata_id": "Q16725539",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16725539"
+    },
+    {
+      "name_ko": "금산 용화리 고인돌",
+      "name_en": "Geumsan Yonghwa-ri Dolmen",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.098056,
+      "longitude": 127.581667,
+      "wikidata_id": "Q65332388",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65332388"
+    },
+    {
+      "name_ko": "금산 천내리 고인돌",
+      "name_en": "Geumsan Cheonnae-ri Dolmen",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.11,
+      "longitude": 127.5725,
+      "wikidata_id": "Q65332382",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65332382"
+    },
+    {
+      "name_ko": "김명원 선생 묘 및 신도비",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55728074",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728074"
+    },
+    {
+      "name_ko": "김양묘",
+      "name_en": "",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.825,
+      "longitude": 129.189444,
+      "wikidata_id": "Q65238765",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65238765"
+    },
+    {
+      "name_ko": "김유신묘",
+      "name_en": "Tomb of General Kim Yusin",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.845556,
+      "longitude": 129.188611,
+      "wikidata_id": "Q6680259",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6680259"
+    },
+    {
+      "name_ko": "김인문묘",
+      "name_en": "Kim In-mun's Tomb",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.825,
+      "longitude": 129.189444,
+      "wikidata_id": "Q12588402",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12588402"
+    },
+    {
+      "name_ko": "김자지 선생 묘",
+      "name_en": "tomb of Jaji Kim",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55728299",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728299"
+    },
+    {
+      "name_ko": "김해 무계리 지석묘",
+      "name_en": "",
+      "admin_area_ko": "김해시",
+      "admin_area_en": "Gimhae",
+      "latitude": 35.198889,
+      "longitude": 128.813333,
+      "wikidata_id": "Q55728476",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728476"
+    },
+    {
+      "name_ko": "김해 사충단",
+      "name_en": "",
+      "admin_area_ko": "김해시",
+      "admin_area_en": "Gimhae",
+      "latitude": 35.244167,
+      "longitude": 128.886667,
+      "wikidata_id": "Q20445153",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445153"
+    },
+    {
+      "name_ko": "나주 노동리 고인돌",
+      "name_en": "",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q125760089",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125760089"
+    },
+    {
+      "name_ko": "남면 내곡리 고인돌",
+      "name_en": "Buyeo Naegok-ri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.122778,
+      "longitude": 126.473889,
+      "wikidata_id": "Q55728638",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728638"
+    },
+    {
+      "name_ko": "남면 송암리 고인돌군",
+      "name_en": "Buyeo Songam-ri Dolmen Group",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.130556,
+      "longitude": 126.494444,
+      "wikidata_id": "Q55728640",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728640"
+    },
+    {
+      "name_ko": "남해 다정리 지석묘",
+      "name_en": "",
+      "admin_area_ko": "남해군",
+      "admin_area_en": "Namhae County",
+      "latitude": 34.815793,
+      "longitude": 127.923603,
+      "wikidata_id": "Q65239899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65239899"
+    },
+    {
+      "name_ko": "내물왕릉",
+      "name_en": "Tomb of King Naemul",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12590172",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12590172"
+    },
+    {
+      "name_ko": "노포동 고분군",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q20651698",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20651698"
+    },
+    {
+      "name_ko": "대구 불로동 고분군",
+      "name_en": "Bullodong Tumuli in Daegu",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.915278,
+      "longitude": 128.644167,
+      "wikidata_id": "Q320551",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q320551"
+    },
+    {
+      "name_ko": "덕흥대원군묘",
+      "name_en": "Deokheung Daewongun Tomb",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q483722",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483722"
+    },
+    {
+      "name_ko": "도응선생묘일원",
+      "name_en": "",
+      "admin_area_ko": "예산군",
+      "admin_area_en": "Yesan County",
+      "latitude": 36.649444,
+      "longitude": 126.755,
+      "wikidata_id": "Q61092137",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61092137"
+    },
+    {
+      "name_ko": "둔촌 이집 묘역",
+      "name_en": "tomb of Yi Jip",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16092885",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092885"
+    },
+    {
+      "name_ko": "류사눌 묘",
+      "name_en": "Ryusanul Tomb",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.558333,
+      "longitude": 126.641667,
+      "wikidata_id": "Q55729459",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729459"
+    },
+    {
+      "name_ko": "명릉",
+      "name_en": "Myeongneung",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.630556,
+      "longitude": 126.895278,
+      "wikidata_id": "Q16165617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16165617"
+    },
+    {
+      "name_ko": "명빈묘",
+      "name_en": "",
+      "admin_area_ko": "구리시",
+      "admin_area_en": "Guri",
+      "latitude": 37.571494,
+      "longitude": 127.116611,
+      "wikidata_id": "Q27951401",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27951401"
+    },
+    {
+      "name_ko": "목릉",
+      "name_en": "Mongneung",
+      "admin_area_ko": "구리시",
+      "admin_area_en": "Guri",
+      "latitude": 37.625556,
+      "longitude": 127.133333,
+      "wikidata_id": "Q12595356",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595356"
+    },
+    {
+      "name_ko": "무령왕릉",
+      "name_en": "Tomb of King Muryeong",
+      "admin_area_ko": "공주시",
+      "admin_area_en": "Gongju",
+      "latitude": 36.460556,
+      "longitude": 127.112778,
+      "wikidata_id": "Q7818619",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7818619"
+    },
+    {
+      "name_ko": "무열왕릉",
+      "name_en": "Tomb of King Muyeol",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.8251,
+      "longitude": 129.1859,
+      "wikidata_id": "Q16092975",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092975"
+    },
+    {
+      "name_ko": "문무왕릉",
+      "name_en": "Tomb of Munmu of Silla",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.738191,
+      "longitude": 129.484649,
+      "wikidata_id": "Q16094759",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094759"
+    },
+    {
+      "name_ko": "문희공 유창 묘역",
+      "name_en": "tomb of Munhuigong Yu Chang",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12595908",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595908"
+    },
+    {
+      "name_ko": "민영환선생묘",
+      "name_en": "",
+      "admin_area_ko": "용인시",
+      "admin_area_en": "Yongin",
+      "latitude": 37.298056,
+      "longitude": 127.114444,
+      "wikidata_id": "Q16725558",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16725558"
+    },
+    {
+      "name_ko": "바우덕이(김암덕)묘",
+      "name_en": "Tomb of Baudeogi",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55729940",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55729940"
+    },
+    {
+      "name_ko": "박진장군 묘",
+      "name_en": "Tomb of Bak Jin",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.020833,
+      "longitude": 126.901944,
+      "wikidata_id": "Q12597218",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12597218"
+    },
+    {
+      "name_ko": "백천장선생묘",
+      "name_en": "",
+      "admin_area_ko": "화성시",
+      "admin_area_en": "Hwaseong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65250514",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65250514"
+    },
+    {
+      "name_ko": "변종인 신도비",
+      "name_en": "Byeong-in’s tomb and shrine",
+      "admin_area_ko": "부천시",
+      "admin_area_en": "Bucheon",
+      "latitude": 37.529444,
+      "longitude": 126.825556,
+      "wikidata_id": "Q12598210",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598210"
+    },
+    {
+      "name_ko": "부안 구암리 지석묘군",
+      "name_en": "Dolmens in Guam-ri, Buan",
+      "admin_area_ko": "부안군",
+      "admin_area_en": "Buan County",
+      "latitude": 35.708361,
+      "longitude": 126.65375,
+      "wikidata_id": "Q19940026",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940026"
+    },
+    {
+      "name_ko": "부여 나복리 고인돌",
+      "name_en": "Buyeo Nabok-ri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.171389,
+      "longitude": 126.505278,
+      "wikidata_id": "Q55730453",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730453"
+    },
+    {
+      "name_ko": "부여 산직리 지석묘",
+      "name_en": "",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.252778,
+      "longitude": 127.036111,
+      "wikidata_id": "Q31177488",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31177488"
+    },
+    {
+      "name_ko": "부여 오량리 고인돌",
+      "name_en": "Buyeo Oryang-ri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.0825,
+      "longitude": 126.521944,
+      "wikidata_id": "Q55730461",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730461"
+    },
+    {
+      "name_ko": "부여 태양리 고인돌군",
+      "name_en": "Buyeo Taeyang-ri Dolmen Group",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.255,
+      "longitude": 126.810556,
+      "wikidata_id": "Q55730469",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730469"
+    },
+    {
+      "name_ko": "부여 함양리 고인돌",
+      "name_en": "Buyeo Hamyang-ri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.181667,
+      "longitude": 126.525,
+      "wikidata_id": "Q55730470",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730470"
+    },
+    {
+      "name_ko": "부용산 윤영렬 묘역",
+      "name_en": "Buyong-san Haepyeong Yoon clan tombs",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12598960",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598960"
+    },
+    {
+      "name_ko": "비래동 고인돌",
+      "name_en": "Birae-dong Dolmen Group",
+      "admin_area_ko": "대덕구",
+      "admin_area_en": "Daedeok District",
+      "latitude": 36.367222,
+      "longitude": 127.448333,
+      "wikidata_id": "Q19657287",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19657287"
+    },
+    {
+      "name_ko": "사천 조명군총",
+      "name_en": "",
+      "admin_area_ko": "사천시",
+      "admin_area_en": "Sacheon",
+      "latitude": 35.041389,
+      "longitude": 128.047778,
+      "wikidata_id": "Q12599877",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599877"
+    },
+    {
+      "name_ko": "산청 전 구형왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16094810",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094810"
+    },
+    {
+      "name_ko": "삼거리 천곡 고인돌",
+      "name_en": "Samgeori Cheongok Dolmen",
+      "admin_area_ko": "강화군",
+      "admin_area_en": "Ganghwa County",
+      "latitude": 37.759174,
+      "longitude": 126.406636,
+      "wikidata_id": "Q82325586",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82325586"
+    },
+    {
+      "name_ko": "삼척 공양왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16093444",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093444"
+    },
+    {
+      "name_ko": "서울 석촌동 고분군",
+      "name_en": "Seoul Seokchon-dong Gobungun",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.503731,
+      "longitude": 127.102203,
+      "wikidata_id": "Q12601105",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601105"
+    },
+    {
+      "name_ko": "서울 여운형 묘소",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.656944,
+      "longitude": 127.011944,
+      "wikidata_id": "Q21824930",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21824930"
+    },
+    {
+      "name_ko": "서울 이준 묘소",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.641583,
+      "longitude": 126.998861,
+      "wikidata_id": "Q16978672",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978672"
+    },
+    {
+      "name_ko": "석성 석성리 고인돌군",
+      "name_en": "Seokseong Seokseong-ri Dolmen Group",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.225278,
+      "longitude": 126.990278,
+      "wikidata_id": "Q55730910",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55730910"
+    },
+    {
+      "name_ko": "성덕왕릉",
+      "name_en": "Tomb of King Seongdeok",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.787778,
+      "longitude": 129.281667,
+      "wikidata_id": "Q16093598",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093598"
+    },
+    {
+      "name_ko": "성덕왕릉귀부",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61095899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61095899"
+    },
+    {
+      "name_ko": "성삼문의 묘",
+      "name_en": "Tomb of Seong Sammun",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.122706,
+      "longitude": 127.182675,
+      "wikidata_id": "Q65263093",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65263093"
+    },
+    {
+      "name_ko": "성안공 상진 묘역",
+      "name_en": "Graveyard for Lord Seongan Sang Jin",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19940165",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940165"
+    },
+    {
+      "name_ko": "세도 귀덕리 고인돌",
+      "name_en": "Buyeo Gwideok-ri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.101389,
+      "longitude": 126.581389,
+      "wikidata_id": "Q55731036",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731036"
+    },
+    {
+      "name_ko": "소령원",
+      "name_en": "Paju Soryeongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q27952479",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27952479"
+    },
+    {
+      "name_ko": "송기수의 묘역",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19657313",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19657313"
+    },
+    {
+      "name_ko": "송응서의 묘역",
+      "name_en": "Song Eung-seo's gravesite",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18013508",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18013508"
+    },
+    {
+      "name_ko": "수산리 고분",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12603183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603183"
+    },
+    {
+      "name_ko": "숙의 나주 나씨 묘역 및 묘비",
+      "name_en": "Naju Na Clan Cemetery and Tombstone",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.283889,
+      "longitude": 127.496111,
+      "wikidata_id": "Q55737361",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55737361"
+    },
+    {
+      "name_ko": "순흥 안씨 양도공파 묘군",
+      "name_en": "Tombs of the Sunheungan Clan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.458056,
+      "longitude": 126.908333,
+      "wikidata_id": "Q12603489",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603489"
+    },
+    {
+      "name_ko": "숭인원",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.588333,
+      "longitude": 127.043611,
+      "wikidata_id": "Q12603531",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603531"
+    },
+    {
+      "name_ko": "신라경순왕릉",
+      "name_en": "Tomb of King Gyeongsun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.991111,
+      "longitude": 126.842222,
+      "wikidata_id": "Q12604220",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12604220"
+    },
+    {
+      "name_ko": "신라진지문성왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18381153",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18381153"
+    },
+    {
+      "name_ko": "실직군왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55731419",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731419"
+    },
+    {
+      "name_ko": "안양 자유공원 지석묘",
+      "name_en": "Jayu Park Stone Tomb",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.380278,
+      "longitude": 126.9625,
+      "wikidata_id": "Q61090985",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61090985"
+    },
+    {
+      "name_ko": "양산 고분군",
+      "name_en": "",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24887563",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24887563"
+    },
+    {
+      "name_ko": "양산 북정리 고분군",
+      "name_en": "Ancient Tombs in Bukjeong-ri, Yangsan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.356389,
+      "longitude": 129.049722,
+      "wikidata_id": "Q20444771",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444771"
+    },
+    {
+      "name_ko": "양산 삼호리 고분군",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q21709998",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21709998"
+    },
+    {
+      "name_ko": "양산 신기리 고분군",
+      "name_en": "Ancient Tombs in Singi-ri, Yangsan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.347222,
+      "longitude": 129.065833,
+      "wikidata_id": "Q20444784",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444784"
+    },
+    {
+      "name_ko": "양산 중부동 고분군",
+      "name_en": "Ancient Tombs in Jungbu-dong, Yangsan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.340556,
+      "longitude": 129.045556,
+      "wikidata_id": "Q20444792",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20444792"
+    },
+    {
+      "name_ko": "연천 양원리 고인돌",
+      "name_en": "Yeoncheon Yangwon-ri Dolmen",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.095,
+      "longitude": 127.073333,
+      "wikidata_id": "Q55731994",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731994"
+    },
+    {
+      "name_ko": "연천 차탄리 고인돌",
+      "name_en": "Yeoncheon Chatan-ri Dolmen",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.095,
+      "longitude": 127.073333,
+      "wikidata_id": "Q55731996",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731996"
+    },
+    {
+      "name_ko": "연천 학곡리 고인돌",
+      "name_en": "Yeoncheon Hakgok-ri Dolmen",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.989476,
+      "longitude": 126.94513,
+      "wikidata_id": "Q65273694",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65273694"
+    },
+    {
+      "name_ko": "영암태간리자라봉고분",
+      "name_en": "Yeongam Taegan-ri Jarabong Gobun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.849656,
+      "longitude": 126.612433,
+      "wikidata_id": "Q24891900",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24891900"
+    },
+    {
+      "name_ko": "영회원",
+      "name_en": "",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.439394,
+      "longitude": 126.859972,
+      "wikidata_id": "Q12607584",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12607584"
+    },
+    {
+      "name_ko": "영휘원",
+      "name_en": "Yeonghwiwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.588333,
+      "longitude": 127.043611,
+      "wikidata_id": "Q16094134",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094134"
+    },
+    {
+      "name_ko": "오산 금암리 지석묘군",
+      "name_en": "Osan Dolmen Park",
+      "admin_area_ko": "오산시",
+      "admin_area_en": "Osan",
+      "latitude": 37.172907,
+      "longitude": 127.047274,
+      "wikidata_id": "Q55732177",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732177"
+    },
+    {
+      "name_ko": "오산 외삼미동 고인돌",
+      "name_en": "Osan Oesammi-dong Dolmen",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.188889,
+      "longitude": 127.054167,
+      "wikidata_id": "Q55732178",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732178"
+    },
+    {
+      "name_ko": "옥대고인돌군",
+      "name_en": "Okdae Dolmen",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.441324,
+      "longitude": 126.286729,
+      "wikidata_id": "Q65275863",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65275863"
+    },
+    {
+      "name_ko": "옥산 안서리 고인돌",
+      "name_en": "Buyeo Anseori Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.111944,
+      "longitude": 126.435556,
+      "wikidata_id": "Q55732255",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732255"
+    },
+    {
+      "name_ko": "옥천 석탄리 고인돌",
+      "name_en": "Okcheon Taenan-ri Dolmen",
+      "admin_area_ko": "옥천군",
+      "admin_area_en": "Okcheon County",
+      "latitude": 36.319444,
+      "longitude": 127.617778,
+      "wikidata_id": "Q19940563",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940563"
+    },
+    {
+      "name_ko": "완도 읍리 지석묘",
+      "name_en": "Wando Eup-ri Dolmen",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q55732283",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732283"
+    },
+    {
+      "name_ko": "용인 보정동 고분군",
+      "name_en": "Ancient Tombs in Bojeong-dong, Yongin",
+      "admin_area_ko": "용인시",
+      "admin_area_en": "Yongin",
+      "latitude": 37.295833,
+      "longitude": 127.095833,
+      "wikidata_id": "Q20445323",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445323"
+    },
+    {
+      "name_ko": "용인 왕산리 지석묘",
+      "name_en": "Dolmen in Wangsan-ri, Yongin",
+      "admin_area_ko": "용인시",
+      "admin_area_en": "Yongin",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q28698679",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28698679"
+    },
+    {
+      "name_ko": "원성왕릉",
+      "name_en": "Tomb of King Wonseong",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.758056,
+      "longitude": 129.319444,
+      "wikidata_id": "Q12609307",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12609307"
+    },
+    {
+      "name_ko": "융건릉",
+      "name_en": "Yungneung and Geolleung",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.2122,
+      "longitude": 126.991,
+      "wikidata_id": "Q626306",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q626306"
+    },
+    {
+      "name_ko": "음성 양덕리 고인돌",
+      "name_en": "Eumseong Yangdeok-ri Dolmen",
+      "admin_area_ko": "음성군",
+      "admin_area_en": "Eumseong County",
+      "latitude": 37.044444,
+      "longitude": 127.487778,
+      "wikidata_id": "Q55733018",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733018"
+    },
+    {
+      "name_ko": "의성 금성산 고분군",
+      "name_en": "",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.274444,
+      "longitude": 128.671389,
+      "wikidata_id": "Q21059841",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21059841"
+    },
+    {
+      "name_ko": "이건창 묘",
+      "name_en": "Lee Geon-chang's tomb",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.679167,
+      "longitude": 126.403611,
+      "wikidata_id": "Q65281135",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65281135"
+    },
+    {
+      "name_ko": "이규보 묘",
+      "name_en": "Lee Gyu-bo's Tomb",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.668056,
+      "longitude": 126.484444,
+      "wikidata_id": "Q61094333",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61094333"
+    },
+    {
+      "name_ko": "이원익 선생 묘 및 신도비",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q28700654",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28700654"
+    },
+    {
+      "name_ko": "이항복 선생 묘",
+      "name_en": "tomb of Yi Hang-bok",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65283161",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65283161"
+    },
+    {
+      "name_ko": "인천 문학동 고인돌",
+      "name_en": "Incheon Munhak-dong Dolmen",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.444722,
+      "longitude": 126.670833,
+      "wikidata_id": "Q82326074",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326074"
+    },
+    {
+      "name_ko": "인천 주안동 고인돌",
+      "name_en": "Juan-dong Dolmen",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.444722,
+      "longitude": 126.670833,
+      "wikidata_id": "Q82326071",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82326071"
+    },
+    {
+      "name_ko": "장릉",
+      "name_en": "Jangneung",
+      "admin_area_ko": "문산읍",
+      "admin_area_en": "Munsan",
+      "latitude": 37.773592,
+      "longitude": 126.708072,
+      "wikidata_id": "Q12614441",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12614441"
+    },
+    {
+      "name_ko": "장릉",
+      "name_en": "Jangneung",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.1974,
+      "longitude": 128.453125,
+      "wikidata_id": "Q6786247",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6786247"
+    },
+    {
+      "name_ko": "장암 북고리 고인돌",
+      "name_en": "Jangam Bukgori Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.142222,
+      "longitude": 126.561111,
+      "wikidata_id": "Q55733815",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55733815"
+    },
+    {
+      "name_ko": "전 고령가야왕릉",
+      "name_en": "Tomb of King Goryeong Gaya",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65289224",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65289224"
+    },
+    {
+      "name_ko": "전 사벌왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18648479",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648479"
+    },
+    {
+      "name_ko": "정몽주선생묘",
+      "name_en": "Tomb of Jeong Mongju",
+      "admin_area_ko": "모현읍",
+      "admin_area_en": "Mohyeon-eup",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16725589",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16725589"
+    },
+    {
+      "name_ko": "증평 송정리 고인돌",
+      "name_en": "Jeungpyeong Songjeong-ri Dolmen",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.500833,
+      "longitude": 127.3625,
+      "wikidata_id": "Q55734606",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734606"
+    },
+    {
+      "name_ko": "진흥왕릉",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12618413",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618413"
+    },
+    {
+      "name_ko": "창녕 교동과 송현동 고분군",
+      "name_en": "Changnyeong Gyo-dong and Songhyeon-dong Tumuli",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.546389,
+      "longitude": 128.503333,
+      "wikidata_id": "Q20445103",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445103"
+    },
+    {
+      "name_ko": "창원 상남동 지석묘",
+      "name_en": "Changwon Sangnamji Stone Tomb",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.220611,
+      "longitude": 128.682667,
+      "wikidata_id": "Q55734745",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734745"
+    },
+    {
+      "name_ko": "청주 가호리 고인돌",
+      "name_en": "Cheongju Gahori Dolmen",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.508611,
+      "longitude": 127.491389,
+      "wikidata_id": "Q55734863",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734863"
+    },
+    {
+      "name_ko": "청주 내산리 고인돌",
+      "name_en": "Naesan-ri Dolmen",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.640833,
+      "longitude": 127.656111,
+      "wikidata_id": "Q55734870",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734870"
+    },
+    {
+      "name_ko": "청주 박광우 묘소",
+      "name_en": "",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.574444,
+      "longitude": 127.449167,
+      "wikidata_id": "Q61093145",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093145"
+    },
+    {
+      "name_ko": "청주 수산리 고인돌",
+      "name_en": "Cheongju Susan-ri Dolmen",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.508611,
+      "longitude": 127.491389,
+      "wikidata_id": "Q55734883",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734883"
+    },
+    {
+      "name_ko": "청주 최석정 묘소",
+      "name_en": "Tomb of Choi Seok-jeong",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q65296281",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65296281"
+    },
+    {
+      "name_ko": "청주 학평리 고인돌",
+      "name_en": "Cheongju Hakpyeong-ri Dolmen",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.508611,
+      "longitude": 127.491389,
+      "wikidata_id": "Q55734908",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734908"
+    },
+    {
+      "name_ko": "최영 장군 묘",
+      "name_en": "Tomb of General Choi Young",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q24864151",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24864151"
+    },
+    {
+      "name_ko": "최익현선생묘",
+      "name_en": "Choi Ik-Hyeon's Tomb",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.575494,
+      "longitude": 126.782388,
+      "wikidata_id": "Q18551270",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18551270"
+    },
+    {
+      "name_ko": "춘천 발산리 고인돌군",
+      "name_en": "Chuncheon Balsan-ri Dolmen Group",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.962778,
+      "longitude": 127.760833,
+      "wikidata_id": "Q82327330",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82327330"
+    },
+    {
+      "name_ko": "충주 신청리 고인돌",
+      "name_en": "Chungju Cheongwon-ri Dolmen",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 37.009722,
+      "longitude": 127.734167,
+      "wikidata_id": "Q61093095",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61093095"
+    },
+    {
+      "name_ko": "충주 조동리 고인돌",
+      "name_en": "Chungju Jodong-ri Dolmen",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 37.030333,
+      "longitude": 127.974194,
+      "wikidata_id": "Q22975133",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22975133"
+    },
+    {
+      "name_ko": "충화 지석리 고인돌",
+      "name_en": "Chunghwa Jiseok-ri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.110833,
+      "longitude": 126.475833,
+      "wikidata_id": "Q55735180",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735180"
+    },
+    {
+      "name_ko": "충화 현미리 고인돌",
+      "name_en": "Chunghwa Hyeonmiri Dolmen",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.091944,
+      "longitude": 126.5,
+      "wikidata_id": "Q55735183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55735183"
+    },
+    {
+      "name_ko": "파주 윤관장군묘",
+      "name_en": "",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.768056,
+      "longitude": 126.855,
+      "wikidata_id": "Q24700199",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24700199"
+    },
+    {
+      "name_ko": "함안 말이산 고분군",
+      "name_en": "Haman Marisan Tumuli",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.273611,
+      "longitude": 128.404722,
+      "wikidata_id": "Q20445617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20445617"
+    },
+    {
+      "name_ko": "함평 예덕리 신덕 고분군",
+      "name_en": "Hampyeong Yedeok-ri Sindeok Gobungun",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.220556,
+      "longitude": 126.606944,
+      "wikidata_id": "Q21060766",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21060766"
+    },
+    {
+      "name_ko": "해남 방산리 장고봉고분",
+      "name_en": "Haenam Bangsan-ri Janggobong Kofun",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.456667,
+      "longitude": 126.685556,
+      "wikidata_id": "Q21825423",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21825423"
+    },
+    {
+      "name_ko": "허유전 묘",
+      "name_en": "",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61094362",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61094362"
+    },
+    {
+      "name_ko": "헌덕왕릉",
+      "name_en": "Tomb of King Heondeok",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.843611,
+      "longitude": 129.244722,
+      "wikidata_id": "Q16096110",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096110"
+    },
+    {
+      "name_ko": "헌릉",
+      "name_en": "Heonreung",
+      "admin_area_ko": "서초구",
+      "admin_area_en": "Seocho District",
+      "latitude": 37.624167,
+      "longitude": 127.075833,
+      "wikidata_id": "Q108761348",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108761348"
+    },
+    {
+      "name_ko": "헌인릉",
+      "name_en": "Heonin Tomb",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.481,
+      "longitude": 127.17,
+      "wikidata_id": "Q136654178",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654178"
+    },
+    {
+      "name_ko": "황남대총",
+      "name_en": "Hwangnamdaechong (皇南大塚)",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16182653",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16182653"
+    },
+    {
+      "name_ko": "흥덕왕릉",
+      "name_en": "Tomb of King Heungdeok",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.018889,
+      "longitude": 129.207778,
+      "wikidata_id": "Q16096320",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096320"
+    }
+  ],
+  "meta": {
+    "title": "한국의 능·고분 (Korean Royal Tombs & Ancient Tombs) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 능(왕릉)·고분 등 무덤 유적 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 180 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국의 능·고분 (Korean Royal Tombs & Ancient Tombs) | ListBase",
+    "seo_description": "다운로드 한국의 능·고분 (Korean Royal Tombs & Ancient Tombs) — 180 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 180 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

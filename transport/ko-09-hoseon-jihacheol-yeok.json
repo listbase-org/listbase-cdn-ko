@@ -1,0 +1,489 @@
+{
+  "id": "ko-09-hoseon-jihacheol-yeok",
+  "name": "09호선 지하철 역 (Line 9 subway stations)",
+  "title": "09호선 지하철 역 (Line 9 subway stations)",
+  "description": "09호선(Line 9)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 38개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 9 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "노량진",
+      "name_romanized": "",
+      "lines": "01호선, 09호선",
+      "lines_en": "Line 1, Line 9",
+      "lines_count": 2,
+      "latitude": 37.514219,
+      "longitude": 126.942454,
+      "around_stations": "샛강, 노들, 대방, 용산",
+      "around_count": 4
+    },
+    {
+      "name": "종합운동장",
+      "name_romanized": "",
+      "lines": "02호선, 09호선",
+      "lines_en": "Line 2, Line 9",
+      "lines_count": 2,
+      "latitude": 37.510997,
+      "longitude": 127.073642,
+      "around_stations": "봉은사, 삼전, 삼성, 잠실새내",
+      "around_count": 4
+    },
+    {
+      "name": "당산",
+      "name_romanized": "",
+      "lines": "02호선, 09호선",
+      "lines_en": "Line 2, Line 9",
+      "lines_count": 2,
+      "latitude": 37.53438,
+      "longitude": 126.902281,
+      "around_stations": "선유도, 국회의사당, 합정, 영등포구청",
+      "around_count": 4
+    },
+    {
+      "name": "고속터미널",
+      "name_romanized": "",
+      "lines": "03호선, 07호선, 09호선",
+      "lines_en": "Line 3, Line 7, Line 9",
+      "lines_count": 3,
+      "latitude": 37.50481,
+      "longitude": 127.004943,
+      "around_stations": "잠원, 교대, 반포, 내방, 신반포, 사평",
+      "around_count": 6
+    },
+    {
+      "name": "동작",
+      "name_romanized": "",
+      "lines": "04호선, 09호선",
+      "lines_en": "Line 4, Line 9",
+      "lines_count": 2,
+      "latitude": 37.502971,
+      "longitude": 126.979306,
+      "around_stations": "흑석, 구반포, 이촌, 이수(총신대)",
+      "around_count": 4
+    },
+    {
+      "name": "올림픽공원",
+      "name_romanized": "",
+      "lines": "05호선, 09호선",
+      "lines_en": "Line 5, Line 9",
+      "lines_count": 2,
+      "latitude": 37.516078,
+      "longitude": 127.130848,
+      "around_stations": "둔촌동, 방이, 한성백제, 둔촌오륜",
+      "around_count": 4
+    },
+    {
+      "name": "김포공항",
+      "name_romanized": "",
+      "lines": "05호선, 09호선, 공항철도, 김포도시철도",
+      "lines_en": "Line 5, Line 9, AREX (Airport Railroad Express), Gimpo Goldline",
+      "lines_count": 4,
+      "latitude": 37.562434,
+      "longitude": 126.801058,
+      "around_stations": "계양, 마곡나루, 개화, 공항시장, 고촌, 개화산, 송정",
+      "around_count": 7
+    },
+    {
+      "name": "여의도",
+      "name_romanized": "yeouido",
+      "lines": "05호선, 09호선",
+      "lines_en": "Line 5, Line 9",
+      "lines_count": 2,
+      "latitude": 37.521624,
+      "longitude": 126.924191,
+      "around_stations": "신길, 여의나루, 국회의사당, 샛강",
+      "around_count": 4
+    },
+    {
+      "name": "석촌",
+      "name_romanized": "",
+      "lines": "08호선, 09호선",
+      "lines_en": "Line 8, Line 9",
+      "lines_count": 2,
+      "latitude": 37.505431,
+      "longitude": 127.106979,
+      "around_stations": "석촌고분, 송파나루, 잠실, 송파",
+      "around_count": 4
+    },
+    {
+      "name": "석촌고분",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.5029416,
+      "longitude": 127.1030796,
+      "around_stations": "삼전, 석촌",
+      "around_count": 2
+    },
+    {
+      "name": "송파나루",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.5029584,
+      "longitude": 127.1030581,
+      "around_stations": "석촌, 한성백제",
+      "around_count": 2
+    },
+    {
+      "name": "한성백제",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.5158598,
+      "longitude": 127.1171543,
+      "around_stations": "송파나루, 올림픽공원",
+      "around_count": 2
+    },
+    {
+      "name": "둔촌오륜",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.5193002,
+      "longitude": 127.136481,
+      "around_stations": "올림픽공원, 중앙보훈병원",
+      "around_count": 2
+    },
+    {
+      "name": "선정릉",
+      "name_romanized": "",
+      "lines": "09호선, 수인분당선",
+      "lines_en": "Line 9, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.51098,
+      "longitude": 127.043593,
+      "around_stations": "선릉, 강남구청, 언주, 삼성중앙",
+      "around_count": 4
+    },
+    {
+      "name": "삼성중앙",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.513011,
+      "longitude": 127.053282,
+      "around_stations": "선정릉, 봉은사",
+      "around_count": 2
+    },
+    {
+      "name": "봉은사",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.514219,
+      "longitude": 127.060245,
+      "around_stations": "삼성중앙, 종합운동장",
+      "around_count": 2
+    },
+    {
+      "name": "삼전",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.5046844,
+      "longitude": 127.0855792,
+      "around_stations": "종합운동장, 석촌고분",
+      "around_count": 2
+    },
+    {
+      "name": "중앙보훈병원",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.5288832,
+      "longitude": 127.146342,
+      "around_stations": "둔촌오륜",
+      "around_count": 1
+    },
+    {
+      "name": "개화",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.578608,
+      "longitude": 126.798153,
+      "around_stations": "김포공항",
+      "around_count": 1
+    },
+    {
+      "name": "공항시장",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.563726,
+      "longitude": 126.810678,
+      "around_stations": "김포공항, 신방화",
+      "around_count": 2
+    },
+    {
+      "name": "신방화",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.567532,
+      "longitude": 126.816601,
+      "around_stations": "공항시장, 마곡나루",
+      "around_count": 2
+    },
+    {
+      "name": "마곡나루",
+      "name_romanized": "",
+      "lines": "09호선, 공항철도",
+      "lines_en": "Line 9, AREX (Airport Railroad Express)",
+      "lines_count": 2,
+      "latitude": 37.567336,
+      "longitude": 126.829497,
+      "around_stations": "김포공항, 디지털미디어시티, 신방화, 양천향교",
+      "around_count": 4
+    },
+    {
+      "name": "양천향교",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.568381,
+      "longitude": 126.841333,
+      "around_stations": "마곡나루, 가양",
+      "around_count": 2
+    },
+    {
+      "name": "증미",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.557402,
+      "longitude": 126.861939,
+      "around_stations": "가양, 등촌",
+      "around_count": 2
+    },
+    {
+      "name": "등촌",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.550632,
+      "longitude": 126.865689,
+      "around_stations": "증미, 염창",
+      "around_count": 2
+    },
+    {
+      "name": "선유도",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.53802,
+      "longitude": 126.893525,
+      "around_stations": "신목동, 당산",
+      "around_count": 2
+    },
+    {
+      "name": "샛강",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.517274,
+      "longitude": 126.928422,
+      "around_stations": "여의도, 노량진",
+      "around_count": 2
+    },
+    {
+      "name": "흑석",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.50877,
+      "longitude": 126.963708,
+      "around_stations": "노들, 동작",
+      "around_count": 2
+    },
+    {
+      "name": "구반포",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.501364,
+      "longitude": 126.987332,
+      "around_stations": "동작, 신반포",
+      "around_count": 2
+    },
+    {
+      "name": "신반포",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.503415,
+      "longitude": 126.995925,
+      "around_stations": "구반포, 고속터미널",
+      "around_count": 2
+    },
+    {
+      "name": "신논현",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.504598,
+      "longitude": 127.02506,
+      "around_stations": "사평, 언주",
+      "around_count": 2
+    },
+    {
+      "name": "염창",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.546936,
+      "longitude": 126.874916,
+      "around_stations": "등촌, 신목동",
+      "around_count": 2
+    },
+    {
+      "name": "신목동",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.544277,
+      "longitude": 126.88308,
+      "around_stations": "염창, 선유도",
+      "around_count": 2
+    },
+    {
+      "name": "국회의사당",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.528105,
+      "longitude": 126.917874,
+      "around_stations": "당산, 여의도",
+      "around_count": 2
+    },
+    {
+      "name": "노들",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.512887,
+      "longitude": 126.953222,
+      "around_stations": "노량진, 흑석",
+      "around_count": 2
+    },
+    {
+      "name": "사평",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.504206,
+      "longitude": 127.015259,
+      "around_stations": "고속터미널, 신논현",
+      "around_count": 2
+    },
+    {
+      "name": "가양",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.561391,
+      "longitude": 126.854456,
+      "around_stations": "양천향교, 증미",
+      "around_count": 2
+    },
+    {
+      "name": "언주",
+      "name_romanized": "",
+      "lines": "09호선",
+      "lines_en": "Line 9",
+      "lines_count": 1,
+      "latitude": 37.507287,
+      "longitude": 127.033868,
+      "around_stations": "신논현, 선정릉",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "09호선 지하철 역 (Line 9 subway stations) - 무료 다운로드",
+    "description": "09호선(Line 9)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 38개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 9 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 38 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "09호선 지하철 역 (Line 9 subway stations) | ListBase",
+    "seo_description": "다운로드 09호선 지하철 역 (Line 9 subway stations) — 38 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 38 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

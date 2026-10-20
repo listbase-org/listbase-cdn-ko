@@ -1,0 +1,1896 @@
+{
+  "id": "ko-daejeon-beopjeongdong",
+  "name": "대전광역시 법정동코드 (Daejeon Metropolitan City legal-dong codes)",
+  "title": "대전광역시 법정동코드 (Daejeon Metropolitan City legal-dong codes)",
+  "description": "대전광역시의 법정동코드 — 시·군·구, 읍·면·동, 리 포함. 현행 코드 183건. 전국 법정동코드 데이터셋(ko-beopjeongdong-codes)의 시·도별 분할본. Legal-dong administrative codes for Daejeon Metropolitan City (대전광역시), split from the national ko-beopjeongdong-codes dataset. 183 active codes.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 183,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "eupmyeondong",
+      "label": "Eupmyeondong",
+      "type": "string"
+    },
+    {
+      "key": "ri",
+      "label": "Ri",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "number"
+    },
+    {
+      "key": "created_at",
+      "label": "Created At",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3000000000",
+      "name": "대전광역시",
+      "sido": "대전광역시",
+      "sigungu": "",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 1,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011000000",
+      "name": "대전광역시 동구",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010100",
+      "name": "대전광역시 동구 원동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "원동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011010200",
+      "name": "대전광역시 동구 인동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "인동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010300",
+      "name": "대전광역시 동구 효동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "효동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010400",
+      "name": "대전광역시 동구 천동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010500",
+      "name": "대전광역시 동구 가오동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "가오동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010600",
+      "name": "대전광역시 동구 신흥동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "신흥동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010700",
+      "name": "대전광역시 동구 판암동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "판암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010800",
+      "name": "대전광역시 동구 삼정동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "삼정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011010900",
+      "name": "대전광역시 동구 용운동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "용운동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011000",
+      "name": "대전광역시 동구 대동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "대동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011011100",
+      "name": "대전광역시 동구 자양동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "자양동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011200",
+      "name": "대전광역시 동구 신안동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "신안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011011300",
+      "name": "대전광역시 동구 소제동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "소제동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011400",
+      "name": "대전광역시 동구 가양동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "가양동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011500",
+      "name": "대전광역시 동구 용전동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "용전동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011600",
+      "name": "대전광역시 동구 성남동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "성남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011700",
+      "name": "대전광역시 동구 홍도동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "홍도동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011800",
+      "name": "대전광역시 동구 삼성동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "삼성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011011900",
+      "name": "대전광역시 동구 정동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012000",
+      "name": "대전광역시 동구 중동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "중동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012100",
+      "name": "대전광역시 동구 추동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "추동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012200",
+      "name": "대전광역시 동구 비룡동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "비룡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012300",
+      "name": "대전광역시 동구 주산동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "주산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012400",
+      "name": "대전광역시 동구 용계동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "용계동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012500",
+      "name": "대전광역시 동구 마산동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "마산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012600",
+      "name": "대전광역시 동구 효평동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "효평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012700",
+      "name": "대전광역시 동구 직동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "직동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012800",
+      "name": "대전광역시 동구 세천동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "세천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011012900",
+      "name": "대전광역시 동구 신상동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "신상동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013000",
+      "name": "대전광역시 동구 신하동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "신하동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013100",
+      "name": "대전광역시 동구 신촌동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "신촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013200",
+      "name": "대전광역시 동구 사성동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "사성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013300",
+      "name": "대전광역시 동구 내탑동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "내탑동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013400",
+      "name": "대전광역시 동구 오동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "오동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013500",
+      "name": "대전광역시 동구 주촌동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "주촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-12-14"
+    },
+    {
+      "code": "3011013600",
+      "name": "대전광역시 동구 낭월동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "낭월동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011013700",
+      "name": "대전광역시 동구 대별동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "대별동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011013800",
+      "name": "대전광역시 동구 이사동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "이사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011013900",
+      "name": "대전광역시 동구 대성동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "대성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011014000",
+      "name": "대전광역시 동구 장척동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "장척동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011014100",
+      "name": "대전광역시 동구 소호동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "소호동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011014200",
+      "name": "대전광역시 동구 구도동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "구도동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011014300",
+      "name": "대전광역시 동구 삼괴동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "삼괴동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011014400",
+      "name": "대전광역시 동구 상소동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "상소동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3011014500",
+      "name": "대전광역시 동구 하소동",
+      "sido": "대전광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "하소동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014000000",
+      "name": "대전광역시 중구",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014010100",
+      "name": "대전광역시 중구 은행동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "은행동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014010200",
+      "name": "대전광역시 중구 선화동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "선화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014010300",
+      "name": "대전광역시 중구 목동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "목동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014010400",
+      "name": "대전광역시 중구 중촌동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "중촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014010500",
+      "name": "대전광역시 중구 대흥동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "대흥동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-01-01"
+    },
+    {
+      "code": "3014010600",
+      "name": "대전광역시 중구 문창동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "문창동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-01-01"
+    },
+    {
+      "code": "3014010700",
+      "name": "대전광역시 중구 석교동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "석교동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014010800",
+      "name": "대전광역시 중구 호동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "호동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014010900",
+      "name": "대전광역시 중구 옥계동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "옥계동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011000",
+      "name": "대전광역시 중구 대사동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "대사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011100",
+      "name": "대전광역시 중구 부사동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "부사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011200",
+      "name": "대전광역시 중구 용두동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "용두동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014011300",
+      "name": "대전광역시 중구 오류동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "오류동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011400",
+      "name": "대전광역시 중구 태평동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "태평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011500",
+      "name": "대전광역시 중구 유천동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "유천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011600",
+      "name": "대전광역시 중구 문화동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "문화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011700",
+      "name": "대전광역시 중구 산성동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "산성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011800",
+      "name": "대전광역시 중구 사정동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "사정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014011900",
+      "name": "대전광역시 중구 안영동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "안영동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3014012000",
+      "name": "대전광역시 중구 무수동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "무수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014012100",
+      "name": "대전광역시 중구 구완동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "구완동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014012200",
+      "name": "대전광역시 중구 침산동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "침산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014012300",
+      "name": "대전광역시 중구 목달동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "목달동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014012400",
+      "name": "대전광역시 중구 정생동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "정생동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014012500",
+      "name": "대전광역시 중구 어남동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "어남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3014012600",
+      "name": "대전광역시 중구 금동",
+      "sido": "대전광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "금동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-11-23"
+    },
+    {
+      "code": "3017000000",
+      "name": "대전광역시 서구",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010100",
+      "name": "대전광역시 서구 복수동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "복수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010200",
+      "name": "대전광역시 서구 변동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "변동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010300",
+      "name": "대전광역시 서구 도마동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "도마동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010400",
+      "name": "대전광역시 서구 정림동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "정림동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010500",
+      "name": "대전광역시 서구 용문동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "용문동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010600",
+      "name": "대전광역시 서구 탄방동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "탄방동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010800",
+      "name": "대전광역시 서구 괴정동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "괴정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017010900",
+      "name": "대전광역시 서구 가장동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "가장동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011000",
+      "name": "대전광역시 서구 내동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "내동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1996-08-26"
+    },
+    {
+      "code": "3017011100",
+      "name": "대전광역시 서구 갈마동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "갈마동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-01-01"
+    },
+    {
+      "code": "3017011200",
+      "name": "대전광역시 서구 둔산동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "둔산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1996-01-01"
+    },
+    {
+      "code": "3017011300",
+      "name": "대전광역시 서구 월평동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "월평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011400",
+      "name": "대전광역시 서구 가수원동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "가수원동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011500",
+      "name": "대전광역시 서구 도안동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "도안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011600",
+      "name": "대전광역시 서구 관저동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "관저동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011700",
+      "name": "대전광역시 서구 흑석동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "흑석동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011800",
+      "name": "대전광역시 서구 매노동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "매노동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017011900",
+      "name": "대전광역시 서구 산직동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "산직동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012000",
+      "name": "대전광역시 서구 장안동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "장안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012100",
+      "name": "대전광역시 서구 평촌동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "평촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012200",
+      "name": "대전광역시 서구 오동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "오동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012300",
+      "name": "대전광역시 서구 우명동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "우명동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012400",
+      "name": "대전광역시 서구 원정동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "원정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012500",
+      "name": "대전광역시 서구 용촌동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "용촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012600",
+      "name": "대전광역시 서구 봉곡동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "봉곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012700",
+      "name": "대전광역시 서구 괴곡동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "괴곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3017012800",
+      "name": "대전광역시 서구 만년동",
+      "sido": "대전광역시",
+      "sigungu": "서구",
+      "eupmyeondong": "만년동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-01-01"
+    },
+    {
+      "code": "3020000000",
+      "name": "대전광역시 유성구",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020010100",
+      "name": "대전광역시 유성구 원내동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "원내동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010200",
+      "name": "대전광역시 유성구 교촌동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "교촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010300",
+      "name": "대전광역시 유성구 대정동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "대정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010400",
+      "name": "대전광역시 유성구 용계동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "용계동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010500",
+      "name": "대전광역시 유성구 학하동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "학하동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010600",
+      "name": "대전광역시 유성구 계산동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "계산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010700",
+      "name": "대전광역시 유성구 성북동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "성북동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010800",
+      "name": "대전광역시 유성구 세동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "세동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020010900",
+      "name": "대전광역시 유성구 송정동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "송정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020011000",
+      "name": "대전광역시 유성구 방동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "방동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020011100",
+      "name": "대전광역시 유성구 봉명동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "봉명동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011200",
+      "name": "대전광역시 유성구 구암동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "구암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011300",
+      "name": "대전광역시 유성구 덕명동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "덕명동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011400",
+      "name": "대전광역시 유성구 원신흥동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "원신흥동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011500",
+      "name": "대전광역시 유성구 상대동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "상대동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011600",
+      "name": "대전광역시 유성구 복용동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "복용동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011700",
+      "name": "대전광역시 유성구 장대동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "장대동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011800",
+      "name": "대전광역시 유성구 갑동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "갑동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020011900",
+      "name": "대전광역시 유성구 노은동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "노은동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012000",
+      "name": "대전광역시 유성구 지족동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "지족동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012100",
+      "name": "대전광역시 유성구 죽동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "죽동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012200",
+      "name": "대전광역시 유성구 궁동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "궁동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012300",
+      "name": "대전광역시 유성구 어은동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "어은동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012400",
+      "name": "대전광역시 유성구 구성동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "구성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012500",
+      "name": "대전광역시 유성구 신성동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "신성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012600",
+      "name": "대전광역시 유성구 가정동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "가정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012700",
+      "name": "대전광역시 유성구 도룡동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "도룡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012800",
+      "name": "대전광역시 유성구 장동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "장동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020012900",
+      "name": "대전광역시 유성구 방현동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "방현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013000",
+      "name": "대전광역시 유성구 화암동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "화암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013100",
+      "name": "대전광역시 유성구 덕진동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "덕진동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013200",
+      "name": "대전광역시 유성구 하기동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "하기동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013300",
+      "name": "대전광역시 유성구 추목동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "추목동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013400",
+      "name": "대전광역시 유성구 자운동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "자운동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013500",
+      "name": "대전광역시 유성구 신봉동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "신봉동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020013600",
+      "name": "대전광역시 유성구 수남동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "수남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020013700",
+      "name": "대전광역시 유성구 안산동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "안산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020013800",
+      "name": "대전광역시 유성구 외삼동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "외삼동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020013900",
+      "name": "대전광역시 유성구 반석동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "반석동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-26"
+    },
+    {
+      "code": "3020014000",
+      "name": "대전광역시 유성구 문지동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "문지동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014100",
+      "name": "대전광역시 유성구 전민동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "전민동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014200",
+      "name": "대전광역시 유성구 원촌동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "원촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014300",
+      "name": "대전광역시 유성구 탑립동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "탑립동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014400",
+      "name": "대전광역시 유성구 용산동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "용산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014500",
+      "name": "대전광역시 유성구 봉산동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "봉산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014600",
+      "name": "대전광역시 유성구 관평동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "관평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014700",
+      "name": "대전광역시 유성구 송강동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "송강동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014800",
+      "name": "대전광역시 유성구 금고동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "금고동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020014900",
+      "name": "대전광역시 유성구 대동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "대동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020015000",
+      "name": "대전광역시 유성구 금탄동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "금탄동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020015100",
+      "name": "대전광역시 유성구 신동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "신동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020015200",
+      "name": "대전광역시 유성구 둔곡동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "둔곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3020015300",
+      "name": "대전광역시 유성구 구룡동",
+      "sido": "대전광역시",
+      "sigungu": "유성구",
+      "eupmyeondong": "구룡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023000000",
+      "name": "대전광역시 대덕구",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010100",
+      "name": "대전광역시 대덕구 오정동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "오정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010200",
+      "name": "대전광역시 대덕구 대화동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "대화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010300",
+      "name": "대전광역시 대덕구 읍내동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "읍내동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010400",
+      "name": "대전광역시 대덕구 연축동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "연축동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010500",
+      "name": "대전광역시 대덕구 신대동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "신대동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010600",
+      "name": "대전광역시 대덕구 와동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "와동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010700",
+      "name": "대전광역시 대덕구 송촌동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "송촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023010800",
+      "name": "대전광역시 대덕구 법동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "법동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1996-01-01"
+    },
+    {
+      "code": "3023010900",
+      "name": "대전광역시 대덕구 중리동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "중리동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011000",
+      "name": "대전광역시 대덕구 비래동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "비래동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011100",
+      "name": "대전광역시 대덕구 석봉동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "석봉동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011200",
+      "name": "대전광역시 대덕구 목상동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "목상동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011300",
+      "name": "대전광역시 대덕구 문평동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "문평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011400",
+      "name": "대전광역시 대덕구 신일동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "신일동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011500",
+      "name": "대전광역시 대덕구 덕암동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "덕암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011600",
+      "name": "대전광역시 대덕구 상서동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "상서동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011700",
+      "name": "대전광역시 대덕구 평촌동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "평촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011800",
+      "name": "대전광역시 대덕구 장동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "장동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023011900",
+      "name": "대전광역시 대덕구 용호동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "용호동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012000",
+      "name": "대전광역시 대덕구 이현동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "이현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012100",
+      "name": "대전광역시 대덕구 갈전동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "갈전동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012200",
+      "name": "대전광역시 대덕구 부수동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "부수동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012300",
+      "name": "대전광역시 대덕구 황호동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "황호동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012400",
+      "name": "대전광역시 대덕구 삼정동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "삼정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012500",
+      "name": "대전광역시 대덕구 미호동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "미호동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3023012600",
+      "name": "대전광역시 대덕구 신탄진동",
+      "sido": "대전광역시",
+      "sigungu": "대덕구",
+      "eupmyeondong": "신탄진동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-12-26"
+    }
+  ],
+  "meta": {
+    "title": "대전광역시 법정동코드 (Daejeon Metropolitan City legal-dong codes) - 무료 다운로드",
+    "description": "대전광역시의 법정동코드 — 시·군·구, 읍·면·동, 리 포함. 현행 코드 183건. 전국 법정동코드 데이터셋(ko-beopjeongdong-codes)의 시·도별 분할본. Legal-dong administrative codes for Daejeon Metropolitan City (대전광역시), split from the national ko-beopjeongdong-codes dataset. 183 active codes. 포함 183 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대전광역시 법정동코드 (Daejeon Metropolitan City legal-dong codes) | ListBase",
+    "seo_description": "다운로드 대전광역시 법정동코드 (Daejeon Metropolitan City legal-dong codes) — 183 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 183 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

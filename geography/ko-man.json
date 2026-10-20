@@ -1,0 +1,665 @@
+{
+  "id": "ko-man",
+  "name": "대한민국의 만 (Bays and Gulfs of South Korea)",
+  "title": "대한민국의 만 (Bays and Gulfs of South Korea)",
+  "description": "대한민국에 위치한 만(灣)·걸프·석호 목록. 가로림만·강진만·경기만 등. Wikidata 상위클래스 트리상 어항(漁港, Q1420027) 962건이 만 하위로 분류되어 P279* 탐색에 섞이므로, 직접 P31만 사용해 진짜 만/걸프/석호만 유지(어항은 별도 ko-eohang 데이터셋으로 분리). 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "body_of_water_at",
+      "label": "Body Of Water At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27281089",
+      "name_ko": "가로림만",
+      "name_en": "가로림만",
+      "located_in_at": "충청남도",
+      "body_of_water_at": "",
+      "latitude": 36.9125,
+      "longitude": 126.350556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27293264",
+      "name_ko": "간곡만",
+      "name_en": "간곡만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 35.00222,
+      "longitude": 128.70472,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q109459212",
+      "name_ko": "강진만",
+      "name_en": "강진만",
+      "located_in_at": "강진군",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%A7%84%EB%A7%8C"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27284000",
+      "name_ko": "강화만",
+      "name_en": "강화만",
+      "located_in_at": "인천광역시",
+      "body_of_water_at": "",
+      "latitude": 37.57944,
+      "longitude": 126.41083,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q624980",
+      "name_ko": "경기만",
+      "name_en": "경기만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EA%B8%B0%EB%A7%8C"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27280416",
+      "name_ko": "고성만",
+      "name_en": "고성만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.931389,
+      "longitude": 128.325556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27286220",
+      "name_ko": "곰소만",
+      "name_en": "곰소만",
+      "located_in_at": "전북특별자치도",
+      "body_of_water_at": "",
+      "latitude": 35.564167,
+      "longitude": 126.56,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q21824797",
+      "name_ko": "광양만",
+      "name_en": "광양만",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": 34.874167,
+      "longitude": 127.657222,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%EB%A7%8C"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27278337",
+      "name_ko": "광양만",
+      "name_en": "광양만",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": 34.872222,
+      "longitude": 127.653056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q5623320",
+      "name_ko": "광포만",
+      "name_en": "광포만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B4%91%ED%8F%AC%EB%A7%8C"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27275804",
+      "name_ko": "남만",
+      "name_en": "남만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.8375,
+      "longitude": 128.371944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q27275825",
+      "name_ko": "남양만",
+      "name_en": "남양만",
+      "located_in_at": "경기도",
+      "body_of_water_at": "",
+      "latitude": 37.117778,
+      "longitude": 126.711944,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EB%A7%8C"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27323433",
+      "name_ko": "능량포",
+      "name_en": "능량포",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.801389,
+      "longitude": 128.247778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27295347",
+      "name_ko": "당동만",
+      "name_en": "당동만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.989722,
+      "longitude": 128.428333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27290222",
+      "name_ko": "마도해",
+      "name_en": "마도해",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": 34.465278,
+      "longitude": 126.767778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q16162659",
+      "name_ko": "마산만",
+      "name_en": "마산만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%EB%A7%8C"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27275590",
+      "name_ko": "미조만",
+      "name_en": "미조만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.72306,
+      "longitude": 128.04167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27323454",
+      "name_ko": "법송포",
+      "name_en": "법송포",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.880833,
+      "longitude": 128.378611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q16182526",
+      "name_ko": "보성만",
+      "name_en": "보성만",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": 34.657607,
+      "longitude": 127.139432,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1%EB%A7%8C"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27270415",
+      "name_ko": "보성만",
+      "name_en": "보성만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 34.64,
+      "longitude": 127.09611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q48967884",
+      "name_ko": "부산만",
+      "name_en": "부산만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 35.100556,
+      "longitude": 129.072778,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EB%A7%8C"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27323443",
+      "name_ko": "북신만",
+      "name_en": "북신만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.861944,
+      "longitude": 128.420278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q12599878",
+      "name_ko": "사천만",
+      "name_en": "사천만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%B2%9C%EB%A7%8C"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q27323449",
+      "name_ko": "서만",
+      "name_en": "서만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.865278,
+      "longitude": 128.373889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27267524",
+      "name_ko": "수영만",
+      "name_en": "수영만",
+      "located_in_at": "부산광역시",
+      "body_of_water_at": "",
+      "latitude": 35.14,
+      "longitude": 129.14611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q486960",
+      "name_ko": "순천만",
+      "name_en": "순천만",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": 34.8428,
+      "longitude": 127.506,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%88%9C%EC%B2%9C%EB%A7%8C"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q11254843",
+      "name_ko": "시화호",
+      "name_en": "시화호",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 37.301527,
+      "longitude": 126.671121,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%99%94%ED%98%B8"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q27323430",
+      "name_ko": "신전포",
+      "name_en": "신전포",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.788611,
+      "longitude": 128.426944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q495506",
+      "name_ko": "아산만",
+      "name_en": "아산만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 37.073333,
+      "longitude": 126.666944,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%B0%EB%A7%8C"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q27288911",
+      "name_ko": "아산만",
+      "name_en": "아산만",
+      "located_in_at": "경기도",
+      "body_of_water_at": "",
+      "latitude": 37.093889,
+      "longitude": 126.572222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27309759",
+      "name_ko": "아산만",
+      "name_en": "아산만",
+      "located_in_at": "충청남도",
+      "body_of_water_at": "",
+      "latitude": 36.933056,
+      "longitude": 126.840556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q27308312",
+      "name_ko": "안흥만",
+      "name_en": "안흥만",
+      "located_in_at": "충청남도",
+      "body_of_water_at": "",
+      "latitude": 36.645833,
+      "longitude": 126.228889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q27288874",
+      "name_ko": "앵강만",
+      "name_en": "앵강만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.748333,
+      "longitude": 127.93,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q27264627",
+      "name_ko": "여수해만",
+      "name_en": "여수해만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 34.69444,
+      "longitude": 127.83028,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q27323429",
+      "name_ko": "영운포",
+      "name_en": "영운포",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.801111,
+      "longitude": 128.434444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q11260549",
+      "name_ko": "영일만",
+      "name_en": "영일만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 36.050833,
+      "longitude": 129.434722,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9D%BC%EB%A7%8C"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q27264595",
+      "name_ko": "영일만",
+      "name_en": "영일만",
+      "located_in_at": "경상북도",
+      "body_of_water_at": "",
+      "latitude": 36.049444,
+      "longitude": 129.450833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q27266935",
+      "name_ko": "울산만",
+      "name_en": "울산만",
+      "located_in_at": "울산광역시",
+      "body_of_water_at": "",
+      "latitude": 35.50694,
+      "longitude": 129.38917,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q27295301",
+      "name_ko": "웅동만",
+      "name_en": "웅동만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 35.10222,
+      "longitude": 128.78389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27266948",
+      "name_ko": "웅천만",
+      "name_en": "웅천만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 35.09861,
+      "longitude": 128.70861,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q27267003",
+      "name_ko": "원문포",
+      "name_en": "원문포",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 34.89068,
+      "longitude": 128.43963,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q27266991",
+      "name_ko": "월포만",
+      "name_en": "월포만",
+      "located_in_at": "경상북도",
+      "body_of_water_at": "",
+      "latitude": 36.2,
+      "longitude": 129.38333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q27293462",
+      "name_ko": "장구만",
+      "name_en": "장구만",
+      "located_in_at": "충청남도",
+      "body_of_water_at": "",
+      "latitude": 36.083056,
+      "longitude": 126.617778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q27323434",
+      "name_ko": "적암만",
+      "name_en": "적암만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.824444,
+      "longitude": 128.468333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q27286173",
+      "name_ko": "죽변항",
+      "name_en": "죽변항",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 37.05583,
+      "longitude": 129.4225,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q27325262",
+      "name_ko": "진동만",
+      "name_en": "진동만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 35.096111,
+      "longitude": 128.483056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q27286109",
+      "name_ko": "천성만",
+      "name_en": "천성만",
+      "located_in_at": "부산광역시",
+      "body_of_water_at": "",
+      "latitude": 35.02694,
+      "longitude": 128.81194,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q27286110",
+      "name_ko": "천수만",
+      "name_en": "천수만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 36.51407,
+      "longitude": 126.43251,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q27287366",
+      "name_ko": "청변포",
+      "name_en": "청변포",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 34.16889,
+      "longitude": 126.665,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q49300477",
+      "name_ko": "청초호",
+      "name_en": "청초호",
+      "located_in_at": "강원특별자치도",
+      "body_of_water_at": "",
+      "latitude": 38.196111,
+      "longitude": 128.588611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q27266871",
+      "name_ko": "통영만",
+      "name_en": "통영만",
+      "located_in_at": "",
+      "body_of_water_at": "",
+      "latitude": 34.77441,
+      "longitude": 128.46772,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q27323428",
+      "name_ko": "한산만",
+      "name_en": "한산만",
+      "located_in_at": "경상남도",
+      "body_of_water_at": "",
+      "latitude": 34.801667,
+      "longitude": 128.47,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q27283641",
+      "name_ko": "함평만",
+      "name_en": "함평만",
+      "located_in_at": "전라남도",
+      "body_of_water_at": "",
+      "latitude": 35.101389,
+      "longitude": 126.397778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q35710300",
+      "name_ko": "화진포호",
+      "name_en": "화진포호",
+      "located_in_at": "강원특별자치도",
+      "body_of_water_at": "",
+      "latitude": 38.464722,
+      "longitude": 128.432778,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 만 (Bays and Gulfs of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 만(灣)·걸프·석호 목록. 가로림만·강진만·경기만 등. Wikidata 상위클래스 트리상 어항(漁港, Q1420027) 962건이 만 하위로 분류되어 P279* 탐색에 섞이므로, 직접 P31만 사용해 진짜 만/걸프/석호만 유지(어항은 별도 ko-eohang 데이터셋으로 분리). 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 54 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 만 (Bays and Gulfs of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 만 (Bays and Gulfs of South Korea) — 54 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 54 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

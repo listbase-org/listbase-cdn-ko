@@ -1,0 +1,951 @@
+{
+  "id": "ko-sejong-hakgyo",
+  "name": "세종특별자치시 초·중·고등학교 (80) — Sejong Schools",
+  "title": "세종특별자치시 초·중·고등학교 (80) — Sejong Schools",
+  "description": "세종특별자치시(Sejong) 관할 초·중·고등학교 목록 — 초등학교 43개, 중학교 22개, 고등학교 15개. 각 레코드는 학교 코드, 한글 학교명, 학교급, 관할 교육청 및 도메인, 분교장·폐교 여부를 포함. 전국 목록(ko-hakgyo)의 시·도 교육청별 분할. 출처: Astro36/korean-school (학교알리미 schoolinfo.go.kr).",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "level_en",
+      "label": "Level En",
+      "type": "string"
+    },
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "office_en",
+      "label": "Office En",
+      "type": "string"
+    },
+    {
+      "key": "office_domain",
+      "label": "Office Domain",
+      "type": "string"
+    },
+    {
+      "key": "is_branch",
+      "label": "Is Branch",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "code": "I100000169",
+      "name": "가득초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000129",
+      "name": "가락초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000043",
+      "name": "감성초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000145",
+      "name": "고운고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000138",
+      "name": "고운중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000133",
+      "name": "고운초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000182",
+      "name": "글벗중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000181",
+      "name": "글벗초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000044",
+      "name": "금남초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000061",
+      "name": "금호중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000111",
+      "name": "나래초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000141",
+      "name": "늘봄초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000157",
+      "name": "다빛초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000119",
+      "name": "도담고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000118",
+      "name": "도담중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000117",
+      "name": "도담초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000156",
+      "name": "두루고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000140",
+      "name": "두루중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000127",
+      "name": "두루초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000122",
+      "name": "미르초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000161",
+      "name": "보람고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000183",
+      "name": "보람중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000167",
+      "name": "보람초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000073",
+      "name": "부강중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000074",
+      "name": "부강초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000164",
+      "name": "새뜸중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000171",
+      "name": "새뜸초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000162",
+      "name": "새롬고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000123",
+      "name": "새롬중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000172",
+      "name": "새롬초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000165",
+      "name": "새움중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000068",
+      "name": "성남고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000076",
+      "name": "세종고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000120",
+      "name": "세종국제고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000058",
+      "name": "세종도원초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000069",
+      "name": "세종여자고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000072",
+      "name": "세종하이텍고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000160",
+      "name": "소담고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000163",
+      "name": "소담중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000166",
+      "name": "소담초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000045",
+      "name": "소정초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000046",
+      "name": "수왕초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000047",
+      "name": "쌍류초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000107",
+      "name": "아름고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000108",
+      "name": "아름중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000110",
+      "name": "아름초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000150",
+      "name": "양지고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000146",
+      "name": "양지중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000104",
+      "name": "양지초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000152",
+      "name": "어진중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000168",
+      "name": "여울초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000048",
+      "name": "연남초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000062",
+      "name": "연동중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000049",
+      "name": "연동초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000050",
+      "name": "연봉초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000063",
+      "name": "연서중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000051",
+      "name": "연서초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000153",
+      "name": "연세초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000109",
+      "name": "연양초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000134",
+      "name": "온빛초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000131",
+      "name": "으뜸초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000041",
+      "name": "의랑초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000060",
+      "name": "장기중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000042",
+      "name": "장기초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000052",
+      "name": "전동초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000064",
+      "name": "전의중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000053",
+      "name": "전의초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000054",
+      "name": "조치원교동초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000055",
+      "name": "조치원대동초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000056",
+      "name": "조치원명동초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000057",
+      "name": "조치원신봉초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000065",
+      "name": "조치원여자중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000066",
+      "name": "조치원중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000144",
+      "name": "종촌고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000139",
+      "name": "종촌중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000136",
+      "name": "종촌초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000059",
+      "name": "참샘초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000071",
+      "name": "한솔고등학교",
+      "level": "고등학교",
+      "level_en": "high",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000067",
+      "name": "한솔중학교",
+      "level": "중학교",
+      "level_en": "middle",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    },
+    {
+      "code": "I100000103",
+      "name": "한솔초등학교",
+      "level": "초등학교",
+      "level_en": "elementary",
+      "office": "세종특별자치시",
+      "office_en": "Sejong",
+      "office_domain": "sje.go",
+      "is_branch": false,
+      "is_closed": false
+    }
+  ],
+  "meta": {
+    "title": "세종특별자치시 초·중·고등학교 (80) — Sejong Schools - 무료 다운로드",
+    "description": "세종특별자치시(Sejong) 관할 초·중·고등학교 목록 — 초등학교 43개, 중학교 22개, 고등학교 15개. 각 레코드는 학교 코드, 한글 학교명, 학교급, 관할 교육청 및 도메인, 분교장·폐교 여부를 포함. 전국 목록(ko-hakgyo)의 시·도 교육청별 분할. 출처: Astro36/korean-school (학교알리미 schoolinfo.go.kr). 포함 80 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세종특별자치시 초·중·고등학교 (80) — Sejong Schools | ListBase",
+    "seo_description": "다운로드 세종특별자치시 초·중·고등학교 (80) — Sejong Schools — 80 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 80 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

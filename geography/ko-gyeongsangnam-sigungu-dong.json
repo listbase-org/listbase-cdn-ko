@@ -1,0 +1,2731 @@
+{
+  "id": "ko-gyeongsangnam-sigungu-dong",
+  "name": "Gyeongsangnam 시군구·동읍면 — Gyeongsangnam Districts & Neighborhoods",
+  "title": "Gyeongsangnam 시군구·동읍면 — Gyeongsangnam Districts & Neighborhoods",
+  "description": "Gyeongsangnam (경상남도) — 시군구 및 동·읍·면 행정 지명 목록 538건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gyeongsangnam 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 538,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "마천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "백전면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "병곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "서상면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "서하면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "수동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "안의면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "유림면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "지곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "함양읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함양군",
+      "dong_eup_myeon": "휴천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "광도면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "당동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "도남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "도산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "도천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "동호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "명정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "무전동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "미수동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "봉평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "북신동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "사량면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "산양읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "서호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "욕지면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "용남면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "인평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "정량동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "태평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "평림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "한산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "통영시",
+      "dong_eup_myeon": "항남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "가야읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "군북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "대산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "법수면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "산인면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "여항면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "칠북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "칠서면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "칠원읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "함안군",
+      "dong_eup_myeon": "함안면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "가좌동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "강남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "금곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "금산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "남성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "내동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "대곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "대안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "대평면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "동성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "망경동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "명석면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "문산읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "미천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "본성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "봉곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "봉래동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "사봉면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "상대동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "상봉동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "상평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "수곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "수정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "신안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "옥봉동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "유곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "이반성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "이현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "인사동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "일반성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "장대동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "장재동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "정촌면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "주약동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "중안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "지수면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "진성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "집현면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "초전동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "충무공동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "칠암동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "판문동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "평거동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "평안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "하대동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "하촌동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "진주시",
+      "dong_eup_myeon": "호탄동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "가례면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "궁류면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "낙서면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "대의면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "봉수면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "부림면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "용덕면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "유곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "의령읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "정곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "지정면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "칠곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "의령군",
+      "dong_eup_myeon": "화정면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "금서면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "단성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "산청읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "삼장면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "생비량면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "생초면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "시천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "신등면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "신안면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "오부면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "산청군",
+      "dong_eup_myeon": "차황면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "가야면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "가회면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "대병면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "대양면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "덕곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "묘산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "봉산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "삼가면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "쌍백면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "쌍책면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "야로면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "용주면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "율곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "적중면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "청덕면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "초계면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "합천군",
+      "dong_eup_myeon": "합천읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "간성읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "개천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "거류면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "거진읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "고성읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "구만면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "대가면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "동해면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "마암면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "삼산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "상리면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "영오면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "영현면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "죽왕면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "토성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "하이면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "하일면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "현내면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "고성군",
+      "dong_eup_myeon": "회화면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "가음동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "가음정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "가주동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "가포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "경화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "광화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "교방동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "교원동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "구산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "구암동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "귀곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "귀산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "귀현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "근화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "남문동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "남산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "남성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "남양동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "남양동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "남지동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "내리동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "내서읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대내동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대방동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대성동1가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대성동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대영동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대외동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대원동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대장동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대죽동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대창동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "대흥동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "덕동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "덕산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "덕정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "도계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "도천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "동상동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "동성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "동읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "동정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "두대동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "두동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "두월동1가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "두월동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "두월동3가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "두척동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "마천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "명곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "명동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "명서동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "무송동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "반계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "반림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "반송동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "반월동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "반지동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "봉곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "봉림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "봉암동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "부림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "부흥동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "북동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "북부동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "불모산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "사림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "사파동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "사파정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "사화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "산호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "삼동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "삼정자동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "상남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "상남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "상복동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "서곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "서상동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "서성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "서중동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "석동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "석전동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "성산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "성주동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "성호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "소계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "소답동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "소사동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "속천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "송학동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "수성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "수송동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "숭인동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신창동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신포동1가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신포동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "안곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "안골동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "안민동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "양곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "양덕동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "여좌동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "연도동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "예곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "오동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "완암동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "완월동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "외동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "용동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "용원동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "용지동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "용호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "우산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "웅남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "원포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월남동1가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월남동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월남동3가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월남동4가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월영동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "월포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "유록동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "이동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "익선동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "인사동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "인의동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "자산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "자은동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "장군동1가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "장군동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "장군동3가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "장군동4가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "장군동5가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "장천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "적현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "제덕동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "제황산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "죽곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "중평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "진동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "진북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "진전면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "차용동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "창곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "창동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "창선동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "창포동2가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "창포동3가"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "천선동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "청계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "청안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "추산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "충무동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "충의동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "태백동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "태평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "토월동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "통신동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "퇴촌동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "팔용동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "평안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "평화동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "풍호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "합성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "해운동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "행암동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "홍문동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "화영동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "화천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "회성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "회원동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창원시",
+      "dong_eup_myeon": "회현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "거제면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "고현동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "남부면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "능포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "덕포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "동부면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "두모동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "둔덕면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "문동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "사등면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "삼거동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "상동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "수월동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "아양동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "아주동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "양정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "연초면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "옥포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "일운면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "장목면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "장승포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "장평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거제시",
+      "dong_eup_myeon": "하청면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "남부동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "다방동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "덕계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "매곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "명곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "명동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "물금읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "북부동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "북정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "산막동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "삼호동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "상북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "소주동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "신기동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "어곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "용당동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "원동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "유산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "주남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "주진동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "중부동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "평산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "하북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "양산시",
+      "dong_eup_myeon": "호계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "가곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "남포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "내이동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "내일동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "단장면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "무안면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "부북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "산내면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "산외면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "삼랑진읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "삼문동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "상남면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "상동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "용평동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "청도면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "초동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "하남읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "밀양시",
+      "dong_eup_myeon": "활성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "곤명면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "곤양면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "궁지동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "노룡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "늑도동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "대방동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "대포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "동금동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "동림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "마도동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "백천동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "벌리동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "봉남동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "사남면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "사등동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "사천읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "서금동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "서동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "서포면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "선구동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "송포동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "신벽동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "신수동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "실안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "와룡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "용강동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "용현면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "이금동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "이홀동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "정동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "좌룡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "축동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "사천시",
+      "dong_eup_myeon": "향촌동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "고전면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "금남면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "금성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "북천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "악양면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "양보면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "옥종면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "적량면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "진교면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "청암면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "하동읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "화개면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "하동군",
+      "dong_eup_myeon": "횡천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "계성면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "고암면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "길곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "남지읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "대지면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "대합면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "도천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "부곡면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "성산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "영산면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "유어면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "이방면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "장마면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "창녕군",
+      "dong_eup_myeon": "창녕읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "가북면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "가조면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "거창읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "고제면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "남상면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "남하면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "마리면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "북상면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "신원면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "웅양면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "위천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "거창군",
+      "dong_eup_myeon": "주상면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "고현면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "남해읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "미조면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "삼동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "상주면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "서면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "설천면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "이동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "남해군",
+      "dong_eup_myeon": "창선면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "강동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "관동동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "구산동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "내덕동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "대동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "대성동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "대청동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "동상동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "명법동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "무계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "봉황동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "부곡동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "부원동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "불암동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "삼계동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "삼문동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "삼방동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "삼정동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "상동면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "생림면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "서상동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "수가동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "신문동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "안동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "어방동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "외동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "유하동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "율하동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "응달동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "이동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "장유동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "전하동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "주촌면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "지내동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "진례면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "진영읍"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "풍유동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "한림면"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "화목동"
+    },
+    {
+      "sido": "경상남도",
+      "sigungu": "김해시",
+      "dong_eup_myeon": "흥동"
+    }
+  ],
+  "meta": {
+    "title": "Gyeongsangnam 시군구·동읍면 — Gyeongsangnam Districts & Neighborhoods - 무료 다운로드",
+    "description": "Gyeongsangnam (경상남도) — 시군구 및 동·읍·면 행정 지명 목록 538건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gyeongsangnam 편. 필드: sido, sigungu, dong_eup_myeon. 포함 538 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gyeongsangnam 시군구·동읍면 — Gyeongsangnam Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Gyeongsangnam 시군구·동읍면 — Gyeongsangnam Districts & Neighborhoods — 538 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 538 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

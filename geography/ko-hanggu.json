@@ -1,0 +1,286 @@
+{
+  "id": "ko-hanggu",
+  "name": "대한민국의 항구 (Ports and Harbours of South Korea)",
+  "title": "대한민국의 항구 (Ports and Harbours of South Korea)",
+  "description": "대한민국에 위치한 항구 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12584496",
+      "name_ko": "고현항 (거제시)",
+      "name_en": "",
+      "located_in_at": "거제시",
+      "latitude": 34.894242,
+      "longitude": 128.620894,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B3%A0%ED%98%84%ED%95%AD_(%EA%B1%B0%EC%A0%9C%EC%8B%9C)"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q15621434",
+      "name_ko": "광양항",
+      "name_en": "Port of Gwangyang",
+      "located_in_at": "광양시",
+      "latitude": 34.85,
+      "longitude": 127.8,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%96%91%ED%95%AD"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q16100438",
+      "name_ko": "구암항",
+      "name_en": "",
+      "located_in_at": "고흥군",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%95%94%ED%95%AD"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q16094899",
+      "name_ko": "군산항",
+      "name_en": "Port of Gunsan",
+      "located_in_at": "",
+      "latitude": 35.97924,
+      "longitude": 126.5844,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%82%B0%ED%95%AD"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q16094927",
+      "name_ko": "궁평항",
+      "name_en": "Gungpyeong Port",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B6%81%ED%8F%89%ED%95%AD"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12589624",
+      "name_ko": "나정항",
+      "name_en": "Najeong Port",
+      "located_in_at": "",
+      "latitude": 35.776667,
+      "longitude": 129.494722,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%98%EC%A0%95%ED%95%AD"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12589911",
+      "name_ko": "남애항",
+      "name_en": "Namae Port",
+      "located_in_at": "양양군",
+      "latitude": 37.944444,
+      "longitude": 128.7875,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%95%A0%ED%95%AD"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q31180158",
+      "name_ko": "대산항",
+      "name_en": "",
+      "located_in_at": "서산시",
+      "latitude": 37.013639,
+      "longitude": 126.420611,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%82%B0%ED%95%AD"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q137652336",
+      "name_ko": "마산항",
+      "name_en": "",
+      "located_in_at": "창원시",
+      "latitude": 35.190313,
+      "longitude": 128.567492,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%ED%95%AD"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12595301",
+      "name_ko": "모슬포항",
+      "name_en": "Moseulpo Port",
+      "located_in_at": "서귀포시",
+      "latitude": 33.215984,
+      "longitude": 126.250474,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%8A%AC%ED%8F%AC%ED%95%AD"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q16096487",
+      "name_ko": "목포항",
+      "name_en": "Port of Mokpo",
+      "located_in_at": "목포시",
+      "latitude": 34.79604,
+      "longitude": 126.35788,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AA%A9%ED%8F%AC%ED%95%AD"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q11241497",
+      "name_ko": "묵호항",
+      "name_en": "Mukho",
+      "located_in_at": "동해시",
+      "latitude": 37.55341,
+      "longitude": 129.115524,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AC%B5%ED%98%B8%ED%95%AD"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q12438381",
+      "name_ko": "부산항",
+      "name_en": "Port of Busan",
+      "located_in_at": "부산광역시",
+      "latitude": 35.103889,
+      "longitude": 129.078889,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%ED%95%AD"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q16097099",
+      "name_ko": "새만금항",
+      "name_en": "Saemangeum Port",
+      "located_in_at": "김제시",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%83%88%EB%A7%8C%EA%B8%88%ED%95%AD"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12606903",
+      "name_ko": "여수항",
+      "name_en": "Port of Yeosu",
+      "located_in_at": "",
+      "latitude": 34.740625,
+      "longitude": 127.6708,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%88%98%ED%95%AD"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12609156",
+      "name_ko": "울산항",
+      "name_en": "Port of Ulsan",
+      "located_in_at": "울산광역시",
+      "latitude": 35.45,
+      "longitude": 129.4,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9A%B8%EC%82%B0%ED%95%AD"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q16099490",
+      "name_ko": "인천항",
+      "name_en": "Port of Incheon",
+      "located_in_at": "인천광역시",
+      "latitude": 37.460105,
+      "longitude": 126.624899,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%ED%95%AD"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q16171404",
+      "name_ko": "장항항",
+      "name_en": "Port of Janghang",
+      "located_in_at": "",
+      "latitude": 36.0069,
+      "longitude": 126.6867,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%95%AD%ED%95%AD"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q12616503",
+      "name_ko": "제주항",
+      "name_en": "Port of Jeju",
+      "located_in_at": "제주시",
+      "latitude": 33.522394,
+      "longitude": 126.540786,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%ED%95%AD"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27341383",
+      "name_ko": "추자",
+      "name_en": "Chuja Port",
+      "located_in_at": "",
+      "latitude": 33.94546,
+      "longitude": 126.32926,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q16100392",
+      "name_ko": "평택·당진항",
+      "name_en": "Port of Pyeongtaek-Dangjin",
+      "located_in_at": "",
+      "latitude": 36.99305,
+      "longitude": 126.80295,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%83%9D%C2%B7%EB%8B%B9%EC%A7%84%ED%95%AD"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27331034",
+      "name_ko": "황청포구",
+      "name_en": "Hwangcheongpogu",
+      "located_in_at": "인천광역시",
+      "latitude": 37.711667,
+      "longitude": 126.352778,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 항구 (Ports and Harbours of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 항구 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 22 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 항구 (Ports and Harbours of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 항구 (Ports and Harbours of South Korea) — 22 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 22 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

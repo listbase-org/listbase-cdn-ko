@@ -1,0 +1,6 @@
+﻿"Unit Code","Bunryu","Ireum","Yakja","Gan Yakja","Danwi Paeteon","Id"
+"temperature-celsius","temperature","섭씨","°C","°C","섭씨 {0}도","1"
+"temperature-fahrenheit","temperature","화씨","°F","°F","화씨 {0}도","2"
+"temperature-generic","temperature","도","°","°","{0}도","3"
+"temperature-kelvin","temperature","켈빈","K","K","{0}켈빈","4"
+"temperature-rankine","temperature","°R","°R","°R","{0} °R","5"

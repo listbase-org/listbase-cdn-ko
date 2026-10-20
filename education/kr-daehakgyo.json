@@ -1,0 +1,2506 @@
+{
+  "id": "kr-daehakgyo",
+  "name": "Korea, Republic of — Universities (대학교)",
+  "title": "Korea, Republic of — Universities (대학교)",
+  "description": "List of accredited universities and higher-education institutions in Korea, Republic of. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Korea, Republic of\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 244,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ajou University",
+      "slug": "ajou",
+      "domain": "ajou.ac.kr",
+      "domains": "ajou.ac.kr",
+      "web_page": "http://www.ajou.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Andong National University",
+      "slug": "andong",
+      "domain": "andong.ac.kr",
+      "domains": "andong.ac.kr",
+      "web_page": "http://www.andong.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Asian United Theological University",
+      "slug": "acts",
+      "domain": "acts.ac.kr",
+      "domains": "acts.ac.kr",
+      "web_page": "http://www.acts.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Baekseok University",
+      "slug": "bu",
+      "domain": "bu.ac.kr",
+      "domains": "bu.ac.kr",
+      "web_page": "http://www.bu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Busan National University of Education",
+      "slug": "bnue",
+      "domain": "bnue.ac.kr",
+      "domains": "bnue.ac.kr",
+      "web_page": "http://www.bnue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Busan Presbyterian University",
+      "slug": "bpu",
+      "domain": "bpu.ac.kr",
+      "domains": "bpu.ac.kr",
+      "web_page": "http://www.bpu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Busan University of Foreign Studies",
+      "slug": "bufs",
+      "domain": "bufs.ac.kr",
+      "domains": "bufs.ac.kr",
+      "web_page": "http://www.bufs.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic Kwandong University",
+      "slug": "cku",
+      "domain": "cku.ac.kr",
+      "domains": "cku.ac.kr",
+      "web_page": "http://www.cku.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic University of Korea",
+      "slug": "cuk",
+      "domain": "cuk.ac.kr",
+      "domains": "cuk.ac.kr",
+      "web_page": "http://www.cuk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic University of Pusan",
+      "slug": "cup",
+      "domain": "cup.ac.kr",
+      "domains": "cup.ac.kr",
+      "web_page": "http://www.cup.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic University of Taegu-Hyosung",
+      "slug": "cataegu",
+      "domain": "cataegu.ac.kr",
+      "domains": "cataegu.ac.kr",
+      "web_page": "http://www.cataegu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "CHA University",
+      "slug": "cha",
+      "domain": "cha.ac.kr",
+      "domains": "cha.ac.kr",
+      "web_page": "http://www.cha.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Changshin University",
+      "slug": "cs",
+      "domain": "cs.ac.kr",
+      "domains": "cs.ac.kr",
+      "web_page": "http://www.cs.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Changwon National University",
+      "slug": "changwon",
+      "domain": "changwon.ac.kr",
+      "domains": "changwon.ac.kr",
+      "web_page": "http://www.changwon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Cheju National University",
+      "slug": "cheju",
+      "domain": "cheju.ac.kr",
+      "domains": "cheju.ac.kr",
+      "web_page": "http://www.cheju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Cheju National University of Education",
+      "slug": "cheju-e",
+      "domain": "cheju-e.ac.kr",
+      "domains": "cheju-e.ac.kr",
+      "web_page": "http://www.cheju-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Cheongju National University of Education",
+      "slug": "cje",
+      "domain": "cje.ac.kr",
+      "domains": "cje.ac.kr",
+      "web_page": "http://www.cje.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "CHEONGJU UNIVERSITY",
+      "slug": "cju",
+      "domain": "cju.ac.kr",
+      "domains": "cju.ac.kr",
+      "web_page": "http://www.cju.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chinju National University",
+      "slug": "chinju",
+      "domain": "chinju.ac.kr",
+      "domains": "chinju.ac.kr",
+      "web_page": "http://www.chinju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chinju National University of Education",
+      "slug": "chinju-e",
+      "domain": "chinju-e.ac.kr",
+      "domains": "chinju-e.ac.kr, cue.ac.kr",
+      "web_page": "http://www.chinju-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chodang University",
+      "slug": "chodang",
+      "domain": "chodang.ac.kr",
+      "domains": "chodang.ac.kr, cdu.ac.kr",
+      "web_page": "http://www.chodang.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chonbuk National University",
+      "slug": "chonbuk",
+      "domain": "chonbuk.ac.kr",
+      "domains": "chonbuk.ac.kr",
+      "web_page": "http://www.chonbuk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chonbuk Sanup University of Technology (Howon University)",
+      "slug": "howon",
+      "domain": "howon.ac.kr",
+      "domains": "howon.ac.kr",
+      "web_page": "http://www.howon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chongju National University of Education",
+      "slug": "chongju-e",
+      "domain": "chongju-e.ac.kr",
+      "domains": "chongju-e.ac.kr",
+      "web_page": "http://www.chongju-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chongju University",
+      "slug": "chongju",
+      "domain": "chongju.ac.kr",
+      "domains": "chongju.ac.kr",
+      "web_page": "http://www.chongju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chongshin University",
+      "slug": "chongshin",
+      "domain": "chongshin.ac.kr",
+      "domains": "chongshin.ac.kr",
+      "web_page": "http://www.chongshin.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chonju National University of Education",
+      "slug": "chonju-e",
+      "domain": "chonju-e.ac.kr",
+      "domains": "chonju-e.ac.kr",
+      "web_page": "http://www.chonju-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chonnam National University",
+      "slug": "chonnam",
+      "domain": "chonnam.ac.kr",
+      "domains": "chonnam.ac.kr, jnu.ac.kr",
+      "web_page": "http://www.chonnam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chosun University",
+      "slug": "chosun",
+      "domain": "chosun.ac.kr",
+      "domains": "chosun.ac.kr",
+      "web_page": "http://www.chosun.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chugye University for the Arts",
+      "slug": "chugye",
+      "domain": "chugye.ac.kr",
+      "domains": "chugye.ac.kr",
+      "web_page": "http://www.chugye.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chuncheon National University of Education",
+      "slug": "cnue",
+      "domain": "cnue.ac.kr",
+      "domains": "cnue.ac.kr",
+      "web_page": "http://www.cnue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chunchon National University of Education",
+      "slug": "cnue-e",
+      "domain": "cnue-e.ac.kr",
+      "domains": "cnue-e.ac.kr",
+      "web_page": "http://www.cnue-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chung-Ang University",
+      "slug": "cau",
+      "domain": "cau.ac.kr",
+      "domains": "cau.ac.kr",
+      "web_page": "http://www.cau.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chung-Ju National University",
+      "slug": "chungju",
+      "domain": "chungju.ac.kr",
+      "domains": "chungju.ac.kr",
+      "web_page": "http://www.chungju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chungbuk National University",
+      "slug": "chungbuk",
+      "domain": "chungbuk.ac.kr",
+      "domains": "chungbuk.ac.kr, cbnu.ac.kr",
+      "web_page": "http://www.chungbuk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chungnam National University",
+      "slug": "chungnam",
+      "domain": "chungnam.ac.kr",
+      "domains": "chungnam.ac.kr, cnu.ac.kr",
+      "web_page": "http://www.chungnam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Chungwoon University",
+      "slug": "chungwoon",
+      "domain": "chungwoon.ac.kr",
+      "domains": "chungwoon.ac.kr",
+      "web_page": "http://www.chungwoon.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daebul University",
+      "slug": "daebul",
+      "domain": "daebul.ac.kr",
+      "domains": "daebul.ac.kr",
+      "web_page": "http://www.daebul.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daegu Arts University",
+      "slug": "tau",
+      "domain": "tau.ac.kr",
+      "domains": "tau.ac.kr",
+      "web_page": "http://www.tau.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daegu Gyeongbuk Institute of Science and Technology",
+      "slug": "dgist",
+      "domain": "dgist.ac.kr",
+      "domains": "dgist.ac.kr",
+      "web_page": "http://www.dgist.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daegu Haany University",
+      "slug": "dhu",
+      "domain": "dhu.ac.kr",
+      "domains": "dhu.ac.kr",
+      "web_page": "http://www.dhu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daegu National University of Education",
+      "slug": "dnue",
+      "domain": "dnue.ac.kr",
+      "domains": "dnue.ac.kr",
+      "web_page": "http://www.dnue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daegu University",
+      "slug": "daegu",
+      "domain": "daegu.ac.kr",
+      "domains": "daegu.ac.kr",
+      "web_page": "http://www.daegu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daegu University of Foreign Studies",
+      "slug": "dufs",
+      "domain": "dufs.ac.kr",
+      "domains": "dufs.ac.kr",
+      "web_page": "http://www.dufs.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daejeon Catholic University",
+      "slug": "dcatholic",
+      "domain": "dcatholic.ac.kr",
+      "domains": "dcatholic.ac.kr",
+      "web_page": "http://www.dcatholic.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daejeon Theological University",
+      "slug": "daejeon",
+      "domain": "daejeon.ac.kr",
+      "domains": "daejeon.ac.kr",
+      "web_page": "http://www.daejeon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daejeon University",
+      "slug": "dju",
+      "domain": "dju.ac.kr",
+      "domains": "dju.ac.kr",
+      "web_page": "http://www.dju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daejin University",
+      "slug": "daejin",
+      "domain": "daejin.ac.kr",
+      "domains": "daejin.ac.kr",
+      "web_page": "http://www.daejin.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Daeshin University",
+      "slug": "daeshin",
+      "domain": "daeshin.ac.kr",
+      "domains": "daeshin.ac.kr",
+      "web_page": "http://www.daeshin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dankook University",
+      "slug": "dankook",
+      "domain": "dankook.ac.kr",
+      "domains": "dankook.ac.kr",
+      "web_page": "http://www.dankook.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dong Eui University",
+      "slug": "dongeui",
+      "domain": "dongeui.ac.kr",
+      "domains": "dongeui.ac.kr",
+      "web_page": "http://www.dongeui.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dong Yang University of Technology",
+      "slug": "dytc",
+      "domain": "dytc.ac.kr",
+      "domains": "dytc.ac.kr",
+      "web_page": "http://www.dytc.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dong-A University",
+      "slug": "donga",
+      "domain": "donga.ac.kr",
+      "domains": "donga.ac.kr",
+      "web_page": "http://www.donga.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dong-Eui University",
+      "slug": "deu",
+      "domain": "deu.ac.kr",
+      "domains": "deu.ac.kr",
+      "web_page": "http://www.deu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dongduk Women's University",
+      "slug": "dongduk",
+      "domain": "dongduk.ac.kr",
+      "domains": "dongduk.ac.kr",
+      "web_page": "http://www.dongduk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dongguk University",
+      "slug": "dongguk",
+      "domain": "dongguk.ac.kr",
+      "domains": "dongguk.ac.kr, dongguk.edu",
+      "web_page": "http://www.dongguk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dongseo University",
+      "slug": "dongseo",
+      "domain": "dongseo.ac.kr",
+      "domains": "dongseo.ac.kr",
+      "web_page": "http://www.dongseo.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dongshin University",
+      "slug": "dongshinu",
+      "domain": "dongshinu.ac.kr",
+      "domains": "dongshinu.ac.kr, dsu.ac.kr",
+      "web_page": "http://www.dongshinu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Dongyang University",
+      "slug": "dyu",
+      "domain": "dyu.ac.kr",
+      "domains": "dyu.ac.kr",
+      "web_page": "http://www.dyu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Duksung Women's University",
+      "slug": "duksung",
+      "domain": "duksung.ac.kr",
+      "domains": "duksung.ac.kr",
+      "web_page": "http://www.duksung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Eulji University",
+      "slug": "eulji",
+      "domain": "eulji.ac.kr",
+      "domains": "eulji.ac.kr",
+      "web_page": "http://www.eulji.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Ewha Womans University",
+      "slug": "ewha",
+      "domain": "ewha.ac.kr",
+      "domains": "ewha.ac.kr",
+      "web_page": "http://www.ewha.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Far East University",
+      "slug": "kdu",
+      "domain": "kdu.ac.kr",
+      "domains": "kdu.ac.kr",
+      "web_page": "http://www.kdu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gachon University",
+      "slug": "gachon",
+      "domain": "gachon.ac.kr",
+      "domains": "gachon.ac.kr",
+      "web_page": "http://www.gachon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gangneung-Wonju National University",
+      "slug": "gwnu",
+      "domain": "gwnu.ac.kr",
+      "domains": "gwnu.ac.kr",
+      "web_page": "http://www.gwnu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Geumgang University",
+      "slug": "ggu",
+      "domain": "ggu.ac.kr",
+      "domains": "ggu.ac.kr",
+      "web_page": "http://www.ggu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gimcheon University",
+      "slug": "gimcheon",
+      "domain": "gimcheon.ac.kr",
+      "domains": "gimcheon.ac.kr",
+      "web_page": "http://www.gimcheon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gongju National University of Education",
+      "slug": "gjue",
+      "domain": "gjue.ac.kr",
+      "domains": "gjue.ac.kr",
+      "web_page": "http://www.gjue.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gwangju Catholic University",
+      "slug": "gjcatholic",
+      "domain": "gjcatholic.ac.kr",
+      "domains": "gjcatholic.ac.kr",
+      "web_page": "http://www.gjcatholic.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gwangju Institute of Science and Technology",
+      "slug": "gist",
+      "domain": "gist.ac.kr",
+      "domains": "gist.ac.kr",
+      "web_page": "http://www.gist.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gwangju National University of Education",
+      "slug": "gnue",
+      "domain": "gnue.ac.kr",
+      "domains": "gnue.ac.kr",
+      "web_page": "http://www.gnue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gyeongin National University of Education",
+      "slug": "ginue",
+      "domain": "ginue.ac.kr",
+      "domains": "ginue.ac.kr",
+      "web_page": "http://www.ginue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gyeongnam National University of Science and Technology",
+      "slug": "gntech",
+      "domain": "gntech.ac.kr",
+      "domains": "gntech.ac.kr",
+      "web_page": "http://www.gntech.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Gyeongsang National University",
+      "slug": "gsnu",
+      "domain": "gsnu.ac.kr",
+      "domains": "gsnu.ac.kr, gnu.ac.kr",
+      "web_page": "http://www.gsnu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Halla University",
+      "slug": "halla",
+      "domain": "halla.ac.kr",
+      "domains": "halla.ac.kr",
+      "web_page": "http://www.halla.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hallym University",
+      "slug": "hallym",
+      "domain": "hallym.ac.kr",
+      "domains": "hallym.ac.kr",
+      "web_page": "http://www.hallym.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanbat National University",
+      "slug": "hanbat",
+      "domain": "hanbat.ac.kr",
+      "domains": "hanbat.ac.kr",
+      "web_page": "http://www.hanbat.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Handong Global University",
+      "slug": "handong",
+      "domain": "handong.edu",
+      "domains": "handong.edu",
+      "web_page": "http://www.handong.edu",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanil University and Presbyterian Theological Seminary",
+      "slug": "hanil",
+      "domain": "hanil.ac.kr",
+      "domains": "hanil.ac.kr",
+      "web_page": "http://www.hanil.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hankuk Aviation University",
+      "slug": "hangkong",
+      "domain": "hangkong.ac.kr",
+      "domains": "hangkong.ac.kr",
+      "web_page": "http://www.hangkong.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hankuk University of Foreign Studies",
+      "slug": "hufs",
+      "domain": "hufs.ac.kr",
+      "domains": "hufs.ac.kr",
+      "web_page": "http://www.hufs.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hankyong National University",
+      "slug": "hknu",
+      "domain": "hknu.ac.kr",
+      "domains": "hknu.ac.kr",
+      "web_page": "http://www.hknu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanlyo University",
+      "slug": "hanlyo",
+      "domain": "hanlyo.ac.kr",
+      "domains": "hanlyo.ac.kr",
+      "web_page": "http://www.hanlyo.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hannam University",
+      "slug": "hannam",
+      "domain": "hannam.ac.kr",
+      "domains": "hannam.ac.kr",
+      "web_page": "http://www.hannam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hansei University",
+      "slug": "hansei",
+      "domain": "hansei.ac.kr",
+      "domains": "hansei.ac.kr",
+      "web_page": "http://www.hansei.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanseo University",
+      "slug": "hanseo",
+      "domain": "hanseo.ac.kr",
+      "domains": "hanseo.ac.kr",
+      "web_page": "http://www.hanseo.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanshin University",
+      "slug": "hanshin",
+      "domain": "hanshin.ac.kr",
+      "domains": "hanshin.ac.kr, hs.ac.kr",
+      "web_page": "http://www.hanshin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hansung University Seoul",
+      "slug": "hansung",
+      "domain": "hansung.ac.kr",
+      "domains": "hansung.ac.kr",
+      "web_page": "http://www.hansung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanyang University",
+      "slug": "hanyang",
+      "domain": "hanyang.ac.kr",
+      "domains": "hanyang.ac.kr",
+      "web_page": "http://www.hanyang.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hanzhong University",
+      "slug": "hanzhong",
+      "domain": "hanzhong.ac.kr",
+      "domains": "hanzhong.ac.kr",
+      "web_page": "http://www.hanzhong.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Honam Theological University and Seminary",
+      "slug": "htus",
+      "domain": "htus.ac.kr",
+      "domains": "htus.ac.kr",
+      "web_page": "http://www.htus.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Honam University",
+      "slug": "honam",
+      "domain": "honam.ac.kr",
+      "domains": "honam.ac.kr",
+      "web_page": "http://www.honam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hongik University",
+      "slug": "hongik",
+      "domain": "hongik.ac.kr",
+      "domains": "hongik.ac.kr",
+      "web_page": "http://www.hongik.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hoseo University",
+      "slug": "hoseo",
+      "domain": "hoseo.ac.kr",
+      "domains": "hoseo.ac.kr",
+      "web_page": "http://www.hoseo.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Hyupsung University",
+      "slug": "hyupsung",
+      "domain": "hyupsung.ac.kr",
+      "domains": "hyupsung.ac.kr, uhs.ac.kr",
+      "web_page": "http://www.hyupsung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Incheon Catholic University",
+      "slug": "iccu",
+      "domain": "iccu.ac.kr",
+      "domains": "iccu.ac.kr",
+      "web_page": "http://www.iccu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Incheon National University",
+      "slug": "inu",
+      "domain": "inu.ac.kr",
+      "domains": "inu.ac.kr",
+      "web_page": "https://inu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Inchon National University of Education",
+      "slug": "inchon-e",
+      "domain": "inchon-e.ac.kr",
+      "domains": "inchon-e.ac.kr",
+      "web_page": "http://www.inchon-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Inchon University",
+      "slug": "inchon",
+      "domain": "inchon.ac.kr",
+      "domains": "inchon.ac.kr",
+      "web_page": "http://www.inchon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Information and Communications University",
+      "slug": "icu",
+      "domain": "icu.ac.kr",
+      "domains": "icu.ac.kr",
+      "web_page": "http://www.icu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Inha University",
+      "slug": "inha",
+      "domain": "inha.ac.kr",
+      "domains": "inha.ac.kr",
+      "web_page": "http://www.inha.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Inje University",
+      "slug": "inje",
+      "domain": "inje.ac.kr",
+      "domains": "inje.ac.kr",
+      "web_page": "http://www.inje.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Korea",
+      "slug": "iuk",
+      "domain": "iuk.ac.kr",
+      "domains": "iuk.ac.kr",
+      "web_page": "http://www.iuk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Jeju International University",
+      "slug": "jeju",
+      "domain": "jeju.ac.kr",
+      "domains": "jeju.ac.kr",
+      "web_page": "http://www.jeju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Jeju National University",
+      "slug": "jejunu",
+      "domain": "jejunu.ac.kr",
+      "domains": "jejunu.ac.kr",
+      "web_page": "http://www.jejunu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Jeonju National University of Education",
+      "slug": "jnue",
+      "domain": "jnue.ac.kr",
+      "domains": "jnue.ac.kr",
+      "web_page": "http://www.jnue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Jeonju University",
+      "slug": "jeonju",
+      "domain": "jeonju.ac.kr",
+      "domains": "jeonju.ac.kr, jj.ac.kr",
+      "web_page": "http://www.jeonju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Jesus University",
+      "slug": "jesus",
+      "domain": "jesus.ac.kr",
+      "domains": "jesus.ac.kr",
+      "web_page": "http://www.jesus.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Joong-Ang Sangha University",
+      "slug": "sangha",
+      "domain": "sangha.ac.kr",
+      "domains": "sangha.ac.kr",
+      "web_page": "http://www.sangha.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Joongbu University",
+      "slug": "joongbu",
+      "domain": "joongbu.ac.kr",
+      "domains": "joongbu.ac.kr",
+      "web_page": "http://www.joongbu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Jungwon University",
+      "slug": "jwu",
+      "domain": "jwu.ac.kr",
+      "domains": "jwu.ac.kr",
+      "web_page": "http://www.jwu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kangnam University",
+      "slug": "kangnam",
+      "domain": "kangnam.ac.kr",
+      "domains": "kangnam.ac.kr",
+      "web_page": "http://www.kangnam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kangnung National University",
+      "slug": "kangnung",
+      "domain": "kangnung.ac.kr",
+      "domains": "kangnung.ac.kr",
+      "web_page": "http://www.kangnung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kangwon National University",
+      "slug": "kangwon",
+      "domain": "kangwon.ac.kr",
+      "domains": "kangwon.ac.kr",
+      "web_page": "http://www.kangwon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kaya University",
+      "slug": "kaya",
+      "domain": "kaya.ac.kr",
+      "domains": "kaya.ac.kr",
+      "web_page": "http://www.kaya.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "KC University",
+      "slug": "kcu",
+      "domain": "kcu.ac.kr",
+      "domains": "kcu.ac.kr",
+      "web_page": "http://www.kcu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "KDI School of Public Policy and Management",
+      "slug": "kdischool",
+      "domain": "kdischool.ac.kr",
+      "domains": "kdischool.ac.kr",
+      "web_page": "http://www.kdischool.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Keimyung University",
+      "slug": "keimyung",
+      "domain": "keimyung.ac.kr",
+      "domains": "keimyung.ac.kr, kmu.ac.kr",
+      "web_page": "http://www.keimyung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kkottongnae University",
+      "slug": "kkot",
+      "domain": "kkot.ac.kr",
+      "domains": "kkot.ac.kr",
+      "web_page": "http://www.kkot.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kongju National University",
+      "slug": "kyongju",
+      "domain": "kyongju.ac.kr",
+      "domains": "kyongju.ac.kr, kongju.ac.kr",
+      "web_page": "http://www.kyongju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kongju National University of Education",
+      "slug": "kongju-e",
+      "domain": "kongju-e.ac.kr",
+      "domains": "kongju-e.ac.kr",
+      "web_page": "http://www.kongju-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Konkuk University",
+      "slug": "konkuk",
+      "domain": "konkuk.ac.kr",
+      "domains": "konkuk.ac.kr",
+      "web_page": "http://www.konkuk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Konyang University",
+      "slug": "konyang",
+      "domain": "konyang.ac.kr",
+      "domains": "konyang.ac.kr",
+      "web_page": "http://www.konyang.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kookmin University",
+      "slug": "kookmin",
+      "domain": "kookmin.ac.kr",
+      "domains": "kookmin.ac.kr",
+      "web_page": "http://www.kookmin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Advanced Institute of Science & Technology",
+      "slug": "kaist",
+      "domain": "kaist.ac.kr",
+      "domains": "kaist.ac.kr, kaist.edu",
+      "web_page": "http://www.kaist.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Aerospace University",
+      "slug": "kau",
+      "domain": "kau.ac.kr",
+      "domains": "kau.ac.kr",
+      "web_page": "http://www.kau.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Armed Forces Nursing Academy",
+      "slug": "kafna",
+      "domain": "kafna.ac.kr",
+      "domains": "kafna.ac.kr",
+      "web_page": "http://www.kafna.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Baptist Theological University and Seminary",
+      "slug": "kbtus",
+      "domain": "kbtus.ac.kr",
+      "domains": "kbtus.ac.kr",
+      "web_page": "http://www.kbtus.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Maritime and Ocean University",
+      "slug": "kmou",
+      "domain": "kmou.ac.kr",
+      "domains": "kmou.ac.kr",
+      "web_page": "http://www.kmou.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Maritime University",
+      "slug": "kmaritime",
+      "domain": "kmaritime.ac.kr",
+      "domains": "kmaritime.ac.kr",
+      "web_page": "http://www.kmaritime.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Military Academy",
+      "slug": "kma",
+      "domain": "kma.ac.kr",
+      "domains": "kma.ac.kr",
+      "web_page": "http://www.kma.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea National Open University",
+      "slug": "knou",
+      "domain": "knou.ac.kr",
+      "domains": "knou.ac.kr",
+      "web_page": "http://www.knou.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea National Sport University",
+      "slug": "knsu",
+      "domain": "knsu.ac.kr",
+      "domains": "knsu.ac.kr",
+      "web_page": "http://www.knsu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea National University of Arts",
+      "slug": "knua",
+      "domain": "knua.ac.kr",
+      "domains": "knua.ac.kr, karts.ac.kr",
+      "web_page": "http://www.knua.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea National University of Cultural Heritage",
+      "slug": "nuch",
+      "domain": "nuch.ac.kr",
+      "domains": "nuch.ac.kr",
+      "web_page": "http://www.nuch.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea National University of Education",
+      "slug": "knue",
+      "domain": "knue.ac.kr",
+      "domains": "knue.ac.kr",
+      "web_page": "http://www.knue.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea National University of Physical Education",
+      "slug": "knupe",
+      "domain": "knupe.ac.kr",
+      "domains": "knupe.ac.kr",
+      "web_page": "http://www.knupe.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Nazarene University",
+      "slug": "kornu",
+      "domain": "kornu.ac.kr",
+      "domains": "kornu.ac.kr",
+      "web_page": "http://www.kornu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea Polytechnic University",
+      "slug": "kpu",
+      "domain": "kpu.ac.kr",
+      "domains": "kpu.ac.kr",
+      "web_page": "http://www.kpu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea University",
+      "slug": "korea",
+      "domain": "korea.ac.kr",
+      "domains": "korea.ac.kr",
+      "web_page": "http://www.korea.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korea University of Technology and Education",
+      "slug": "koreatech",
+      "domain": "koreatech.ac.kr",
+      "domains": "koreatech.ac.kr",
+      "web_page": "http://www.koreatech.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korean Bible University",
+      "slug": "bible",
+      "domain": "bible.ac.kr",
+      "domains": "bible.ac.kr",
+      "web_page": "http://www.bible.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Korean National Police University",
+      "slug": "police",
+      "domain": "police.ac.kr",
+      "domains": "police.ac.kr",
+      "web_page": "http://www.police.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kosin University",
+      "slug": "kosin",
+      "domain": "kosin.ac.kr",
+      "domains": "kosin.ac.kr",
+      "web_page": "http://www.kosin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kumoh National University of Technology",
+      "slug": "kumoh",
+      "domain": "kumoh.ac.kr",
+      "domains": "kumoh.ac.kr",
+      "web_page": "http://www.kumoh.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kunsan National University",
+      "slug": "kunsan",
+      "domain": "kunsan.ac.kr",
+      "domains": "kunsan.ac.kr",
+      "web_page": "http://www.kunsan.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kwan Dong University",
+      "slug": "kwandong",
+      "domain": "kwandong.ac.kr",
+      "domains": "kwandong.ac.kr",
+      "web_page": "http://www.kwandong.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kwangju National University of Education",
+      "slug": "kwangju-e",
+      "domain": "kwangju-e.ac.kr",
+      "domains": "kwangju-e.ac.kr",
+      "web_page": "http://www.kwangju-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kwangju University",
+      "slug": "kwangju",
+      "domain": "kwangju.ac.kr",
+      "domains": "kwangju.ac.kr, gwangju.ac.kr",
+      "web_page": "http://www.kwangju.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kwangju Women's University",
+      "slug": "kwu",
+      "domain": "kwu.ac.kr",
+      "domains": "kwu.ac.kr",
+      "web_page": "http://www.kwu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kwangshin University",
+      "slug": "kwangshin",
+      "domain": "kwangshin.ac.kr",
+      "domains": "kwangshin.ac.kr",
+      "web_page": "http://www.kwangshin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kwangwoon University",
+      "slug": "kwangwoon",
+      "domain": "kwangwoon.ac.kr",
+      "domains": "kwangwoon.ac.kr, kw.ac.kr",
+      "web_page": "http://www.kwangwoon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyonggi University",
+      "slug": "kyonggi",
+      "domain": "kyonggi.ac.kr",
+      "domains": "kyonggi.ac.kr",
+      "web_page": "http://www.kyonggi.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyung Hee University",
+      "slug": "khu",
+      "domain": "khu.ac.kr",
+      "domains": "khu.ac.kr",
+      "web_page": "http://www.khu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungdong University",
+      "slug": "kduniv",
+      "domain": "kduniv.ac.kr",
+      "domains": "kduniv.ac.kr",
+      "web_page": "http://www.kduniv.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyunghee University",
+      "slug": "kyunghee",
+      "domain": "kyunghee.ac.kr",
+      "domains": "kyunghee.ac.kr",
+      "web_page": "http://www.kyunghee.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungil University",
+      "slug": "kyungil",
+      "domain": "kyungil.ac.kr",
+      "domains": "kyungil.ac.kr, kiu.ac.kr",
+      "web_page": "http://www.kyungil.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungnam University",
+      "slug": "kyungnam",
+      "domain": "kyungnam.ac.kr",
+      "domains": "kyungnam.ac.kr",
+      "web_page": "http://www.kyungnam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungpook National University",
+      "slug": "kyungpook",
+      "domain": "kyungpook.ac.kr",
+      "domains": "kyungpook.ac.kr",
+      "web_page": "http://www.kyungpook.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungsung University",
+      "slug": "kyungsung",
+      "domain": "kyungsung.ac.kr",
+      "domains": "kyungsung.ac.kr, ks.ac.kr",
+      "web_page": "http://www.kyungsung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungwon University",
+      "slug": "kyungwon",
+      "domain": "kyungwon.ac.kr",
+      "domains": "kyungwon.ac.kr",
+      "web_page": "http://www.kyungwon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Kyungwoon University",
+      "slug": "ikw",
+      "domain": "ikw.ac.kr",
+      "domains": "ikw.ac.kr",
+      "web_page": "http://www.ikw.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Methodist Theological University",
+      "slug": "mtu",
+      "domain": "mtu.ac.kr",
+      "domains": "mtu.ac.kr",
+      "web_page": "http://www.mtu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Miryang National University",
+      "slug": "miryang",
+      "domain": "miryang.ac.kr",
+      "domains": "miryang.ac.kr",
+      "web_page": "http://www.miryang.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Mokpo Catholic University",
+      "slug": "mcu",
+      "domain": "mcu.ac.kr",
+      "domains": "mcu.ac.kr",
+      "web_page": "https://www.mcu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Mokpo National Maritime University",
+      "slug": "mmu",
+      "domain": "mmu.ac.kr",
+      "domains": "mmu.ac.kr",
+      "web_page": "http://www.mmu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Mokpo National University",
+      "slug": "mokpo",
+      "domain": "mokpo.ac.kr",
+      "domains": "mokpo.ac.kr",
+      "web_page": "http://www.mokpo.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Mokwon University Taejon",
+      "slug": "mokwon",
+      "domain": "mokwon.ac.kr",
+      "domains": "mokwon.ac.kr",
+      "web_page": "http://www.mokwon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Myongji University",
+      "slug": "myongji",
+      "domain": "myongji.ac.kr",
+      "domains": "myongji.ac.kr, mju.ac.kr",
+      "web_page": "http://www.myongji.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Nambu University",
+      "slug": "nambu",
+      "domain": "nambu.ac.kr",
+      "domains": "nambu.ac.kr",
+      "web_page": "http://www.nambu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Namseoul University",
+      "slug": "nsu",
+      "domain": "nsu.ac.kr",
+      "domains": "nsu.ac.kr",
+      "web_page": "http://www.nsu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pai Chai University",
+      "slug": "pcu",
+      "domain": "pcu.ac.kr",
+      "domains": "pcu.ac.kr",
+      "web_page": "http://www.pcu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Paichai University",
+      "slug": "paichai",
+      "domain": "paichai.ac.kr",
+      "domains": "paichai.ac.kr",
+      "web_page": "http://www.paichai.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pohang University of Science and Technology",
+      "slug": "postech",
+      "domain": "postech.ac.kr",
+      "domains": "postech.ac.kr, postech.edu",
+      "web_page": "http://www.postech.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Presbyterian University and Theological Seminary",
+      "slug": "puts",
+      "domain": "puts.ac.kr",
+      "domains": "puts.ac.kr",
+      "web_page": "http://www.puts.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pukyong National University",
+      "slug": "pknu",
+      "domain": "pknu.ac.kr",
+      "domains": "pknu.ac.kr, pukyong.ac.kr",
+      "web_page": "http://www.pknu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pusan National University",
+      "slug": "pusan",
+      "domain": "pusan.ac.kr",
+      "domains": "pusan.ac.kr",
+      "web_page": "http://www.pusan.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pusan National University of Education",
+      "slug": "pusan-e",
+      "domain": "pusan-e.ac.kr",
+      "domains": "pusan-e.ac.kr",
+      "web_page": "http://www.pusan-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pusan University of Foreign Studies",
+      "slug": "pufs",
+      "domain": "pufs.ac.kr",
+      "domains": "pufs.ac.kr",
+      "web_page": "http://www.pufs.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pusan Women's University",
+      "slug": "pwc",
+      "domain": "pwc.ac.kr",
+      "domains": "pwc.ac.kr",
+      "web_page": "http://www.pwc.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pyeongtaek University",
+      "slug": "ptu",
+      "domain": "ptu.ac.kr",
+      "domains": "ptu.ac.kr",
+      "web_page": "http://www.ptu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Pyongtaek University",
+      "slug": "ptuniv",
+      "domain": "ptuniv.ac.kr",
+      "domains": "ptuniv.ac.kr",
+      "web_page": "http://www.ptuniv.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Republic of Korea Air Force Academy",
+      "slug": "afa",
+      "domain": "afa.ac.kr",
+      "domains": "afa.ac.kr",
+      "web_page": "http://www.afa.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Republic of Korea Naval Academy",
+      "slug": "navy",
+      "domain": "navy.ac.kr",
+      "domains": "navy.ac.kr",
+      "web_page": "http://www.navy.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sahmyook University",
+      "slug": "syu",
+      "domain": "syu.ac.kr",
+      "domains": "syu.ac.kr",
+      "web_page": "http://www.syu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Samchok National University",
+      "slug": "samchok",
+      "domain": "samchok.ac.kr",
+      "domains": "samchok.ac.kr",
+      "web_page": "http://www.samchok.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sang Ji University",
+      "slug": "sangji",
+      "domain": "sangji.ac.kr",
+      "domains": "sangji.ac.kr",
+      "web_page": "http://www.sangji.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sang Myung University",
+      "slug": "sangmyung",
+      "domain": "sangmyung.ac.kr",
+      "domains": "sangmyung.ac.kr",
+      "web_page": "http://www.sangmyung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sangmyung University",
+      "slug": "smu",
+      "domain": "smu.ac.kr",
+      "domains": "smu.ac.kr",
+      "web_page": "http://www.smu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sehan University",
+      "slug": "sehan",
+      "domain": "sehan.ac.kr",
+      "domains": "sehan.ac.kr",
+      "web_page": "http://www.sehan.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sejong University",
+      "slug": "sejong",
+      "domain": "sejong.ac.kr",
+      "domains": "sejong.ac.kr",
+      "web_page": "http://www.sejong.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Semyung University",
+      "slug": "semyung",
+      "domain": "semyung.ac.kr",
+      "domains": "semyung.ac.kr",
+      "web_page": "http://www.semyung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seokyeong University",
+      "slug": "skuniv",
+      "domain": "skuniv.ac.kr",
+      "domains": "skuniv.ac.kr, seokyeong.ac.kr",
+      "web_page": "http://www.skuniv.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seonam University",
+      "slug": "seonam",
+      "domain": "seonam.ac.kr",
+      "domains": "seonam.ac.kr",
+      "web_page": "http://www.seonam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul Christian University",
+      "slug": "scu",
+      "domain": "scu.ac.kr",
+      "domains": "scu.ac.kr",
+      "web_page": "http://www.scu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul City University",
+      "slug": "uos",
+      "domain": "uos.ac.kr",
+      "domains": "uos.ac.kr",
+      "web_page": "http://www.uos.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul Hanyoung University",
+      "slug": "hytu",
+      "domain": "hytu.ac.kr",
+      "domains": "hytu.ac.kr",
+      "web_page": "http://www.hytu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul Jangsin University",
+      "slug": "sjs",
+      "domain": "sjs.ac.kr",
+      "domains": "sjs.ac.kr",
+      "web_page": "http://www.sjs.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul National University",
+      "slug": "snu",
+      "domain": "snu.ac.kr",
+      "domains": "snu.ac.kr",
+      "web_page": "http://www.snu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul National University of Education",
+      "slug": "seoul-e",
+      "domain": "seoul-e.ac.kr",
+      "domains": "seoul-e.ac.kr, snue.ac.kr",
+      "web_page": "http://www.seoul-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul National University of Science and Technology",
+      "slug": "seoultech",
+      "domain": "seoultech.ac.kr",
+      "domains": "seoultech.ac.kr",
+      "web_page": "http://www.seoultech.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul National University of Technology",
+      "slug": "snut",
+      "domain": "snut.ac.kr",
+      "domains": "snut.ac.kr",
+      "web_page": "http://www.snut.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul Teological University",
+      "slug": "stu",
+      "domain": "stu.ac.kr",
+      "domains": "stu.ac.kr",
+      "web_page": "http://www.stu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seoul Women's University",
+      "slug": "swu",
+      "domain": "swu.ac.kr",
+      "domains": "swu.ac.kr",
+      "web_page": "http://www.swu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Seowon University",
+      "slug": "seowon",
+      "domain": "seowon.ac.kr",
+      "domains": "seowon.ac.kr",
+      "web_page": "http://www.seowon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Shingyeong University",
+      "slug": "sgu",
+      "domain": "sgu.ac.kr",
+      "domains": "sgu.ac.kr",
+      "web_page": "http://www.sgu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Shinhan University",
+      "slug": "shinhan",
+      "domain": "shinhan.ac.kr",
+      "domains": "shinhan.ac.kr",
+      "web_page": "http://www.shinhan.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Silla University",
+      "slug": "silla",
+      "domain": "silla.ac.kr",
+      "domains": "silla.ac.kr",
+      "web_page": "http://www.silla.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sogang University",
+      "slug": "sogang",
+      "domain": "sogang.ac.kr",
+      "domains": "sogang.ac.kr",
+      "web_page": "http://www.sogang.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Songwon University",
+      "slug": "songwon",
+      "domain": "songwon.ac.kr",
+      "domains": "songwon.ac.kr",
+      "web_page": "http://www.songwon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sookmyung Women's University",
+      "slug": "sookmyung",
+      "domain": "sookmyung.ac.kr",
+      "domains": "sookmyung.ac.kr",
+      "web_page": "http://www.sookmyung.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Soonchunhyang University",
+      "slug": "sch",
+      "domain": "sch.ac.kr",
+      "domains": "sch.ac.kr",
+      "web_page": "http://www.sch.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Soongsil University",
+      "slug": "soongsil",
+      "domain": "soongsil.ac.kr",
+      "domains": "soongsil.ac.kr, ssu.ac.kr",
+      "web_page": "http://www.soongsil.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sunchon National University",
+      "slug": "sunchon",
+      "domain": "sunchon.ac.kr",
+      "domains": "sunchon.ac.kr, scnu.ac.kr",
+      "web_page": "http://www.sunchon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sung Kyun Kwan University",
+      "slug": "skku",
+      "domain": "skku.ac.kr",
+      "domains": "skku.ac.kr",
+      "web_page": "http://www.skku.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sungkonghoe University",
+      "slug": "skhu",
+      "domain": "skhu.ac.kr",
+      "domains": "skhu.ac.kr",
+      "web_page": "http://www.skhu.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sungkyul University",
+      "slug": "sungkyul",
+      "domain": "sungkyul.ac.kr",
+      "domains": "sungkyul.ac.kr",
+      "web_page": "http://www.sungkyul.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sungkyunkwan University",
+      "slug": "skku-skku-edu",
+      "domain": "skku.edu",
+      "domains": "skku.edu",
+      "web_page": "http://www.skku.edu/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sungshin Women's University",
+      "slug": "sungshin",
+      "domain": "sungshin.ac.kr",
+      "domains": "sungshin.ac.kr",
+      "web_page": "http://www.sungshin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Sunmoon University",
+      "slug": "sunmoon",
+      "domain": "sunmoon.ac.kr",
+      "domains": "sunmoon.ac.kr",
+      "web_page": "http://www.sunmoon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Suwon Catholic University",
+      "slug": "suwoncatholic",
+      "domain": "suwoncatholic.ac.kr",
+      "domains": "suwoncatholic.ac.kr",
+      "web_page": "http://www.suwoncatholic.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Suwon University",
+      "slug": "suwon",
+      "domain": "suwon.ac.kr",
+      "domains": "suwon.ac.kr",
+      "web_page": "http://www.suwon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Taegu National University of Education",
+      "slug": "taegu-e",
+      "domain": "taegu-e.ac.kr",
+      "domains": "taegu-e.ac.kr",
+      "web_page": "http://www.taegu-e.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Taegu University",
+      "slug": "taegu",
+      "domain": "taegu.ac.kr",
+      "domains": "taegu.ac.kr",
+      "web_page": "http://www.taegu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Taejae University",
+      "slug": "taejae",
+      "domain": "taejae.ac.kr",
+      "domains": "taejae.ac.kr",
+      "web_page": "https://www.taejae.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Taejon National University of Technology",
+      "slug": "tnut",
+      "domain": "tnut.ac.kr",
+      "domains": "tnut.ac.kr",
+      "web_page": "http://www.tnut.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Taejon University",
+      "slug": "taejon",
+      "domain": "taejon.ac.kr",
+      "domains": "taejon.ac.kr",
+      "web_page": "http://www.taejon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Taeshin Christian University",
+      "slug": "taeshin",
+      "domain": "taeshin.ac.kr",
+      "domains": "taeshin.ac.kr",
+      "web_page": "http://www.taeshin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Tongmyung University of Information Technology",
+      "slug": "tit",
+      "domain": "tit.ac.kr",
+      "domains": "tit.ac.kr",
+      "web_page": "http://www.tit.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "U1 University",
+      "slug": "u1",
+      "domain": "u1.ac.kr",
+      "domains": "u1.ac.kr",
+      "web_page": "http://www.u1.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Uiduk University",
+      "slug": "uu",
+      "domain": "uu.ac.kr",
+      "domains": "uu.ac.kr",
+      "web_page": "http://www.uu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Ulsan National Institute of Science and Technology",
+      "slug": "unist",
+      "domain": "unist.ac.kr",
+      "domains": "unist.ac.kr",
+      "web_page": "http://www.unist.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Science and Technology",
+      "slug": "ust",
+      "domain": "ust.ac.kr",
+      "domains": "ust.ac.kr",
+      "web_page": "http://www.ust.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Ulsan",
+      "slug": "ulsan",
+      "domain": "ulsan.ac.kr",
+      "domains": "ulsan.ac.kr",
+      "web_page": "http://www.ulsan.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Wonkwang University",
+      "slug": "wonkwang",
+      "domain": "wonkwang.ac.kr",
+      "domains": "wonkwang.ac.kr, wku.ac.kr",
+      "web_page": "http://www.wonkwang.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Woosong University",
+      "slug": "wsu",
+      "domain": "wsu.ac.kr",
+      "domains": "wsu.ac.kr",
+      "web_page": "http://www.wsu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Woosuk University",
+      "slug": "woosuk",
+      "domain": "woosuk.ac.kr",
+      "domains": "woosuk.ac.kr",
+      "web_page": "http://www.woosuk.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Yeungnam University",
+      "slug": "yeungnam",
+      "domain": "yeungnam.ac.kr",
+      "domains": "yeungnam.ac.kr",
+      "web_page": "http://www.yeungnam.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Yewon Arts University",
+      "slug": "yewon",
+      "domain": "www.yewon.ac.kr",
+      "domains": "www.yewon.ac.kr",
+      "web_page": "http://www.yewon.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Yong In University",
+      "slug": "yongin",
+      "domain": "www.yongin.ac.kr",
+      "domains": "www.yongin.ac.kr",
+      "web_page": "http://www.yongin.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Yonsei University",
+      "slug": "yonsei",
+      "domain": "yonsei.ac.kr",
+      "domains": "yonsei.ac.kr",
+      "web_page": "http://www.yonsei.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Yosu National University",
+      "slug": "yosu",
+      "domain": "yosu.ac.kr",
+      "domains": "yosu.ac.kr",
+      "web_page": "http://www.yosu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Youngsan University",
+      "slug": "ysu",
+      "domain": "www.ysu.ac.kr",
+      "domains": "www.ysu.ac.kr",
+      "web_page": "http://www.ysu.ac.kr/",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    },
+    {
+      "name": "Youngsan University of Son Studies",
+      "slug": "youngsan",
+      "domain": "www.youngsan.ac.kr",
+      "domains": "www.youngsan.ac.kr",
+      "web_page": "http://www.youngsan.ac.kr",
+      "country": "Korea, Republic of",
+      "country_code": "KR",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Korea, Republic of — Universities (대학교) - 무료 다운로드",
+    "description": "List of accredited universities and higher-education institutions in Korea, Republic of. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Korea, Republic of\"). 포함 244 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Korea, Republic of — Universities (대학교) | ListBase",
+    "seo_description": "다운로드 Korea, Republic of — Universities (대학교) — 244 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 244 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

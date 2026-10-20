@@ -1,0 +1,126 @@
+{
+  "id": "ko-geukjang",
+  "name": "대한민국의 극장 (Theatres of South Korea)",
+  "title": "대한민국의 극장 (Theatres of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 극장 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "KBS홀",
+      "name_en": "KBS Hall",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.525954,
+      "longitude": 126.915221,
+      "wikidata_id": "Q490202",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490202"
+    },
+    {
+      "name_ko": "국립아시아문화전당",
+      "name_en": "Asian Culture Center",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Dong District, Gwangju",
+      "latitude": 35.14724,
+      "longitude": 126.920687,
+      "wikidata_id": "Q12585739",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585739"
+    },
+    {
+      "name_ko": "국립중앙극장",
+      "name_en": "National Theater of Korea",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5525,
+      "longitude": 127,
+      "wikidata_id": "Q490411",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490411"
+    },
+    {
+      "name_ko": "드라마센터",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.559069,
+      "longitude": 126.988534,
+      "wikidata_id": "Q16096416",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096416"
+    },
+    {
+      "name_ko": "세종문화회관",
+      "name_en": "Sejong Center",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.5725,
+      "longitude": 126.9756,
+      "wikidata_id": "Q496974",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q496974"
+    },
+    {
+      "name_ko": "영화의전당",
+      "name_en": "Busan Cinema Center",
+      "admin_area_ko": "우동",
+      "admin_area_en": "Busan",
+      "latitude": 35.171163888,
+      "longitude": 129.127188888,
+      "wikidata_id": "Q14020347",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14020347"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 극장 (Theatres of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 극장 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 6 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 극장 (Theatres of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 극장 (Theatres of South Korea) — 6 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 6 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

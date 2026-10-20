@@ -1,0 +1,361 @@
+{
+  "id": "ko-tv-chaeneol-shop",
+  "name": "대한민국 홈쇼핑 채널",
+  "title": "대한민국 홈쇼핑 채널",
+  "description": "홈쇼핑·판매 전문 채널 18개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'shop'. Korean 'shop' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "CJOnStyle.kr",
+      "name": "CJ OnStyle",
+      "alt_names": "CJ온스타일",
+      "network": "",
+      "owners": "CJ Group",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2021-05-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://display.cjonstyle.com/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CJOnStylePlus.kr",
+      "name": "CJ OnStyle+",
+      "alt_names": "CJ온스타일+",
+      "network": "",
+      "owners": "CJ Group",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://display.cjonstyle.com/"
+    },
+    {
+      "id": 3,
+      "channel_id": "GSMyShop.kr",
+      "name": "GS My Shop",
+      "alt_names": "",
+      "network": "",
+      "owners": "GS Home Shopping Inc",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.gsshop.com/shop/gsmyshop/index.gs"
+    },
+    {
+      "id": 4,
+      "channel_id": "GSShop.kr",
+      "name": "GS Shop",
+      "alt_names": "",
+      "network": "",
+      "owners": "GS Home Shopping Inc",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "1995-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.gsshop.com/"
+    },
+    {
+      "id": 5,
+      "channel_id": "GongyoungHomeShopping.kr",
+      "name": "Gongyoung Home Shopping",
+      "alt_names": "공영홈쇼핑, Public Home Shopping",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.gongyoungshop.kr/"
+    },
+    {
+      "id": 6,
+      "channel_id": "HomeShopping.kr",
+      "name": "Home & Shopping",
+      "alt_names": "홈&쇼핑",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2012-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.hnsmall.com/"
+    },
+    {
+      "id": 7,
+      "channel_id": "HyundaiHomeShopping.kr",
+      "name": "Hyundai Home Shopping",
+      "alt_names": "현대홈쇼핑",
+      "network": "",
+      "owners": "Hyundai Home Shopping Network Group",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hmall.com/"
+    },
+    {
+      "id": 8,
+      "channel_id": "HyundaiHomeShoppingPlusShop.kr",
+      "name": "Hyundai Home Shopping + Shop",
+      "alt_names": "현대홈쇼핑+샵",
+      "network": "",
+      "owners": "Hyundai Home Shopping Network Group",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hmall.com/"
+    },
+    {
+      "id": 9,
+      "channel_id": "KShopping.kr",
+      "name": "K Shopping",
+      "alt_names": "K쇼핑",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.kshop.co.kr/"
+    },
+    {
+      "id": 10,
+      "channel_id": "LotteHomeShopping.kr",
+      "name": "Lotte Home Shopping",
+      "alt_names": "롯데홈쇼핑",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2001-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.lotteimall.com/"
+    },
+    {
+      "id": 11,
+      "channel_id": "LotteOneTV.kr",
+      "name": "Lotte OneTV",
+      "alt_names": "롯데OneTV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2015-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.lotteimall.com/onetv.lotte"
+    },
+    {
+      "id": 12,
+      "channel_id": "MGTV.kr",
+      "name": "MGTV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.mgtvlive.com/content/onair?ckattempt=1"
+    },
+    {
+      "id": 13,
+      "channel_id": "NSHomeShopping.kr",
+      "name": "NS Home Shopping",
+      "alt_names": "NS홈쇼핑",
+      "network": "",
+      "owners": "NS Shopping Co Ltd",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2001-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://pr.nsmall.com/"
+    },
+    {
+      "id": 14,
+      "channel_id": "NSShopPlus.kr",
+      "name": "NS Shop+",
+      "alt_names": "NS샵플러스",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2015-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://pr.nsmall.com/"
+    },
+    {
+      "id": 15,
+      "channel_id": "SKStoa.kr",
+      "name": "SK Stoa",
+      "alt_names": "SK스토아",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2017-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.skstoa.com/"
+    },
+    {
+      "id": 16,
+      "channel_id": "ShinsegaeTVShopping.kr",
+      "name": "Shinsegae TV Shopping",
+      "alt_names": "신세계쇼핑",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.shinsegaetvshopping.com/"
+    },
+    {
+      "id": 17,
+      "channel_id": "ShoppingNT.kr",
+      "name": "Shopping NT",
+      "alt_names": "쇼핑엔티",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.shoppingntmall.com/"
+    },
+    {
+      "id": 18,
+      "channel_id": "WShopping.kr",
+      "name": "W Shopping",
+      "alt_names": "W쇼핑",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "shop",
+      "is_nsfw": false,
+      "launched": "2015-08-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://w-shopping.co.kr/"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 홈쇼핑 채널 - 무료 다운로드",
+    "description": "홈쇼핑·판매 전문 채널 18개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'shop'. Korean 'shop' TV channels split from the ko-tv-chaeneol master dataset. 포함 18 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 홈쇼핑 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 홈쇼핑 채널 — 18 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 18 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

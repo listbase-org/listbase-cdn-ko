@@ -1,0 +1,7 @@
+﻿"Name","Name Romanized","Lines","Lines En","Lines Count","Latitude","Longitude","Around Stations","Around Count"
+"인천공항1터미널","","공항철도, 자기부상철도","AREX (Airport Railroad Express), Incheon Airport Maglev","2","37.4475222","126.4503834","인천공항2터미널, 공항화물청사, 장기주차장","3"
+"장기주차장","","자기부상철도","Incheon Airport Maglev","1","37.443916279157115","126.45557721439164","인천공항1터미널, 합동청사","2"
+"합동청사","","자기부상철도","Incheon Airport Maglev","1","37.4413522","126.4575236","장기주차장, 파라다이스시티","2"
+"파라다이스시티","","자기부상철도","Incheon Airport Maglev","1","37.4379539","126.4580952","합동청사, 워터파크","2"
+"워터파크","","자기부상철도","Incheon Airport Maglev","1","37.429221","126.434231","파라다이스시티, 용유","2"
+"용유","","자기부상철도","Incheon Airport Maglev","1","37.424832","126.423652","워터파크","1"

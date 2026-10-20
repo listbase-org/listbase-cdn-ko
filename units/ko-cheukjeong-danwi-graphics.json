@@ -1,0 +1,133 @@
+{
+  "id": "ko-cheukjeong-danwi-graphics",
+  "name": "그래픽 단위 (8)",
+  "title": "그래픽 단위 (8)",
+  "description": "CLDR ko 로케일의 'graphics' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "graphics-dot",
+      "bunryu": "graphics",
+      "ireum": "도트",
+      "yakja": "도트",
+      "gan_yakja": "도트",
+      "danwi_paeteon": "{0}도트",
+      "id": 1
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "bunryu": "graphics",
+      "ireum": "센티미터당 도트 수",
+      "yakja": "dpcm",
+      "gan_yakja": "dpcm",
+      "danwi_paeteon": "센티미터당 {0}도트",
+      "id": 2
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "bunryu": "graphics",
+      "ireum": "인치당 도트 수",
+      "yakja": "dpi",
+      "gan_yakja": "dpi",
+      "danwi_paeteon": "인치당 {0}도트",
+      "id": 3
+    },
+    {
+      "unit_code": "graphics-em",
+      "bunryu": "graphics",
+      "ireum": "em",
+      "yakja": "em",
+      "gan_yakja": "em",
+      "danwi_paeteon": "{0}em",
+      "id": 4
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "bunryu": "graphics",
+      "ireum": "MP",
+      "yakja": "MP",
+      "gan_yakja": "MP",
+      "danwi_paeteon": "{0}MP",
+      "id": 5
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "bunryu": "graphics",
+      "ireum": "px",
+      "yakja": "px",
+      "gan_yakja": "px",
+      "danwi_paeteon": "{0}px",
+      "id": 6
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "bunryu": "graphics",
+      "ireum": "ppcm",
+      "yakja": "ppcm",
+      "gan_yakja": "ppcm",
+      "danwi_paeteon": "{0}ppcm",
+      "id": 7
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "bunryu": "graphics",
+      "ireum": "ppi",
+      "yakja": "ppi",
+      "gan_yakja": "ppi",
+      "danwi_paeteon": "{0}ppi",
+      "id": 8
+    }
+  ],
+  "meta": {
+    "title": "그래픽 단위 (8) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'graphics' 분류 측정 단위와 한국어 명칭. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "그래픽 단위 (8) | ListBase",
+    "seo_description": "다운로드 그래픽 단위 (8) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

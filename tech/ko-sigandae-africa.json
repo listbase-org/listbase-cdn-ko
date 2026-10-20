@@ -1,0 +1,472 @@
+{
+  "id": "ko-sigandae-africa",
+  "name": "아프리카 시간대 (52)",
+  "title": "아프리카 시간대 (52)",
+  "description": "IANA tz 식별자가 'Africa/'로 시작하는 시간대의 한국어 명칭 목록.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아비장",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아크라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아디스아바바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "알제",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아스메라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bamako",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "바마코",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Bangui",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "방기",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Banjul",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "반줄",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Bissau",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "비사우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Blantyre",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "블랜타이어",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Brazzaville",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "브라자빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Bujumbura",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "부줌부라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Cairo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "카이로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Casablanca",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "카사블랑카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Ceuta",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "세우타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Conakry",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "코나크리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Dakar",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "다카르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "다르에스살람",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Djibouti",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "지부티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Douala",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "두알라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/El_Aaiun",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "엘아이운",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Freetown",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "프리타운",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Gaborone",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "가보로네",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Africa/Harare",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "하라레",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Africa/Johannesburg",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "요하네스버그",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Africa/Juba",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "주바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Africa/Kampala",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "캄팔라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Africa/Khartoum",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "카르툼",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Africa/Kigali",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "키갈리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Africa/Kinshasa",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "킨샤사",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Africa/Lagos",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "라고스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Africa/Libreville",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "리브르빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Africa/Lome",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "로메",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Africa/Luanda",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "루안다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Africa/Lubumbashi",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "루붐바시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Africa/Lusaka",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "루사카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Africa/Malabo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "말라보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Africa/Maputo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "마푸토",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Africa/Maseru",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "마세루",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Africa/Mbabane",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "음바바네",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Africa/Mogadishu",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "모가디슈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Africa/Monrovia",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "몬로비아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Africa/Nairobi",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "나이로비",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Africa/Ndjamena",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "엔자메나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Africa/Niamey",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "니아메",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Africa/Nouakchott",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "누악쇼트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Africa/Ouagadougou",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "와가두구",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Africa/Porto-Novo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "포르토노보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Africa/Sao_Tome",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "상투메",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Africa/Tripoli",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "트리폴리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Africa/Tunis",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "튀니스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Africa/Windhoek",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "빈트후크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "아프리카 시간대 (52) - 무료 다운로드",
+    "description": "IANA tz 식별자가 'Africa/'로 시작하는 시간대의 한국어 명칭 목록. 포함 52 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "아프리카 시간대 (52) | ListBase",
+    "seo_description": "다운로드 아프리카 시간대 (52) — 52 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 52 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

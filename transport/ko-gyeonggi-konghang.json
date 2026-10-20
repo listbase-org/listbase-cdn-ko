@@ -1,0 +1,198 @@
+{
+  "id": "ko-gyeonggi-konghang",
+  "name": "Gyeonggi-do 공항 (Airports in Gyeonggi-do, South Korea)",
+  "title": "Gyeonggi-do 공항 (Airports in Gyeonggi-do, South Korea)",
+  "description": "Airports located in the Gyeonggi-do administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RKSO",
+      "iata": "OSN",
+      "name": "Osan Air Base",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 38,
+      "latitude": 37.0906,
+      "longitude": 127.03,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKSM",
+      "iata": "SSN",
+      "name": "Seoul Air Base",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 92,
+      "latitude": 37.4458,
+      "longitude": 127.114,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKSW",
+      "iata": "SWU",
+      "name": "Suwon Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 88,
+      "latitude": 37.2394,
+      "longitude": 127.007,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK28",
+      "iata": "",
+      "name": "G 219 Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 317,
+      "latitude": 37.9094,
+      "longitude": 127.008,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK29",
+      "iata": "",
+      "name": "G 203 Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 80,
+      "latitude": 37.6437,
+      "longitude": 127.149,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK35",
+      "iata": "",
+      "name": "G 225 Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 138,
+      "latitude": 38.0189,
+      "longitude": 126.977,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKRG",
+      "iata": "",
+      "name": "G 301 Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 230,
+      "latitude": 37.5003,
+      "longitude": 127.619,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKRO",
+      "iata": "",
+      "name": "G 217 Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 328,
+      "latitude": 37.8665,
+      "longitude": 127.175,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKSG",
+      "iata": "",
+      "name": "A 511 Airport",
+      "city": "",
+      "subdivision": "Gyeonggi-do",
+      "country": "KR",
+      "elevation_ft": 51,
+      "latitude": 36.9622,
+      "longitude": 127.031,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Gyeonggi-do 공항 (Airports in Gyeonggi-do, South Korea) - 무료 다운로드",
+    "description": "Airports located in the Gyeonggi-do administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone. 포함 9 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gyeonggi-do 공항 (Airports in Gyeonggi-do, South Korea) | ListBase",
+    "seo_description": "다운로드 Gyeonggi-do 공항 (Airports in Gyeonggi-do, South Korea) — 9 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 9 건 / 11 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

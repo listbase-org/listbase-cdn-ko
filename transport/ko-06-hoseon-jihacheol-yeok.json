@@ -1,0 +1,500 @@
+{
+  "id": "ko-06-hoseon-jihacheol-yeok",
+  "name": "06호선 지하철 역 (Line 6 subway stations)",
+  "title": "06호선 지하철 역 (Line 6 subway stations)",
+  "description": "06호선(Line 6)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 39개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 6 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "석계",
+      "name_romanized": "",
+      "lines": "01호선, 06호선",
+      "lines_en": "Line 1, Line 6",
+      "lines_count": 2,
+      "latitude": 37.614805,
+      "longitude": 127.065851,
+      "around_stations": "돌곶이, 태릉입구, 광운대, 신이문",
+      "around_count": 4
+    },
+    {
+      "name": "동묘앞",
+      "name_romanized": "",
+      "lines": "01호선, 06호선",
+      "lines_en": "Line 1, Line 6",
+      "lines_count": 2,
+      "latitude": 37.572627,
+      "longitude": 127.016429,
+      "around_stations": "신당, 창신, 동대문, 신설동",
+      "around_count": 4
+    },
+    {
+      "name": "신당",
+      "name_romanized": "",
+      "lines": "02호선, 06호선",
+      "lines_en": "Line 2, Line 6",
+      "lines_count": 2,
+      "latitude": 37.565972,
+      "longitude": 127.01782,
+      "around_stations": "청구, 동묘앞, 동대문역사문화공원, 상왕십리",
+      "around_count": 4
+    },
+    {
+      "name": "합정",
+      "name_romanized": "",
+      "lines": "02호선, 06호선",
+      "lines_en": "Line 2, Line 6",
+      "lines_count": 2,
+      "latitude": 37.549463,
+      "longitude": 126.913739,
+      "around_stations": "망원, 상수, 홍대입구, 당산",
+      "around_count": 4
+    },
+    {
+      "name": "연신내",
+      "name_romanized": "",
+      "lines": "03호선, 06호선",
+      "lines_en": "Line 3, Line 6",
+      "lines_count": 2,
+      "latitude": 37.619001,
+      "longitude": 126.921008,
+      "around_stations": "구파발, 불광, 독바위, 구산",
+      "around_count": 4
+    },
+    {
+      "name": "불광",
+      "name_romanized": "",
+      "lines": "03호선, 06호선",
+      "lines_en": "Line 3, Line 6",
+      "lines_count": 2,
+      "latitude": 37.610469,
+      "longitude": 126.929887,
+      "around_stations": "연신내, 녹번, 독바위, 역촌",
+      "around_count": 4
+    },
+    {
+      "name": "약수",
+      "name_romanized": "",
+      "lines": "03호선, 06호선",
+      "lines_en": "Line 3, Line 6",
+      "lines_count": 2,
+      "latitude": 37.55434,
+      "longitude": 127.010655,
+      "around_stations": "동대입구, 금호, 버티고개, 청구",
+      "around_count": 4
+    },
+    {
+      "name": "삼각지",
+      "name_romanized": "",
+      "lines": "04호선, 06호선",
+      "lines_en": "Line 4, Line 6",
+      "lines_count": 2,
+      "latitude": 37.534777,
+      "longitude": 126.97311,
+      "around_stations": "효창공원앞, 녹사평, 숙대입구, 신용산",
+      "around_count": 4
+    },
+    {
+      "name": "공덕",
+      "name_romanized": "",
+      "lines": "05호선, 06호선, 경의선, 공항철도",
+      "lines_en": "Line 5, Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.544018,
+      "longitude": 126.951592,
+      "around_stations": "서강대, 홍대입구, 애오개, 서울, 효창공원앞, 마포, 대흥",
+      "around_count": 7
+    },
+    {
+      "name": "청구",
+      "name_romanized": "",
+      "lines": "05호선, 06호선",
+      "lines_en": "Line 5, Line 6",
+      "lines_count": 2,
+      "latitude": 37.560245,
+      "longitude": 127.013828,
+      "around_stations": "동대문역사문화공원, 신금호, 신당, 약수",
+      "around_count": 4
+    },
+    {
+      "name": "망원",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.556094,
+      "longitude": 126.910052,
+      "around_stations": "마포구청, 합정",
+      "around_count": 2
+    },
+    {
+      "name": "상수",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.547716,
+      "longitude": 126.922852,
+      "around_stations": "합정, 광흥창",
+      "around_count": 2
+    },
+    {
+      "name": "광흥창",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.547456,
+      "longitude": 126.931993,
+      "around_stations": "상수, 대흥",
+      "around_count": 2
+    },
+    {
+      "name": "대흥",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.547771,
+      "longitude": 126.942069,
+      "around_stations": "광흥창, 공덕",
+      "around_count": 2
+    },
+    {
+      "name": "버티고개",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.548013,
+      "longitude": 127.007055,
+      "around_stations": "한강진, 약수",
+      "around_count": 2
+    },
+    {
+      "name": "응암",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.598605,
+      "longitude": 126.915577,
+      "around_stations": "구산, 역촌, 새절",
+      "around_count": 3
+    },
+    {
+      "name": "역촌",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.606021,
+      "longitude": 126.922744,
+      "around_stations": "응암, 불광",
+      "around_count": 2
+    },
+    {
+      "name": "독바위",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.618456,
+      "longitude": 126.933031,
+      "around_stations": "연신내, 불광",
+      "around_count": 2
+    },
+    {
+      "name": "구산",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.611377,
+      "longitude": 126.91727,
+      "around_stations": "연신내, 응암",
+      "around_count": 2
+    },
+    {
+      "name": "새절",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.591148,
+      "longitude": 126.913629,
+      "around_stations": "응암, 증산",
+      "around_count": 2
+    },
+    {
+      "name": "증산",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.583876,
+      "longitude": 126.909645,
+      "around_stations": "새절, 디지털미디어시티",
+      "around_count": 2
+    },
+    {
+      "name": "디지털미디어시티",
+      "name_romanized": "",
+      "lines": "06호선, 경의선, 공항철도",
+      "lines_en": "Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 3,
+      "latitude": 37.576646,
+      "longitude": 126.900984,
+      "around_stations": "수색, 가좌, 증산, 월드컵경기장, 홍대입구, 마곡나루",
+      "around_count": 6
+    },
+    {
+      "name": "월드컵경기장",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.569532,
+      "longitude": 126.899298,
+      "around_stations": "디지털미디어시티, 마포구청",
+      "around_count": 2
+    },
+    {
+      "name": "마포구청",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.563515,
+      "longitude": 126.903343,
+      "around_stations": "월드컵경기장, 망원",
+      "around_count": 2
+    },
+    {
+      "name": "효창공원앞",
+      "name_romanized": "",
+      "lines": "06호선, 경의선",
+      "lines_en": "Line 6, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.539261,
+      "longitude": 126.961351,
+      "around_stations": "공덕, 용산, 삼각지",
+      "around_count": 3
+    },
+    {
+      "name": "녹사평",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.534675,
+      "longitude": 126.986695,
+      "around_stations": "삼각지, 이태원",
+      "around_count": 2
+    },
+    {
+      "name": "이태원",
+      "name_romanized": "itaewon",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.534488,
+      "longitude": 126.994302,
+      "around_stations": "녹사평, 한강진",
+      "around_count": 2
+    },
+    {
+      "name": "한강진",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.539631,
+      "longitude": 127.001725,
+      "around_stations": "이태원, 버티고개",
+      "around_count": 2
+    },
+    {
+      "name": "창신",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.579661,
+      "longitude": 127.015241,
+      "around_stations": "동묘앞, 보문",
+      "around_count": 2
+    },
+    {
+      "name": "보문",
+      "name_romanized": "",
+      "lines": "06호선, 우이신설경전철",
+      "lines_en": "Line 6, Ui-Sinseol LRT",
+      "lines_count": 2,
+      "latitude": 37.585286,
+      "longitude": 127.019381,
+      "around_stations": "창신, 안암, 성신여대입구, 신설동",
+      "around_count": 4
+    },
+    {
+      "name": "안암",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.586272,
+      "longitude": 127.029005,
+      "around_stations": "보문, 고려대",
+      "around_count": 2
+    },
+    {
+      "name": "고려대",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.590508,
+      "longitude": 127.036296,
+      "around_stations": "안암, 월곡",
+      "around_count": 2
+    },
+    {
+      "name": "월곡",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.601948,
+      "longitude": 127.041518,
+      "around_stations": "고려대, 상월곡",
+      "around_count": 2
+    },
+    {
+      "name": "상월곡",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.606377,
+      "longitude": 127.048491,
+      "around_stations": "월곡, 돌곶이",
+      "around_count": 2
+    },
+    {
+      "name": "돌곶이",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.610537,
+      "longitude": 127.056431,
+      "around_stations": "상월곡, 석계",
+      "around_count": 2
+    },
+    {
+      "name": "태릉입구",
+      "name_romanized": "",
+      "lines": "06호선, 07호선",
+      "lines_en": "Line 6, Line 7",
+      "lines_count": 2,
+      "latitude": 37.617983,
+      "longitude": 127.07512,
+      "around_stations": "석계, 화랑대, 공릉, 먹골",
+      "around_count": 4
+    },
+    {
+      "name": "화랑대",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.620064,
+      "longitude": 127.084689,
+      "around_stations": "태릉입구, 봉화산",
+      "around_count": 2
+    },
+    {
+      "name": "봉화산",
+      "name_romanized": "",
+      "lines": "06호선",
+      "lines_en": "Line 6",
+      "lines_count": 1,
+      "latitude": 37.617283,
+      "longitude": 127.091401,
+      "around_stations": "화랑대, 신내",
+      "around_count": 2
+    },
+    {
+      "name": "신내",
+      "name_romanized": "",
+      "lines": "06호선, 경춘선",
+      "lines_en": "Line 6, Gyeongchun Line",
+      "lines_count": 2,
+      "latitude": 37.612887,
+      "longitude": 127.103218,
+      "around_stations": "망우, 갈매, 봉화산",
+      "around_count": 3
+    }
+  ],
+  "meta": {
+    "title": "06호선 지하철 역 (Line 6 subway stations) - 무료 다운로드",
+    "description": "06호선(Line 6)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 39개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 6 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 39 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "06호선 지하철 역 (Line 6 subway stations) | ListBase",
+    "seo_description": "다운로드 06호선 지하철 역 (Line 6 subway stations) — 39 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 39 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

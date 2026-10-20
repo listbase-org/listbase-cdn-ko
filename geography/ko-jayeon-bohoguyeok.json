@@ -1,0 +1,181 @@
+{
+  "id": "ko-jayeon-bohoguyeok",
+  "name": "대한민국의 자연보호구역 (Nature Reserves of South Korea)",
+  "title": "대한민국의 자연보호구역 (Nature Reserves of South Korea)",
+  "description": "대한민국에 지정된 자연보호구역·천연보호구역·습지보호지역 목록. 대암산·대우산 천연보호구역, 문섬·범섬 천연보호구역, 보성 벌교 갯벌 등. 기존 ko-gungnip-gongwon(국립공원, Q46169)과 분리하기 위해 국립공원 클래스는 FILTER NOT EXISTS로 제외. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12591621",
+      "name_ko": "대암산·대우산 천연보호구역",
+      "name_en": "대암산·대우산 천연보호구역",
+      "located_in_at": "강원특별자치도",
+      "area_km2": "",
+      "latitude": 38.210833,
+      "longitude": 128.131667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%95%94%EC%82%B0%C2%B7%EB%8C%80%EC%9A%B0%EC%82%B0_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q124967644",
+      "name_ko": "동천하구",
+      "name_en": "동천하구",
+      "located_in_at": "순천시",
+      "area_km2": 5.398,
+      "latitude": 34.883333,
+      "longitude": 127.5,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q495231",
+      "name_ko": "마라도",
+      "name_en": "마라도",
+      "located_in_at": "제주특별자치도",
+      "area_km2": 0.3,
+      "latitude": 33.11826,
+      "longitude": 126.26791,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%9D%BC%EB%8F%84"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12595735",
+      "name_ko": "문섬·범섬 천연보호구역",
+      "name_en": "문섬·범섬 천연보호구역",
+      "located_in_at": "제주특별자치도",
+      "area_km2": 9.75,
+      "latitude": 33.226803,
+      "longitude": 126.563338,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%84%AC%C2%B7%EB%B2%94%EC%84%AC_%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12598375",
+      "name_ko": "보성 벌교 갯벌",
+      "name_en": "보성 벌교 갯벌",
+      "located_in_at": "보성군",
+      "area_km2": 10.3,
+      "latitude": 34.823989,
+      "longitude": 127.425464,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%84%B1_%EB%B2%8C%EA%B5%90_%EA%B0%AF%EB%B2%8C"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q124974588",
+      "name_ko": "숨은물뱅뒤",
+      "name_en": "숨은물뱅뒤",
+      "located_in_at": "제주특별자치도",
+      "area_km2": 1.175,
+      "latitude": 33.35,
+      "longitude": 126.433333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q124649256",
+      "name_ko": "옹진장봉도갯벌",
+      "name_en": "옹진장봉도갯벌",
+      "located_in_at": "옹진군",
+      "area_km2": 68.4,
+      "latitude": 37.552811,
+      "longitude": 126.320778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q11273167",
+      "name_ko": "차귀도",
+      "name_en": "차귀도",
+      "located_in_at": "제주특별자치도",
+      "area_km2": 6.72,
+      "latitude": 33.3115,
+      "longitude": 126.14888,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EA%B7%80%EB%8F%84"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q5638290",
+      "name_ko": "해신당 공원",
+      "name_en": "해신당 공원",
+      "located_in_at": "",
+      "area_km2": "",
+      "latitude": 37.268889,
+      "longitude": 129.326389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q24000672",
+      "name_ko": "홍도천연보호구역",
+      "name_en": "홍도천연보호구역",
+      "located_in_at": "전라남도",
+      "area_km2": 5.87,
+      "latitude": 34.709722,
+      "longitude": 125.203333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%8F%84%EC%B2%9C%EC%97%B0%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 자연보호구역 (Nature Reserves of South Korea) - 무료 다운로드",
+    "description": "대한민국에 지정된 자연보호구역·천연보호구역·습지보호지역 목록. 대암산·대우산 천연보호구역, 문섬·범섬 천연보호구역, 보성 벌교 갯벌 등. 기존 ko-gungnip-gongwon(국립공원, Q46169)과 분리하기 위해 국립공원 클래스는 FILTER NOT EXISTS로 제외. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 10 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 자연보호구역 (Nature Reserves of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 자연보호구역 (Nature Reserves of South Korea) — 10 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 10 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

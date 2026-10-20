@@ -1,0 +1,7486 @@
+{
+  "id": "ko-ulsan-upyeonbeonho",
+  "name": "Ulsan 우편번호 (구 6자리) — Ulsan Postal Codes (legacy 6-digit)",
+  "title": "Ulsan 우편번호 (구 6자리) — Ulsan Postal Codes (legacy 6-digit)",
+  "description": "Ulsan (울산) — Legacy 6-digit South Korean postal codes (구 우편번호) at submunicipal (동/리) level, with native Korean addresses and geographic coordinates. Source: Korea Data Hub National Postcode (2012-05); coordinates via Daum Local API. These 6-digit codes were superseded by the current 5-digit system in August 2015 and are retained here as a historical reference dataset.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 825,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sido_en",
+      "label": "Sido En",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "sub_address",
+      "label": "Sub Address",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "680200",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 개운동",
+      "sub_address": "남구 개운동",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "680130",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 고사동",
+      "sub_address": "남구 고사동",
+      "latitude": 35.501413,
+      "longitude": 129.355876
+    },
+    {
+      "postal_code": "680120",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 남화동",
+      "sub_address": "남구 남화동",
+      "latitude": 35.476001,
+      "longitude": 129.378046
+    },
+    {
+      "postal_code": "680790",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680753",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680752",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680751",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680750",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680724",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680716",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680715",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680707",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680706",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680727",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680754",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680801",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680030",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680030",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680730",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680852",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 달동",
+      "sub_address": "남구 달동",
+      "latitude": 35.536365,
+      "longitude": 129.316533
+    },
+    {
+      "postal_code": "680170",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 두왕동",
+      "sub_address": "남구 두왕동",
+      "latitude": 35.50901,
+      "longitude": 129.299543
+    },
+    {
+      "postal_code": "680050",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 매암동",
+      "sub_address": "남구 매암동",
+      "latitude": 35.511671,
+      "longitude": 129.377136
+    },
+    {
+      "postal_code": "680760",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680762",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680765",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680763",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680761",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680759",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680758",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680757",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680755",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680190",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680749",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680755",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 무거동",
+      "sub_address": "남구 무거동",
+      "latitude": 35.550981,
+      "longitude": 129.260713
+    },
+    {
+      "postal_code": "680110",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 부곡동",
+      "sub_address": "남구 부곡동",
+      "latitude": 35.499616,
+      "longitude": 129.333389
+    },
+    {
+      "postal_code": "680713",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680743",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680744",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680746",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680767",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680769",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680813",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680771",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680771",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680770",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680770",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680768",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680766",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680747",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680817",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680817",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680816",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680816",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680816",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680731",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680745",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680702",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680020",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680855",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680703",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680733",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 삼산동",
+      "sub_address": "남구 삼산동",
+      "latitude": 35.544417,
+      "longitude": 129.331865
+    },
+    {
+      "postal_code": "680180",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 상개동",
+      "sub_address": "남구 상개동",
+      "latitude": 35.505398,
+      "longitude": 129.317631
+    },
+    {
+      "postal_code": "680791",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 선암동",
+      "sub_address": "남구 선암동",
+      "latitude": 35.513025,
+      "longitude": 129.335192
+    },
+    {
+      "postal_code": "680100",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 선암동",
+      "sub_address": "남구 선암동",
+      "latitude": 35.513025,
+      "longitude": 129.335192
+    },
+    {
+      "postal_code": "680819",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 선암동",
+      "sub_address": "남구 선암동",
+      "latitude": 35.513025,
+      "longitude": 129.335192
+    },
+    {
+      "postal_code": "680820",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 선암동",
+      "sub_address": "남구 선암동",
+      "latitude": 35.513025,
+      "longitude": 129.335192
+    },
+    {
+      "postal_code": "680818",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 선암동",
+      "sub_address": "남구 선암동",
+      "latitude": 35.513025,
+      "longitude": 129.335192
+    },
+    {
+      "postal_code": "680140",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 성암동",
+      "sub_address": "남구 성암동",
+      "latitude": 35.481394,
+      "longitude": 129.347448
+    },
+    {
+      "postal_code": "680701",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680827",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680827",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680827",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680738",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680011",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680848",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680849",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680850",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680850",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정1동",
+      "sub_address": "남구 신정1동",
+      "latitude": 35.54139,
+      "longitude": 129.306531
+    },
+    {
+      "postal_code": "680832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680792",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680792",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680012",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680799",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680709",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680725",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680828",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680828",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680828",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680828",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680740",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680739",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680737",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680773",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680772",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680719",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정2동",
+      "sub_address": "남구 신정2동",
+      "latitude": 35.534654,
+      "longitude": 129.307868
+    },
+    {
+      "postal_code": "680718",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680722",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680726",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680729",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680857",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680013",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680847",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정3동",
+      "sub_address": "남구 신정3동",
+      "latitude": 35.545021,
+      "longitude": 129.316447
+    },
+    {
+      "postal_code": "680795",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680795",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680014",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680793",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680774",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680734",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680735",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정4동",
+      "sub_address": "남구 신정4동",
+      "latitude": 35.529294,
+      "longitude": 129.314465
+    },
+    {
+      "postal_code": "680720",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680742",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680015",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680846",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680846",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680846",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680846",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정5동",
+      "sub_address": "남구 신정5동",
+      "latitude": 35.54482,
+      "longitude": 129.321438
+    },
+    {
+      "postal_code": "680010",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 신정동",
+      "sub_address": "남구 신정동",
+      "latitude": 35.528691,
+      "longitude": 129.306242
+    },
+    {
+      "postal_code": "680834",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680834",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680834",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680040",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680835",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680835",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680835",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680834",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680834",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680700",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680787",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680736",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680777",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680776",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680775",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680723",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680710",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680798",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680789",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680794",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680836",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680836",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680838",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680839",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680840",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680841",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680797",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680796",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680841",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680841",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680840",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680838",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680836",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680836",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680834",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680837",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680794",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 야음동",
+      "sub_address": "남구 야음동",
+      "latitude": 35.525472,
+      "longitude": 129.334535
+    },
+    {
+      "postal_code": "680090",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 여천동",
+      "sub_address": "남구 여천동",
+      "latitude": 35.52296,
+      "longitude": 129.351943
+    },
+    {
+      "postal_code": "680782",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680080",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680704",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680711",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680728",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680721",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680717",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680712",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680708",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680705",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680784",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680785",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680781",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680780",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680779",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680778",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680786",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680783",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680714",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680854",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680856",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680843",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680844",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680845",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680844",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680843",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680843",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 옥동",
+      "sub_address": "남구 옥동",
+      "latitude": 35.535278,
+      "longitude": 129.293859
+    },
+    {
+      "postal_code": "680150",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 용연동",
+      "sub_address": "남구 용연동",
+      "latitude": 35.480322,
+      "longitude": 129.362068
+    },
+    {
+      "postal_code": "680070",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 용잠동",
+      "sub_address": "남구 용잠동",
+      "latitude": 35.488101,
+      "longitude": 129.376186
+    },
+    {
+      "postal_code": "680060",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 장생포동",
+      "sub_address": "남구 장생포동",
+      "latitude": 35.504874,
+      "longitude": 129.372382
+    },
+    {
+      "postal_code": "680160",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구 황성동",
+      "sub_address": "남구 황성동",
+      "latitude": 35.467362,
+      "longitude": 129.358547
+    },
+    {
+      "postal_code": "680600",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 남구",
+      "sub_address": "남구",
+      "latitude": 35.543802,
+      "longitude": 129.330118
+    },
+    {
+      "postal_code": "682100",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 대송동",
+      "sub_address": "동구 대송동",
+      "latitude": 35.503169,
+      "longitude": 129.418308
+    },
+    {
+      "postal_code": "682754",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 대송동",
+      "sub_address": "동구 대송동",
+      "latitude": 35.503169,
+      "longitude": 129.418308
+    },
+    {
+      "postal_code": "682701",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 대송동",
+      "sub_address": "동구 대송동",
+      "latitude": 35.503169,
+      "longitude": 129.418308
+    },
+    {
+      "postal_code": "682751",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682010",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682801",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 동부동",
+      "sub_address": "동구 동부동",
+      "latitude": 35.552307,
+      "longitude": 129.427859
+    },
+    {
+      "postal_code": "682040",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 미포동",
+      "sub_address": "동구 미포동",
+      "latitude": 35.534542,
+      "longitude": 129.442483
+    },
+    {
+      "postal_code": "682020",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682760",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682711",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682712",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682829",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682763",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682765",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 방어동",
+      "sub_address": "동구 방어동",
+      "latitude": 35.486222,
+      "longitude": 129.424018
+    },
+    {
+      "postal_code": "682808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682713",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682752",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682030",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682826",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682753",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682762",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 서부동",
+      "sub_address": "동구 서부동",
+      "latitude": 35.531579,
+      "longitude": 129.417812
+    },
+    {
+      "postal_code": "682050",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 일산동",
+      "sub_address": "동구 일산동",
+      "latitude": 35.498042,
+      "longitude": 129.426251
+    },
+    {
+      "postal_code": "682810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 일산동",
+      "sub_address": "동구 일산동",
+      "latitude": 35.498042,
+      "longitude": 129.426251
+    },
+    {
+      "postal_code": "682811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 일산동",
+      "sub_address": "동구 일산동",
+      "latitude": 35.498042,
+      "longitude": 129.426251
+    },
+    {
+      "postal_code": "682810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 일산동",
+      "sub_address": "동구 일산동",
+      "latitude": 35.498042,
+      "longitude": 129.426251
+    },
+    {
+      "postal_code": "682812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 일산동",
+      "sub_address": "동구 일산동",
+      "latitude": 35.498042,
+      "longitude": 129.426251
+    },
+    {
+      "postal_code": "682814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682819",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682061",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682792",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682756",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682813",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682761",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682714",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하1동",
+      "sub_address": "동구 전하1동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682816",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682818",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682062",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682828",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682818",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682827",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682759",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682062",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682817",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682771",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하2동",
+      "sub_address": "동구 전하2동",
+      "latitude": 35.508873,
+      "longitude": 129.426603
+    },
+    {
+      "postal_code": "682060",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 전하동",
+      "sub_address": "동구 전하동",
+      "latitude": 35.516813,
+      "longitude": 129.428561
+    },
+    {
+      "postal_code": "682080",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 주전동",
+      "sub_address": "동구 주전동",
+      "latitude": 35.559385,
+      "longitude": 129.44852
+    },
+    {
+      "postal_code": "682090",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682757",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682820",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682758",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682715",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682820",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682766",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682768",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682767",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구 화정동",
+      "sub_address": "동구 화정동",
+      "latitude": 35.495892,
+      "longitude": 129.422616
+    },
+    {
+      "postal_code": "682600",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 동구",
+      "sub_address": "동구",
+      "latitude": 35.50482,
+      "longitude": 129.416634
+    },
+    {
+      "postal_code": "683460",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 가대동",
+      "sub_address": "북구 가대동",
+      "latitude": 35.60807,
+      "longitude": 129.308321
+    },
+    {
+      "postal_code": "683220",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 구유동",
+      "sub_address": "북구 구유동",
+      "latitude": 35.605501,
+      "longitude": 129.451126
+    },
+    {
+      "postal_code": "683470",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 달천동",
+      "sub_address": "북구 달천동",
+      "latitude": 35.630497,
+      "longitude": 129.310687
+    },
+    {
+      "postal_code": "683793",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 달천동",
+      "sub_address": "북구 달천동",
+      "latitude": 35.630497,
+      "longitude": 129.310687
+    },
+    {
+      "postal_code": "683794",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 달천동",
+      "sub_address": "북구 달천동",
+      "latitude": 35.630497,
+      "longitude": 129.310687
+    },
+    {
+      "postal_code": "683794",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 달천동",
+      "sub_address": "북구 달천동",
+      "latitude": 35.630497,
+      "longitude": 129.310687
+    },
+    {
+      "postal_code": "683701",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 달천동",
+      "sub_address": "북구 달천동",
+      "latitude": 35.630497,
+      "longitude": 129.310687
+    },
+    {
+      "postal_code": "683730",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 달천동",
+      "sub_address": "북구 달천동",
+      "latitude": 35.630497,
+      "longitude": 129.310687
+    },
+    {
+      "postal_code": "683230",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 당사동",
+      "sub_address": "북구 당사동",
+      "latitude": 35.591688,
+      "longitude": 129.449469
+    },
+    {
+      "postal_code": "683240",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 대안동",
+      "sub_address": "북구 대안동",
+      "latitude": 35.650717,
+      "longitude": 129.399651
+    },
+    {
+      "postal_code": "683765",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683778",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683779",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683420",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683702",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683703",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683741",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683744",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683775",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 매곡동",
+      "sub_address": "북구 매곡동",
+      "latitude": 35.644006,
+      "longitude": 129.367254
+    },
+    {
+      "postal_code": "683390",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 명촌동",
+      "sub_address": "북구 명촌동",
+      "latitude": 35.549649,
+      "longitude": 129.362998
+    },
+    {
+      "postal_code": "683761",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 명촌동",
+      "sub_address": "북구 명촌동",
+      "latitude": 35.549649,
+      "longitude": 129.362998
+    },
+    {
+      "postal_code": "683763",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 명촌동",
+      "sub_address": "북구 명촌동",
+      "latitude": 35.549649,
+      "longitude": 129.362998
+    },
+    {
+      "postal_code": "683764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 명촌동",
+      "sub_address": "북구 명촌동",
+      "latitude": 35.549649,
+      "longitude": 129.362998
+    },
+    {
+      "postal_code": "683762",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 명촌동",
+      "sub_address": "북구 명촌동",
+      "latitude": 35.549649,
+      "longitude": 129.362998
+    },
+    {
+      "postal_code": "683250",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 무룡동",
+      "sub_address": "북구 무룡동",
+      "latitude": 35.616296,
+      "longitude": 129.403689
+    },
+    {
+      "postal_code": "683260",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 산하동",
+      "sub_address": "북구 산하동",
+      "latitude": 35.631711,
+      "longitude": 129.429028
+    },
+    {
+      "postal_code": "683480",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 상안동",
+      "sub_address": "북구 상안동",
+      "latitude": 35.623127,
+      "longitude": 129.340558
+    },
+    {
+      "postal_code": "683751",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 상안동",
+      "sub_address": "북구 상안동",
+      "latitude": 35.623127,
+      "longitude": 129.340558
+    },
+    {
+      "postal_code": "683751",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 상안동",
+      "sub_address": "북구 상안동",
+      "latitude": 35.623127,
+      "longitude": 129.340558
+    },
+    {
+      "postal_code": "683752",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 상안동",
+      "sub_address": "북구 상안동",
+      "latitude": 35.623127,
+      "longitude": 129.340558
+    },
+    {
+      "postal_code": "683752",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 상안동",
+      "sub_address": "북구 상안동",
+      "latitude": 35.623127,
+      "longitude": 129.340558
+    },
+    {
+      "postal_code": "683410",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 송정동",
+      "sub_address": "북구 송정동",
+      "latitude": 35.594788,
+      "longitude": 129.357511
+    },
+    {
+      "postal_code": "683800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 시례동",
+      "sub_address": "북구 시례동",
+      "latitude": 35.605114,
+      "longitude": 129.339173
+    },
+    {
+      "postal_code": "683800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 시례동",
+      "sub_address": "북구 시례동",
+      "latitude": 35.605114,
+      "longitude": 129.339173
+    },
+    {
+      "postal_code": "683800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 시례동",
+      "sub_address": "북구 시례동",
+      "latitude": 35.605114,
+      "longitude": 129.339173
+    },
+    {
+      "postal_code": "683801",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 시례동",
+      "sub_address": "북구 시례동",
+      "latitude": 35.605114,
+      "longitude": 129.339173
+    },
+    {
+      "postal_code": "683490",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 시례동",
+      "sub_address": "북구 시례동",
+      "latitude": 35.605114,
+      "longitude": 129.339173
+    },
+    {
+      "postal_code": "683270",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신명동",
+      "sub_address": "북구 신명동",
+      "latitude": 35.650215,
+      "longitude": 129.439885
+    },
+    {
+      "postal_code": "683766",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683430",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683790",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683746",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683745",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683748",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683749",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신천동",
+      "sub_address": "북구 신천동",
+      "latitude": 35.636797,
+      "longitude": 129.347968
+    },
+    {
+      "postal_code": "683280",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 신현동",
+      "sub_address": "북구 신현동",
+      "latitude": 35.596799,
+      "longitude": 129.414976
+    },
+    {
+      "postal_code": "683753",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 양정동",
+      "sub_address": "북구 양정동",
+      "latitude": 35.548658,
+      "longitude": 129.385346
+    },
+    {
+      "postal_code": "683754",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 양정동",
+      "sub_address": "북구 양정동",
+      "latitude": 35.548658,
+      "longitude": 129.385346
+    },
+    {
+      "postal_code": "683791",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 양정동",
+      "sub_address": "북구 양정동",
+      "latitude": 35.548658,
+      "longitude": 129.385346
+    },
+    {
+      "postal_code": "683380",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 양정동",
+      "sub_address": "북구 양정동",
+      "latitude": 35.548658,
+      "longitude": 129.385346
+    },
+    {
+      "postal_code": "683815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 양정동",
+      "sub_address": "북구 양정동",
+      "latitude": 35.548658,
+      "longitude": 129.385346
+    },
+    {
+      "postal_code": "683816",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 양정동",
+      "sub_address": "북구 양정동",
+      "latitude": 35.548658,
+      "longitude": 129.385346
+    },
+    {
+      "postal_code": "683290",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 어물동",
+      "sub_address": "북구 어물동",
+      "latitude": 35.574168,
+      "longitude": 129.413061
+    },
+    {
+      "postal_code": "683707",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683755",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683767",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683756",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683370",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 연암동",
+      "sub_address": "북구 연암동",
+      "latitude": 35.582512,
+      "longitude": 129.386804
+    },
+    {
+      "postal_code": "683806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 염포동",
+      "sub_address": "북구 염포동",
+      "latitude": 35.526857,
+      "longitude": 129.399109
+    },
+    {
+      "postal_code": "683807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 염포동",
+      "sub_address": "북구 염포동",
+      "latitude": 35.526857,
+      "longitude": 129.399109
+    },
+    {
+      "postal_code": "683040",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 염포동",
+      "sub_address": "북구 염포동",
+      "latitude": 35.526857,
+      "longitude": 129.399109
+    },
+    {
+      "postal_code": "683711",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 염포동",
+      "sub_address": "북구 염포동",
+      "latitude": 35.526857,
+      "longitude": 129.399109
+    },
+    {
+      "postal_code": "683712",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 염포동",
+      "sub_address": "북구 염포동",
+      "latitude": 35.526857,
+      "longitude": 129.399109
+    },
+    {
+      "postal_code": "683715",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 염포동",
+      "sub_address": "북구 염포동",
+      "latitude": 35.526857,
+      "longitude": 129.399109
+    },
+    {
+      "postal_code": "683210",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 정자동",
+      "sub_address": "북구 정자동",
+      "latitude": 35.616693,
+      "longitude": 129.443095
+    },
+    {
+      "postal_code": "683450",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683769",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683768",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683792",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683750",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683742",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683743",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683777",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683776",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683774",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683750",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 중산동",
+      "sub_address": "북구 중산동",
+      "latitude": 35.663797,
+      "longitude": 129.350843
+    },
+    {
+      "postal_code": "683003",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 진장동",
+      "sub_address": "북구 진장동",
+      "latitude": 35.568392,
+      "longitude": 129.356146
+    },
+    {
+      "postal_code": "683350",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 진장동",
+      "sub_address": "북구 진장동",
+      "latitude": 35.568392,
+      "longitude": 129.356146
+    },
+    {
+      "postal_code": "683440",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 창평동",
+      "sub_address": "북구 창평동",
+      "latitude": 35.614696,
+      "longitude": 129.362536
+    },
+    {
+      "postal_code": "683811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 창평동",
+      "sub_address": "북구 창평동",
+      "latitude": 35.614696,
+      "longitude": 129.362536
+    },
+    {
+      "postal_code": "683810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 창평동",
+      "sub_address": "북구 창평동",
+      "latitude": 35.614696,
+      "longitude": 129.362536
+    },
+    {
+      "postal_code": "683810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 창평동",
+      "sub_address": "북구 창평동",
+      "latitude": 35.614696,
+      "longitude": 129.362536
+    },
+    {
+      "postal_code": "683500",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683771",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683770",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683772",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683747",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683773",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683740",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 천곡동",
+      "sub_address": "북구 천곡동",
+      "latitude": 35.6469,
+      "longitude": 129.326945
+    },
+    {
+      "postal_code": "683720",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 호계동",
+      "sub_address": "북구 호계동",
+      "latitude": 35.628786,
+      "longitude": 129.362302
+    },
+    {
+      "postal_code": "683400",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 호계동",
+      "sub_address": "북구 호계동",
+      "latitude": 35.628786,
+      "longitude": 129.362302
+    },
+    {
+      "postal_code": "683813",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 호계동",
+      "sub_address": "북구 호계동",
+      "latitude": 35.628786,
+      "longitude": 129.362302
+    },
+    {
+      "postal_code": "683812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 호계동",
+      "sub_address": "북구 호계동",
+      "latitude": 35.628786,
+      "longitude": 129.362302
+    },
+    {
+      "postal_code": "683812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 호계동",
+      "sub_address": "북구 호계동",
+      "latitude": 35.628786,
+      "longitude": 129.362302
+    },
+    {
+      "postal_code": "683710",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 호계동",
+      "sub_address": "북구 호계동",
+      "latitude": 35.628786,
+      "longitude": 129.362302
+    },
+    {
+      "postal_code": "683300",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683759",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683758",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683757",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683760",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683781",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683782",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683783",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 화봉동",
+      "sub_address": "북구 화봉동",
+      "latitude": 35.597898,
+      "longitude": 129.384252
+    },
+    {
+      "postal_code": "683360",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 북구 효문동",
+      "sub_address": "북구 효문동",
+      "latitude": 35.5671,
+      "longitude": 129.376625
+    },
+    {
+      "postal_code": "689841",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 구미리",
+      "sub_address": "울주군 두동면 구미리",
+      "latitude": 35.618815,
+      "longitude": 129.169275
+    },
+    {
+      "postal_code": "689842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 만화리",
+      "sub_address": "울주군 두동면 만화리",
+      "latitude": 35.649788,
+      "longitude": 129.220657
+    },
+    {
+      "postal_code": "689843",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 봉계리",
+      "sub_address": "울주군 두동면 봉계리",
+      "latitude": 35.696921,
+      "longitude": 129.203574
+    },
+    {
+      "postal_code": "689841",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 삼정리",
+      "sub_address": "울주군 두동면 삼정리",
+      "latitude": 35.618815,
+      "longitude": 129.169275
+    },
+    {
+      "postal_code": "689843",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 월평리",
+      "sub_address": "울주군 두동면 월평리",
+      "latitude": 35.696921,
+      "longitude": 129.203574
+    },
+    {
+      "postal_code": "689842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 은편리",
+      "sub_address": "울주군 두동면 은편리",
+      "latitude": 35.649788,
+      "longitude": 129.220657
+    },
+    {
+      "postal_code": "689842",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 이전리",
+      "sub_address": "울주군 두동면 이전리",
+      "latitude": 35.649788,
+      "longitude": 129.220657
+    },
+    {
+      "postal_code": "689841",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면 천전리",
+      "sub_address": "울주군 두동면 천전리",
+      "latitude": 35.618815,
+      "longitude": 129.169275
+    },
+    {
+      "postal_code": "689840",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두동면",
+      "sub_address": "울주군 두동면",
+      "latitude": 35.654638,
+      "longitude": 129.201466
+    },
+    {
+      "postal_code": "689831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 구량리",
+      "sub_address": "울주군 두서면 구량리",
+      "latitude": 35.639277,
+      "longitude": 129.113528
+    },
+    {
+      "postal_code": "689832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 내와리",
+      "sub_address": "울주군 두서면 내와리",
+      "latitude": 35.698944,
+      "longitude": 129.186552
+    },
+    {
+      "postal_code": "689832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 미호리",
+      "sub_address": "울주군 두서면 미호리",
+      "latitude": 35.698944,
+      "longitude": 129.186552
+    },
+    {
+      "postal_code": "689832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 복안리",
+      "sub_address": "울주군 두서면 복안리",
+      "latitude": 35.698944,
+      "longitude": 129.186552
+    },
+    {
+      "postal_code": "689833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 서하리",
+      "sub_address": "울주군 두서면 서하리",
+      "latitude": 35.653973,
+      "longitude": 129.140024
+    },
+    {
+      "postal_code": "689833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 인보리",
+      "sub_address": "울주군 두서면 인보리",
+      "latitude": 35.653973,
+      "longitude": 129.140024
+    },
+    {
+      "postal_code": "689833",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 전읍리",
+      "sub_address": "울주군 두서면 전읍리",
+      "latitude": 35.653973,
+      "longitude": 129.140024
+    },
+    {
+      "postal_code": "689831",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 차리",
+      "sub_address": "울주군 두서면 차리",
+      "latitude": 35.639277,
+      "longitude": 129.113528
+    },
+    {
+      "postal_code": "689832",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면 활천리",
+      "sub_address": "울주군 두서면 활천리",
+      "latitude": 35.698944,
+      "longitude": 129.186552
+    },
+    {
+      "postal_code": "689830",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 두서면",
+      "sub_address": "울주군 두서면",
+      "latitude": 35.643478,
+      "longitude": 129.15893
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 곡연리",
+      "sub_address": "울주군 범서읍 곡연리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689702",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689852",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689704",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689703",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689786",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689767",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689785",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689791",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689796",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689792",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689706",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689761",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689766",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689763",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 구영리",
+      "sub_address": "울주군 범서읍 구영리",
+      "latitude": 35.58162,
+      "longitude": 129.250381
+    },
+    {
+      "postal_code": "689707",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 굴화리",
+      "sub_address": "울주군 범서읍 굴화리",
+      "latitude": 35.549431,
+      "longitude": 129.241242
+    },
+    {
+      "postal_code": "689787",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 굴화리",
+      "sub_address": "울주군 범서읍 굴화리",
+      "latitude": 35.549431,
+      "longitude": 129.241242
+    },
+    {
+      "postal_code": "689705",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 굴화리",
+      "sub_address": "울주군 범서읍 굴화리",
+      "latitude": 35.549431,
+      "longitude": 129.241242
+    },
+    {
+      "postal_code": "689853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 굴화리",
+      "sub_address": "울주군 범서읍 굴화리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689854",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 두산리",
+      "sub_address": "울주군 범서읍 두산리",
+      "latitude": 35.602332,
+      "longitude": 129.255078
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 망성리",
+      "sub_address": "울주군 범서읍 망성리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689854",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 반용리",
+      "sub_address": "울주군 범서읍 반용리",
+      "latitude": 35.602332,
+      "longitude": 129.255078
+    },
+    {
+      "postal_code": "689853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 백천리",
+      "sub_address": "울주군 범서읍 백천리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 사연리",
+      "sub_address": "울주군 범서읍 사연리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 사일리",
+      "sub_address": "울주군 범서읍 사일리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689854",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 서사리",
+      "sub_address": "울주군 범서읍 서사리",
+      "latitude": 35.602332,
+      "longitude": 129.255078
+    },
+    {
+      "postal_code": "689853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 송현리",
+      "sub_address": "울주군 범서읍 송현리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 욱곡리",
+      "sub_address": "울주군 범서읍 욱곡리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 욱천리",
+      "sub_address": "울주군 범서읍 욱천리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 입암리",
+      "sub_address": "울주군 범서읍 입암리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 장금리",
+      "sub_address": "울주군 범서읍 장금리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 중리",
+      "sub_address": "울주군 범서읍 중리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689851",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 지지리",
+      "sub_address": "울주군 범서읍 지지리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689853",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 진목리",
+      "sub_address": "울주군 범서읍 진목리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "689854",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 척과리",
+      "sub_address": "울주군 범서읍 척과리",
+      "latitude": 35.602332,
+      "longitude": 129.255078
+    },
+    {
+      "postal_code": "689755",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689758",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689756",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689855",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689757",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689768",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689765",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689770",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689769",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689797",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍 천상리",
+      "sub_address": "울주군 범서읍 천상리",
+      "latitude": 35.553544,
+      "longitude": 129.222493
+    },
+    {
+      "postal_code": "689850",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 범서읍",
+      "sub_address": "울주군 범서읍",
+      "latitude": 35.568623,
+      "longitude": 129.230585
+    },
+    {
+      "postal_code": "689811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면 가천리",
+      "sub_address": "울주군 삼남면 가천리",
+      "latitude": 35.529181,
+      "longitude": 129.080392
+    },
+    {
+      "postal_code": "689812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면 교동리",
+      "sub_address": "울주군 삼남면 교동리",
+      "latitude": 35.549624,
+      "longitude": 129.118969
+    },
+    {
+      "postal_code": "689813",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면 방기리",
+      "sub_address": "울주군 삼남면 방기리",
+      "latitude": 35.511267,
+      "longitude": 129.076205
+    },
+    {
+      "postal_code": "689814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면 상천리",
+      "sub_address": "울주군 삼남면 상천리",
+      "latitude": 35.523294,
+      "longitude": 129.108282
+    },
+    {
+      "postal_code": "689815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면 신화리",
+      "sub_address": "울주군 삼남면 신화리",
+      "latitude": 35.54093,
+      "longitude": 129.12958
+    },
+    {
+      "postal_code": "689701",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면",
+      "sub_address": "울주군 삼남면",
+      "latitude": 35.536887,
+      "longitude": 129.109017
+    },
+    {
+      "postal_code": "689810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼남면",
+      "sub_address": "울주군 삼남면",
+      "latitude": 35.536887,
+      "longitude": 129.109017
+    },
+    {
+      "postal_code": "689931",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 금곡리",
+      "sub_address": "울주군 삼동면 금곡리",
+      "latitude": 35.515015,
+      "longitude": 129.132643
+    },
+    {
+      "postal_code": "689932",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 둔기리",
+      "sub_address": "울주군 삼동면 둔기리",
+      "latitude": 35.528159,
+      "longitude": 129.194552
+    },
+    {
+      "postal_code": "689931",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 보은리",
+      "sub_address": "울주군 삼동면 보은리",
+      "latitude": 35.515015,
+      "longitude": 129.132643
+    },
+    {
+      "postal_code": "689933",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 작동리",
+      "sub_address": "울주군 삼동면 작동리",
+      "latitude": 35.498572,
+      "longitude": 129.184359
+    },
+    {
+      "postal_code": "689934",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 조일리",
+      "sub_address": "울주군 삼동면 조일리",
+      "latitude": 35.48691,
+      "longitude": 129.117334
+    },
+    {
+      "postal_code": "689933",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 출강리",
+      "sub_address": "울주군 삼동면 출강리",
+      "latitude": 35.498572,
+      "longitude": 129.184359
+    },
+    {
+      "postal_code": "689932",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면 하잠리",
+      "sub_address": "울주군 삼동면 하잠리",
+      "latitude": 35.528159,
+      "longitude": 129.194552
+    },
+    {
+      "postal_code": "689930",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 삼동면",
+      "sub_address": "울주군 삼동면",
+      "latitude": 35.52212,
+      "longitude": 129.156894
+    },
+    {
+      "postal_code": "689821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 거리",
+      "sub_address": "울주군 상북면 거리",
+      "latitude": 35.595229,
+      "longitude": 129.063787
+    },
+    {
+      "postal_code": "689822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 궁근정리",
+      "sub_address": "울주군 상북면 궁근정리",
+      "latitude": 35.673053,
+      "longitude": 129.088587
+    },
+    {
+      "postal_code": "689821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 길천리",
+      "sub_address": "울주군 상북면 길천리",
+      "latitude": 35.595229,
+      "longitude": 129.063787
+    },
+    {
+      "postal_code": "689823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 덕현리",
+      "sub_address": "울주군 상북면 덕현리",
+      "latitude": 35.548815,
+      "longitude": 129.014566
+    },
+    {
+      "postal_code": "689824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 등억리",
+      "sub_address": "울주군 상북면 등억리",
+      "latitude": 35.567398,
+      "longitude": 129.101615
+    },
+    {
+      "postal_code": "689824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 명촌리",
+      "sub_address": "울주군 상북면 명촌리",
+      "latitude": 35.567398,
+      "longitude": 129.101615
+    },
+    {
+      "postal_code": "689821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 산전리",
+      "sub_address": "울주군 상북면 산전리",
+      "latitude": 35.595229,
+      "longitude": 129.063787
+    },
+    {
+      "postal_code": "689822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 소호리",
+      "sub_address": "울주군 상북면 소호리",
+      "latitude": 35.673053,
+      "longitude": 129.088587
+    },
+    {
+      "postal_code": "689823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 양등리",
+      "sub_address": "울주군 상북면 양등리",
+      "latitude": 35.548815,
+      "longitude": 129.014566
+    },
+    {
+      "postal_code": "689823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 이천리",
+      "sub_address": "울주군 상북면 이천리",
+      "latitude": 35.548815,
+      "longitude": 129.014566
+    },
+    {
+      "postal_code": "689825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 지내리",
+      "sub_address": "울주군 상북면 지내리",
+      "latitude": 35.581421,
+      "longitude": 129.106063
+    },
+    {
+      "postal_code": "689824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 천전리",
+      "sub_address": "울주군 상북면 천전리",
+      "latitude": 35.567398,
+      "longitude": 129.101615
+    },
+    {
+      "postal_code": "689825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면 향산리",
+      "sub_address": "울주군 상북면 향산리",
+      "latitude": 35.581421,
+      "longitude": 129.106063
+    },
+    {
+      "postal_code": "689820",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 상북면",
+      "sub_address": "울주군 상북면",
+      "latitude": 35.590566,
+      "longitude": 129.091313
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 강월리",
+      "sub_address": "울주군 서생면 강월리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689882",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 나사리",
+      "sub_address": "울주군 서생면 나사리",
+      "latitude": 35.367704,
+      "longitude": 129.323763
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 대송리",
+      "sub_address": "울주군 서생면 대송리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 마근리",
+      "sub_address": "울주군 서생면 마근리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 막곡리",
+      "sub_address": "울주군 서생면 막곡리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 명산리",
+      "sub_address": "울주군 서생면 명산리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 비학리",
+      "sub_address": "울주군 서생면 비학리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 서생리",
+      "sub_address": "울주군 서생면 서생리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 송정리",
+      "sub_address": "울주군 서생면 송정리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 술마리",
+      "sub_address": "울주군 서생면 술마리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689882",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 신리",
+      "sub_address": "울주군 서생면 신리",
+      "latitude": 35.367704,
+      "longitude": 129.323763
+    },
+    {
+      "postal_code": "689882",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 신암리",
+      "sub_address": "울주군 서생면 신암리",
+      "latitude": 35.367704,
+      "longitude": 129.323763
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 양암리",
+      "sub_address": "울주군 서생면 양암리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 연산리",
+      "sub_address": "울주군 서생면 연산리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 온곡리",
+      "sub_address": "울주군 서생면 온곡리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689882",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 용리",
+      "sub_address": "울주군 서생면 용리",
+      "latitude": 35.367704,
+      "longitude": 129.323763
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 용연리",
+      "sub_address": "울주군 서생면 용연리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 위곡리",
+      "sub_address": "울주군 서생면 위곡리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 위양리",
+      "sub_address": "울주군 서생면 위양리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 진하리",
+      "sub_address": "울주군 서생면 진하리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 평동리",
+      "sub_address": "울주군 서생면 평동리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689881",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 화산리",
+      "sub_address": "울주군 서생면 화산리",
+      "latitude": 35.367309,
+      "longitude": 129.27941
+    },
+    {
+      "postal_code": "689883",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면 화정리",
+      "sub_address": "울주군 서생면 화정리",
+      "latitude": 35.39045,
+      "longitude": 129.320982
+    },
+    {
+      "postal_code": "689880",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 서생면",
+      "sub_address": "울주군 서생면",
+      "latitude": 35.349255,
+      "longitude": 129.326292
+    },
+    {
+      "postal_code": "689801",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 구수리",
+      "sub_address": "울주군 언양읍 구수리",
+      "latitude": 35.55193,
+      "longitude": 129.163612
+    },
+    {
+      "postal_code": "689802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 남부리",
+      "sub_address": "울주군 언양읍 남부리",
+      "latitude": 35.563403,
+      "longitude": 129.125111
+    },
+    {
+      "postal_code": "689803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 다개리",
+      "sub_address": "울주군 언양읍 다개리",
+      "latitude": 35.605142,
+      "longitude": 129.127949
+    },
+    {
+      "postal_code": "689803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 대곡리",
+      "sub_address": "울주군 언양읍 대곡리",
+      "latitude": 35.605142,
+      "longitude": 129.127949
+    },
+    {
+      "postal_code": "689804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 동부리",
+      "sub_address": "울주군 언양읍 동부리",
+      "latitude": 35.570739,
+      "longitude": 129.128119
+    },
+    {
+      "postal_code": "689803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 반곡리",
+      "sub_address": "울주군 언양읍 반곡리",
+      "latitude": 35.605142,
+      "longitude": 129.127949
+    },
+    {
+      "postal_code": "689801",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 반송리",
+      "sub_address": "울주군 언양읍 반송리",
+      "latitude": 35.55193,
+      "longitude": 129.163612
+    },
+    {
+      "postal_code": "689805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 반연리",
+      "sub_address": "울주군 언양읍 반연리",
+      "latitude": 35.56171,
+      "longitude": 129.164581
+    },
+    {
+      "postal_code": "689798",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 반연리",
+      "sub_address": "울주군 언양읍 반연리",
+      "latitude": 35.580262,
+      "longitude": 129.187471
+    },
+    {
+      "postal_code": "689805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 반천리",
+      "sub_address": "울주군 언양읍 반천리",
+      "latitude": 35.56171,
+      "longitude": 129.164581
+    },
+    {
+      "postal_code": "689762",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 서부리",
+      "sub_address": "울주군 언양읍 서부리",
+      "latitude": 35.567015,
+      "longitude": 129.116309
+    },
+    {
+      "postal_code": "689806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 서부리",
+      "sub_address": "울주군 언양읍 서부리",
+      "latitude": 35.567015,
+      "longitude": 129.116309
+    },
+    {
+      "postal_code": "689807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 송대리",
+      "sub_address": "울주군 언양읍 송대리",
+      "latitude": 35.583849,
+      "longitude": 129.15911
+    },
+    {
+      "postal_code": "689808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 어음리",
+      "sub_address": "울주군 언양읍 어음리",
+      "latitude": 35.55707,
+      "longitude": 129.138785
+    },
+    {
+      "postal_code": "689807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 직동리",
+      "sub_address": "울주군 언양읍 직동리",
+      "latitude": 35.583849,
+      "longitude": 129.15911
+    },
+    {
+      "postal_code": "689807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 태기리",
+      "sub_address": "울주군 언양읍 태기리",
+      "latitude": 35.583849,
+      "longitude": 129.15911
+    },
+    {
+      "postal_code": "689803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍 평리",
+      "sub_address": "울주군 언양읍 평리",
+      "latitude": 35.605142,
+      "longitude": 129.127949
+    },
+    {
+      "postal_code": "689751",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍",
+      "sub_address": "울주군 언양읍",
+      "latitude": 35.569439,
+      "longitude": 129.1258
+    },
+    {
+      "postal_code": "689800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 언양읍",
+      "sub_address": "울주군 언양읍",
+      "latitude": 35.569439,
+      "longitude": 129.1258
+    },
+    {
+      "postal_code": "689891",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 강양리",
+      "sub_address": "울주군 온산읍 강양리",
+      "latitude": 35.405282,
+      "longitude": 129.35373
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 당월리",
+      "sub_address": "울주군 온산읍 당월리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 대정리",
+      "sub_address": "울주군 온산읍 대정리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689893",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 덕신리",
+      "sub_address": "울주군 온산읍 덕신리",
+      "latitude": 35.441281,
+      "longitude": 129.305044
+    },
+    {
+      "postal_code": "689894",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 덕신리",
+      "sub_address": "울주군 온산읍 덕신리",
+      "latitude": 35.441281,
+      "longitude": 129.305044
+    },
+    {
+      "postal_code": "689895",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 덕신리",
+      "sub_address": "울주군 온산읍 덕신리",
+      "latitude": 35.441281,
+      "longitude": 129.305044
+    },
+    {
+      "postal_code": "689894",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 덕신리",
+      "sub_address": "울주군 온산읍 덕신리",
+      "latitude": 35.441281,
+      "longitude": 129.305044
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 방도리",
+      "sub_address": "울주군 온산읍 방도리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 산암리",
+      "sub_address": "울주군 온산읍 산암리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689891",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 삼평리",
+      "sub_address": "울주군 온산읍 삼평리",
+      "latitude": 35.405282,
+      "longitude": 129.35373
+    },
+    {
+      "postal_code": "689891",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 우봉리",
+      "sub_address": "울주군 온산읍 우봉리",
+      "latitude": 35.405282,
+      "longitude": 129.35373
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 원산리",
+      "sub_address": "울주군 온산읍 원산리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 이진리",
+      "sub_address": "울주군 온산읍 이진리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 처용리",
+      "sub_address": "울주군 온산읍 처용리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689892",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 학남리",
+      "sub_address": "울주군 온산읍 학남리",
+      "latitude": 35.430111,
+      "longitude": 129.358231
+    },
+    {
+      "postal_code": "689896",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍 화산리",
+      "sub_address": "울주군 온산읍 화산리",
+      "latitude": 35.435745,
+      "longitude": 129.334644
+    },
+    {
+      "postal_code": "689890",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍",
+      "sub_address": "울주군 온산읍",
+      "latitude": 35.434615,
+      "longitude": 129.314565
+    },
+    {
+      "postal_code": "689775",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍",
+      "sub_address": "울주군 온산읍",
+      "latitude": 35.434615,
+      "longitude": 129.314565
+    },
+    {
+      "postal_code": "689777",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍",
+      "sub_address": "울주군 온산읍",
+      "latitude": 35.434615,
+      "longitude": 129.314565
+    },
+    {
+      "postal_code": "689776",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍",
+      "sub_address": "울주군 온산읍",
+      "latitude": 35.434615,
+      "longitude": 129.314565
+    },
+    {
+      "postal_code": "689778",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온산읍",
+      "sub_address": "울주군 온산읍",
+      "latitude": 35.434615,
+      "longitude": 129.314565
+    },
+    {
+      "postal_code": "689901",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 고산리",
+      "sub_address": "울주군 온양읍 고산리",
+      "latitude": 35.451079,
+      "longitude": 129.286405
+    },
+    {
+      "postal_code": "689902",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 남창리",
+      "sub_address": "울주군 온양읍 남창리",
+      "latitude": 35.428278,
+      "longitude": 129.245709
+    },
+    {
+      "postal_code": "689902",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 내광리",
+      "sub_address": "울주군 온양읍 내광리",
+      "latitude": 35.428278,
+      "longitude": 129.245709
+    },
+    {
+      "postal_code": "689903",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 대안리",
+      "sub_address": "울주군 온양읍 대안리",
+      "latitude": 35.406252,
+      "longitude": 129.282408
+    },
+    {
+      "postal_code": "689752",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 대안리",
+      "sub_address": "울주군 온양읍 대안리",
+      "latitude": 35.406252,
+      "longitude": 129.282408
+    },
+    {
+      "postal_code": "689754",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 대안리",
+      "sub_address": "울주군 온양읍 대안리",
+      "latitude": 35.406252,
+      "longitude": 129.282408
+    },
+    {
+      "postal_code": "689753",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 대안리",
+      "sub_address": "울주군 온양읍 대안리",
+      "latitude": 35.406252,
+      "longitude": 129.282408
+    },
+    {
+      "postal_code": "689901",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 동상리",
+      "sub_address": "울주군 온양읍 동상리",
+      "latitude": 35.451079,
+      "longitude": 129.286405
+    },
+    {
+      "postal_code": "689901",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 망양리",
+      "sub_address": "울주군 온양읍 망양리",
+      "latitude": 35.451079,
+      "longitude": 129.286405
+    },
+    {
+      "postal_code": "689771",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 망양리",
+      "sub_address": "울주군 온양읍 망양리",
+      "latitude": 35.451079,
+      "longitude": 129.286405
+    },
+    {
+      "postal_code": "689904",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 발리",
+      "sub_address": "울주군 온양읍 발리",
+      "latitude": 35.395836,
+      "longitude": 129.293766
+    },
+    {
+      "postal_code": "689902",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 삼광리",
+      "sub_address": "울주군 온양읍 삼광리",
+      "latitude": 35.428278,
+      "longitude": 129.245709
+    },
+    {
+      "postal_code": "689902",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 외광리",
+      "sub_address": "울주군 온양읍 외광리",
+      "latitude": 35.428278,
+      "longitude": 129.245709
+    },
+    {
+      "postal_code": "689905",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍 운화리",
+      "sub_address": "울주군 온양읍 운화리",
+      "latitude": 35.399616,
+      "longitude": 129.242215
+    },
+    {
+      "postal_code": "689900",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍",
+      "sub_address": "울주군 온양읍",
+      "latitude": 35.41897,
+      "longitude": 129.280759
+    },
+    {
+      "postal_code": "689772",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍",
+      "sub_address": "울주군 온양읍",
+      "latitude": 35.41897,
+      "longitude": 129.280759
+    },
+    {
+      "postal_code": "689774",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍",
+      "sub_address": "울주군 온양읍",
+      "latitude": 35.41897,
+      "longitude": 129.280759
+    },
+    {
+      "postal_code": "689773",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 온양읍",
+      "sub_address": "울주군 온양읍",
+      "latitude": 35.41897,
+      "longitude": 129.280759
+    },
+    {
+      "postal_code": "689871",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 검단리",
+      "sub_address": "울주군 웅촌면 검단리",
+      "latitude": 35.445688,
+      "longitude": 129.16075
+    },
+    {
+      "postal_code": "689871",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 고연리",
+      "sub_address": "울주군 웅촌면 고연리",
+      "latitude": 35.445688,
+      "longitude": 129.16075
+    },
+    {
+      "postal_code": "689872",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 곡천리",
+      "sub_address": "울주군 웅촌면 곡천리",
+      "latitude": 35.460558,
+      "longitude": 129.221803
+    },
+    {
+      "postal_code": "689784",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 곡천리",
+      "sub_address": "울주군 웅촌면 곡천리",
+      "latitude": 35.468631,
+      "longitude": 129.203551
+    },
+    {
+      "postal_code": "689872",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 대대리",
+      "sub_address": "울주군 웅촌면 대대리",
+      "latitude": 35.460558,
+      "longitude": 129.221803
+    },
+    {
+      "postal_code": "689873",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 대복리",
+      "sub_address": "울주군 웅촌면 대복리",
+      "latitude": 35.469213,
+      "longitude": 129.245291
+    },
+    {
+      "postal_code": "689873",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 석천리",
+      "sub_address": "울주군 웅촌면 석천리",
+      "latitude": 35.469213,
+      "longitude": 129.245291
+    },
+    {
+      "postal_code": "689873",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 오복리",
+      "sub_address": "울주군 웅촌면 오복리",
+      "latitude": 35.469213,
+      "longitude": 129.245291
+    },
+    {
+      "postal_code": "689871",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 은현리",
+      "sub_address": "울주군 웅촌면 은현리",
+      "latitude": 35.445688,
+      "longitude": 129.16075
+    },
+    {
+      "postal_code": "689872",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 초천리",
+      "sub_address": "울주군 웅촌면 초천리",
+      "latitude": 35.460558,
+      "longitude": 129.221803
+    },
+    {
+      "postal_code": "689873",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면 통천리",
+      "sub_address": "울주군 웅촌면 통천리",
+      "latitude": 35.469213,
+      "longitude": 129.245291
+    },
+    {
+      "postal_code": "689870",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면",
+      "sub_address": "울주군 웅촌면",
+      "latitude": 35.461461,
+      "longitude": 129.208343
+    },
+    {
+      "postal_code": "689783",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 웅촌면",
+      "sub_address": "울주군 웅촌면",
+      "latitude": 35.461461,
+      "longitude": 129.208343
+    },
+    {
+      "postal_code": "689861",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 개곡리",
+      "sub_address": "울주군 청량면 개곡리",
+      "latitude": 35.515792,
+      "longitude": 129.234024
+    },
+    {
+      "postal_code": "689862",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 덕하리",
+      "sub_address": "울주군 청량면 덕하리",
+      "latitude": 35.467302,
+      "longitude": 129.260407
+    },
+    {
+      "postal_code": "689862",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 동천리",
+      "sub_address": "울주군 청량면 동천리",
+      "latitude": 35.467302,
+      "longitude": 129.260407
+    },
+    {
+      "postal_code": "689861",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 문죽리",
+      "sub_address": "울주군 청량면 문죽리",
+      "latitude": 35.515792,
+      "longitude": 129.234024
+    },
+    {
+      "postal_code": "689779",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 삼정리",
+      "sub_address": "울주군 청량면 삼정리",
+      "latitude": 35.491991,
+      "longitude": 129.25213
+    },
+    {
+      "postal_code": "689780",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 삼정리",
+      "sub_address": "울주군 청량면 삼정리",
+      "latitude": 35.491991,
+      "longitude": 129.25213
+    },
+    {
+      "postal_code": "689781",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 삼정리",
+      "sub_address": "울주군 청량면 삼정리",
+      "latitude": 35.491991,
+      "longitude": 129.25213
+    },
+    {
+      "postal_code": "689862",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 삼정리",
+      "sub_address": "울주군 청량면 삼정리",
+      "latitude": 35.467302,
+      "longitude": 129.260407
+    },
+    {
+      "postal_code": "689863",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 상남리",
+      "sub_address": "울주군 청량면 상남리",
+      "latitude": 35.479746,
+      "longitude": 129.308817
+    },
+    {
+      "postal_code": "689863",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 상남리",
+      "sub_address": "울주군 청량면 상남리",
+      "latitude": 35.479746,
+      "longitude": 129.308817
+    },
+    {
+      "postal_code": "689864",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 상남리",
+      "sub_address": "울주군 청량면 상남리",
+      "latitude": 35.479746,
+      "longitude": 129.308817
+    },
+    {
+      "postal_code": "689862",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 신전신리",
+      "sub_address": "울주군 청량면 신전신리",
+      "latitude": 35.467302,
+      "longitude": 129.260407
+    },
+    {
+      "postal_code": "689865",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 용암리",
+      "sub_address": "울주군 청량면 용암리",
+      "latitude": 35.470608,
+      "longitude": 129.320685
+    },
+    {
+      "postal_code": "689861",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 율리",
+      "sub_address": "울주군 청량면 율리",
+      "latitude": 35.515792,
+      "longitude": 129.234024
+    },
+    {
+      "postal_code": "689862",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면 중리",
+      "sub_address": "울주군 청량면 중리",
+      "latitude": 35.467302,
+      "longitude": 129.260407
+    },
+    {
+      "postal_code": "689782",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면",
+      "sub_address": "울주군 청량면",
+      "latitude": 35.493163,
+      "longitude": 129.305909
+    },
+    {
+      "postal_code": "689860",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 울주군 청량면",
+      "sub_address": "울주군 청량면",
+      "latitude": 35.493163,
+      "longitude": 129.305909
+    },
+    {
+      "postal_code": "681240",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 교동",
+      "sub_address": "중구 교동",
+      "latitude": 35.562524,
+      "longitude": 129.316183
+    },
+    {
+      "postal_code": "681800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681801",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681270",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681702",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681757",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681800",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681726",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681721",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681724",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681725",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681716",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 남외동",
+      "sub_address": "중구 남외동",
+      "latitude": 35.564738,
+      "longitude": 129.347054
+    },
+    {
+      "postal_code": "681748",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681749",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681340",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681758",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681759",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681802",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681803",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 다운동",
+      "sub_address": "중구 다운동",
+      "latitude": 35.556343,
+      "longitude": 129.275692
+    },
+    {
+      "postal_code": "681280",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 동동",
+      "sub_address": "중구 동동",
+      "latitude": 35.573873,
+      "longitude": 129.348653
+    },
+    {
+      "postal_code": "681712",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 동동",
+      "sub_address": "중구 동동",
+      "latitude": 35.573873,
+      "longitude": 129.348653
+    },
+    {
+      "postal_code": "681261",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681808",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681807",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681806",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구1동",
+      "sub_address": "중구 반구1동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681804",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681805",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681823",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681824",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681713",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681262",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681771",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구2동",
+      "sub_address": "중구 반구2동",
+      "latitude": 35.563353,
+      "longitude": 129.340825
+    },
+    {
+      "postal_code": "681260",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 반구동",
+      "sub_address": "중구 반구동",
+      "latitude": 35.556406,
+      "longitude": 129.341646
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681753",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681752",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681825",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681221",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681811",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산1동",
+      "sub_address": "중구 복산1동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681222",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681809",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681810",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681701",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681755",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681756",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681754",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산2동",
+      "sub_address": "중구 복산2동",
+      "latitude": 35.56573,
+      "longitude": 129.33422
+    },
+    {
+      "postal_code": "681220",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 복산동",
+      "sub_address": "중구 복산동",
+      "latitude": 35.56304,
+      "longitude": 129.32704
+    },
+    {
+      "postal_code": "681230",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 북정동",
+      "sub_address": "중구 북정동",
+      "latitude": 35.560627,
+      "longitude": 129.321334
+    },
+    {
+      "postal_code": "681290",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 서동",
+      "sub_address": "중구 서동",
+      "latitude": 35.581562,
+      "longitude": 129.343376
+    },
+    {
+      "postal_code": "681812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성남동",
+      "sub_address": "중구 성남동",
+      "latitude": 35.553342,
+      "longitude": 129.318715
+    },
+    {
+      "postal_code": "681210",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성남동",
+      "sub_address": "중구 성남동",
+      "latitude": 35.553342,
+      "longitude": 129.318715
+    },
+    {
+      "postal_code": "681812",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성남동",
+      "sub_address": "중구 성남동",
+      "latitude": 35.553342,
+      "longitude": 129.318715
+    },
+    {
+      "postal_code": "681813",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성남동",
+      "sub_address": "중구 성남동",
+      "latitude": 35.553342,
+      "longitude": 129.318715
+    },
+    {
+      "postal_code": "681300",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681710",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681760",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681788",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681715",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681718",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681715",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 성안동",
+      "sub_address": "중구 성안동",
+      "latitude": 35.581816,
+      "longitude": 129.31197
+    },
+    {
+      "postal_code": "681765",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 약사동",
+      "sub_address": "중구 약사동",
+      "latitude": 35.570382,
+      "longitude": 129.337262
+    },
+    {
+      "postal_code": "681430",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 약사동",
+      "sub_address": "중구 약사동",
+      "latitude": 35.570382,
+      "longitude": 129.337262
+    },
+    {
+      "postal_code": "681762",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 약사동",
+      "sub_address": "중구 약사동",
+      "latitude": 35.570382,
+      "longitude": 129.337262
+    },
+    {
+      "postal_code": "681190",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 옥교동",
+      "sub_address": "중구 옥교동",
+      "latitude": 35.552805,
+      "longitude": 129.325077
+    },
+    {
+      "postal_code": "681751",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681761",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681814",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681250",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681815",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681816",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681817",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681704",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 우정동",
+      "sub_address": "중구 우정동",
+      "latitude": 35.562102,
+      "longitude": 129.310186
+    },
+    {
+      "postal_code": "681705",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 유곡동",
+      "sub_address": "중구 유곡동",
+      "latitude": 35.569086,
+      "longitude": 129.292159
+    },
+    {
+      "postal_code": "681706",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 유곡동",
+      "sub_address": "중구 유곡동",
+      "latitude": 35.569086,
+      "longitude": 129.292159
+    },
+    {
+      "postal_code": "681310",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 유곡동",
+      "sub_address": "중구 유곡동",
+      "latitude": 35.569086,
+      "longitude": 129.292159
+    },
+    {
+      "postal_code": "681703",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 유곡동",
+      "sub_address": "중구 유곡동",
+      "latitude": 35.569086,
+      "longitude": 129.292159
+    },
+    {
+      "postal_code": "681420",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 장현동",
+      "sub_address": "중구 장현동",
+      "latitude": 35.588973,
+      "longitude": 129.335376
+    },
+    {
+      "postal_code": "681818",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681819",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681819",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681819",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681820",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681820",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681763",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681711",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681320",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681818",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681764",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681770",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681769",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681767",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681768",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 태화동",
+      "sub_address": "중구 태화동",
+      "latitude": 35.556507,
+      "longitude": 129.304419
+    },
+    {
+      "postal_code": "681200",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학산동",
+      "sub_address": "중구 학산동",
+      "latitude": 35.556999,
+      "longitude": 129.326076
+    },
+    {
+      "postal_code": "681821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681180",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681728",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681180",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681821",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681822",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구 학성동",
+      "sub_address": "중구 학성동",
+      "latitude": 35.555377,
+      "longitude": 129.334286
+    },
+    {
+      "postal_code": "681600",
+      "sido": "울산",
+      "sido_en": "Ulsan",
+      "address": "울산 중구",
+      "sub_address": "중구",
+      "latitude": 35.569385,
+      "longitude": 129.332548
+    }
+  ],
+  "meta": {
+    "title": "Ulsan 우편번호 (구 6자리) — Ulsan Postal Codes (legacy 6-digit) - 무료 다운로드",
+    "description": "Ulsan (울산) — Legacy 6-digit South Korean postal codes (구 우편번호) at submunicipal (동/리) level, with native Korean addresses and geographic coordinates. Source: Korea Data Hub National Postcode (2012-05); coordinates via Daum Local API. These 6-digit codes were superseded by the current 5-digit system in August 2015 and are retained here as a historical reference dataset. 포함 825 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Ulsan 우편번호 (구 6자리) — Ulsan Postal Codes (legacy 6-digit) | ListBase",
+    "seo_description": "다운로드 Ulsan 우편번호 (구 6자리) — Ulsan Postal Codes (legacy 6-digit) — 825 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 825 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

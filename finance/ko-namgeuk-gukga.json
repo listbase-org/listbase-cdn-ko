@@ -1,0 +1,200 @@
+{
+  "id": "ko-namgeuk-gukga",
+  "name": "남극 국가들 (3)",
+  "title": "남극 국가들 (3)",
+  "description": "남극 대륙의 3개 국가 — ISO 3166 코드, 한국어 국가명, 수도, 통화, 국제전화 코드, 위·경도, 이모지 국기 포함 (출처: dr5hn/countries-states-cities-database, ODbL)",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "numeric_code",
+      "label": "Numeric Code",
+      "type": "number"
+    },
+    {
+      "key": "name_local",
+      "label": "Name Local",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "subregion_en",
+      "label": "Subregion En",
+      "type": "string"
+    },
+    {
+      "key": "phone_code",
+      "label": "Phone Code",
+      "type": "number"
+    },
+    {
+      "key": "currency_code",
+      "label": "Currency Code",
+      "type": "string"
+    },
+    {
+      "key": "currency_name",
+      "label": "Currency Name",
+      "type": "string"
+    },
+    {
+      "key": "currency_symbol",
+      "label": "Currency Symbol",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "nationality_en",
+      "label": "Nationality En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "string"
+    },
+    {
+      "key": "area_sq_km",
+      "label": "Area Sq Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "numeric_code": "010",
+      "name_local": "남극",
+      "name_en": "Antarctica",
+      "name_native": "Antarctica",
+      "capital": "",
+      "region_en": "Polar",
+      "subregion_en": "",
+      "phone_code": "672",
+      "currency_code": "AAD",
+      "currency_name": "Antarctican dollar",
+      "currency_symbol": "$",
+      "tld": ".aq",
+      "nationality_en": "Antarctic",
+      "population": "",
+      "area_sq_km": 14000000,
+      "latitude": "-74.65000000",
+      "longitude": "4.48000000",
+      "emoji_flag": "🇦🇶",
+      "wikidata_id": "Q51"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "numeric_code": "074",
+      "name_local": "부벳 섬",
+      "name_en": "Bouvet Island",
+      "name_native": "Bouvetøya",
+      "capital": "",
+      "region_en": "",
+      "subregion_en": "",
+      "phone_code": "0055",
+      "currency_code": "NOK",
+      "currency_name": "Norwegian krone",
+      "currency_symbol": "ko",
+      "tld": ".bv",
+      "nationality_en": "Bouvet Island",
+      "population": "",
+      "area_sq_km": 49,
+      "latitude": "-54.43333333",
+      "longitude": "3.40000000",
+      "emoji_flag": "🇧🇻",
+      "wikidata_id": "Q23408"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "numeric_code": "334",
+      "name_local": "허드 맥도날드 제도",
+      "name_en": "Heard Island and McDonald Islands",
+      "name_native": "Heard Island and McDonald Islands",
+      "capital": "",
+      "region_en": "",
+      "subregion_en": "",
+      "phone_code": "672",
+      "currency_code": "AUD",
+      "currency_name": "Australian dollar",
+      "currency_symbol": "$",
+      "tld": ".hm",
+      "nationality_en": "Heard Island or McDonald Islands",
+      "population": "",
+      "area_sq_km": 412,
+      "latitude": "-53.10000000",
+      "longitude": "72.51666666",
+      "emoji_flag": "🇭🇲",
+      "wikidata_id": "Q131198"
+    }
+  ],
+  "meta": {
+    "title": "남극 국가들 (3) - 무료 다운로드",
+    "description": "남극 대륙의 3개 국가 — ISO 3166 코드, 한국어 국가명, 수도, 통화, 국제전화 코드, 위·경도, 이모지 국기 포함 (출처: dr5hn/countries-states-cities-database, ODbL) 포함 3 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "남극 국가들 (3) | ListBase",
+    "seo_description": "다운로드 남극 국가들 (3) — 3 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 3 건 / 21 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

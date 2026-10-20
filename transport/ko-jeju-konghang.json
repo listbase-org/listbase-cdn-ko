@@ -1,0 +1,107 @@
+{
+  "id": "ko-jeju-konghang",
+  "name": "Jeju-do 공항 (Airports in Jeju-do, South Korea)",
+  "title": "Jeju-do 공항 (Airports in Jeju-do, South Korea)",
+  "description": "Airports located in the Jeju-do administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RKPC",
+      "iata": "CJU",
+      "name": "Jeju International Airport",
+      "city": "Jeju City",
+      "subdivision": "Jeju-do",
+      "country": "KR",
+      "elevation_ft": 118,
+      "latitude": 33.5113,
+      "longitude": 126.493,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKPD",
+      "iata": "JDG",
+      "name": "Jeongseok Airport",
+      "city": "",
+      "subdivision": "Jeju-do",
+      "country": "KR",
+      "elevation_ft": 1171,
+      "latitude": 33.3996,
+      "longitude": 126.712,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Jeju-do 공항 (Airports in Jeju-do, South Korea) - 무료 다운로드",
+    "description": "Airports located in the Jeju-do administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone. 포함 2 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Jeju-do 공항 (Airports in Jeju-do, South Korea) | ListBase",
+    "seo_description": "다운로드 Jeju-do 공항 (Airports in Jeju-do, South Korea) — 2 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 2 건 / 11 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

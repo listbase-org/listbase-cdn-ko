@@ -1,0 +1,271 @@
+{
+  "id": "ko-tv-chaeneol-kids",
+  "name": "대한민국 어린이 채널",
+  "title": "대한민국 어린이 채널",
+  "description": "어린이 전문 채널 12개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'kids'. Korean 'kids' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BravoKids.kr",
+      "name": "Bravo Kids",
+      "alt_names": "브라보키즈",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2018-08-09",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bravokidstv.com/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CarrieTV.kr",
+      "name": "Carrie TV",
+      "alt_names": "캐리TV",
+      "network": "",
+      "owners": "CarrieSoft",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://carrietv.co.kr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "CartoonNetwork.kr",
+      "name": "Cartoon Network",
+      "alt_names": "카툰 네트워크",
+      "network": "Cartoon Network",
+      "owners": "Warner Bros. Discovery EMEA",
+      "country": "KR",
+      "categories": "animation, kids",
+      "is_nsfw": false,
+      "launched": "2006-11-11",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cartoonnetworkkorea.com/"
+    },
+    {
+      "id": 4,
+      "channel_id": "DaekyoKidsTV.kr",
+      "name": "Daekyo Kids TV",
+      "alt_names": "대교어린이TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "1995-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.kids17.net/"
+    },
+    {
+      "id": 5,
+      "channel_id": "EBSKids.kr",
+      "name": "EBS Kids",
+      "alt_names": "EBS 키즈",
+      "network": "",
+      "owners": "Government of South Korea",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2018-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.ebs.co.kr/kids"
+    },
+    {
+      "id": 6,
+      "channel_id": "JEITalentTV.kr",
+      "name": "JEI Talent TV",
+      "alt_names": "JEI 재능TV",
+      "network": "",
+      "owners": "JEI Corporation",
+      "country": "KR",
+      "categories": "kids, animation",
+      "is_nsfw": false,
+      "launched": "1995-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.jeitv.com/"
+    },
+    {
+      "id": 7,
+      "channel_id": "KBSKids.kr",
+      "name": "KBS Kids",
+      "alt_names": "KBS 키즈",
+      "network": "",
+      "owners": "Korean Broadcasting System",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2012-05-05",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.kbsn.co.kr/kids/"
+    },
+    {
+      "id": 8,
+      "channel_id": "KidsTalkTalkPlus.kr",
+      "name": "Kids Talk Talk Plus",
+      "alt_names": "키즈톡톡 플러스, Kids Talk Talk",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2003-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ena.skylifetv.co.kr/kidstalktalkplus/"
+    },
+    {
+      "id": 9,
+      "channel_id": "Nickelodeon.kr",
+      "name": "Nickelodeon",
+      "alt_names": "",
+      "network": "Nickelodeon",
+      "owners": "Paramount Networks EMEAA",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nick.co.kr/"
+    },
+    {
+      "id": 10,
+      "channel_id": "Pinkfong.kr",
+      "name": "Pinkfong",
+      "alt_names": "핑크퐁",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://pinkfong.com/"
+    },
+    {
+      "id": 11,
+      "channel_id": "PoyoTV.kr",
+      "name": "Poyo TV",
+      "alt_names": "뽀요TV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 12,
+      "channel_id": "Tooniverse.kr",
+      "name": "Tooniverse",
+      "alt_names": "투니버스",
+      "network": "",
+      "owners": "CJ ENM E&M Division",
+      "country": "KR",
+      "categories": "animation, kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tooniverse.tving.com/tooniverse"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 어린이 채널 - 무료 다운로드",
+    "description": "어린이 전문 채널 12개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'kids'. Korean 'kids' TV channels split from the ko-tv-chaeneol master dataset. 포함 12 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 어린이 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 어린이 채널 — 12 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 12 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

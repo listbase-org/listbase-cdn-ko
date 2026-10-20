@@ -1,0 +1,336 @@
+{
+  "id": "ko-oncheon",
+  "name": "대한민국의 온천 (Hot Springs of South Korea)",
+  "title": "대한민국의 온천 (Hot Springs of South Korea)",
+  "description": "대한민국에 위치한 온천 목록. 출처는 Wikidata 공개 SPARQL 엔드포인트(wdt:P31/P279* wd:Q177380, wdt:P17 wd:Q884). 각 항목에 한국어 이름(rdfs:label@ko), 영어 이름, 소재 행정구역(P131), 좌표(WGS84), 한국어 위키백과 링크를 제공한다. 한국어 이름 가나다순 정렬. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외(전체 29개 중 27개 유지).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27303269",
+      "name_ko": "강릉온천",
+      "name_en": "강릉온천",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.832222,
+      "longitude": 128.828889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27304308",
+      "name_ko": "구라미온천",
+      "name_en": "구라미온천",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.843056,
+      "longitude": 128.837222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27290316",
+      "name_ko": "덕구온천",
+      "name_en": "덕구온천",
+      "located_in_at": "경상북도",
+      "latitude": 37.078611,
+      "longitude": 129.284167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27952895",
+      "name_ko": "덕구온천",
+      "name_en": "덕구온천",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8D%95%EA%B5%AC%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27309625",
+      "name_ko": "덕산대온천",
+      "name_en": "덕산대온천",
+      "located_in_at": "충청남도",
+      "latitude": 36.694444,
+      "longitude": 126.6525,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27309808",
+      "name_ko": "덕산온천",
+      "name_en": "덕산온천",
+      "located_in_at": "충청남도",
+      "latitude": 36.689444,
+      "longitude": 126.66,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%82%B0%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12592940",
+      "name_ko": "도고온천",
+      "name_en": "도고온천",
+      "located_in_at": "아산시",
+      "latitude": 36.766098,
+      "longitude": 126.885949,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%EA%B3%A0%EC%98%A8%EC%B2%9C_(%EC%95%84%EC%82%B0)"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27309613",
+      "name_ko": "도고온천",
+      "name_en": "도고온천",
+      "located_in_at": "충청남도",
+      "latitude": 36.7625,
+      "longitude": 126.886111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27308608",
+      "name_ko": "도봉온천",
+      "name_en": "도봉온천",
+      "located_in_at": "서울특별시",
+      "latitude": 37.681944,
+      "longitude": 127.045278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27310444",
+      "name_ko": "돈산온천",
+      "name_en": "돈산온천",
+      "located_in_at": "충청북도",
+      "latitude": 37.0925,
+      "longitude": 127.7925,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q626070",
+      "name_ko": "동래온천",
+      "name_en": "동래온천",
+      "located_in_at": "동래구",
+      "latitude": 35.22015,
+      "longitude": 129.081399,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8F%99%EB%9E%98%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q28700918",
+      "name_ko": "마금산온천",
+      "name_en": "마금산온천",
+      "located_in_at": "창원시",
+      "latitude": 35.354516,
+      "longitude": 128.609714,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B8%88%EC%82%B0%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27321866",
+      "name_ko": "백암온천",
+      "name_en": "백암온천",
+      "located_in_at": "경상북도",
+      "latitude": 36.721111,
+      "longitude": 129.338333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12598678",
+      "name_ko": "부곡온천",
+      "name_en": "부곡온천",
+      "located_in_at": "",
+      "latitude": 35.544414,
+      "longitude": 128.492181,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EA%B3%A1%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27308620",
+      "name_ko": "서울온천",
+      "name_en": "서울온천",
+      "located_in_at": "서울특별시",
+      "latitude": 37.639444,
+      "longitude": 127.073333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27306543",
+      "name_ko": "소금강온천",
+      "name_en": "소금강온천",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.85,
+      "longitude": 128.8225,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q91013141",
+      "name_ko": "수안보온천",
+      "name_en": "수안보온천",
+      "located_in_at": "충주시",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%88%98%EC%95%88%EB%B3%B4%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27310623",
+      "name_ko": "아산온천",
+      "name_en": "아산온천",
+      "located_in_at": "충청남도",
+      "latitude": 36.856111,
+      "longitude": 126.980833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q27325083",
+      "name_ko": "약산온천",
+      "name_en": "약산온천",
+      "located_in_at": "대구광역시",
+      "latitude": 35.74325,
+      "longitude": 128.42733,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27308638",
+      "name_ko": "예림온천",
+      "name_en": "예림온천",
+      "located_in_at": "서울특별시",
+      "latitude": 37.570556,
+      "longitude": 127.072222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q493908",
+      "name_ko": "온양온천",
+      "name_en": "온양온천",
+      "located_in_at": "아산시",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27309340",
+      "name_ko": "온양온천",
+      "name_en": "온양온천",
+      "located_in_at": "충청남도",
+      "latitude": 36.782222,
+      "longitude": 127.001111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q27324911",
+      "name_ko": "용암온천",
+      "name_en": "용암온천",
+      "located_in_at": "경상북도",
+      "latitude": 35.688889,
+      "longitude": 128.718333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q27300437",
+      "name_ko": "용화온천",
+      "name_en": "용화온천",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.062222,
+      "longitude": 127.720278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q624171",
+      "name_ko": "유성온천",
+      "name_en": "유성온천",
+      "located_in_at": "유성구",
+      "latitude": 36.3559,
+      "longitude": 127.347,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%84%B1%EC%98%A8%EC%B2%9C"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q27340666",
+      "name_ko": "천안온천관광지",
+      "name_en": "천안온천관광지",
+      "located_in_at": "충청남도",
+      "latitude": 36.757778,
+      "longitude": 127.226111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q27310891",
+      "name_ko": "충운온천",
+      "name_en": "충운온천",
+      "located_in_at": "충청북도",
+      "latitude": 37.101111,
+      "longitude": 127.796111,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 온천 (Hot Springs of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 온천 목록. 출처는 Wikidata 공개 SPARQL 엔드포인트(wdt:P31/P279* wd:Q177380, wdt:P17 wd:Q884). 각 항목에 한국어 이름(rdfs:label@ko), 영어 이름, 소재 행정구역(P131), 좌표(WGS84), 한국어 위키백과 링크를 제공한다. 한국어 이름 가나다순 정렬. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외(전체 29개 중 27개 유지). 포함 27 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 온천 (Hot Springs of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 온천 (Hot Springs of South Korea) — 27 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 27 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

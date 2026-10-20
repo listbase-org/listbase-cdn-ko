@@ -1,0 +1,166 @@
+{
+  "id": "ko-haehyeop",
+  "name": "대한민국의 해협 (Straits of South Korea)",
+  "title": "대한민국의 해협 (Straits of South Korea)",
+  "description": "대한민국에 위치한 해협(海峽)·수로 목록. 대한해협·강화해협·노량해협·견내량 등. 상위클래스 트리가 끌어오는 일반 '바다(Q165)'는 직접 P31 제한으로 제외. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q16178451",
+      "name_ko": "강화해협",
+      "name_en": "강화해협",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B0%95%ED%99%94%ED%95%B4%ED%98%91"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q16180832",
+      "name_ko": "견내량",
+      "name_en": "견내량",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B2%AC%EB%82%B4%EB%9F%89"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q624569",
+      "name_ko": "남해",
+      "name_en": "남해",
+      "located_in_at": "대한민국",
+      "latitude": 34.014722,
+      "longitude": 128.756667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%A8%ED%95%B4"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12590340",
+      "name_ko": "노량해협",
+      "name_en": "노량해협",
+      "located_in_at": "경상남도",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%9F%89%ED%95%B4%ED%98%91"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q52052",
+      "name_ko": "대한해협",
+      "name_en": "대한해협",
+      "located_in_at": "",
+      "latitude": 34.599444,
+      "longitude": 129.796667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%ED%95%B4%ED%98%91"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q52055",
+      "name_ko": "동수로",
+      "name_en": "동수로",
+      "located_in_at": "",
+      "latitude": 34.0075,
+      "longitude": 129.49,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%93%B0%EC%8B%9C%EB%A7%88_%ED%95%B4%ED%98%91"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q627009",
+      "name_ko": "명량해협",
+      "name_en": "명량해협",
+      "located_in_at": "",
+      "latitude": 34.568333,
+      "longitude": 126.307778,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AA%85%EB%9F%89%ED%95%B4%ED%98%91"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q52054",
+      "name_ko": "서수로",
+      "name_en": "서수로",
+      "located_in_at": "",
+      "latitude": 34.57,
+      "longitude": 128.89,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%88%98%EB%A1%9C"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q11270798",
+      "name_ko": "제주해협",
+      "name_en": "제주해협",
+      "located_in_at": "",
+      "latitude": 33.67056,
+      "longitude": 126.4975,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%ED%95%B4%ED%98%91"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q16262251",
+      "name_ko": "칠천량",
+      "name_en": "칠천량",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EC%B2%9C%EB%9F%89"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 해협 (Straits of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 해협(海峽)·수로 목록. 대한해협·강화해협·노량해협·견내량 등. 상위클래스 트리가 끌어오는 일반 '바다(Q165)'는 직접 P31 제한으로 제외. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 10 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 해협 (Straits of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 해협 (Straits of South Korea) — 10 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 10 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

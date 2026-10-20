@@ -1,0 +1,687 @@
+{
+  "id": "ko-05-hoseon-jihacheol-yeok",
+  "name": "05호선 지하철 역 (Line 5 subway stations)",
+  "title": "05호선 지하철 역 (Line 5 subway stations)",
+  "description": "05호선(Line 5)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 56개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 5 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "신길",
+      "name_romanized": "",
+      "lines": "01호선, 05호선",
+      "lines_en": "Line 1, Line 5",
+      "lines_count": 2,
+      "latitude": 37.517122,
+      "longitude": 126.917169,
+      "around_stations": "영등포시장, 여의도, 영등포, 대방",
+      "around_count": 4
+    },
+    {
+      "name": "종로3가",
+      "name_romanized": "jongno-3-ga",
+      "lines": "01호선, 03호선, 05호선",
+      "lines_en": "Line 1, Line 3, Line 5",
+      "lines_count": 3,
+      "latitude": 37.571607,
+      "longitude": 126.991806,
+      "around_stations": "광화문, 을지로4가, 종각, 종로5가, 안국, 을지로3가",
+      "around_count": 6
+    },
+    {
+      "name": "영등포구청",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.52497,
+      "longitude": 126.895951,
+      "around_stations": "양평, 영등포시장, 당산, 문래",
+      "around_count": 4
+    },
+    {
+      "name": "을지로4가",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.566941,
+      "longitude": 126.998079,
+      "around_stations": "종로3가, 동대문역사문화공원, 을지로3가",
+      "around_count": 3
+    },
+    {
+      "name": "동대문역사문화공원",
+      "name_romanized": "",
+      "lines": "02호선, 04호선, 05호선",
+      "lines_en": "Line 2, Line 4, Line 5",
+      "lines_count": 3,
+      "latitude": 37.565138,
+      "longitude": 127.007896,
+      "around_stations": "을지로4가, 청구, 동대문, 충무로, 신당",
+      "around_count": 5
+    },
+    {
+      "name": "충정로",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.559973,
+      "longitude": 126.963672,
+      "around_stations": "애오개, 서대문, 아현, 시청",
+      "around_count": 4
+    },
+    {
+      "name": "까치산",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.531768,
+      "longitude": 126.846683,
+      "around_stations": "화곡, 신정, 신정네거리",
+      "around_count": 3
+    },
+    {
+      "name": "왕십리",
+      "name_romanized": "",
+      "lines": "02호선, 05호선, 경의선, 수인분당선",
+      "lines_en": "Line 2, Line 5, Gyeongui-Jungang Line, Suin-Bundang Line",
+      "lines_count": 4,
+      "latitude": 37.561533,
+      "longitude": 127.037732,
+      "around_stations": "서울숲, 청량리, 상왕십리, 한양대, 행당, 마장, 응봉",
+      "around_count": 7
+    },
+    {
+      "name": "오금",
+      "name_romanized": "",
+      "lines": "03호선, 05호선",
+      "lines_en": "Line 3, Line 5",
+      "lines_count": 2,
+      "latitude": 37.502162,
+      "longitude": 127.128111,
+      "around_stations": "방이, 개롱, 경찰병원",
+      "around_count": 3
+    },
+    {
+      "name": "둔촌동",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.527788,
+      "longitude": 127.136248,
+      "around_stations": "강동, 올림픽공원",
+      "around_count": 2
+    },
+    {
+      "name": "올림픽공원",
+      "name_romanized": "",
+      "lines": "05호선, 09호선",
+      "lines_en": "Line 5, Line 9",
+      "lines_count": 2,
+      "latitude": 37.516078,
+      "longitude": 127.130848,
+      "around_stations": "둔촌동, 방이, 한성백제, 둔촌오륜",
+      "around_count": 4
+    },
+    {
+      "name": "미사",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.561468,
+      "longitude": 127.1911413,
+      "around_stations": "강일, 하남풍산",
+      "around_count": 2
+    },
+    {
+      "name": "하남풍산",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.5520632,
+      "longitude": 127.201686,
+      "around_stations": "미사, 하남시청",
+      "around_count": 2
+    },
+    {
+      "name": "강일",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.557428744877704,
+      "longitude": 127.17563831477813,
+      "around_stations": "상일동, 미사",
+      "around_count": 2
+    },
+    {
+      "name": "하남검단산",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.5397789222209,
+      "longitude": 127.22322718521292,
+      "around_stations": "하남시청",
+      "around_count": 1
+    },
+    {
+      "name": "하남시청",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.54196308251825,
+      "longitude": 127.2063060431385,
+      "around_stations": "하남풍산, 하남검단산",
+      "around_count": 2
+    },
+    {
+      "name": "방화",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.577446,
+      "longitude": 126.812741,
+      "around_stations": "개화산",
+      "around_count": 1
+    },
+    {
+      "name": "개화산",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.572399,
+      "longitude": 126.806171,
+      "around_stations": "방화, 김포공항",
+      "around_count": 2
+    },
+    {
+      "name": "김포공항",
+      "name_romanized": "",
+      "lines": "05호선, 09호선, 공항철도, 김포도시철도",
+      "lines_en": "Line 5, Line 9, AREX (Airport Railroad Express), Gimpo Goldline",
+      "lines_count": 4,
+      "latitude": 37.562434,
+      "longitude": 126.801058,
+      "around_stations": "계양, 마곡나루, 개화, 공항시장, 고촌, 개화산, 송정",
+      "around_count": 7
+    },
+    {
+      "name": "송정",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.561184,
+      "longitude": 126.811973,
+      "around_stations": "김포공항, 마곡",
+      "around_count": 2
+    },
+    {
+      "name": "마곡",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.560183,
+      "longitude": 126.825448,
+      "around_stations": "송정, 발산",
+      "around_count": 2
+    },
+    {
+      "name": "애오개",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.553736,
+      "longitude": 126.95682,
+      "around_stations": "공덕, 충정로",
+      "around_count": 2
+    },
+    {
+      "name": "서대문",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.565773,
+      "longitude": 126.966641,
+      "around_stations": "충정로, 광화문",
+      "around_count": 2
+    },
+    {
+      "name": "광화문",
+      "name_romanized": "gwanghwamun",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.571026,
+      "longitude": 126.976669,
+      "around_stations": "서대문, 종로3가",
+      "around_count": 2
+    },
+    {
+      "name": "발산",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.558598,
+      "longitude": 126.837668,
+      "around_stations": "마곡, 우장산",
+      "around_count": 2
+    },
+    {
+      "name": "우장산",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.548768,
+      "longitude": 126.836318,
+      "around_stations": "발산, 화곡",
+      "around_count": 2
+    },
+    {
+      "name": "화곡",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.541513,
+      "longitude": 126.840461,
+      "around_stations": "우장산, 까치산",
+      "around_count": 2
+    },
+    {
+      "name": "신정",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.524997,
+      "longitude": 126.856191,
+      "around_stations": "까치산, 목동",
+      "around_count": 2
+    },
+    {
+      "name": "목동",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.526065,
+      "longitude": 126.864931,
+      "around_stations": "신정, 오목교",
+      "around_count": 2
+    },
+    {
+      "name": "오목교",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.524496,
+      "longitude": 126.875181,
+      "around_stations": "목동, 양평",
+      "around_count": 2
+    },
+    {
+      "name": "양평",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.5255688472834,
+      "longitude": 126.88643626847433,
+      "around_stations": "오목교, 영등포구청",
+      "around_count": 2
+    },
+    {
+      "name": "영등포시장",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.522669,
+      "longitude": 126.905139,
+      "around_stations": "영등포구청, 신길",
+      "around_count": 2
+    },
+    {
+      "name": "여의도",
+      "name_romanized": "yeouido",
+      "lines": "05호선, 09호선",
+      "lines_en": "Line 5, Line 9",
+      "lines_count": 2,
+      "latitude": 37.521624,
+      "longitude": 126.924191,
+      "around_stations": "신길, 여의나루, 국회의사당, 샛강",
+      "around_count": 4
+    },
+    {
+      "name": "여의나루",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.527098,
+      "longitude": 126.932901,
+      "around_stations": "여의도, 마포",
+      "around_count": 2
+    },
+    {
+      "name": "마포",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.539574,
+      "longitude": 126.945932,
+      "around_stations": "여의나루, 공덕",
+      "around_count": 2
+    },
+    {
+      "name": "공덕",
+      "name_romanized": "",
+      "lines": "05호선, 06호선, 경의선, 공항철도",
+      "lines_en": "Line 5, Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.544018,
+      "longitude": 126.951592,
+      "around_stations": "서강대, 홍대입구, 애오개, 서울, 효창공원앞, 마포, 대흥",
+      "around_count": 7
+    },
+    {
+      "name": "신금호",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.554548,
+      "longitude": 127.020331,
+      "around_stations": "청구, 행당",
+      "around_count": 2
+    },
+    {
+      "name": "행당",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.557322,
+      "longitude": 127.029476,
+      "around_stations": "신금호, 왕십리",
+      "around_count": 2
+    },
+    {
+      "name": "마장",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.5661,
+      "longitude": 127.042973,
+      "around_stations": "왕십리, 답십리",
+      "around_count": 2
+    },
+    {
+      "name": "답십리",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.566747,
+      "longitude": 127.052704,
+      "around_stations": "마장, 장한평",
+      "around_count": 2
+    },
+    {
+      "name": "장한평",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.56144,
+      "longitude": 127.064623,
+      "around_stations": "답십리, 군자",
+      "around_count": 2
+    },
+    {
+      "name": "군자",
+      "name_romanized": "",
+      "lines": "05호선, 07호선",
+      "lines_en": "Line 5, Line 7",
+      "lines_count": 2,
+      "latitude": 37.557121,
+      "longitude": 127.079542,
+      "around_stations": "장한평, 아차산, 어린이대공원, 중곡",
+      "around_count": 4
+    },
+    {
+      "name": "아차산",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.551691,
+      "longitude": 127.089761,
+      "around_stations": "군자, 광나루",
+      "around_count": 2
+    },
+    {
+      "name": "광나루",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.545303,
+      "longitude": 127.10357,
+      "around_stations": "아차산, 천호",
+      "around_count": 2
+    },
+    {
+      "name": "천호",
+      "name_romanized": "",
+      "lines": "05호선, 08호선",
+      "lines_en": "Line 5, Line 8",
+      "lines_count": 2,
+      "latitude": 37.538397,
+      "longitude": 127.123572,
+      "around_stations": "광나루, 강동, 강동구청, 암사",
+      "around_count": 4
+    },
+    {
+      "name": "강동",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.535804,
+      "longitude": 127.132481,
+      "around_stations": "천호, 길동, 둔촌동",
+      "around_count": 3
+    },
+    {
+      "name": "길동",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.537801,
+      "longitude": 127.140004,
+      "around_stations": "강동, 굽은다리",
+      "around_count": 2
+    },
+    {
+      "name": "굽은다리",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.545477,
+      "longitude": 127.142853,
+      "around_stations": "길동, 명일",
+      "around_count": 2
+    },
+    {
+      "name": "명일",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.55137,
+      "longitude": 127.143999,
+      "around_stations": "굽은다리, 고덕",
+      "around_count": 2
+    },
+    {
+      "name": "고덕",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.555004,
+      "longitude": 127.154151,
+      "around_stations": "명일, 상일동",
+      "around_count": 2
+    },
+    {
+      "name": "상일동",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.556712,
+      "longitude": 127.166417,
+      "around_stations": "고덕, 강일",
+      "around_count": 2
+    },
+    {
+      "name": "방이",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.508857,
+      "longitude": 127.126133,
+      "around_stations": "올림픽공원, 오금",
+      "around_count": 2
+    },
+    {
+      "name": "개롱",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.498079,
+      "longitude": 127.13482,
+      "around_stations": "오금, 거여",
+      "around_count": 2
+    },
+    {
+      "name": "거여",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.493105,
+      "longitude": 127.14415,
+      "around_stations": "개롱, 마천",
+      "around_count": 2
+    },
+    {
+      "name": "마천",
+      "name_romanized": "",
+      "lines": "05호선",
+      "lines_en": "Line 5",
+      "lines_count": 1,
+      "latitude": 37.49499,
+      "longitude": 127.152781,
+      "around_stations": "거여",
+      "around_count": 1
+    },
+    {
+      "name": "청구",
+      "name_romanized": "",
+      "lines": "05호선, 06호선",
+      "lines_en": "Line 5, Line 6",
+      "lines_count": 2,
+      "latitude": 37.560245,
+      "longitude": 127.013828,
+      "around_stations": "동대문역사문화공원, 신금호, 신당, 약수",
+      "around_count": 4
+    }
+  ],
+  "meta": {
+    "title": "05호선 지하철 역 (Line 5 subway stations) - 무료 다운로드",
+    "description": "05호선(Line 5)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 56개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 5 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 56 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "05호선 지하철 역 (Line 5 subway stations) | ListBase",
+    "seo_description": "다운로드 05호선 지하철 역 (Line 5 subway stations) — 56 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 56 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

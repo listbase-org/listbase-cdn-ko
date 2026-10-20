@@ -1,0 +1,496 @@
+{
+  "id": "ko-jeju-haengjeong-dong",
+  "name": "제주특별자치도 — 행정동",
+  "title": "제주특별자치도 — 행정동",
+  "description": "제주특별자치도의 행정동(行政洞) 목록 43개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (43 haengjeong-dong / administrative neighborhoods of Jeju Province.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "short_code",
+      "label": "Short Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dong",
+      "label": "Dong",
+      "type": "string"
+    },
+    {
+      "key": "sido_code",
+      "label": "Sido Code",
+      "type": "number"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sgg_code",
+      "label": "Sgg Code",
+      "type": "number"
+    },
+    {
+      "key": "sgg",
+      "label": "Sgg",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "5011025000",
+      "short_code": "3901011",
+      "name": "제주특별자치도 제주시 한림읍",
+      "dong": "한림읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011025300",
+      "short_code": "3901012",
+      "name": "제주특별자치도 제주시 애월읍",
+      "dong": "애월읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011025600",
+      "short_code": "3901013",
+      "name": "제주특별자치도 제주시 구좌읍",
+      "dong": "구좌읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011025900",
+      "short_code": "3901014",
+      "name": "제주특별자치도 제주시 조천읍",
+      "dong": "조천읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011031000",
+      "short_code": "3901031",
+      "name": "제주특별자치도 제주시 한경면",
+      "dong": "한경면",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011032000",
+      "short_code": "3901032",
+      "name": "제주특별자치도 제주시 추자면",
+      "dong": "추자면",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011033000",
+      "short_code": "3901033",
+      "name": "제주특별자치도 제주시 우도면",
+      "dong": "우도면",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011051000",
+      "short_code": "3901051",
+      "name": "제주특별자치도 제주시 일도1동",
+      "dong": "일도1동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011052000",
+      "short_code": "3901052",
+      "name": "제주특별자치도 제주시 일도2동",
+      "dong": "일도2동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011053000",
+      "short_code": "3901053",
+      "name": "제주특별자치도 제주시 이도1동",
+      "dong": "이도1동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011054000",
+      "short_code": "3901054",
+      "name": "제주특별자치도 제주시 이도2동",
+      "dong": "이도2동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011055000",
+      "short_code": "3901055",
+      "name": "제주특별자치도 제주시 삼도1동",
+      "dong": "삼도1동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011056000",
+      "short_code": "3901056",
+      "name": "제주특별자치도 제주시 삼도2동",
+      "dong": "삼도2동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011057000",
+      "short_code": "3901057",
+      "name": "제주특별자치도 제주시 용담1동",
+      "dong": "용담1동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011058000",
+      "short_code": "3901058",
+      "name": "제주특별자치도 제주시 용담2동",
+      "dong": "용담2동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011059000",
+      "short_code": "3901059",
+      "name": "제주특별자치도 제주시 건입동",
+      "dong": "건입동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011060000",
+      "short_code": "3901060",
+      "name": "제주특별자치도 제주시 화북동",
+      "dong": "화북동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011061000",
+      "short_code": "3901061",
+      "name": "제주특별자치도 제주시 삼양동",
+      "dong": "삼양동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011062000",
+      "short_code": "3901062",
+      "name": "제주특별자치도 제주시 봉개동",
+      "dong": "봉개동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011063000",
+      "short_code": "3901063",
+      "name": "제주특별자치도 제주시 아라동",
+      "dong": "아라동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011064000",
+      "short_code": "3901064",
+      "name": "제주특별자치도 제주시 오라동",
+      "dong": "오라동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011065000",
+      "short_code": "3901065",
+      "name": "제주특별자치도 제주시 연동",
+      "dong": "연동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011066000",
+      "short_code": "3901066",
+      "name": "제주특별자치도 제주시 노형동",
+      "dong": "노형동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011067000",
+      "short_code": "3901067",
+      "name": "제주특별자치도 제주시 외도동",
+      "dong": "외도동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011068000",
+      "short_code": "3901068",
+      "name": "제주특별자치도 제주시 이호동",
+      "dong": "이호동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5011069000",
+      "short_code": "3901069",
+      "name": "제주특별자치도 제주시 도두동",
+      "dong": "도두동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50110",
+      "sgg": "제주시"
+    },
+    {
+      "code": "5013025000",
+      "short_code": "3902011",
+      "name": "제주특별자치도 서귀포시 대정읍",
+      "dong": "대정읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013025300",
+      "short_code": "3902012",
+      "name": "제주특별자치도 서귀포시 남원읍",
+      "dong": "남원읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013025900",
+      "short_code": "3902013",
+      "name": "제주특별자치도 서귀포시 성산읍",
+      "dong": "성산읍",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013031000",
+      "short_code": "3902031",
+      "name": "제주특별자치도 서귀포시 안덕면",
+      "dong": "안덕면",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013032000",
+      "short_code": "3902032",
+      "name": "제주특별자치도 서귀포시 표선면",
+      "dong": "표선면",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013051000",
+      "short_code": "3902051",
+      "name": "제주특별자치도 서귀포시 송산동",
+      "dong": "송산동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013052000",
+      "short_code": "3902052",
+      "name": "제주특별자치도 서귀포시 정방동",
+      "dong": "정방동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013053000",
+      "short_code": "3902053",
+      "name": "제주특별자치도 서귀포시 중앙동",
+      "dong": "중앙동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013054000",
+      "short_code": "3902054",
+      "name": "제주특별자치도 서귀포시 천지동",
+      "dong": "천지동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013055000",
+      "short_code": "3902055",
+      "name": "제주특별자치도 서귀포시 효돈동",
+      "dong": "효돈동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013056000",
+      "short_code": "3902056",
+      "name": "제주특별자치도 서귀포시 영천동",
+      "dong": "영천동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013057000",
+      "short_code": "3902057",
+      "name": "제주특별자치도 서귀포시 동홍동",
+      "dong": "동홍동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013058000",
+      "short_code": "3902058",
+      "name": "제주특별자치도 서귀포시 서홍동",
+      "dong": "서홍동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013059000",
+      "short_code": "3902059",
+      "name": "제주특별자치도 서귀포시 대륜동",
+      "dong": "대륜동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013060000",
+      "short_code": "3902060",
+      "name": "제주특별자치도 서귀포시 대천동",
+      "dong": "대천동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013061000",
+      "short_code": "3902061",
+      "name": "제주특별자치도 서귀포시 중문동",
+      "dong": "중문동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    },
+    {
+      "code": "5013062000",
+      "short_code": "3902062",
+      "name": "제주특별자치도 서귀포시 예래동",
+      "dong": "예래동",
+      "sido_code": "50",
+      "sido": "제주특별자치도",
+      "sgg_code": "50130",
+      "sgg": "서귀포시"
+    }
+  ],
+  "meta": {
+    "title": "제주특별자치도 — 행정동 - 무료 다운로드",
+    "description": "제주특별자치도의 행정동(行政洞) 목록 43개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (43 haengjeong-dong / administrative neighborhoods of Jeju Province.) 포함 43 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "제주특별자치도 — 행정동 | ListBase",
+    "seo_description": "다운로드 제주특별자치도 — 행정동 — 43 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 43 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

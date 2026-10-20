@@ -1,0 +1,340 @@
+{
+  "id": "ko-cheukjeong-danwi-length",
+  "name": "길이 단위 (31)",
+  "title": "길이 단위 (31)",
+  "description": "CLDR ko 로케일의 'length' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "length-astronomical-unit",
+      "bunryu": "length",
+      "ireum": "천문 단위",
+      "yakja": "au",
+      "gan_yakja": "au",
+      "danwi_paeteon": "{0}천문 단위",
+      "id": 1
+    },
+    {
+      "unit_code": "length-centimeter",
+      "bunryu": "length",
+      "ireum": "센티미터",
+      "yakja": "cm",
+      "gan_yakja": "cm",
+      "danwi_paeteon": "{0}센티미터",
+      "id": 2
+    },
+    {
+      "unit_code": "length-chain",
+      "bunryu": "length",
+      "ireum": "chain",
+      "yakja": "chain",
+      "gan_yakja": "chain",
+      "danwi_paeteon": "{0} chain",
+      "id": 3
+    },
+    {
+      "unit_code": "length-decimeter",
+      "bunryu": "length",
+      "ireum": "데시미터",
+      "yakja": "dm",
+      "gan_yakja": "dm",
+      "danwi_paeteon": "{0}데시미터",
+      "id": 4
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "bunryu": "length",
+      "ireum": "지구 반경",
+      "yakja": "R⊕",
+      "gan_yakja": "R⊕",
+      "danwi_paeteon": "{0}지구 반경",
+      "id": 5
+    },
+    {
+      "unit_code": "length-fathom",
+      "bunryu": "length",
+      "ireum": "패덤",
+      "yakja": "fm",
+      "gan_yakja": "fm",
+      "danwi_paeteon": "{0}패덤",
+      "id": 6
+    },
+    {
+      "unit_code": "length-foot",
+      "bunryu": "length",
+      "ireum": "피트",
+      "yakja": "ft",
+      "gan_yakja": "ft",
+      "danwi_paeteon": "{0}피트",
+      "id": 7
+    },
+    {
+      "unit_code": "length-furlong",
+      "bunryu": "length",
+      "ireum": "펄롱",
+      "yakja": "fur",
+      "gan_yakja": "fur",
+      "danwi_paeteon": "{0}펄롱",
+      "id": 8
+    },
+    {
+      "unit_code": "length-inch",
+      "bunryu": "length",
+      "ireum": "인치",
+      "yakja": "in",
+      "gan_yakja": "in",
+      "danwi_paeteon": "{0}인치",
+      "id": 9
+    },
+    {
+      "unit_code": "length-jo-jp",
+      "bunryu": "length",
+      "ireum": "jo [JP]",
+      "yakja": "jo [JP]",
+      "gan_yakja": "jo [JP]",
+      "danwi_paeteon": "{0} jo [JP]",
+      "id": 10
+    },
+    {
+      "unit_code": "length-ken",
+      "bunryu": "length",
+      "ireum": "ken [JP]",
+      "yakja": "ken [JP]",
+      "gan_yakja": "ken [JP]",
+      "danwi_paeteon": "{0} ken [JP]",
+      "id": 11
+    },
+    {
+      "unit_code": "length-kilometer",
+      "bunryu": "length",
+      "ireum": "킬로미터",
+      "yakja": "km",
+      "gan_yakja": "km",
+      "danwi_paeteon": "{0}킬로미터",
+      "id": 12
+    },
+    {
+      "unit_code": "length-light-year",
+      "bunryu": "length",
+      "ireum": "광년",
+      "yakja": "ly",
+      "gan_yakja": "ly",
+      "danwi_paeteon": "{0}광년",
+      "id": 13
+    },
+    {
+      "unit_code": "length-meter",
+      "bunryu": "length",
+      "ireum": "미터",
+      "yakja": "m",
+      "gan_yakja": "m",
+      "danwi_paeteon": "{0}미터",
+      "id": 14
+    },
+    {
+      "unit_code": "length-micrometer",
+      "bunryu": "length",
+      "ireum": "마이크로미터",
+      "yakja": "μm",
+      "gan_yakja": "μm",
+      "danwi_paeteon": "{0}마이크로미터",
+      "id": 15
+    },
+    {
+      "unit_code": "length-mile",
+      "bunryu": "length",
+      "ireum": "마일",
+      "yakja": "mi",
+      "gan_yakja": "mi",
+      "danwi_paeteon": "{0}마일",
+      "id": 16
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "bunryu": "length",
+      "ireum": "스칸디나비아 마일",
+      "yakja": "smi",
+      "gan_yakja": "smi",
+      "danwi_paeteon": "{0}스칸디나비아 마일",
+      "id": 17
+    },
+    {
+      "unit_code": "length-millimeter",
+      "bunryu": "length",
+      "ireum": "밀리미터",
+      "yakja": "mm",
+      "gan_yakja": "mm",
+      "danwi_paeteon": "{0}밀리미터",
+      "id": 18
+    },
+    {
+      "unit_code": "length-nanometer",
+      "bunryu": "length",
+      "ireum": "나노미터",
+      "yakja": "nm",
+      "gan_yakja": "nm",
+      "danwi_paeteon": "{0}나노미터",
+      "id": 19
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "bunryu": "length",
+      "ireum": "해리",
+      "yakja": "nmi",
+      "gan_yakja": "nmi",
+      "danwi_paeteon": "{0}해리",
+      "id": 20
+    },
+    {
+      "unit_code": "length-parsec",
+      "bunryu": "length",
+      "ireum": "파섹",
+      "yakja": "pc",
+      "gan_yakja": "pc",
+      "danwi_paeteon": "{0}파섹",
+      "id": 21
+    },
+    {
+      "unit_code": "length-picometer",
+      "bunryu": "length",
+      "ireum": "피코미터",
+      "yakja": "pm",
+      "gan_yakja": "pm",
+      "danwi_paeteon": "{0}피코미터",
+      "id": 22
+    },
+    {
+      "unit_code": "length-point",
+      "bunryu": "length",
+      "ireum": "포인트",
+      "yakja": "pt",
+      "gan_yakja": "pt",
+      "danwi_paeteon": "{0}포인트",
+      "id": 23
+    },
+    {
+      "unit_code": "length-ri-jp",
+      "bunryu": "length",
+      "ireum": "ri [JP]",
+      "yakja": "ri [JP]",
+      "gan_yakja": "ri [JP]",
+      "danwi_paeteon": "{0} ri [JP]",
+      "id": 24
+    },
+    {
+      "unit_code": "length-rin",
+      "bunryu": "length",
+      "ireum": "rin [JP]",
+      "yakja": "rin [JP]",
+      "gan_yakja": "rin [JP]",
+      "danwi_paeteon": "{0} rin [JP]",
+      "id": 25
+    },
+    {
+      "unit_code": "length-rod",
+      "bunryu": "length",
+      "ireum": "rod",
+      "yakja": "rod",
+      "gan_yakja": "rod",
+      "danwi_paeteon": "{0} rod",
+      "id": 26
+    },
+    {
+      "unit_code": "length-shaku-cloth",
+      "bunryu": "length",
+      "ireum": "shaku [cloth, JP]",
+      "yakja": "shaku [cloth, JP]",
+      "gan_yakja": "shaku [cloth, JP]",
+      "danwi_paeteon": "{0} shaku [cloth, JP]",
+      "id": 27
+    },
+    {
+      "unit_code": "length-shaku-length",
+      "bunryu": "length",
+      "ireum": "shaku [JP]",
+      "yakja": "shaku [JP]",
+      "gan_yakja": "shaku [JP]",
+      "danwi_paeteon": "{0} shaku [JP]",
+      "id": 28
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "bunryu": "length",
+      "ireum": "태양 반경",
+      "yakja": "R☉",
+      "gan_yakja": "R☉",
+      "danwi_paeteon": "{0}태양 반경",
+      "id": 29
+    },
+    {
+      "unit_code": "length-sun",
+      "bunryu": "length",
+      "ireum": "sun [JP]",
+      "yakja": "sun [JP]",
+      "gan_yakja": "sun [JP]",
+      "danwi_paeteon": "{0} sun [JP]",
+      "id": 30
+    },
+    {
+      "unit_code": "length-yard",
+      "bunryu": "length",
+      "ireum": "야드",
+      "yakja": "yd",
+      "gan_yakja": "yd",
+      "danwi_paeteon": "{0}야드",
+      "id": 31
+    }
+  ],
+  "meta": {
+    "title": "길이 단위 (31) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'length' 분류 측정 단위와 한국어 명칭. 포함 31 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "길이 단위 (31) | ListBase",
+    "seo_description": "다운로드 길이 단위 (31) — 31 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 31 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

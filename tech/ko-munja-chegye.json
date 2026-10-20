@@ -1,0 +1,901 @@
+{
+  "id": "ko-munja-chegye",
+  "name": "세계의 문자 체계 (ISO 15924 / CLDR)",
+  "title": "세계의 문자 체계 (ISO 15924 / CLDR)",
+  "description": "ISO 15924 문자 체계 코드와 그에 대응하는 한국어 명칭. CLDR ko 로케일의 scripts.json 전체.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 172,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "ireum": "아들람 문자"
+    },
+    {
+      "id": 2,
+      "code": "Afak",
+      "ireum": "아파카 문자"
+    },
+    {
+      "id": 3,
+      "code": "Aghb",
+      "ireum": "코카시안 알바니아 문자"
+    },
+    {
+      "id": 4,
+      "code": "Arab",
+      "ireum": "아랍 문자"
+    },
+    {
+      "id": 5,
+      "code": "Arab-alt-variant",
+      "ireum": "페르소-아라비아 문자"
+    },
+    {
+      "id": 6,
+      "code": "Aran",
+      "ireum": "나스탈리크체"
+    },
+    {
+      "id": 7,
+      "code": "Armi",
+      "ireum": "아랍제국 문자"
+    },
+    {
+      "id": 8,
+      "code": "Armn",
+      "ireum": "아르메니아 문자"
+    },
+    {
+      "id": 9,
+      "code": "Avst",
+      "ireum": "아베스타 문자"
+    },
+    {
+      "id": 10,
+      "code": "Bali",
+      "ireum": "발리 문자"
+    },
+    {
+      "id": 11,
+      "code": "Bamu",
+      "ireum": "바뭄 문자"
+    },
+    {
+      "id": 12,
+      "code": "Bass",
+      "ireum": "바사바흐 문자"
+    },
+    {
+      "id": 13,
+      "code": "Batk",
+      "ireum": "바타크 문자"
+    },
+    {
+      "id": 14,
+      "code": "Beng",
+      "ireum": "벵골 문자"
+    },
+    {
+      "id": 15,
+      "code": "Blis",
+      "ireum": "블리스기호 문자"
+    },
+    {
+      "id": 16,
+      "code": "Bopo",
+      "ireum": "주음부호"
+    },
+    {
+      "id": 17,
+      "code": "Brah",
+      "ireum": "브라미"
+    },
+    {
+      "id": 18,
+      "code": "Brai",
+      "ireum": "브라유 점자"
+    },
+    {
+      "id": 19,
+      "code": "Bugi",
+      "ireum": "부기 문자"
+    },
+    {
+      "id": 20,
+      "code": "Buhd",
+      "ireum": "부히드 문자"
+    },
+    {
+      "id": 21,
+      "code": "Cakm",
+      "ireum": "차크마 문자"
+    },
+    {
+      "id": 22,
+      "code": "Cans",
+      "ireum": "통합 캐나다 원주민 음절문자"
+    },
+    {
+      "id": 23,
+      "code": "Cari",
+      "ireum": "카리 문자"
+    },
+    {
+      "id": 24,
+      "code": "Cham",
+      "ireum": "칸 고어"
+    },
+    {
+      "id": 25,
+      "code": "Cher",
+      "ireum": "체로키 문자"
+    },
+    {
+      "id": 26,
+      "code": "Cirt",
+      "ireum": "키르쓰"
+    },
+    {
+      "id": 27,
+      "code": "Copt",
+      "ireum": "콥트 문자"
+    },
+    {
+      "id": 28,
+      "code": "Cprt",
+      "ireum": "키프로스 문자"
+    },
+    {
+      "id": 29,
+      "code": "Cyrl",
+      "ireum": "키릴 문자"
+    },
+    {
+      "id": 30,
+      "code": "Cyrs",
+      "ireum": "고대교회슬라브어 키릴문자"
+    },
+    {
+      "id": 31,
+      "code": "Deva",
+      "ireum": "데바나가리 문자"
+    },
+    {
+      "id": 32,
+      "code": "Dsrt",
+      "ireum": "디저렛 문자"
+    },
+    {
+      "id": 33,
+      "code": "Dupl",
+      "ireum": "듀플로이안 문자"
+    },
+    {
+      "id": 34,
+      "code": "Egyd",
+      "ireum": "고대 이집트 민중문자"
+    },
+    {
+      "id": 35,
+      "code": "Egyh",
+      "ireum": "고대 이집트 신관문자"
+    },
+    {
+      "id": 36,
+      "code": "Egyp",
+      "ireum": "고대 이집트 신성문자"
+    },
+    {
+      "id": 37,
+      "code": "Elba",
+      "ireum": "엘바산 문자"
+    },
+    {
+      "id": 38,
+      "code": "Ethi",
+      "ireum": "에티오피아 문자"
+    },
+    {
+      "id": 39,
+      "code": "Geok",
+      "ireum": "그루지야 쿠츠리 문자"
+    },
+    {
+      "id": 40,
+      "code": "Geor",
+      "ireum": "조지아 문자"
+    },
+    {
+      "id": 41,
+      "code": "Glag",
+      "ireum": "글라골 문자"
+    },
+    {
+      "id": 42,
+      "code": "Goth",
+      "ireum": "고트 문자"
+    },
+    {
+      "id": 43,
+      "code": "Gran",
+      "ireum": "그란타 문자"
+    },
+    {
+      "id": 44,
+      "code": "Grek",
+      "ireum": "그리스 문자"
+    },
+    {
+      "id": 45,
+      "code": "Gujr",
+      "ireum": "구자라트 문자"
+    },
+    {
+      "id": 46,
+      "code": "Guru",
+      "ireum": "구르무키 문자"
+    },
+    {
+      "id": 47,
+      "code": "Hanb",
+      "ireum": "주음 자모"
+    },
+    {
+      "id": 48,
+      "code": "Hang",
+      "ireum": "한글"
+    },
+    {
+      "id": 49,
+      "code": "Hani",
+      "ireum": "한자"
+    },
+    {
+      "id": 50,
+      "code": "Hano",
+      "ireum": "하누누 문자"
+    },
+    {
+      "id": 51,
+      "code": "Hans",
+      "ireum": "간체"
+    },
+    {
+      "id": 52,
+      "code": "Hans-alt-stand-alone",
+      "ireum": "한자 간체"
+    },
+    {
+      "id": 53,
+      "code": "Hant",
+      "ireum": "번체"
+    },
+    {
+      "id": 54,
+      "code": "Hant-alt-stand-alone",
+      "ireum": "한자 번체"
+    },
+    {
+      "id": 55,
+      "code": "Hebr",
+      "ireum": "히브리 문자"
+    },
+    {
+      "id": 56,
+      "code": "Hira",
+      "ireum": "히라가나"
+    },
+    {
+      "id": 57,
+      "code": "Hluw",
+      "ireum": "아나톨리아 상형문자"
+    },
+    {
+      "id": 58,
+      "code": "Hmng",
+      "ireum": "파하우 몽 문자"
+    },
+    {
+      "id": 59,
+      "code": "Hrkt",
+      "ireum": "가나"
+    },
+    {
+      "id": 60,
+      "code": "Hung",
+      "ireum": "고대 헝가리 문자"
+    },
+    {
+      "id": 61,
+      "code": "Inds",
+      "ireum": "인더스 문자"
+    },
+    {
+      "id": 62,
+      "code": "Ital",
+      "ireum": "고대 이탈리아 문자"
+    },
+    {
+      "id": 63,
+      "code": "Jamo",
+      "ireum": "자모"
+    },
+    {
+      "id": 64,
+      "code": "Java",
+      "ireum": "자바 문자"
+    },
+    {
+      "id": 65,
+      "code": "Jpan",
+      "ireum": "일본 문자"
+    },
+    {
+      "id": 66,
+      "code": "Jurc",
+      "ireum": "줄첸 문자"
+    },
+    {
+      "id": 67,
+      "code": "Kali",
+      "ireum": "카야 리 문자"
+    },
+    {
+      "id": 68,
+      "code": "Kana",
+      "ireum": "가타카나"
+    },
+    {
+      "id": 69,
+      "code": "Khar",
+      "ireum": "카로슈티 문자"
+    },
+    {
+      "id": 70,
+      "code": "Khmr",
+      "ireum": "크메르 문자"
+    },
+    {
+      "id": 71,
+      "code": "Khoj",
+      "ireum": "코즈키 문자"
+    },
+    {
+      "id": 72,
+      "code": "Knda",
+      "ireum": "칸나다 문자"
+    },
+    {
+      "id": 73,
+      "code": "Kore",
+      "ireum": "한국 문자"
+    },
+    {
+      "id": 74,
+      "code": "Kpel",
+      "ireum": "크펠레 문자"
+    },
+    {
+      "id": 75,
+      "code": "Kthi",
+      "ireum": "카이시 문자"
+    },
+    {
+      "id": 76,
+      "code": "Lana",
+      "ireum": "란나 문자"
+    },
+    {
+      "id": 77,
+      "code": "Laoo",
+      "ireum": "라오 문자"
+    },
+    {
+      "id": 78,
+      "code": "Latf",
+      "ireum": "독일식 로마자"
+    },
+    {
+      "id": 79,
+      "code": "Latg",
+      "ireum": "아일랜드식 로마자"
+    },
+    {
+      "id": 80,
+      "code": "Latn",
+      "ireum": "로마자"
+    },
+    {
+      "id": 81,
+      "code": "Lepc",
+      "ireum": "렙차 문자"
+    },
+    {
+      "id": 82,
+      "code": "Limb",
+      "ireum": "림부 문자"
+    },
+    {
+      "id": 83,
+      "code": "Lina",
+      "ireum": "선형 문자(A)"
+    },
+    {
+      "id": 84,
+      "code": "Linb",
+      "ireum": "선형 문자(B)"
+    },
+    {
+      "id": 85,
+      "code": "Lisu",
+      "ireum": "프레이저 문자"
+    },
+    {
+      "id": 86,
+      "code": "Loma",
+      "ireum": "로마 문자"
+    },
+    {
+      "id": 87,
+      "code": "Lyci",
+      "ireum": "리키아 문자"
+    },
+    {
+      "id": 88,
+      "code": "Lydi",
+      "ireum": "리디아 문자"
+    },
+    {
+      "id": 89,
+      "code": "Mahj",
+      "ireum": "마하자니 문자"
+    },
+    {
+      "id": 90,
+      "code": "Mand",
+      "ireum": "만다이아 문자"
+    },
+    {
+      "id": 91,
+      "code": "Mani",
+      "ireum": "마니교 문자"
+    },
+    {
+      "id": 92,
+      "code": "Maya",
+      "ireum": "마야 상형 문자"
+    },
+    {
+      "id": 93,
+      "code": "Mend",
+      "ireum": "멘데 문자"
+    },
+    {
+      "id": 94,
+      "code": "Merc",
+      "ireum": "메로에 필기체"
+    },
+    {
+      "id": 95,
+      "code": "Mero",
+      "ireum": "메로에 문자"
+    },
+    {
+      "id": 96,
+      "code": "Mlym",
+      "ireum": "말라얄람 문자"
+    },
+    {
+      "id": 97,
+      "code": "Mong",
+      "ireum": "몽골 문자"
+    },
+    {
+      "id": 98,
+      "code": "Moon",
+      "ireum": "문 문자"
+    },
+    {
+      "id": 99,
+      "code": "Mroo",
+      "ireum": "므로 문자"
+    },
+    {
+      "id": 100,
+      "code": "Mtei",
+      "ireum": "메이테이 마옉 문자"
+    },
+    {
+      "id": 101,
+      "code": "Mymr",
+      "ireum": "미얀마 문자"
+    },
+    {
+      "id": 102,
+      "code": "Narb",
+      "ireum": "옛 북부 아라비아 문자"
+    },
+    {
+      "id": 103,
+      "code": "Nbat",
+      "ireum": "나바테아 문자"
+    },
+    {
+      "id": 104,
+      "code": "Nkgb",
+      "ireum": "나시 게바 문자"
+    },
+    {
+      "id": 105,
+      "code": "Nkoo",
+      "ireum": "응코 문자"
+    },
+    {
+      "id": 106,
+      "code": "Nshu",
+      "ireum": "누슈 문자"
+    },
+    {
+      "id": 107,
+      "code": "Ogam",
+      "ireum": "오검 문자"
+    },
+    {
+      "id": 108,
+      "code": "Olck",
+      "ireum": "올 치키 문자"
+    },
+    {
+      "id": 109,
+      "code": "Orkh",
+      "ireum": "오르혼어"
+    },
+    {
+      "id": 110,
+      "code": "Orya",
+      "ireum": "오리야 문자"
+    },
+    {
+      "id": 111,
+      "code": "Osma",
+      "ireum": "오스마니아 문자"
+    },
+    {
+      "id": 112,
+      "code": "Palm",
+      "ireum": "팔미라 문자"
+    },
+    {
+      "id": 113,
+      "code": "Perm",
+      "ireum": "고대 페름 문자"
+    },
+    {
+      "id": 114,
+      "code": "Phag",
+      "ireum": "파스파 문자"
+    },
+    {
+      "id": 115,
+      "code": "Phli",
+      "ireum": "명문 팔라비 문자"
+    },
+    {
+      "id": 116,
+      "code": "Phlp",
+      "ireum": "솔터 팔라비 문자"
+    },
+    {
+      "id": 117,
+      "code": "Phlv",
+      "ireum": "북 팔라비 문자"
+    },
+    {
+      "id": 118,
+      "code": "Phnx",
+      "ireum": "페니키아 문자"
+    },
+    {
+      "id": 119,
+      "code": "Plrd",
+      "ireum": "폴라드 표음 문자"
+    },
+    {
+      "id": 120,
+      "code": "Prti",
+      "ireum": "명문 파라티아 문자"
+    },
+    {
+      "id": 121,
+      "code": "Qaag",
+      "ireum": "저지 문자"
+    },
+    {
+      "id": 122,
+      "code": "Rjng",
+      "ireum": "레장 문자"
+    },
+    {
+      "id": 123,
+      "code": "Rohg",
+      "ireum": "하니피 문자"
+    },
+    {
+      "id": 124,
+      "code": "Roro",
+      "ireum": "롱고롱고"
+    },
+    {
+      "id": 125,
+      "code": "Runr",
+      "ireum": "룬 문자"
+    },
+    {
+      "id": 126,
+      "code": "Samr",
+      "ireum": "사마리아 문자"
+    },
+    {
+      "id": 127,
+      "code": "Sara",
+      "ireum": "사라티"
+    },
+    {
+      "id": 128,
+      "code": "Sarb",
+      "ireum": "옛 남부 아라비아 문자"
+    },
+    {
+      "id": 129,
+      "code": "Saur",
+      "ireum": "사우라슈트라 문자"
+    },
+    {
+      "id": 130,
+      "code": "Sgnw",
+      "ireum": "수화 문자"
+    },
+    {
+      "id": 131,
+      "code": "Shaw",
+      "ireum": "샤비안 문자"
+    },
+    {
+      "id": 132,
+      "code": "Shrd",
+      "ireum": "사라다 문자"
+    },
+    {
+      "id": 133,
+      "code": "Sidd",
+      "ireum": "실담자"
+    },
+    {
+      "id": 134,
+      "code": "Sind",
+      "ireum": "쿠다와디 문자"
+    },
+    {
+      "id": 135,
+      "code": "Sinh",
+      "ireum": "신할라 문자"
+    },
+    {
+      "id": 136,
+      "code": "Sora",
+      "ireum": "소라 솜펭 문자"
+    },
+    {
+      "id": 137,
+      "code": "Sund",
+      "ireum": "순다 문자"
+    },
+    {
+      "id": 138,
+      "code": "Sylo",
+      "ireum": "실헤티 나가리"
+    },
+    {
+      "id": 139,
+      "code": "Syrc",
+      "ireum": "시리아 문자"
+    },
+    {
+      "id": 140,
+      "code": "Syre",
+      "ireum": "에스트랑겔로식 시리아 문자"
+    },
+    {
+      "id": 141,
+      "code": "Syrj",
+      "ireum": "서부 시리아 문자"
+    },
+    {
+      "id": 142,
+      "code": "Syrn",
+      "ireum": "동부 시리아 문자"
+    },
+    {
+      "id": 143,
+      "code": "Tagb",
+      "ireum": "타그반와 문자"
+    },
+    {
+      "id": 144,
+      "code": "Takr",
+      "ireum": "타크리 문자"
+    },
+    {
+      "id": 145,
+      "code": "Tale",
+      "ireum": "타이 레 문자"
+    },
+    {
+      "id": 146,
+      "code": "Talu",
+      "ireum": "신 타이 루에"
+    },
+    {
+      "id": 147,
+      "code": "Taml",
+      "ireum": "타밀 문자"
+    },
+    {
+      "id": 148,
+      "code": "Tang",
+      "ireum": "탕구트 문자"
+    },
+    {
+      "id": 149,
+      "code": "Tavt",
+      "ireum": "태국 베트남 문자"
+    },
+    {
+      "id": 150,
+      "code": "Telu",
+      "ireum": "텔루구 문자"
+    },
+    {
+      "id": 151,
+      "code": "Teng",
+      "ireum": "텡과르 문자"
+    },
+    {
+      "id": 152,
+      "code": "Tfng",
+      "ireum": "티피나그 문자"
+    },
+    {
+      "id": 153,
+      "code": "Tglg",
+      "ireum": "타갈로그 문자"
+    },
+    {
+      "id": 154,
+      "code": "Thaa",
+      "ireum": "타나 문자"
+    },
+    {
+      "id": 155,
+      "code": "Thai",
+      "ireum": "타이 문자"
+    },
+    {
+      "id": 156,
+      "code": "Tibt",
+      "ireum": "티베트 문자"
+    },
+    {
+      "id": 157,
+      "code": "Tirh",
+      "ireum": "티르후타 문자"
+    },
+    {
+      "id": 158,
+      "code": "Ugar",
+      "ireum": "우가리트 문자"
+    },
+    {
+      "id": 159,
+      "code": "Vaii",
+      "ireum": "바이 문자"
+    },
+    {
+      "id": 160,
+      "code": "Visp",
+      "ireum": "시화법"
+    },
+    {
+      "id": 161,
+      "code": "Wara",
+      "ireum": "바랑 크시티 문자"
+    },
+    {
+      "id": 162,
+      "code": "Wole",
+      "ireum": "울레아이"
+    },
+    {
+      "id": 163,
+      "code": "Xpeo",
+      "ireum": "고대 페르시아 문자"
+    },
+    {
+      "id": 164,
+      "code": "Xsux",
+      "ireum": "수메르-아카드어 설형문자"
+    },
+    {
+      "id": 165,
+      "code": "Yiii",
+      "ireum": "이 문자"
+    },
+    {
+      "id": 166,
+      "code": "Zinh",
+      "ireum": "구전 문자"
+    },
+    {
+      "id": 167,
+      "code": "Zmth",
+      "ireum": "수학 기호"
+    },
+    {
+      "id": 168,
+      "code": "Zsye",
+      "ireum": "이모티콘"
+    },
+    {
+      "id": 169,
+      "code": "Zsym",
+      "ireum": "기호"
+    },
+    {
+      "id": 170,
+      "code": "Zxxx",
+      "ireum": "구전"
+    },
+    {
+      "id": 171,
+      "code": "Zyyy",
+      "ireum": "일반 문자"
+    },
+    {
+      "id": 172,
+      "code": "Zzzz",
+      "ireum": "알 수 없는 문자"
+    }
+  ],
+  "meta": {
+    "title": "세계의 문자 체계 (ISO 15924 / CLDR) - 무료 다운로드",
+    "description": "ISO 15924 문자 체계 코드와 그에 대응하는 한국어 명칭. CLDR ko 로케일의 scripts.json 전체. 포함 172 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세계의 문자 체계 (ISO 15924 / CLDR) | ListBase",
+    "seo_description": "다운로드 세계의 문자 체계 (ISO 15924 / CLDR) — 172 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 172 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

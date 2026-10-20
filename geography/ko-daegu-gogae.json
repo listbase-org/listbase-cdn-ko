@@ -1,0 +1,160 @@
+{
+  "id": "ko-daegu-gogae",
+  "name": "고개 — 대구광역시",
+  "title": "고개 — 대구광역시",
+  "description": "대구광역시에 위치한 고개(산길 고갯마루) 4건. Wikidata 기반 — 한국어/영어 명칭, 고도(m), WGS84 좌표, 한국어 위키백과 링크 포함. 시·도 구분은 Wikidata P131(소재 행정구역) 값을 우선 사용하고, 해당 값이 없는 경우 이미 정제된 ko-<시도>-upyeonbeonho 우편번호 좌표를 앵커로 한 k=15 역거리가중 투표로 도출함 (레코드별 sido_source 필드 참조).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "sido_slug",
+      "label": "Sido Slug",
+      "type": "string"
+    },
+    {
+      "key": "sido_ko",
+      "label": "Sido Ko",
+      "type": "string"
+    },
+    {
+      "key": "sido_en",
+      "label": "Sido En",
+      "type": "string"
+    },
+    {
+      "key": "sido_source",
+      "label": "Sido Source",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "geo_baejeong_geori_km",
+      "label": "Geo Baejeong Geori Km",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27325161",
+      "name_ko": "싱이골재",
+      "name_en": "싱이골재",
+      "sido_slug": "daegu",
+      "sido_ko": "대구광역시",
+      "sido_en": "Daegu",
+      "sido_source": "source_p131",
+      "located_in_at": "대구광역시",
+      "elevation_m": "",
+      "latitude": 35.76444,
+      "longitude": 128.45894,
+      "geo_baejeong_geori_km": 1.155,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27325065",
+      "name_ko": "쌍산고개",
+      "name_en": "쌍산고개",
+      "sido_slug": "daegu",
+      "sido_ko": "대구광역시",
+      "sido_en": "Daegu",
+      "sido_source": "source_p131",
+      "located_in_at": "대구광역시",
+      "elevation_m": "",
+      "latitude": 35.71665,
+      "longitude": 128.44757,
+      "geo_baejeong_geori_km": 1.078,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27324921",
+      "name_ko": "원계재",
+      "name_en": "원계재",
+      "sido_slug": "daegu",
+      "sido_ko": "대구광역시",
+      "sido_en": "Daegu",
+      "sido_source": "derived_knn",
+      "located_in_at": "대한민국",
+      "elevation_m": "",
+      "latitude": 35.73555,
+      "longitude": 128.57345,
+      "geo_baejeong_geori_km": 2.412,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27324920",
+      "name_ko": "통점령",
+      "name_en": "통점령",
+      "sido_slug": "daegu",
+      "sido_ko": "대구광역시",
+      "sido_en": "Daegu",
+      "sido_source": "derived_knn",
+      "located_in_at": "대한민국",
+      "elevation_m": "",
+      "latitude": 35.73853,
+      "longitude": 128.61245,
+      "geo_baejeong_geori_km": 1.731,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "고개 — 대구광역시 - 무료 다운로드",
+    "description": "대구광역시에 위치한 고개(산길 고갯마루) 4건. Wikidata 기반 — 한국어/영어 명칭, 고도(m), WGS84 좌표, 한국어 위키백과 링크 포함. 시·도 구분은 Wikidata P131(소재 행정구역) 값을 우선 사용하고, 해당 값이 없는 경우 이미 정제된 ko-<시도>-upyeonbeonho 우편번호 좌표를 앵커로 한 k=15 역거리가중 투표로 도출함 (레코드별 sido_source 필드 참조). 포함 4 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "고개 — 대구광역시 | ListBase",
+    "seo_description": "다운로드 고개 — 대구광역시 — 4 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 4 건 / 14 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "id": "ko-incheon-seon-jihacheol-yeok",
+  "name": "인천선 지하철 역 (Incheon Line 1 subway stations)",
+  "title": "인천선 지하철 역 (Incheon Line 1 subway stations)",
+  "description": "인천선(Incheon Line 1)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 30개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Incheon Line 1 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "부평",
+      "name_romanized": "bupyeong",
+      "lines": "01호선, 인천선",
+      "lines_en": "Line 1, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.489493,
+      "longitude": 126.724805,
+      "around_stations": "동수, 부평시장, 백운, 부개",
+      "around_count": 4
+    },
+    {
+      "name": "부평구청",
+      "name_romanized": "",
+      "lines": "07호선, 인천선",
+      "lines_en": "Line 7, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.508336,
+      "longitude": 126.720548,
+      "around_stations": "부평시장, 갈산, 굴포천",
+      "around_count": 3
+    },
+    {
+      "name": "계양",
+      "name_romanized": "",
+      "lines": "공항철도, 인천선",
+      "lines_en": "AREX (Airport Railroad Express), Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.571462,
+      "longitude": 126.735637,
+      "around_stations": "검암, 김포공항, 귤현",
+      "around_count": 3
+    },
+    {
+      "name": "원인재",
+      "name_romanized": "",
+      "lines": "수인분당선, 인천선",
+      "lines_en": "Suin-Bundang Line, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.412603,
+      "longitude": 126.687389,
+      "around_stations": "동춘, 신연수, 연수, 남동인더스파크",
+      "around_count": 4
+    },
+    {
+      "name": "인천시청",
+      "name_romanized": "",
+      "lines": "인천2호선, 인천선",
+      "lines_en": "Incheon Line 2, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.457405,
+      "longitude": 126.702221,
+      "around_stations": "예술회관, 간석오거리, 석바위시장, 석천사거리",
+      "around_count": 4
+    },
+    {
+      "name": "귤현",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.566379,
+      "longitude": 126.742654,
+      "around_stations": "박촌, 계양",
+      "around_count": 2
+    },
+    {
+      "name": "박촌",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.553703,
+      "longitude": 126.745077,
+      "around_stations": "임학, 귤현",
+      "around_count": 2
+    },
+    {
+      "name": "임학",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.545059,
+      "longitude": 126.738665,
+      "around_stations": "계산, 박촌",
+      "around_count": 2
+    },
+    {
+      "name": "계산",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.543238,
+      "longitude": 126.728128,
+      "around_stations": "경인교대입구, 임학",
+      "around_count": 2
+    },
+    {
+      "name": "경인교대입구",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.538157,
+      "longitude": 126.722597,
+      "around_stations": "작전, 계산",
+      "around_count": 2
+    },
+    {
+      "name": "작전",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.530415,
+      "longitude": 126.722527,
+      "around_stations": "갈산, 경인교대입구",
+      "around_count": 2
+    },
+    {
+      "name": "갈산",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.517268,
+      "longitude": 126.721514,
+      "around_stations": "부평구청, 작전",
+      "around_count": 2
+    },
+    {
+      "name": "부평시장",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.498383,
+      "longitude": 126.722244,
+      "around_stations": "부평, 부평구청",
+      "around_count": 2
+    },
+    {
+      "name": "동수",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.485312,
+      "longitude": 126.718247,
+      "around_stations": "부평삼거리, 부평",
+      "around_count": 2
+    },
+    {
+      "name": "부평삼거리",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.477679,
+      "longitude": 126.710208,
+      "around_stations": "간석오거리, 동수",
+      "around_count": 2
+    },
+    {
+      "name": "예술회관",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.449396,
+      "longitude": 126.701012,
+      "around_stations": "인천터미널, 인천시청",
+      "around_count": 2
+    },
+    {
+      "name": "인천터미널",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.442383,
+      "longitude": 126.699706,
+      "around_stations": "문학경기장, 예술회관",
+      "around_count": 2
+    },
+    {
+      "name": "문학경기장",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.434935,
+      "longitude": 126.698579,
+      "around_stations": "선학, 인천터미널",
+      "around_count": 2
+    },
+    {
+      "name": "선학",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.426684,
+      "longitude": 126.698863,
+      "around_stations": "신연수, 문학경기장",
+      "around_count": 2
+    },
+    {
+      "name": "신연수",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.41804,
+      "longitude": 126.693863,
+      "around_stations": "원인재, 선학",
+      "around_count": 2
+    },
+    {
+      "name": "동춘",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.404737,
+      "longitude": 126.681015,
+      "around_stations": "동막, 원인재",
+      "around_count": 2
+    },
+    {
+      "name": "동막",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.397878,
+      "longitude": 126.674005,
+      "around_stations": "캠퍼스타운, 동춘",
+      "around_count": 2
+    },
+    {
+      "name": "캠퍼스타운",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.387855,
+      "longitude": 126.661673,
+      "around_stations": "테크노파크, 동막",
+      "around_count": 2
+    },
+    {
+      "name": "테크노파크",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.382268,
+      "longitude": 126.656365,
+      "around_stations": "지식정보단지, 캠퍼스타운",
+      "around_count": 2
+    },
+    {
+      "name": "지식정보단지",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.378384,
+      "longitude": 126.645168,
+      "around_stations": "인천대입구, 테크노파크",
+      "around_count": 2
+    },
+    {
+      "name": "인천대입구",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.386007,
+      "longitude": 126.639484,
+      "around_stations": "센트럴파크, 지식정보단지",
+      "around_count": 2
+    },
+    {
+      "name": "센트럴파크",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.393054,
+      "longitude": 126.634729,
+      "around_stations": "국제업무지구, 인천대입구",
+      "around_count": 2
+    },
+    {
+      "name": "국제업무지구",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.399907,
+      "longitude": 126.630347,
+      "around_stations": "송도달빛축제공원, 센트럴파크",
+      "around_count": 2
+    },
+    {
+      "name": "간석오거리",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.467048,
+      "longitude": 126.707938,
+      "around_stations": "인천시청, 부평삼거리",
+      "around_count": 2
+    },
+    {
+      "name": "송도달빛축제공원",
+      "name_romanized": "",
+      "lines": "인천선",
+      "lines_en": "Incheon Line 1",
+      "lines_count": 1,
+      "latitude": 37.40690256416464,
+      "longitude": 126.62599088848317,
+      "around_stations": "국제업무지구",
+      "around_count": 1
+    }
+  ],
+  "meta": {
+    "title": "인천선 지하철 역 (Incheon Line 1 subway stations) - 무료 다운로드",
+    "description": "인천선(Incheon Line 1)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 30개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Incheon Line 1 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 30 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "인천선 지하철 역 (Incheon Line 1 subway stations) | ListBase",
+    "seo_description": "다운로드 인천선 지하철 역 (Incheon Line 1 subway stations) — 30 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 30 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

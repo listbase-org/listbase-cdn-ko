@@ -1,0 +1,1196 @@
+{
+  "id": "ko-bulgyo-sachal",
+  "name": "한국의 불교 사찰 (Korean Buddhist Temples)",
+  "title": "한국의 불교 사찰 (Korean Buddhist Temples)",
+  "description": "위키데이터 기준 대한민국에 위치한 불교 사찰(전통 사찰) 목록. 한글 명칭, 영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "",
+      "name_en": "Daeseongsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q5208276",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5208276"
+    },
+    {
+      "name_ko": "",
+      "name_en": "Dalmasa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q5211524",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5211524"
+    },
+    {
+      "name_ko": "",
+      "name_en": "Dragon Pool Temple",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.51559,
+      "longitude": 126.51528,
+      "wikidata_id": "Q5305250",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5305250"
+    },
+    {
+      "name_ko": "",
+      "name_en": "Gamnoam",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q5520364",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5520364"
+    },
+    {
+      "name_ko": "",
+      "name_en": "Musangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q14900120",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14900120"
+    },
+    {
+      "name_ko": "각연사",
+      "name_en": "Gagyeonsa",
+      "admin_area_ko": "칠성면",
+      "admin_area_en": "Chilseong-myeon",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12582535",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582535"
+    },
+    {
+      "name_ko": "감산사지",
+      "name_en": "Gamsansa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.7665,
+      "longitude": 129.337,
+      "wikidata_id": "Q5520399",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5520399"
+    },
+    {
+      "name_ko": "감은사지",
+      "name_en": "Gameunsa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.748333,
+      "longitude": 129.476944,
+      "wikidata_id": "Q12582656",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582656"
+    },
+    {
+      "name_ko": "개운사 (서울)",
+      "name_en": "Gaeunsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.59,
+      "longitude": 127.028333,
+      "wikidata_id": "Q5516736",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5516736"
+    },
+    {
+      "name_ko": "건봉사",
+      "name_en": "Geonbongsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.4033,
+      "longitude": 128.378,
+      "wikidata_id": "Q339039",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q339039"
+    },
+    {
+      "name_ko": "경국사",
+      "name_en": "Gyeongguksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q18550188",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18550188"
+    },
+    {
+      "name_ko": "계림사",
+      "name_en": "",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.1725,
+      "longitude": 128.181389,
+      "wikidata_id": "Q16093988",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093988"
+    },
+    {
+      "name_ko": "고운사",
+      "name_en": "Gounsa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.4583,
+      "longitude": 128.751,
+      "wikidata_id": "Q624542",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624542"
+    },
+    {
+      "name_ko": "골굴사",
+      "name_en": "Golgulsa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.8033,
+      "longitude": 129.406,
+      "wikidata_id": "Q5580683",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5580683"
+    },
+    {
+      "name_ko": "관음사",
+      "name_en": "Gwaneumsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.42376,
+      "longitude": 126.557969,
+      "wikidata_id": "Q16255720",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16255720"
+    },
+    {
+      "name_ko": "구례 오산 사성암 일원",
+      "name_en": "Saseongam",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.179684,
+      "longitude": 127.480772,
+      "wikidata_id": "Q7425055",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7425055"
+    },
+    {
+      "name_ko": "구룡사",
+      "name_en": "Guryongsa",
+      "admin_area_ko": "원주시",
+      "admin_area_en": "Wonju",
+      "latitude": 37.3994,
+      "longitude": 128.05,
+      "wikidata_id": "Q12585388",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585388"
+    },
+    {
+      "name_ko": "구인사",
+      "name_en": "Guinsa",
+      "admin_area_ko": "영춘면",
+      "admin_area_en": "Yeongchun-myeon",
+      "latitude": 37.031002,
+      "longitude": 128.479915,
+      "wikidata_id": "Q5616611",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5616611"
+    },
+    {
+      "name_ko": "국제선센터",
+      "name_en": "International Seon Center",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.521667,
+      "longitude": 126.870028,
+      "wikidata_id": "Q21575732",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21575732"
+    },
+    {
+      "name_ko": "귀신사",
+      "name_en": "Guisinsa Temple",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.745333,
+      "longitude": 127.046972,
+      "wikidata_id": "Q24302214",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24302214"
+    },
+    {
+      "name_ko": "금곡사",
+      "name_en": "Geumgoksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.6664,
+      "longitude": 126.777,
+      "wikidata_id": "Q5554850",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554850"
+    },
+    {
+      "name_ko": "금당사",
+      "name_en": "Geumdangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.757866,
+      "longitude": 127.397171,
+      "wikidata_id": "Q5554834",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554834"
+    },
+    {
+      "name_ko": "금몽암",
+      "name_en": "",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.204444,
+      "longitude": 128.456389,
+      "wikidata_id": "Q55727873",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55727873"
+    },
+    {
+      "name_ko": "금산사",
+      "name_en": "Geumsansa",
+      "admin_area_ko": "김제시",
+      "admin_area_en": "Gimje",
+      "latitude": 35.722731,
+      "longitude": 127.053032,
+      "wikidata_id": "Q489528",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489528"
+    },
+    {
+      "name_ko": "금선사",
+      "name_en": "Geumseonsa",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.620083,
+      "longitude": 126.95325,
+      "wikidata_id": "Q5554874",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554874"
+    },
+    {
+      "name_ko": "금탑사",
+      "name_en": "Geumtapsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.54278,
+      "longitude": 127.287651,
+      "wikidata_id": "Q5554883",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5554883"
+    },
+    {
+      "name_ko": "기림사",
+      "name_en": "Girimsa",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.8364,
+      "longitude": 129.403,
+      "wikidata_id": "Q624555",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624555"
+    },
+    {
+      "name_ko": "김룡사",
+      "name_en": "Kimryongsa Temple",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.7397,
+      "longitude": 128.224,
+      "wikidata_id": "Q12587297",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12587297"
+    },
+    {
+      "name_ko": "낙산사",
+      "name_en": "Naksansa",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.125,
+      "longitude": 128.628611,
+      "wikidata_id": "Q562760",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q562760"
+    },
+    {
+      "name_ko": "내소사",
+      "name_en": "Naesosa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.617977,
+      "longitude": 126.587428,
+      "wikidata_id": "Q10856109",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10856109"
+    },
+    {
+      "name_ko": "내원사",
+      "name_en": "Naewonsa",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q6958139",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6958139"
+    },
+    {
+      "name_ko": "능가사",
+      "name_en": "Neunggasa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.639114,
+      "longitude": 127.414294,
+      "wikidata_id": "Q7002000",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7002000"
+    },
+    {
+      "name_ko": "대각사",
+      "name_en": "Daegaksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.573833,
+      "longitude": 126.991889,
+      "wikidata_id": "Q5208180",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5208180"
+    },
+    {
+      "name_ko": "대구 북지장사",
+      "name_en": "",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.976111,
+      "longitude": 128.714722,
+      "wikidata_id": "Q31179216",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31179216"
+    },
+    {
+      "name_ko": "대원사",
+      "name_en": "Daewonsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.355,
+      "longitude": 127.807,
+      "wikidata_id": "Q15735684",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15735684"
+    },
+    {
+      "name_ko": "대흥사",
+      "name_en": "Daeheungsa",
+      "admin_area_ko": "해남군",
+      "admin_area_en": "Haenam County",
+      "latitude": 34.476596,
+      "longitude": 126.616828,
+      "wikidata_id": "Q623807",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623807"
+    },
+    {
+      "name_ko": "도리사",
+      "name_en": "Dorisa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.255278,
+      "longitude": 128.398333,
+      "wikidata_id": "Q64589530",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64589530"
+    },
+    {
+      "name_ko": "도선사",
+      "name_en": "Doseonsa",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.6553,
+      "longitude": 126.99,
+      "wikidata_id": "Q5299262",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5299262"
+    },
+    {
+      "name_ko": "동화사",
+      "name_en": "Donghwasa",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.9925,
+      "longitude": 128.704444,
+      "wikidata_id": "Q623815",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623815"
+    },
+    {
+      "name_ko": "등명락가사",
+      "name_en": "",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.711111,
+      "longitude": 129.006389,
+      "wikidata_id": "Q31176319",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31176319"
+    },
+    {
+      "name_ko": "마곡사",
+      "name_en": "Magoksa",
+      "admin_area_ko": "공주시",
+      "admin_area_en": "Gongju",
+      "latitude": 36.559167,
+      "longitude": 127.0125,
+      "wikidata_id": "Q624128",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624128"
+    },
+    {
+      "name_ko": "만월암",
+      "name_en": "Manworam",
+      "admin_area_ko": "도봉동",
+      "admin_area_en": "Dobong-dong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q6753268",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6753268"
+    },
+    {
+      "name_ko": "망월사",
+      "name_en": "Mangwolsa",
+      "admin_area_ko": "의정부시",
+      "admin_area_en": "Uijeongbu",
+      "latitude": 37.7047,
+      "longitude": 127.021,
+      "wikidata_id": "Q12594891",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12594891"
+    },
+    {
+      "name_ko": "망해사",
+      "name_en": "",
+      "admin_area_ko": "김제시",
+      "admin_area_en": "Gimje",
+      "latitude": 35.863175,
+      "longitude": 126.723896,
+      "wikidata_id": "Q85978395",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85978395"
+    },
+    {
+      "name_ko": "명봉사",
+      "name_en": "",
+      "admin_area_ko": "예천군",
+      "admin_area_en": "Yecheon County",
+      "latitude": 36.778748,
+      "longitude": 128.377151,
+      "wikidata_id": "Q12595182",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595182"
+    },
+    {
+      "name_ko": "묘각사",
+      "name_en": "Myogaksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.575389,
+      "longitude": 127.01875,
+      "wikidata_id": "Q6947917",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6947917"
+    },
+    {
+      "name_ko": "무위사",
+      "name_en": "Muwisa",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.7389,
+      "longitude": 126.687,
+      "wikidata_id": "Q6944291",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6944291"
+    },
+    {
+      "name_ko": "미황사",
+      "name_en": "Mihwangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.38286,
+      "longitude": 126.57753,
+      "wikidata_id": "Q11242559",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11242559"
+    },
+    {
+      "name_ko": "백담사",
+      "name_en": "Baekdamsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.165,
+      "longitude": 128.374,
+      "wikidata_id": "Q4841251",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4841251"
+    },
+    {
+      "name_ko": "백률사",
+      "name_en": "Baekryulsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q4841261",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4841261"
+    },
+    {
+      "name_ko": "백양사",
+      "name_en": "Baegyangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.4392,
+      "longitude": 126.883,
+      "wikidata_id": "Q623574",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623574"
+    },
+    {
+      "name_ko": "범어사",
+      "name_en": "Beomeosa",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.283913,
+      "longitude": 129.068992,
+      "wikidata_id": "Q487662",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q487662"
+    },
+    {
+      "name_ko": "법광사",
+      "name_en": "Beopgwangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.14634,
+      "longitude": 129.2426,
+      "wikidata_id": "Q7265199",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7265199"
+    },
+    {
+      "name_ko": "법주사",
+      "name_en": "Beopjusa",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.5415,
+      "longitude": 127.833,
+      "wikidata_id": "Q484931",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q484931"
+    },
+    {
+      "name_ko": "보광사",
+      "name_en": "Bogwangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.4177,
+      "longitude": 129.0437,
+      "wikidata_id": "Q7207726",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7207726"
+    },
+    {
+      "name_ko": "보현사",
+      "name_en": "Bohyeonsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.15417,
+      "longitude": 129.02139,
+      "wikidata_id": "Q7207803",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7207803"
+    },
+    {
+      "name_ko": "봉선사",
+      "name_en": "Bongseonsa",
+      "admin_area_ko": "남양주시",
+      "admin_area_en": "Namyangju",
+      "latitude": 37.7472,
+      "longitude": 127.183,
+      "wikidata_id": "Q623698",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623698"
+    },
+    {
+      "name_ko": "봉성암",
+      "name_en": "",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.646274,
+      "longitude": 126.981232,
+      "wikidata_id": "Q12598605",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598605"
+    },
+    {
+      "name_ko": "봉암사",
+      "name_en": "Bongamsa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.700337,
+      "longitude": 128.005563,
+      "wikidata_id": "Q18444235",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444235"
+    },
+    {
+      "name_ko": "봉원사",
+      "name_en": "Bongwonsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.572,
+      "longitude": 126.947417,
+      "wikidata_id": "Q626319",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q626319"
+    },
+    {
+      "name_ko": "봉은사",
+      "name_en": "Bongeunsa",
+      "admin_area_ko": "삼성동",
+      "admin_area_en": "Samseong-dong",
+      "latitude": 37.515658,
+      "longitude": 127.057287,
+      "wikidata_id": "Q135709",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135709"
+    },
+    {
+      "name_ko": "봉정사",
+      "name_en": "Bongjeongsa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.653279,
+      "longitude": 128.661964,
+      "wikidata_id": "Q623978",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623978"
+    },
+    {
+      "name_ko": "부산광역시의 사찰 목록",
+      "name_en": "list of Buddhist temples in Busan",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q6565150",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6565150"
+    },
+    {
+      "name_ko": "분황사",
+      "name_en": "Bunhwangsa",
+      "admin_area_ko": "월성동",
+      "admin_area_en": "Wolseong-dong",
+      "latitude": 35.840556,
+      "longitude": 129.233611,
+      "wikidata_id": "Q491069",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q491069"
+    },
+    {
+      "name_ko": "불갑사",
+      "name_en": "",
+      "admin_area_ko": "영광군",
+      "admin_area_en": "Yeonggwang County",
+      "latitude": 35.200924,
+      "longitude": 126.550129,
+      "wikidata_id": "Q16096895",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096895"
+    },
+    {
+      "name_ko": "불곡사",
+      "name_en": "",
+      "admin_area_ko": "창원시",
+      "admin_area_en": "Changwon",
+      "latitude": 35.216318,
+      "longitude": 128.702496,
+      "wikidata_id": "Q12599184",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599184"
+    },
+    {
+      "name_ko": "불국사",
+      "name_en": "Bulguksa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.79,
+      "longitude": 129.332222,
+      "wikidata_id": "Q408318",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q408318"
+    },
+    {
+      "name_ko": "불암사",
+      "name_en": "",
+      "admin_area_ko": "남양주시",
+      "admin_area_en": "Namyangju",
+      "latitude": 37.658611,
+      "longitude": 127.098889,
+      "wikidata_id": "Q65256355",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65256355"
+    },
+    {
+      "name_ko": "불회사",
+      "name_en": "",
+      "admin_area_ko": "나주시",
+      "admin_area_en": "Naju",
+      "latitude": 34.908713,
+      "longitude": 126.823016,
+      "wikidata_id": "Q28698719",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28698719"
+    },
+    {
+      "name_ko": "삼보사찰",
+      "name_en": "Three Jewel Temples",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q563102",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q563102"
+    },
+    {
+      "name_ko": "상원사 (평창군)",
+      "name_en": "Sangwonsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.7863,
+      "longitude": 128.5639,
+      "wikidata_id": "Q7418194",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7418194"
+    },
+    {
+      "name_ko": "석불사",
+      "name_en": "Seokbulsa",
+      "admin_area_ko": "북구",
+      "admin_area_en": "Buk District",
+      "latitude": 35.221545,
+      "longitude": 129.048811,
+      "wikidata_id": "Q113493764",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113493764"
+    },
+    {
+      "name_ko": "선암사",
+      "name_en": "Seonamsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.99661,
+      "longitude": 127.331089,
+      "wikidata_id": "Q7451561",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7451561"
+    },
+    {
+      "name_ko": "선운사",
+      "name_en": "Seonunsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.4969,
+      "longitude": 126.579,
+      "wikidata_id": "Q625017",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625017"
+    },
+    {
+      "name_ko": "성각사지",
+      "name_en": "Seonggaksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.6975,
+      "longitude": 125.939,
+      "wikidata_id": "Q7667658",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7667658"
+    },
+    {
+      "name_ko": "송광사",
+      "name_en": "Songgwangsa",
+      "admin_area_ko": "송광면",
+      "admin_area_en": "Songgwang-myeon",
+      "latitude": 35.00219,
+      "longitude": 127.276104,
+      "wikidata_id": "Q490384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490384"
+    },
+    {
+      "name_ko": "송림사",
+      "name_en": "Songnimsa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.981944,
+      "longitude": 128.576944,
+      "wikidata_id": "Q16178204",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16178204"
+    },
+    {
+      "name_ko": "수덕사",
+      "name_en": "Sudeoksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.6633,
+      "longitude": 126.622,
+      "wikidata_id": "Q491449",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q491449"
+    },
+    {
+      "name_ko": "신륵사",
+      "name_en": "Silleuksa",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.2975,
+      "longitude": 127.661,
+      "wikidata_id": "Q7515366",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7515366"
+    },
+    {
+      "name_ko": "신원사 (사찰)",
+      "name_en": "Sinwonsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.3353,
+      "longitude": 127.184,
+      "wikidata_id": "Q7525236",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7525236"
+    },
+    {
+      "name_ko": "신흥사",
+      "name_en": "Sinheungsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.178426,
+      "longitude": 128.483512,
+      "wikidata_id": "Q483324",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483324"
+    },
+    {
+      "name_ko": "실상사",
+      "name_en": "Silsangsa Temple",
+      "admin_area_ko": "남원시",
+      "admin_area_en": "Namwon",
+      "latitude": 35.4164,
+      "longitude": 127.635,
+      "wikidata_id": "Q12618982",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12618982"
+    },
+    {
+      "name_ko": "쌍계사",
+      "name_en": "Ssanggyesa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.2322,
+      "longitude": 127.651,
+      "wikidata_id": "Q623528",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623528"
+    },
+    {
+      "name_ko": "쌍봉사",
+      "name_en": "Ssangbongsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.8874,
+      "longitude": 127.061,
+      "wikidata_id": "Q7586630",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7586630"
+    },
+    {
+      "name_ko": "연대암",
+      "name_en": "Yeondaeam",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.674,
+      "longitude": 129.138,
+      "wikidata_id": "Q8062694",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8062694"
+    },
+    {
+      "name_ko": "영산전",
+      "name_en": "Yeongsanjeon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.541972,
+      "longitude": 127.833056,
+      "wikidata_id": "Q7128743",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7128743"
+    },
+    {
+      "name_ko": "영천 은해사 거조암 영산전",
+      "name_en": "Eunhyaesa Geojoam Yeongsanjeon",
+      "admin_area_ko": "청통면",
+      "admin_area_en": "Cheongtong-myeon",
+      "latitude": 36.020239,
+      "longitude": 128.764497,
+      "wikidata_id": "Q12607532",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12607532"
+    },
+    {
+      "name_ko": "오세암",
+      "name_en": "Oseam",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.1503,
+      "longitude": 128.426,
+      "wikidata_id": "Q15383194",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15383194"
+    },
+    {
+      "name_ko": "용주사",
+      "name_en": "Yongjusa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.212222,
+      "longitude": 127.005,
+      "wikidata_id": "Q483113",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483113"
+    },
+    {
+      "name_ko": "운문사",
+      "name_en": "Unmunsa",
+      "admin_area_ko": "청도군",
+      "admin_area_en": "Cheongdo County",
+      "latitude": 35.661111,
+      "longitude": 128.960278,
+      "wikidata_id": "Q7897126",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7897126"
+    },
+    {
+      "name_ko": "운주사",
+      "name_en": "Unjusa",
+      "admin_area_ko": "화순군",
+      "admin_area_en": "Hwasun County",
+      "latitude": 34.9256,
+      "longitude": 126.88,
+      "wikidata_id": "Q493623",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q493623"
+    },
+    {
+      "name_ko": "원각사",
+      "name_en": "Wongaksa",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Dong District, Gwangju",
+      "latitude": 35.150833,
+      "longitude": 126.915917,
+      "wikidata_id": "Q14480729",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14480729"
+    },
+    {
+      "name_ko": "원각사",
+      "name_en": "Wongaksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.0482,
+      "longitude": 129.221,
+      "wikidata_id": "Q8041397",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8041397"
+    },
+    {
+      "name_ko": "은수사",
+      "name_en": "Eunsusa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.759503,
+      "longitude": 127.414176,
+      "wikidata_id": "Q5409830",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5409830"
+    },
+    {
+      "name_ko": "은해사",
+      "name_en": "Eunhaesa",
+      "admin_area_ko": "청통면",
+      "admin_area_en": "Cheongtong-myeon",
+      "latitude": 35.9921,
+      "longitude": 128.79,
+      "wikidata_id": "Q623545",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623545"
+    },
+    {
+      "name_ko": "익산 미륵사지",
+      "name_en": "Mireuksa",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 36.0119,
+      "longitude": 127.031,
+      "wikidata_id": "Q6873175",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6873175"
+    },
+    {
+      "name_ko": "인왕사",
+      "name_en": "Inwangsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q6061477",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6061477"
+    },
+    {
+      "name_ko": "전등사",
+      "name_en": "Jeondeungsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.631972,
+      "longitude": 126.484361,
+      "wikidata_id": "Q11269377",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11269377"
+    },
+    {
+      "name_ko": "정림사지",
+      "name_en": "Jeongnimsa",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.279325,
+      "longitude": 126.913285,
+      "wikidata_id": "Q16094566",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094566"
+    },
+    {
+      "name_ko": "조계사",
+      "name_en": "Jogyesa",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.573914,
+      "longitude": 126.981903,
+      "wikidata_id": "Q488824",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q488824"
+    },
+    {
+      "name_ko": "존자암지",
+      "name_en": "Jonjaamji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.347568,
+      "longitude": 126.4798,
+      "wikidata_id": "Q6275596",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6275596"
+    },
+    {
+      "name_ko": "직지사",
+      "name_en": "Jikjisa",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.1161,
+      "longitude": 128.004,
+      "wikidata_id": "Q625286",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625286"
+    },
+    {
+      "name_ko": "청계사",
+      "name_en": "Cheonggyesa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.4119,
+      "longitude": 127.035,
+      "wikidata_id": "Q16100084",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100084"
+    },
+    {
+      "name_ko": "청련사",
+      "name_en": "Cheongnyeonsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.3885,
+      "longitude": 129.232,
+      "wikidata_id": "Q5119044",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5119044"
+    },
+    {
+      "name_ko": "탑사",
+      "name_en": "Tapsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.758333,
+      "longitude": 127.411111,
+      "wikidata_id": "Q7684827",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7684827"
+    },
+    {
+      "name_ko": "통도사",
+      "name_en": "Tongdosa",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.488056,
+      "longitude": 129.064722,
+      "wikidata_id": "Q491454",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q491454"
+    },
+    {
+      "name_ko": "표충사 (밀양시)",
+      "name_en": "Pyochungsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.5325,
+      "longitude": 128.961,
+      "wikidata_id": "Q7263134",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7263134"
+    },
+    {
+      "name_ko": "하안국사",
+      "name_en": "Anguksa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.09743,
+      "longitude": 129.12696,
+      "wikidata_id": "Q5636526",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5636526"
+    },
+    {
+      "name_ko": "해동용궁사",
+      "name_en": "Haedong Yonggungsa",
+      "admin_area_ko": "기장군",
+      "admin_area_en": "Gijang County",
+      "latitude": 35.188333,
+      "longitude": 129.223333,
+      "wikidata_id": "Q2494268",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2494268"
+    },
+    {
+      "name_ko": "해인사",
+      "name_en": "Haeinsa",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.8,
+      "longitude": 128.1,
+      "wikidata_id": "Q489795",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489795"
+    },
+    {
+      "name_ko": "화엄사",
+      "name_en": "Hwaeomsa",
+      "admin_area_ko": "구례군",
+      "admin_area_en": "Gurye County",
+      "latitude": 35.256536,
+      "longitude": 127.4973,
+      "wikidata_id": "Q491233",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q491233"
+    },
+    {
+      "name_ko": "환성사",
+      "name_en": "Hwanseongsa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.93861,
+      "longitude": 128.76694,
+      "wikidata_id": "Q15227264",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15227264"
+    },
+    {
+      "name_ko": "황룡사",
+      "name_en": "Hwangnyongsa",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.788889,
+      "longitude": 129.226667,
+      "wikidata_id": "Q491548",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q491548"
+    }
+  ],
+  "meta": {
+    "title": "한국의 불교 사찰 (Korean Buddhist Temples) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 불교 사찰(전통 사찰) 목록. 한글 명칭, 영문 명칭, 좌표, 소재 행정구역 포함. 포함 113 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국의 불교 사찰 (Korean Buddhist Temples) | ListBase",
+    "seo_description": "다운로드 한국의 불교 사찰 (Korean Buddhist Temples) — 113 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 113 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

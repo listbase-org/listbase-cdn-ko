@@ -1,0 +1,156 @@
+{
+  "id": "ko-eoneo-byeonche",
+  "name": "언어 변이(variant) 한국어 명칭 (CLDR)",
+  "title": "언어 변이(variant) 한국어 명칭 (CLDR)",
+  "description": "BCP 47 언어 변이 서브태그와 한국어 명칭.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1606NICT",
+      "ireum": "중세 후기 프랑스어(1606년까지)"
+    },
+    {
+      "id": 2,
+      "code": "1901",
+      "ireum": "전통 독일어 표기법"
+    },
+    {
+      "id": 3,
+      "code": "ALALC97",
+      "ireum": "ALA-LC 로마자 표기법(1997년 개정)"
+    },
+    {
+      "id": 4,
+      "code": "ALUKU",
+      "ireum": "알루꾸 방언"
+    },
+    {
+      "id": 5,
+      "code": "BAUDDHA",
+      "ireum": "바우다"
+    },
+    {
+      "id": 6,
+      "code": "BISCAYAN",
+      "ireum": "비스카얀"
+    },
+    {
+      "id": 7,
+      "code": "HEPBURN",
+      "ireum": "헵번식 로마자 표기법"
+    },
+    {
+      "id": 8,
+      "code": "HOGNORSK",
+      "ireum": "호그노르스크"
+    },
+    {
+      "id": 9,
+      "code": "ITIHASA",
+      "ireum": "이띠아사"
+    },
+    {
+      "id": 10,
+      "code": "JAUER",
+      "ireum": "야우어"
+    },
+    {
+      "id": 11,
+      "code": "LAUKIKA",
+      "ireum": "라우키카"
+    },
+    {
+      "id": 12,
+      "code": "LUNA1918",
+      "ireum": "루나1918"
+    },
+    {
+      "id": 13,
+      "code": "NDYUKA",
+      "ireum": "느듀카 방언"
+    },
+    {
+      "id": 14,
+      "code": "PAMAKA",
+      "ireum": "파마카 방언"
+    },
+    {
+      "id": 15,
+      "code": "POSIX",
+      "ireum": "Computer"
+    },
+    {
+      "id": 16,
+      "code": "PUTER",
+      "ireum": "퓨터"
+    },
+    {
+      "id": 17,
+      "code": "REVISED",
+      "ireum": "개정"
+    },
+    {
+      "id": 18,
+      "code": "SCOTLAND",
+      "ireum": "스코틀랜드 표준 영어"
+    },
+    {
+      "id": 19,
+      "code": "SURMIRAN",
+      "ireum": "서미안"
+    },
+    {
+      "id": 20,
+      "code": "UCRCOR",
+      "ireum": "통합 개정 표기법"
+    },
+    {
+      "id": 21,
+      "code": "ULSTER",
+      "ireum": "얼스터"
+    },
+    {
+      "id": 22,
+      "code": "VAIDIKA",
+      "ireum": "바이디카"
+    },
+    {
+      "id": 23,
+      "code": "VALLADER",
+      "ireum": "발라더"
+    }
+  ],
+  "meta": {
+    "title": "언어 변이(variant) 한국어 명칭 (CLDR) - 무료 다운로드",
+    "description": "BCP 47 언어 변이 서브태그와 한국어 명칭. 포함 23 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "언어 변이(variant) 한국어 명칭 (CLDR) | ListBase",
+    "seo_description": "다운로드 언어 변이(variant) 한국어 명칭 (CLDR) — 23 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 23 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ko-got",
+  "name": "대한민국의 곶 (Capes and Headlands of South Korea)",
+  "title": "대한민국의 곶 (Capes and Headlands of South Korea)",
+  "description": "대한민국에 위치한 곶(串)·헤드랜드 목록. 출처는 Wikidata 공개 SPARQL 엔드포인트(wdt:P31/P279* wd:Q185113, wdt:P17 wd:Q884). 각 항목에 한국어 이름(rdfs:label@ko), 영어 이름, 인접 수역(P206), 소재 행정구역(P131), 좌표(WGS84), 한국어 위키백과 링크를 제공한다. 한국어 이름 가나다순 정렬. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외(전체 19개 중 8개 유지). 섭지코지 등 포함. 분류는 Wikidata의 'cape(Q185113)' 지정을 그대로 따랐다(일부 돈대 시설이 곶으로 분류되어 있음).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "body_of_water_at",
+      "label": "Body Of Water At",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27331045",
+      "name_ko": "구등곶돈대",
+      "name_en": "구등곶돈대",
+      "body_of_water_at": "",
+      "located_in_at": "인천광역시",
+      "latitude": 37.823056,
+      "longitude": 126.392778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27267209",
+      "name_ko": "당단",
+      "name_en": "당단",
+      "body_of_water_at": "",
+      "located_in_at": "전라남도",
+      "latitude": 34.319167,
+      "longitude": 126.059722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27331035",
+      "name_ko": "망월돈대",
+      "name_en": "망월돈대",
+      "body_of_water_at": "",
+      "located_in_at": "인천광역시",
+      "latitude": 37.741667,
+      "longitude": 126.356667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27270360",
+      "name_ko": "범월갑",
+      "name_en": "범월갑",
+      "body_of_water_at": "",
+      "located_in_at": "울산광역시",
+      "latitude": 35.43333,
+      "longitude": 129.36667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12601839",
+      "name_ko": "섭지코지",
+      "name_en": "섭지코지",
+      "body_of_water_at": "",
+      "located_in_at": "성산읍",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%AD%EC%A7%80%EC%BD%94%EC%A7%80"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27273072",
+      "name_ko": "외옹치",
+      "name_en": "외옹치",
+      "body_of_water_at": "",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.180556,
+      "longitude": 128.613056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27295614",
+      "name_ko": "할미지",
+      "name_en": "할미지",
+      "body_of_water_at": "",
+      "located_in_at": "인천광역시",
+      "latitude": 37.181944,
+      "longitude": 126.113333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q562991",
+      "name_ko": "호미곶",
+      "name_en": "호미곶",
+      "body_of_water_at": "",
+      "located_in_at": "포항시",
+      "latitude": 36.076389,
+      "longitude": 129.568611,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%98%B8%EB%AF%B8%EA%B3%B6"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 곶 (Capes and Headlands of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 곶(串)·헤드랜드 목록. 출처는 Wikidata 공개 SPARQL 엔드포인트(wdt:P31/P279* wd:Q185113, wdt:P17 wd:Q884). 각 항목에 한국어 이름(rdfs:label@ko), 영어 이름, 인접 수역(P206), 소재 행정구역(P131), 좌표(WGS84), 한국어 위키백과 링크를 제공한다. 한국어 이름 가나다순 정렬. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외(전체 19개 중 8개 유지). 섭지코지 등 포함. 분류는 Wikidata의 'cape(Q185113)' 지정을 그대로 따랐다(일부 돈대 시설이 곶으로 분류되어 있음). 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 곶 (Capes and Headlands of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 곶 (Capes and Headlands of South Korea) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

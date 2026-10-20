@@ -1,0 +1,366 @@
+{
+  "id": "ko-daejeon-daehak",
+  "name": "Daejeon — Universities & Colleges (대학·전문대학)",
+  "title": "Daejeon — Universities & Colleges (대학·전문대학)",
+  "description": "Accredited higher-education institutions located in Daejeon (대전광역시), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nameKr",
+      "label": "NameKr",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "campus",
+      "label": "Campus",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "link",
+      "label": "Link",
+      "type": "string"
+    },
+    {
+      "key": "accredited_degree",
+      "label": "Accredited Degree",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_language",
+      "label": "Accredited Language",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_excellent",
+      "label": "Accredited Excellent",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 29,
+      "nameKr": "한남대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.hannam.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 30,
+      "nameKr": "한남대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.hannam.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 53,
+      "nameKr": "한국폴리텍 IV 대학 대전캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.kopo.ac.kr/daejeon",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 64,
+      "nameKr": "한국침례신학대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.kbtus.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 82,
+      "nameKr": "한국과학기술원",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.kaist.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 100,
+      "nameKr": "충남대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.cnu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": true
+    },
+    {
+      "id": 161,
+      "nameKr": "을지대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.eulji.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 174,
+      "nameKr": "우송정보대학",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.wsi.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 175,
+      "nameKr": "우송대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.wsu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 297,
+      "nameKr": "배재대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.pcu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 301,
+      "nameKr": "목원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.mokwon.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 334,
+      "nameKr": "대전신학대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.daejeon.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 335,
+      "nameKr": "대전보건대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.hit.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 336,
+      "nameKr": "대전대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.dju.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 337,
+      "nameKr": "대전과학기술대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.dst.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 343,
+      "nameKr": "대덕대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "https://www.ddu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 379,
+      "nameKr": "국립한밭대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.hanbat.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 450,
+      "nameKr": "건양사이버대학교",
+      "level": "대학(4년제)",
+      "type": "사이버대학(대학)",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.kycu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 451,
+      "nameKr": "건양대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "http://www.konyang.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 475,
+      "nameKr": "LH토지주택대학교",
+      "level": "대학(4년제)",
+      "type": "사내대학(대학)",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "대전광역시",
+      "region_en": "Daejeon",
+      "link": "https://lhu.lh.or.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    }
+  ],
+  "meta": {
+    "title": "Daejeon — Universities & Colleges (대학·전문대학) - 무료 다운로드",
+    "description": "Accredited higher-education institutions located in Daejeon (대전광역시), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags. 포함 20 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Daejeon — Universities & Colleges (대학·전문대학) | ListBase",
+    "seo_description": "다운로드 Daejeon — Universities & Colleges (대학·전문대학) — 20 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 20 건 / 12 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

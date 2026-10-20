@@ -1,0 +1,408 @@
+{
+  "id": "ko-chungcheongbuk-daehak",
+  "name": "Chungcheongbuk-do — Universities & Colleges (대학·전문대학)",
+  "title": "Chungcheongbuk-do — Universities & Colleges (대학·전문대학)",
+  "description": "Accredited higher-education institutions located in Chungcheongbuk-do (충청북도), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nameKr",
+      "label": "NameKr",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "campus",
+      "label": "Campus",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "link",
+      "label": "Link",
+      "type": "string"
+    },
+    {
+      "key": "accredited_degree",
+      "label": "Accredited Degree",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_language",
+      "label": "Accredited Language",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_excellent",
+      "label": "Accredited Excellent",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 51,
+      "nameKr": "한국폴리텍 IV 대학 청주캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.kopo.ac.kr/cheongju",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 80,
+      "nameKr": "한국교원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 94,
+      "nameKr": "충청대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.ok.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 95,
+      "nameKr": "충북보건과학대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.chsu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 96,
+      "nameKr": "충북도립대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "공립",
+      "campus": "제2캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 97,
+      "nameKr": "충북도립대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "공립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.cpu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 98,
+      "nameKr": "충북대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.chungbuk.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 106,
+      "nameKr": "청주대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.cju.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 107,
+      "nameKr": "청주대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.cju.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 108,
+      "nameKr": "청주교육대학교",
+      "level": "대학(4년제)",
+      "type": "교육대학",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.cje.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 118,
+      "nameKr": "중원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.jwu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 164,
+      "nameKr": "유원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.u1.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 176,
+      "nameKr": "우석대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "https://jc.woosuk.ac.kr/",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 222,
+      "nameKr": "순복음총회신학교",
+      "level": "대학(4년제)",
+      "type": "각종대학(대학)",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.kcc.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 237,
+      "nameKr": "세명대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.semyung.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": true
+    },
+    {
+      "id": 251,
+      "nameKr": "서원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.seowon.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 339,
+      "nameKr": "대원대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.daewon.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 372,
+      "nameKr": "극동대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.kdu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 382,
+      "nameKr": "국립한국교통대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제2캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.ut.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 383,
+      "nameKr": "국립한국교통대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.ut.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 453,
+      "nameKr": "건국대학교 글로컬캠퍼스",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.kku.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 462,
+      "nameKr": "강동대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.gangdong.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 469,
+      "nameKr": "가톨릭꽃동네대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "충청북도",
+      "region_en": "Chungcheongbuk-do",
+      "link": "http://www.kkot.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    }
+  ],
+  "meta": {
+    "title": "Chungcheongbuk-do — Universities & Colleges (대학·전문대학) - 무료 다운로드",
+    "description": "Accredited higher-education institutions located in Chungcheongbuk-do (충청북도), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags. 포함 23 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Chungcheongbuk-do — Universities & Colleges (대학·전문대학) | ListBase",
+    "seo_description": "다운로드 Chungcheongbuk-do — Universities & Colleges (대학·전문대학) — 23 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 23 건 / 12 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

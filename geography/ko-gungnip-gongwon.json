@@ -1,0 +1,313 @@
+{
+  "id": "ko-gungnip-gongwon",
+  "name": "대한민국의 국립공원 (National Parks of South Korea)",
+  "title": "대한민국의 국립공원 (National Parks of South Korea)",
+  "description": "대한민국의 국립공원 목록. 출처는 Wikidata 공개 SPARQL 엔드포인트(wdt:P31/P279* wd:Q46169, wdt:P17 wd:Q884). 각 항목에 한국어 이름(rdfs:label@ko), 영어 이름, 지정 연도(P571), 소재 행정구역(P131), 좌표(WGS84), 한국어 위키백과 링크를 제공한다. 한국어 이름 가나다순 정렬. 지리산·설악산·한라산·북한산 등 포함. 면적(P2046) 값은 원천 단위가 항목마다 불일치(일부 약 1000배 과대)하여 검증 불가하므로 무결성 원칙에 따라 면적 필드는 제외함.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "number"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q490975",
+      "name_ko": "가야산국립공원",
+      "name_en": "가야산국립공원",
+      "established": 1972,
+      "located_in_at": "경상남도",
+      "latitude": 35.816667,
+      "longitude": 128.116667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%95%BC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q491567",
+      "name_ko": "경주국립공원",
+      "name_en": "경주국립공원",
+      "established": 1968,
+      "located_in_at": "경상북도",
+      "latitude": 35.8675,
+      "longitude": 129.2225,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%A3%BC%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q5624093",
+      "name_ko": "계룡산국립공원",
+      "name_en": "계룡산국립공원",
+      "established": 1968,
+      "located_in_at": "",
+      "latitude": 36.361,
+      "longitude": 127.211,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B3%84%EB%A3%A1%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q6958106",
+      "name_ko": "내장산국립공원",
+      "name_en": "내장산국립공원",
+      "established": 1971,
+      "located_in_at": "",
+      "latitude": 35.432,
+      "longitude": 126.896,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%9E%A5%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q484112",
+      "name_ko": "다도해해상국립공원",
+      "name_en": "다도해해상국립공원",
+      "established": 1981,
+      "located_in_at": "전라남도",
+      "latitude": 34.191,
+      "longitude": 126.7,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8B%A4%EB%8F%84%ED%95%B4%ED%95%B4%EC%83%81%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q130718",
+      "name_ko": "덕유산국립공원",
+      "name_en": "덕유산국립공원",
+      "established": 1975,
+      "located_in_at": "",
+      "latitude": 35.864,
+      "longitude": 127.744,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%9C%A0%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q17413589",
+      "name_ko": "무등산국립공원",
+      "name_en": "무등산국립공원",
+      "established": 2012,
+      "located_in_at": "",
+      "latitude": 35.144,
+      "longitude": 126.989,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%AC%B4%EB%93%B1%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q15206232",
+      "name_ko": "변산반도",
+      "name_en": "변산반도",
+      "established": 1988,
+      "located_in_at": "부안군",
+      "latitude": 35.644,
+      "longitude": 126.586,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%82%B0%EB%B0%98%EB%8F%84%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q707067",
+      "name_ko": "북한산국립공원",
+      "name_en": "북한산국립공원",
+      "established": 1983,
+      "located_in_at": "경기도",
+      "latitude": 37.675,
+      "longitude": 126.982,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B6%81%ED%95%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q706310",
+      "name_ko": "설악산국립공원",
+      "name_en": "설악산국립공원",
+      "established": 1965,
+      "located_in_at": "",
+      "latitude": 38.125,
+      "longitude": 128.416,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%A4%EC%95%85%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q579632",
+      "name_ko": "소백산국립공원",
+      "name_en": "소백산국립공원",
+      "established": 1987,
+      "located_in_at": "가곡면",
+      "latitude": 36.965,
+      "longitude": 128.507,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%B0%B1%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2889792",
+      "name_ko": "속리산국립공원",
+      "name_en": "속리산국립공원",
+      "established": 1970,
+      "located_in_at": "충청북도",
+      "latitude": 36.533333,
+      "longitude": 127.9,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%86%8D%EB%A6%AC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7077223",
+      "name_ko": "오대산국립공원",
+      "name_en": "오대산국립공원",
+      "established": 1975,
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.795278,
+      "longitude": 128.543056,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8C%80%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q8034123",
+      "name_ko": "월악산국립공원",
+      "name_en": "월악산국립공원",
+      "established": 1984,
+      "located_in_at": "충청북도",
+      "latitude": 36.835,
+      "longitude": 128.198,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%95%85%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q706301",
+      "name_ko": "월출산국립공원",
+      "name_en": "월출산국립공원",
+      "established": 1988,
+      "located_in_at": "강진군",
+      "latitude": 34.744,
+      "longitude": 126.675,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9B%94%EC%B6%9C%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q494689",
+      "name_ko": "주왕산",
+      "name_en": "주왕산",
+      "established": 1976,
+      "located_in_at": "경상북도",
+      "latitude": 36.388333,
+      "longitude": 129.166667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%99%95%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q717804",
+      "name_ko": "지리산국립공원",
+      "name_en": "지리산국립공원",
+      "established": 1967,
+      "located_in_at": "전라남도",
+      "latitude": 35.29,
+      "longitude": 127.632,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A6%AC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q3375188",
+      "name_ko": "치악산국립공원",
+      "name_en": "치악산국립공원",
+      "established": 1984,
+      "located_in_at": "횡성군",
+      "latitude": 37.33,
+      "longitude": 128.047,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B9%98%EC%95%85%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q27306451",
+      "name_ko": "태백산국립공원",
+      "name_en": "태백산국립공원",
+      "established": 2016,
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.1181,
+      "longitude": 128.9156,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q488639",
+      "name_ko": "태안해안국립공원",
+      "name_en": "태안해안국립공원",
+      "established": 1978,
+      "located_in_at": "충청남도",
+      "latitude": 36.7872,
+      "longitude": 126.144,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%95%88%ED%95%B4%EC%95%88%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q5642786",
+      "name_ko": "한라산국립공원",
+      "name_en": "한라산국립공원",
+      "established": 1970,
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.366667,
+      "longitude": 126.533333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%9D%BC%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q488070",
+      "name_ko": "한려해상국립공원",
+      "name_en": "한려해상국립공원",
+      "established": 1968,
+      "located_in_at": "전라남도",
+      "latitude": 34.758889,
+      "longitude": 127.975833,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%A0%A4%ED%95%B4%EC%83%81%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 국립공원 (National Parks of South Korea) - 무료 다운로드",
+    "description": "대한민국의 국립공원 목록. 출처는 Wikidata 공개 SPARQL 엔드포인트(wdt:P31/P279* wd:Q46169, wdt:P17 wd:Q884). 각 항목에 한국어 이름(rdfs:label@ko), 영어 이름, 지정 연도(P571), 소재 행정구역(P131), 좌표(WGS84), 한국어 위키백과 링크를 제공한다. 한국어 이름 가나다순 정렬. 지리산·설악산·한라산·북한산 등 포함. 면적(P2046) 값은 원천 단위가 항목마다 불일치(일부 약 1000배 과대)하여 검증 불가하므로 무결성 원칙에 따라 면적 필드는 제외함. 포함 22 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 국립공원 (National Parks of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 국립공원 (National Parks of South Korea) — 22 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 22 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

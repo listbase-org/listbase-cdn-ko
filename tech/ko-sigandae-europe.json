@@ -1,0 +1,520 @@
+{
+  "id": "ko-sigandae-europe",
+  "name": "유럽 시간대 (58)",
+  "title": "유럽 시간대 (58)",
+  "description": "IANA tz 식별자가 'Europe/'로 시작하는 시간대의 한국어 명칭 목록.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Amsterdam",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "암스테르담",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Andorra",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "안도라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Astrakhan",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "아스트라한",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Athens",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "아테네",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Belgrade",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "베오그라드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Berlin",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "베를린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Bratislava",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "브라티슬라바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Brussels",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "브뤼셀",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Bucharest",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "부쿠레슈티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Budapest",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "부다페스트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Busingen",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "뷔지겐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Chisinau",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "키시나우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Copenhagen",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "코펜하겐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Dublin",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "더블린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": "아일랜드 표준시"
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Gibraltar",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "지브롤터",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Guernsey",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "건지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Helsinki",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "헬싱키",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Isle_of_Man",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "맨섬",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Istanbul",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "이스탄불",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Jersey",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "저지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Kaliningrad",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "칼리닌그라드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Kiev",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "키예프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Kirov",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "키로프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Lisbon",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "리스본",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Ljubljana",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "류블랴나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/London",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "런던",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": "영국 하계 표준시"
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Luxembourg",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "룩셈부르크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Madrid",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "마드리드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Malta",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "몰타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Mariehamn",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "마리에함",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Minsk",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "민스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Europe/Monaco",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "모나코",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Europe/Moscow",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "모스크바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Europe/Oslo",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "오슬로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Europe/Paris",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "파리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Europe/Podgorica",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "포드고리차",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Europe/Prague",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "프라하",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Europe/Riga",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "리가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Europe/Rome",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "로마",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Europe/Samara",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "사마라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Europe/San_Marino",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "산마리노",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Europe/Sarajevo",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "사라예보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Europe/Saratov",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "사라토프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Europe/Simferopol",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "심페로폴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Europe/Skopje",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "스코페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Europe/Sofia",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "소피아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Europe/Stockholm",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "스톡홀름",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Europe/Tallinn",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "탈린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Europe/Tirane",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "티라나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Europe/Ulyanovsk",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "울리야노프스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Europe/Vaduz",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "파두츠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Europe/Vatican",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "바티칸",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Europe/Vienna",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "비엔나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Europe/Vilnius",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "빌니우스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Europe/Volgograd",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "볼고그라트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Europe/Warsaw",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "바르샤바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Europe/Zagreb",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "자그레브",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Europe/Zurich",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "취리히",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "유럽 시간대 (58) - 무료 다운로드",
+    "description": "IANA tz 식별자가 'Europe/'로 시작하는 시간대의 한국어 명칭 목록. 포함 58 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "유럽 시간대 (58) | ListBase",
+    "seo_description": "다운로드 유럽 시간대 (58) — 58 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 58 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

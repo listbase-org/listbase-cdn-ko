@@ -1,0 +1,1249 @@
+{
+  "id": "ko-gonghuil",
+  "name": "대한민국 공휴일 (2020–2026)",
+  "title": "대한민국 공휴일 (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-24",
+      "year": 2020,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 1,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-01-25",
+      "year": 2020,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 1,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-01-26",
+      "year": 2020,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 1,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-01-27",
+      "year": 2020,
+      "name_ko": "설날 대체 휴일",
+      "name_en": "Alternative holiday for Korean New Year",
+      "month": 1,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-03-01",
+      "year": 2020,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-04-15",
+      "year": 2020,
+      "name_ko": "국회의원 선거일",
+      "name_en": "National Assembly Election Day",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-04-30",
+      "year": 2020,
+      "name_ko": "부처님오신날",
+      "name_en": "Buddha's Birthday",
+      "month": 4,
+      "day": 30,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-05-05",
+      "year": 2020,
+      "name_ko": "어린이날",
+      "name_en": "Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-06-06",
+      "year": 2020,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-08-15",
+      "year": 2020,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-08-17",
+      "year": 2020,
+      "name_ko": "임시공휴일",
+      "name_en": "Temporary Public Holiday",
+      "month": 8,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-09-30",
+      "year": 2020,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 9,
+      "day": 30,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-10-01",
+      "year": 2020,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 10,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-10-02",
+      "year": 2020,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 10,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-10-03",
+      "year": 2020,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-10-09",
+      "year": 2020,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-11",
+      "year": 2021,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 2,
+      "day": 11,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-02-12",
+      "year": 2021,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-02-13",
+      "year": 2021,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 2,
+      "day": 13,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-03-01",
+      "year": 2021,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-05",
+      "year": 2021,
+      "name_ko": "어린이날",
+      "name_en": "Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-05-19",
+      "year": 2021,
+      "name_ko": "부처님오신날",
+      "name_en": "Buddha's Birthday",
+      "month": 5,
+      "day": 19,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-06-06",
+      "year": 2021,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-08-15",
+      "year": 2021,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-08-16",
+      "year": 2021,
+      "name_ko": "광복절 대체 휴일",
+      "name_en": "Alternative holiday for Liberation Day",
+      "month": 8,
+      "day": 16,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-09-20",
+      "year": 2021,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 9,
+      "day": 20,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-09-21",
+      "year": 2021,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 9,
+      "day": 21,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-09-22",
+      "year": 2021,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 9,
+      "day": 22,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-10-03",
+      "year": 2021,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-10-04",
+      "year": 2021,
+      "name_ko": "개천절 대체 휴일",
+      "name_en": "Alternative holiday for National Foundation Day",
+      "month": 10,
+      "day": 4,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-10-09",
+      "year": 2021,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-10-11",
+      "year": 2021,
+      "name_ko": "한글날 대체 휴일",
+      "name_en": "Alternative holiday for Hangul Day",
+      "month": 10,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-31",
+      "year": 2022,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 1,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-02-01",
+      "year": 2022,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 2,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-02-02",
+      "year": 2022,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 2,
+      "day": 2,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-03-01",
+      "year": 2022,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-03-09",
+      "year": 2022,
+      "name_ko": "대통령 선거일",
+      "name_en": "Presidential Election Day",
+      "month": 3,
+      "day": 9,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-05-05",
+      "year": 2022,
+      "name_ko": "어린이날",
+      "name_en": "Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-05-08",
+      "year": 2022,
+      "name_ko": "부처님오신날",
+      "name_en": "Buddha's Birthday",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-06-01",
+      "year": 2022,
+      "name_ko": "지방선거일",
+      "name_en": "Local Election Day",
+      "month": 6,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-06-06",
+      "year": 2022,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-08-15",
+      "year": 2022,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-09-09",
+      "year": 2022,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 9,
+      "day": 9,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-09-10",
+      "year": 2022,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 9,
+      "day": 10,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-09-11",
+      "year": 2022,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 9,
+      "day": 11,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-09-12",
+      "year": 2022,
+      "name_ko": "추석 대체 휴일",
+      "name_en": "Alternative holiday for Chuseok",
+      "month": 9,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-10-03",
+      "year": 2022,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-10-09",
+      "year": 2022,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-10-10",
+      "year": 2022,
+      "name_ko": "한글날 대체 휴일",
+      "name_en": "Alternative holiday for Hangul Day",
+      "month": 10,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-21",
+      "year": 2023,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 1,
+      "day": 21,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-01-22",
+      "year": 2023,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 1,
+      "day": 22,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-23",
+      "year": 2023,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 1,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-24",
+      "year": 2023,
+      "name_ko": "설날 대체 휴일",
+      "name_en": "Alternative holiday for Korean New Year",
+      "month": 1,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-03-01",
+      "year": 2023,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-05-05",
+      "year": 2023,
+      "name_ko": "어린이날",
+      "name_en": "Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-05-27",
+      "year": 2023,
+      "name_ko": "부처님오신날",
+      "name_en": "Buddha's Birthday",
+      "month": 5,
+      "day": 27,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-05-29",
+      "year": 2023,
+      "name_ko": "부처님오신날 대체 휴일",
+      "name_en": "Alternative holiday for Buddha's Birthday",
+      "month": 5,
+      "day": 29,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-06-06",
+      "year": 2023,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-08-15",
+      "year": 2023,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-09-28",
+      "year": 2023,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-09-29",
+      "year": 2023,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 9,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-09-30",
+      "year": 2023,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 9,
+      "day": 30,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-10-02",
+      "year": 2023,
+      "name_ko": "임시공휴일",
+      "name_en": "Temporary Public Holiday",
+      "month": 10,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-10-03",
+      "year": 2023,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-10-09",
+      "year": 2023,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-02-09",
+      "year": 2024,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 2,
+      "day": 9,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-02-10",
+      "year": 2024,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 2,
+      "day": 10,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-02-11",
+      "year": 2024,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 2,
+      "day": 11,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-02-12",
+      "year": 2024,
+      "name_ko": "설날 대체 휴일",
+      "name_en": "Alternative holiday for Korean New Year",
+      "month": 2,
+      "day": 12,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-03-01",
+      "year": 2024,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-04-10",
+      "year": 2024,
+      "name_ko": "국회의원 선거일",
+      "name_en": "National Assembly Election Day",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-05",
+      "year": 2024,
+      "name_ko": "어린이날",
+      "name_en": "Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-05-06",
+      "year": 2024,
+      "name_ko": "어린이날 대체 휴일",
+      "name_en": "Alternative holiday for Children's Day",
+      "month": 5,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-15",
+      "year": 2024,
+      "name_ko": "부처님오신날",
+      "name_en": "Buddha's Birthday",
+      "month": 5,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-06-06",
+      "year": 2024,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-08-15",
+      "year": 2024,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-09-16",
+      "year": 2024,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 9,
+      "day": 16,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-09-17",
+      "year": 2024,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 9,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-09-18",
+      "year": 2024,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 9,
+      "day": 18,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-10-01",
+      "year": 2024,
+      "name_ko": "국군의 날",
+      "name_en": "Armed Forces Day",
+      "month": 10,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-10-03",
+      "year": 2024,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-10-09",
+      "year": 2024,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-27",
+      "year": 2025,
+      "name_ko": "임시공휴일",
+      "name_en": "Temporary Public Holiday",
+      "month": 1,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-01-28",
+      "year": 2025,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 1,
+      "day": 28,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-01-29",
+      "year": 2025,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 1,
+      "day": 29,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-30",
+      "year": 2025,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 1,
+      "day": 30,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-03-01",
+      "year": 2025,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-03-03",
+      "year": 2025,
+      "name_ko": "삼일절 대체 휴일",
+      "name_en": "Alternative holiday for Independence Movement Day",
+      "month": 3,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-05",
+      "year": 2025,
+      "name_ko": "부처님오신날; 어린이날",
+      "name_en": "Buddha's Birthday; Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-06",
+      "year": 2025,
+      "name_ko": "부처님오신날 대체 휴일; 어린이날 대체 휴일",
+      "name_en": "Alternative holiday for Buddha's Birthday; Alternative holiday for Children's Day",
+      "month": 5,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-06-03",
+      "year": 2025,
+      "name_ko": "대통령 선거일",
+      "name_en": "Presidential Election Day",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-06-06",
+      "year": 2025,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-08-15",
+      "year": 2025,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-10-03",
+      "year": 2025,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-10-05",
+      "year": 2025,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 10,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-10-06",
+      "year": 2025,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 10,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-10-07",
+      "year": 2025,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 10,
+      "day": 7,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-10-08",
+      "year": 2025,
+      "name_ko": "추석 대체 휴일",
+      "name_en": "Alternative holiday for Chuseok",
+      "month": 10,
+      "day": 8,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-10-09",
+      "year": 2025,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_ko": "신정연휴",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-02-16",
+      "year": 2026,
+      "name_ko": "설날 전날",
+      "name_en": "The day preceding Korean New Year",
+      "month": 2,
+      "day": 16,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-02-17",
+      "year": 2026,
+      "name_ko": "설날",
+      "name_en": "Korean New Year",
+      "month": 2,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-02-18",
+      "year": 2026,
+      "name_ko": "설날 다음날",
+      "name_en": "The second day of Korean New Year",
+      "month": 2,
+      "day": 18,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-03-01",
+      "year": 2026,
+      "name_ko": "삼일절",
+      "name_en": "Independence Movement Day",
+      "month": 3,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-03-02",
+      "year": 2026,
+      "name_ko": "삼일절 대체 휴일",
+      "name_en": "Alternative holiday for Independence Movement Day",
+      "month": 3,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-05",
+      "year": 2026,
+      "name_ko": "어린이날",
+      "name_en": "Children's Day",
+      "month": 5,
+      "day": 5,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-05-24",
+      "year": 2026,
+      "name_ko": "부처님오신날",
+      "name_en": "Buddha's Birthday",
+      "month": 5,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-05-25",
+      "year": 2026,
+      "name_ko": "부처님오신날 대체 휴일",
+      "name_en": "Alternative holiday for Buddha's Birthday",
+      "month": 5,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-06-03",
+      "year": 2026,
+      "name_ko": "지방선거일",
+      "name_en": "Local Election Day",
+      "month": 6,
+      "day": 3,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-06-06",
+      "year": 2026,
+      "name_ko": "현충일",
+      "name_en": "Memorial Day",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-07-17",
+      "year": 2026,
+      "name_ko": "제헌절",
+      "name_en": "Constitution Day",
+      "month": 7,
+      "day": 17,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-08-15",
+      "year": 2026,
+      "name_ko": "광복절",
+      "name_en": "Liberation Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-08-17",
+      "year": 2026,
+      "name_ko": "광복절 대체 휴일",
+      "name_en": "Alternative holiday for Liberation Day",
+      "month": 8,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-09-24",
+      "year": 2026,
+      "name_ko": "추석 전날",
+      "name_en": "The day preceding Chuseok",
+      "month": 9,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-09-25",
+      "year": 2026,
+      "name_ko": "추석",
+      "name_en": "Chuseok",
+      "month": 9,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-09-26",
+      "year": 2026,
+      "name_ko": "추석 다음날",
+      "name_en": "The second day of Chuseok",
+      "month": 9,
+      "day": 26,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-10-03",
+      "year": 2026,
+      "name_ko": "개천절",
+      "name_en": "National Foundation Day",
+      "month": 10,
+      "day": 3,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-10-05",
+      "year": 2026,
+      "name_ko": "개천절 대체 휴일",
+      "name_en": "Alternative holiday for National Foundation Day",
+      "month": 10,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-10-09",
+      "year": 2026,
+      "name_ko": "한글날",
+      "name_en": "Hangul Day",
+      "month": 10,
+      "day": 9,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_ko": "기독탄신일",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 공휴일 (2020–2026) - 무료 다운로드",
+    "description": "Public holidays 2020-2026 with native and English names 포함 132 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 공휴일 (2020–2026) | ListBase",
+    "seo_description": "다운로드 대한민국 공휴일 (2020–2026) — 132 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 132 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,1596 @@
+{
+  "id": "ko-hyanggyo",
+  "name": "한국의 향교 (Korean Hyanggyo — Local Confucian Schools)",
+  "title": "한국의 향교 (Korean Hyanggyo — Local Confucian Schools)",
+  "description": "위키데이터 기준 대한민국에 위치한 향교(관립 지방 유교 교육기관) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "가평향교",
+      "name_en": "Gapyeonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.83,
+      "longitude": 127.5075,
+      "wikidata_id": "Q55726962",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55726962"
+    },
+    {
+      "name_ko": "간성향교",
+      "name_en": "Ganseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.378333,
+      "longitude": 128.438889,
+      "wikidata_id": "Q18229690",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18229690"
+    },
+    {
+      "name_ko": "강릉향교",
+      "name_en": "Gangneunghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.7634,
+      "longitude": 128.894569,
+      "wikidata_id": "Q18444037",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444037"
+    },
+    {
+      "name_ko": "강양향교",
+      "name_en": "Hapcheon Gangyanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.563889,
+      "longitude": 128.161389,
+      "wikidata_id": "Q19939284",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939284"
+    },
+    {
+      "name_ko": "강진향교",
+      "name_en": "Gangjinhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.650028,
+      "longitude": 126.769611,
+      "wikidata_id": "Q19939289",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939289"
+    },
+    {
+      "name_ko": "강화향교",
+      "name_en": "Ganghwa hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.753611,
+      "longitude": 126.478611,
+      "wikidata_id": "Q12583189",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583189"
+    },
+    {
+      "name_ko": "거제향교",
+      "name_en": "Geoje Hanggyo",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 34.85275,
+      "longitude": 128.58925,
+      "wikidata_id": "Q19939300",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939300"
+    },
+    {
+      "name_ko": "거창향교",
+      "name_en": "Geochanghyanggyo",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.691444,
+      "longitude": 127.903389,
+      "wikidata_id": "Q19939302",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939302"
+    },
+    {
+      "name_ko": "결성향교",
+      "name_en": "Gyeolseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.528808,
+      "longitude": 126.542728,
+      "wikidata_id": "Q18229724",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18229724"
+    },
+    {
+      "name_ko": "경산향교 대성전 삼문",
+      "name_en": "Gyeongsanhyanggyo",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.821389,
+      "longitude": 128.738056,
+      "wikidata_id": "Q19939314",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939314"
+    },
+    {
+      "name_ko": "경주향교",
+      "name_en": "Gyeongju Hyanggyo",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.831328,
+      "longitude": 129.214372,
+      "wikidata_id": "Q5624067",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5624067"
+    },
+    {
+      "name_ko": "고령향교",
+      "name_en": "Goryeonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.729167,
+      "longitude": 128.265278,
+      "wikidata_id": "Q19939327",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939327"
+    },
+    {
+      "name_ko": "고부향교 대성전",
+      "name_en": "Gobu Hyanggyo",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.621667,
+      "longitude": 126.770278,
+      "wikidata_id": "Q17094826",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094826"
+    },
+    {
+      "name_ko": "고성향교",
+      "name_en": "",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 34.976167,
+      "longitude": 128.308917,
+      "wikidata_id": "Q12584281",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584281"
+    },
+    {
+      "name_ko": "고양향교",
+      "name_en": "Goyanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.703889,
+      "longitude": 126.895,
+      "wikidata_id": "Q16184536",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16184536"
+    },
+    {
+      "name_ko": "고창향교 대성전",
+      "name_en": "Gochanghyanggyo Daeseongjeon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.4375,
+      "longitude": 126.7025,
+      "wikidata_id": "Q17157469",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17157469"
+    },
+    {
+      "name_ko": "고흥향교",
+      "name_en": "Goheung Hyanggyo",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.613889,
+      "longitude": 127.279722,
+      "wikidata_id": "Q5577583",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5577583"
+    },
+    {
+      "name_ko": "곡성향교",
+      "name_en": "Gokseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.284722,
+      "longitude": 127.281944,
+      "wikidata_id": "Q19939345",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939345"
+    },
+    {
+      "name_ko": "곤양향교",
+      "name_en": "Gonyang Hyanggyo",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.061111,
+      "longitude": 127.968611,
+      "wikidata_id": "Q19939346",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939346"
+    },
+    {
+      "name_ko": "공주향교",
+      "name_en": "Gongjuhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.458333,
+      "longitude": 127.116389,
+      "wikidata_id": "Q16978391",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978391"
+    },
+    {
+      "name_ko": "과천향교",
+      "name_en": "Gwacheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.431839,
+      "longitude": 126.988064,
+      "wikidata_id": "Q12584815",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12584815"
+    },
+    {
+      "name_ko": "광양향교",
+      "name_en": "Gwangyang Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.9825,
+      "longitude": 127.5875,
+      "wikidata_id": "Q19939381",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939381"
+    },
+    {
+      "name_ko": "광주향교",
+      "name_en": "Gwangju Hyanggyo",
+      "admin_area_ko": "하남시",
+      "admin_area_en": "Hanam",
+      "latitude": 37.521871,
+      "longitude": 127.198378,
+      "wikidata_id": "Q18229738",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18229738"
+    },
+    {
+      "name_ko": "광주향교",
+      "name_en": "Gwangju Hyanggyo",
+      "admin_area_ko": "남구",
+      "admin_area_en": "Nam District",
+      "latitude": 35.146111,
+      "longitude": 126.903611,
+      "wikidata_id": "Q18550253",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18550253"
+    },
+    {
+      "name_ko": "괴산 청안향교",
+      "name_en": "Goesan Cheonganhyanggyo",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19941255",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941255"
+    },
+    {
+      "name_ko": "괴산향교",
+      "name_en": "",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.815278,
+      "longitude": 127.788611,
+      "wikidata_id": "Q12585235",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585235"
+    },
+    {
+      "name_ko": "교동향교",
+      "name_en": "Gyodong Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q17094830",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094830"
+    },
+    {
+      "name_ko": "구례향교",
+      "name_en": "Guryehyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.201111,
+      "longitude": 127.454167,
+      "wikidata_id": "Q19939405",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939405"
+    },
+    {
+      "name_ko": "구미 선산향교",
+      "name_en": "Gumi Seonsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.252472,
+      "longitude": 128.300611,
+      "wikidata_id": "Q19939410",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939410"
+    },
+    {
+      "name_ko": "군위향교",
+      "name_en": "Gunwihyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.234333,
+      "longitude": 128.568389,
+      "wikidata_id": "Q19939444",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939444"
+    },
+    {
+      "name_ko": "금구향교 대성전",
+      "name_en": "Geumguhyanggyo",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.773056,
+      "longitude": 127.010833,
+      "wikidata_id": "Q17157499",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17157499"
+    },
+    {
+      "name_ko": "금산향교",
+      "name_en": "Geumsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.110833,
+      "longitude": 127.489722,
+      "wikidata_id": "Q16092453",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092453"
+    },
+    {
+      "name_ko": "기장향교",
+      "name_en": "Gijang Hyanggyo",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.257778,
+      "longitude": 129.2125,
+      "wikidata_id": "Q19939482",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939482"
+    },
+    {
+      "name_ko": "김산향교",
+      "name_en": "Gimcheon Gimsan Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.139444,
+      "longitude": 128.096861,
+      "wikidata_id": "Q18229777",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18229777"
+    },
+    {
+      "name_ko": "김제군 관아와 향교",
+      "name_en": "Gimje-gun Government Office and Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.800806,
+      "longitude": 126.881944,
+      "wikidata_id": "Q19939529",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939529"
+    },
+    {
+      "name_ko": "김제향교 대성전",
+      "name_en": "Gimje Hyanggyo",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.800556,
+      "longitude": 126.879444,
+      "wikidata_id": "Q16092489",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092489"
+    },
+    {
+      "name_ko": "나주향교",
+      "name_en": "Naju hyanggyo",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.032778,
+      "longitude": 126.713056,
+      "wikidata_id": "Q19939586",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939586"
+    },
+    {
+      "name_ko": "낙안향교",
+      "name_en": "Naganhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.900556,
+      "longitude": 127.344722,
+      "wikidata_id": "Q19939591",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939591"
+    },
+    {
+      "name_ko": "남평향교",
+      "name_en": "Nampyeonghyanggyo",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.037194,
+      "longitude": 126.847194,
+      "wikidata_id": "Q19939610",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939610"
+    },
+    {
+      "name_ko": "남포향교",
+      "name_en": "Nampo Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.305111,
+      "longitude": 126.618944,
+      "wikidata_id": "Q18444069",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444069"
+    },
+    {
+      "name_ko": "노성향교",
+      "name_en": "Noseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.281944,
+      "longitude": 127.13,
+      "wikidata_id": "Q16092622",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092622"
+    },
+    {
+      "name_ko": "능주향교",
+      "name_en": "Neungju Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.989583,
+      "longitude": 126.951333,
+      "wikidata_id": "Q19939647",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939647"
+    },
+    {
+      "name_ko": "단성향교",
+      "name_en": "Sancheong Danseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.3075,
+      "longitude": 127.957778,
+      "wikidata_id": "Q19939660",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939660"
+    },
+    {
+      "name_ko": "담양향교",
+      "name_en": "Damyang Hyanggyo",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.325944,
+      "longitude": 126.9835,
+      "wikidata_id": "Q19939672",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939672"
+    },
+    {
+      "name_ko": "당진향교",
+      "name_en": "Dangjin Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.8925,
+      "longitude": 126.633056,
+      "wikidata_id": "Q18444614",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444614"
+    },
+    {
+      "name_ko": "대구향교",
+      "name_en": "Daegu Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q5208192",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5208192"
+    },
+    {
+      "name_ko": "대정향교",
+      "name_en": "Daejeonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.239444,
+      "longitude": 126.288333,
+      "wikidata_id": "Q19939696",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939696"
+    },
+    {
+      "name_ko": "대흥향교",
+      "name_en": "Daeheunghyanggyo",
+      "admin_area_ko": "예산군",
+      "admin_area_en": "Yesan County",
+      "latitude": 36.616111,
+      "longitude": 126.786944,
+      "wikidata_id": "Q18444143",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444143"
+    },
+    {
+      "name_ko": "덕산향교",
+      "name_en": "Deoksan Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.700044,
+      "longitude": 126.654953,
+      "wikidata_id": "Q18444145",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444145"
+    },
+    {
+      "name_ko": "돌산향교",
+      "name_en": "Dolsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.617306,
+      "longitude": 127.727611,
+      "wikidata_id": "Q19939719",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939719"
+    },
+    {
+      "name_ko": "동래향교",
+      "name_en": "Dongnae Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.2075,
+      "longitude": 129.083889,
+      "wikidata_id": "Q16092850",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092850"
+    },
+    {
+      "name_ko": "동복향교",
+      "name_en": "Dongbokhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.076667,
+      "longitude": 127.113889,
+      "wikidata_id": "Q19939733",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939733"
+    },
+    {
+      "name_ko": "만경향교 대성전",
+      "name_en": "Mangyeonghyanggyo Daeseongjeon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.854444,
+      "longitude": 126.820833,
+      "wikidata_id": "Q17157873",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17157873"
+    },
+    {
+      "name_ko": "면천향교",
+      "name_en": "Myeoncheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.820556,
+      "longitude": 126.67,
+      "wikidata_id": "Q18444197",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444197"
+    },
+    {
+      "name_ko": "목천향교",
+      "name_en": "Mokcheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.801889,
+      "longitude": 127.228361,
+      "wikidata_id": "Q16092938",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092938"
+    },
+    {
+      "name_ko": "무안향교",
+      "name_en": "Muanhyanggyo",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.989583,
+      "longitude": 126.467694,
+      "wikidata_id": "Q19939849",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939849"
+    },
+    {
+      "name_ko": "밀양향교",
+      "name_en": "Miryang Hyanggyo",
+      "admin_area_ko": "밀양시",
+      "admin_area_en": "Miryang",
+      "latitude": 35.50525,
+      "longitude": 128.754639,
+      "wikidata_id": "Q19939892",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19939892"
+    },
+    {
+      "name_ko": "보령향교",
+      "name_en": "Boryeong Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.411436,
+      "longitude": 126.592375,
+      "wikidata_id": "Q18444232",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444232"
+    },
+    {
+      "name_ko": "보성향교",
+      "name_en": "Boseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.768611,
+      "longitude": 127.078611,
+      "wikidata_id": "Q19940002",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940002"
+    },
+    {
+      "name_ko": "보은향교",
+      "name_en": "",
+      "admin_area_ko": "보은군",
+      "admin_area_en": "Boeun County",
+      "latitude": 36.491944,
+      "longitude": 127.713056,
+      "wikidata_id": "Q19940003",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940003"
+    },
+    {
+      "name_ko": "봉화향교",
+      "name_en": "Bonghwahyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.888389,
+      "longitude": 128.815722,
+      "wikidata_id": "Q19940020",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940020"
+    },
+    {
+      "name_ko": "부안향교 대성전",
+      "name_en": "Buan Hyanggyo",
+      "admin_area_ko": "부안군",
+      "admin_area_en": "Buan County",
+      "latitude": 35.731778,
+      "longitude": 126.728429,
+      "wikidata_id": "Q17158224",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17158224"
+    },
+    {
+      "name_ko": "부여향교",
+      "name_en": "Buyeo Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.280411,
+      "longitude": 126.914481,
+      "wikidata_id": "Q16093297",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093297"
+    },
+    {
+      "name_ko": "부평향교",
+      "name_en": "Bupyeong Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.539722,
+      "longitude": 126.719722,
+      "wikidata_id": "Q12599026",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599026"
+    },
+    {
+      "name_ko": "비안향교",
+      "name_en": "Bianhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.37025,
+      "longitude": 128.472,
+      "wikidata_id": "Q19940050",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940050"
+    },
+    {
+      "name_ko": "비인향교",
+      "name_en": "Biinhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.140358,
+      "longitude": 126.607822,
+      "wikidata_id": "Q16093376",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093376"
+    },
+    {
+      "name_ko": "삼가향교",
+      "name_en": "",
+      "admin_area_ko": "합천군",
+      "admin_area_en": "Hapcheon County",
+      "latitude": 35.407778,
+      "longitude": 128.116667,
+      "wikidata_id": "Q19940076",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940076"
+    },
+    {
+      "name_ko": "삼척향교",
+      "name_en": "Samcheokhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.450278,
+      "longitude": 129.166556,
+      "wikidata_id": "Q16093451",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093451"
+    },
+    {
+      "name_ko": "상주 함창향교",
+      "name_en": "Sangju Hamchanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.576222,
+      "longitude": 128.155056,
+      "wikidata_id": "Q19940093",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940093"
+    },
+    {
+      "name_ko": "서산향교",
+      "name_en": "Seosan Hyanggyo",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.791111,
+      "longitude": 126.452222,
+      "wikidata_id": "Q18444281",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444281"
+    },
+    {
+      "name_ko": "서천향교",
+      "name_en": "Seocheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.079756,
+      "longitude": 126.694336,
+      "wikidata_id": "Q16093520",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093520"
+    },
+    {
+      "name_ko": "석성향교",
+      "name_en": "Seokseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.227778,
+      "longitude": 126.989722,
+      "wikidata_id": "Q16094816",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094816"
+    },
+    {
+      "name_ko": "성주향교 대성전 및 명륜당",
+      "name_en": "Seongju Hyanggyo",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.927222,
+      "longitude": 128.290556,
+      "wikidata_id": "Q16093622",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093622"
+    },
+    {
+      "name_ko": "순창향교 대성전",
+      "name_en": "Sunchanghyanggyo Daeseongjeon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.373551,
+      "longitude": 127.115786,
+      "wikidata_id": "Q17094942",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094942"
+    },
+    {
+      "name_ko": "순흥향교",
+      "name_en": "Sunheunghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.930278,
+      "longitude": 128.576667,
+      "wikidata_id": "Q19940232",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940232"
+    },
+    {
+      "name_ko": "시흥향교",
+      "name_en": "Siheunghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q61091215",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61091215"
+    },
+    {
+      "name_ko": "신창향교",
+      "name_en": "Sinchang Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.779922,
+      "longitude": 126.928814,
+      "wikidata_id": "Q18444340",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444340"
+    },
+    {
+      "name_ko": "아산향교",
+      "name_en": "Asan Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.8495,
+      "longitude": 126.946333,
+      "wikidata_id": "Q18444345",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444345"
+    },
+    {
+      "name_ko": "양양향교",
+      "name_en": "Yangyang Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.078889,
+      "longitude": 128.606389,
+      "wikidata_id": "Q18230538",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230538"
+    },
+    {
+      "name_ko": "양천향교 터",
+      "name_en": "Site of Yangcheonhyanggyo Confucian School",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.573056,
+      "longitude": 126.839167,
+      "wikidata_id": "Q12606428",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12606428"
+    },
+    {
+      "name_ko": "언양향교",
+      "name_en": "Eonyanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.556667,
+      "longitude": 129.113889,
+      "wikidata_id": "Q19940419",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940419"
+    },
+    {
+      "name_ko": "여수향교",
+      "name_en": "Yeosuhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.742778,
+      "longitude": 127.7325,
+      "wikidata_id": "Q19940429",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940429"
+    },
+    {
+      "name_ko": "연기향교",
+      "name_en": "Yeongihyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.543333,
+      "longitude": 127.281111,
+      "wikidata_id": "Q16094011",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094011"
+    },
+    {
+      "name_ko": "연산향교",
+      "name_en": "Yeonsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.223486,
+      "longitude": 127.209175,
+      "wikidata_id": "Q16094030",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094030"
+    },
+    {
+      "name_ko": "연천향교",
+      "name_en": "Yeoncheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.095833,
+      "longitude": 127.069722,
+      "wikidata_id": "Q55732000",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732000"
+    },
+    {
+      "name_ko": "영광향교",
+      "name_en": "Yeonggwanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.273889,
+      "longitude": 126.518889,
+      "wikidata_id": "Q19940459",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940459"
+    },
+    {
+      "name_ko": "영덕 영해향교",
+      "name_en": "Yeongdeok Yeonghae Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.538361,
+      "longitude": 129.413139,
+      "wikidata_id": "Q19940461",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940461"
+    },
+    {
+      "name_ko": "영동 황간향교",
+      "name_en": "Yeongdong Hwangganhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.228333,
+      "longitude": 127.915278,
+      "wikidata_id": "Q19940467",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940467"
+    },
+    {
+      "name_ko": "영동향교",
+      "name_en": "Yeongdonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.176111,
+      "longitude": 127.768889,
+      "wikidata_id": "Q19940468",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940468"
+    },
+    {
+      "name_ko": "영암향교",
+      "name_en": "Yeongamhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.796389,
+      "longitude": 126.6925,
+      "wikidata_id": "Q19940471",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940471"
+    },
+    {
+      "name_ko": "영양향교",
+      "name_en": "Yeongyanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.704722,
+      "longitude": 129.123611,
+      "wikidata_id": "Q19940472",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940472"
+    },
+    {
+      "name_ko": "영월향교",
+      "name_en": "Yeongwolhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.185444,
+      "longitude": 128.475444,
+      "wikidata_id": "Q18230620",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230620"
+    },
+    {
+      "name_ko": "예산향교",
+      "name_en": "Yesanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.683817,
+      "longitude": 126.850014,
+      "wikidata_id": "Q18444357",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444357"
+    },
+    {
+      "name_ko": "예안향교",
+      "name_en": "Yean Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19940501",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940501"
+    },
+    {
+      "name_ko": "예천향교",
+      "name_en": "Yecheon Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19940506",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940506"
+    },
+    {
+      "name_ko": "오천향교",
+      "name_en": "Ocheonhyanggyo",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.418203,
+      "longitude": 126.5454,
+      "wikidata_id": "Q18444363",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444363"
+    },
+    {
+      "name_ko": "옥과향교",
+      "name_en": "Okgwahyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.278417,
+      "longitude": 127.133528,
+      "wikidata_id": "Q19940548",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940548"
+    },
+    {
+      "name_ko": "온양향교",
+      "name_en": "Onyanghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.762778,
+      "longitude": 127.014722,
+      "wikidata_id": "Q18444368",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444368"
+    },
+    {
+      "name_ko": "완도향교",
+      "name_en": "Wandohyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.346111,
+      "longitude": 126.727778,
+      "wikidata_id": "Q19940573",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940573"
+    },
+    {
+      "name_ko": "완주 고산향교 대성전",
+      "name_en": "Wanju Gosanhyanggyo Daeseongjeon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.976156,
+      "longitude": 127.213836,
+      "wikidata_id": "Q16978825",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978825"
+    },
+    {
+      "name_ko": "용궁향교",
+      "name_en": "Yonggung Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.593417,
+      "longitude": 128.303833,
+      "wikidata_id": "Q19940590",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940590"
+    },
+    {
+      "name_ko": "용인향교",
+      "name_en": "Yonginhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.295278,
+      "longitude": 127.120833,
+      "wikidata_id": "Q55732399",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732399"
+    },
+    {
+      "name_ko": "운봉향교 대성전",
+      "name_en": "Unbonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.421376,
+      "longitude": 127.528095,
+      "wikidata_id": "Q17094993",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17094993"
+    },
+    {
+      "name_ko": "원주향교",
+      "name_en": "Wonju Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.338875,
+      "longitude": 127.949569,
+      "wikidata_id": "Q18230717",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230717"
+    },
+    {
+      "name_ko": "은진향교",
+      "name_en": "Eunjinhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.170989,
+      "longitude": 127.111486,
+      "wikidata_id": "Q16094334",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094334"
+    },
+    {
+      "name_ko": "익산 여산향교 대성전",
+      "name_en": "Iksan Yeosanhyanggyo Daeseongjeon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.055009,
+      "longitude": 127.087785,
+      "wikidata_id": "Q17128554",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17128554"
+    },
+    {
+      "name_ko": "익산 함열향교 대성전",
+      "name_en": "Hamyeolhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.063614,
+      "longitude": 126.907006,
+      "wikidata_id": "Q17128567",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17128567"
+    },
+    {
+      "name_ko": "인제향교",
+      "name_en": "Injehyanggyo",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.071944,
+      "longitude": 128.174444,
+      "wikidata_id": "Q19940880",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940880"
+    },
+    {
+      "name_ko": "인천향교",
+      "name_en": "Incheon Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.439444,
+      "longitude": 126.686111,
+      "wikidata_id": "Q16094435",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094435"
+    },
+    {
+      "name_ko": "임실향교 대성전",
+      "name_en": "Imsilhyanggyo Daeseongjeon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 36.063614,
+      "longitude": 126.907006,
+      "wikidata_id": "Q17095016",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095016"
+    },
+    {
+      "name_ko": "임천향교",
+      "name_en": "Imcheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.1925,
+      "longitude": 126.890278,
+      "wikidata_id": "Q16094446",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094446"
+    },
+    {
+      "name_ko": "임피향교 대성전",
+      "name_en": "Impihyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.988361,
+      "longitude": 126.848111,
+      "wikidata_id": "Q17158817",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17158817"
+    },
+    {
+      "name_ko": "자인향교",
+      "name_en": "Jainhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.822778,
+      "longitude": 128.826389,
+      "wikidata_id": "Q19940943",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940943"
+    },
+    {
+      "name_ko": "장기향교",
+      "name_en": "Janggihyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.896694,
+      "longitude": 129.486361,
+      "wikidata_id": "Q19940956",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940956"
+    },
+    {
+      "name_ko": "장성향교",
+      "name_en": "Jangseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.301389,
+      "longitude": 126.780833,
+      "wikidata_id": "Q19940966",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940966"
+    },
+    {
+      "name_ko": "장흥향교",
+      "name_en": "Jangheunghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 34.674417,
+      "longitude": 126.893581,
+      "wikidata_id": "Q16094492",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094492"
+    },
+    {
+      "name_ko": "적성향교",
+      "name_en": "Jeokseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.963333,
+      "longitude": 126.923611,
+      "wikidata_id": "Q18444423",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444423"
+    },
+    {
+      "name_ko": "전의향교",
+      "name_en": "Jeonuihyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.680556,
+      "longitude": 127.199722,
+      "wikidata_id": "Q16094973",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094973"
+    },
+    {
+      "name_ko": "전주향교",
+      "name_en": "Jeonju Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.812778,
+      "longitude": 127.156944,
+      "wikidata_id": "Q6180325",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6180325"
+    },
+    {
+      "name_ko": "정산향교",
+      "name_en": "Jeongsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.415833,
+      "longitude": 126.943611,
+      "wikidata_id": "Q18444428",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444428"
+    },
+    {
+      "name_ko": "정선향교",
+      "name_en": "Jeongseonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.38225,
+      "longitude": 128.665806,
+      "wikidata_id": "Q18230859",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230859"
+    },
+    {
+      "name_ko": "정읍향교 대성전",
+      "name_en": "Jeongeuphyanggyo Daeseongjeon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.567389,
+      "longitude": 126.858028,
+      "wikidata_id": "Q17095031",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095031"
+    },
+    {
+      "name_ko": "정의향교",
+      "name_en": "Jeongeuihyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.386944,
+      "longitude": 126.8,
+      "wikidata_id": "Q19941072",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941072"
+    },
+    {
+      "name_ko": "지도향교",
+      "name_en": "Jidohyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.063417,
+      "longitude": 126.205861,
+      "wikidata_id": "Q19941189",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941189"
+    },
+    {
+      "name_ko": "지평향교",
+      "name_en": "Jipyeong Hyanggyo",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.480833,
+      "longitude": 127.636389,
+      "wikidata_id": "Q19941200",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941200"
+    },
+    {
+      "name_ko": "직산향교",
+      "name_en": "Jiksan Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.9025,
+      "longitude": 127.157778,
+      "wikidata_id": "Q16095068",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095068"
+    },
+    {
+      "name_ko": "진도향교",
+      "name_en": "Jindo Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19941205",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941205"
+    },
+    {
+      "name_ko": "진보향교",
+      "name_en": "Jinbo Hyanggyo",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19941206",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941206"
+    },
+    {
+      "name_ko": "진산향교",
+      "name_en": "Jinsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.154444,
+      "longitude": 127.376944,
+      "wikidata_id": "Q16095090",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095090"
+    },
+    {
+      "name_ko": "진잠향교",
+      "name_en": "Jinjamhyanggyo Daeseongjeon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.303889,
+      "longitude": 127.315556,
+      "wikidata_id": "Q18444476",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444476"
+    },
+    {
+      "name_ko": "창평향교",
+      "name_en": "Changpyeonghyanggyo",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.216694,
+      "longitude": 126.984333,
+      "wikidata_id": "Q19941229",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941229"
+    },
+    {
+      "name_ko": "천안향교",
+      "name_en": "Cheonan Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.8175,
+      "longitude": 127.171944,
+      "wikidata_id": "Q16095343",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16095343"
+    },
+    {
+      "name_ko": "철원향교",
+      "name_en": "Cheorwonhyanggyoji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.239167,
+      "longitude": 127.214444,
+      "wikidata_id": "Q18230989",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18230989"
+    },
+    {
+      "name_ko": "청도향교",
+      "name_en": "Cheongdohyanggyo",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 35.646833,
+      "longitude": 128.708639,
+      "wikidata_id": "Q19941245",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941245"
+    },
+    {
+      "name_ko": "청송향교",
+      "name_en": "Cheongsong Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.434722,
+      "longitude": 129.0575,
+      "wikidata_id": "Q19941253",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941253"
+    },
+    {
+      "name_ko": "청양향교",
+      "name_en": "Cheongyang Hyanggyo",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.455,
+      "longitude": 126.815278,
+      "wikidata_id": "Q18444689",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444689"
+    },
+    {
+      "name_ko": "청주향교",
+      "name_en": "Cheongjuhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.637161,
+      "longitude": 127.489081,
+      "wikidata_id": "Q18444492",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444492"
+    },
+    {
+      "name_ko": "청풍향교",
+      "name_en": "Cheongpunghyanggyo",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 37.000278,
+      "longitude": 128.166111,
+      "wikidata_id": "Q18444693",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444693"
+    },
+    {
+      "name_ko": "청하향교",
+      "name_en": "Cheonghahyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.20025,
+      "longitude": 129.338556,
+      "wikidata_id": "Q19941267",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941267"
+    },
+    {
+      "name_ko": "춘천향교",
+      "name_en": "Chuncheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q12620069",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12620069"
+    },
+    {
+      "name_ko": "충주향교",
+      "name_en": "Chungju Hyanggyo",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.974625,
+      "longitude": 127.937833,
+      "wikidata_id": "Q18444504",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444504"
+    },
+    {
+      "name_ko": "칠원향교",
+      "name_en": "Haman Chilwonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.307778,
+      "longitude": 128.513889,
+      "wikidata_id": "Q19941311",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941311"
+    },
+    {
+      "name_ko": "태안향교",
+      "name_en": "Taean Hyanggyo",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.758889,
+      "longitude": 126.296944,
+      "wikidata_id": "Q18444701",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444701"
+    },
+    {
+      "name_ko": "태인향교 대성전",
+      "name_en": "Taein Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.653536,
+      "longitude": 126.937346,
+      "wikidata_id": "Q17095091",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17095091"
+    },
+    {
+      "name_ko": "하양향교",
+      "name_en": "Hayang Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.928889,
+      "longitude": 128.813889,
+      "wikidata_id": "Q19941416",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941416"
+    },
+    {
+      "name_ko": "한산향교",
+      "name_en": "Hansan Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.084714,
+      "longitude": 126.794397,
+      "wikidata_id": "Q16096038",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096038"
+    },
+    {
+      "name_ko": "함평향교",
+      "name_en": "Hampyeong Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.068333,
+      "longitude": 126.5275,
+      "wikidata_id": "Q19941455",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19941455"
+    },
+    {
+      "name_ko": "해미향교",
+      "name_en": "Haemihyanggyo",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.720833,
+      "longitude": 126.549722,
+      "wikidata_id": "Q18444745",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18444745"
+    },
+    {
+      "name_ko": "홍산향교",
+      "name_en": "Hongsanhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16096135",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096135"
+    },
+    {
+      "name_ko": "홍주향교",
+      "name_en": "Hongjuhyanggyo",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.609417,
+      "longitude": 126.665639,
+      "wikidata_id": "Q18493372",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18493372"
+    },
+    {
+      "name_ko": "홍천향교",
+      "name_en": "Hongcheon Hyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.697222,
+      "longitude": 127.889722,
+      "wikidata_id": "Q18231075",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18231075"
+    },
+    {
+      "name_ko": "화천향교",
+      "name_en": "Hwacheonhyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 38.105833,
+      "longitude": 127.698889,
+      "wikidata_id": "Q18231079",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18231079"
+    },
+    {
+      "name_ko": "횡성향교",
+      "name_en": "Hoengseonghyanggyo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.486389,
+      "longitude": 127.993611,
+      "wikidata_id": "Q18231082",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18231082"
+    }
+  ],
+  "meta": {
+    "title": "한국의 향교 (Korean Hyanggyo — Local Confucian Schools) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 향교(관립 지방 유교 교육기관) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 153 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국의 향교 (Korean Hyanggyo — Local Confucian Schools) | ListBase",
+    "seo_description": "다운로드 한국의 향교 (Korean Hyanggyo — Local Confucian Schools) — 153 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 153 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

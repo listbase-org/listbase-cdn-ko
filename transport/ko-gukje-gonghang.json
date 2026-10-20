@@ -1,0 +1,244 @@
+{
+  "id": "ko-gukje-gonghang",
+  "name": "대한민국의 국제공항 (International Airports of South Korea)",
+  "title": "대한민국의 국제공항 (International Airports of South Korea)",
+  "description": "The 7 facilities classified as international airports for KR in the aero-db open airport database, with ICAO/IATA codes and coordinates.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "BUSAN / GIMHAE",
+      "icao_code": "RKPK",
+      "iata_code": "PUS",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 35.18061111111111,
+      "longitude": 128.938,
+      "elevation_ft": 15,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "CHEONGJU",
+      "icao_code": "RKTU",
+      "iata_code": "CJJ",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 36.71638888888889,
+      "longitude": 127.4991666666667,
+      "elevation_ft": 49,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "JEJU",
+      "icao_code": "RKPC",
+      "iata_code": "CJU",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 33.5113,
+      "longitude": 126.493,
+      "elevation_ft": 36,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "MUAN",
+      "icao_code": "RKJB",
+      "iata_code": "MWX",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 34.99138888888889,
+      "longitude": 126.3827777777778,
+      "elevation_ft": 11,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "SEOUL / GIMPO",
+      "icao_code": "RKSS",
+      "iata_code": "GMP",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 37.55694444444445,
+      "longitude": 126.7975,
+      "elevation_ft": 17,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "SEOUL / INCHEON",
+      "icao_code": "RKSI",
+      "iata_code": "ICN",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 37.4625,
+      "longitude": 126.4391666666667,
+      "elevation_ft": 14,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "YANGYANG",
+      "icao_code": "RKNY",
+      "iata_code": "YNY",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 38.0613,
+      "longitude": 128.669,
+      "elevation_ft": 63,
+      "country_code": "KR",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 국제공항 (International Airports of South Korea) - 무료 다운로드",
+    "description": "The 7 facilities classified as international airports for KR in the aero-db open airport database, with ICAO/IATA codes and coordinates. 포함 7 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 국제공항 (International Airports of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 국제공항 (International Airports of South Korea) — 7 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 7 건 / 17 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

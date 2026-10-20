@@ -1,0 +1,133 @@
+{
+  "id": "ko-cheukjeong-danwi-electric",
+  "name": "전기 단위 (8)",
+  "title": "전기 단위 (8)",
+  "description": "CLDR ko 로케일의 'electric' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "electric-ampere",
+      "bunryu": "electric",
+      "ireum": "암페어",
+      "yakja": "amp",
+      "gan_yakja": "amp",
+      "danwi_paeteon": "{0}암페어",
+      "id": 1
+    },
+    {
+      "unit_code": "electric-coulomb",
+      "bunryu": "electric",
+      "ireum": "쿨롬",
+      "yakja": "C",
+      "gan_yakja": "C",
+      "danwi_paeteon": "{0}쿨롬",
+      "id": 2
+    },
+    {
+      "unit_code": "electric-farad",
+      "bunryu": "electric",
+      "ireum": "패럿",
+      "yakja": "F",
+      "gan_yakja": "F",
+      "danwi_paeteon": "{0}패럿",
+      "id": 3
+    },
+    {
+      "unit_code": "electric-henry",
+      "bunryu": "electric",
+      "ireum": "헨리",
+      "yakja": "H",
+      "gan_yakja": "H",
+      "danwi_paeteon": "{0}헨리",
+      "id": 4
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "bunryu": "electric",
+      "ireum": "밀리암페어",
+      "yakja": "mA",
+      "gan_yakja": "mA",
+      "danwi_paeteon": "{0}밀리암페어",
+      "id": 5
+    },
+    {
+      "unit_code": "electric-ohm",
+      "bunryu": "electric",
+      "ireum": "옴",
+      "yakja": "ohm",
+      "gan_yakja": "ohm",
+      "danwi_paeteon": "{0}옴",
+      "id": 6
+    },
+    {
+      "unit_code": "electric-siemens",
+      "bunryu": "electric",
+      "ireum": "지멘스",
+      "yakja": "S",
+      "gan_yakja": "S",
+      "danwi_paeteon": "{0}지멘스",
+      "id": 7
+    },
+    {
+      "unit_code": "electric-volt",
+      "bunryu": "electric",
+      "ireum": "볼트",
+      "yakja": "V",
+      "gan_yakja": "V",
+      "danwi_paeteon": "{0}볼트",
+      "id": 8
+    }
+  ],
+  "meta": {
+    "title": "전기 단위 (8) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'electric' 분류 측정 단위와 한국어 명칭. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "전기 단위 (8) | ListBase",
+    "seo_description": "다운로드 전기 단위 (8) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

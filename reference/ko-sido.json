@@ -1,0 +1,192 @@
+{
+  "id": "ko-sido",
+  "name": "대한민국 시도 (Provinces and Special/Metropolitan Cities of South Korea)",
+  "title": "대한민국 시도 (Provinces and Special/Metropolitan Cities of South Korea)",
+  "description": "The 17 first-level administrative divisions of South Korea (시도): 1 special city (서울특별시), 6 metropolitan cities (광역시), 1 special autonomous city (세종특별자치시), 6 provinces (도), and 3 special autonomous provinces (강원특별자치도, 제주특별자치도, 전북특별자치도). Each row includes the official 법정동 code prefix and ISO 3166-2:KR subdivision code.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name_kr",
+      "label": "Name Kr",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "created_at",
+      "label": "Created At",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "code": "1100000000",
+      "name_kr": "서울특별시",
+      "name_en": "Seoul",
+      "slug": "seoul",
+      "iso_3166_2": "KR-11",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "2600000000",
+      "name_kr": "부산광역시",
+      "name_en": "Busan",
+      "slug": "busan",
+      "iso_3166_2": "KR-26",
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2700000000",
+      "name_kr": "대구광역시",
+      "name_en": "Daegu",
+      "slug": "daegu",
+      "iso_3166_2": "KR-27",
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2800000000",
+      "name_kr": "인천광역시",
+      "name_en": "Incheon",
+      "slug": "incheon",
+      "iso_3166_2": "KR-28",
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "2900000000",
+      "name_kr": "광주광역시",
+      "name_en": "Gwangju",
+      "slug": "gwangju",
+      "iso_3166_2": "KR-29",
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3000000000",
+      "name_kr": "대전광역시",
+      "name_en": "Daejeon",
+      "slug": "daejeon",
+      "iso_3166_2": "KR-30",
+      "created_at": "1995-01-01"
+    },
+    {
+      "code": "3100000000",
+      "name_kr": "울산광역시",
+      "name_en": "Ulsan",
+      "slug": "ulsan",
+      "iso_3166_2": "KR-31",
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3600000000",
+      "name_kr": "세종특별자치시",
+      "name_en": "Sejong",
+      "slug": "sejong",
+      "iso_3166_2": "KR-50",
+      "created_at": "2012-07-01"
+    },
+    {
+      "code": "4100000000",
+      "name_kr": "경기도",
+      "name_en": "Gyeonggi-do",
+      "slug": "gyeonggi",
+      "iso_3166_2": "KR-41",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "4300000000",
+      "name_kr": "충청북도",
+      "name_en": "Chungcheongbuk-do",
+      "slug": "chungcheongbuk",
+      "iso_3166_2": "KR-43",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "4400000000",
+      "name_kr": "충청남도",
+      "name_en": "Chungcheongnam-do",
+      "slug": "chungcheongnam",
+      "iso_3166_2": "KR-44",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "4600000000",
+      "name_kr": "전라남도",
+      "name_en": "Jeollanam-do",
+      "slug": "jeollanam",
+      "iso_3166_2": "KR-46",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "4700000000",
+      "name_kr": "경상북도",
+      "name_en": "Gyeongsangbuk-do",
+      "slug": "gyeongsangbuk",
+      "iso_3166_2": "KR-47",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "4800000000",
+      "name_kr": "경상남도",
+      "name_en": "Gyeongsangnam-do",
+      "slug": "gyeongsangnam",
+      "iso_3166_2": "KR-48",
+      "created_at": "1988-04-23"
+    },
+    {
+      "code": "5000000000",
+      "name_kr": "제주특별자치도",
+      "name_en": "Jeju-do",
+      "slug": "jeju",
+      "iso_3166_2": "KR-49",
+      "created_at": "2006-07-01"
+    },
+    {
+      "code": "5100000000",
+      "name_kr": "강원특별자치도",
+      "name_en": "Gangwon-do",
+      "slug": "gangwon",
+      "iso_3166_2": "KR-42",
+      "created_at": "2023-06-11"
+    },
+    {
+      "code": "5200000000",
+      "name_kr": "전북특별자치도",
+      "name_en": "Jeonbuk-do",
+      "slug": "jeonbuk",
+      "iso_3166_2": "KR-45",
+      "created_at": "2024-01-18"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 시도 (Provinces and Special/Metropolitan Cities of South Korea) - 무료 다운로드",
+    "description": "The 17 first-level administrative divisions of South Korea (시도): 1 special city (서울특별시), 6 metropolitan cities (광역시), 1 special autonomous city (세종특별자치시), 6 provinces (도), and 3 special autonomous provinces (강원특별자치도, 제주특별자치도, 전북특별자치도). Each row includes the official 법정동 code prefix and ISO 3166-2:KR subdivision code. 포함 17 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 시도 (Provinces and Special/Metropolitan Cities of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국 시도 (Provinces and Special/Metropolitan Cities of South Korea) — 17 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 17 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

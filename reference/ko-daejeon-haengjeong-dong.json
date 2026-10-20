@@ -1,0 +1,856 @@
+{
+  "id": "ko-daejeon-haengjeong-dong",
+  "name": "대전광역시 — 행정동",
+  "title": "대전광역시 — 행정동",
+  "description": "대전광역시의 행정동(行政洞) 목록 79개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (79 haengjeong-dong / administrative neighborhoods of Daejeon Metropolitan City.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "short_code",
+      "label": "Short Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dong",
+      "label": "Dong",
+      "type": "string"
+    },
+    {
+      "key": "sido_code",
+      "label": "Sido Code",
+      "type": "number"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sgg_code",
+      "label": "Sgg Code",
+      "type": "number"
+    },
+    {
+      "key": "sgg",
+      "label": "Sgg",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3011051500",
+      "short_code": "2501076",
+      "name": "대전광역시 동구 중앙동",
+      "dong": "중앙동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011053000",
+      "short_code": "2501053",
+      "name": "대전광역시 동구 효동",
+      "dong": "효동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011054500",
+      "short_code": "2501077",
+      "name": "대전광역시 동구 신인동",
+      "dong": "신인동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011055100",
+      "short_code": "2501055",
+      "name": "대전광역시 동구 판암1동",
+      "dong": "판암1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011055200",
+      "short_code": "2501056",
+      "name": "대전광역시 동구 판암2동",
+      "dong": "판암2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011056000",
+      "short_code": "2501057",
+      "name": "대전광역시 동구 용운동",
+      "dong": "용운동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011058500",
+      "short_code": "2501078",
+      "name": "대전광역시 동구 대동",
+      "dong": "대동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011059000",
+      "short_code": "2501060",
+      "name": "대전광역시 동구 자양동",
+      "dong": "자양동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011062000",
+      "short_code": "2501063",
+      "name": "대전광역시 동구 가양1동",
+      "dong": "가양1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011063000",
+      "short_code": "2501064",
+      "name": "대전광역시 동구 가양2동",
+      "dong": "가양2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011064000",
+      "short_code": "2501065",
+      "name": "대전광역시 동구 용전동",
+      "dong": "용전동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011066500",
+      "short_code": "2501079",
+      "name": "대전광역시 동구 성남동",
+      "dong": "성남동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011067000",
+      "short_code": "2501068",
+      "name": "대전광역시 동구 홍도동",
+      "dong": "홍도동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011069500",
+      "short_code": "2501080",
+      "name": "대전광역시 동구 삼성동",
+      "dong": "삼성동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011072500",
+      "short_code": "2501073",
+      "name": "대전광역시 동구 대청동",
+      "dong": "대청동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3011074000",
+      "short_code": "2501075",
+      "name": "대전광역시 동구 산내동",
+      "dong": "산내동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30110",
+      "sgg": "동구"
+    },
+    {
+      "code": "3014053500",
+      "short_code": "2502051",
+      "name": "대전광역시 중구 은행선화동",
+      "dong": "은행선화동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014055000",
+      "short_code": "2502053",
+      "name": "대전광역시 중구 목동",
+      "dong": "목동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014056000",
+      "short_code": "2502054",
+      "name": "대전광역시 중구 중촌동",
+      "dong": "중촌동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014057500",
+      "short_code": "2502055",
+      "name": "대전광역시 중구 대흥동",
+      "dong": "대흥동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014060500",
+      "short_code": "2502056",
+      "name": "대전광역시 중구 문창동",
+      "dong": "문창동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014062000",
+      "short_code": "2502057",
+      "name": "대전광역시 중구 석교동",
+      "dong": "석교동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014063000",
+      "short_code": "2502058",
+      "name": "대전광역시 중구 대사동",
+      "dong": "대사동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014064000",
+      "short_code": "2502059",
+      "name": "대전광역시 중구 부사동",
+      "dong": "부사동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014065500",
+      "short_code": "2502060",
+      "name": "대전광역시 중구 용두동",
+      "dong": "용두동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014067000",
+      "short_code": "2502062",
+      "name": "대전광역시 중구 오류동",
+      "dong": "오류동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014068000",
+      "short_code": "2502063",
+      "name": "대전광역시 중구 태평1동",
+      "dong": "태평1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014069000",
+      "short_code": "2502064",
+      "name": "대전광역시 중구 태평2동",
+      "dong": "태평2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014070000",
+      "short_code": "2502065",
+      "name": "대전광역시 중구 유천1동",
+      "dong": "유천1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014071000",
+      "short_code": "2502066",
+      "name": "대전광역시 중구 유천2동",
+      "dong": "유천2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014072000",
+      "short_code": "2502067",
+      "name": "대전광역시 중구 문화1동",
+      "dong": "문화1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014073000",
+      "short_code": "2502068",
+      "name": "대전광역시 중구 문화2동",
+      "dong": "문화2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3014074000",
+      "short_code": "2502069",
+      "name": "대전광역시 중구 산성동",
+      "dong": "산성동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30140",
+      "sgg": "중구"
+    },
+    {
+      "code": "3017051000",
+      "short_code": "2503051",
+      "name": "대전광역시 서구 복수동",
+      "dong": "복수동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017052000",
+      "short_code": "2503052",
+      "name": "대전광역시 서구 도마1동",
+      "dong": "도마1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017053000",
+      "short_code": "2503053",
+      "name": "대전광역시 서구 도마2동",
+      "dong": "도마2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017053500",
+      "short_code": "2503054",
+      "name": "대전광역시 서구 정림동",
+      "dong": "정림동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017054000",
+      "short_code": "2503055",
+      "name": "대전광역시 서구 변동",
+      "dong": "변동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017055000",
+      "short_code": "2503056",
+      "name": "대전광역시 서구 용문동",
+      "dong": "용문동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017055500",
+      "short_code": "2503057",
+      "name": "대전광역시 서구 탄방동",
+      "dong": "탄방동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017056000",
+      "short_code": "2503061",
+      "name": "대전광역시 서구 괴정동",
+      "dong": "괴정동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017057000",
+      "short_code": "2503062",
+      "name": "대전광역시 서구 가장동",
+      "dong": "가장동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017057500",
+      "short_code": "2503063",
+      "name": "대전광역시 서구 내동",
+      "dong": "내동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017058100",
+      "short_code": "2503064",
+      "name": "대전광역시 서구 갈마1동",
+      "dong": "갈마1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017058200",
+      "short_code": "2503065",
+      "name": "대전광역시 서구 갈마2동",
+      "dong": "갈마2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017058600",
+      "short_code": "2503066",
+      "name": "대전광역시 서구 월평1동",
+      "dong": "월평1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017058700",
+      "short_code": "2503067",
+      "name": "대전광역시 서구 월평2동",
+      "dong": "월평2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017058800",
+      "short_code": "2503068",
+      "name": "대전광역시 서구 월평3동",
+      "dong": "월평3동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017059000",
+      "short_code": "2503070",
+      "name": "대전광역시 서구 가수원동",
+      "dong": "가수원동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017059600",
+      "short_code": "2503072",
+      "name": "대전광역시 서구 관저1동",
+      "dong": "관저1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017059700",
+      "short_code": "2503073",
+      "name": "대전광역시 서구 관저2동",
+      "dong": "관저2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017060000",
+      "short_code": "2503071",
+      "name": "대전광역시 서구 기성동",
+      "dong": "기성동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017063000",
+      "short_code": "2503059",
+      "name": "대전광역시 서구 둔산1동",
+      "dong": "둔산1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017064000",
+      "short_code": "2503060",
+      "name": "대전광역시 서구 둔산2동",
+      "dong": "둔산2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017065000",
+      "short_code": "2503069",
+      "name": "대전광역시 서구 만년동",
+      "dong": "만년동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3017066000",
+      "short_code": "2503074",
+      "name": "대전광역시 서구 둔산3동",
+      "dong": "둔산3동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30170",
+      "sgg": "서구"
+    },
+    {
+      "code": "3020052000",
+      "short_code": "2504051",
+      "name": "대전광역시 유성구 진잠동",
+      "dong": "진잠동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020053000",
+      "short_code": "2504064",
+      "name": "대전광역시 유성구 온천1동",
+      "dong": "온천1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020054000",
+      "short_code": "2504054",
+      "name": "대전광역시 유성구 온천2동",
+      "dong": "온천2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020054600",
+      "short_code": "2504059",
+      "name": "대전광역시 유성구 노은1동",
+      "dong": "노은1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020054700",
+      "short_code": "2504066",
+      "name": "대전광역시 유성구 노은2동",
+      "dong": "노은2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020054800",
+      "short_code": "2504067",
+      "name": "대전광역시 유성구 노은3동",
+      "dong": "노은3동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020055000",
+      "short_code": "2504055",
+      "name": "대전광역시 유성구 신성동",
+      "dong": "신성동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020057000",
+      "short_code": "2504057",
+      "name": "대전광역시 유성구 전민동",
+      "dong": "전민동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020058000",
+      "short_code": "2504061",
+      "name": "대전광역시 유성구 구즉동",
+      "dong": "구즉동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020060000",
+      "short_code": "2504063",
+      "name": "대전광역시 유성구 관평동",
+      "dong": "관평동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3020061000",
+      "short_code": "2504065",
+      "name": "대전광역시 유성구 원신흥동",
+      "dong": "원신흥동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30200",
+      "sgg": "유성구"
+    },
+    {
+      "code": "3023051000",
+      "short_code": "2505051",
+      "name": "대전광역시 대덕구 오정동",
+      "dong": "오정동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023052000",
+      "short_code": "2505052",
+      "name": "대전광역시 대덕구 대화동",
+      "dong": "대화동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023052500",
+      "short_code": "2505053",
+      "name": "대전광역시 대덕구 회덕동",
+      "dong": "회덕동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023053300",
+      "short_code": "2505054",
+      "name": "대전광역시 대덕구 비래동",
+      "dong": "비래동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023054300",
+      "short_code": "2505062",
+      "name": "대전광역시 대덕구 송촌동",
+      "dong": "송촌동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023054600",
+      "short_code": "2505055",
+      "name": "대전광역시 대덕구 중리동",
+      "dong": "중리동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023055000",
+      "short_code": "2505058",
+      "name": "대전광역시 대덕구 신탄진동",
+      "dong": "신탄진동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023056000",
+      "short_code": "2505059",
+      "name": "대전광역시 대덕구 석봉동",
+      "dong": "석봉동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023057000",
+      "short_code": "2505060",
+      "name": "대전광역시 대덕구 덕암동",
+      "dong": "덕암동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023058000",
+      "short_code": "2505061",
+      "name": "대전광역시 대덕구 목상동",
+      "dong": "목상동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023060000",
+      "short_code": "2505056",
+      "name": "대전광역시 대덕구 법1동",
+      "dong": "법1동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    },
+    {
+      "code": "3023061000",
+      "short_code": "2505057",
+      "name": "대전광역시 대덕구 법2동",
+      "dong": "법2동",
+      "sido_code": "30",
+      "sido": "대전광역시",
+      "sgg_code": "30230",
+      "sgg": "대덕구"
+    }
+  ],
+  "meta": {
+    "title": "대전광역시 — 행정동 - 무료 다운로드",
+    "description": "대전광역시의 행정동(行政洞) 목록 79개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (79 haengjeong-dong / administrative neighborhoods of Daejeon Metropolitan City.) 포함 79 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대전광역시 — 행정동 | ListBase",
+    "seo_description": "다운로드 대전광역시 — 행정동 — 79 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 79 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

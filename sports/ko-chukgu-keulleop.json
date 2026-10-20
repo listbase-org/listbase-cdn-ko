@@ -1,0 +1,247 @@
+{
+  "id": "ko-chukgu-keulleop",
+  "name": "대한민국의 축구 클럽 (South Korean football clubs)",
+  "title": "대한민국의 축구 클럽 (South Korean football clubs)",
+  "description": "Football clubs of South Korea (K-League sides). Each record carries the canonical Latin/English club name, the Hangul name where available (joined from openfootball's kr.clubs.lang.ko.txt — currently covers K-League 2013 sides), founded year, host city, and alternative spellings (aliases). Sourced from the openfootball/clubs registry.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Busan I'Park",
+      "name_native": "부산 아이파크",
+      "slug": "busan-i-park",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Busan",
+      "aliases": "Busan IPark, Busan IPark FC"
+    },
+    {
+      "id": 2,
+      "name": "Chunnam Dragons",
+      "name_native": "전남 드래곤즈",
+      "slug": "chunnam-dragons",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Gwangyang",
+      "aliases": "Chunnam Dragons FC"
+    },
+    {
+      "id": 3,
+      "name": "Daegu FC",
+      "name_native": "대구 FC",
+      "slug": "daegu-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Daegu",
+      "aliases": "Daegu"
+    },
+    {
+      "id": 4,
+      "name": "Daejeon Citizen",
+      "name_native": "대전 시티즌",
+      "slug": "daejeon-citizen",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Daejeon",
+      "aliases": "Daejeon Citizen FC"
+    },
+    {
+      "id": 5,
+      "name": "FC Seoul",
+      "name_native": "FC 서울",
+      "slug": "fc-seoul",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Seoul",
+      "aliases": "Seoul"
+    },
+    {
+      "id": 6,
+      "name": "Gangwon FC",
+      "name_native": "강원 FC",
+      "slug": "gangwon-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Gangwon",
+      "aliases": "Gangwon"
+    },
+    {
+      "id": 7,
+      "name": "Gwangju FC",
+      "name_native": "",
+      "slug": "gwangju-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Gwangju",
+      "aliases": ""
+    },
+    {
+      "id": 8,
+      "name": "Gyeongnam FC",
+      "name_native": "경남 FC",
+      "slug": "gyeongnam-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Gyeongnam",
+      "aliases": "Gyeongnam"
+    },
+    {
+      "id": 9,
+      "name": "Incheon United",
+      "name_native": "인천 유나이티드",
+      "slug": "incheon-united",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Incheon",
+      "aliases": "Incheon United FC"
+    },
+    {
+      "id": 10,
+      "name": "Jeju United",
+      "name_native": "제주 유나이티드 FC",
+      "slug": "jeju-united",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Seogwipo",
+      "aliases": "Jeju United FC"
+    },
+    {
+      "id": 11,
+      "name": "Jeonbuk Motors",
+      "name_native": "전북 현대 모터스",
+      "slug": "jeonbuk-motors",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Jeonbuk",
+      "aliases": "Jeonbuk Hyu., Jeonbuk Hyundai, Jeonbuk Hyundai Motors, Jeonbuk Hyundai Motors FC, Jeonbuk FC"
+    },
+    {
+      "id": 12,
+      "name": "Pohang Steelers",
+      "name_native": "포항 스틸러스",
+      "slug": "pohang-steelers",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Pohang",
+      "aliases": "FC Pohang Steelers, Pohang Steelers FC"
+    },
+    {
+      "id": 13,
+      "name": "Sangju Sangmu",
+      "name_native": "",
+      "slug": "sangju-sangmu",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Sangju",
+      "aliases": "Sangju Sangmu FC, Sangju Sangmu Pho."
+    },
+    {
+      "id": 14,
+      "name": "Seongnam Ilhwa Chunma",
+      "name_native": "성남 일화 천마",
+      "slug": "seongnam-ilhwa-chunma",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Seongnam",
+      "aliases": "Seongnam Ilhwa, Seongnam Ilhwa Chunma FC, Seongnam FC"
+    },
+    {
+      "id": 15,
+      "name": "Suwon Bluewings",
+      "name_native": "수원 블루윙즈",
+      "slug": "suwon-bluewings",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Suwon",
+      "aliases": "Suwon Samsung Bluewings, Suwon Samsung Bluewings FC"
+    },
+    {
+      "id": 16,
+      "name": "Ulsan HD FC",
+      "name_native": "",
+      "slug": "ulsan-hd-fc",
+      "founded": 1983,
+      "defunct": "",
+      "stadium": "",
+      "city": "Ulsan",
+      "aliases": "Ulsan HD Football Club, Ulsan Hyundai, Ulsan Hyundai FC"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 축구 클럽 (South Korean football clubs) - 무료 다운로드",
+    "description": "Football clubs of South Korea (K-League sides). Each record carries the canonical Latin/English club name, the Hangul name where available (joined from openfootball's kr.clubs.lang.ko.txt — currently covers K-League 2013 sides), founded year, host city, and alternative spellings (aliases). Sourced from the openfootball/clubs registry. 포함 16 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 축구 클럽 (South Korean football clubs) | ListBase",
+    "seo_description": "다운로드 대한민국의 축구 클럽 (South Korean football clubs) — 16 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 16 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ko-seoul-konghang",
+  "name": "Seoul 공항 (Airports in Seoul, South Korea)",
+  "title": "Seoul 공항 (Airports in Seoul, South Korea)",
+  "description": "Airports located in the Seoul administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RKSS",
+      "iata": "GMP",
+      "name": "Gimpo International Airport",
+      "city": "Seoul",
+      "subdivision": "Seoul",
+      "country": "KR",
+      "elevation_ft": 58,
+      "latitude": 37.5583,
+      "longitude": 126.791,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Seoul 공항 (Airports in Seoul, South Korea) - 무료 다운로드",
+    "description": "Airports located in the Seoul administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone. 포함 1 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Seoul 공항 (Airports in Seoul, South Korea) | ListBase",
+    "seo_description": "다운로드 Seoul 공항 (Airports in Seoul, South Korea) — 1 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 1 건 / 11 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

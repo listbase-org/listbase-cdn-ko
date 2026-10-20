@@ -1,0 +1,236 @@
+{
+  "id": "ko-yongin-gyeongjeoncheol-jihacheol-yeok",
+  "name": "용인경전철 지하철 역 (Everline (Yongin LRT) subway stations)",
+  "title": "용인경전철 지하철 역 (Everline (Yongin LRT) subway stations)",
+  "description": "용인경전철(Everline (Yongin LRT))의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 15개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Everline (Yongin LRT) stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "기흥",
+      "name_romanized": "",
+      "lines": "수인분당선, 용인경전철",
+      "lines_en": "Suin-Bundang Line, Everline (Yongin LRT)",
+      "lines_count": 2,
+      "latitude": 37.275619,
+      "longitude": 127.115936,
+      "around_stations": "상갈, 신갈, 강남대",
+      "around_count": 3
+    },
+    {
+      "name": "강남대",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.270161,
+      "longitude": 127.126033,
+      "around_stations": "기흥, 지석",
+      "around_count": 2
+    },
+    {
+      "name": "지석",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.269606,
+      "longitude": 127.136515,
+      "around_stations": "강남대, 어정",
+      "around_count": 2
+    },
+    {
+      "name": "어정",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.274917,
+      "longitude": 127.143714,
+      "around_stations": "지석, 동백",
+      "around_count": 2
+    },
+    {
+      "name": "동백",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.269043,
+      "longitude": 127.152716,
+      "around_stations": "어정, 초당",
+      "around_count": 2
+    },
+    {
+      "name": "초당",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.260752,
+      "longitude": 127.159443,
+      "around_stations": "동백, 삼가",
+      "around_count": 2
+    },
+    {
+      "name": "시청·용인대",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.239151,
+      "longitude": 127.178406,
+      "around_stations": "삼가, 명지대",
+      "around_count": 2
+    },
+    {
+      "name": "명지대",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.237964,
+      "longitude": 127.190294,
+      "around_stations": "시청·용인대, 김량장",
+      "around_count": 2
+    },
+    {
+      "name": "김량장",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.237247,
+      "longitude": 127.198781,
+      "around_stations": "명지대, 운동장·송담대",
+      "around_count": 2
+    },
+    {
+      "name": "운동장·송담대",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.237845,
+      "longitude": 127.209198,
+      "around_stations": "김량장, 고진",
+      "around_count": 2
+    },
+    {
+      "name": "고진",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.24484,
+      "longitude": 127.214251,
+      "around_stations": "운동장·송담대, 보평",
+      "around_count": 2
+    },
+    {
+      "name": "보평",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.258965,
+      "longitude": 127.218457,
+      "around_stations": "고진, 둔전",
+      "around_count": 2
+    },
+    {
+      "name": "둔전",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.267051,
+      "longitude": 127.21364,
+      "around_stations": "보평, 전대·에버랜드",
+      "around_count": 2
+    },
+    {
+      "name": "삼가",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.242115,
+      "longitude": 127.168075,
+      "around_stations": "초당, 시청·용인대",
+      "around_count": 2
+    },
+    {
+      "name": "전대·에버랜드",
+      "name_romanized": "",
+      "lines": "용인경전철",
+      "lines_en": "Everline (Yongin LRT)",
+      "lines_count": 1,
+      "latitude": 37.285342,
+      "longitude": 127.219561,
+      "around_stations": "둔전",
+      "around_count": 1
+    }
+  ],
+  "meta": {
+    "title": "용인경전철 지하철 역 (Everline (Yongin LRT) subway stations) - 무료 다운로드",
+    "description": "용인경전철(Everline (Yongin LRT))의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 15개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Everline (Yongin LRT) stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 15 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "용인경전철 지하철 역 (Everline (Yongin LRT) subway stations) | ListBase",
+    "seo_description": "다운로드 용인경전철 지하철 역 (Everline (Yongin LRT) subway stations) — 15 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 15 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

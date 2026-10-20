@@ -1,0 +1,146 @@
+{
+  "id": "ko-seuki-jang",
+  "name": "대한민국의 스키장 (Ski Resorts of South Korea)",
+  "title": "대한민국의 스키장 (Ski Resorts of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 스키장 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "곤지암리조트",
+      "name_en": "Konjiam Resort",
+      "admin_area_ko": "도척면",
+      "admin_area_en": "Docheok-myeon",
+      "latitude": 37.336944444,
+      "longitude": 127.293611111,
+      "wikidata_id": "Q85973438",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85973438"
+    },
+    {
+      "name_ko": "무주덕유산리조트",
+      "name_en": "Muju Resort",
+      "admin_area_ko": "무주군",
+      "admin_area_en": "Muju County",
+      "latitude": 35.88527778,
+      "longitude": 127.74222222,
+      "wikidata_id": "Q562341",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q562341"
+    },
+    {
+      "name_ko": "보광 휘닉스 파크",
+      "name_en": "Bokwang Phoenix Park",
+      "admin_area_ko": "평창군",
+      "admin_area_en": "Pyeongchang County",
+      "latitude": 37.5798944,
+      "longitude": 128.320203,
+      "wikidata_id": "Q2909263",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2909263"
+    },
+    {
+      "name_ko": "용평리조트",
+      "name_en": "Yongpyong Resort",
+      "admin_area_ko": "대관령면",
+      "admin_area_en": "Daegwallyeong-myeon",
+      "latitude": 37.643,
+      "longitude": 128.682,
+      "wikidata_id": "Q485409",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q485409"
+    },
+    {
+      "name_ko": "웰리힐리파크",
+      "name_en": "Welli Hilli Park",
+      "admin_area_ko": "횡성군",
+      "admin_area_en": "Hoengseong County",
+      "latitude": 37.490555555,
+      "longitude": 128.250555555,
+      "wikidata_id": "Q61099801",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61099801"
+    },
+    {
+      "name_ko": "정선 알파인 활강 경기장",
+      "name_en": "Jeongseon Alpine Centre",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 37.4743667,
+      "longitude": 128.610231,
+      "wikidata_id": "Q3190014",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3190014"
+    },
+    {
+      "name_ko": "평창알펜시아리조트",
+      "name_en": "Pyeongchang Alpensia Resort",
+      "admin_area_ko": "평창군",
+      "admin_area_en": "Pyeongchang County",
+      "latitude": 37.6615917,
+      "longitude": 128.679861,
+      "wikidata_id": "Q498303",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q498303"
+    },
+    {
+      "name_ko": "하이원리조트",
+      "name_en": "High1 Resort",
+      "admin_area_ko": "정선군",
+      "admin_area_en": "Jeongseon County",
+      "latitude": 37.205367,
+      "longitude": 128.839926,
+      "wikidata_id": "Q12622505",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12622505"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 스키장 (Ski Resorts of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 스키장 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 스키장 (Ski Resorts of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 스키장 (Ski Resorts of South Korea) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

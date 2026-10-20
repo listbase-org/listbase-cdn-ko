@@ -1,0 +1,471 @@
+{
+  "id": "ko-munja-bunryu-lebel",
+  "name": "문자 분류 라벨 한국어 명칭 (CLDR)",
+  "title": "문자 분류 라벨 한국어 명칭 (CLDR)",
+  "description": "입력기·문자표 UI에서 쓰이는 CLDR 문자 분류 라벨의 한국어 명칭.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "activities",
+      "ireum": "활동"
+    },
+    {
+      "id": 2,
+      "code": "african_scripts",
+      "ireum": "아프리카 문자"
+    },
+    {
+      "id": 3,
+      "code": "american_scripts",
+      "ireum": "아메리카 문자"
+    },
+    {
+      "id": 4,
+      "code": "animal",
+      "ireum": "동물"
+    },
+    {
+      "id": 5,
+      "code": "animals_nature",
+      "ireum": "동물 및 자연"
+    },
+    {
+      "id": 6,
+      "code": "arrows",
+      "ireum": "화살표"
+    },
+    {
+      "id": 7,
+      "code": "body",
+      "ireum": "신체"
+    },
+    {
+      "id": 8,
+      "code": "box_drawing",
+      "ireum": "상자 그림"
+    },
+    {
+      "id": 9,
+      "code": "braille",
+      "ireum": "점자"
+    },
+    {
+      "id": 10,
+      "code": "building",
+      "ireum": "건물"
+    },
+    {
+      "id": 11,
+      "code": "bullets_stars",
+      "ireum": "구분점/별"
+    },
+    {
+      "id": 12,
+      "code": "consonantal_jamo",
+      "ireum": "자음 자모"
+    },
+    {
+      "id": 13,
+      "code": "currency_symbols",
+      "ireum": "통화 기호"
+    },
+    {
+      "id": 14,
+      "code": "dash_connector",
+      "ireum": "대시/연결어"
+    },
+    {
+      "id": 15,
+      "code": "digits",
+      "ireum": "숫자"
+    },
+    {
+      "id": 16,
+      "code": "dingbats",
+      "ireum": "딩벳"
+    },
+    {
+      "id": 17,
+      "code": "divination_symbols",
+      "ireum": "점성 기호"
+    },
+    {
+      "id": 18,
+      "code": "downwards_arrows",
+      "ireum": "아래쪽 방향 화살표"
+    },
+    {
+      "id": 19,
+      "code": "downwards_upwards_arrows",
+      "ireum": "상하 양방향 화살표"
+    },
+    {
+      "id": 20,
+      "code": "east_asian_scripts",
+      "ireum": "동아시아 문자"
+    },
+    {
+      "id": 21,
+      "code": "emoji",
+      "ireum": "이모티콘"
+    },
+    {
+      "id": 22,
+      "code": "european_scripts",
+      "ireum": "유럽 문자"
+    },
+    {
+      "id": 23,
+      "code": "female",
+      "ireum": "여성"
+    },
+    {
+      "id": 24,
+      "code": "flag",
+      "ireum": "깃발"
+    },
+    {
+      "id": 25,
+      "code": "flags",
+      "ireum": "깃발"
+    },
+    {
+      "id": 26,
+      "code": "food_drink",
+      "ireum": "식음료"
+    },
+    {
+      "id": 27,
+      "code": "format",
+      "ireum": "포맷"
+    },
+    {
+      "id": 28,
+      "code": "format_whitespace",
+      "ireum": "포맷 및 공백"
+    },
+    {
+      "id": 29,
+      "code": "full_width_form_variant",
+      "ireum": "전각 형식 변형"
+    },
+    {
+      "id": 30,
+      "code": "geometric_shapes",
+      "ireum": "도형 모양"
+    },
+    {
+      "id": 31,
+      "code": "half_width_form_variant",
+      "ireum": "반각 형식 변형"
+    },
+    {
+      "id": 32,
+      "code": "han_characters",
+      "ireum": "한자"
+    },
+    {
+      "id": 33,
+      "code": "han_radicals",
+      "ireum": "한자 부수"
+    },
+    {
+      "id": 34,
+      "code": "hanja",
+      "ireum": "한자"
+    },
+    {
+      "id": 35,
+      "code": "hanzi_simplified",
+      "ireum": "한자(간체)"
+    },
+    {
+      "id": 36,
+      "code": "hanzi_traditional",
+      "ireum": "한자(번체)"
+    },
+    {
+      "id": 37,
+      "code": "heart",
+      "ireum": "하트"
+    },
+    {
+      "id": 38,
+      "code": "historic_scripts",
+      "ireum": "고전 문자"
+    },
+    {
+      "id": 39,
+      "code": "ideographic_desc_characters",
+      "ireum": "상형 설명 문자"
+    },
+    {
+      "id": 40,
+      "code": "japanese_kana",
+      "ireum": "일본어 가나"
+    },
+    {
+      "id": 41,
+      "code": "kanbun",
+      "ireum": "간분"
+    },
+    {
+      "id": 42,
+      "code": "kanji",
+      "ireum": "간지"
+    },
+    {
+      "id": 43,
+      "code": "keycap",
+      "ireum": "키 캡"
+    },
+    {
+      "id": 44,
+      "code": "leftwards_arrows",
+      "ireum": "왼쪽 방향 화살표"
+    },
+    {
+      "id": 45,
+      "code": "leftwards_rightwards_arrows",
+      "ireum": "양방향 화살표"
+    },
+    {
+      "id": 46,
+      "code": "letterlike_symbols",
+      "ireum": "문자형 기호"
+    },
+    {
+      "id": 47,
+      "code": "limited_use",
+      "ireum": "제한적 사용"
+    },
+    {
+      "id": 48,
+      "code": "male",
+      "ireum": "남성"
+    },
+    {
+      "id": 49,
+      "code": "math_symbols",
+      "ireum": "수학 기호"
+    },
+    {
+      "id": 50,
+      "code": "middle_eastern_scripts",
+      "ireum": "중동 문자"
+    },
+    {
+      "id": 51,
+      "code": "miscellaneous",
+      "ireum": "기타"
+    },
+    {
+      "id": 52,
+      "code": "modern_scripts",
+      "ireum": "근대 문자"
+    },
+    {
+      "id": 53,
+      "code": "modifier",
+      "ireum": "수식어"
+    },
+    {
+      "id": 54,
+      "code": "musical_symbols",
+      "ireum": "음악 기호"
+    },
+    {
+      "id": 55,
+      "code": "nature",
+      "ireum": "자연"
+    },
+    {
+      "id": 56,
+      "code": "nonspacing",
+      "ireum": "공백 없음"
+    },
+    {
+      "id": 57,
+      "code": "numbers",
+      "ireum": "숫자"
+    },
+    {
+      "id": 58,
+      "code": "objects",
+      "ireum": "사물"
+    },
+    {
+      "id": 59,
+      "code": "other",
+      "ireum": "기타"
+    },
+    {
+      "id": 60,
+      "code": "paired",
+      "ireum": "쌍 기호"
+    },
+    {
+      "id": 61,
+      "code": "person",
+      "ireum": "인물"
+    },
+    {
+      "id": 62,
+      "code": "phonetic_alphabet",
+      "ireum": "음성 기호 알파벳"
+    },
+    {
+      "id": 63,
+      "code": "pictographs",
+      "ireum": "그림 문자"
+    },
+    {
+      "id": 64,
+      "code": "place",
+      "ireum": "장소"
+    },
+    {
+      "id": 65,
+      "code": "plant",
+      "ireum": "식물"
+    },
+    {
+      "id": 66,
+      "code": "punctuation",
+      "ireum": "구두점"
+    },
+    {
+      "id": 67,
+      "code": "rightwards_arrows",
+      "ireum": "오른쪽 방향 화살표"
+    },
+    {
+      "id": 68,
+      "code": "sign_standard_symbols",
+      "ireum": "상징/표준 기호"
+    },
+    {
+      "id": 69,
+      "code": "small_form_variant",
+      "ireum": "작은 부호 변형"
+    },
+    {
+      "id": 70,
+      "code": "smiley",
+      "ireum": "스마일리"
+    },
+    {
+      "id": 71,
+      "code": "smileys_people",
+      "ireum": "스마일리 및 사람"
+    },
+    {
+      "id": 72,
+      "code": "south_asian_scripts",
+      "ireum": "남아시아 문자"
+    },
+    {
+      "id": 73,
+      "code": "southeast_asian_scripts",
+      "ireum": "동남아시아 문자"
+    },
+    {
+      "id": 74,
+      "code": "spacing",
+      "ireum": "간격"
+    },
+    {
+      "id": 75,
+      "code": "sport",
+      "ireum": "스포츠"
+    },
+    {
+      "id": 76,
+      "code": "symbols",
+      "ireum": "기호"
+    },
+    {
+      "id": 77,
+      "code": "technical_symbols",
+      "ireum": "기술 기호"
+    },
+    {
+      "id": 78,
+      "code": "tone_marks",
+      "ireum": "성조 표시"
+    },
+    {
+      "id": 79,
+      "code": "travel",
+      "ireum": "여행"
+    },
+    {
+      "id": 80,
+      "code": "travel_places",
+      "ireum": "여행 및 장소"
+    },
+    {
+      "id": 81,
+      "code": "upwards_arrows",
+      "ireum": "위쪽 방향 화살표"
+    },
+    {
+      "id": 82,
+      "code": "variant_forms",
+      "ireum": "부호 변형"
+    },
+    {
+      "id": 83,
+      "code": "vocalic_jamo",
+      "ireum": "모음 자모"
+    },
+    {
+      "id": 84,
+      "code": "weather",
+      "ireum": "날씨"
+    },
+    {
+      "id": 85,
+      "code": "western_asian_scripts",
+      "ireum": "동서양 문자"
+    },
+    {
+      "id": 86,
+      "code": "whitespace",
+      "ireum": "공백"
+    }
+  ],
+  "meta": {
+    "title": "문자 분류 라벨 한국어 명칭 (CLDR) - 무료 다운로드",
+    "description": "입력기·문자표 UI에서 쓰이는 CLDR 문자 분류 라벨의 한국어 명칭. 포함 86 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "문자 분류 라벨 한국어 명칭 (CLDR) | ListBase",
+    "seo_description": "다운로드 문자 분류 라벨 한국어 명칭 (CLDR) — 86 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 86 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

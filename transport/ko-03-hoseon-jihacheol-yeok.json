@@ -1,0 +1,555 @@
+{
+  "id": "ko-03-hoseon-jihacheol-yeok",
+  "name": "03호선 지하철 역 (Line 3 subway stations)",
+  "title": "03호선 지하철 역 (Line 3 subway stations)",
+  "description": "03호선(Line 3)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 44개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 3 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "종로3가",
+      "name_romanized": "jongno-3-ga",
+      "lines": "01호선, 03호선, 05호선",
+      "lines_en": "Line 1, Line 3, Line 5",
+      "lines_count": 3,
+      "latitude": 37.571607,
+      "longitude": 126.991806,
+      "around_stations": "광화문, 을지로4가, 종각, 종로5가, 안국, 을지로3가",
+      "around_count": 6
+    },
+    {
+      "name": "교대",
+      "name_romanized": "",
+      "lines": "02호선, 03호선",
+      "lines_en": "Line 2, Line 3",
+      "lines_count": 2,
+      "latitude": 37.493415,
+      "longitude": 127.01408,
+      "around_stations": "고속터미널, 남부터미널, 서초, 강남",
+      "around_count": 4
+    },
+    {
+      "name": "을지로3가",
+      "name_romanized": "",
+      "lines": "02호선, 03호선",
+      "lines_en": "Line 2, Line 3",
+      "lines_count": 2,
+      "latitude": 37.566295,
+      "longitude": 126.99191,
+      "around_stations": "종로3가, 충무로, 을지로입구, 을지로4가",
+      "around_count": 4
+    },
+    {
+      "name": "양재",
+      "name_romanized": "",
+      "lines": "03호선, 신분당선",
+      "lines_en": "Line 3, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.484147,
+      "longitude": 127.034631,
+      "around_stations": "남부터미널, 매봉, 강남, 양재시민의숲",
+      "around_count": 4
+    },
+    {
+      "name": "매봉",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.486947,
+      "longitude": 127.046769,
+      "around_stations": "양재, 도곡",
+      "around_count": 2
+    },
+    {
+      "name": "도곡",
+      "name_romanized": "",
+      "lines": "03호선, 수인분당선",
+      "lines_en": "Line 3, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.490858,
+      "longitude": 127.055381,
+      "around_stations": "구룡, 한티, 매봉, 대치",
+      "around_count": 4
+    },
+    {
+      "name": "대치",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.494612,
+      "longitude": 127.063642,
+      "around_stations": "도곡, 학여울",
+      "around_count": 2
+    },
+    {
+      "name": "학여울",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.496663,
+      "longitude": 127.070594,
+      "around_stations": "대치, 대청",
+      "around_count": 2
+    },
+    {
+      "name": "대청",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.493514,
+      "longitude": 127.079532,
+      "around_stations": "학여울, 일원",
+      "around_count": 2
+    },
+    {
+      "name": "일원",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.483681,
+      "longitude": 127.08439,
+      "around_stations": "대청, 수서",
+      "around_count": 2
+    },
+    {
+      "name": "수서",
+      "name_romanized": "",
+      "lines": "03호선, 수인분당선",
+      "lines_en": "Line 3, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.487371,
+      "longitude": 127.10188,
+      "around_stations": "복정, 대모산입구, 일원, 가락시장",
+      "around_count": 4
+    },
+    {
+      "name": "동대입구",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.559052,
+      "longitude": 127.005602,
+      "around_stations": "충무로, 약수",
+      "around_count": 2
+    },
+    {
+      "name": "금호",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.548034,
+      "longitude": 127.015872,
+      "around_stations": "약수, 옥수",
+      "around_count": 2
+    },
+    {
+      "name": "옥수",
+      "name_romanized": "",
+      "lines": "03호선, 경의선",
+      "lines_en": "Line 3, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.540685,
+      "longitude": 127.017965,
+      "around_stations": "금호, 압구정, 한남, 응봉",
+      "around_count": 4
+    },
+    {
+      "name": "압구정",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.527072,
+      "longitude": 127.028461,
+      "around_stations": "옥수, 신사",
+      "around_count": 2
+    },
+    {
+      "name": "신사",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.516334,
+      "longitude": 127.020114,
+      "around_stations": "압구정, 잠원",
+      "around_count": 2
+    },
+    {
+      "name": "잠원",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.512759,
+      "longitude": 127.01122,
+      "around_stations": "신사, 고속터미널",
+      "around_count": 2
+    },
+    {
+      "name": "고속터미널",
+      "name_romanized": "",
+      "lines": "03호선, 07호선, 09호선",
+      "lines_en": "Line 3, Line 7, Line 9",
+      "lines_count": 3,
+      "latitude": 37.50481,
+      "longitude": 127.004943,
+      "around_stations": "잠원, 교대, 반포, 내방, 신반포, 사평",
+      "around_count": 6
+    },
+    {
+      "name": "남부터미널",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.485013,
+      "longitude": 127.016189,
+      "around_stations": "교대, 양재",
+      "around_count": 2
+    },
+    {
+      "name": "경복궁",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.575762,
+      "longitude": 126.97353,
+      "around_stations": "독립문, 안국",
+      "around_count": 2
+    },
+    {
+      "name": "안국",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.576477,
+      "longitude": 126.985443,
+      "around_stations": "경복궁, 종로3가",
+      "around_count": 2
+    },
+    {
+      "name": "지축",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.648048,
+      "longitude": 126.913951,
+      "around_stations": "삼송, 구파발",
+      "around_count": 2
+    },
+    {
+      "name": "구파발",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.636763,
+      "longitude": 126.918821,
+      "around_stations": "지축, 연신내",
+      "around_count": 2
+    },
+    {
+      "name": "연신내",
+      "name_romanized": "",
+      "lines": "03호선, 06호선",
+      "lines_en": "Line 3, Line 6",
+      "lines_count": 2,
+      "latitude": 37.619001,
+      "longitude": 126.921008,
+      "around_stations": "구파발, 불광, 독바위, 구산",
+      "around_count": 4
+    },
+    {
+      "name": "불광",
+      "name_romanized": "",
+      "lines": "03호선, 06호선",
+      "lines_en": "Line 3, Line 6",
+      "lines_count": 2,
+      "latitude": 37.610469,
+      "longitude": 126.929887,
+      "around_stations": "연신내, 녹번, 독바위, 역촌",
+      "around_count": 4
+    },
+    {
+      "name": "녹번",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.600927,
+      "longitude": 126.935756,
+      "around_stations": "불광, 홍제",
+      "around_count": 2
+    },
+    {
+      "name": "홍제",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.589066,
+      "longitude": 126.943736,
+      "around_stations": "녹번, 무악재",
+      "around_count": 2
+    },
+    {
+      "name": "무악재",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.582299,
+      "longitude": 126.950291,
+      "around_stations": "홍제, 독립문",
+      "around_count": 2
+    },
+    {
+      "name": "독립문",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.574571,
+      "longitude": 126.957748,
+      "around_stations": "무악재, 경복궁",
+      "around_count": 2
+    },
+    {
+      "name": "가락시장",
+      "name_romanized": "",
+      "lines": "03호선, 08호선",
+      "lines_en": "Line 3, Line 8",
+      "lines_count": 2,
+      "latitude": 37.492522,
+      "longitude": 127.118234,
+      "around_stations": "수서, 경찰병원, 송파, 문정",
+      "around_count": 4
+    },
+    {
+      "name": "경찰병원",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.495918,
+      "longitude": 127.12454,
+      "around_stations": "가락시장, 오금",
+      "around_count": 2
+    },
+    {
+      "name": "오금",
+      "name_romanized": "",
+      "lines": "03호선, 05호선",
+      "lines_en": "Line 3, Line 5",
+      "lines_count": 2,
+      "latitude": 37.502162,
+      "longitude": 127.128111,
+      "around_stations": "방이, 개롱, 경찰병원",
+      "around_count": 3
+    },
+    {
+      "name": "원당",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.653324,
+      "longitude": 126.843041,
+      "around_stations": "화정, 원흥",
+      "around_count": 2
+    },
+    {
+      "name": "대곡",
+      "name_romanized": "",
+      "lines": "03호선, 경의선",
+      "lines_en": "Line 3, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.631626,
+      "longitude": 126.811024,
+      "around_stations": "곡산, 능곡, 백석, 화정",
+      "around_count": 4
+    },
+    {
+      "name": "백석",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.643114,
+      "longitude": 126.78787,
+      "around_stations": "마두, 대곡",
+      "around_count": 2
+    },
+    {
+      "name": "마두",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.652206,
+      "longitude": 126.77762,
+      "around_stations": "정발산, 백석",
+      "around_count": 2
+    },
+    {
+      "name": "정발산",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.659477,
+      "longitude": 126.773359,
+      "around_stations": "주엽, 마두",
+      "around_count": 2
+    },
+    {
+      "name": "주엽",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.670072,
+      "longitude": 126.761334,
+      "around_stations": "대화, 정발산",
+      "around_count": 2
+    },
+    {
+      "name": "대화",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.676087,
+      "longitude": 126.747569,
+      "around_stations": "주엽",
+      "around_count": 1
+    },
+    {
+      "name": "원흥",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.650658,
+      "longitude": 126.872642,
+      "around_stations": "원당, 삼송",
+      "around_count": 2
+    },
+    {
+      "name": "삼송",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.653083,
+      "longitude": 126.895558,
+      "around_stations": "원흥, 지축",
+      "around_count": 2
+    },
+    {
+      "name": "약수",
+      "name_romanized": "",
+      "lines": "03호선, 06호선",
+      "lines_en": "Line 3, Line 6",
+      "lines_count": 2,
+      "latitude": 37.55434,
+      "longitude": 127.010655,
+      "around_stations": "동대입구, 금호, 버티고개, 청구",
+      "around_count": 4
+    },
+    {
+      "name": "충무로",
+      "name_romanized": "",
+      "lines": "03호선, 04호선",
+      "lines_en": "Line 3, Line 4",
+      "lines_count": 2,
+      "latitude": 37.561243,
+      "longitude": 126.99428,
+      "around_stations": "을지로3가, 동대입구, 동대문역사문화공원, 명동",
+      "around_count": 4
+    },
+    {
+      "name": "화정",
+      "name_romanized": "",
+      "lines": "03호선",
+      "lines_en": "Line 3",
+      "lines_count": 1,
+      "latitude": 37.634592,
+      "longitude": 126.83265,
+      "around_stations": "대곡, 원당",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "03호선 지하철 역 (Line 3 subway stations) - 무료 다운로드",
+    "description": "03호선(Line 3)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 44개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 3 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 44 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "03호선 지하철 역 (Line 3 subway stations) | ListBase",
+    "seo_description": "다운로드 03호선 지하철 역 (Line 3 subway stations) — 44 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 44 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

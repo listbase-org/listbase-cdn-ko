@@ -1,0 +1,146 @@
+{
+  "id": "ko-gundo",
+  "name": "대한민국의 군도·제도 (Archipelagos of South Korea)",
+  "title": "대한민국의 군도·제도 (Archipelagos of South Korea)",
+  "description": "대한민국에 위치한 군도·제도 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q125704490",
+      "name_ko": "나주군도",
+      "name_en": "Naju Archipelago",
+      "located_in_at": "신안군",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q55729152",
+      "name_ko": "덕적군도",
+      "name_en": "Deokjeok islands",
+      "located_in_at": "옹진군",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8D%95%EC%A0%81%EA%B5%B0%EB%8F%84"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q20317",
+      "name_ko": "독도",
+      "name_en": "Liancourt Rocks",
+      "located_in_at": "독도리",
+      "latitude": 37.241667,
+      "longitude": 131.866667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8F%85%EB%8F%84"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12597742",
+      "name_ko": "백도 (섬)",
+      "name_en": "Baekdo",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%8F%84_(%EC%97%AC%EC%88%98%EC%8B%9C)"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q22974041",
+      "name_ko": "사량도",
+      "name_en": "Saryangdo",
+      "located_in_at": "경상남도",
+      "latitude": 34.825556,
+      "longitude": 128.205278,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%9F%89%EB%8F%84"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q7210939",
+      "name_ko": "서해 5도",
+      "name_en": "Five West Sea Islands",
+      "located_in_at": "인천광역시",
+      "latitude": 37.69012,
+      "longitude": 126.32841,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%9C%ED%95%B4_5%EB%8F%84"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q16184912",
+      "name_ko": "좌사리도",
+      "name_en": "Jwasari Islands",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A2%8C%EC%82%AC%EB%A6%AC%EB%8F%84"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q16185064",
+      "name_ko": "흑산군도",
+      "name_en": "Heuksan Islands",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%9D%91%EC%82%B0%EA%B5%B0%EB%8F%84"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 군도·제도 (Archipelagos of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 군도·제도 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 군도·제도 (Archipelagos of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 군도·제도 (Archipelagos of South Korea) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

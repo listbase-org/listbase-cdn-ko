@@ -1,0 +1,126 @@
+{
+  "id": "ko-teoneol",
+  "name": "대한민국의 터널 (Tunnels of South Korea)",
+  "title": "대한민국의 터널 (Tunnels of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 터널 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "난곡터널",
+      "name_en": "Nangok Tunnel",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.478626,
+      "longitude": 126.922039,
+      "wikidata_id": "Q16169083",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16169083"
+    },
+    {
+      "name_ko": "가지산터널",
+      "name_en": "Gajisan Tunnel",
+      "admin_area_ko": "밀양시",
+      "admin_area_en": "Miryang",
+      "latitude": 35.5925,
+      "longitude": 129.020278,
+      "wikidata_id": "Q12582484",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12582484"
+    },
+    {
+      "name_ko": "북악터널",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.611859,
+      "longitude": 126.984777,
+      "wikidata_id": "Q12599090",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599090"
+    },
+    {
+      "name_ko": "사직터널",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.573509,
+      "longitude": 126.964992,
+      "wikidata_id": "Q12599861",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599861"
+    },
+    {
+      "name_ko": "광암터널",
+      "name_en": "Gwangam Tunnel",
+      "admin_area_ko": "하남시",
+      "admin_area_en": "Hanam",
+      "latitude": 37.516944,
+      "longitude": 127.179167,
+      "wikidata_id": "Q27305051",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27305051"
+    },
+    {
+      "name_ko": "남산1호터널",
+      "name_en": "Namsan 1 tunnel",
+      "admin_area_ko": "한남동",
+      "admin_area_en": "Hannam-dong",
+      "latitude": 37.55,
+      "longitude": 126.996528,
+      "wikidata_id": "Q10856069",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10856069"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 터널 (Tunnels of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 터널 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 6 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 터널 (Tunnels of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 터널 (Tunnels of South Korea) — 6 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 6 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

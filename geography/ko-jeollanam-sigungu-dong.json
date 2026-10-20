@@ -1,0 +1,2141 @@
+{
+  "id": "ko-jeollanam-sigungu-dong",
+  "name": "Jeollanam 시군구·동읍면 — Jeollanam Districts & Neighborhoods",
+  "title": "Jeollanam 시군구·동읍면 — Jeollanam Districts & Neighborhoods",
+  "description": "Jeollanam (전라남도) — 시군구 및 동·읍·면 행정 지명 목록 420건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Jeollanam 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 420,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "군서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "금정면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "덕진면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "도포면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "미암면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "삼호읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "서호면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "시종면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "신북면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "영암읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영암군",
+      "dong_eup_myeon": "학산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "나산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "대동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "손불면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "신광면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "엄다면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "월야면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "학교면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "함평읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "함평군",
+      "dong_eup_myeon": "해보면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "간전면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "광의면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "구례읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "마산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "문척면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "산동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "용방면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "구례군",
+      "dong_eup_myeon": "토지면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "고군면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "군내면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "의신면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "임회면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "조도면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "지산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "진도군",
+      "dong_eup_myeon": "진도읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "관산읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "대덕읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "부산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "안양면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "용산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "유치면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "장동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "장평면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "장흥읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장흥군",
+      "dong_eup_myeon": "회진면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "경현동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "공산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "과원동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "관정동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "금계동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "금성동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "금천면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "남내동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "남외동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "남평읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "노안면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "다도면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "다시면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "대기동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "대호동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "동강면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "동수동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "문평면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "반남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "보산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "봉황면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "부덕동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "산정동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "산포면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "삼도동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "삼영동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "서내동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "석현동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "세지면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "송월동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "송촌동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "안창동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "영산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "오량동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "왕곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "운곡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "이창동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "진포동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "청동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "토계동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "나주시",
+      "dong_eup_myeon": "평산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "계곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "마산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "문내면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "북일면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "북평면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "산이면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "삼산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "송지면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "옥천면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "해남읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "현산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "화산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "화원면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "해남군",
+      "dong_eup_myeon": "황산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "고서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "금성면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "담양읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "대덕면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "대전면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "무정면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "봉산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "수북면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "용면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "월산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "담양군",
+      "dong_eup_myeon": "창평면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "고금면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "군외면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "금당면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "금일읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "노화읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "보길면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "생일면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "소안면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "신지면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "약산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "완도읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "완도군",
+      "dong_eup_myeon": "청산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "경호동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "고소동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "공화동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "관문동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "광무동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "국동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "군자동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "낙포동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "남산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "덕충동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "돌산읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "둔덕동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "만흥동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "묘도동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "문수동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "미평동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "봉강동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "봉계동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "봉산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "삼산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "상암동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "서교동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "선원동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "소라면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "소호동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "수정동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "시전동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "신기동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "신덕동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "안산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "여서동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "여천동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "연등동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "오림동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "오천동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "웅천동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "월내동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "월하동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "율촌면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "적량동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "종화동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "주삼동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "중흥동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "충무동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "평여동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "학동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "학용동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "해산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "호명동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "화양면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "화장동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "화정면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "여수시",
+      "dong_eup_myeon": "화치동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "군남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "군서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "낙월면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "대마면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "묘량면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "백수읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "법성면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "불갑면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "염산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "영광읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "영광군",
+      "dong_eup_myeon": "홍농읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "능주면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "도곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "도암면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "동복면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "이서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "이양면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "청풍면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "춘양면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "한천면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "화순군",
+      "dong_eup_myeon": "화순읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "겸백면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "노동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "득량면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "문덕면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "미력면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "벌교읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "보성읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "복내면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "웅치면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "율어면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "조성면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "보성군",
+      "dong_eup_myeon": "회천면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "광양읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "광영동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "금호동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "다압면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "도이동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "마동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "봉강면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "성황동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "옥곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "옥룡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "중군동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "진상면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "진월면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "태인동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "황금동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "광양시",
+      "dong_eup_myeon": "황길동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "망운면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "몽탄면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "무안읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "삼향읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "운남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "일로읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "청계면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "해제면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "무안군",
+      "dong_eup_myeon": "현경면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "동화면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "북이면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "북일면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "북하면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "삼계면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "삼서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "서삼면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "장성읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "진원면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "장성군",
+      "dong_eup_myeon": "황룡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "강진읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "군동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "대구면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "도암면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "마량면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "병영면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "성전면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "신전면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "옴천면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "작천면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "강진군",
+      "dong_eup_myeon": "칠량면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "고흥읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "과역면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "금산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "남양면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "대서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "도덕면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "도양읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "도화면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "동강면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "동일면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "두원면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "봉래면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "영남면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "점암면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "포두면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "고흥군",
+      "dong_eup_myeon": "풍양면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "경동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "경동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "광동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "광동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "광동3가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "금동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "금동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "금화동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "남교동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "달동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "대성동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "대안동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "대양동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "대의동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "대의동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "대의동3가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "동명동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "만호동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "명륜동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "무안동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "보광동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "보광동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "보광동3가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "복만동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "북교동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "산정동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "상동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "상락동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "상락동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "서산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "석현동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "수강동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "수강동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "양동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "연산동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "영해동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "영해동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "옥암동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "온금동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "용당동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "용해동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "유달동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "유동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "율도동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "죽교동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "죽동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "중동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "중동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "창평동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "축복동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "축복동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "축복동3가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "측후동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "항동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "해안동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "해안동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "해안동3가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "해안동4가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "행복동1가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "행복동2가"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "목포시",
+      "dong_eup_myeon": "호남동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "겸면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "고달면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "곡성읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "목사동면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "삼기면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "석곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "오곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "오산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "옥과면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "입면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "곡성군",
+      "dong_eup_myeon": "죽곡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "가곡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "교량동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "낙안면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "남내동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "남정동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "대대동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "대룡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "덕암동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "덕월동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "동외동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "매곡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "별량면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "삼거동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "상사면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "생목동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "석현동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "송광면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "승주읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "안풍동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "야흥동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "연향동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "영동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "오천동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "옥천동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "와룡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "왕지동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "외서면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "용당동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "월등면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "인월동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "인제동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "장천동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "저전동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "조곡동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "조례동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "주암면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "풍덕동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "해룡면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "행동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "홍내동"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "순천시",
+      "dong_eup_myeon": "황전면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "도초면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "비금면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "신의면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "안좌면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "암태면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "압해읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "임자면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "자은면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "장산면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "증도면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "지도읍"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "팔금면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "하의면"
+    },
+    {
+      "sido": "전라남도",
+      "sigungu": "신안군",
+      "dong_eup_myeon": "흑산면"
+    }
+  ],
+  "meta": {
+    "title": "Jeollanam 시군구·동읍면 — Jeollanam Districts & Neighborhoods - 무료 다운로드",
+    "description": "Jeollanam (전라남도) — 시군구 및 동·읍·면 행정 지명 목록 420건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Jeollanam 편. 필드: sido, sigungu, dong_eup_myeon. 포함 420 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Jeollanam 시군구·동읍면 — Jeollanam Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Jeollanam 시군구·동읍면 — Jeollanam Districts & Neighborhoods — 420 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 420 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

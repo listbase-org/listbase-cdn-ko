@@ -1,0 +1,144 @@
+{
+  "id": "ko-sigandae-antarctica",
+  "name": "남극 시간대 (11)",
+  "title": "남극 시간대 (11)",
+  "description": "IANA tz 식별자가 'Antarctica/'로 시작하는 시간대의 한국어 명칭 목록.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Antarctica/Casey",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "케이시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Antarctica/Davis",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "데이비스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Antarctica/DumontDUrville",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "뒤몽 뒤르빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Antarctica/Macquarie",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "맥쿼리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Antarctica/Mawson",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "모슨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Antarctica/McMurdo",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "맥머도",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Antarctica/Palmer",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "파머",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Antarctica/Rothera",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "로데라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Antarctica/Syowa",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "쇼와",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Antarctica/Troll",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "트롤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Antarctica/Vostok",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "보스토크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "남극 시간대 (11) - 무료 다운로드",
+    "description": "IANA tz 식별자가 'Antarctica/'로 시작하는 시간대의 한국어 명칭 목록. 포함 11 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "남극 시간대 (11) | ListBase",
+    "seo_description": "다운로드 남극 시간대 (11) — 11 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 11 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

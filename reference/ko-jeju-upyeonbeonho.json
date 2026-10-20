@@ -1,0 +1,4381 @@
+{
+  "id": "ko-jeju-upyeonbeonho",
+  "name": "Jeju 우편번호 (구 6자리) — Jeju Postal Codes (legacy 6-digit)",
+  "title": "Jeju 우편번호 (구 6자리) — Jeju Postal Codes (legacy 6-digit)",
+  "description": "Jeju (제주) — Legacy 6-digit South Korean postal codes (구 우편번호) at submunicipal (동/리) level, with native Korean addresses and geographic coordinates. Source: Korea Data Hub National Postcode (2012-05); coordinates via Daum Local API. These 6-digit codes were superseded by the current 5-digit system in August 2015 and are retained here as a historical reference dataset.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 480,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sido_en",
+      "label": "Sido En",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "sub_address",
+      "label": "Sub Address",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "697829",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 강정동",
+      "sub_address": "서귀포시 강정동",
+      "latitude": 33.26492,
+      "longitude": 126.495792
+    },
+    {
+      "postal_code": "697370",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 강정동",
+      "sub_address": "서귀포시 강정동",
+      "latitude": 33.26492,
+      "longitude": 126.495792
+    },
+    {
+      "postal_code": "697826",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 강정동",
+      "sub_address": "서귀포시 강정동",
+      "latitude": 33.26492,
+      "longitude": 126.495792
+    },
+    {
+      "postal_code": "697827",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 강정동",
+      "sub_address": "서귀포시 강정동",
+      "latitude": 33.26492,
+      "longitude": 126.495792
+    },
+    {
+      "postal_code": "697828",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 강정동",
+      "sub_address": "서귀포시 강정동",
+      "latitude": 33.26492,
+      "longitude": 126.495792
+    },
+    {
+      "postal_code": "697370",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 강정동",
+      "sub_address": "서귀포시 강정동",
+      "latitude": 33.26492,
+      "longitude": 126.495792
+    },
+    {
+      "postal_code": "699941",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 남원리",
+      "sub_address": "서귀포시 남원읍 남원리",
+      "latitude": 33.286169,
+      "longitude": 126.70745
+    },
+    {
+      "postal_code": "699949",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 수망리",
+      "sub_address": "서귀포시 남원읍 수망리",
+      "latitude": 33.336523,
+      "longitude": 126.710233
+    },
+    {
+      "postal_code": "699943",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 신례리",
+      "sub_address": "서귀포시 남원읍 신례리",
+      "latitude": 33.339659,
+      "longitude": 126.620155
+    },
+    {
+      "postal_code": "699947",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 신흥리",
+      "sub_address": "서귀포시 남원읍 신흥리",
+      "latitude": 33.320383,
+      "longitude": 126.751282
+    },
+    {
+      "postal_code": "699944",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 위미리",
+      "sub_address": "서귀포시 남원읍 위미리",
+      "latitude": 33.284949,
+      "longitude": 126.653701
+    },
+    {
+      "postal_code": "699942",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 의귀리",
+      "sub_address": "서귀포시 남원읍 의귀리",
+      "latitude": 33.309638,
+      "longitude": 126.718698
+    },
+    {
+      "postal_code": "699945",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 태흥리",
+      "sub_address": "서귀포시 남원읍 태흥리",
+      "latitude": 33.29014,
+      "longitude": 126.741585
+    },
+    {
+      "postal_code": "699946",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 하례리",
+      "sub_address": "서귀포시 남원읍 하례리",
+      "latitude": 33.282782,
+      "longitude": 126.619242
+    },
+    {
+      "postal_code": "699948",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍 한남리",
+      "sub_address": "서귀포시 남원읍 한남리",
+      "latitude": 33.313443,
+      "longitude": 126.68851
+    },
+    {
+      "postal_code": "699940",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 남원읍",
+      "sub_address": "서귀포시 남원읍",
+      "latitude": 33.279906,
+      "longitude": 126.720661
+    },
+    {
+      "postal_code": "699936",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 가파리",
+      "sub_address": "서귀포시 대정읍 가파리",
+      "latitude": 33.169732,
+      "longitude": 126.271294
+    },
+    {
+      "postal_code": "699937",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 가파리",
+      "sub_address": "서귀포시 대정읍 가파리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "699931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 구억리",
+      "sub_address": "서귀포시 대정읍 구억리",
+      "latitude": 33.259416,
+      "longitude": 126.271095
+    },
+    {
+      "postal_code": "699932",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 동일리",
+      "sub_address": "서귀포시 대정읍 동일리",
+      "latitude": 33.243507,
+      "longitude": 126.231321
+    },
+    {
+      "postal_code": "699937",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 마라리",
+      "sub_address": "서귀포시 대정읍 마라리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "699933",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 무릉리",
+      "sub_address": "서귀포시 대정읍 무릉리",
+      "latitude": 33.282193,
+      "longitude": 126.189934
+    },
+    {
+      "postal_code": "699931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 보성리",
+      "sub_address": "서귀포시 대정읍 보성리",
+      "latitude": 33.259416,
+      "longitude": 126.271095
+    },
+    {
+      "postal_code": "699934",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 상모리",
+      "sub_address": "서귀포시 대정읍 상모리",
+      "latitude": 33.22234,
+      "longitude": 126.272656
+    },
+    {
+      "postal_code": "699933",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 신도리",
+      "sub_address": "서귀포시 대정읍 신도리",
+      "latitude": 33.282193,
+      "longitude": 126.189934
+    },
+    {
+      "postal_code": "699931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 신평리",
+      "sub_address": "서귀포시 대정읍 신평리",
+      "latitude": 33.259416,
+      "longitude": 126.271095
+    },
+    {
+      "postal_code": "699931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 안성리",
+      "sub_address": "서귀포시 대정읍 안성리",
+      "latitude": 33.259416,
+      "longitude": 126.271095
+    },
+    {
+      "postal_code": "699932",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 영락리",
+      "sub_address": "서귀포시 대정읍 영락리",
+      "latitude": 33.243507,
+      "longitude": 126.231321
+    },
+    {
+      "postal_code": "699931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 인성리",
+      "sub_address": "서귀포시 대정읍 인성리",
+      "latitude": 33.259416,
+      "longitude": 126.271095
+    },
+    {
+      "postal_code": "699932",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 일과리",
+      "sub_address": "서귀포시 대정읍 일과리",
+      "latitude": 33.243507,
+      "longitude": 126.231321
+    },
+    {
+      "postal_code": "699935",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 하모리",
+      "sub_address": "서귀포시 대정읍 하모리",
+      "latitude": 33.222619,
+      "longitude": 126.253937
+    },
+    {
+      "postal_code": "699702",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍 하모리",
+      "sub_address": "서귀포시 대정읍 하모리",
+      "latitude": 33.222619,
+      "longitude": 126.253937
+    },
+    {
+      "postal_code": "699930",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대정읍",
+      "sub_address": "서귀포시 대정읍",
+      "latitude": 33.226846,
+      "longitude": 126.25215
+    },
+    {
+      "postal_code": "697830",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대포동",
+      "sub_address": "서귀포시 대포동",
+      "latitude": 33.302606,
+      "longitude": 126.454452
+    },
+    {
+      "postal_code": "697831",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대포동",
+      "sub_address": "서귀포시 대포동",
+      "latitude": 33.302606,
+      "longitude": 126.454452
+    },
+    {
+      "postal_code": "697825",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대포동",
+      "sub_address": "서귀포시 대포동",
+      "latitude": 33.302606,
+      "longitude": 126.454452
+    },
+    {
+      "postal_code": "697320",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 대포동",
+      "sub_address": "서귀포시 대포동",
+      "latitude": 33.302606,
+      "longitude": 126.454452
+    },
+    {
+      "postal_code": "697350",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 도순동",
+      "sub_address": "서귀포시 도순동",
+      "latitude": 33.292955,
+      "longitude": 126.478818
+    },
+    {
+      "postal_code": "697832",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 도순동",
+      "sub_address": "서귀포시 도순동",
+      "latitude": 33.292955,
+      "longitude": 126.478818
+    },
+    {
+      "postal_code": "697833",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 도순동",
+      "sub_address": "서귀포시 도순동",
+      "latitude": 33.292955,
+      "longitude": 126.478818
+    },
+    {
+      "postal_code": "697836",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697839",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697838",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697864",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697706",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697705",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697070",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697835",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697837",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697704",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697705",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697704",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697700",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697834",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697838",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 동홍동",
+      "sub_address": "서귀포시 동홍동",
+      "latitude": 33.257837,
+      "longitude": 126.568924
+    },
+    {
+      "postal_code": "697110",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 법환동",
+      "sub_address": "서귀포시 법환동",
+      "latitude": 33.243148,
+      "longitude": 126.514145
+    },
+    {
+      "postal_code": "697805",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 법환동",
+      "sub_address": "서귀포시 법환동",
+      "latitude": 33.243148,
+      "longitude": 126.514145
+    },
+    {
+      "postal_code": "697806",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 법환동",
+      "sub_address": "서귀포시 법환동",
+      "latitude": 33.243148,
+      "longitude": 126.514145
+    },
+    {
+      "postal_code": "697020",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 보목동",
+      "sub_address": "서귀포시 보목동",
+      "latitude": 33.245716,
+      "longitude": 126.600264
+    },
+    {
+      "postal_code": "697301",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 상예동",
+      "sub_address": "서귀포시 상예동",
+      "latitude": 33.285202,
+      "longitude": 126.384461
+    },
+    {
+      "postal_code": "697050",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 상효동",
+      "sub_address": "서귀포시 상효동",
+      "latitude": 33.321985,
+      "longitude": 126.570555
+    },
+    {
+      "postal_code": "697821",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 상효동",
+      "sub_address": "서귀포시 상효동",
+      "latitude": 33.321985,
+      "longitude": 126.570555
+    },
+    {
+      "postal_code": "697820",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 색달동",
+      "sub_address": "서귀포시 색달동",
+      "latitude": 33.278996,
+      "longitude": 126.408364
+    },
+    {
+      "postal_code": "697130",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 색달동",
+      "sub_address": "서귀포시 색달동",
+      "latitude": 33.278996,
+      "longitude": 126.408364
+    },
+    {
+      "postal_code": "697808",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 색달동",
+      "sub_address": "서귀포시 색달동",
+      "latitude": 33.278996,
+      "longitude": 126.408364
+    },
+    {
+      "postal_code": "697807",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 색달동",
+      "sub_address": "서귀포시 색달동",
+      "latitude": 33.278996,
+      "longitude": 126.408364
+    },
+    {
+      "postal_code": "697010",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697841",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697844",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697842",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697841",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697841",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697842",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697840",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697840",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697843",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697843",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697842",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697842",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서귀동",
+      "sub_address": "서귀포시 서귀동",
+      "latitude": 33.24935,
+      "longitude": 126.562476
+    },
+    {
+      "postal_code": "697847",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서호동",
+      "sub_address": "서귀포시 서호동",
+      "latitude": 33.264186,
+      "longitude": 126.517347
+    },
+    {
+      "postal_code": "697100",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서호동",
+      "sub_address": "서귀포시 서호동",
+      "latitude": 33.264186,
+      "longitude": 126.517347
+    },
+    {
+      "postal_code": "697846",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서호동",
+      "sub_address": "서귀포시 서호동",
+      "latitude": 33.264186,
+      "longitude": 126.517347
+    },
+    {
+      "postal_code": "697845",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서호동",
+      "sub_address": "서귀포시 서호동",
+      "latitude": 33.264186,
+      "longitude": 126.517347
+    },
+    {
+      "postal_code": "697080",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697852",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697848",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697853",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697701",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697851",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697854",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697850",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "697849",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 서홍동",
+      "sub_address": "서귀포시 서홍동",
+      "latitude": 33.255845,
+      "longitude": 126.56013
+    },
+    {
+      "postal_code": "699901",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 고성리",
+      "sub_address": "서귀포시 성산읍 고성리",
+      "latitude": 33.449317,
+      "longitude": 126.908269
+    },
+    {
+      "postal_code": "699908",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 난산리",
+      "sub_address": "서귀포시 성산읍 난산리",
+      "latitude": 33.404903,
+      "longitude": 126.86133
+    },
+    {
+      "postal_code": "699905",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 삼달리",
+      "sub_address": "서귀포시 성산읍 삼달리",
+      "latitude": 33.409439,
+      "longitude": 126.897273
+    },
+    {
+      "postal_code": "699903",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 성산리",
+      "sub_address": "서귀포시 성산읍 성산리",
+      "latitude": 33.470983,
+      "longitude": 126.888852
+    },
+    {
+      "postal_code": "699902",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 수산리",
+      "sub_address": "서귀포시 성산읍 수산리",
+      "latitude": 33.443041,
+      "longitude": 126.864711
+    },
+    {
+      "postal_code": "699903",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 시흥리",
+      "sub_address": "서귀포시 성산읍 시흥리",
+      "latitude": 33.470983,
+      "longitude": 126.888852
+    },
+    {
+      "postal_code": "699907",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 신산리",
+      "sub_address": "서귀포시 성산읍 신산리",
+      "latitude": 33.384521,
+      "longitude": 126.873099
+    },
+    {
+      "postal_code": "699902",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 신양리",
+      "sub_address": "서귀포시 성산읍 신양리",
+      "latitude": 33.443041,
+      "longitude": 126.864711
+    },
+    {
+      "postal_code": "699904",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 신천리",
+      "sub_address": "서귀포시 성산읍 신천리",
+      "latitude": 33.366514,
+      "longitude": 126.836721
+    },
+    {
+      "postal_code": "699904",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 신풍리",
+      "sub_address": "서귀포시 성산읍 신풍리",
+      "latitude": 33.366514,
+      "longitude": 126.836721
+    },
+    {
+      "postal_code": "699906",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 오조리",
+      "sub_address": "서귀포시 성산읍 오조리",
+      "latitude": 33.461343,
+      "longitude": 126.906686
+    },
+    {
+      "postal_code": "699905",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍 온평리",
+      "sub_address": "서귀포시 성산읍 온평리",
+      "latitude": 33.409439,
+      "longitude": 126.897273
+    },
+    {
+      "postal_code": "699900",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 성산읍",
+      "sub_address": "서귀포시 성산읍",
+      "latitude": 33.442283,
+      "longitude": 126.911211
+    },
+    {
+      "postal_code": "697013",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 송산동",
+      "sub_address": "서귀포시 송산동",
+      "latitude": 33.245093,
+      "longitude": 126.566012
+    },
+    {
+      "postal_code": "697040",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 신효동",
+      "sub_address": "서귀포시 신효동",
+      "latitude": 33.2682,
+      "longitude": 126.610745
+    },
+    {
+      "postal_code": "697855",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 신효동",
+      "sub_address": "서귀포시 신효동",
+      "latitude": 33.2682,
+      "longitude": 126.610745
+    },
+    {
+      "postal_code": "697856",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 신효동",
+      "sub_address": "서귀포시 신효동",
+      "latitude": 33.2682,
+      "longitude": 126.610745
+    },
+    {
+      "postal_code": "697855",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 신효동",
+      "sub_address": "서귀포시 신효동",
+      "latitude": 33.2682,
+      "longitude": 126.610745
+    },
+    {
+      "postal_code": "697856",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 신효동",
+      "sub_address": "서귀포시 신효동",
+      "latitude": 33.2682,
+      "longitude": 126.610745
+    },
+    {
+      "postal_code": "699921",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 감산리",
+      "sub_address": "서귀포시 안덕면 감산리",
+      "latitude": 33.247026,
+      "longitude": 126.354259
+    },
+    {
+      "postal_code": "699925",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 광평리",
+      "sub_address": "서귀포시 안덕면 광평리",
+      "latitude": 33.317242,
+      "longitude": 126.347096
+    },
+    {
+      "postal_code": "699701",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 광평리",
+      "sub_address": "서귀포시 안덕면 광평리",
+      "latitude": 33.334712,
+      "longitude": 126.381595
+    },
+    {
+      "postal_code": "699701",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 광평리",
+      "sub_address": "서귀포시 안덕면 광평리",
+      "latitude": 33.334712,
+      "longitude": 126.381595
+    },
+    {
+      "postal_code": "699921",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 대평리",
+      "sub_address": "서귀포시 안덕면 대평리",
+      "latitude": 33.247026,
+      "longitude": 126.354259
+    },
+    {
+      "postal_code": "699922",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 덕수리",
+      "sub_address": "서귀포시 안덕면 덕수리",
+      "latitude": 33.231694,
+      "longitude": 126.306514
+    },
+    {
+      "postal_code": "699925",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 동광리",
+      "sub_address": "서귀포시 안덕면 동광리",
+      "latitude": 33.317242,
+      "longitude": 126.347096
+    },
+    {
+      "postal_code": "699922",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 사계리",
+      "sub_address": "서귀포시 안덕면 사계리",
+      "latitude": 33.231694,
+      "longitude": 126.306514
+    },
+    {
+      "postal_code": "699921",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 상창리",
+      "sub_address": "서귀포시 안덕면 상창리",
+      "latitude": 33.247026,
+      "longitude": 126.354259
+    },
+    {
+      "postal_code": "699926",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 상천리",
+      "sub_address": "서귀포시 안덕면 상천리",
+      "latitude": 33.316022,
+      "longitude": 126.402032
+    },
+    {
+      "postal_code": "699923",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 서광리",
+      "sub_address": "서귀포시 안덕면 서광리",
+      "latitude": 33.297856,
+      "longitude": 126.304905
+    },
+    {
+      "postal_code": "699924",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 서광리",
+      "sub_address": "서귀포시 안덕면 서광리",
+      "latitude": 33.297856,
+      "longitude": 126.304905
+    },
+    {
+      "postal_code": "699921",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 창천리",
+      "sub_address": "서귀포시 안덕면 창천리",
+      "latitude": 33.247026,
+      "longitude": 126.354259
+    },
+    {
+      "postal_code": "699923",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면 화순리",
+      "sub_address": "서귀포시 안덕면 화순리",
+      "latitude": 33.297856,
+      "longitude": 126.304905
+    },
+    {
+      "postal_code": "699920",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 안덕면",
+      "sub_address": "서귀포시 안덕면",
+      "latitude": 33.249659,
+      "longitude": 126.337075
+    },
+    {
+      "postal_code": "697380",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 영남동",
+      "sub_address": "서귀포시 영남동",
+      "latitude": 33.315158,
+      "longitude": 126.502083
+    },
+    {
+      "postal_code": "697390",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 용흥동",
+      "sub_address": "서귀포시 용흥동",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "697360",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 월평동",
+      "sub_address": "서귀포시 월평동",
+      "latitude": 33.243797,
+      "longitude": 126.464024
+    },
+    {
+      "postal_code": "697014",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 정방동",
+      "sub_address": "서귀포시 정방동",
+      "latitude": 33.245873,
+      "longitude": 126.565249
+    },
+    {
+      "postal_code": "697120",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중문동",
+      "sub_address": "서귀포시 중문동",
+      "latitude": 33.32875,
+      "longitude": 126.452154
+    },
+    {
+      "postal_code": "697707",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중문동",
+      "sub_address": "서귀포시 중문동",
+      "latitude": 33.32875,
+      "longitude": 126.452154
+    },
+    {
+      "postal_code": "697819",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중문동",
+      "sub_address": "서귀포시 중문동",
+      "latitude": 33.32875,
+      "longitude": 126.452154
+    },
+    {
+      "postal_code": "697857",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중문동",
+      "sub_address": "서귀포시 중문동",
+      "latitude": 33.32875,
+      "longitude": 126.452154
+    },
+    {
+      "postal_code": "697857",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중문동",
+      "sub_address": "서귀포시 중문동",
+      "latitude": 33.32875,
+      "longitude": 126.452154
+    },
+    {
+      "postal_code": "697858",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중문동",
+      "sub_address": "서귀포시 중문동",
+      "latitude": 33.32875,
+      "longitude": 126.452154
+    },
+    {
+      "postal_code": "697011",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 중앙동",
+      "sub_address": "서귀포시 중앙동",
+      "latitude": 33.250788,
+      "longitude": 126.565108
+    },
+    {
+      "postal_code": "697012",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 천지동",
+      "sub_address": "서귀포시 천지동",
+      "latitude": 33.247871,
+      "longitude": 126.561247
+    },
+    {
+      "postal_code": "697060",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "697859",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "697859",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "697822",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "697860",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "697860",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "697861",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 토평동",
+      "sub_address": "서귀포시 토평동",
+      "latitude": 33.28202,
+      "longitude": 126.585156
+    },
+    {
+      "postal_code": "699911",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 가시리",
+      "sub_address": "서귀포시 표선면 가시리",
+      "latitude": 33.321331,
+      "longitude": 126.775808
+    },
+    {
+      "postal_code": "699912",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 성읍리",
+      "sub_address": "서귀포시 표선면 성읍리",
+      "latitude": 33.403738,
+      "longitude": 126.785362
+    },
+    {
+      "postal_code": "699913",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 세화리",
+      "sub_address": "서귀포시 표선면 세화리",
+      "latitude": 33.320548,
+      "longitude": 126.803664
+    },
+    {
+      "postal_code": "699911",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 토산리",
+      "sub_address": "서귀포시 표선면 토산리",
+      "latitude": 33.321331,
+      "longitude": 126.775808
+    },
+    {
+      "postal_code": "699914",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 표선리",
+      "sub_address": "서귀포시 표선면 표선리",
+      "latitude": 33.326529,
+      "longitude": 126.82874
+    },
+    {
+      "postal_code": "699915",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 표선리",
+      "sub_address": "서귀포시 표선면 표선리",
+      "latitude": 33.326529,
+      "longitude": 126.82874
+    },
+    {
+      "postal_code": "699916",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면 하천리",
+      "sub_address": "서귀포시 표선면 하천리",
+      "latitude": 33.35319,
+      "longitude": 126.817192
+    },
+    {
+      "postal_code": "699910",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 표선면",
+      "sub_address": "서귀포시 표선면",
+      "latitude": 33.32649,
+      "longitude": 126.83155
+    },
+    {
+      "postal_code": "697310",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 하예동",
+      "sub_address": "서귀포시 하예동",
+      "latitude": 33.241211,
+      "longitude": 126.378718
+    },
+    {
+      "postal_code": "697340",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 하원동",
+      "sub_address": "서귀포시 하원동",
+      "latitude": 33.278536,
+      "longitude": 126.466023
+    },
+    {
+      "postal_code": "697703",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 하원동",
+      "sub_address": "서귀포시 하원동",
+      "latitude": 33.278536,
+      "longitude": 126.466023
+    },
+    {
+      "postal_code": "697824",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 하원동",
+      "sub_address": "서귀포시 하원동",
+      "latitude": 33.278536,
+      "longitude": 126.466023
+    },
+    {
+      "postal_code": "697030",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 하효동",
+      "sub_address": "서귀포시 하효동",
+      "latitude": 33.25661,
+      "longitude": 126.618338
+    },
+    {
+      "postal_code": "697090",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 호근동",
+      "sub_address": "서귀포시 호근동",
+      "latitude": 33.261512,
+      "longitude": 126.53276
+    },
+    {
+      "postal_code": "697862",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 호근동",
+      "sub_address": "서귀포시 호근동",
+      "latitude": 33.261512,
+      "longitude": 126.53276
+    },
+    {
+      "postal_code": "697863",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 호근동",
+      "sub_address": "서귀포시 호근동",
+      "latitude": 33.261512,
+      "longitude": 126.53276
+    },
+    {
+      "postal_code": "697863",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 호근동",
+      "sub_address": "서귀포시 호근동",
+      "latitude": 33.261512,
+      "longitude": 126.53276
+    },
+    {
+      "postal_code": "697862",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 호근동",
+      "sub_address": "서귀포시 호근동",
+      "latitude": 33.261512,
+      "longitude": 126.53276
+    },
+    {
+      "postal_code": "697330",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 회수동",
+      "sub_address": "서귀포시 회수동",
+      "latitude": 33.26192,
+      "longitude": 126.443629
+    },
+    {
+      "postal_code": "697823",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시 회수동",
+      "sub_address": "서귀포시 회수동",
+      "latitude": 33.26192,
+      "longitude": 126.443629
+    },
+    {
+      "postal_code": "697600",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 서귀포시",
+      "sub_address": "서귀포시",
+      "latitude": 33.254088,
+      "longitude": 126.560108
+    },
+    {
+      "postal_code": "690050",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690704",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690771",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690801",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690801",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690801",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690800",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690800",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690800",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690782",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "690705",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 건입동",
+      "sub_address": "제주시 건입동",
+      "latitude": 33.514845,
+      "longitude": 126.531674
+    },
+    {
+      "postal_code": "695971",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 김녕리",
+      "sub_address": "제주시 구좌읍 김녕리",
+      "latitude": 33.550108,
+      "longitude": 126.757835
+    },
+    {
+      "postal_code": "695977",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 덕천리",
+      "sub_address": "제주시 구좌읍 덕천리",
+      "latitude": 33.489034,
+      "longitude": 126.754442
+    },
+    {
+      "postal_code": "695972",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 동복리",
+      "sub_address": "제주시 구좌읍 동복리",
+      "latitude": 33.536321,
+      "longitude": 126.720266
+    },
+    {
+      "postal_code": "695978",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 상도리",
+      "sub_address": "제주시 구좌읍 상도리",
+      "latitude": 33.484184,
+      "longitude": 126.855493
+    },
+    {
+      "postal_code": "695973",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 세화리",
+      "sub_address": "제주시 구좌읍 세화리",
+      "latitude": 33.48751,
+      "longitude": 126.833434
+    },
+    {
+      "postal_code": "695979",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 송당리",
+      "sub_address": "제주시 구좌읍 송당리",
+      "latitude": 33.460414,
+      "longitude": 126.771793
+    },
+    {
+      "postal_code": "695975",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 월정리",
+      "sub_address": "제주시 구좌읍 월정리",
+      "latitude": 33.55164,
+      "longitude": 126.787249
+    },
+    {
+      "postal_code": "695976",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 종달리",
+      "sub_address": "제주시 구좌읍 종달리",
+      "latitude": 33.518751,
+      "longitude": 126.883021
+    },
+    {
+      "postal_code": "695974",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 평대리",
+      "sub_address": "제주시 구좌읍 평대리",
+      "latitude": 33.518361,
+      "longitude": 126.834744
+    },
+    {
+      "postal_code": "695976",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 하도리",
+      "sub_address": "제주시 구좌읍 하도리",
+      "latitude": 33.518751,
+      "longitude": 126.883021
+    },
+    {
+      "postal_code": "695982",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 한동리",
+      "sub_address": "제주시 구좌읍 한동리",
+      "latitude": 33.525025,
+      "longitude": 126.816164
+    },
+    {
+      "postal_code": "695975",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍 행원리",
+      "sub_address": "제주시 구좌읍 행원리",
+      "latitude": 33.55164,
+      "longitude": 126.787249
+    },
+    {
+      "postal_code": "695970",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 구좌읍",
+      "sub_address": "제주시 구좌읍",
+      "latitude": 33.522628,
+      "longitude": 126.851972
+    },
+    {
+      "postal_code": "690210",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 내도동",
+      "sub_address": "제주시 내도동",
+      "latitude": 33.492684,
+      "longitude": 126.442825
+    },
+    {
+      "postal_code": "690003",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690709",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690772",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690804",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690803",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690802",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690762",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690789",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690180",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690760",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690708",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690706",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690707",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690744",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690840",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690743",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690841",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690842",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690742",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690805",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 노형동",
+      "sub_address": "제주시 노형동",
+      "latitude": 33.483202,
+      "longitude": 126.477273
+    },
+    {
+      "postal_code": "690755",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690807",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690806",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690806",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690718",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690790",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690029",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690847",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도남동",
+      "sub_address": "제주시 도남동",
+      "latitude": 33.484863,
+      "longitude": 126.524476
+    },
+    {
+      "postal_code": "690241",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도두1동",
+      "sub_address": "제주시 도두1동",
+      "latitude": 33.501008,
+      "longitude": 126.474247
+    },
+    {
+      "postal_code": "690712",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도두1동",
+      "sub_address": "제주시 도두1동",
+      "latitude": 33.501008,
+      "longitude": 126.474247
+    },
+    {
+      "postal_code": "690242",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도두2동",
+      "sub_address": "제주시 도두2동",
+      "latitude": 33.504116,
+      "longitude": 126.485167
+    },
+    {
+      "postal_code": "690081",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도련1동",
+      "sub_address": "제주시 도련1동",
+      "latitude": 33.505608,
+      "longitude": 126.589289
+    },
+    {
+      "postal_code": "690082",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도련2동",
+      "sub_address": "제주시 도련2동",
+      "latitude": 33.516937,
+      "longitude": 126.591986
+    },
+    {
+      "postal_code": "690220",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 도평동",
+      "sub_address": "제주시 도평동",
+      "latitude": 33.478862,
+      "longitude": 126.451176
+    },
+    {
+      "postal_code": "690735",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 봉개동",
+      "sub_address": "제주시 봉개동",
+      "latitude": 33.491652,
+      "longitude": 126.594937
+    },
+    {
+      "postal_code": "690090",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 봉개동",
+      "sub_address": "제주시 봉개동",
+      "latitude": 33.491652,
+      "longitude": 126.594937
+    },
+    {
+      "postal_code": "690031",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690710",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690811",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690811",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690810",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690810",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690715",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690711",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690812",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690812",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690846",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690846",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690846",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도1동",
+      "sub_address": "제주시 삼도1동",
+      "latitude": 33.502828,
+      "longitude": 126.520125
+    },
+    {
+      "postal_code": "690850",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690850",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690032",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690808",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690808",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690809",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690809",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690809",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690809",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690808",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690808",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690783",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690032",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690736",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼도2동",
+      "sub_address": "제주시 삼도2동",
+      "latitude": 33.517698,
+      "longitude": 126.521304
+    },
+    {
+      "postal_code": "690071",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼양1동",
+      "sub_address": "제주시 삼양1동",
+      "latitude": 33.52623,
+      "longitude": 126.594931
+    },
+    {
+      "postal_code": "690072",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼양2동",
+      "sub_address": "제주시 삼양2동",
+      "latitude": 33.522867,
+      "longitude": 126.584665
+    },
+    {
+      "postal_code": "690073",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 삼양3동",
+      "sub_address": "제주시 삼양3동",
+      "latitude": 33.525297,
+      "longitude": 126.578065
+    },
+    {
+      "postal_code": "690122",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 아라이동",
+      "sub_address": "제주시 아라이동",
+      "latitude": 33.478414,
+      "longitude": 126.554335
+    },
+    {
+      "postal_code": "690756",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 아라일동",
+      "sub_address": "제주시 아라일동",
+      "latitude": 33.392605,
+      "longitude": 126.563896
+    },
+    {
+      "postal_code": "690773",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 아라일동",
+      "sub_address": "제주시 아라일동",
+      "latitude": 33.392605,
+      "longitude": 126.563896
+    },
+    {
+      "postal_code": "690121",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 아라일동",
+      "sub_address": "제주시 아라일동",
+      "latitude": 33.392605,
+      "longitude": 126.563896
+    },
+    {
+      "postal_code": "690767",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 아라일동",
+      "sub_address": "제주시 아라일동",
+      "latitude": 33.392605,
+      "longitude": 126.563896
+    },
+    {
+      "postal_code": "695901",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 고내리",
+      "sub_address": "제주시 애월읍 고내리",
+      "latitude": 33.465842,
+      "longitude": 126.341341
+    },
+    {
+      "postal_code": "695902",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 고성리",
+      "sub_address": "제주시 애월읍 고성리",
+      "latitude": 33.44776,
+      "longitude": 126.417752
+    },
+    {
+      "postal_code": "695903",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 곽지리",
+      "sub_address": "제주시 애월읍 곽지리",
+      "latitude": 33.437544,
+      "longitude": 126.303814
+    },
+    {
+      "postal_code": "695904",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 광령1리",
+      "sub_address": "제주시 애월읍 광령1리",
+      "latitude": 33.455254,
+      "longitude": 126.434223
+    },
+    {
+      "postal_code": "695705",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 광령1리",
+      "sub_address": "제주시 애월읍 광령1리",
+      "latitude": 33.455254,
+      "longitude": 126.434223
+    },
+    {
+      "postal_code": "695904",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 광령2리",
+      "sub_address": "제주시 애월읍 광령2리",
+      "latitude": 33.455254,
+      "longitude": 126.434223
+    },
+    {
+      "postal_code": "695791",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 광령2리",
+      "sub_address": "제주시 애월읍 광령2리",
+      "latitude": 33.455254,
+      "longitude": 126.434223
+    },
+    {
+      "postal_code": "695792",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 광령2리",
+      "sub_address": "제주시 애월읍 광령2리",
+      "latitude": 33.455254,
+      "longitude": 126.434223
+    },
+    {
+      "postal_code": "695904",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 광령3리",
+      "sub_address": "제주시 애월읍 광령3리",
+      "latitude": 33.455254,
+      "longitude": 126.434223
+    },
+    {
+      "postal_code": "695905",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 구엄리",
+      "sub_address": "제주시 애월읍 구엄리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695903",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 금성리",
+      "sub_address": "제주시 애월읍 금성리",
+      "latitude": 33.437544,
+      "longitude": 126.303814
+    },
+    {
+      "postal_code": "695906",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 납읍리",
+      "sub_address": "제주시 애월읍 납읍리",
+      "latitude": 33.432589,
+      "longitude": 126.336212
+    },
+    {
+      "postal_code": "695907",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 봉성리",
+      "sub_address": "제주시 애월읍 봉성리",
+      "latitude": 33.406904,
+      "longitude": 126.321452
+    },
+    {
+      "postal_code": "695908",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 상가리",
+      "sub_address": "제주시 애월읍 상가리",
+      "latitude": 33.438654,
+      "longitude": 126.352262
+    },
+    {
+      "postal_code": "695909",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 상귀리",
+      "sub_address": "제주시 애월읍 상귀리",
+      "latitude": 33.465504,
+      "longitude": 126.406588
+    },
+    {
+      "postal_code": "695796",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 상귀리",
+      "sub_address": "제주시 애월읍 상귀리",
+      "latitude": 33.465504,
+      "longitude": 126.406588
+    },
+    {
+      "postal_code": "695789",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 소길리",
+      "sub_address": "제주시 애월읍 소길리",
+      "latitude": 33.430901,
+      "longitude": 126.380643
+    },
+    {
+      "postal_code": "695910",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 소길리",
+      "sub_address": "제주시 애월읍 소길리",
+      "latitude": 33.430901,
+      "longitude": 126.380643
+    },
+    {
+      "postal_code": "695793",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 소길리",
+      "sub_address": "제주시 애월읍 소길리",
+      "latitude": 33.430901,
+      "longitude": 126.380643
+    },
+    {
+      "postal_code": "695911",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 수산리",
+      "sub_address": "제주시 애월읍 수산리",
+      "latitude": 33.46481,
+      "longitude": 126.389919
+    },
+    {
+      "postal_code": "695912",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 신엄리",
+      "sub_address": "제주시 애월읍 신엄리",
+      "latitude": 33.466814,
+      "longitude": 126.367367
+    },
+    {
+      "postal_code": "695913",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 애월리",
+      "sub_address": "제주시 애월읍 애월리",
+      "latitude": 33.46026,
+      "longitude": 126.321454
+    },
+    {
+      "postal_code": "695914",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 어음리",
+      "sub_address": "제주시 애월읍 어음리",
+      "latitude": 33.405872,
+      "longitude": 126.344035
+    },
+    {
+      "postal_code": "695919",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 용흥리",
+      "sub_address": "제주시 애월읍 용흥리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695916",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 유수암리",
+      "sub_address": "제주시 애월읍 유수암리",
+      "latitude": 33.430927,
+      "longitude": 126.403004
+    },
+    {
+      "postal_code": "695794",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 유수암리",
+      "sub_address": "제주시 애월읍 유수암리",
+      "latitude": 33.430927,
+      "longitude": 126.403004
+    },
+    {
+      "postal_code": "695917",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 장전리",
+      "sub_address": "제주시 애월읍 장전리",
+      "latitude": 33.448624,
+      "longitude": 126.387473
+    },
+    {
+      "postal_code": "695905",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 중엄리",
+      "sub_address": "제주시 애월읍 중엄리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695915",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 하가리",
+      "sub_address": "제주시 애월읍 하가리",
+      "latitude": 33.455814,
+      "longitude": 126.354595
+    },
+    {
+      "postal_code": "695918",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 하귀1리",
+      "sub_address": "제주시 애월읍 하귀1리",
+      "latitude": 33.48212,
+      "longitude": 126.414415
+    },
+    {
+      "postal_code": "695918",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 하귀2리",
+      "sub_address": "제주시 애월읍 하귀2리",
+      "latitude": 33.48212,
+      "longitude": 126.414415
+    },
+    {
+      "postal_code": "695795",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍 하귀2리",
+      "sub_address": "제주시 애월읍 하귀2리",
+      "latitude": 33.479477,
+      "longitude": 126.398617
+    },
+    {
+      "postal_code": "695900",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 애월읍",
+      "sub_address": "제주시 애월읍",
+      "latitude": 33.461999,
+      "longitude": 126.329443
+    },
+    {
+      "postal_code": "690785",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690786",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690813",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690815",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690817",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690817",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690816",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690818",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690814",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690813",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690814",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690170",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690737",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690739",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690722",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690721",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690720",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690719",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690717",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690766",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690765",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690764",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690764",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690774",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690738",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690726",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690725",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690700",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690723",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690724",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690703",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 연동",
+      "sub_address": "제주시 연동",
+      "latitude": 33.488177,
+      "longitude": 126.496891
+    },
+    {
+      "postal_code": "690140",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 영평동",
+      "sub_address": "제주시 영평동",
+      "latitude": 33.425886,
+      "longitude": 126.577858
+    },
+    {
+      "postal_code": "690714",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 영평동",
+      "sub_address": "제주시 영평동",
+      "latitude": 33.425886,
+      "longitude": 126.577858
+    },
+    {
+      "postal_code": "690150",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 오등동",
+      "sub_address": "제주시 오등동",
+      "latitude": 33.443036,
+      "longitude": 126.540685
+    },
+    {
+      "postal_code": "690163",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 오라삼동",
+      "sub_address": "제주시 오라삼동",
+      "latitude": 33.498796,
+      "longitude": 126.50648
+    },
+    {
+      "postal_code": "690740",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 오라삼동",
+      "sub_address": "제주시 오라삼동",
+      "latitude": 33.498796,
+      "longitude": 126.50648
+    },
+    {
+      "postal_code": "690162",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 오라이동",
+      "sub_address": "제주시 오라이동",
+      "latitude": 33.406368,
+      "longitude": 126.524087
+    },
+    {
+      "postal_code": "690750",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 오라이동",
+      "sub_address": "제주시 오라이동",
+      "latitude": 33.406368,
+      "longitude": 126.524087
+    },
+    {
+      "postal_code": "690161",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 오라일동",
+      "sub_address": "제주시 오라일동",
+      "latitude": 33.496364,
+      "longitude": 126.517836
+    },
+    {
+      "postal_code": "690191",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 외도1동",
+      "sub_address": "제주시 외도1동",
+      "latitude": 33.482889,
+      "longitude": 126.43002
+    },
+    {
+      "postal_code": "690775",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 외도1동",
+      "sub_address": "제주시 외도1동",
+      "latitude": 33.482889,
+      "longitude": 126.43002
+    },
+    {
+      "postal_code": "690192",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 외도2동",
+      "sub_address": "제주시 외도2동",
+      "latitude": 33.494554,
+      "longitude": 126.433653
+    },
+    {
+      "postal_code": "690110",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용강동",
+      "sub_address": "제주시 용강동",
+      "latitude": 33.431761,
+      "longitude": 126.601917
+    },
+    {
+      "postal_code": "690041",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담1동",
+      "sub_address": "제주시 용담1동",
+      "latitude": 33.51077,
+      "longitude": 126.515733
+    },
+    {
+      "postal_code": "690843",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담1동",
+      "sub_address": "제주시 용담1동",
+      "latitude": 33.51077,
+      "longitude": 126.515733
+    },
+    {
+      "postal_code": "690819",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담1동",
+      "sub_address": "제주시 용담1동",
+      "latitude": 33.51077,
+      "longitude": 126.515733
+    },
+    {
+      "postal_code": "690819",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담1동",
+      "sub_address": "제주시 용담1동",
+      "latitude": 33.51077,
+      "longitude": 126.515733
+    },
+    {
+      "postal_code": "690820",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담1동",
+      "sub_address": "제주시 용담1동",
+      "latitude": 33.51077,
+      "longitude": 126.515733
+    },
+    {
+      "postal_code": "690820",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담1동",
+      "sub_address": "제주시 용담1동",
+      "latitude": 33.51077,
+      "longitude": 126.515733
+    },
+    {
+      "postal_code": "690821",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690821",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690822",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690822",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690822",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690822",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690823",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690823",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690823",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690821",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690042",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690727",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담2동",
+      "sub_address": "제주시 용담2동",
+      "latitude": 33.50749,
+      "longitude": 126.502634
+    },
+    {
+      "postal_code": "690043",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 용담3동",
+      "sub_address": "제주시 용담3동",
+      "latitude": 33.517603,
+      "longitude": 126.492845
+    },
+    {
+      "postal_code": "695983",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 우도면 서광리",
+      "sub_address": "제주시 우도면 서광리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695983",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 우도면 오봉리",
+      "sub_address": "제주시 우도면 오봉리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695983",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 우도면 조일리",
+      "sub_address": "제주시 우도면 조일리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695983",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 우도면 천진리",
+      "sub_address": "제주시 우도면 천진리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695980",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 우도면",
+      "sub_address": "제주시 우도면",
+      "latitude": 33.506489,
+      "longitude": 126.953278
+    },
+    {
+      "postal_code": "690130",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 월평동",
+      "sub_address": "제주시 월평동",
+      "latitude": 33.463435,
+      "longitude": 126.57744
+    },
+    {
+      "postal_code": "690021",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690784",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690770",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690728",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690729",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690828",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690828",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690828",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690829",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690829",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690828",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도1동",
+      "sub_address": "제주시 이도1동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690824",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690825",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690825",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690826",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690827",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690827",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690787",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690844",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690851",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690788",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690022",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690732",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690741",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690776",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690751",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690751",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690731",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690701",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도2동",
+      "sub_address": "제주시 이도2동",
+      "latitude": 33.498341,
+      "longitude": 126.535164
+    },
+    {
+      "postal_code": "690730",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이도일동",
+      "sub_address": "제주시 이도일동",
+      "latitude": 33.505297,
+      "longitude": 126.529087
+    },
+    {
+      "postal_code": "690231",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이호1동",
+      "sub_address": "제주시 이호1동",
+      "latitude": 33.499327,
+      "longitude": 126.457478
+    },
+    {
+      "postal_code": "690232",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 이호2동",
+      "sub_address": "제주시 이호2동",
+      "latitude": 33.492851,
+      "longitude": 126.460919
+    },
+    {
+      "postal_code": "690011",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690780",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690835",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690836",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690835",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690836",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690835",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도1동",
+      "sub_address": "제주시 일도1동",
+      "latitude": 33.515582,
+      "longitude": 126.526288
+    },
+    {
+      "postal_code": "690012",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690833",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690833",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690832",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690832",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690832",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690831",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690830",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690830",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690830",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690833",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690834",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690734",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690777",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690778",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "690779",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 일도2동",
+      "sub_address": "제주시 일도2동",
+      "latitude": 33.510426,
+      "longitude": 126.536197
+    },
+    {
+      "postal_code": "695961",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 교래리",
+      "sub_address": "제주시 조천읍 교래리",
+      "latitude": 33.431265,
+      "longitude": 126.678365
+    },
+    {
+      "postal_code": "695962",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 대흘리",
+      "sub_address": "제주시 조천읍 대흘리",
+      "latitude": 33.486365,
+      "longitude": 126.682844
+    },
+    {
+      "postal_code": "695966",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 북촌리",
+      "sub_address": "제주시 조천읍 북촌리",
+      "latitude": 33.543222,
+      "longitude": 126.690807
+    },
+    {
+      "postal_code": "695967",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 선흘리",
+      "sub_address": "제주시 조천읍 선흘리",
+      "latitude": 33.495342,
+      "longitude": 126.703589
+    },
+    {
+      "postal_code": "695963",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 신촌리",
+      "sub_address": "제주시 조천읍 신촌리",
+      "latitude": 33.526309,
+      "longitude": 126.619767
+    },
+    {
+      "postal_code": "695969",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 신흥리",
+      "sub_address": "제주시 조천읍 신흥리",
+      "latitude": 33.547252,
+      "longitude": 126.64948
+    },
+    {
+      "postal_code": "695962",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 와산리",
+      "sub_address": "제주시 조천읍 와산리",
+      "latitude": 33.486365,
+      "longitude": 126.682844
+    },
+    {
+      "postal_code": "695968",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 와흘리",
+      "sub_address": "제주시 조천읍 와흘리",
+      "latitude": 33.493146,
+      "longitude": 126.637065
+    },
+    {
+      "postal_code": "695964",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 조천리",
+      "sub_address": "제주시 조천읍 조천리",
+      "latitude": 33.531812,
+      "longitude": 126.641511
+    },
+    {
+      "postal_code": "695965",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍 함덕리",
+      "sub_address": "제주시 조천읍 함덕리",
+      "latitude": 33.534335,
+      "longitude": 126.664096
+    },
+    {
+      "postal_code": "695960",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 조천읍",
+      "sub_address": "제주시 조천읍",
+      "latitude": 33.534437,
+      "longitude": 126.634136
+    },
+    {
+      "postal_code": "695951",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 추자면 대서리",
+      "sub_address": "제주시 추자면 대서리",
+      "latitude": 33.960025,
+      "longitude": 126.296367
+    },
+    {
+      "postal_code": "695952",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 추자면 묵리",
+      "sub_address": "제주시 추자면 묵리",
+      "latitude": 33.501008,
+      "longitude": 126.474247
+    },
+    {
+      "postal_code": "695952",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 추자면 신양리",
+      "sub_address": "제주시 추자면 신양리",
+      "latitude": 33.501008,
+      "longitude": 126.474247
+    },
+    {
+      "postal_code": "695951",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 추자면 영흥리",
+      "sub_address": "제주시 추자면 영흥리",
+      "latitude": 33.960025,
+      "longitude": 126.296367
+    },
+    {
+      "postal_code": "695952",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 추자면 예초리",
+      "sub_address": "제주시 추자면 예초리",
+      "latitude": 33.501008,
+      "longitude": 126.474247
+    },
+    {
+      "postal_code": "695950",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 추자면",
+      "sub_address": "제주시 추자면",
+      "latitude": 33.963727,
+      "longitude": 126.296147
+    },
+    {
+      "postal_code": "695941",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 고산리",
+      "sub_address": "제주시 한경면 고산리",
+      "latitude": 33.291612,
+      "longitude": 126.168934
+    },
+    {
+      "postal_code": "695942",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 금등리",
+      "sub_address": "제주시 한경면 금등리",
+      "latitude": 33.505608,
+      "longitude": 126.589289
+    },
+    {
+      "postal_code": "695942",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 낙천리",
+      "sub_address": "제주시 한경면 낙천리",
+      "latitude": 33.505608,
+      "longitude": 126.589289
+    },
+    {
+      "postal_code": "695942",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 두모리",
+      "sub_address": "제주시 한경면 두모리",
+      "latitude": 33.505608,
+      "longitude": 126.589289
+    },
+    {
+      "postal_code": "695981",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 산양리",
+      "sub_address": "제주시 한경면 산양리",
+      "latitude": 33.289515,
+      "longitude": 126.241434
+    },
+    {
+      "postal_code": "695944",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 신창리",
+      "sub_address": "제주시 한경면 신창리",
+      "latitude": 33.343164,
+      "longitude": 126.18127
+    },
+    {
+      "postal_code": "695945",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 용당리",
+      "sub_address": "제주시 한경면 용당리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695946",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 용수리",
+      "sub_address": "제주시 한경면 용수리",
+      "latitude": 33.317692,
+      "longitude": 126.183497
+    },
+    {
+      "postal_code": "695947",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 저지리",
+      "sub_address": "제주시 한경면 저지리",
+      "latitude": 33.326331,
+      "longitude": 126.270603
+    },
+    {
+      "postal_code": "695948",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 조수리",
+      "sub_address": "제주시 한경면 조수리",
+      "latitude": 33.337745,
+      "longitude": 126.22188
+    },
+    {
+      "postal_code": "695949",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 청수리",
+      "sub_address": "제주시 한경면 청수리",
+      "latitude": 33.306247,
+      "longitude": 126.260986
+    },
+    {
+      "postal_code": "695943",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 판포리",
+      "sub_address": "제주시 한경면 판포리",
+      "latitude": 33.363988,
+      "longitude": 126.217241
+    },
+    {
+      "postal_code": "695945",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면 한원리",
+      "sub_address": "제주시 한경면 한원리",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "postal_code": "695940",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한경면",
+      "sub_address": "제주시 한경면",
+      "latitude": 33.350132,
+      "longitude": 126.184157
+    },
+    {
+      "postal_code": "695921",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 강구리",
+      "sub_address": "제주시 한림읍 강구리",
+      "latitude": 33.397933,
+      "longitude": 126.297036
+    },
+    {
+      "postal_code": "695922",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 귀덕리",
+      "sub_address": "제주시 한림읍 귀덕리",
+      "latitude": 33.433617,
+      "longitude": 126.290632
+    },
+    {
+      "postal_code": "695923",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 금능리",
+      "sub_address": "제주시 한림읍 금능리",
+      "latitude": 33.375013,
+      "longitude": 126.235819
+    },
+    {
+      "postal_code": "695924",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 금악리",
+      "sub_address": "제주시 한림읍 금악리",
+      "latitude": 33.358632,
+      "longitude": 126.30624
+    },
+    {
+      "postal_code": "695925",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 대림리",
+      "sub_address": "제주시 한림읍 대림리",
+      "latitude": 33.422373,
+      "longitude": 126.277572
+    },
+    {
+      "postal_code": "695926",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 동명리",
+      "sub_address": "제주시 한림읍 동명리",
+      "latitude": 33.397435,
+      "longitude": 126.271437
+    },
+    {
+      "postal_code": "695927",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 명월리",
+      "sub_address": "제주시 한림읍 명월리",
+      "latitude": 33.381796,
+      "longitude": 126.273493
+    },
+    {
+      "postal_code": "695921",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 상대리",
+      "sub_address": "제주시 한림읍 상대리",
+      "latitude": 33.397933,
+      "longitude": 126.297036
+    },
+    {
+      "postal_code": "695930",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 상명리",
+      "sub_address": "제주시 한림읍 상명리",
+      "latitude": 33.359544,
+      "longitude": 126.272204
+    },
+    {
+      "postal_code": "695928",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 수원리",
+      "sub_address": "제주시 한림읍 수원리",
+      "latitude": 33.429318,
+      "longitude": 126.267571
+    },
+    {
+      "postal_code": "695929",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 옹포리",
+      "sub_address": "제주시 한림읍 옹포리",
+      "latitude": 33.40243,
+      "longitude": 126.255048
+    },
+    {
+      "postal_code": "695931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 월령리",
+      "sub_address": "제주시 한림읍 월령리",
+      "latitude": 33.349104,
+      "longitude": 126.239702
+    },
+    {
+      "postal_code": "695931",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 월림리",
+      "sub_address": "제주시 한림읍 월림리",
+      "latitude": 33.349104,
+      "longitude": 126.239702
+    },
+    {
+      "postal_code": "695932",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 한림리",
+      "sub_address": "제주시 한림읍 한림리",
+      "latitude": 33.412648,
+      "longitude": 126.269095
+    },
+    {
+      "postal_code": "695933",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 한수리",
+      "sub_address": "제주시 한림읍 한수리",
+      "latitude": 33.421813,
+      "longitude": 126.263935
+    },
+    {
+      "postal_code": "695934",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍 협재리",
+      "sub_address": "제주시 한림읍 협재리",
+      "latitude": 33.387012,
+      "longitude": 126.245988
+    },
+    {
+      "postal_code": "695920",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 한림읍",
+      "sub_address": "제주시 한림읍",
+      "latitude": 33.410425,
+      "longitude": 126.267097
+    },
+    {
+      "postal_code": "690200",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 해안동",
+      "sub_address": "제주시 해안동",
+      "latitude": 33.414378,
+      "longitude": 126.47145
+    },
+    {
+      "postal_code": "690061",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690769",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690837",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690838",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690838",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690839",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690839",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북1동",
+      "sub_address": "제주시 화북1동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690062",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북2동",
+      "sub_address": "제주시 화북2동",
+      "latitude": 33.50461,
+      "longitude": 126.566319
+    },
+    {
+      "postal_code": "690781",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북일동",
+      "sub_address": "제주시 화북일동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690796",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 화북일동",
+      "sub_address": "제주시 화북일동",
+      "latitude": 33.521845,
+      "longitude": 126.570431
+    },
+    {
+      "postal_code": "690100",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시 회천동",
+      "sub_address": "제주시 회천동",
+      "latitude": 33.492611,
+      "longitude": 126.612907
+    },
+    {
+      "postal_code": "690600",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시",
+      "sub_address": "제주시",
+      "latitude": 33.499563,
+      "longitude": 126.531171
+    },
+    {
+      "postal_code": "690610",
+      "sido": "제주",
+      "sido_en": "Jeju",
+      "address": "제주 제주시",
+      "sub_address": "제주시",
+      "latitude": 33.499563,
+      "longitude": 126.531171
+    }
+  ],
+  "meta": {
+    "title": "Jeju 우편번호 (구 6자리) — Jeju Postal Codes (legacy 6-digit) - 무료 다운로드",
+    "description": "Jeju (제주) — Legacy 6-digit South Korean postal codes (구 우편번호) at submunicipal (동/리) level, with native Korean addresses and geographic coordinates. Source: Korea Data Hub National Postcode (2012-05); coordinates via Daum Local API. These 6-digit codes were superseded by the current 5-digit system in August 2015 and are retained here as a historical reference dataset. 포함 480 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Jeju 우편번호 (구 6자리) — Jeju Postal Codes (legacy 6-digit) | ListBase",
+    "seo_description": "다운로드 Jeju 우편번호 (구 6자리) — Jeju Postal Codes (legacy 6-digit) — 480 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 480 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

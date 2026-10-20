@@ -1,0 +1,1136 @@
+{
+  "id": "ko-sigandae-gwangyeok",
+  "name": "광역 시간대(메타존) 한국어 명칭",
+  "title": "광역 시간대(메타존) 한국어 명칭",
+  "description": "CLDR 메타존(metazone) 코드와 한국어 일반/표준시/하계 표준시 명칭.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 155,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "ilban_ireum",
+      "label": "Ilban Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "ilban_ireum": "아크레 시간",
+      "pyojunsi_ireum": "아크레 표준시",
+      "hagyesi_ireum": "아크레 하계 표준시"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "아프가니스탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "중앙아프리카 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "동아프리카 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "남아프리카 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "서아프리카 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "ilban_ireum": "알래스카 시간",
+      "pyojunsi_ireum": "알래스카 표준시",
+      "hagyesi_ireum": "알래스카 하계 표준시"
+    },
+    {
+      "id": 8,
+      "code": "Almaty",
+      "ilban_ireum": "알마티 표준 시간",
+      "pyojunsi_ireum": "알마티 표준 표준시",
+      "hagyesi_ireum": "알마티 하계 표준시"
+    },
+    {
+      "id": 9,
+      "code": "Amazon",
+      "ilban_ireum": "아마존 시간",
+      "pyojunsi_ireum": "아마존 표준시",
+      "hagyesi_ireum": "아마존 하계 표준시"
+    },
+    {
+      "id": 10,
+      "code": "America_Central",
+      "ilban_ireum": "미 중부 시간",
+      "pyojunsi_ireum": "미 중부 표준시",
+      "hagyesi_ireum": "미 중부 하계 표준시"
+    },
+    {
+      "id": 11,
+      "code": "America_Eastern",
+      "ilban_ireum": "미 동부 시간",
+      "pyojunsi_ireum": "미 동부 표준시",
+      "hagyesi_ireum": "미 동부 하계 표준시"
+    },
+    {
+      "id": 12,
+      "code": "America_Mountain",
+      "ilban_ireum": "미 산지 시간",
+      "pyojunsi_ireum": "미 산악 표준시",
+      "hagyesi_ireum": "미 산지 하계 표준시"
+    },
+    {
+      "id": 13,
+      "code": "America_Pacific",
+      "ilban_ireum": "미 태평양 시간",
+      "pyojunsi_ireum": "미 태평양 표준시",
+      "hagyesi_ireum": "미 태평양 하계 표준시"
+    },
+    {
+      "id": 14,
+      "code": "Anadyr",
+      "ilban_ireum": "아나디리 시간",
+      "pyojunsi_ireum": "아나디리 표준시",
+      "hagyesi_ireum": "아나디리 하계 표준시"
+    },
+    {
+      "id": 15,
+      "code": "Apia",
+      "ilban_ireum": "아피아 시간",
+      "pyojunsi_ireum": "아피아 표준시",
+      "hagyesi_ireum": "아피아 하계 표준시"
+    },
+    {
+      "id": 16,
+      "code": "Aqtau",
+      "ilban_ireum": "악타우 표준 시간",
+      "pyojunsi_ireum": "악타우 표준 표준시",
+      "hagyesi_ireum": "악타우 하계 표준시"
+    },
+    {
+      "id": 17,
+      "code": "Aqtobe",
+      "ilban_ireum": "악퇴베 표준 시간",
+      "pyojunsi_ireum": "악퇴베 표준 표준시",
+      "hagyesi_ireum": "악퇴베 하계 표준시"
+    },
+    {
+      "id": 18,
+      "code": "Arabian",
+      "ilban_ireum": "아라비아 시간",
+      "pyojunsi_ireum": "아라비아 표준시",
+      "hagyesi_ireum": "아라비아 하계 표준시"
+    },
+    {
+      "id": 19,
+      "code": "Argentina",
+      "ilban_ireum": "아르헨티나 시간",
+      "pyojunsi_ireum": "아르헨티나 표준시",
+      "hagyesi_ireum": "아르헨티나 하계 표준시"
+    },
+    {
+      "id": 20,
+      "code": "Argentina_Western",
+      "ilban_ireum": "아르헨티나 서부 시간",
+      "pyojunsi_ireum": "아르헨티나 서부 표준시",
+      "hagyesi_ireum": "아르헨티나 서부 하계 표준시"
+    },
+    {
+      "id": 21,
+      "code": "Armenia",
+      "ilban_ireum": "아르메니아 시간",
+      "pyojunsi_ireum": "아르메니아 표준시",
+      "hagyesi_ireum": "아르메니아 하계 표준시"
+    },
+    {
+      "id": 22,
+      "code": "Atlantic",
+      "ilban_ireum": "대서양 시간",
+      "pyojunsi_ireum": "대서양 표준시",
+      "hagyesi_ireum": "대서양 하계 표준시"
+    },
+    {
+      "id": 23,
+      "code": "Australia_Central",
+      "ilban_ireum": "호주 중부 시간",
+      "pyojunsi_ireum": "호주 중부 표준시",
+      "hagyesi_ireum": "호주 중부 하계 표준시"
+    },
+    {
+      "id": 24,
+      "code": "Australia_CentralWestern",
+      "ilban_ireum": "호주 중서부 시간",
+      "pyojunsi_ireum": "호주 중서부 표준시",
+      "hagyesi_ireum": "호주 중서부 하계 표준시"
+    },
+    {
+      "id": 25,
+      "code": "Australia_Eastern",
+      "ilban_ireum": "호주 동부 시간",
+      "pyojunsi_ireum": "호주 동부 표준시",
+      "hagyesi_ireum": "호주 동부 하계 표준시"
+    },
+    {
+      "id": 26,
+      "code": "Australia_Western",
+      "ilban_ireum": "호주 서부 시간",
+      "pyojunsi_ireum": "호주 서부 표준시",
+      "hagyesi_ireum": "호주 서부 하계 표준시"
+    },
+    {
+      "id": 27,
+      "code": "Azerbaijan",
+      "ilban_ireum": "아제르바이잔 시간",
+      "pyojunsi_ireum": "아제르바이잔 표준시",
+      "hagyesi_ireum": "아제르바이잔 하계 표준시"
+    },
+    {
+      "id": 28,
+      "code": "Azores",
+      "ilban_ireum": "아조레스 시간",
+      "pyojunsi_ireum": "아조레스 표준시",
+      "hagyesi_ireum": "아조레스 하계 표준시"
+    },
+    {
+      "id": 29,
+      "code": "Bangladesh",
+      "ilban_ireum": "방글라데시 시간",
+      "pyojunsi_ireum": "방글라데시 표준시",
+      "hagyesi_ireum": "방글라데시 하계 표준시"
+    },
+    {
+      "id": 30,
+      "code": "Bhutan",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "부탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 31,
+      "code": "Bolivia",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "볼리비아 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 32,
+      "code": "Brasilia",
+      "ilban_ireum": "브라질리아 시간",
+      "pyojunsi_ireum": "브라질리아 표준시",
+      "hagyesi_ireum": "브라질리아 하계 표준시"
+    },
+    {
+      "id": 33,
+      "code": "Brunei",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "브루나이 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 34,
+      "code": "Cape_Verde",
+      "ilban_ireum": "카보 베르데 시간",
+      "pyojunsi_ireum": "카보 베르데 표준시",
+      "hagyesi_ireum": "카보 베르데 하계 표준시"
+    },
+    {
+      "id": 35,
+      "code": "Casey",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "케이시 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 36,
+      "code": "Chamorro",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "차모로 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 37,
+      "code": "Chatham",
+      "ilban_ireum": "채텀 시간",
+      "pyojunsi_ireum": "채텀 표준시",
+      "hagyesi_ireum": "채텀 하계 표준시"
+    },
+    {
+      "id": 38,
+      "code": "Chile",
+      "ilban_ireum": "칠레 시간",
+      "pyojunsi_ireum": "칠레 표준시",
+      "hagyesi_ireum": "칠레 하계 표준시"
+    },
+    {
+      "id": 39,
+      "code": "China",
+      "ilban_ireum": "중국 시간",
+      "pyojunsi_ireum": "중국 표준시",
+      "hagyesi_ireum": "중국 하계 표준시"
+    },
+    {
+      "id": 40,
+      "code": "Christmas",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "크리스마스섬 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 41,
+      "code": "Cocos",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "코코스 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 42,
+      "code": "Colombia",
+      "ilban_ireum": "콜롬비아 시간",
+      "pyojunsi_ireum": "콜롬비아 표준시",
+      "hagyesi_ireum": "콜롬비아 하계 표준시"
+    },
+    {
+      "id": 43,
+      "code": "Cook",
+      "ilban_ireum": "쿡 제도 시간",
+      "pyojunsi_ireum": "쿡 제도 표준시",
+      "hagyesi_ireum": "쿡 제도 절반 하계 표준시"
+    },
+    {
+      "id": 44,
+      "code": "Cuba",
+      "ilban_ireum": "쿠바 시간",
+      "pyojunsi_ireum": "쿠바 표준시",
+      "hagyesi_ireum": "쿠바 하계 표준시"
+    },
+    {
+      "id": 45,
+      "code": "Davis",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "데이비스 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 46,
+      "code": "DumontDUrville",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "뒤몽뒤르빌 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 47,
+      "code": "East_Timor",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "동티모르 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 48,
+      "code": "Easter",
+      "ilban_ireum": "이스터섬 시간",
+      "pyojunsi_ireum": "이스터섬 표준시",
+      "hagyesi_ireum": "이스터섬 하계 표준시"
+    },
+    {
+      "id": 49,
+      "code": "Ecuador",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "에콰도르 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 50,
+      "code": "Europe_Central",
+      "ilban_ireum": "중부유럽 시간",
+      "pyojunsi_ireum": "중부유럽 표준시",
+      "hagyesi_ireum": "중부유럽 하계 표준시"
+    },
+    {
+      "id": 51,
+      "code": "Europe_Eastern",
+      "ilban_ireum": "동유럽 시간",
+      "pyojunsi_ireum": "동유럽 표준시",
+      "hagyesi_ireum": "동유럽 하계 표준시"
+    },
+    {
+      "id": 52,
+      "code": "Europe_Further_Eastern",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "극동유럽 표준시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 53,
+      "code": "Europe_Western",
+      "ilban_ireum": "서유럽 시간",
+      "pyojunsi_ireum": "서유럽 표준시",
+      "hagyesi_ireum": "서유럽 하계 표준시"
+    },
+    {
+      "id": 54,
+      "code": "Falkland",
+      "ilban_ireum": "포클랜드 제도 시간",
+      "pyojunsi_ireum": "포클랜드 제도 표준시",
+      "hagyesi_ireum": "포클랜드 제도 하계 표준시"
+    },
+    {
+      "id": 55,
+      "code": "Fiji",
+      "ilban_ireum": "피지 시간",
+      "pyojunsi_ireum": "피지 표준시",
+      "hagyesi_ireum": "피지 하계 표준시"
+    },
+    {
+      "id": 56,
+      "code": "French_Guiana",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "프랑스령 가이아나 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 57,
+      "code": "French_Southern",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "프랑스령 남부 식민지 및 남극 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 58,
+      "code": "GMT",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "그리니치 표준시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 59,
+      "code": "Galapagos",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "갈라파고스 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 60,
+      "code": "Gambier",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "감비에 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 61,
+      "code": "Georgia",
+      "ilban_ireum": "조지아 시간",
+      "pyojunsi_ireum": "조지아 표준시",
+      "hagyesi_ireum": "조지아 하계 표준시"
+    },
+    {
+      "id": 62,
+      "code": "Gilbert_Islands",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "길버트 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 63,
+      "code": "Greenland_Eastern",
+      "ilban_ireum": "그린란드 동부 시간",
+      "pyojunsi_ireum": "그린란드 동부 표준시",
+      "hagyesi_ireum": "그린란드 동부 하계 표준시"
+    },
+    {
+      "id": 64,
+      "code": "Greenland_Western",
+      "ilban_ireum": "그린란드 서부 시간",
+      "pyojunsi_ireum": "그린란드 서부 표준시",
+      "hagyesi_ireum": "그린란드 서부 하계 표준시"
+    },
+    {
+      "id": 65,
+      "code": "Gulf",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "걸프만 표준시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 66,
+      "code": "Guyana",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "가이아나 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 67,
+      "code": "Hawaii",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "하와이 알류샨 표준시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 68,
+      "code": "Hawaii_Aleutian",
+      "ilban_ireum": "하와이 알류샨 시간",
+      "pyojunsi_ireum": "하와이 알류샨 표준시",
+      "hagyesi_ireum": "하와이 알류샨 하계 표준시"
+    },
+    {
+      "id": 69,
+      "code": "Hong_Kong",
+      "ilban_ireum": "홍콩 시간",
+      "pyojunsi_ireum": "홍콩 표준시",
+      "hagyesi_ireum": "홍콩 하계 표준시"
+    },
+    {
+      "id": 70,
+      "code": "Hovd",
+      "ilban_ireum": "호브드 시간",
+      "pyojunsi_ireum": "호브드 표준시",
+      "hagyesi_ireum": "호브드 하계 표준시"
+    },
+    {
+      "id": 71,
+      "code": "India",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "인도 표준시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 72,
+      "code": "Indian_Ocean",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "인도양 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 73,
+      "code": "Indochina",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "인도차이나 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 74,
+      "code": "Indonesia_Central",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "중부 인도네시아 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 75,
+      "code": "Indonesia_Eastern",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "동부 인도네시아 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 76,
+      "code": "Indonesia_Western",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "서부 인도네시아 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 77,
+      "code": "Iran",
+      "ilban_ireum": "이란 시간",
+      "pyojunsi_ireum": "이란 표준시",
+      "hagyesi_ireum": "이란 하계 표준시"
+    },
+    {
+      "id": 78,
+      "code": "Irkutsk",
+      "ilban_ireum": "이르쿠츠크 시간",
+      "pyojunsi_ireum": "이르쿠츠크 표준시",
+      "hagyesi_ireum": "이르쿠츠크 하계 표준시"
+    },
+    {
+      "id": 79,
+      "code": "Israel",
+      "ilban_ireum": "이스라엘 시간",
+      "pyojunsi_ireum": "이스라엘 표준시",
+      "hagyesi_ireum": "이스라엘 하계 표준시"
+    },
+    {
+      "id": 80,
+      "code": "Japan",
+      "ilban_ireum": "일본 시간",
+      "pyojunsi_ireum": "일본 표준시",
+      "hagyesi_ireum": "일본 하계 표준시"
+    },
+    {
+      "id": 81,
+      "code": "Kamchatka",
+      "ilban_ireum": "페트로파블롭스크-캄차츠키 시간",
+      "pyojunsi_ireum": "페트로파블롭스크-캄차츠키 표준시",
+      "hagyesi_ireum": "페트로파블롭스크-캄차츠키 하계 표준시"
+    },
+    {
+      "id": 82,
+      "code": "Kazakhstan",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "카자흐스탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 83,
+      "code": "Kazakhstan_Eastern",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "동부 카자흐스탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 84,
+      "code": "Kazakhstan_Western",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "서부 카자흐스탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 85,
+      "code": "Korea",
+      "ilban_ireum": "한국 시간",
+      "pyojunsi_ireum": "한국 표준시",
+      "hagyesi_ireum": "한국 하계 표준시"
+    },
+    {
+      "id": 86,
+      "code": "Kosrae",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "코스라에섬 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 87,
+      "code": "Krasnoyarsk",
+      "ilban_ireum": "크라스노야르스크 시간",
+      "pyojunsi_ireum": "크라스노야르스크 표준시",
+      "hagyesi_ireum": "크라스노야르스크 하계 표준시"
+    },
+    {
+      "id": 88,
+      "code": "Kyrgystan",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "키르기스스탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 89,
+      "code": "Line_Islands",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "라인 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 90,
+      "code": "Lord_Howe",
+      "ilban_ireum": "로드 하우 시간",
+      "pyojunsi_ireum": "로드 하우 표준시",
+      "hagyesi_ireum": "로드 하우 하계 표준시"
+    },
+    {
+      "id": 91,
+      "code": "Macau",
+      "ilban_ireum": "마카오 시간",
+      "pyojunsi_ireum": "마카오 표준 시간",
+      "hagyesi_ireum": "마카오 하계 표준시"
+    },
+    {
+      "id": 92,
+      "code": "Magadan",
+      "ilban_ireum": "마가단 시간",
+      "pyojunsi_ireum": "마가단 표준시",
+      "hagyesi_ireum": "마가단 하계 표준시"
+    },
+    {
+      "id": 93,
+      "code": "Malaysia",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "말레이시아 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 94,
+      "code": "Maldives",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "몰디브 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 95,
+      "code": "Marquesas",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "마르키즈 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 96,
+      "code": "Marshall_Islands",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "마셜 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 97,
+      "code": "Mauritius",
+      "ilban_ireum": "모리셔스 시간",
+      "pyojunsi_ireum": "모리셔스 표준시",
+      "hagyesi_ireum": "모리셔스 하계 표준시"
+    },
+    {
+      "id": 98,
+      "code": "Mawson",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "모슨 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 99,
+      "code": "Mexico_Pacific",
+      "ilban_ireum": "멕시코 태평양 시간",
+      "pyojunsi_ireum": "멕시코 태평양 표준시",
+      "hagyesi_ireum": "멕시코 태평양 하계 표준시"
+    },
+    {
+      "id": 100,
+      "code": "Mongolia",
+      "ilban_ireum": "울란바토르 시간",
+      "pyojunsi_ireum": "울란바토르 표준시",
+      "hagyesi_ireum": "울란바토르 하계 표준시"
+    },
+    {
+      "id": 101,
+      "code": "Moscow",
+      "ilban_ireum": "모스크바 시간",
+      "pyojunsi_ireum": "모스크바 표준시",
+      "hagyesi_ireum": "모스크바 하계 표준시"
+    },
+    {
+      "id": 102,
+      "code": "Myanmar",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "미얀마 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 103,
+      "code": "Nauru",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "나우루 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 104,
+      "code": "Nepal",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "네팔 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 105,
+      "code": "New_Caledonia",
+      "ilban_ireum": "뉴칼레도니아 시간",
+      "pyojunsi_ireum": "뉴칼레도니아 표준시",
+      "hagyesi_ireum": "뉴칼레도니아 하계 표준시"
+    },
+    {
+      "id": 106,
+      "code": "New_Zealand",
+      "ilban_ireum": "뉴질랜드 시간",
+      "pyojunsi_ireum": "뉴질랜드 표준시",
+      "hagyesi_ireum": "뉴질랜드 하계 표준시"
+    },
+    {
+      "id": 107,
+      "code": "Newfoundland",
+      "ilban_ireum": "뉴펀들랜드 시간",
+      "pyojunsi_ireum": "뉴펀들랜드 표준시",
+      "hagyesi_ireum": "뉴펀들랜드 하계 표준시"
+    },
+    {
+      "id": 108,
+      "code": "Niue",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "니우에 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 109,
+      "code": "Norfolk",
+      "ilban_ireum": "노퍽섬 시간",
+      "pyojunsi_ireum": "노퍽섬 표준시",
+      "hagyesi_ireum": "노퍽섬 하계 표준시"
+    },
+    {
+      "id": 110,
+      "code": "Noronha",
+      "ilban_ireum": "페르난도 데 노로냐 시간",
+      "pyojunsi_ireum": "페르난도 데 노로냐 표준시",
+      "hagyesi_ireum": "페르난도 데 노로냐 하계 표준시"
+    },
+    {
+      "id": 111,
+      "code": "Novosibirsk",
+      "ilban_ireum": "노보시비르스크 시간",
+      "pyojunsi_ireum": "노보시비르스크 표준시",
+      "hagyesi_ireum": "노보시비르스크 하계 표준시"
+    },
+    {
+      "id": 112,
+      "code": "Omsk",
+      "ilban_ireum": "옴스크 시간",
+      "pyojunsi_ireum": "옴스크 표준시",
+      "hagyesi_ireum": "옴스크 하계 표준시"
+    },
+    {
+      "id": 113,
+      "code": "Pakistan",
+      "ilban_ireum": "파키스탄 시간",
+      "pyojunsi_ireum": "파키스탄 표준시",
+      "hagyesi_ireum": "파키스탄 하계 표준시"
+    },
+    {
+      "id": 114,
+      "code": "Palau",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "팔라우 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 115,
+      "code": "Papua_New_Guinea",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "파푸아뉴기니 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 116,
+      "code": "Paraguay",
+      "ilban_ireum": "파라과이 시간",
+      "pyojunsi_ireum": "파라과이 표준시",
+      "hagyesi_ireum": "파라과이 하계 표준시"
+    },
+    {
+      "id": 117,
+      "code": "Peru",
+      "ilban_ireum": "페루 시간",
+      "pyojunsi_ireum": "페루 표준시",
+      "hagyesi_ireum": "페루 하계 표준시"
+    },
+    {
+      "id": 118,
+      "code": "Philippines",
+      "ilban_ireum": "필리핀 시간",
+      "pyojunsi_ireum": "필리핀 표준시",
+      "hagyesi_ireum": "필리핀 하계 표준시"
+    },
+    {
+      "id": 119,
+      "code": "Phoenix_Islands",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "피닉스 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 120,
+      "code": "Pierre_Miquelon",
+      "ilban_ireum": "세인트피에르 미클롱 시간",
+      "pyojunsi_ireum": "세인트피에르 미클롱 표준시",
+      "hagyesi_ireum": "세인트피에르 미클롱 하계 표준시"
+    },
+    {
+      "id": 121,
+      "code": "Pitcairn",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "핏케언 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 122,
+      "code": "Ponape",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "포나페 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 123,
+      "code": "Pyongyang",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "평양 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 124,
+      "code": "Qyzylorda",
+      "ilban_ireum": "키질로르다 시간",
+      "pyojunsi_ireum": "키질로르다 표준 시간",
+      "hagyesi_ireum": "키질로르다 하계 표준시"
+    },
+    {
+      "id": 125,
+      "code": "Reunion",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "레위니옹 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 126,
+      "code": "Rothera",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "로데라 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 127,
+      "code": "Sakhalin",
+      "ilban_ireum": "사할린 시간",
+      "pyojunsi_ireum": "사할린 표준시",
+      "hagyesi_ireum": "사할린 하계 표준시"
+    },
+    {
+      "id": 128,
+      "code": "Samara",
+      "ilban_ireum": "사마라 시간",
+      "pyojunsi_ireum": "사마라 표준시",
+      "hagyesi_ireum": "사마라 하계 표준시"
+    },
+    {
+      "id": 129,
+      "code": "Samoa",
+      "ilban_ireum": "사모아 시간",
+      "pyojunsi_ireum": "사모아 표준시",
+      "hagyesi_ireum": "사모아 하계 표준시"
+    },
+    {
+      "id": 130,
+      "code": "Seychelles",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "세이셸 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 131,
+      "code": "Singapore",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "싱가포르 표준시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 132,
+      "code": "Solomon",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "솔로몬 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 133,
+      "code": "South_Georgia",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "사우스 조지아 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 134,
+      "code": "Suriname",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "수리남 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 135,
+      "code": "Syowa",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "쇼와 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 136,
+      "code": "Tahiti",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "타히티 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 137,
+      "code": "Taipei",
+      "ilban_ireum": "대만 시간",
+      "pyojunsi_ireum": "대만 표준시",
+      "hagyesi_ireum": "대만 하계 표준시"
+    },
+    {
+      "id": 138,
+      "code": "Tajikistan",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "타지키스탄 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 139,
+      "code": "Tokelau",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "토켈라우 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 140,
+      "code": "Tonga",
+      "ilban_ireum": "통가 시간",
+      "pyojunsi_ireum": "통가 표준시",
+      "hagyesi_ireum": "통가 하계 표준시"
+    },
+    {
+      "id": 141,
+      "code": "Truk",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "추크 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 142,
+      "code": "Turkmenistan",
+      "ilban_ireum": "투르크메니스탄 시간",
+      "pyojunsi_ireum": "투르크메니스탄 표준시",
+      "hagyesi_ireum": "투르크메니스탄 하계 표준시"
+    },
+    {
+      "id": 143,
+      "code": "Tuvalu",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "투발루 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 144,
+      "code": "Uruguay",
+      "ilban_ireum": "우루과이 시간",
+      "pyojunsi_ireum": "우루과이 표준시",
+      "hagyesi_ireum": "우루과이 하계 표준시"
+    },
+    {
+      "id": 145,
+      "code": "Uzbekistan",
+      "ilban_ireum": "우즈베키스탄 시간",
+      "pyojunsi_ireum": "우즈베키스탄 표준시",
+      "hagyesi_ireum": "우즈베키스탄 하계 표준시"
+    },
+    {
+      "id": 146,
+      "code": "Vanuatu",
+      "ilban_ireum": "바누아투 시간",
+      "pyojunsi_ireum": "바누아투 표준시",
+      "hagyesi_ireum": "바누아투 하계 표준시"
+    },
+    {
+      "id": 147,
+      "code": "Venezuela",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "베네수엘라 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 148,
+      "code": "Vladivostok",
+      "ilban_ireum": "블라디보스토크 시간",
+      "pyojunsi_ireum": "블라디보스토크 표준시",
+      "hagyesi_ireum": "블라디보스토크 하계 표준시"
+    },
+    {
+      "id": 149,
+      "code": "Volgograd",
+      "ilban_ireum": "볼고그라드 시간",
+      "pyojunsi_ireum": "볼고그라드 표준시",
+      "hagyesi_ireum": "볼고그라드 하계 표준시"
+    },
+    {
+      "id": 150,
+      "code": "Vostok",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "보스톡 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 151,
+      "code": "Wake",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "웨이크섬 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 152,
+      "code": "Wallis",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "월리스푸투나 제도 시간",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 153,
+      "code": "Yakutsk",
+      "ilban_ireum": "야쿠츠크 시간",
+      "pyojunsi_ireum": "야쿠츠크 표준시",
+      "hagyesi_ireum": "야쿠츠크 하계 표준시"
+    },
+    {
+      "id": 154,
+      "code": "Yekaterinburg",
+      "ilban_ireum": "예카테린부르크 시간",
+      "pyojunsi_ireum": "예카테린부르크 표준시",
+      "hagyesi_ireum": "예카테린부르크 하계 표준시"
+    },
+    {
+      "id": 155,
+      "code": "Yukon",
+      "ilban_ireum": "",
+      "pyojunsi_ireum": "유콘 시간",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "광역 시간대(메타존) 한국어 명칭 - 무료 다운로드",
+    "description": "CLDR 메타존(metazone) 코드와 한국어 일반/표준시/하계 표준시 명칭. 포함 155 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "광역 시간대(메타존) 한국어 명칭 | ListBase",
+    "seo_description": "다운로드 광역 시간대(메타존) 한국어 명칭 — 155 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 155 건 / 5 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

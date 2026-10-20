@@ -1,0 +1,1231 @@
+{
+  "id": "ko-chungcheongbuk-sigungu-dong",
+  "name": "Chungcheongbuk 시군구·동읍면 — Chungcheongbuk Districts & Neighborhoods",
+  "title": "Chungcheongbuk 시군구·동읍면 — Chungcheongbuk Districts & Neighborhoods",
+  "description": "Chungcheongbuk (충청북도) — 시군구 및 동·읍·면 행정 지명 목록 238건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Chungcheongbuk 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 238,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "충청북도",
+      "sigungu": "증평군",
+      "dong_eup_myeon": "도안면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "증평군",
+      "dong_eup_myeon": "증평읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "감물면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "괴산읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "문광면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "불정면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "사리면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "소수면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "연풍면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "장연면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "청안면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "청천면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "괴산군",
+      "dong_eup_myeon": "칠성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "내북면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "마로면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "보은읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "산외면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "삼승면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "속리산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "수한면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "장안면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "탄부면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "회남면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "보은군",
+      "dong_eup_myeon": "회인면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "가경동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "가덕면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "강내면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "강서동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "개신동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "금천동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "남문로1가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "남문로2가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "남이면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "남일면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "남주동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "남촌동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "낭성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "내곡동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "내덕동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "내수읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "대성동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "동막동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "명암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "모충동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "문암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "문의면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "미원면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "미평동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "방서동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "복대동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "봉명동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "북문로1가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "북문로2가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "북문로3가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "북이면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "분평동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "비하동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "사직동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "사창동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "사천동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "산남동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "산성동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "상신동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "서문동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "서운동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "서촌동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "석곡동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "석교동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "석소동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "성화동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "송절동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "수곡동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "수동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "수의동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "신대동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "신봉동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "신성동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "신전동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "영동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "영운동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "오동동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "오송읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "오창읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "옥산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "외남동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "외북동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "외평동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "외하동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "용담동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "용암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "용정동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "우암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "운동동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "운천동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "원평동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "월오동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "율량동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "장성동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "장암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "정봉동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "정북동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "정상동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "정하동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "주성동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "주중동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "지동동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "지북동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "탑동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "평동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "평촌동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "향정동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "현도면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "현암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "화계동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "청주시",
+      "dong_eup_myeon": "휴암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "군북면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "군서면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "동이면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "안남면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "안내면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "옥천읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "이원면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "청산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "옥천군",
+      "dong_eup_myeon": "청성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "강제동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "고명동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "고암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "금성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "남천동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "대랑동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "덕산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "동현동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "두학동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "명동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "명지동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "모산동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "백운면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "봉양읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "산곡동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "서부동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "송학면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "수산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "신동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "신백동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "영천동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "왕암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "의림동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "자작동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "장락동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "중앙로1가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "중앙로2가"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "천남동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "청전동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "청풍면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "하소동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "한수면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "화산동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "제천시",
+      "dong_eup_myeon": "흑석동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "광혜원면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "덕산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "문백면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "백곡면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "이월면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "진천읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "진천군",
+      "dong_eup_myeon": "초평면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "매곡면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "상촌면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "심천면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "양강면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "양산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "영동읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "용산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "용화면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "추풍령면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "학산면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "영동군",
+      "dong_eup_myeon": "황간면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "감곡면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "금왕읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "대소면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "맹동면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "삼성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "생극면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "소이면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "원남면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "음성군",
+      "dong_eup_myeon": "음성읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "가주동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "교현동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "금가면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "금릉동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "노은면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "단월동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "달천동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "대소원면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "동량면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "목벌동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "목행동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "봉방동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "산척면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "살미면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "성서동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "소태면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "수안보면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "신니면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "안림동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "앙성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "엄정면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "연수동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "용관동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "용탄동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "종민동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "주덕읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "중앙탑면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "지현동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "직동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "충의동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "충인동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "칠금동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "풍동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "충주시",
+      "dong_eup_myeon": "호암동"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "가곡면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "단성면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "단양읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "대강면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "매포읍"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "어상천면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "영춘면"
+    },
+    {
+      "sido": "충청북도",
+      "sigungu": "단양군",
+      "dong_eup_myeon": "적성면"
+    }
+  ],
+  "meta": {
+    "title": "Chungcheongbuk 시군구·동읍면 — Chungcheongbuk Districts & Neighborhoods - 무료 다운로드",
+    "description": "Chungcheongbuk (충청북도) — 시군구 및 동·읍·면 행정 지명 목록 238건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Chungcheongbuk 편. 필드: sido, sigungu, dong_eup_myeon. 포함 238 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Chungcheongbuk 시군구·동읍면 — Chungcheongbuk Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Chungcheongbuk 시군구·동읍면 — Chungcheongbuk Districts & Neighborhoods — 238 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 238 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

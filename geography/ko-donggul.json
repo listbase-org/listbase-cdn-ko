@@ -1,0 +1,2546 @@
+{
+  "id": "ko-donggul",
+  "name": "대한민국의 동굴 (Caves of South Korea)",
+  "title": "대한민국의 동굴 (Caves of South Korea)",
+  "description": "대한민국에 위치한 동굴 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 248,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27311690",
+      "name_ko": "가랭이굴",
+      "name_en": "",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.542222,
+      "longitude": 128.918611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27311689",
+      "name_ko": "가랭이굴",
+      "name_en": "Karaengi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.570556,
+      "longitude": 128.952778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27303277",
+      "name_ko": "가마동굴",
+      "name_en": "Kama-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.298333,
+      "longitude": 128.311111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27311688",
+      "name_ko": "가사골굴",
+      "name_en": "Kasagol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.563889,
+      "longitude": 128.9625,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27303281",
+      "name_ko": "각동굴",
+      "name_en": "Kak-tonggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.123056,
+      "longitude": 128.524444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27309720",
+      "name_ko": "갈매양지굴",
+      "name_en": "Kalmaeyangji-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.361944,
+      "longitude": 129.069167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27308556",
+      "name_ko": "감정동굴",
+      "name_en": "",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.893611,
+      "longitude": 127.7925,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27303289",
+      "name_ko": "개구명굴",
+      "name_en": "Kaegumyong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.348889,
+      "longitude": 128.876389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27309719",
+      "name_ko": "갬쟁이굴",
+      "name_en": "Kaemjaengi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.366111,
+      "longitude": 129.089722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27303224",
+      "name_ko": "검단이굴",
+      "name_en": "Komdani-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.141667,
+      "longitude": 128.596389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27304287",
+      "name_ko": "계림굴",
+      "name_en": "Kyerim-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.439167,
+      "longitude": 128.315556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q27309717",
+      "name_ko": "고구매굴",
+      "name_en": "Kogumae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.429444,
+      "longitude": 129.0975,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27303249",
+      "name_ko": "고병동굴",
+      "name_en": "Kobyong-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.299167,
+      "longitude": 128.739722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27337710",
+      "name_ko": "고수동굴",
+      "name_en": "Gosudonggul",
+      "located_in_at": "충청북도",
+      "latitude": 36.988889,
+      "longitude": 128.381944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q16092264",
+      "name_ko": "고씨굴",
+      "name_en": "Gossi Cave",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.129616,
+      "longitude": 128.532939,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%98%81%EC%9B%94_%EA%B3%A0%EC%94%A8%EA%B5%B4"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27303555",
+      "name_ko": "고씨동굴",
+      "name_en": "Kossi-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.130278,
+      "longitude": 128.531667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27309715",
+      "name_ko": "고천굴",
+      "name_en": "Koch'on-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.420556,
+      "longitude": 129.066111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27303226",
+      "name_ko": "골마차굴",
+      "name_en": "Kolmach'a-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.252778,
+      "longitude": 128.439722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q27303214",
+      "name_ko": "공기리석굴",
+      "name_en": "Konggiri-sokkul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.313889,
+      "longitude": 128.445556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27303559",
+      "name_ko": "공전리위밑굴",
+      "name_en": "Kongjolliwimik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.351389,
+      "longitude": 128.857222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q27304294",
+      "name_ko": "관음굴",
+      "name_en": "Kwanum-gul",
+      "located_in_at": "경상북도",
+      "latitude": 37.544167,
+      "longitude": 130.923333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27308261",
+      "name_ko": "관음굴",
+      "name_en": "",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.325833,
+      "longitude": 129.024722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q27304296",
+      "name_ko": "광동굴",
+      "name_en": "Kwang-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.339444,
+      "longitude": 128.935833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q39060665",
+      "name_ko": "광명동굴",
+      "name_en": "Gwangmyeong Cave",
+      "located_in_at": "광명시",
+      "latitude": 37.425621,
+      "longitude": 126.864387,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%AA%85%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27313105",
+      "name_ko": "광천동굴",
+      "name_en": "Kwangch'on-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.512222,
+      "longitude": 128.445556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q27303233",
+      "name_ko": "괴골굴",
+      "name_en": "Koegol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.235,
+      "longitude": 128.359722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q27303237",
+      "name_ko": "괴병동굴",
+      "name_en": "Koebyong-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.299167,
+      "longitude": 128.741389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q27309757",
+      "name_ko": "구문소동굴",
+      "name_en": "Kumunso-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.0925,
+      "longitude": 129.043333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q27309754",
+      "name_ko": "굴뚝굴",
+      "name_en": "Kulttuk-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.144444,
+      "longitude": 129.08,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q27311687",
+      "name_ko": "굴산사지당간지수",
+      "name_en": "Kulsansajidangganjisu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.706944,
+      "longitude": 128.891944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27304309",
+      "name_ko": "굽등수직굴",
+      "name_en": "Kuptungsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.178611,
+      "longitude": 128.615833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q27303542",
+      "name_ko": "극골동굴",
+      "name_en": "Kukkol-tonggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.157778,
+      "longitude": 128.794444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q27311686",
+      "name_ko": "금단이굴",
+      "name_en": "Kumdani-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.595833,
+      "longitude": 128.961944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q27304324",
+      "name_ko": "금몽암굴",
+      "name_en": "Kummongam-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.206667,
+      "longitude": 128.456667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q27303535",
+      "name_ko": "금부처굴",
+      "name_en": "Kumbuch'o-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.116111,
+      "longitude": 128.938056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q27322299",
+      "name_ko": "금수굴",
+      "name_en": "Kumsu-gul",
+      "located_in_at": "경상북도",
+      "latitude": 36.261944,
+      "longitude": 128.381111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q27308408",
+      "name_ko": "기곡굴",
+      "name_en": "Gagokgul",
+      "located_in_at": "경기도",
+      "latitude": 37.515833,
+      "longitude": 127.433611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q6750353",
+      "name_ko": "김녕굴·만장굴",
+      "name_en": "Gimnyeong Cave, Manjanggul Cave",
+      "located_in_at": "",
+      "latitude": 33.52825,
+      "longitude": 126.770139,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC_%EA%B9%80%EB%85%95%EA%B5%B4%EA%B3%BC_%EB%A7%8C%EC%9E%A5%EA%B5%B4"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q27303256",
+      "name_ko": "김씨굴",
+      "name_en": "Kimssi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.146111,
+      "longitude": 128.584722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27304181",
+      "name_ko": "나발굴",
+      "name_en": "Nabal-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.346944,
+      "longitude": 128.609722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q27304176",
+      "name_ko": "낙화암굴",
+      "name_en": "Nakhwaam-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.187222,
+      "longitude": 128.481944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q27311685",
+      "name_ko": "남산골굴",
+      "name_en": "Namsan'gol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.570833,
+      "longitude": 128.916944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q27304167",
+      "name_ko": "남산굴",
+      "name_en": "Namsan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.439167,
+      "longitude": 128.315556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q27304172",
+      "name_ko": "남평리북굴",
+      "name_en": "Namp'yongnibuk-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.459444,
+      "longitude": 128.671111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q27304165",
+      "name_ko": "납작굴",
+      "name_en": "Napchak-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.146389,
+      "longitude": 128.583056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q27309711",
+      "name_ko": "노곡박쥐굴",
+      "name_en": "Nogokpakchwi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.379167,
+      "longitude": 129.138333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q27309708",
+      "name_ko": "노곡용소굴",
+      "name_en": "Nogogyongso-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.346667,
+      "longitude": 129.125833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q12590323",
+      "name_ko": "노동동굴",
+      "name_en": "Nodong cave",
+      "located_in_at": "단양군",
+      "latitude": 36.952614,
+      "longitude": 128.381997,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91_%EB%85%B8%EB%8F%99%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q27337714",
+      "name_ko": "노등동굴",
+      "name_en": "Nodongdonggul",
+      "located_in_at": "충청북도",
+      "latitude": 36.953056,
+      "longitude": 128.382222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q27304155",
+      "name_ko": "노론굴",
+      "name_en": "Noron-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.358333,
+      "longitude": 128.440833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q27304143",
+      "name_ko": "늘골굴",
+      "name_en": "Nulgol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.496944,
+      "longitude": 128.446111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q27307556",
+      "name_ko": "다래기굴",
+      "name_en": "Taraegi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.286944,
+      "longitude": 128.261111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q12591124",
+      "name_ko": "당처물동굴",
+      "name_en": "Jeju Dangcheomul Cave",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.556667,
+      "longitude": 126.784722,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC_%EB%8B%B9%EC%B2%98%EB%AC%BC%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q137544896",
+      "name_ko": "대금굴",
+      "name_en": "Daegeum Cave",
+      "located_in_at": "삼척시",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q27307576",
+      "name_ko": "대야동굴",
+      "name_en": "Taeya-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.129167,
+      "longitude": 128.551389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q27307573",
+      "name_ko": "대야수직굴",
+      "name_en": "Taeyasujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.098056,
+      "longitude": 128.578056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q27307584",
+      "name_ko": "대지산굴",
+      "name_en": "Taejisan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.286944,
+      "longitude": 128.8475,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q27309706",
+      "name_ko": "덕밭세굴",
+      "name_en": "Tokpasse-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.336944,
+      "longitude": 129.016389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q27307506",
+      "name_ko": "도락개굴",
+      "name_en": "Torakkae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.1525,
+      "longitude": 128.582222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q27307534",
+      "name_ko": "도장골굴",
+      "name_en": "Tojanggol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.159444,
+      "longitude": 128.410556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q27311683",
+      "name_ko": "동대굴",
+      "name_en": "Tongdae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.580278,
+      "longitude": 128.944722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q27325059",
+      "name_ko": "동산굴",
+      "name_en": "Dongsangul",
+      "located_in_at": "경상남도",
+      "latitude": 35.570556,
+      "longitude": 128.38,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q27309704",
+      "name_ko": "동산굴",
+      "name_en": "Tongsan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.393611,
+      "longitude": 129.093889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q27307516",
+      "name_ko": "동정굴",
+      "name_en": "Tongjong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.213611,
+      "longitude": 128.348889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q27307482",
+      "name_ko": "뒷들굴",
+      "name_en": "Twittul-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.218056,
+      "longitude": 128.358333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q27304278",
+      "name_ko": "마당굴",
+      "name_en": "Madang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.396944,
+      "longitude": 128.561944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q28700242",
+      "name_ko": "마산동굴",
+      "name_en": "",
+      "located_in_at": "무주군",
+      "latitude": 35.903056,
+      "longitude": 127.678333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%82%B0%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q27304247",
+      "name_ko": "만덕굴",
+      "name_en": "Mandok-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.116667,
+      "longitude": 128.937222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q27304182",
+      "name_ko": "명마굴",
+      "name_en": "Myongma-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.290278,
+      "longitude": 128.286111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q27308221",
+      "name_ko": "무건굴",
+      "name_en": "Mugon-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.261389,
+      "longitude": 129.104444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q27304188",
+      "name_ko": "무릉동굴",
+      "name_en": "Murung-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.256389,
+      "longitude": 128.781111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q27304202",
+      "name_ko": "무명굴",
+      "name_en": "Mumyong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.263889,
+      "longitude": 128.949167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q27311682",
+      "name_ko": "무명수직굴",
+      "name_en": "Mumyongsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.598056,
+      "longitude": 128.912778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q27314282",
+      "name_ko": "무장굴",
+      "name_en": "Mujang-gul",
+      "located_in_at": "경상북도",
+      "latitude": 36.395556,
+      "longitude": 129.156944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q27304197",
+      "name_ko": "문개실굴",
+      "name_en": "Mun'gaesil-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.204444,
+      "longitude": 128.429167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q27309701",
+      "name_ko": "미로박쥐굴",
+      "name_en": "Mirobakchwi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.394167,
+      "longitude": 129.098056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q27304041",
+      "name_ko": "바람굴",
+      "name_en": "Param-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.336389,
+      "longitude": 128.485,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q27304058",
+      "name_ko": "박쥐굴",
+      "name_en": "Pakchwi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.144444,
+      "longitude": 128.847778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q27304057",
+      "name_ko": "박쥐굴",
+      "name_en": "Pakchwi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.295833,
+      "longitude": 128.483611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q27304060",
+      "name_ko": "박쥐굴",
+      "name_en": "Pakchwi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.3625,
+      "longitude": 128.334444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q27311681",
+      "name_ko": "박쥐굴",
+      "name_en": "Pakchwi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.577222,
+      "longitude": 128.944722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q27304062",
+      "name_ko": "박쥐동굴",
+      "name_en": "Pakchwi-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.271389,
+      "longitude": 128.305,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q27304061",
+      "name_ko": "박쥐동굴",
+      "name_en": "Pakchwi-donggul",
+      "located_in_at": "충청북도",
+      "latitude": 37.235833,
+      "longitude": 128.001111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q27304046",
+      "name_ko": "반천굴",
+      "name_en": "Panch'on-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.460278,
+      "longitude": 128.789167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q27313104",
+      "name_ko": "발내굴",
+      "name_en": "Pallae-gul",
+      "located_in_at": "",
+      "latitude": 37.5043,
+      "longitude": 128.48135,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q27309698",
+      "name_ko": "발리굴",
+      "name_en": "Palli-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.297222,
+      "longitude": 129.043611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q27304045",
+      "name_ko": "방아굴",
+      "name_en": "Panga-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.295,
+      "longitude": 128.485556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q27309752",
+      "name_ko": "방터굴",
+      "name_en": "Pangt'o-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.106667,
+      "longitude": 129.0725,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q27304089",
+      "name_ko": "배거리굴",
+      "name_en": "Paegori-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.275278,
+      "longitude": 128.358056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q27304069",
+      "name_ko": "백룡동굴",
+      "name_en": "Paengnyong-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.2675,
+      "longitude": 128.576667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q12597755",
+      "name_ko": "백룡동굴",
+      "name_en": "Baengnyong Cave",
+      "located_in_at": "평창군",
+      "latitude": 37.277778,
+      "longitude": 128.576944,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%8F%89%EC%B0%BD_%EB%B0%B1%EB%A3%A1%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q27308584",
+      "name_ko": "백인굴",
+      "name_en": "Baegingul",
+      "located_in_at": "경기도",
+      "latitude": 37.725,
+      "longitude": 127.025,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q27309693",
+      "name_ko": "버들고개굴",
+      "name_en": "Podulgogae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.458333,
+      "longitude": 129.064167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q27309689",
+      "name_ko": "범굴",
+      "name_en": "Pom-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.291111,
+      "longitude": 129.094167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q27311680",
+      "name_ko": "범녹굴",
+      "name_en": "Pomnok-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.595278,
+      "longitude": 128.926389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q27311679",
+      "name_ko": "범바위굴",
+      "name_en": "Pombawi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.600556,
+      "longitude": 128.914722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q27311678",
+      "name_ko": "범바위수직굴",
+      "name_en": "Pombawisujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.598889,
+      "longitude": 128.913889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q27304545",
+      "name_ko": "벽골굴",
+      "name_en": "Pyokkol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.129722,
+      "longitude": 128.612222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q27309686",
+      "name_ko": "벽령수직굴",
+      "name_en": "Pyongnyongsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.379167,
+      "longitude": 129.138056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q27304538",
+      "name_ko": "병창굴",
+      "name_en": "Pyongch'ang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.251389,
+      "longitude": 128.428056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q27304551",
+      "name_ko": "분지미동굴",
+      "name_en": "Punjimi-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.171944,
+      "longitude": 128.364722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q27304017",
+      "name_ko": "비룡굴",
+      "name_en": "Piryong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.416944,
+      "longitude": 128.6125,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q27313152",
+      "name_ko": "비선굴",
+      "name_en": "Pison-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.564722,
+      "longitude": 128.9625,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q27309683",
+      "name_ko": "사다리바위바람굴",
+      "name_en": "Sadaribawibaram-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.32,
+      "longitude": 129.004444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q27325063",
+      "name_ko": "사효굴",
+      "name_en": "Sahyo-gul",
+      "located_in_at": "대구광역시",
+      "latitude": 35.703333,
+      "longitude": 128.488333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q27306578",
+      "name_ko": "산호동굴",
+      "name_en": "Sanho-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.447778,
+      "longitude": 128.756111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q27306592",
+      "name_ko": "삼옥굴",
+      "name_en": "Samok-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.205556,
+      "longitude": 128.499444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q16093447",
+      "name_ko": "삼척 대이리 동굴지대",
+      "name_en": "Samcheok Daei-ri Cave Site",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.325,
+      "longitude": 129.008333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%99_%EB%8C%80%EC%9D%B4%EB%A6%AC_%EB%8F%99%EA%B5%B4%EC%A7%80%EB%8C%80"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q27309680",
+      "name_ko": "삼화동호굴",
+      "name_en": "Samhwadongho-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.461944,
+      "longitude": 129.010556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q27306580",
+      "name_ko": "상막동굴",
+      "name_en": "Sangmak-tonggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.191667,
+      "longitude": 128.745833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q27306586",
+      "name_ko": "상암굴",
+      "name_en": "Sangam-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.3675,
+      "longitude": 128.427778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q27313150",
+      "name_ko": "샘골굴",
+      "name_en": "Saemgol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.663333,
+      "longitude": 128.967222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q27306630",
+      "name_ko": "생탄피난굴",
+      "name_en": "Saengt'anp'inan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.388333,
+      "longitude": 128.621944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q27313148",
+      "name_ko": "서대굴",
+      "name_en": "Sodae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.545,
+      "longitude": 128.928611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q27306535",
+      "name_ko": "석굴",
+      "name_en": "Sok-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.311944,
+      "longitude": 128.440556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q489820",
+      "name_ko": "석굴암",
+      "name_en": "Seokguram",
+      "located_in_at": "경주시",
+      "latitude": 35.795,
+      "longitude": 129.349167,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%9D%EA%B5%B4%EC%95%94"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q27306533",
+      "name_ko": "석순굴",
+      "name_en": "Soksun-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.404444,
+      "longitude": 128.858056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q27306539",
+      "name_ko": "석장굴",
+      "name_en": "Sokchang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.439444,
+      "longitude": 128.466111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q27306538",
+      "name_ko": "석항물굴",
+      "name_en": "Sokhangmul-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.197778,
+      "longitude": 128.626667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q27306536",
+      "name_ko": "석항수직굴",
+      "name_en": "Sokhangsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.200278,
+      "longitude": 128.613889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q27306537",
+      "name_ko": "석항피난굴",
+      "name_en": "Sokhangp'inan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.200556,
+      "longitude": 128.615,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q27313146",
+      "name_ko": "석회동굴",
+      "name_en": "Sokhoe-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.574444,
+      "longitude": 128.913889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q27314251",
+      "name_ko": "성류굴",
+      "name_en": "Songnyu-gul",
+      "located_in_at": "경상북도",
+      "latitude": 36.955833,
+      "longitude": 129.379722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q12601947",
+      "name_ko": "성류굴",
+      "name_en": "Seongnyugul Cave",
+      "located_in_at": "울진군",
+      "latitude": 36.955889,
+      "longitude": 129.379072,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%B1%EB%A5%98%EA%B5%B4"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q27324917",
+      "name_ko": "성현굴",
+      "name_en": "Seonghyeongul",
+      "located_in_at": "경상북도",
+      "latitude": 35.7271,
+      "longitude": 128.72747,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q27313145",
+      "name_ko": "세미골굴",
+      "name_en": "Semigol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.6725,
+      "longitude": 128.964722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q27308554",
+      "name_ko": "소양동굴",
+      "name_en": "Soyang-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.895,
+      "longitude": 127.796944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q27296119",
+      "name_ko": "소촌귤",
+      "name_en": "Socheongul",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.3675,
+      "longitude": 126.256667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q27306510",
+      "name_ko": "송골굴",
+      "name_en": "Songgol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.1525,
+      "longitude": 128.591111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q27306550",
+      "name_ko": "쇠구렁이굴",
+      "name_en": "Soegurongi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.311389,
+      "longitude": 128.815278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q27313144",
+      "name_ko": "쇠구멍굴",
+      "name_en": "Soegumong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.6625,
+      "longitude": 128.945,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q27306467",
+      "name_ko": "수직동굴",
+      "name_en": "Sujik-tonggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.220278,
+      "longitude": 128.445,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q27309751",
+      "name_ko": "수한촌상굴",
+      "name_en": "Suhanch'onsang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.085278,
+      "longitude": 129.025833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q27309748",
+      "name_ko": "수한촌하굴",
+      "name_en": "Suhanch'onha-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.085833,
+      "longitude": 129.026389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q27309678",
+      "name_ko": "숯가마골굴",
+      "name_en": "Sukkamagol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.4125,
+      "longitude": 129.086111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q27306454",
+      "name_ko": "숯둔굴",
+      "name_en": "Suttun-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.350556,
+      "longitude": 128.881667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q27306453",
+      "name_ko": "숯둔수직굴",
+      "name_en": "Suttunsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.347778,
+      "longitude": 128.875278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q27309676",
+      "name_ko": "쉰배나무골굴",
+      "name_en": "Swinbaenamugol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.440556,
+      "longitude": 129.0475,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q27309670",
+      "name_ko": "쉰움새굴",
+      "name_en": "Swinumsae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.448889,
+      "longitude": 129.047222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q27306555",
+      "name_ko": "시루구멍굴",
+      "name_en": "Sirugumong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.458889,
+      "longitude": 128.846944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q27309745",
+      "name_ko": "신령굴",
+      "name_en": "Sillyong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.146389,
+      "longitude": 129.035,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q27306562",
+      "name_ko": "신선굴",
+      "name_en": "Sinson-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.146111,
+      "longitude": 128.846111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q27309668",
+      "name_ko": "안경굴",
+      "name_en": "An'gyong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.389167,
+      "longitude": 129.078611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q27313142",
+      "name_ko": "암자골굴",
+      "name_en": "Amjagol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.652778,
+      "longitude": 128.956944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q27307433",
+      "name_ko": "양지굴",
+      "name_en": "Yangji-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.351111,
+      "longitude": 128.765833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q27309666",
+      "name_ko": "양터목세굴",
+      "name_en": "Yangt'omokse-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.334167,
+      "longitude": 129.012222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q27304116",
+      "name_ko": "얼굴이굴",
+      "name_en": "Olguri-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.3925,
+      "longitude": 128.567778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q27304098",
+      "name_ko": "얼음굴",
+      "name_en": "Orum-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.421111,
+      "longitude": 128.5725,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q27307393",
+      "name_ko": "여량산호동굴",
+      "name_en": "Yoryangsanho-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.444722,
+      "longitude": 128.762222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q27308557",
+      "name_ko": "연산동굴",
+      "name_en": "Yonsan-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.896667,
+      "longitude": 127.791944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q27315520",
+      "name_ko": "연이동골",
+      "name_en": "Yeonidonggol",
+      "located_in_at": "충청북도",
+      "latitude": 36.356944,
+      "longitude": 127.650556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q27309664",
+      "name_ko": "연지굴",
+      "name_en": "Yonji-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.381389,
+      "longitude": 129.085833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q27315519",
+      "name_ko": "연지동골",
+      "name_en": "Yeonjidonggol",
+      "located_in_at": "충청북도",
+      "latitude": 36.354722,
+      "longitude": 127.656667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q27309660",
+      "name_ko": "연치골굴",
+      "name_en": "Yonch'igol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.388056,
+      "longitude": 129.107222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q27307397",
+      "name_ko": "연하굴",
+      "name_en": "Yonha-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.186667,
+      "longitude": 128.505833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q27314283",
+      "name_ko": "연화굴",
+      "name_en": "Yonhwa-gul",
+      "located_in_at": "경상북도",
+      "latitude": 36.398333,
+      "longitude": 129.156667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q27308209",
+      "name_ko": "연화상굴",
+      "name_en": "Yonhwasang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.298333,
+      "longitude": 129.091944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q27308202",
+      "name_ko": "연화하굴",
+      "name_en": "Yonhwaha-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.303056,
+      "longitude": 129.085556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q27313140",
+      "name_ko": "영밑동굴",
+      "name_en": "Yongmit-tonggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.56,
+      "longitude": 128.935833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q27307427",
+      "name_ko": "예밀리굴",
+      "name_en": "Yemilli-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.143056,
+      "longitude": 128.586667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q27307426",
+      "name_ko": "예밀수직굴",
+      "name_en": "Yemilsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.144444,
+      "longitude": 128.571667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q27313139",
+      "name_ko": "옥계굴",
+      "name_en": "Okkye-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.571667,
+      "longitude": 128.913333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q16094192",
+      "name_ko": "온달동굴",
+      "name_en": "Ondal Cave",
+      "located_in_at": "단양군",
+      "latitude": 37.061389,
+      "longitude": 128.493333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91_%EC%98%A8%EB%8B%AC%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q27307267",
+      "name_ko": "용각굴",
+      "name_en": "Yonggakgul",
+      "located_in_at": "경기도",
+      "latitude": 37.805,
+      "longitude": 127.096111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q27307411",
+      "name_ko": "용굴",
+      "name_en": "Yong-gul",
+      "located_in_at": "경상북도",
+      "latitude": 37.5125,
+      "longitude": 130.917222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q27307413",
+      "name_ko": "용담굴",
+      "name_en": "Yongdam-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.147778,
+      "longitude": 128.540833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q27313138",
+      "name_ko": "용소굴",
+      "name_en": "Yongso-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.615556,
+      "longitude": 128.917778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q27308217",
+      "name_ko": "용소굴",
+      "name_en": "Yongso-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.255833,
+      "longitude": 129.110556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q27307402",
+      "name_ko": "용수골굴",
+      "name_en": "Yongsugol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.426667,
+      "longitude": 128.624444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q27307401",
+      "name_ko": "용수굴",
+      "name_en": "Yongsu-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.208333,
+      "longitude": 128.934167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q27307398",
+      "name_ko": "용연동굴",
+      "name_en": "Yongyon-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.209722,
+      "longitude": 128.937778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q27307409",
+      "name_ko": "용혈굴",
+      "name_en": "Yonghyol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.290833,
+      "longitude": 128.960278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q27308406",
+      "name_ko": "원복포굴",
+      "name_en": "Wonbokpogul",
+      "located_in_at": "경기도",
+      "latitude": 37.5175,
+      "longitude": 127.418889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q27307444",
+      "name_ko": "월둔굴",
+      "name_en": "Woltun-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.256667,
+      "longitude": 128.943333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q27307384",
+      "name_ko": "유목정굴",
+      "name_en": "Yumokchong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.283333,
+      "longitude": 128.304444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q27307474",
+      "name_ko": "음지굴",
+      "name_en": "Eumjigul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.351667,
+      "longitude": 128.754167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q27307470",
+      "name_ko": "응암동굴",
+      "name_en": "Ungam-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.328333,
+      "longitude": 128.390556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q27307467",
+      "name_ko": "응암상굴",
+      "name_en": "Ungamsang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.328056,
+      "longitude": 128.394722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q27307469",
+      "name_ko": "응암하굴",
+      "name_en": "Ungamha-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.328056,
+      "longitude": 128.391389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q27303294",
+      "name_ko": "이심이굴",
+      "name_en": "Isimi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.290278,
+      "longitude": 128.958056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q27303297",
+      "name_ko": "일광굴",
+      "name_en": "Ilgwang-gul",
+      "located_in_at": "충청북도",
+      "latitude": 37.117778,
+      "longitude": 128.357222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q27323656",
+      "name_ko": "임장수굴",
+      "name_en": "Imjangsu-gul",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.955833,
+      "longitude": 127.5975,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q27302482",
+      "name_ko": "작은동굴",
+      "name_en": "Chagun-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.293056,
+      "longitude": 128.484167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q27302469",
+      "name_ko": "장암굴",
+      "name_en": "Changam-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.394722,
+      "longitude": 128.419167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q27302441",
+      "name_ko": "장터굴",
+      "name_en": "Changt'o-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.235,
+      "longitude": 128.319167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q27313136",
+      "name_ko": "재궁골굴",
+      "name_en": "Chaegunggol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.679167,
+      "longitude": 128.968333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q27309657",
+      "name_ko": "저승굴",
+      "name_en": "Chosung-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.283056,
+      "longitude": 129.046389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q27296118",
+      "name_ko": "전구수굴",
+      "name_en": "Jeonggusugul",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.384722,
+      "longitude": 126.226389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q27303427",
+      "name_ko": "절골굴",
+      "name_en": "Cholgol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.350278,
+      "longitude": 128.811111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q27313134",
+      "name_ko": "절골굴",
+      "name_en": "Cholgol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.668056,
+      "longitude": 128.952778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q135005661",
+      "name_ko": "정선 비룡굴",
+      "name_en": "Jeongseon Biryong Cave",
+      "located_in_at": "정선군",
+      "latitude": 37.420249,
+      "longitude": 128.613446,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q12615713",
+      "name_ko": "정선 산호동굴",
+      "name_en": "Sanhodonggul Cave, Jeongseon",
+      "located_in_at": "정선군",
+      "latitude": 37.469139,
+      "longitude": 128.730444,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0_%EC%82%B0%ED%98%B8%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q19162029",
+      "name_ko": "정선 용소동굴",
+      "name_en": "Jeongseon Yongso Cave",
+      "located_in_at": "정선군",
+      "latitude": 37.245278,
+      "longitude": 128.898611,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0_%EC%9A%A9%EC%86%8C%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q79569818",
+      "name_ko": "정선 화암동굴",
+      "name_en": "Hwaamgul",
+      "located_in_at": "정선군",
+      "latitude": 37.350556,
+      "longitude": 128.790278,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%84%A0_%ED%99%94%EC%95%94%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q27303410",
+      "name_ko": "정선마당굴",
+      "name_en": "Chongsonmadang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.392778,
+      "longitude": 128.5625,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q27303411",
+      "name_ko": "정선점터굼굴",
+      "name_en": "Chongsonjomt'ogum-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.399167,
+      "longitude": 128.560556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q55737824",
+      "name_ko": "제주 선흘리 벵뒤굴",
+      "name_en": "Jeju Seonheul-ri Bengdwigul",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.4775,
+      "longitude": 126.718333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC_%EC%84%A0%ED%9D%98%EB%A6%AC_%EB%B2%B5%EB%92%A4%EA%B5%B4"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q12599527",
+      "name_ko": "제주 어음리 빌레못동굴",
+      "name_en": "Bilemot Cave",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.404333,
+      "longitude": 126.349778,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC_%EC%96%B4%EC%9D%8C%EB%A6%AC_%EB%B9%8C%EB%A0%88%EB%AA%BB%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q27303407",
+      "name_ko": "종유굴",
+      "name_en": "Chongyu-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.35,
+      "longitude": 128.790833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q27314281",
+      "name_ko": "주왕굴",
+      "name_en": "Chuwang-gul",
+      "located_in_at": "경상북도",
+      "latitude": 36.395278,
+      "longitude": 129.160278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q27303387",
+      "name_ko": "주진굴",
+      "name_en": "Chujin-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.4025,
+      "longitude": 128.425556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q27309654",
+      "name_ko": "중바위굴",
+      "name_en": "Chungbawi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.382778,
+      "longitude": 129.082222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q27309653",
+      "name_ko": "중세가리굴",
+      "name_en": "Chungsegari-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.379167,
+      "longitude": 129.138333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q27303365",
+      "name_ko": "중터거리굴",
+      "name_en": "Chungt'ogori-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.298333,
+      "longitude": 128.493611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q27308552",
+      "name_ko": "지내동굴",
+      "name_en": "Chinae-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.895,
+      "longitude": 127.793889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q27303446",
+      "name_ko": "지필굴",
+      "name_en": "Chip'il-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.4725,
+      "longitude": 128.8425,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q27303449",
+      "name_ko": "진피리굴",
+      "name_en": "Chinp'iri-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.429444,
+      "longitude": 128.659444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q27309652",
+      "name_ko": "차구리굴",
+      "name_en": "Ch'aguri-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.291111,
+      "longitude": 129.094167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q27313133",
+      "name_ko": "찬샘대기굴",
+      "name_en": "Ch'ansaemdaegi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.657222,
+      "longitude": 128.963889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q12618847",
+      "name_ko": "천동굴",
+      "name_en": "Danyang Cheondong Cave",
+      "located_in_at": "충청북도",
+      "latitude": 36.971667,
+      "longitude": 128.421667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%96%91_%EC%B2%9C%EB%8F%99%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q27337691",
+      "name_ko": "천동동굴",
+      "name_en": "Cheondongdonggul",
+      "located_in_at": "충청북도",
+      "latitude": 36.970833,
+      "longitude": 128.4225,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q27309805",
+      "name_ko": "천태밭굴",
+      "name_en": "Ch'ont'aebat-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.452778,
+      "longitude": 129.061944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q16095374",
+      "name_ko": "천호동굴",
+      "name_en": "Iksan Cheonho Cave",
+      "located_in_at": "전북특별자치도",
+      "latitude": 36.050556,
+      "longitude": 127.121944,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B2%9C%ED%98%B8%EB%8F%99%EA%B5%B4"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q27309802",
+      "name_ko": "청골굴",
+      "name_en": "Chonggol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.413056,
+      "longitude": 129.107222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q27309744",
+      "name_ko": "초당굴",
+      "name_en": "Ch'odang-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.383611,
+      "longitude": 129.181111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q16095728",
+      "name_ko": "초당굴",
+      "name_en": "Samcheok Chodanggul (三陟 草堂窟)",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.325278,
+      "longitude": 129.017222,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%B2%99_%EC%B4%88%EB%8B%B9%EA%B5%B4"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q27309799",
+      "name_ko": "칠밭재굴",
+      "name_en": "Ch'ilbatchae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.391667,
+      "longitude": 129.119444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q27303456",
+      "name_ko": "칠십리굴",
+      "name_en": "Ch'ilsimni-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.368611,
+      "longitude": 128.644444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q27308220",
+      "name_ko": "큰개울굴",
+      "name_en": "K'un'gaeul-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.259722,
+      "longitude": 129.106389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q27304317",
+      "name_ko": "큰곰골굴",
+      "name_en": "K'un'gomgol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.398056,
+      "longitude": 128.566111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q27313132",
+      "name_ko": "큰곰굴",
+      "name_en": "K'un'gom-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.671389,
+      "longitude": 128.964167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q27304320",
+      "name_ko": "큰동굴",
+      "name_en": "K'un-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.293611,
+      "longitude": 128.485278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q27309796",
+      "name_ko": "큰재세굴",
+      "name_en": "K'unjaese-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.347222,
+      "longitude": 129.0125,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q27307582",
+      "name_ko": "태나무골굴",
+      "name_en": "T'aenamugol-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.265,
+      "longitude": 128.822778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q27307579",
+      "name_ko": "태산리밭굼굴",
+      "name_en": "T'aesallibakkum-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.223889,
+      "longitude": 128.938056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q27296117",
+      "name_ko": "판지굴",
+      "name_en": "Panjigul",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.381667,
+      "longitude": 126.225,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q27304541",
+      "name_ko": "평안굴",
+      "name_en": "P'yongan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.3525,
+      "longitude": 128.513889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q27306651",
+      "name_ko": "평지굴",
+      "name_en": "P'yongji-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.1475,
+      "longitude": 128.589722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q27304556",
+      "name_ko": "풍촌굴",
+      "name_en": "P'ungch'on-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.304444,
+      "longitude": 128.828611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q27312906",
+      "name_ko": "풍혈",
+      "name_en": "Punghyeol",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.731944,
+      "longitude": 127.297222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q27304019",
+      "name_ko": "피난굴",
+      "name_en": "P'inan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.188056,
+      "longitude": 128.408056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q27304020",
+      "name_ko": "피난굴",
+      "name_en": "P'inan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.143333,
+      "longitude": 128.624722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q27304021",
+      "name_ko": "피난굴",
+      "name_en": "P'inan-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.27,
+      "longitude": 128.96,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q27309793",
+      "name_ko": "하정굴",
+      "name_en": "Hajong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.385556,
+      "longitude": 129.131111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q27303350",
+      "name_ko": "학교굴",
+      "name_en": "Hakkyo-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.162778,
+      "longitude": 128.311111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q27303353",
+      "name_ko": "학전굴",
+      "name_en": "Hakchon-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.293333,
+      "longitude": 128.487778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q27309791",
+      "name_ko": "한내굴",
+      "name_en": "Hannae-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.282778,
+      "longitude": 129.051667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q27303301",
+      "name_ko": "현의굴",
+      "name_en": "Hyonui-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.143611,
+      "longitude": 128.625278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q27303306",
+      "name_ko": "혈리굴",
+      "name_en": "Hyolli-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.125,
+      "longitude": 128.932778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q27303305",
+      "name_ko": "혈리숫굴",
+      "name_en": "Hyollisuk-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.122222,
+      "longitude": 128.933333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q27313130",
+      "name_ko": "형제봉굴",
+      "name_en": "Hyongjebong-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.637778,
+      "longitude": 128.954444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q27303329",
+      "name_ko": "호무실수직굴",
+      "name_en": "Homusilsujik-kul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.194444,
+      "longitude": 128.616944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q27307501",
+      "name_ko": "호촌리 땅굴",
+      "name_en": "Hochon-ri cave",
+      "located_in_at": "화암면",
+      "latitude": 37.288889,
+      "longitude": 128.839444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q27323748",
+      "name_ko": "화암굴",
+      "name_en": "Hwaamgul",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.761111,
+      "longitude": 127.415278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q27303321",
+      "name_ko": "화암종류굴",
+      "name_en": "Hwaamjongnyu-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.348889,
+      "longitude": 128.788611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q10765372",
+      "name_ko": "환선굴",
+      "name_en": "Hwanseon Cave",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.325,
+      "longitude": 129.006111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q27309789",
+      "name_ko": "활기굴",
+      "name_en": "Hwalgi-gul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.3725,
+      "longitude": 129.070556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q27303338",
+      "name_ko": "회동굴",
+      "name_en": "Hoe-donggul",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.421944,
+      "longitude": 128.574722,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 동굴 (Caves of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 동굴 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 248 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 동굴 (Caves of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 동굴 (Caves of South Korea) — 248 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 248 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

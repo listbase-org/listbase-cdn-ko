@@ -1,0 +1,8 @@
+﻿"Id","Wikidata Id","Name Ko","Name En","Sido Slug","Sido Ko","Sido En","Sido Source","Located In At","Elevation M","Latitude","Longitude","Geo Baejeong Geori Km","Wikipedia Ko"
+"1","Q10856086","남태령","남태령","seoul","서울특별시","Seoul","source_p131","서울특별시","","37.458333","126.988333","2.037","https://ko.wikipedia.org/wiki/%EB%82%A8%ED%83%9C%EB%A0%B9"
+"2","Q12594884","망우리고개","망우리고개","seoul","서울특별시","Seoul","derived_knn","대한민국","","37.601389","127.115556","0.822","https://ko.wikipedia.org/wiki/%EB%A7%9D%EC%9A%B0%EB%A6%AC%EA%B3%A0%EA%B0%9C"
+"3","Q27275678","무악재","무악재","seoul","서울특별시","Seoul","source_p131","서울특별시","","37.583333","126.95","0.139","https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%95%85%EC%9E%AC"
+"4","Q12596105","미아리고개","미아리고개","seoul","서울특별시","Seoul","derived_knn","돈암동","","37.5976","127.0216","0.356","https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%95%84%EB%A6%AC%EA%B3%A0%EA%B0%9C"
+"5","Q12596731","박석고개","박석고개","seoul","서울특별시","Seoul","source_p131","서울특별시","","37.628333","126.918889","0.572","https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%9D%EA%B3%A0%EA%B0%9C"
+"6","Q27300959","박석고개","박석고개","seoul","서울특별시","Seoul","derived_knn","서초구","","37.46028","127.07944","0.337",""
+"7","Q110470721","새실고개","새실고개","seoul","서울특별시","Seoul","derived_knn","관악구","","37.46994","126.9521","0.897",""

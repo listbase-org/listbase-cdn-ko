@@ -1,0 +1,236 @@
+{
+  "id": "ko-sanmaek",
+  "name": "대한민국의 산맥 (Mountain Ranges of South Korea)",
+  "title": "대한민국의 산맥 (Mountain Ranges of South Korea)",
+  "description": "대한민국에 위치한 산맥 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12585137",
+      "name_ko": "광주산맥",
+      "name_en": "Gwangju Mountains",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EC%82%B0%EB%A7%A5"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q16170226",
+      "name_ko": "금남정맥",
+      "name_en": "Geumnamjeongmaek",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B8%88%EB%82%A8%EC%A0%95%EB%A7%A5"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q12586425",
+      "name_ko": "금남호남정맥",
+      "name_en": "Geumnam-Honamjeongmaek",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B8%88%EB%82%A8%ED%98%B8%EB%82%A8%EC%A0%95%EB%A7%A5"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12586460",
+      "name_ko": "금북정맥",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B8%88%EB%B6%81%EC%A0%95%EB%A7%A5"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12590343",
+      "name_ko": "노령산맥",
+      "name_en": "Noryeong Mountains",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%A0%B9%EC%82%B0%EB%A7%A5"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q5295846",
+      "name_ko": "동대산맥",
+      "name_en": "Dongdae Mountains",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12594605",
+      "name_ko": "마식령산맥",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%8B%9D%EB%A0%B9%EC%82%B0%EB%A7%A5"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q705583",
+      "name_ko": "백두대간",
+      "name_en": "Baekdudaegan",
+      "located_in_at": "",
+      "latitude": 38.666667,
+      "longitude": 127.9,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%91%90%EB%8C%80%EA%B0%84"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27273147",
+      "name_ko": "백화산맥",
+      "name_en": "Baekhwasanmaek",
+      "located_in_at": "대한민국",
+      "latitude": 36.3,
+      "longitude": 127.916667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27267448",
+      "name_ko": "설악산맥",
+      "name_en": "Sorak-sanmaek",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.085833,
+      "longitude": 128.411667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1378602",
+      "name_ko": "소백산맥",
+      "name_en": "Sobaek Mountains",
+      "located_in_at": "",
+      "latitude": 35.337778,
+      "longitude": 127.730556,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%B0%B1%EC%82%B0%EB%A7%A5"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q8052468",
+      "name_ko": "영남알프스",
+      "name_en": "Yeongnam Alps",
+      "located_in_at": "",
+      "latitude": 35.59,
+      "longitude": 128.93,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%82%A8%EC%95%8C%ED%94%84%EC%8A%A4"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27290117",
+      "name_ko": "오대산맥",
+      "name_en": "Odae-sanmaek",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.805556,
+      "longitude": 128.551389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q6315569",
+      "name_ko": "주사산맥",
+      "name_en": "Jusa Mountains",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q6694226",
+      "name_ko": "차령산맥",
+      "name_en": "Charyeong Mountains",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B0%A8%EB%A0%B9%EC%82%B0%EB%A7%A5"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q562098",
+      "name_ko": "태백산맥",
+      "name_en": "Taebaek Mountains",
+      "located_in_at": "경상북도",
+      "latitude": 38.216667,
+      "longitude": 128.183333,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B0%B1%EC%82%B0%EB%A7%A5"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27283816",
+      "name_ko": "향로봉산맥",
+      "name_en": "Hyangnobongsanmaek",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.2525,
+      "longitude": 128.308056,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 산맥 (Mountain Ranges of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 산맥 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 17 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 산맥 (Mountain Ranges of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 산맥 (Mountain Ranges of South Korea) — 17 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 17 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

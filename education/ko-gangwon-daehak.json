@@ -1,0 +1,408 @@
+{
+  "id": "ko-gangwon-daehak",
+  "name": "Gangwon-do — Universities & Colleges (대학·전문대학)",
+  "title": "Gangwon-do — Universities & Colleges (대학·전문대학)",
+  "description": "Accredited higher-education institutions located in Gangwon-do (강원특별자치도), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nameKr",
+      "label": "NameKr",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "campus",
+      "label": "Campus",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "link",
+      "label": "Link",
+      "type": "string"
+    },
+    {
+      "key": "accredited_degree",
+      "label": "Accredited Degree",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_language",
+      "label": "Accredited Language",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_excellent",
+      "label": "Accredited Excellent",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25,
+      "nameKr": "한림성심대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.hsc.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 26,
+      "nameKr": "한림대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.hallym.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 27,
+      "nameKr": "한라대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.halla.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 54,
+      "nameKr": "한국폴리텍 III 대학 춘천캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kopo.ac.kr/chuncheon/",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 55,
+      "nameKr": "한국폴리텍 III 대학 원주캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kopo.ac.kr/wonju",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 56,
+      "nameKr": "한국폴리텍 III 대학 강릉캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kopo.ac.kr/gangneung",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 84,
+      "nameKr": "한국골프과학기술대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kg.ac.kr/",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 102,
+      "nameKr": "춘천교육대학교",
+      "level": "대학(4년제)",
+      "type": "교육대학",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.cnue.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 197,
+      "nameKr": "연세대학교 미래캠퍼스",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.yonsei.ac.kr/wj",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 230,
+      "nameKr": "송호대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.songho.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 232,
+      "nameKr": "송곡대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.songgok.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 239,
+      "nameKr": "세경대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.saekyung.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 271,
+      "nameKr": "상지대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.sangji.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 396,
+      "nameKr": "국립강릉원주대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제2캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.gwnu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 397,
+      "nameKr": "국립강릉원주대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.gwnu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 439,
+      "nameKr": "경동대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제3캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kduniv.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 440,
+      "nameKr": "경동대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kduniv.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 456,
+      "nameKr": "강원도립대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "공립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.gw.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 457,
+      "nameKr": "강원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제2캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kangwon.ac.kr/",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 458,
+      "nameKr": "강원대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kangwon.ac.kr/",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 459,
+      "nameKr": "강원관광대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.kt.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 461,
+      "nameKr": "강릉영동대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "http://www.gyu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 470,
+      "nameKr": "가톨릭관동대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "강원특별자치도",
+      "region_en": "Gangwon-do",
+      "link": "https://www.cku.ac.kr/cku/index.do#none",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    }
+  ],
+  "meta": {
+    "title": "Gangwon-do — Universities & Colleges (대학·전문대학) - 무료 다운로드",
+    "description": "Accredited higher-education institutions located in Gangwon-do (강원특별자치도), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags. 포함 23 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gangwon-do — Universities & Colleges (대학·전문대학) | ListBase",
+    "seo_description": "다운로드 Gangwon-do — Universities & Colleges (대학·전문대학) — 23 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 23 건 / 12 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "id": "ko-ulsan-haengjeong-dong",
+  "name": "울산광역시 — 행정동",
+  "title": "울산광역시 — 행정동",
+  "description": "울산광역시의 행정동(行政洞) 목록 56개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (56 haengjeong-dong / administrative neighborhoods of Ulsan Metropolitan City.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "short_code",
+      "label": "Short Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dong",
+      "label": "Dong",
+      "type": "string"
+    },
+    {
+      "key": "sido_code",
+      "label": "Sido Code",
+      "type": "number"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sgg_code",
+      "label": "Sgg Code",
+      "type": "number"
+    },
+    {
+      "key": "sgg",
+      "label": "Sgg",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3111051000",
+      "short_code": "2601051",
+      "name": "울산광역시 중구 학성동",
+      "dong": "학성동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111052000",
+      "short_code": "2601052",
+      "name": "울산광역시 중구 반구1동",
+      "dong": "반구1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111053000",
+      "short_code": "2601053",
+      "name": "울산광역시 중구 반구2동",
+      "dong": "반구2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111054000",
+      "short_code": "2601054",
+      "name": "울산광역시 중구 복산1동",
+      "dong": "복산1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111055000",
+      "short_code": "2601055",
+      "name": "울산광역시 중구 복산2동",
+      "dong": "복산2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111058500",
+      "short_code": "2601067",
+      "name": "울산광역시 중구 중앙동",
+      "dong": "중앙동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111059000",
+      "short_code": "2601059",
+      "name": "울산광역시 중구 우정동",
+      "dong": "우정동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111060000",
+      "short_code": "2601060",
+      "name": "울산광역시 중구 태화동",
+      "dong": "태화동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111061000",
+      "short_code": "2601061",
+      "name": "울산광역시 중구 다운동",
+      "dong": "다운동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111062000",
+      "short_code": "2601062",
+      "name": "울산광역시 중구 병영1동",
+      "dong": "병영1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111063000",
+      "short_code": "2601063",
+      "name": "울산광역시 중구 병영2동",
+      "dong": "병영2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111064000",
+      "short_code": "2601064",
+      "name": "울산광역시 중구 약사동",
+      "dong": "약사동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3111065000",
+      "short_code": "2601066",
+      "name": "울산광역시 중구 성안동",
+      "dong": "성안동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31110",
+      "sgg": "중구"
+    },
+    {
+      "code": "3114051000",
+      "short_code": "2602051",
+      "name": "울산광역시 남구 신정1동",
+      "dong": "신정1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114052000",
+      "short_code": "2602052",
+      "name": "울산광역시 남구 신정2동",
+      "dong": "신정2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114053000",
+      "short_code": "2602053",
+      "name": "울산광역시 남구 신정3동",
+      "dong": "신정3동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114054000",
+      "short_code": "2602054",
+      "name": "울산광역시 남구 신정4동",
+      "dong": "신정4동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114055000",
+      "short_code": "2602055",
+      "name": "울산광역시 남구 신정5동",
+      "dong": "신정5동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114056000",
+      "short_code": "2602056",
+      "name": "울산광역시 남구 달동",
+      "dong": "달동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114057000",
+      "short_code": "2602057",
+      "name": "울산광역시 남구 삼산동",
+      "dong": "삼산동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114058500",
+      "short_code": "2602058",
+      "name": "울산광역시 남구 삼호동",
+      "dong": "삼호동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114059500",
+      "short_code": "2602059",
+      "name": "울산광역시 남구 무거동",
+      "dong": "무거동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114060000",
+      "short_code": "2602060",
+      "name": "울산광역시 남구 옥동",
+      "dong": "옥동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114062500",
+      "short_code": "2602062",
+      "name": "울산광역시 남구 대현동",
+      "dong": "대현동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114063500",
+      "short_code": "2602063",
+      "name": "울산광역시 남구 수암동",
+      "dong": "수암동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114064000",
+      "short_code": "2602064",
+      "name": "울산광역시 남구 선암동",
+      "dong": "선암동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3114067000",
+      "short_code": "2602061",
+      "name": "울산광역시 남구 야음장생포동",
+      "dong": "야음장생포동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31140",
+      "sgg": "남구"
+    },
+    {
+      "code": "3117051000",
+      "short_code": "2603051",
+      "name": "울산광역시 동구 방어동",
+      "dong": "방어동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117052000",
+      "short_code": "2603052",
+      "name": "울산광역시 동구 일산동",
+      "dong": "일산동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117053000",
+      "short_code": "2603053",
+      "name": "울산광역시 동구 화정동",
+      "dong": "화정동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117054000",
+      "short_code": "2603054",
+      "name": "울산광역시 동구 대송동",
+      "dong": "대송동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117055000",
+      "short_code": "2603055",
+      "name": "울산광역시 동구 전하1동",
+      "dong": "전하1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117056000",
+      "short_code": "2603061",
+      "name": "울산광역시 동구 전하2동",
+      "dong": "전하2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117058000",
+      "short_code": "2603058",
+      "name": "울산광역시 동구 남목1동",
+      "dong": "남목1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117059000",
+      "short_code": "2603059",
+      "name": "울산광역시 동구 남목2동",
+      "dong": "남목2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3117060000",
+      "short_code": "2603060",
+      "name": "울산광역시 동구 남목3동",
+      "dong": "남목3동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31170",
+      "sgg": "동구"
+    },
+    {
+      "code": "3120051000",
+      "short_code": "2604051",
+      "name": "울산광역시 북구 농소1동",
+      "dong": "농소1동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120052000",
+      "short_code": "2604052",
+      "name": "울산광역시 북구 농소2동",
+      "dong": "농소2동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120053000",
+      "short_code": "2604053",
+      "name": "울산광역시 북구 농소3동",
+      "dong": "농소3동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120054000",
+      "short_code": "2604054",
+      "name": "울산광역시 북구 강동동",
+      "dong": "강동동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120056000",
+      "short_code": "2604056",
+      "name": "울산광역시 북구 효문동",
+      "dong": "효문동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120057000",
+      "short_code": "2604057",
+      "name": "울산광역시 북구 송정동",
+      "dong": "송정동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120058000",
+      "short_code": "2604058",
+      "name": "울산광역시 북구 양정동",
+      "dong": "양정동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3120059000",
+      "short_code": "2604059",
+      "name": "울산광역시 북구 염포동",
+      "dong": "염포동",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31200",
+      "sgg": "북구"
+    },
+    {
+      "code": "3171025000",
+      "short_code": "2631011",
+      "name": "울산광역시 울주군 온산읍",
+      "dong": "온산읍",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171025300",
+      "short_code": "2631012",
+      "name": "울산광역시 울주군 언양읍",
+      "dong": "언양읍",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171025600",
+      "short_code": "2631013",
+      "name": "울산광역시 울주군 온양읍",
+      "dong": "온양읍",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171025900",
+      "short_code": "2631014",
+      "name": "울산광역시 울주군 범서읍",
+      "dong": "범서읍",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171026200",
+      "short_code": "2631015",
+      "name": "울산광역시 울주군 청량읍",
+      "dong": "청량읍",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171026500",
+      "short_code": "2631016",
+      "name": "울산광역시 울주군 삼남읍",
+      "dong": "삼남읍",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171031000",
+      "short_code": "2631031",
+      "name": "울산광역시 울주군 서생면",
+      "dong": "서생면",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171034000",
+      "short_code": "2631034",
+      "name": "울산광역시 울주군 웅촌면",
+      "dong": "웅촌면",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171036000",
+      "short_code": "2631036",
+      "name": "울산광역시 울주군 두동면",
+      "dong": "두동면",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171037000",
+      "short_code": "2631037",
+      "name": "울산광역시 울주군 두서면",
+      "dong": "두서면",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171038000",
+      "short_code": "2631038",
+      "name": "울산광역시 울주군 상북면",
+      "dong": "상북면",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    },
+    {
+      "code": "3171040000",
+      "short_code": "2631040",
+      "name": "울산광역시 울주군 삼동면",
+      "dong": "삼동면",
+      "sido_code": "31",
+      "sido": "울산광역시",
+      "sgg_code": "31710",
+      "sgg": "울주군"
+    }
+  ],
+  "meta": {
+    "title": "울산광역시 — 행정동 - 무료 다운로드",
+    "description": "울산광역시의 행정동(行政洞) 목록 56개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (56 haengjeong-dong / administrative neighborhoods of Ulsan Metropolitan City.) 포함 56 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "울산광역시 — 행정동 | ListBase",
+    "seo_description": "다운로드 울산광역시 — 행정동 — 56 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 56 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

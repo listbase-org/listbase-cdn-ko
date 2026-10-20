@@ -1,0 +1,3431 @@
+{
+  "id": "ko-seoul-sigungu-dong",
+  "name": "Seoul 시군구·동읍면 — Seoul Districts & Neighborhoods",
+  "title": "Seoul 시군구·동읍면 — Seoul Districts & Neighborhoods",
+  "description": "Seoul (서울특별시) — 시군구 및 동·읍·면 행정 지명 목록 678건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Seoul 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 678,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "서울특별시",
+      "sigungu": "관악구",
+      "dong_eup_myeon": "남현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "관악구",
+      "dong_eup_myeon": "봉천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "관악구",
+      "dong_eup_myeon": "신림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "강일동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "고덕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "길동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "둔촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "명일동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "상일동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "암사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강동구",
+      "dong_eup_myeon": "천호동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "개포동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "논현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "대치동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "도곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "삼성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "세곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "수서동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "신사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "압구정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "역삼동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "율현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "일원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "자곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강남구",
+      "dong_eup_myeon": "청담동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "광장동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "구의동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "군자동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "능동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "자양동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "중곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "광진구",
+      "dong_eup_myeon": "화양동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "양천구",
+      "dong_eup_myeon": "목동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "양천구",
+      "dong_eup_myeon": "신월동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "양천구",
+      "dong_eup_myeon": "신정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "갈현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "구산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "녹번동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "대조동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "불광동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "수색동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "신사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "역촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "응암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "증산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "은평구",
+      "dong_eup_myeon": "진관동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "가락동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "거여동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "마천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "문정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "방이동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "삼전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "석촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "송파동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "신천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "오금동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "잠실동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "장지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "송파구",
+      "dong_eup_myeon": "풍납동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "답십리동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "신설동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "이문동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "장안동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "전농동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "제기동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "청량리동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "회기동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동대문구",
+      "dong_eup_myeon": "휘경동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "금천구",
+      "dong_eup_myeon": "가산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "금천구",
+      "dong_eup_myeon": "독산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "금천구",
+      "dong_eup_myeon": "시흥동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "가회동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "견지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "경운동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "공평동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "관수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "관철동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "관훈동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "교남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "교북동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "구기동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "궁정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "권농동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "낙원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "내수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "내자동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "누상동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "누하동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "당주동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "도렴동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "돈의동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "동숭동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "명륜1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "명륜2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "명륜3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "명륜4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "묘동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "무악동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "봉익동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "부암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "사간동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "사직동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "삼청동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "서린동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "세종로"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "소격동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "송월동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "수송동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "숭인동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "신교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "신문로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "신문로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "신영동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "안국동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "연건동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "연지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "예지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "옥인동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "와룡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "운니동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "원남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "원서동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "이화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "익선동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "인사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "인의동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "장사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "재동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "적선동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "종로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "종로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "종로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "종로4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "종로5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "종로6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "중학동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "창성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "창신동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "청운동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "청진동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "체부동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "충신동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "통의동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "통인동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "팔판동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "평동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "평창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "필운동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "행촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "혜화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "홍지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "홍파동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "효자동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "효제동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "종로구",
+      "dong_eup_myeon": "훈정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "남가좌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "냉천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "대신동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "대현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "미근동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "봉원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "북가좌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "북아현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "연희동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "영천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "옥천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "창천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "천연동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "충정로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "충정로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "합동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "현저동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "홍은동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서대문구",
+      "dong_eup_myeon": "홍제동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "도봉구",
+      "dong_eup_myeon": "도봉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "도봉구",
+      "dong_eup_myeon": "방학동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "도봉구",
+      "dong_eup_myeon": "쌍문동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "도봉구",
+      "dong_eup_myeon": "창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "당산동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "대림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "도림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "문래동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "문래동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "문래동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "문래동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "문래동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "문래동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "신길동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양평동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "양화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "여의도동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동7가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "영등포구",
+      "dong_eup_myeon": "영등포동8가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "경동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "계산동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "계산동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "공평동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "관동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "관동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "관동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광복동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광복동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광복동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광희동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "광희동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "구완동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "금동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남대문로5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남북동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남산동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남성로"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남외동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남일동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남포동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "남학동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "다동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "다운동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "달성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "답동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대봉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대신동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대안동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대창동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대창동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대청동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "대흥동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "덕교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "덕산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동광동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동문동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동성로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동성로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동성로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동인동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "동일동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "만리동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "만리동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "명동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "명동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "목달동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "목동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무의동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "무학동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "묵정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "문창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "반구동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "방산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "보수동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "보수동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "보수동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "복산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "봉래동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "봉래동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "봉산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "부평동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북내동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북성로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "북창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "사일동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "사정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "산림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "산성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼각동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼덕동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼덕동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "삼덕동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "상덕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "상서동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서내동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서문로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서문로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서성로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서성로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서소문동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "서야동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "석교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "선린동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "선화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "선화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "성안동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "소공동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송월동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송월동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송월동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송학동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송학동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "송학동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수표동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "수하동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "순화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "시장북로"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신당동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신생동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신창동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신포동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신흥동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신흥동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "신흥동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "쌍림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "안영동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "약사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "어남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "영주동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "예관동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "예장동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "오류동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "오장동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "옥계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "옥교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "완전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "용덕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "용동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "우정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "운남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "운북동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "운서동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "유곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "유동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "유천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "율목동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "은행동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을왕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "을지로7가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "의주로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "의주로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인현동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "인현동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "입정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장관동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장충동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장충동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "장현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "저동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "저동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "정생동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "종로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "종로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "주교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "주자동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중앙동7가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "중촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "창선동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "창선동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "초동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충무로5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "충정로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "침산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태평로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "태화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "포정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "필동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "필동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "필동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "하서동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "학산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "학성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "항동7가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "해안동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "해안동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "해안동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "향촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "호동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "황학동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "회현동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "회현동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "회현동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중구",
+      "dong_eup_myeon": "흥인동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "공덕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "구수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "노고산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "당인동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "대흥동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "도화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "동교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "마포동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "망원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "상수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "상암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "서교동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "성산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "신공덕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "신수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "신정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "아현동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "연남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "염리동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "용강동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "창전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "토정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "하중동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "합정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "마포구",
+      "dong_eup_myeon": "현석동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "갈월동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "남영동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "동빙고동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "동자동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "문배동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "보광동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "산천동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "서계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "서빙고동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "신계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "신창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용문동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용산동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용산동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용산동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용산동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용산동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "용산동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "원효로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "원효로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "원효로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "원효로4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "이촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "이태원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "주성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "청암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "청파동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "청파동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "청파동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "한강로1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "한강로2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "한강로3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "한남동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "효창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "용산구",
+      "dong_eup_myeon": "후암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "내곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "반포동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "방배동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "서초동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "신원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "양재동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "염곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "우면동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "원지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "서초구",
+      "dong_eup_myeon": "잠원동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "노량진동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "대방동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "동작동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "본동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "사당동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "상도1동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "상도동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "신대방동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "동작구",
+      "dong_eup_myeon": "흑석동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "노원구",
+      "dong_eup_myeon": "공릉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "노원구",
+      "dong_eup_myeon": "상계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "노원구",
+      "dong_eup_myeon": "월계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "노원구",
+      "dong_eup_myeon": "중계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "노원구",
+      "dong_eup_myeon": "하계동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중랑구",
+      "dong_eup_myeon": "망우동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중랑구",
+      "dong_eup_myeon": "면목동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중랑구",
+      "dong_eup_myeon": "묵동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중랑구",
+      "dong_eup_myeon": "상봉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중랑구",
+      "dong_eup_myeon": "신내동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "중랑구",
+      "dong_eup_myeon": "중화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강북구",
+      "dong_eup_myeon": "미아동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강북구",
+      "dong_eup_myeon": "번동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강북구",
+      "dong_eup_myeon": "수유동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강북구",
+      "dong_eup_myeon": "우이동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "금호동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "금호동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "금호동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "금호동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "도선동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "마장동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "사근동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "상왕십리동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "성수동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "성수동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "옥수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "용답동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "응봉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "하왕십리동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "행당동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성동구",
+      "dong_eup_myeon": "홍익동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "가리봉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "개봉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "고척동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "구로동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "궁동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "신도림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "오류동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "온수동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "천왕동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "구로구",
+      "dong_eup_myeon": "항동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "가양동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "강동동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "개화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "공항동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "구랑동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "내발산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "녹산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "눌차동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "대저1동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "대저2동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "대항동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "동선동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "등촌동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "마곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "명지동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "미음동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "방화동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "범방동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "봉림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "생곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "식만동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "신호동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "염창동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "오곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "오쇠동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "외발산동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "죽동동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "지사동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "천성동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "화곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "강서구",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "길음동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "돈암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동선동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동선동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동선동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동선동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동선동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "동소문동7가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동6가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "보문동7가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "삼선동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "삼선동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "삼선동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "삼선동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "삼선동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "상월곡동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "석관동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "성북동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "안암동1가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "안암동2가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "안암동3가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "안암동4가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "안암동5가"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "장위동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "정릉동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "종암동"
+    },
+    {
+      "sido": "서울특별시",
+      "sigungu": "성북구",
+      "dong_eup_myeon": "하월곡동"
+    }
+  ],
+  "meta": {
+    "title": "Seoul 시군구·동읍면 — Seoul Districts & Neighborhoods - 무료 다운로드",
+    "description": "Seoul (서울특별시) — 시군구 및 동·읍·면 행정 지명 목록 678건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Seoul 편. 필드: sido, sigungu, dong_eup_myeon. 포함 678 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Seoul 시군구·동읍면 — Seoul Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Seoul 시군구·동읍면 — Seoul Districts & Neighborhoods — 678 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 678 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

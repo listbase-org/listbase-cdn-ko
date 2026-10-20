@@ -1,0 +1,2146 @@
+{
+  "id": "ko-ulsan-beopjeongdong",
+  "name": "울산광역시 법정동코드 (Ulsan Metropolitan City legal-dong codes)",
+  "title": "울산광역시 법정동코드 (Ulsan Metropolitan City legal-dong codes)",
+  "description": "울산광역시의 법정동코드 — 시·군·구, 읍·면·동, 리 포함. 현행 코드 208건. 전국 법정동코드 데이터셋(ko-beopjeongdong-codes)의 시·도별 분할본. Legal-dong administrative codes for Ulsan Metropolitan City (울산광역시), split from the national ko-beopjeongdong-codes dataset. 208 active codes.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 208,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "eupmyeondong",
+      "label": "Eupmyeondong",
+      "type": "string"
+    },
+    {
+      "key": "ri",
+      "label": "Ri",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "number"
+    },
+    {
+      "key": "created_at",
+      "label": "Created At",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3100000000",
+      "name": "울산광역시",
+      "sido": "울산광역시",
+      "sigungu": "",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 1,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111000000",
+      "name": "울산광역시 중구",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010100",
+      "name": "울산광역시 중구 학성동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "학성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010200",
+      "name": "울산광역시 중구 학산동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "학산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010300",
+      "name": "울산광역시 중구 복산동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "복산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010400",
+      "name": "울산광역시 중구 북정동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "북정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010500",
+      "name": "울산광역시 중구 옥교동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "옥교동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010600",
+      "name": "울산광역시 중구 성남동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "성남동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010700",
+      "name": "울산광역시 중구 교동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "교동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010800",
+      "name": "울산광역시 중구 우정동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "우정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111010900",
+      "name": "울산광역시 중구 성안동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "성안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011000",
+      "name": "울산광역시 중구 유곡동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "유곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011100",
+      "name": "울산광역시 중구 태화동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "태화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011200",
+      "name": "울산광역시 중구 다운동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "다운동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011300",
+      "name": "울산광역시 중구 동동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "동동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011400",
+      "name": "울산광역시 중구 서동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "서동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011500",
+      "name": "울산광역시 중구 남외동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "남외동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011600",
+      "name": "울산광역시 중구 장현동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "장현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011700",
+      "name": "울산광역시 중구 약사동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "약사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3111011800",
+      "name": "울산광역시 중구 반구동",
+      "sido": "울산광역시",
+      "sigungu": "중구",
+      "eupmyeondong": "반구동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114000000",
+      "name": "울산광역시 남구",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010100",
+      "name": "울산광역시 남구 무거동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "무거동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010200",
+      "name": "울산광역시 남구 옥동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "옥동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010300",
+      "name": "울산광역시 남구 두왕동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "두왕동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010400",
+      "name": "울산광역시 남구 신정동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "신정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010500",
+      "name": "울산광역시 남구 달동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "달동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010600",
+      "name": "울산광역시 남구 삼산동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "삼산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114010700",
+      "name": "울산광역시 남구 여천동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "여천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114010800",
+      "name": "울산광역시 남구 야음동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "야음동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114010900",
+      "name": "울산광역시 남구 선암동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "선암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114011000",
+      "name": "울산광역시 남구 상개동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "상개동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3114011100",
+      "name": "울산광역시 남구 부곡동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "부곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011200",
+      "name": "울산광역시 남구 고사동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "고사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011300",
+      "name": "울산광역시 남구 성암동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "성암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011400",
+      "name": "울산광역시 남구 황성동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "황성동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011500",
+      "name": "울산광역시 남구 용연동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "용연동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011600",
+      "name": "울산광역시 남구 남화동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "남화동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011700",
+      "name": "울산광역시 남구 용잠동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "용잠동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011800",
+      "name": "울산광역시 남구 장생포동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "장생포동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3114011900",
+      "name": "울산광역시 남구 매암동",
+      "sido": "울산광역시",
+      "sigungu": "남구",
+      "eupmyeondong": "매암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-17"
+    },
+    {
+      "code": "3117000000",
+      "name": "울산광역시 동구",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010100",
+      "name": "울산광역시 동구 방어동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "방어동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010200",
+      "name": "울산광역시 동구 화정동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "화정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010300",
+      "name": "울산광역시 동구 일산동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "일산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010400",
+      "name": "울산광역시 동구 전하동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "전하동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010500",
+      "name": "울산광역시 동구 미포동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "미포동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010600",
+      "name": "울산광역시 동구 주전동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "주전동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-01"
+    },
+    {
+      "code": "3117010700",
+      "name": "울산광역시 동구 동부동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "동부동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3117010800",
+      "name": "울산광역시 동구 서부동",
+      "sido": "울산광역시",
+      "sigungu": "동구",
+      "eupmyeondong": "서부동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120000000",
+      "name": "울산광역시 북구",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010100",
+      "name": "울산광역시 북구 창평동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "창평동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010200",
+      "name": "울산광역시 북구 호계동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "호계동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010300",
+      "name": "울산광역시 북구 매곡동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "매곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010400",
+      "name": "울산광역시 북구 가대동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "가대동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010500",
+      "name": "울산광역시 북구 신천동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "신천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010600",
+      "name": "울산광역시 북구 중산동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "중산동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010700",
+      "name": "울산광역시 북구 상안동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "상안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010800",
+      "name": "울산광역시 북구 천곡동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "천곡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120010900",
+      "name": "울산광역시 북구 달천동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "달천동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011000",
+      "name": "울산광역시 북구 시례동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "시례동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011100",
+      "name": "울산광역시 북구 무룡동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "무룡동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011200",
+      "name": "울산광역시 북구 구유동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "구유동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011300",
+      "name": "울산광역시 북구 정자동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "정자동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011400",
+      "name": "울산광역시 북구 신명동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "신명동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011500",
+      "name": "울산광역시 북구 대안동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "대안동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011600",
+      "name": "울산광역시 북구 당사동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "당사동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011700",
+      "name": "울산광역시 북구 신현동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "신현동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011800",
+      "name": "울산광역시 북구 산하동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "산하동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120011900",
+      "name": "울산광역시 북구 어물동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "어물동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120012000",
+      "name": "울산광역시 북구 명촌동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "명촌동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-01"
+    },
+    {
+      "code": "3120012100",
+      "name": "울산광역시 북구 진장동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "진장동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-10-01"
+    },
+    {
+      "code": "3120012200",
+      "name": "울산광역시 북구 연암동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "연암동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120012300",
+      "name": "울산광역시 북구 효문동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "효문동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120012400",
+      "name": "울산광역시 북구 양정동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "양정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120012500",
+      "name": "울산광역시 북구 화봉동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "화봉동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120012600",
+      "name": "울산광역시 북구 송정동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "송정동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3120012700",
+      "name": "울산광역시 북구 염포동",
+      "sido": "울산광역시",
+      "sigungu": "북구",
+      "eupmyeondong": "염포동",
+      "ri": "",
+      "level": 3,
+      "created_at": "1998-03-01"
+    },
+    {
+      "code": "3171000000",
+      "name": "울산광역시 울주군",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "",
+      "ri": "",
+      "level": 2,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025000",
+      "name": "울산광역시 울주군 온산읍",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025021",
+      "name": "울산광역시 울주군 온산읍 화산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "화산리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025022",
+      "name": "울산광역시 울주군 온산읍 삼평리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "삼평리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025023",
+      "name": "울산광역시 울주군 온산읍 강양리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "강양리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025024",
+      "name": "울산광역시 울주군 온산읍 우봉리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "우봉리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025025",
+      "name": "울산광역시 울주군 온산읍 당월리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "당월리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025026",
+      "name": "울산광역시 울주군 온산읍 처용리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "처용리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025027",
+      "name": "울산광역시 울주군 온산읍 산암리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "산암리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025028",
+      "name": "울산광역시 울주군 온산읍 대정리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "대정리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025029",
+      "name": "울산광역시 울주군 온산읍 방도리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "방도리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025030",
+      "name": "울산광역시 울주군 온산읍 이진리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "이진리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025031",
+      "name": "울산광역시 울주군 온산읍 원산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "원산리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025032",
+      "name": "울산광역시 울주군 온산읍 덕신리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "덕신리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025033",
+      "name": "울산광역시 울주군 온산읍 학남리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온산읍",
+      "ri": "학남리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025300",
+      "name": "울산광역시 울주군 언양읍",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025321",
+      "name": "울산광역시 울주군 언양읍 반송리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "반송리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025322",
+      "name": "울산광역시 울주군 언양읍 반천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "반천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025323",
+      "name": "울산광역시 울주군 언양읍 반곡리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "반곡리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025324",
+      "name": "울산광역시 울주군 언양읍 어음리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "어음리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025325",
+      "name": "울산광역시 울주군 언양읍 송대리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "송대리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025326",
+      "name": "울산광역시 울주군 언양읍 평리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "평리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025327",
+      "name": "울산광역시 울주군 언양읍 다개리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "다개리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025328",
+      "name": "울산광역시 울주군 언양읍 대곡리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "대곡리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025329",
+      "name": "울산광역시 울주군 언양읍 직동리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "직동리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025330",
+      "name": "울산광역시 울주군 언양읍 동부리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "동부리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025331",
+      "name": "울산광역시 울주군 언양읍 서부리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "서부리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025332",
+      "name": "울산광역시 울주군 언양읍 남부리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "남부리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025333",
+      "name": "울산광역시 울주군 언양읍 반연리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "반연리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025334",
+      "name": "울산광역시 울주군 언양읍 태기리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "태기리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025335",
+      "name": "울산광역시 울주군 언양읍 구수리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "언양읍",
+      "ri": "구수리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171025600",
+      "name": "울산광역시 울주군 온양읍",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025621",
+      "name": "울산광역시 울주군 온양읍 발리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "발리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025622",
+      "name": "울산광역시 울주군 온양읍 대안리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "대안리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025623",
+      "name": "울산광역시 울주군 온양읍 망양리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "망양리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025624",
+      "name": "울산광역시 울주군 온양읍 남창리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "남창리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025625",
+      "name": "울산광역시 울주군 온양읍 동상리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "동상리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025626",
+      "name": "울산광역시 울주군 온양읍 삼광리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "삼광리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025627",
+      "name": "울산광역시 울주군 온양읍 내광리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "내광리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025628",
+      "name": "울산광역시 울주군 온양읍 외광리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "외광리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025629",
+      "name": "울산광역시 울주군 온양읍 운화리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "운화리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025630",
+      "name": "울산광역시 울주군 온양읍 고산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "온양읍",
+      "ri": "고산리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025900",
+      "name": "울산광역시 울주군 범서읍",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025921",
+      "name": "울산광역시 울주군 범서읍 사연리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "사연리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025922",
+      "name": "울산광역시 울주군 범서읍 천상리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "천상리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025923",
+      "name": "울산광역시 울주군 범서읍 입암리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "입암리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025924",
+      "name": "울산광역시 울주군 범서읍 굴화리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "굴화리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025925",
+      "name": "울산광역시 울주군 범서읍 서사리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "서사리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025926",
+      "name": "울산광역시 울주군 범서읍 두산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "두산리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025927",
+      "name": "울산광역시 울주군 범서읍 구영리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "구영리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025928",
+      "name": "울산광역시 울주군 범서읍 중리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "중리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025929",
+      "name": "울산광역시 울주군 범서읍 망성리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "망성리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171025930",
+      "name": "울산광역시 울주군 범서읍 척과리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "범서읍",
+      "ri": "척과리",
+      "level": 4,
+      "created_at": "2001-03-01"
+    },
+    {
+      "code": "3171026200",
+      "name": "울산광역시 울주군 청량읍",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026221",
+      "name": "울산광역시 울주군 청량읍 덕하리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "덕하리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026222",
+      "name": "울산광역시 울주군 청량읍 동천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "동천리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026223",
+      "name": "울산광역시 울주군 청량읍 상남리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "상남리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026224",
+      "name": "울산광역시 울주군 청량읍 개곡리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "개곡리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026225",
+      "name": "울산광역시 울주군 청량읍 중리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "중리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026226",
+      "name": "울산광역시 울주군 청량읍 문죽리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "문죽리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026227",
+      "name": "울산광역시 울주군 청량읍 삼정리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "삼정리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026228",
+      "name": "울산광역시 울주군 청량읍 율리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "율리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026229",
+      "name": "울산광역시 울주군 청량읍 용암리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "청량읍",
+      "ri": "용암리",
+      "level": 4,
+      "created_at": "2018-04-01"
+    },
+    {
+      "code": "3171026500",
+      "name": "울산광역시 울주군 삼남읍",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼남읍",
+      "ri": "",
+      "level": 3,
+      "created_at": "2020-11-01"
+    },
+    {
+      "code": "3171026521",
+      "name": "울산광역시 울주군 삼남읍 교동리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼남읍",
+      "ri": "교동리",
+      "level": 4,
+      "created_at": "2020-11-01"
+    },
+    {
+      "code": "3171026522",
+      "name": "울산광역시 울주군 삼남읍 상천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼남읍",
+      "ri": "상천리",
+      "level": 4,
+      "created_at": "2020-11-01"
+    },
+    {
+      "code": "3171026523",
+      "name": "울산광역시 울주군 삼남읍 신화리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼남읍",
+      "ri": "신화리",
+      "level": 4,
+      "created_at": "2020-11-01"
+    },
+    {
+      "code": "3171026524",
+      "name": "울산광역시 울주군 삼남읍 방기리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼남읍",
+      "ri": "방기리",
+      "level": 4,
+      "created_at": "2020-11-01"
+    },
+    {
+      "code": "3171026525",
+      "name": "울산광역시 울주군 삼남읍 가천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼남읍",
+      "ri": "가천리",
+      "level": 4,
+      "created_at": "2020-11-01"
+    },
+    {
+      "code": "3171031000",
+      "name": "울산광역시 울주군 서생면",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031021",
+      "name": "울산광역시 울주군 서생면 신암리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "신암리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031022",
+      "name": "울산광역시 울주군 서생면 명산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "명산리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031023",
+      "name": "울산광역시 울주군 서생면 나사리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "나사리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031024",
+      "name": "울산광역시 울주군 서생면 화산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "화산리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031025",
+      "name": "울산광역시 울주군 서생면 대송리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "대송리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031026",
+      "name": "울산광역시 울주군 서생면 용리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "용리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031027",
+      "name": "울산광역시 울주군 서생면 서생리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "서생리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031028",
+      "name": "울산광역시 울주군 서생면 진하리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "진하리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031029",
+      "name": "울산광역시 울주군 서생면 화정리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "화정리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171031030",
+      "name": "울산광역시 울주군 서생면 위양리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "서생면",
+      "ri": "위양리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034000",
+      "name": "울산광역시 울주군 웅촌면",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034021",
+      "name": "울산광역시 울주군 웅촌면 초천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "초천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034022",
+      "name": "울산광역시 울주군 웅촌면 석천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "석천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034023",
+      "name": "울산광역시 울주군 웅촌면 곡천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "곡천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034024",
+      "name": "울산광역시 울주군 웅촌면 검단리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "검단리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034025",
+      "name": "울산광역시 울주군 웅촌면 은현리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "은현리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034026",
+      "name": "울산광역시 울주군 웅촌면 고연리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "고연리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034027",
+      "name": "울산광역시 울주군 웅촌면 대대리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "대대리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034028",
+      "name": "울산광역시 울주군 웅촌면 통천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "통천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171034029",
+      "name": "울산광역시 울주군 웅촌면 대복리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "웅촌면",
+      "ri": "대복리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036000",
+      "name": "울산광역시 울주군 두동면",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036021",
+      "name": "울산광역시 울주군 두동면 만화리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "만화리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036022",
+      "name": "울산광역시 울주군 두동면 구미리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "구미리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036023",
+      "name": "울산광역시 울주군 두동면 월평리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "월평리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036024",
+      "name": "울산광역시 울주군 두동면 삼정리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "삼정리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036025",
+      "name": "울산광역시 울주군 두동면 이전리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "이전리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036026",
+      "name": "울산광역시 울주군 두동면 봉계리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "봉계리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036027",
+      "name": "울산광역시 울주군 두동면 천전리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "천전리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171036028",
+      "name": "울산광역시 울주군 두동면 은편리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두동면",
+      "ri": "은편리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037000",
+      "name": "울산광역시 울주군 두서면",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037021",
+      "name": "울산광역시 울주군 두서면 차리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "차리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037022",
+      "name": "울산광역시 울주군 두서면 구량리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "구량리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037023",
+      "name": "울산광역시 울주군 두서면 복안리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "복안리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037024",
+      "name": "울산광역시 울주군 두서면 미호리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "미호리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037025",
+      "name": "울산광역시 울주군 두서면 활천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "활천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037026",
+      "name": "울산광역시 울주군 두서면 내와리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "내와리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037027",
+      "name": "울산광역시 울주군 두서면 전읍리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "전읍리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037028",
+      "name": "울산광역시 울주군 두서면 인보리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "인보리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171037029",
+      "name": "울산광역시 울주군 두서면 서하리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "두서면",
+      "ri": "서하리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038000",
+      "name": "울산광역시 울주군 상북면",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038021",
+      "name": "울산광역시 울주군 상북면 지내리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "지내리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038022",
+      "name": "울산광역시 울주군 상북면 양등리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "양등리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038023",
+      "name": "울산광역시 울주군 상북면 산전리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "산전리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038024",
+      "name": "울산광역시 울주군 상북면 길천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "길천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038025",
+      "name": "울산광역시 울주군 상북면 이천리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "이천리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038026",
+      "name": "울산광역시 울주군 상북면 덕현리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "덕현리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038027",
+      "name": "울산광역시 울주군 상북면 명촌리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "명촌리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038028",
+      "name": "울산광역시 울주군 상북면 천전리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "천전리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038029",
+      "name": "울산광역시 울주군 상북면 거리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "거리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038030",
+      "name": "울산광역시 울주군 상북면 궁근정리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "궁근정리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038032",
+      "name": "울산광역시 울주군 상북면 향산리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "향산리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038033",
+      "name": "울산광역시 울주군 상북면 소호리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "소호리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171038034",
+      "name": "울산광역시 울주군 상북면 등억알프스리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "상북면",
+      "ri": "등억알프스리",
+      "level": 4,
+      "created_at": "2015-05-14"
+    },
+    {
+      "code": "3171040000",
+      "name": "울산광역시 울주군 삼동면",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "",
+      "level": 3,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040021",
+      "name": "울산광역시 울주군 삼동면 둔기리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "둔기리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040022",
+      "name": "울산광역시 울주군 삼동면 조일리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "조일리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040023",
+      "name": "울산광역시 울주군 삼동면 출강리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "출강리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040024",
+      "name": "울산광역시 울주군 삼동면 작동리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "작동리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040025",
+      "name": "울산광역시 울주군 삼동면 보은리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "보은리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040026",
+      "name": "울산광역시 울주군 삼동면 하잠리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "하잠리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    },
+    {
+      "code": "3171040027",
+      "name": "울산광역시 울주군 삼동면 금곡리",
+      "sido": "울산광역시",
+      "sigungu": "울주군",
+      "eupmyeondong": "삼동면",
+      "ri": "금곡리",
+      "level": 4,
+      "created_at": "1997-07-15"
+    }
+  ],
+  "meta": {
+    "title": "울산광역시 법정동코드 (Ulsan Metropolitan City legal-dong codes) - 무료 다운로드",
+    "description": "울산광역시의 법정동코드 — 시·군·구, 읍·면·동, 리 포함. 현행 코드 208건. 전국 법정동코드 데이터셋(ko-beopjeongdong-codes)의 시·도별 분할본. Legal-dong administrative codes for Ulsan Metropolitan City (울산광역시), split from the national ko-beopjeongdong-codes dataset. 208 active codes. 포함 208 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "울산광역시 법정동코드 (Ulsan Metropolitan City legal-dong codes) | ListBase",
+    "seo_description": "다운로드 울산광역시 법정동코드 (Ulsan Metropolitan City legal-dong codes) — 208 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 208 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

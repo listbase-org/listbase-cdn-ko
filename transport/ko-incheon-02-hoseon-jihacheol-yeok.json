@@ -1,0 +1,368 @@
+{
+  "id": "ko-incheon-02-hoseon-jihacheol-yeok",
+  "name": "인천2호선 지하철 역 (Incheon Line 2 subway stations)",
+  "title": "인천2호선 지하철 역 (Incheon Line 2 subway stations)",
+  "description": "인천2호선(Incheon Line 2)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 27개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Incheon Line 2 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "주안",
+      "name_romanized": "",
+      "lines": "01호선, 인천2호선",
+      "lines_en": "Line 1, Incheon Line 2",
+      "lines_count": 2,
+      "latitude": 37.464941,
+      "longitude": 126.679923,
+      "around_stations": "주안국가산단, 시민공원, 간석, 도화",
+      "around_count": 4
+    },
+    {
+      "name": "검암",
+      "name_romanized": "",
+      "lines": "공항철도, 인천2호선",
+      "lines_en": "AREX (Airport Railroad Express), Incheon Line 2",
+      "lines_count": 2,
+      "latitude": 37.569104,
+      "longitude": 126.673728,
+      "around_stations": "청라국제도시, 계양, 독정, 검바위",
+      "around_count": 4
+    },
+    {
+      "name": "검단사거리",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.60185,
+      "longitude": 126.657108,
+      "around_stations": "왕길, 마전",
+      "around_count": 2
+    },
+    {
+      "name": "인천대공원",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.448769,
+      "longitude": 126.752618,
+      "around_stations": "남동구청, 운연",
+      "around_count": 2
+    },
+    {
+      "name": "마전",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.597566,
+      "longitude": 126.666998,
+      "around_stations": "검단사거리, 완정",
+      "around_count": 2
+    },
+    {
+      "name": "독정",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.585212,
+      "longitude": 126.675844,
+      "around_stations": "완정, 검암",
+      "around_count": 2
+    },
+    {
+      "name": "검바위",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.561405,
+      "longitude": 126.677566,
+      "around_stations": "검암, 아시아드경기장",
+      "around_count": 2
+    },
+    {
+      "name": "서구청",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.543742,
+      "longitude": 126.676787,
+      "around_stations": "아시아드경기장, 가정",
+      "around_count": 2
+    },
+    {
+      "name": "가정",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.524649,
+      "longitude": 126.675539,
+      "around_stations": "서구청, 가정중앙시장",
+      "around_count": 2
+    },
+    {
+      "name": "인천가좌",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.4897,
+      "longitude": 126.675208,
+      "around_stations": "서부여성회관, 가재울",
+      "around_count": 2
+    },
+    {
+      "name": "가재울",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.484192,
+      "longitude": 126.683673,
+      "around_stations": "인천가좌, 주안국가산단",
+      "around_count": 2
+    },
+    {
+      "name": "주안국가산단",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.473703,
+      "longitude": 126.68113,
+      "around_stations": "가재울, 주안",
+      "around_count": 2
+    },
+    {
+      "name": "인천시청",
+      "name_romanized": "",
+      "lines": "인천2호선, 인천선",
+      "lines_en": "Incheon Line 2, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.457405,
+      "longitude": 126.702221,
+      "around_stations": "예술회관, 간석오거리, 석바위시장, 석천사거리",
+      "around_count": 4
+    },
+    {
+      "name": "석천사거리",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.456805,
+      "longitude": 126.709986,
+      "around_stations": "인천시청, 모래내시장",
+      "around_count": 2
+    },
+    {
+      "name": "모래내시장",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.45583,
+      "longitude": 126.719298,
+      "around_stations": "석천사거리, 만수",
+      "around_count": 2
+    },
+    {
+      "name": "만수",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.454911,
+      "longitude": 126.732094,
+      "around_stations": "모래내시장, 남동구청",
+      "around_count": 2
+    },
+    {
+      "name": "운연",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.440127,
+      "longitude": 126.75997,
+      "around_stations": "인천대공원",
+      "around_count": 1
+    },
+    {
+      "name": "가정중앙시장",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.517054,
+      "longitude": 126.676672,
+      "around_stations": "가정, 석남",
+      "around_count": 2
+    },
+    {
+      "name": "석남",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.506193,
+      "longitude": 126.676203,
+      "around_stations": "가정중앙시장, 서부여성회관",
+      "around_count": 2
+    },
+    {
+      "name": "서부여성회관",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.506193,
+      "longitude": 126.676203,
+      "around_stations": "석남, 인천가좌",
+      "around_count": 2
+    },
+    {
+      "name": "시민공원",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.458335,
+      "longitude": 126.681192,
+      "around_stations": "주안, 석바위시장",
+      "around_count": 2
+    },
+    {
+      "name": "석바위시장",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.457611,
+      "longitude": 126.692575,
+      "around_stations": "시민공원, 인천시청",
+      "around_count": 2
+    },
+    {
+      "name": "왕길",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.59518,
+      "longitude": 126.642696,
+      "around_stations": "검단오류, 검단사거리",
+      "around_count": 2
+    },
+    {
+      "name": "완정",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.592928,
+      "longitude": 126.673203,
+      "around_stations": "마전, 독정",
+      "around_count": 2
+    },
+    {
+      "name": "남동구청",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.448161,
+      "longitude": 126.736939,
+      "around_stations": "만수, 인천대공원",
+      "around_count": 2
+    },
+    {
+      "name": "아시아드경기장",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.5517,
+      "longitude": 126.677122,
+      "around_stations": "검바위, 서구청",
+      "around_count": 2
+    },
+    {
+      "name": "검단오류",
+      "name_romanized": "",
+      "lines": "인천2호선",
+      "lines_en": "Incheon Line 2",
+      "lines_count": 1,
+      "latitude": 37.594877,
+      "longitude": 126.627178,
+      "around_stations": "왕길",
+      "around_count": 1
+    }
+  ],
+  "meta": {
+    "title": "인천2호선 지하철 역 (Incheon Line 2 subway stations) - 무료 다운로드",
+    "description": "인천2호선(Incheon Line 2)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 27개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Incheon Line 2 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 27 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "인천2호선 지하철 역 (Incheon Line 2 subway stations) | ListBase",
+    "seo_description": "다운로드 인천2호선 지하철 역 (Incheon Line 2 subway stations) — 27 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 27 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

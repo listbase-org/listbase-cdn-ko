@@ -1,0 +1,296 @@
+{
+  "id": "ko-incheon-daehak",
+  "name": "Incheon — Universities & Colleges (대학·전문대학)",
+  "title": "Incheon — Universities & Colleges (대학·전문대학)",
+  "description": "Accredited higher-education institutions located in Incheon (인천광역시), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nameKr",
+      "label": "NameKr",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "campus",
+      "label": "Campus",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "link",
+      "label": "Link",
+      "type": "string"
+    },
+    {
+      "key": "accredited_degree",
+      "label": "Accredited Degree",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_language",
+      "label": "Accredited Language",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_excellent",
+      "label": "Accredited Excellent",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 58,
+      "nameKr": "한국폴리텍 II 대학 인천캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.kopo.ac.kr/incheon/index.do",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 59,
+      "nameKr": "한국폴리텍 II 대학 남인천캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.kopo.ac.kr/namincheon/index.do",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 109,
+      "nameKr": "청운대학교",
+      "level": "대학(4년제)",
+      "type": "산업대학",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.chungwoon.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 145,
+      "nameKr": "재능대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.jeiu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 146,
+      "nameKr": "재능대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.jeiu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 149,
+      "nameKr": "인하대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.inha.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 150,
+      "nameKr": "인하공업전문대학",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.inhatc.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 151,
+      "nameKr": "인천대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.inu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 152,
+      "nameKr": "인천가톨릭대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.iccu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 153,
+      "nameKr": "인천가톨릭대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.iccu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 198,
+      "nameKr": "연세대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 203,
+      "nameKr": "안양대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.anyang.ac.kr/main.do",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 422,
+      "nameKr": "경인여자대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.kiwu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 424,
+      "nameKr": "경인교육대학교",
+      "level": "대학(4년제)",
+      "type": "교육대학",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.ginue.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 471,
+      "nameKr": "가천대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제2캠퍼스",
+      "region": "인천광역시",
+      "region_en": "Incheon",
+      "link": "http://www.gachon.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    }
+  ],
+  "meta": {
+    "title": "Incheon — Universities & Colleges (대학·전문대학) - 무료 다운로드",
+    "description": "Accredited higher-education institutions located in Incheon (인천광역시), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags. 포함 15 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Incheon — Universities & Colleges (대학·전문대학) | ListBase",
+    "seo_description": "다운로드 Incheon — Universities & Colleges (대학·전문대학) — 15 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 15 건 / 12 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

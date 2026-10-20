@@ -1,0 +1,586 @@
+{
+  "id": "ko-doseogwan",
+  "name": "대한민국의 도서관 (Libraries of South Korea)",
+  "title": "대한민국의 도서관 (Libraries of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 도서관 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "규장각",
+      "name_en": "Kyujanggak",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.462168,
+      "longitude": 126.950444,
+      "wikidata_id": "Q712922",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q712922"
+    },
+    {
+      "name_ko": "열린도서관",
+      "name_en": "",
+      "admin_area_ko": "강남구",
+      "admin_area_en": "Gangnam District",
+      "latitude": 37.484015,
+      "longitude": 127.084466,
+      "wikidata_id": "Q55732016",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55732016"
+    },
+    {
+      "name_ko": "정다운도서관",
+      "name_en": "Jeongdaun Library",
+      "admin_area_ko": "강남구",
+      "admin_area_en": "Gangnam District",
+      "latitude": 37.519021,
+      "longitude": 127.046448,
+      "wikidata_id": "Q18815722",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18815722"
+    },
+    {
+      "name_ko": "강릉교육문화관",
+      "name_en": "",
+      "admin_area_ko": "강릉시",
+      "admin_area_en": "Gangneung",
+      "latitude": 37.746222,
+      "longitude": 128.899829,
+      "wikidata_id": "Q16630678",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16630678"
+    },
+    {
+      "name_ko": "경산시립도서관",
+      "name_en": "",
+      "admin_area_ko": "경산시",
+      "admin_area_en": "Gyeongsan",
+      "latitude": 35.913222,
+      "longitude": 128.812999,
+      "wikidata_id": "Q16630697",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16630697"
+    },
+    {
+      "name_ko": "글빛정보도서관",
+      "name_en": "",
+      "admin_area_ko": "관악구",
+      "admin_area_en": "Gwanak District",
+      "latitude": 37.486254,
+      "longitude": 126.959724,
+      "wikidata_id": "Q23996132",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23996132"
+    },
+    {
+      "name_ko": "광주학생독립운동기념회관",
+      "name_en": "Gwangju Student Independence Movement Memorial Hall",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.14175,
+      "longitude": 126.865944,
+      "wikidata_id": "Q16978407",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978407"
+    },
+    {
+      "name_ko": "당동도서관",
+      "name_en": "",
+      "admin_area_ko": "군포시",
+      "admin_area_en": "Gunpo",
+      "latitude": 37.353728,
+      "longitude": 126.945151,
+      "wikidata_id": "Q16919984",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16919984"
+    },
+    {
+      "name_ko": "부곡도서관",
+      "name_en": "",
+      "admin_area_ko": "군포시",
+      "admin_area_en": "Gunpo",
+      "latitude": 37.324025,
+      "longitude": 126.935678,
+      "wikidata_id": "Q16920019",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16920019"
+    },
+    {
+      "name_ko": "기장디지털도서관",
+      "name_en": "",
+      "admin_area_ko": "기장읍",
+      "admin_area_en": "Gijang",
+      "latitude": 35.249777,
+      "longitude": 129.217308,
+      "wikidata_id": "Q41645643",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41645643"
+    },
+    {
+      "name_ko": "미추홀도서관",
+      "name_en": "Michuhol Library",
+      "admin_area_ko": "남동구",
+      "admin_area_en": "Namdong District",
+      "latitude": 37.447101,
+      "longitude": 126.725111,
+      "wikidata_id": "Q12596146",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12596146"
+    },
+    {
+      "name_ko": "대구광역시립대봉도서관",
+      "name_en": "Daebong Library",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.8574,
+      "longitude": 128.603,
+      "wikidata_id": "Q5208146",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5208146"
+    },
+    {
+      "name_ko": "대구광역시립중앙도서관",
+      "name_en": "Daegu Metropolitan Jungang Library",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.8684,
+      "longitude": 128.602,
+      "wikidata_id": "Q5208196",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5208196"
+    },
+    {
+      "name_ko": "대산도서관",
+      "name_en": "Daesan library",
+      "admin_area_ko": "대산읍",
+      "admin_area_en": "Daesan",
+      "latitude": 36.940177,
+      "longitude": 126.439625,
+      "wikidata_id": "Q16782151",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16782151"
+    },
+    {
+      "name_ko": "대야도서관",
+      "name_en": "",
+      "admin_area_ko": "대야동",
+      "admin_area_en": "Daeya-dong",
+      "latitude": 37.330385,
+      "longitude": 126.915248,
+      "wikidata_id": "Q16919986",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16919986"
+    },
+    {
+      "name_ko": "도봉문화정보도서관",
+      "name_en": "",
+      "admin_area_ko": "도봉구",
+      "admin_area_en": "Dobong District",
+      "latitude": 37.644567,
+      "longitude": 127.043993,
+      "wikidata_id": "Q24000065",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000065"
+    },
+    {
+      "name_ko": "서산어린이도서관",
+      "name_en": "Seosan Children Library",
+      "admin_area_ko": "동문동",
+      "admin_area_en": "Dongmun-dong",
+      "latitude": 36.793111,
+      "longitude": 126.462888,
+      "wikidata_id": "Q16630957",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16630957"
+    },
+    {
+      "name_ko": "김대중도서관",
+      "name_en": "Kim Dae-Jung Presidential Library and Museum",
+      "admin_area_ko": "마포구",
+      "admin_area_en": "Mapo District",
+      "latitude": 37.556833,
+      "longitude": 126.929472,
+      "wikidata_id": "Q16093385",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16093385"
+    },
+    {
+      "name_ko": "목포시립도서관",
+      "name_en": "",
+      "admin_area_ko": "목포시",
+      "admin_area_en": "Mokpo",
+      "latitude": 34.803646,
+      "longitude": 126.403042,
+      "wikidata_id": "Q12595403",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12595403"
+    },
+    {
+      "name_ko": "수봉도서관",
+      "name_en": "",
+      "admin_area_ko": "미추홀구",
+      "admin_area_en": "Michuhol District",
+      "latitude": 37.462753,
+      "longitude": 126.666941,
+      "wikidata_id": "Q12603170",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603170"
+    },
+    {
+      "name_ko": "울주선바위도서관",
+      "name_en": "",
+      "admin_area_ko": "범서읍",
+      "admin_area_en": "Beomseo",
+      "latitude": 35.573889,
+      "longitude": 129.2375,
+      "wikidata_id": "Q16880397",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16880397"
+    },
+    {
+      "name_ko": "부여도서관",
+      "name_en": "",
+      "admin_area_ko": "부여군",
+      "admin_area_en": "Buyeo County",
+      "latitude": 36.283799,
+      "longitude": 126.915895,
+      "wikidata_id": "Q16630945",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16630945"
+    },
+    {
+      "name_ko": "군포어린이도서관",
+      "name_en": "",
+      "admin_area_ko": "산본동",
+      "admin_area_en": "Sanbon-dong",
+      "latitude": 37.372222,
+      "longitude": 126.932111,
+      "wikidata_id": "Q16978422",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978422"
+    },
+    {
+      "name_ko": "산본도서관",
+      "name_en": "",
+      "admin_area_ko": "산본동",
+      "admin_area_en": "Sanbon-dong",
+      "latitude": 37.361607,
+      "longitude": 126.928695,
+      "wikidata_id": "Q16920035",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16920035"
+    },
+    {
+      "name_ko": "삼척교육문화관",
+      "name_en": "",
+      "admin_area_ko": "삼척시",
+      "admin_area_en": "Samcheok",
+      "latitude": 37.445333,
+      "longitude": 129.164666,
+      "wikidata_id": "Q16630953",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16630953"
+    },
+    {
+      "name_ko": "서산시립도서관",
+      "name_en": "Seosan Municipal Library",
+      "admin_area_ko": "서산시",
+      "admin_area_en": "Seosan",
+      "latitude": 36.788325,
+      "longitude": 126.449236,
+      "wikidata_id": "Q16782173",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16782173"
+    },
+    {
+      "name_ko": "충청남도교육청서부평생교육원",
+      "name_en": "",
+      "admin_area_ko": "서산시",
+      "admin_area_en": "Seosan",
+      "latitude": 36.769722,
+      "longitude": 126.464582,
+      "wikidata_id": "Q18733866",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18733866"
+    },
+    {
+      "name_ko": "대방어린이도서관",
+      "name_en": "Daebang Children's Library",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.502983,
+      "longitude": 126.925156,
+      "wikidata_id": "Q109461466",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109461466"
+    },
+    {
+      "name_ko": "동작도서관",
+      "name_en": "Dongjak Public Library",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.505928,
+      "longitude": 126.940058,
+      "wikidata_id": "Q12593540",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12593540"
+    },
+    {
+      "name_ko": "서울도서관",
+      "name_en": "Seoul Metropolitan Library",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.566406,
+      "longitude": 126.977822,
+      "wikidata_id": "Q12601204",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601204"
+    },
+    {
+      "name_ko": "선유정보문화도서관",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.53336,
+      "longitude": 126.89298,
+      "wikidata_id": "Q16097847",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16097847"
+    },
+    {
+      "name_ko": "화동 구 경기고교",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.580833,
+      "longitude": 126.983056,
+      "wikidata_id": "Q16096178",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16096178"
+    },
+    {
+      "name_ko": "충청북도중앙도서관",
+      "name_en": "",
+      "admin_area_ko": "서원구",
+      "admin_area_en": "Seowon-gu",
+      "latitude": 36.632727,
+      "longitude": 127.477836,
+      "wikidata_id": "Q16100307",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16100307"
+    },
+    {
+      "name_ko": "성동구립금호도서관",
+      "name_en": "",
+      "admin_area_ko": "성동구",
+      "admin_area_en": "Seongdong District",
+      "latitude": 37.554131,
+      "longitude": 127.024909,
+      "wikidata_id": "Q24000072",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24000072"
+    },
+    {
+      "name_ko": "국립세종도서관",
+      "name_en": "National library of Korea, Sejong",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": 36.4988,
+      "longitude": 127.2827,
+      "wikidata_id": "Q12585732",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585732"
+    },
+    {
+      "name_ko": "송산도서관",
+      "name_en": "",
+      "admin_area_ko": "송산면",
+      "admin_area_en": "Songsan-myeon",
+      "latitude": 37.217032,
+      "longitude": 126.738949,
+      "wikidata_id": "Q18156389",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18156389"
+    },
+    {
+      "name_ko": "영통도서관",
+      "name_en": "",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.257231,
+      "longitude": 127.072016,
+      "wikidata_id": "Q12607551",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12607551"
+    },
+    {
+      "name_ko": "관악문화관도서관",
+      "name_en": "",
+      "admin_area_ko": "신림동",
+      "admin_area_en": "Sillim-dong",
+      "latitude": 37.467064,
+      "longitude": 126.944758,
+      "wikidata_id": "Q23996133",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23996133"
+    },
+    {
+      "name_ko": "연제도서관",
+      "name_en": "",
+      "admin_area_ko": "연제구",
+      "admin_area_en": "Yeonje District",
+      "latitude": 35.174122,
+      "longitude": 129.082957,
+      "wikidata_id": "Q21824974",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21824974"
+    },
+    {
+      "name_ko": "내손도서관",
+      "name_en": "",
+      "admin_area_ko": "의왕시",
+      "admin_area_en": "Uiwang",
+      "latitude": 37.387758,
+      "longitude": 126.982042,
+      "wikidata_id": "Q16766820",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16766820"
+    },
+    {
+      "name_ko": "신석도서관",
+      "name_en": "",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.511695,
+      "longitude": 126.66812,
+      "wikidata_id": "Q16978738",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978738"
+    },
+    {
+      "name_ko": "적성도서관",
+      "name_en": "Paju City Library",
+      "admin_area_ko": "적성면",
+      "admin_area_en": "Jeokseong-myeon",
+      "latitude": 37.954194,
+      "longitude": 126.917639,
+      "wikidata_id": "Q16978973",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16978973"
+    },
+    {
+      "name_ko": "정남도서관",
+      "name_en": "Jeongnam Library",
+      "admin_area_ko": "정남면",
+      "admin_area_en": "Jeongnam-myeon",
+      "latitude": 37.168472,
+      "longitude": 126.982889,
+      "wikidata_id": "Q18156453",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18156453"
+    },
+    {
+      "name_ko": "진도공공도서관",
+      "name_en": "",
+      "admin_area_ko": "진도군",
+      "admin_area_en": "Jindo County",
+      "latitude": 34.484931,
+      "longitude": 126.264397,
+      "wikidata_id": "Q16767895",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16767895"
+    },
+    {
+      "name_ko": "마산지혜의바다도서관",
+      "name_en": "Sea of Wisdom Public Library",
+      "admin_area_ko": "창원시",
+      "admin_area_en": "Changwon",
+      "latitude": 35.256687,
+      "longitude": 128.59819,
+      "wikidata_id": "Q109458427",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109458427"
+    },
+    {
+      "name_ko": "창룡도서관",
+      "name_en": "Changryong Library",
+      "admin_area_ko": "팔달구",
+      "admin_area_en": "Paldal-gu",
+      "latitude": 37.290846,
+      "longitude": 127.027574,
+      "wikidata_id": "Q18328963",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18328963"
+    },
+    {
+      "name_ko": "서산해미도서관",
+      "name_en": "Sesan Haemi library",
+      "admin_area_ko": "해미면",
+      "admin_area_en": "Haemi-myeon",
+      "latitude": 36.715859,
+      "longitude": 126.543313,
+      "wikidata_id": "Q16725564",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16725564"
+    },
+    {
+      "name_ko": "충남도서관",
+      "name_en": "CHUNGNAM LIBRARY",
+      "admin_area_ko": "홍북읍",
+      "admin_area_en": "Hongbuk-eup",
+      "latitude": 36.655878,
+      "longitude": 126.669803,
+      "wikidata_id": "Q55471717",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55471717"
+    },
+    {
+      "name_ko": "동탄복합문화센터도서관",
+      "name_en": "",
+      "admin_area_ko": "화성시",
+      "admin_area_en": "Hwaseong",
+      "latitude": 37.20023,
+      "longitude": 127.075422,
+      "wikidata_id": "Q12593582",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12593582"
+    },
+    {
+      "name_ko": "진안도서관",
+      "name_en": "",
+      "admin_area_ko": "화성시",
+      "admin_area_en": "Hwaseong",
+      "latitude": 37.217688,
+      "longitude": 127.034378,
+      "wikidata_id": "Q55734667",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734667"
+    },
+    {
+      "name_ko": "화성시립병점도서관",
+      "name_en": "",
+      "admin_area_ko": "화성시",
+      "admin_area_en": "Hwaseong",
+      "latitude": 37.212396,
+      "longitude": 127.046125,
+      "wikidata_id": "Q12625617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12625617"
+    },
+    {
+      "name_ko": "화순열린도서관",
+      "name_en": "",
+      "admin_area_ko": "화순군",
+      "admin_area_en": "Hwasun County",
+      "latitude": 35.065599,
+      "longitude": 126.991813,
+      "wikidata_id": "Q17689174",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17689174"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 도서관 (Libraries of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 도서관 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 52 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 도서관 (Libraries of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 도서관 (Libraries of South Korea) — 52 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 52 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

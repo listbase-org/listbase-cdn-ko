@@ -1,0 +1,178 @@
+{
+  "id": "ko-cheukjeong-danwi-concentr",
+  "name": "농도 단위 (13)",
+  "title": "농도 단위 (13)",
+  "description": "CLDR ko 로케일의 'concentr' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "concentr-item",
+      "bunryu": "concentr",
+      "ireum": "항목",
+      "yakja": "항목",
+      "gan_yakja": "항목",
+      "danwi_paeteon": "{0}개 항목",
+      "id": 1
+    },
+    {
+      "unit_code": "concentr-karat",
+      "bunryu": "concentr",
+      "ireum": "캐럿",
+      "yakja": "kt",
+      "gan_yakja": "kt",
+      "danwi_paeteon": "{0}캐럿",
+      "id": 2
+    },
+    {
+      "unit_code": "concentr-katal",
+      "bunryu": "concentr",
+      "ireum": "캐탈",
+      "yakja": "kat",
+      "gan_yakja": "kat",
+      "danwi_paeteon": "{0}캐탈",
+      "id": 3
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "bunryu": "concentr",
+      "ireum": "데시리터당 밀리그램",
+      "yakja": "mg/dL",
+      "gan_yakja": "mg/dL",
+      "danwi_paeteon": "데시리터당 {0}밀리그램",
+      "id": 4
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "bunryu": "concentr",
+      "ireum": "리터당 밀리몰",
+      "yakja": "mmol/L",
+      "gan_yakja": "mmol/L",
+      "danwi_paeteon": "리터당 {0}밀리몰",
+      "id": 5
+    },
+    {
+      "unit_code": "concentr-mole",
+      "bunryu": "concentr",
+      "ireum": "몰",
+      "yakja": "mol",
+      "gan_yakja": "mol",
+      "danwi_paeteon": "{0}몰",
+      "id": 6
+    },
+    {
+      "unit_code": "concentr-ofglucose",
+      "bunryu": "concentr",
+      "ireum": "포도당",
+      "yakja": "Glc",
+      "gan_yakja": "Glc",
+      "danwi_paeteon": "{0}포도당",
+      "id": 7
+    },
+    {
+      "unit_code": "concentr-part",
+      "bunryu": "concentr",
+      "ireum": "분율",
+      "yakja": "part",
+      "gan_yakja": "part",
+      "danwi_paeteon": "{0}분율",
+      "id": 8
+    },
+    {
+      "unit_code": "concentr-part-per-1e6",
+      "bunryu": "concentr",
+      "ireum": "ppm",
+      "yakja": "ppm",
+      "gan_yakja": "ppm",
+      "danwi_paeteon": "{0}ppm",
+      "id": 9
+    },
+    {
+      "unit_code": "concentr-part-per-1e9",
+      "bunryu": "concentr",
+      "ireum": "ppb",
+      "yakja": "ppb",
+      "gan_yakja": "ppb",
+      "danwi_paeteon": "{0}ppb",
+      "id": 10
+    },
+    {
+      "unit_code": "concentr-percent",
+      "bunryu": "concentr",
+      "ireum": "%",
+      "yakja": "%",
+      "gan_yakja": "%",
+      "danwi_paeteon": "{0}%",
+      "id": 11
+    },
+    {
+      "unit_code": "concentr-permille",
+      "bunryu": "concentr",
+      "ireum": "‰",
+      "yakja": "‰",
+      "gan_yakja": "‰",
+      "danwi_paeteon": "{0}‰",
+      "id": 12
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "bunryu": "concentr",
+      "ireum": "‱",
+      "yakja": "‱",
+      "gan_yakja": "‱",
+      "danwi_paeteon": "{0}‱",
+      "id": 13
+    }
+  ],
+  "meta": {
+    "title": "농도 단위 (13) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'concentr' 분류 측정 단위와 한국어 명칭. 포함 13 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "농도 단위 (13) | ListBase",
+    "seo_description": "다운로드 농도 단위 (13) — 13 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 13 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "id": "ko-yeokbeop-dal-ireum",
+  "name": "역법별 달 이름 한국어 표기 (CLDR)",
+  "title": "역법별 달 이름 한국어 표기 (CLDR)",
+  "description": "그레고리력(gregorian)·불기력(buddhist)·중국력(chinese)·단기력(dangi)·히브리력(hebrew)·이슬람력(islamic)의 달 이름을 CLDR ko 로케일 표기로 정리한 목록.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "yeokbeop",
+      "label": "Yeokbeop",
+      "type": "string"
+    },
+    {
+      "key": "dal_code",
+      "label": "Dal Code",
+      "type": "number"
+    },
+    {
+      "key": "dal_beonho",
+      "label": "Dal Beonho",
+      "type": "number"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "yeokbeop": "gregorian",
+      "dal_code": "1",
+      "dal_beonho": 1,
+      "ireum": "1월",
+      "yakja": "1월"
+    },
+    {
+      "id": 2,
+      "yeokbeop": "gregorian",
+      "dal_code": "2",
+      "dal_beonho": 2,
+      "ireum": "2월",
+      "yakja": "2월"
+    },
+    {
+      "id": 3,
+      "yeokbeop": "gregorian",
+      "dal_code": "3",
+      "dal_beonho": 3,
+      "ireum": "3월",
+      "yakja": "3월"
+    },
+    {
+      "id": 4,
+      "yeokbeop": "gregorian",
+      "dal_code": "4",
+      "dal_beonho": 4,
+      "ireum": "4월",
+      "yakja": "4월"
+    },
+    {
+      "id": 5,
+      "yeokbeop": "gregorian",
+      "dal_code": "5",
+      "dal_beonho": 5,
+      "ireum": "5월",
+      "yakja": "5월"
+    },
+    {
+      "id": 6,
+      "yeokbeop": "gregorian",
+      "dal_code": "6",
+      "dal_beonho": 6,
+      "ireum": "6월",
+      "yakja": "6월"
+    },
+    {
+      "id": 7,
+      "yeokbeop": "gregorian",
+      "dal_code": "7",
+      "dal_beonho": 7,
+      "ireum": "7월",
+      "yakja": "7월"
+    },
+    {
+      "id": 8,
+      "yeokbeop": "gregorian",
+      "dal_code": "8",
+      "dal_beonho": 8,
+      "ireum": "8월",
+      "yakja": "8월"
+    },
+    {
+      "id": 9,
+      "yeokbeop": "gregorian",
+      "dal_code": "9",
+      "dal_beonho": 9,
+      "ireum": "9월",
+      "yakja": "9월"
+    },
+    {
+      "id": 10,
+      "yeokbeop": "gregorian",
+      "dal_code": "10",
+      "dal_beonho": 10,
+      "ireum": "10월",
+      "yakja": "10월"
+    },
+    {
+      "id": 11,
+      "yeokbeop": "gregorian",
+      "dal_code": "11",
+      "dal_beonho": 11,
+      "ireum": "11월",
+      "yakja": "11월"
+    },
+    {
+      "id": 12,
+      "yeokbeop": "gregorian",
+      "dal_code": "12",
+      "dal_beonho": 12,
+      "ireum": "12월",
+      "yakja": "12월"
+    },
+    {
+      "id": 13,
+      "yeokbeop": "buddhist",
+      "dal_code": "1",
+      "dal_beonho": 1,
+      "ireum": "1월",
+      "yakja": "1월"
+    },
+    {
+      "id": 14,
+      "yeokbeop": "buddhist",
+      "dal_code": "2",
+      "dal_beonho": 2,
+      "ireum": "2월",
+      "yakja": "2월"
+    },
+    {
+      "id": 15,
+      "yeokbeop": "buddhist",
+      "dal_code": "3",
+      "dal_beonho": 3,
+      "ireum": "3월",
+      "yakja": "3월"
+    },
+    {
+      "id": 16,
+      "yeokbeop": "buddhist",
+      "dal_code": "4",
+      "dal_beonho": 4,
+      "ireum": "4월",
+      "yakja": "4월"
+    },
+    {
+      "id": 17,
+      "yeokbeop": "buddhist",
+      "dal_code": "5",
+      "dal_beonho": 5,
+      "ireum": "5월",
+      "yakja": "5월"
+    },
+    {
+      "id": 18,
+      "yeokbeop": "buddhist",
+      "dal_code": "6",
+      "dal_beonho": 6,
+      "ireum": "6월",
+      "yakja": "6월"
+    },
+    {
+      "id": 19,
+      "yeokbeop": "buddhist",
+      "dal_code": "7",
+      "dal_beonho": 7,
+      "ireum": "7월",
+      "yakja": "7월"
+    },
+    {
+      "id": 20,
+      "yeokbeop": "buddhist",
+      "dal_code": "8",
+      "dal_beonho": 8,
+      "ireum": "8월",
+      "yakja": "8월"
+    },
+    {
+      "id": 21,
+      "yeokbeop": "buddhist",
+      "dal_code": "9",
+      "dal_beonho": 9,
+      "ireum": "9월",
+      "yakja": "9월"
+    },
+    {
+      "id": 22,
+      "yeokbeop": "buddhist",
+      "dal_code": "10",
+      "dal_beonho": 10,
+      "ireum": "10월",
+      "yakja": "10월"
+    },
+    {
+      "id": 23,
+      "yeokbeop": "buddhist",
+      "dal_code": "11",
+      "dal_beonho": 11,
+      "ireum": "11월",
+      "yakja": "11월"
+    },
+    {
+      "id": 24,
+      "yeokbeop": "buddhist",
+      "dal_code": "12",
+      "dal_beonho": 12,
+      "ireum": "12월",
+      "yakja": "12월"
+    },
+    {
+      "id": 25,
+      "yeokbeop": "chinese",
+      "dal_code": "1",
+      "dal_beonho": 1,
+      "ireum": "1월",
+      "yakja": "1월"
+    },
+    {
+      "id": 26,
+      "yeokbeop": "chinese",
+      "dal_code": "2",
+      "dal_beonho": 2,
+      "ireum": "2월",
+      "yakja": "2월"
+    },
+    {
+      "id": 27,
+      "yeokbeop": "chinese",
+      "dal_code": "3",
+      "dal_beonho": 3,
+      "ireum": "3월",
+      "yakja": "3월"
+    },
+    {
+      "id": 28,
+      "yeokbeop": "chinese",
+      "dal_code": "4",
+      "dal_beonho": 4,
+      "ireum": "4월",
+      "yakja": "4월"
+    },
+    {
+      "id": 29,
+      "yeokbeop": "chinese",
+      "dal_code": "5",
+      "dal_beonho": 5,
+      "ireum": "5월",
+      "yakja": "5월"
+    },
+    {
+      "id": 30,
+      "yeokbeop": "chinese",
+      "dal_code": "6",
+      "dal_beonho": 6,
+      "ireum": "6월",
+      "yakja": "6월"
+    },
+    {
+      "id": 31,
+      "yeokbeop": "chinese",
+      "dal_code": "7",
+      "dal_beonho": 7,
+      "ireum": "7월",
+      "yakja": "7월"
+    },
+    {
+      "id": 32,
+      "yeokbeop": "chinese",
+      "dal_code": "8",
+      "dal_beonho": 8,
+      "ireum": "8월",
+      "yakja": "8월"
+    },
+    {
+      "id": 33,
+      "yeokbeop": "chinese",
+      "dal_code": "9",
+      "dal_beonho": 9,
+      "ireum": "9월",
+      "yakja": "9월"
+    },
+    {
+      "id": 34,
+      "yeokbeop": "chinese",
+      "dal_code": "10",
+      "dal_beonho": 10,
+      "ireum": "10월",
+      "yakja": "10월"
+    },
+    {
+      "id": 35,
+      "yeokbeop": "chinese",
+      "dal_code": "11",
+      "dal_beonho": 11,
+      "ireum": "11월",
+      "yakja": "11월"
+    },
+    {
+      "id": 36,
+      "yeokbeop": "chinese",
+      "dal_code": "12",
+      "dal_beonho": 12,
+      "ireum": "12월",
+      "yakja": "12월"
+    },
+    {
+      "id": 37,
+      "yeokbeop": "dangi",
+      "dal_code": "1",
+      "dal_beonho": 1,
+      "ireum": "1월",
+      "yakja": "1월"
+    },
+    {
+      "id": 38,
+      "yeokbeop": "dangi",
+      "dal_code": "2",
+      "dal_beonho": 2,
+      "ireum": "2월",
+      "yakja": "2월"
+    },
+    {
+      "id": 39,
+      "yeokbeop": "dangi",
+      "dal_code": "3",
+      "dal_beonho": 3,
+      "ireum": "3월",
+      "yakja": "3월"
+    },
+    {
+      "id": 40,
+      "yeokbeop": "dangi",
+      "dal_code": "4",
+      "dal_beonho": 4,
+      "ireum": "4월",
+      "yakja": "4월"
+    },
+    {
+      "id": 41,
+      "yeokbeop": "dangi",
+      "dal_code": "5",
+      "dal_beonho": 5,
+      "ireum": "5월",
+      "yakja": "5월"
+    },
+    {
+      "id": 42,
+      "yeokbeop": "dangi",
+      "dal_code": "6",
+      "dal_beonho": 6,
+      "ireum": "6월",
+      "yakja": "6월"
+    },
+    {
+      "id": 43,
+      "yeokbeop": "dangi",
+      "dal_code": "7",
+      "dal_beonho": 7,
+      "ireum": "7월",
+      "yakja": "7월"
+    },
+    {
+      "id": 44,
+      "yeokbeop": "dangi",
+      "dal_code": "8",
+      "dal_beonho": 8,
+      "ireum": "8월",
+      "yakja": "8월"
+    },
+    {
+      "id": 45,
+      "yeokbeop": "dangi",
+      "dal_code": "9",
+      "dal_beonho": 9,
+      "ireum": "9월",
+      "yakja": "9월"
+    },
+    {
+      "id": 46,
+      "yeokbeop": "dangi",
+      "dal_code": "10",
+      "dal_beonho": 10,
+      "ireum": "10월",
+      "yakja": "10월"
+    },
+    {
+      "id": 47,
+      "yeokbeop": "dangi",
+      "dal_code": "11",
+      "dal_beonho": 11,
+      "ireum": "11월",
+      "yakja": "11월"
+    },
+    {
+      "id": 48,
+      "yeokbeop": "dangi",
+      "dal_code": "12",
+      "dal_beonho": 12,
+      "ireum": "12월",
+      "yakja": "12월"
+    },
+    {
+      "id": 49,
+      "yeokbeop": "hebrew",
+      "dal_code": "1",
+      "dal_beonho": 1,
+      "ireum": "디스리",
+      "yakja": "디스리"
+    },
+    {
+      "id": 50,
+      "yeokbeop": "hebrew",
+      "dal_code": "2",
+      "dal_beonho": 2,
+      "ireum": "말케스",
+      "yakja": "말케스"
+    },
+    {
+      "id": 51,
+      "yeokbeop": "hebrew",
+      "dal_code": "3",
+      "dal_beonho": 3,
+      "ireum": "기슬르",
+      "yakja": "기슬르"
+    },
+    {
+      "id": 52,
+      "yeokbeop": "hebrew",
+      "dal_code": "4",
+      "dal_beonho": 4,
+      "ireum": "데벳",
+      "yakja": "데벳"
+    },
+    {
+      "id": 53,
+      "yeokbeop": "hebrew",
+      "dal_code": "5",
+      "dal_beonho": 5,
+      "ireum": "스밧",
+      "yakja": "스밧"
+    },
+    {
+      "id": 54,
+      "yeokbeop": "hebrew",
+      "dal_code": "6",
+      "dal_beonho": 6,
+      "ireum": "아달 1",
+      "yakja": "아달 1"
+    },
+    {
+      "id": 55,
+      "yeokbeop": "hebrew",
+      "dal_code": "7",
+      "dal_beonho": 7,
+      "ireum": "아달",
+      "yakja": "아달"
+    },
+    {
+      "id": 56,
+      "yeokbeop": "hebrew",
+      "dal_code": "7-yeartype-leap",
+      "dal_beonho": 7,
+      "ireum": "아달 2",
+      "yakja": "아달 2"
+    },
+    {
+      "id": 57,
+      "yeokbeop": "hebrew",
+      "dal_code": "8",
+      "dal_beonho": 8,
+      "ireum": "닛산",
+      "yakja": "닛산"
+    },
+    {
+      "id": 58,
+      "yeokbeop": "hebrew",
+      "dal_code": "9",
+      "dal_beonho": 9,
+      "ireum": "이야르",
+      "yakja": "이야르"
+    },
+    {
+      "id": 59,
+      "yeokbeop": "hebrew",
+      "dal_code": "10",
+      "dal_beonho": 10,
+      "ireum": "시완",
+      "yakja": "시완"
+    },
+    {
+      "id": 60,
+      "yeokbeop": "hebrew",
+      "dal_code": "11",
+      "dal_beonho": 11,
+      "ireum": "담무르",
+      "yakja": "담무르"
+    },
+    {
+      "id": 61,
+      "yeokbeop": "hebrew",
+      "dal_code": "12",
+      "dal_beonho": 12,
+      "ireum": "압",
+      "yakja": "압"
+    },
+    {
+      "id": 62,
+      "yeokbeop": "hebrew",
+      "dal_code": "13",
+      "dal_beonho": 13,
+      "ireum": "엘룰",
+      "yakja": "엘룰"
+    },
+    {
+      "id": 63,
+      "yeokbeop": "islamic",
+      "dal_code": "1",
+      "dal_beonho": 1,
+      "ireum": "무하람",
+      "yakja": "Muh."
+    },
+    {
+      "id": 64,
+      "yeokbeop": "islamic",
+      "dal_code": "2",
+      "dal_beonho": 2,
+      "ireum": "사파르",
+      "yakja": "Saf."
+    },
+    {
+      "id": 65,
+      "yeokbeop": "islamic",
+      "dal_code": "3",
+      "dal_beonho": 3,
+      "ireum": "라비 알 아왈",
+      "yakja": "Rab. I"
+    },
+    {
+      "id": 66,
+      "yeokbeop": "islamic",
+      "dal_code": "4",
+      "dal_beonho": 4,
+      "ireum": "라비 알 쎄니",
+      "yakja": "Rab. II"
+    },
+    {
+      "id": 67,
+      "yeokbeop": "islamic",
+      "dal_code": "5",
+      "dal_beonho": 5,
+      "ireum": "주마다 알 아왈",
+      "yakja": "Jum. I"
+    },
+    {
+      "id": 68,
+      "yeokbeop": "islamic",
+      "dal_code": "6",
+      "dal_beonho": 6,
+      "ireum": "주마다 알 쎄니",
+      "yakja": "Jum. II"
+    },
+    {
+      "id": 69,
+      "yeokbeop": "islamic",
+      "dal_code": "7",
+      "dal_beonho": 7,
+      "ireum": "라잡",
+      "yakja": "Raj."
+    },
+    {
+      "id": 70,
+      "yeokbeop": "islamic",
+      "dal_code": "8",
+      "dal_beonho": 8,
+      "ireum": "쉐아반",
+      "yakja": "Sha."
+    },
+    {
+      "id": 71,
+      "yeokbeop": "islamic",
+      "dal_code": "9",
+      "dal_beonho": 9,
+      "ireum": "라마단",
+      "yakja": "Ram."
+    },
+    {
+      "id": 72,
+      "yeokbeop": "islamic",
+      "dal_code": "10",
+      "dal_beonho": 10,
+      "ireum": "쉐왈",
+      "yakja": "Shaw."
+    },
+    {
+      "id": 73,
+      "yeokbeop": "islamic",
+      "dal_code": "11",
+      "dal_beonho": 11,
+      "ireum": "듀 알 까다",
+      "yakja": "Dhuʻl-Q."
+    },
+    {
+      "id": 74,
+      "yeokbeop": "islamic",
+      "dal_code": "12",
+      "dal_beonho": 12,
+      "ireum": "듀 알 히자",
+      "yakja": "Dhuʻl-H."
+    }
+  ],
+  "meta": {
+    "title": "역법별 달 이름 한국어 표기 (CLDR) - 무료 다운로드",
+    "description": "그레고리력(gregorian)·불기력(buddhist)·중국력(chinese)·단기력(dangi)·히브리력(hebrew)·이슬람력(islamic)의 달 이름을 CLDR ko 로케일 표기로 정리한 목록. 포함 74 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "역법별 달 이름 한국어 표기 (CLDR) | ListBase",
+    "seo_description": "다운로드 역법별 달 이름 한국어 표기 (CLDR) — 74 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 74 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

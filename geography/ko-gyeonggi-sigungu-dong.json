@@ -1,0 +1,3816 @@
+{
+  "id": "ko-gyeonggi-sigungu-dong",
+  "name": "Gyeonggi 시군구·동읍면 — Gyeonggi Districts & Neighborhoods",
+  "title": "Gyeonggi 시군구·동읍면 — Gyeonggi Districts & Neighborhoods",
+  "description": "Gyeonggi (경기도) — 시군구 및 동·읍·면 행정 지명 목록 755건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gyeonggi 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 755,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "가학동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "광명동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "노온사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "소하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "옥길동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "일직동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "철산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광명시",
+      "dong_eup_myeon": "하안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "가좌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "강매동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "고양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "관산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "구산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "내곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "내유동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "대자동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "대장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "대화동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "덕은동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "덕이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "도내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "마두동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "문봉동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "백석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "법곳동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "벽제동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "북한동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "사리현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "산황동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "삼송동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "선유동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "설문동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "성사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "성석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "식사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "신원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "신평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "오금동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "원당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "원흥동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "일산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "장항동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "정발산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "주교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "주엽동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "중산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "지영동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "지축동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "탄현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "토당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "풍동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "행신동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "행주내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "행주외동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "향동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "현천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "고양시",
+      "dong_eup_myeon": "효자동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "갈현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "과천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "관문동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "막계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "문원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "별양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "부림동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "원문동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "주암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "과천시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "가평군",
+      "dong_eup_myeon": "가평읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "가평군",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "가평군",
+      "dong_eup_myeon": "상면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "가평군",
+      "dong_eup_myeon": "설악면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "가평군",
+      "dong_eup_myeon": "조종면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "가평군",
+      "dong_eup_myeon": "청평면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "감정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "걸포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "고촌읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "구래동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "대곶면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "마산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "북변동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "사우동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "양촌읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "운양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "월곶면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "장기동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "통진읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "풍무동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "김포시",
+      "dong_eup_myeon": "하성면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "갈매동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "교문동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "사노동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "수택동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "아천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "인창동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "구리시",
+      "dong_eup_myeon": "토평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "가산면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "관인면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "군내면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "내촌면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "동교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "선단동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "설운동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "소흘읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "신북면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "신읍동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "어룡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "영북면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "영중면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "이동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "일동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "자작동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "창수면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "포천시",
+      "dong_eup_myeon": "화현면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "금정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "당정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "대야미동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "도마교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "둔대동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "부곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "산본동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "군포시",
+      "dong_eup_myeon": "속달동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "검산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "광탄면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "교하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "군내면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "금릉동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "금촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "다율동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "당하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "동패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "맥금동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "목동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "문발동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "문산읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "법원읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "산남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "상지석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "서패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "송촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "아동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "야당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "야동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "연다산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "오도동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "와동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "월롱면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "장단면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "적성면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "조리읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "탄현면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "파주읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "파평면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "파주시",
+      "dong_eup_myeon": "하지석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "갈현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "금광동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "도촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "상대원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "여수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "은행동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "중원구",
+      "dong_eup_myeon": "하대원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "고천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "내손동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "삼동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "오전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "왕곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "월암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "청계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "초평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "포일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의왕시",
+      "dong_eup_myeon": "학의동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "고기동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "고림동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "고매동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "공세동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "구갈동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "김량장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "남사면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "농서동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "동백동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "동천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "마북동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "마평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "모현면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "백암면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "보라동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "보정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "삼가동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "상갈동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "상하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "상현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "서천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "성복동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "신갈동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "신봉동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "양지면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "언남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "역북동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "영덕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "운학동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "원삼면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "유방동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "이동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "죽전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "지곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "청덕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "포곡읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "풍덕천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "하갈동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "해곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "용인시",
+      "dong_eup_myeon": "호동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "가재동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "고덕면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "군문동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "도일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "독곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "동삭동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "모곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "비전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "서정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "서탄면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "세교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "소사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "신대동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "신장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "안중읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "오성면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "용이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "월곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "유천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "이충동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "장당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "장안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "죽백동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "지산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "지제동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "진위면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "청룡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "청북읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "칠괴동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "칠원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "통복동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "팽성읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "평택동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "포승읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "합정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "평택시",
+      "dong_eup_myeon": "현덕면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "가운동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "고암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "고읍동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "광사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "광적면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "남면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "남방동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "덕계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "덕정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "도농동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "마전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "만송동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "백석읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "별내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "별내면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "봉양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "산북동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "삼숭동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "삼패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "수동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "수석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "어둔동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "오남읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "옥정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "와부읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "유양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "율정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "은현면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "이패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "일패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "장흥면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "조안면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "지금동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "진건읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "진접읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "퇴계원면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "평내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "호평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "화도읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "회암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양주시",
+      "dong_eup_myeon": "회정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "군남면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "미산면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "백학면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "신서면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "연천읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "왕징면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "장남면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "전곡읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "중면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "연천군",
+      "dong_eup_myeon": "청산면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "갈현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "고등동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "구미동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "궁내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "금광동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "금토동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "단대동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "대장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "도촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "동원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "둔전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "백현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "복정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "분당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "사송동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "산성동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "삼평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "상대원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "상적동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "서현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "석운동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "수내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "수진동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "시흥동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "심곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "야탑동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "양지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "여수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "오야동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "운중동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "율동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "은행동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "이매동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "정자동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "창곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "태평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "판교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "하대원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "성남시",
+      "dong_eup_myeon": "하산운동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "걸산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "광암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "동두천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "보산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "상봉암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "상패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "생연동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "송내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "안흥동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "지행동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "탑동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "동두천시",
+      "dong_eup_myeon": "하봉암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "고등동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "고색동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "곡반정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "구운동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "구천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "권선동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "남수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "남창동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "당수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "대황교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "망포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "매교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "매산로1가"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "매산로2가"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "매산로3가"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "매탄동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "매향동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "북수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "상광교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "서둔동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "세류동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "송죽동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "신동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "신풍동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "연무동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "영동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "영통동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "영화동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "오목천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "우만동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "원천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "율전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "이목동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "이의동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "인계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "입북동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "장안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "장지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "정자동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "조원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "천천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "탑동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "파장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "팔달로1가"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "팔달로2가"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "팔달로3가"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "평리동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "하광교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "호매실동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "수원시",
+      "dong_eup_myeon": "화서동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "계수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "고강동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "괴안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "대장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "도당동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "범박동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "삼정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "상동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "소사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "소사본동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "송내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "심곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "심곡본동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "약대동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "여월동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "역곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "오정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "옥길동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "원미동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "원종동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "작동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "부천시",
+      "dong_eup_myeon": "춘의동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "갈산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "고담동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "관고동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "단월동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "대월면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "대포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "마장면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "모가면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "백사면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "부발읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "사음동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "설성면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "신둔면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "안흥동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "율면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "율현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "장록동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "장호원읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "중리동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "증일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "증포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "진리동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "창전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "이천시",
+      "dong_eup_myeon": "호법면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "감북동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "감이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "감일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "광암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "교산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "덕풍동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "망월동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "미사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "배알미동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "상사창동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "상산곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "신장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "창우동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "천현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "초이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "초일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "춘궁동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "풍산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "하사창동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "하산곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "학암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "하남시",
+      "dong_eup_myeon": "항동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "경안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "곤지암읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "남종면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "남한산성면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "도척면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "목동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "목현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "삼동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "쌍령동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "역동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "오포읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "장지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "중대동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "직동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "초월읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "탄벌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "태전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "퇴촌면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "광주시",
+      "dong_eup_myeon": "회덕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "가능동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "고산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "금오동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "낙양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "녹양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "민락동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "산곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "신곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "용현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "의정부동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "자일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "장암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "의정부시",
+      "dong_eup_myeon": "호원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "가운동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "도농동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "별내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "별내면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "삼패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "수동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "수석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "오남읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "와부읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "이패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "일패동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "조안면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "지금동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "진건읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "진접읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "퇴계원면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "평내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "호평동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "남양주시",
+      "dong_eup_myeon": "화도읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "기산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "기안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "남양읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "능동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "동탄면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "마도면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "매송면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "반송동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "반월동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "반정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "배양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "병점동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "봉담읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "비봉면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "서신면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "석우동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "송산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "송산면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "안녕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "양감면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "영천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "오산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "우정읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "장안면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "정남면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "진안동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "청계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "팔탄면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "향남읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "화성시",
+      "dong_eup_myeon": "황계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "건건동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "고잔동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "대부남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "대부동동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "대부북동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "목내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "본오동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "부곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "사사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "선감동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "선부동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "성곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "성포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "수암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "신길동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "양상동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "와동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "원곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "원시동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "월피동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "장상동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "장하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "초지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "팔곡이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "팔곡일동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "풍도동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안산시",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "가수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "가장동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "갈곶동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "고현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "궐동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "금암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "내삼미동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "누읍동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "두곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "벌음동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "부산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "서동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "서랑동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "세교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "수청동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "양산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "오산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "외삼미동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "은계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "지곶동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "청학동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "청호동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "오산시",
+      "dong_eup_myeon": "탑동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "거모동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "계수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "과림동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "광석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "군자동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "금이동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "논곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "능곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "대야동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "도창동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "매화동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "목감동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "무지내동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "물왕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "미산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "방산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "산현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "신천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "안현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "월곶동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "은행동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "장곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "장현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "정왕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "조남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "죽율동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "하상동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "하중동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "시흥시",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "강상면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "강하면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "개군면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "단월면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "서종면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "양동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "양서면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "양평읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "옥천면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "용문면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "지평면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "양평군",
+      "dong_eup_myeon": "청운면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "가사동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "가현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "고삼면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "공도읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "구포동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "금광면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "금산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "금석동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "낙원동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "당왕동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "대덕면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "대천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "도기동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "동본동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "명륜동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "미양면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "발화동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "보개면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "봉남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "봉산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "사곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "삼죽면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "서운면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "서인동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "석정동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "숭인동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "신건지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "신모산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "신소현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "아양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "양성면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "연지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "영동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "옥산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "옥천동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "원곡면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "인지동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "일죽면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "죽산면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "중리동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "창전동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안성시",
+      "dong_eup_myeon": "현수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "관양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "박달동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "비산동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "석수동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "안양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "평촌동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "안양시",
+      "dong_eup_myeon": "호계동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "가남읍"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "가업동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "강천면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "금사면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "능서면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "능현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "단현동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "대신면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "매룡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "멱곡동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "북내면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "산북면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "삼교동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "상거동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "상동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "신진동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "연라동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "연양동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "오금동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "오학동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "우만동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "월송동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "점동면"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "점봉동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "창동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "천송동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "하거동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "하동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "현암동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "홍문동"
+    },
+    {
+      "sido": "경기도",
+      "sigungu": "여주시",
+      "dong_eup_myeon": "흥천면"
+    }
+  ],
+  "meta": {
+    "title": "Gyeonggi 시군구·동읍면 — Gyeonggi Districts & Neighborhoods - 무료 다운로드",
+    "description": "Gyeonggi (경기도) — 시군구 및 동·읍·면 행정 지명 목록 755건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gyeonggi 편. 필드: sido, sigungu, dong_eup_myeon. 포함 755 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gyeonggi 시군구·동읍면 — Gyeonggi Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Gyeonggi 시군구·동읍면 — Gyeonggi Districts & Neighborhoods — 755 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 755 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

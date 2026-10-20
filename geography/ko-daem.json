@@ -1,0 +1,386 @@
+{
+  "id": "ko-daem",
+  "name": "대한민국의 댐 (Dams of South Korea)",
+  "title": "대한민국의 댐 (Dams of South Korea)",
+  "description": "대한민국에 위치한 댐 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q253178",
+      "name_ko": "공산댐",
+      "name_en": "Gongsan Dam",
+      "located_in_at": "",
+      "latitude": 35.942778,
+      "longitude": 128.650833,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%82%B0%EB%8C%90"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q17238125",
+      "name_ko": "군위댐",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%9C%84%EB%8C%90"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27293108",
+      "name_ko": "나주댐",
+      "name_en": "Naju Dam",
+      "located_in_at": "전라남도",
+      "latitude": 34.95667,
+      "longitude": 126.86639,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12589686",
+      "name_ko": "낙동강하구둑",
+      "name_en": "Nakdong River Estuary Bank",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%99%EB%8F%99%EA%B0%95%ED%95%98%EA%B5%AC%EB%91%91"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12589748",
+      "name_ko": "남강댐",
+      "name_en": "Namgang Dam",
+      "located_in_at": "경상남도",
+      "latitude": 35.165278,
+      "longitude": 128.0375,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%82%A8%EA%B0%95%EB%8C%90"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27292854",
+      "name_ko": "담양댐",
+      "name_en": "Damyang Dam",
+      "located_in_at": "전라남도",
+      "latitude": 35.37639,
+      "longitude": 127.01472,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8B%B4%EC%96%91%EB%8C%90"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q5208149",
+      "name_ko": "대청댐",
+      "name_en": "Daecheong Dam",
+      "located_in_at": "문의면",
+      "latitude": 36.477222,
+      "longitude": 127.481111,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%AD%EB%8B%A4%EB%AA%A9%EC%A0%81%EB%8C%90"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27323693",
+      "name_ko": "동화댐",
+      "name_en": "Donghwa Dam",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.544167,
+      "longitude": 127.536389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q16096552",
+      "name_ko": "밀양댐",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B0%80%EC%96%91%EB%8C%90"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q18657526",
+      "name_ko": "백록담",
+      "name_en": "Baengnokdam",
+      "located_in_at": "제주특별자치도",
+      "latitude": 33.361389,
+      "longitude": 126.533889,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EB%A1%9D%EB%8B%B4"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q22973944",
+      "name_ko": "보령댐",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A0%B9%EB%8C%90"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q17172320",
+      "name_ko": "부항댐",
+      "name_en": "Hoengsong-daem",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.543889,
+      "longitude": 128.031667,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%ED%95%AD%EB%8C%90"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27331234",
+      "name_ko": "선유담",
+      "name_en": "Sonyu-dam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.360278,
+      "longitude": 128.496944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12601834",
+      "name_ko": "섬진강댐",
+      "name_en": "Seomjingang Dam",
+      "located_in_at": "",
+      "latitude": 35.541229,
+      "longitude": 127.109036,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%84%AC%EC%A7%84%EA%B0%95%EB%8C%90"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27341157",
+      "name_ko": "양수발전상부댐",
+      "name_en": "Yangsubaljeonsangbu Dam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.019167,
+      "longitude": 128.496389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27341149",
+      "name_ko": "양수발전하부댐",
+      "name_en": "Yangsubaljeonhabu Dam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.020833,
+      "longitude": 128.554167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27314329",
+      "name_ko": "영천댐",
+      "name_en": "Yongch'on-daem",
+      "located_in_at": "경상북도",
+      "latitude": 36.063333,
+      "longitude": 129.013056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27292855",
+      "name_ko": "옥정댐",
+      "name_en": "Okjeong Dam",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.540833,
+      "longitude": 127.111111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q12608627",
+      "name_ko": "용담댐",
+      "name_en": "Yongdam Dam",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.944722,
+      "longitude": 127.524444,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4%EB%8C%90"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27308550",
+      "name_ko": "의암댐",
+      "name_en": "Uiam dam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.836111,
+      "longitude": 127.675556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q12610762",
+      "name_ko": "의암댐",
+      "name_en": "Uiam Dam",
+      "located_in_at": "",
+      "latitude": 37.835833,
+      "longitude": 127.676111,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9D%98%EC%95%94%EB%8C%90"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27341252",
+      "name_ko": "잠곡댐",
+      "name_en": "Jamgok Dam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.161667,
+      "longitude": 127.456944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q27292864",
+      "name_ko": "장성댐",
+      "name_en": "Jangseong Dam",
+      "located_in_at": "전라남도",
+      "latitude": 35.35583,
+      "longitude": 126.82056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q55737771",
+      "name_ko": "장흥댐",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%9E%A5%ED%9D%A5%EB%8C%90"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27292848",
+      "name_ko": "주암다목적댐",
+      "name_en": "Juamdamokjeok Dam",
+      "located_in_at": "전라남도",
+      "latitude": 35.065,
+      "longitude": 127.238333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q12619304",
+      "name_ko": "청평댐",
+      "name_en": "Cheongpyeong Dam",
+      "located_in_at": "경기도",
+      "latitude": 37.723417,
+      "longitude": 127.420639,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B2%AD%ED%8F%89%EB%8C%90"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q16100197",
+      "name_ko": "춘천댐",
+      "name_en": "Chuncheon Dam Sam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.968139,
+      "longitude": 127.669389,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B6%98%EC%B2%9C%EB%8C%90"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q12621569",
+      "name_ko": "팔당댐",
+      "name_en": "Paldang Dam",
+      "located_in_at": "경기도",
+      "latitude": 37.527944,
+      "longitude": 127.280278,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%8B%B9%EB%8C%90"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q16100381",
+      "name_ko": "평림댐",
+      "name_en": "",
+      "located_in_at": "장성군",
+      "latitude": 35.288056,
+      "longitude": 126.685278,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%8F%89%EB%A6%BC%EB%8C%90"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q623988",
+      "name_ko": "평화의 댐",
+      "name_en": "Peace Dam",
+      "located_in_at": "화천군",
+      "latitude": 38.208174,
+      "longitude": 127.845411,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%8F%89%ED%99%94%EC%9D%98_%EB%8C%90"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27300597",
+      "name_ko": "평화의댐",
+      "name_en": "Pyeonghwaui Dam",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.210278,
+      "longitude": 127.846667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q16184055",
+      "name_ko": "횡성댐",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%ED%9A%A1%EC%84%B1%EB%8C%90"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 댐 (Dams of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 댐 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 32 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 댐 (Dams of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 댐 (Dams of South Korea) — 32 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 32 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ko-cheukjeong-danwi-power",
+  "name": "일률 단위 (6)",
+  "title": "일률 단위 (6)",
+  "description": "CLDR ko 로케일의 'power' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "power-gigawatt",
+      "bunryu": "power",
+      "ireum": "기가와트",
+      "yakja": "GW",
+      "gan_yakja": "GW",
+      "danwi_paeteon": "{0}기가와트",
+      "id": 1
+    },
+    {
+      "unit_code": "power-horsepower",
+      "bunryu": "power",
+      "ireum": "마력",
+      "yakja": "hp",
+      "gan_yakja": "hp",
+      "danwi_paeteon": "{0}마력",
+      "id": 2
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "bunryu": "power",
+      "ireum": "킬로와트",
+      "yakja": "kW",
+      "gan_yakja": "kW",
+      "danwi_paeteon": "{0}킬로와트",
+      "id": 3
+    },
+    {
+      "unit_code": "power-megawatt",
+      "bunryu": "power",
+      "ireum": "메가와트",
+      "yakja": "MW",
+      "gan_yakja": "MW",
+      "danwi_paeteon": "{0}메가와트",
+      "id": 4
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "bunryu": "power",
+      "ireum": "밀리와트",
+      "yakja": "mW",
+      "gan_yakja": "mW",
+      "danwi_paeteon": "{0}밀리와트",
+      "id": 5
+    },
+    {
+      "unit_code": "power-watt",
+      "bunryu": "power",
+      "ireum": "와트",
+      "yakja": "w",
+      "gan_yakja": "w",
+      "danwi_paeteon": "{0}와트",
+      "id": 6
+    }
+  ],
+  "meta": {
+    "title": "일률 단위 (6) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'power' 분류 측정 단위와 한국어 명칭. 포함 6 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "일률 단위 (6) | ListBase",
+    "seo_description": "다운로드 일률 단위 (6) — 6 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 6 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

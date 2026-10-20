@@ -1,0 +1,3986 @@
+{
+  "id": "ko-dosi-gongwon",
+  "name": "대한민국의 도시공원 (Urban Parks of South Korea)",
+  "title": "대한민국의 도시공원 (Urban Parks of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 도시공원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 392,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "5·18기념공원",
+      "name_en": "5·18 Memorial Park",
+      "admin_area_ko": "서구",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.155267,
+      "longitude": 126.857049,
+      "wikidata_id": "Q10854396",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10854396"
+    },
+    {
+      "name_ko": "가꿀공원",
+      "name_en": "Gakkul-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48806,
+      "longitude": 126.9875,
+      "wikidata_id": "Q27301235",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301235"
+    },
+    {
+      "name_ko": "가락공원",
+      "name_en": "Garak-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49778,
+      "longitude": 127.12444,
+      "wikidata_id": "Q27300935",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300935"
+    },
+    {
+      "name_ko": "가리산자연휴양림",
+      "name_en": "Garisanjayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.866388888,
+      "longitude": 127.981666666,
+      "wikidata_id": "Q27311910",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311910"
+    },
+    {
+      "name_ko": "가야공원",
+      "name_en": "Gayagongwon",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.14417,
+      "longitude": 129.03111,
+      "wikidata_id": "Q27296341",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296341"
+    },
+    {
+      "name_ko": "가양공원",
+      "name_en": "Gayangbirae-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.352777777,
+      "longitude": 127.46,
+      "wikidata_id": "Q27320644",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320644"
+    },
+    {
+      "name_ko": "간절곶",
+      "name_en": "Ganjeolgot",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.3597,
+      "longitude": 129.36161,
+      "wikidata_id": "Q10855091",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10855091"
+    },
+    {
+      "name_ko": "갈마공원",
+      "name_en": "Galma-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.356388888,
+      "longitude": 127.372777777,
+      "wikidata_id": "Q27320643",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320643"
+    },
+    {
+      "name_ko": "갈미한글공원",
+      "name_en": "Galmi Hangul Park",
+      "admin_area_ko": "의왕시",
+      "admin_area_en": "Uiwang",
+      "latitude": 37.3083,
+      "longitude": 126.9522,
+      "wikidata_id": "Q137531570",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137531570"
+    },
+    {
+      "name_ko": "강재구소령기념탑공원",
+      "name_en": "Major Kang Jae-gu Memorial Tower Park",
+      "admin_area_ko": "춘천시",
+      "admin_area_en": "Chuncheon",
+      "latitude": 37.728611111,
+      "longitude": 127.865,
+      "wikidata_id": "Q27313014",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27313014"
+    },
+    {
+      "name_ko": "개나리공원",
+      "name_en": "Gaenari-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49056,
+      "longitude": 127.07417,
+      "wikidata_id": "Q27300934",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300934"
+    },
+    {
+      "name_ko": "개나리공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49778,
+      "longitude": 127.03583,
+      "wikidata_id": "Q27301234",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301234"
+    },
+    {
+      "name_ko": "개롱공원",
+      "name_en": "Gaerong-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49361,
+      "longitude": 127.13083,
+      "wikidata_id": "Q27300933",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300933"
+    },
+    {
+      "name_ko": "개포어린이공원",
+      "name_en": "Gaepoeorini-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48528,
+      "longitude": 127.07167,
+      "wikidata_id": "Q27300932",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300932"
+    },
+    {
+      "name_ko": "갯골생태공원",
+      "name_en": "Gaetgol Ecological Park",
+      "admin_area_ko": "시흥시",
+      "admin_area_en": "Siheung",
+      "latitude": 37.391478,
+      "longitude": 126.780838,
+      "wikidata_id": "Q137532600",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137532600"
+    },
+    {
+      "name_ko": "거북선공원",
+      "name_en": "Geobukseon Park",
+      "admin_area_ko": "여수시",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.76137,
+      "longitude": 127.66695,
+      "wikidata_id": "Q123038995",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123038995"
+    },
+    {
+      "name_ko": "거여공원",
+      "name_en": "Geoyeo-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49667,
+      "longitude": 127.14167,
+      "wikidata_id": "Q27300931",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300931"
+    },
+    {
+      "name_ko": "건너말공원",
+      "name_en": "Geonneomal-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49167,
+      "longitude": 127.12389,
+      "wikidata_id": "Q27300930",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300930"
+    },
+    {
+      "name_ko": "경상감영",
+      "name_en": "Gyeongsang-gamyeong Park",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Daegu",
+      "latitude": 35.87222222,
+      "longitude": 128.59222222,
+      "wikidata_id": "Q5624080",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5624080"
+    },
+    {
+      "name_ko": "경의선숲길",
+      "name_en": "Gyeongui Line Forest Park",
+      "admin_area_ko": "용산구",
+      "admin_area_en": "Seoul",
+      "latitude": 37.559397072,
+      "longitude": 126.924869497,
+      "wikidata_id": "Q24861751",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24861751"
+    },
+    {
+      "name_ko": "경포 도립공원",
+      "name_en": "Gyeongpo Provincial Park",
+      "admin_area_ko": "강릉시",
+      "admin_area_en": "Gangneung",
+      "latitude": 37.789166666,
+      "longitude": 128.900833333,
+      "wikidata_id": "Q27304285",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27304285"
+    },
+    {
+      "name_ko": "계남근린공원",
+      "name_en": "Gyenam Neighborhood Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.508747,
+      "longitude": 126.855385,
+      "wikidata_id": "Q130528121",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130528121"
+    },
+    {
+      "name_ko": "계룡산국립공원",
+      "name_en": "Gyeryongsan-gungnipgongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.388055555,
+      "longitude": 127.181666666,
+      "wikidata_id": "Q27314140",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27314140"
+    },
+    {
+      "name_ko": "계족산공원",
+      "name_en": "Gyejoksan-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.377222222,
+      "longitude": 127.440833333,
+      "wikidata_id": "Q27320693",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320693"
+    },
+    {
+      "name_ko": "고인돌공원",
+      "name_en": "Goindolgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.079444444,
+      "longitude": 127.076388888,
+      "wikidata_id": "Q27341328",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341328"
+    },
+    {
+      "name_ko": "고척근린공원",
+      "name_en": "Gocheok Neighborhood Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.505942,
+      "longitude": 126.851913,
+      "wikidata_id": "Q130510216",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130510216"
+    },
+    {
+      "name_ko": "공단공원",
+      "name_en": "Gongdan-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.44194,
+      "longitude": 127.17889,
+      "wikidata_id": "Q27300929",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300929"
+    },
+    {
+      "name_ko": "공원",
+      "name_en": "Kongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.58972,
+      "longitude": 126.84111,
+      "wikidata_id": "Q27299468",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27299468"
+    },
+    {
+      "name_ko": "공작산자연휴양림",
+      "name_en": "Gongjaksanjayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.700277777,
+      "longitude": 128.015,
+      "wikidata_id": "Q27336551",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336551"
+    },
+    {
+      "name_ko": "관광유원지",
+      "name_en": "Sonch'ol-li",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.68157,
+      "longitude": 127.38034,
+      "wikidata_id": "Q27308375",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308375"
+    },
+    {
+      "name_ko": "광나루한강공원",
+      "name_en": "Gwangnaru Hangang Park",
+      "admin_area_ko": "강동구",
+      "admin_area_en": "Seoul",
+      "latitude": 37.551175,
+      "longitude": 127.122202,
+      "wikidata_id": "Q16219754",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16219754"
+    },
+    {
+      "name_ko": "광릉유원지",
+      "name_en": "Gwangneungyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.7475,
+      "longitude": 127.175,
+      "wikidata_id": "Q27308574",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308574"
+    },
+    {
+      "name_ko": "광치자연휴양림",
+      "name_en": "Gwangchijayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.144722222,
+      "longitude": 128.071111111,
+      "wikidata_id": "Q27340798",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340798"
+    },
+    {
+      "name_ko": "교대공원",
+      "name_en": "Gyodae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49444,
+      "longitude": 127.01167,
+      "wikidata_id": "Q27301233",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301233"
+    },
+    {
+      "name_ko": "국망봉자연휴양림",
+      "name_en": "Gungmangbongjayeonhyuyangnim",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.027777777,
+      "longitude": 127.403333333,
+      "wikidata_id": "Q27340836",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340836"
+    },
+    {
+      "name_ko": "국사봉체육시설",
+      "name_en": "Guksabongcheyuksiseol",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49556,
+      "longitude": 126.94111,
+      "wikidata_id": "Q27301232",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301232"
+    },
+    {
+      "name_ko": "국채보상운동기념공원",
+      "name_en": "National Debt Redemption Movement Memorial Park",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Dong-gu",
+      "latitude": 35.868833333,
+      "longitude": 128.602111111,
+      "wikidata_id": "Q625203",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625203"
+    },
+    {
+      "name_ko": "군업강변유원지",
+      "name_en": "Guneopgangbyeonyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.748333333,
+      "longitude": 128.001388888,
+      "wikidata_id": "Q27313013",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27313013"
+    },
+    {
+      "name_ko": "군탄공원",
+      "name_en": "Guntangongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.158888888,
+      "longitude": 127.319166666,
+      "wikidata_id": "Q27341262",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341262"
+    },
+    {
+      "name_ko": "궁내공원",
+      "name_en": "Gungnae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.36528,
+      "longitude": 126.92167,
+      "wikidata_id": "Q27301126",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301126"
+    },
+    {
+      "name_ko": "궁동유원지",
+      "name_en": "Gungdongyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.987222222,
+      "longitude": 128.293333333,
+      "wikidata_id": "Q27340850",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340850"
+    },
+    {
+      "name_ko": "궁산공원",
+      "name_en": "Gungsangongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.574166666,
+      "longitude": 126.84,
+      "wikidata_id": "Q27340609",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340609"
+    },
+    {
+      "name_ko": "궁현공원",
+      "name_en": "Gunghyeon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48833,
+      "longitude": 127.01028,
+      "wikidata_id": "Q27301231",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301231"
+    },
+    {
+      "name_ko": "근린공원",
+      "name_en": "Green Gongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.577222222,
+      "longitude": 126.885555555,
+      "wikidata_id": "Q27340601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340601"
+    },
+    {
+      "name_ko": "근린공원",
+      "name_en": "Geullin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.3675,
+      "longitude": 127.13889,
+      "wikidata_id": "Q27301147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301147"
+    },
+    {
+      "name_ko": "금오산도립공원",
+      "name_en": "Kumosan-doripkongwon",
+      "admin_area_ko": "경상북도",
+      "admin_area_en": "North Gyeongsang",
+      "latitude": 36.097777777,
+      "longitude": 128.301111111,
+      "wikidata_id": "Q27322199",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27322199"
+    },
+    {
+      "name_ko": "김포국제조각공원",
+      "name_en": "Gimpo International Sculpture Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.6465,
+      "longitude": 126.6618,
+      "wikidata_id": "Q136947730",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136947730"
+    },
+    {
+      "name_ko": "깊이울유원지",
+      "name_en": "Gipiulyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.918888888,
+      "longitude": 127.166388888,
+      "wikidata_id": "Q27340911",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340911"
+    },
+    {
+      "name_ko": "까치공원",
+      "name_en": "Kkachi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48389,
+      "longitude": 126.99028,
+      "wikidata_id": "Q27301230",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301230"
+    },
+    {
+      "name_ko": "꿈나라공원",
+      "name_en": "Kkumnaragongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.537777777,
+      "longitude": 127.221666666,
+      "wikidata_id": "Q27308458",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308458"
+    },
+    {
+      "name_ko": "나라사랑공원",
+      "name_en": "",
+      "admin_area_ko": "서산시",
+      "admin_area_en": "Seosan",
+      "latitude": 36.780308,
+      "longitude": 126.468224,
+      "wikidata_id": "Q42708679",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q42708679"
+    },
+    {
+      "name_ko": "낙산도립공원",
+      "name_en": "Naksan Provincial Park",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.092777777,
+      "longitude": 128.656388888,
+      "wikidata_id": "Q27341127",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341127"
+    },
+    {
+      "name_ko": "낙생유원지",
+      "name_en": "Naksaeng-yuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.3525,
+      "longitude": 127.08417,
+      "wikidata_id": "Q27301175",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301175"
+    },
+    {
+      "name_ko": "낙성대",
+      "name_en": "Nakseongdae",
+      "admin_area_ko": "봉천동",
+      "admin_area_en": "Seoul",
+      "latitude": 37.47105556,
+      "longitude": 126.96,
+      "wikidata_id": "Q486172",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q486172"
+    },
+    {
+      "name_ko": "난지천공원",
+      "name_en": "Nanjicheongongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5725,
+      "longitude": 126.886388888,
+      "wikidata_id": "Q27340603",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340603"
+    },
+    {
+      "name_ko": "난지한강공원",
+      "name_en": "Nanji Hangang Park",
+      "admin_area_ko": "마포구",
+      "admin_area_en": "Mapo District",
+      "latitude": 37.566213,
+      "longitude": 126.8763,
+      "wikidata_id": "Q21575845",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21575845"
+    },
+    {
+      "name_ko": "남경수목원",
+      "name_en": "Namgyeongsumogwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.6875,
+      "longitude": 126.916388888,
+      "wikidata_id": "Q27330972",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27330972"
+    },
+    {
+      "name_ko": "남산공원",
+      "name_en": "Namsan Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.5499,
+      "longitude": 126.989,
+      "wikidata_id": "Q27307220",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27307220"
+    },
+    {
+      "name_ko": "남산자연공원",
+      "name_en": "Namsanjayeongongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.766388888,
+      "longitude": 126.983888888,
+      "wikidata_id": "Q27340697",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340697"
+    },
+    {
+      "name_ko": "남선공원",
+      "name_en": "Namseon-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.345277777,
+      "longitude": 127.398055555,
+      "wikidata_id": "Q27320642",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320642"
+    },
+    {
+      "name_ko": "남이섬유원지",
+      "name_en": "Namiseomyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.7925,
+      "longitude": 127.525277777,
+      "wikidata_id": "Q27336584",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336584"
+    },
+    {
+      "name_ko": "남천해변공원",
+      "name_en": "Namcheon Beach Park",
+      "admin_area_ko": "수영구",
+      "admin_area_en": "Suyeong District",
+      "latitude": 35.1432,
+      "longitude": 129.1128,
+      "wikidata_id": "Q137612460",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137612460"
+    },
+    {
+      "name_ko": "남한강유원지",
+      "name_en": "Namhangangyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.235555555,
+      "longitude": 127.693055555,
+      "wikidata_id": "Q27310423",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27310423"
+    },
+    {
+      "name_ko": "남한산성도립공원",
+      "name_en": "Namhansanseongdoripgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.510277777,
+      "longitude": 127.218611111,
+      "wikidata_id": "Q27308465",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308465"
+    },
+    {
+      "name_ko": "남한산성도립공원",
+      "name_en": "Namhansanseong-doripgongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48139,
+      "longitude": 127.21972,
+      "wikidata_id": "Q27301515",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301515"
+    },
+    {
+      "name_ko": "남한산성도립공원",
+      "name_en": "Namhansanseongdorip-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49222,
+      "longitude": 127.17083,
+      "wikidata_id": "Q27301748",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301748"
+    },
+    {
+      "name_ko": "노들나루공원",
+      "name_en": "Nodeulnaru Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.513878,
+      "longitude": 126.95304,
+      "wikidata_id": "Q65240344",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65240344"
+    },
+    {
+      "name_ko": "노해근린공원",
+      "name_en": "Nohae Neighborhood Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.649177,
+      "longitude": 127.07109,
+      "wikidata_id": "Q130393869",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130393869"
+    },
+    {
+      "name_ko": "녹지광장",
+      "name_en": "Nokchigwangjang",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.468611111,
+      "longitude": 127.031111111,
+      "wikidata_id": "Q27301229",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301229"
+    },
+    {
+      "name_ko": "늘푸른공원",
+      "name_en": "Neulpureun-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48972,
+      "longitude": 127.0775,
+      "wikidata_id": "Q27300928",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300928"
+    },
+    {
+      "name_ko": "능안공원",
+      "name_en": "Neungan-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.37167,
+      "longitude": 126.93111,
+      "wikidata_id": "Q27301125",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301125"
+    },
+    {
+      "name_ko": "단대공원",
+      "name_en": "Dandae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.455,
+      "longitude": 127.15611,
+      "wikidata_id": "Q27300960",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300960"
+    },
+    {
+      "name_ko": "달성공원",
+      "name_en": "Dalseonggongwon",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.873888888,
+      "longitude": 128.577777777,
+      "wikidata_id": "Q27331074",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27331074"
+    },
+    {
+      "name_ko": "달성공원",
+      "name_en": "Dalseong Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.8739854,
+      "longitude": 128.5778689,
+      "wikidata_id": "Q495764",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q495764"
+    },
+    {
+      "name_ko": "달아공원",
+      "name_en": "Tara-gongwon",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 34.768333333,
+      "longitude": 128.399444444,
+      "wikidata_id": "Q27323424",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27323424"
+    },
+    {
+      "name_ko": "달터공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48611,
+      "longitude": 127.06028,
+      "wikidata_id": "Q27300926",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300926"
+    },
+    {
+      "name_ko": "달터공원",
+      "name_en": "Dalteo-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.4775,
+      "longitude": 127.05194,
+      "wikidata_id": "Q27300925",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300925"
+    },
+    {
+      "name_ko": "당동체육공원",
+      "name_en": "Dangdongcheyuk-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.35472,
+      "longitude": 126.94222,
+      "wikidata_id": "Q27301124",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301124"
+    },
+    {
+      "name_ko": "대둔산도립공원",
+      "name_en": "Daedunsandoripgongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.166666666,
+      "longitude": 127.286111111,
+      "wikidata_id": "Q27320369",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320369"
+    },
+    {
+      "name_ko": "대신공원",
+      "name_en": "Daesingongwon",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.12889,
+      "longitude": 129.02194,
+      "wikidata_id": "Q27296339",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296339"
+    },
+    {
+      "name_ko": "대왕암공원",
+      "name_en": "Daewangam Park",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Ulsan",
+      "latitude": 35.492417,
+      "longitude": 129.439444,
+      "wikidata_id": "Q61100314",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61100314"
+    },
+    {
+      "name_ko": "대우드림월드",
+      "name_en": "Daeudeurimwoldeu",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.34222,
+      "longitude": 126.95139,
+      "wikidata_id": "Q27301142",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301142"
+    },
+    {
+      "name_ko": "대저생태공원",
+      "name_en": "Daejeo Ecological Park",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.212699,
+      "longitude": 128.988811,
+      "wikidata_id": "Q131456932",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131456932"
+    },
+    {
+      "name_ko": "대진공원",
+      "name_en": "Daejin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49556,
+      "longitude": 127.07861,
+      "wikidata_id": "Q27300924",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300924"
+    },
+    {
+      "name_ko": "대진교강변유원지",
+      "name_en": "Daejingyogangbyeonyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.751111111,
+      "longitude": 127.955277777,
+      "wikidata_id": "Q27313012",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27313012"
+    },
+    {
+      "name_ko": "대청공원",
+      "name_en": "Daecheong-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.4925,
+      "longitude": 127.0825,
+      "wikidata_id": "Q27300922",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300922"
+    },
+    {
+      "name_ko": "대치근린공원",
+      "name_en": "Daechigeullin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49528,
+      "longitude": 127.07,
+      "wikidata_id": "Q27300921",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300921"
+    },
+    {
+      "name_ko": "댐하류공원",
+      "name_en": "Dam Haryugongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.21,
+      "longitude": 127.851944444,
+      "wikidata_id": "Q27341087",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341087"
+    },
+    {
+      "name_ko": "덕산도립공원",
+      "name_en": "",
+      "admin_area_ko": "예산군",
+      "admin_area_en": "Yesan County",
+      "latitude": 36.67025,
+      "longitude": 126.627833,
+      "wikidata_id": "Q16179391",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16179391"
+    },
+    {
+      "name_ko": "덕산도립공원",
+      "name_en": "Toksan-doripkongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.725,
+      "longitude": 126.607777777,
+      "wikidata_id": "Q27308346",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308346"
+    },
+    {
+      "name_ko": "덕유산국립공원",
+      "name_en": "Togyusan-gungnipkongwon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.825833333,
+      "longitude": 127.788611111,
+      "wikidata_id": "Q27314207",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27314207"
+    },
+    {
+      "name_ko": "덕적유원지",
+      "name_en": "Deokjeogyuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.22528,
+      "longitude": 126.14833,
+      "wikidata_id": "Q27299568",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27299568"
+    },
+    {
+      "name_ko": "덕풍공원",
+      "name_en": "Deokpunggongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.536388888,
+      "longitude": 127.198333333,
+      "wikidata_id": "Q27308460",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308460"
+    },
+    {
+      "name_ko": "도곡공원",
+      "name_en": "Dogok-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49028,
+      "longitude": 127.045,
+      "wikidata_id": "Q27301228",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301228"
+    },
+    {
+      "name_ko": "도곡까치공원",
+      "name_en": "Dogokkkachi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48306,
+      "longitude": 127.045,
+      "wikidata_id": "Q27301227",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301227"
+    },
+    {
+      "name_ko": "도산공원",
+      "name_en": "Dosan Park",
+      "admin_area_ko": "강남구",
+      "admin_area_en": "Gangnam District",
+      "latitude": 37.52441667,
+      "longitude": 127.03522222,
+      "wikidata_id": "Q484880",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q484880"
+    },
+    {
+      "name_ko": "도원유원지",
+      "name_en": "Dowonyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.265833333,
+      "longitude": 128.476666666,
+      "wikidata_id": "Q27341402",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341402"
+    },
+    {
+      "name_ko": "도장공원",
+      "name_en": "Dojang-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.35611,
+      "longitude": 126.92833,
+      "wikidata_id": "Q27301123",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301123"
+    },
+    {
+      "name_ko": "독골근린공원",
+      "name_en": "Dokgolgeullin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.485,
+      "longitude": 127.04694,
+      "wikidata_id": "Q27301226",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301226"
+    },
+    {
+      "name_ko": "돌마공원",
+      "name_en": "Dolma-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.38722,
+      "longitude": 127.12694,
+      "wikidata_id": "Q27300919",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300919"
+    },
+    {
+      "name_ko": "돌마을공원",
+      "name_en": "Dolmaeul-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50056,
+      "longitude": 127.10333,
+      "wikidata_id": "Q27300918",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300918"
+    },
+    {
+      "name_ko": "돌산공원",
+      "name_en": "Dolsan Park",
+      "admin_area_ko": "여수시",
+      "admin_area_en": "Yeosu",
+      "latitude": 34.730305555,
+      "longitude": 127.740416666,
+      "wikidata_id": "Q96107398",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96107398"
+    },
+    {
+      "name_ko": "동공원",
+      "name_en": "Dong-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.29083,
+      "longitude": 127.025,
+      "wikidata_id": "Q27301122",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301122"
+    },
+    {
+      "name_ko": "동대문역사문화공원",
+      "name_en": "Dongdaemun History & Culture Park",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 37.56702778,
+      "longitude": 127.01025,
+      "wikidata_id": "Q11235569",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11235569"
+    },
+    {
+      "name_ko": "동막골유원지",
+      "name_en": "Dongmakgolyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.104444444,
+      "longitude": 127.118333333,
+      "wikidata_id": "Q27341330",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341330"
+    },
+    {
+      "name_ko": "동면체육공원",
+      "name_en": "Dongmyeoncheyukgongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.204444444,
+      "longitude": 128.043333333,
+      "wikidata_id": "Q27341072",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341072"
+    },
+    {
+      "name_ko": "동부공원",
+      "name_en": "Dongbugongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 36.995555555,
+      "longitude": 127.118333333,
+      "wikidata_id": "Q27310576",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27310576"
+    },
+    {
+      "name_ko": "두댐이공원",
+      "name_en": "Dudaemi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49028,
+      "longitude": 127.13222,
+      "wikidata_id": "Q27300917",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300917"
+    },
+    {
+      "name_ko": "두류공원",
+      "name_en": "Duryugongwon",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.853333333,
+      "longitude": 128.564444444,
+      "wikidata_id": "Q27331075",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27331075"
+    },
+    {
+      "name_ko": "두류공원",
+      "name_en": "Duryu Park",
+      "admin_area_ko": "달서구",
+      "admin_area_en": "Dalseo District",
+      "latitude": 36.847136,
+      "longitude": 128.557787,
+      "wikidata_id": "Q5316832",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5316832"
+    },
+    {
+      "name_ko": "둔전공원",
+      "name_en": "Dunjeon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.35778,
+      "longitude": 126.92139,
+      "wikidata_id": "Q27301120",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301120"
+    },
+    {
+      "name_ko": "뒷벌공원",
+      "name_en": "Dwitbeol-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48056,
+      "longitude": 126.985,
+      "wikidata_id": "Q27301224",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301224"
+    },
+    {
+      "name_ko": "뒷벌공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49,
+      "longitude": 126.98694,
+      "wikidata_id": "Q27301225",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301225"
+    },
+    {
+      "name_ko": "뚝섬한강공원",
+      "name_en": "Ttukseom Hangang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.528029,
+      "longitude": 127.076329,
+      "wikidata_id": "Q130342836",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130342836"
+    },
+    {
+      "name_ko": "래저단지유원지",
+      "name_en": "Raejeodanji-yuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.38194,
+      "longitude": 127.10972,
+      "wikidata_id": "Q27300961",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300961"
+    },
+    {
+      "name_ko": "마동근린체육공원",
+      "name_en": "Madong Neighborhood Sports Park",
+      "admin_area_ko": "광양시",
+      "admin_area_en": "Gwangyang",
+      "latitude": 34.951729,
+      "longitude": 127.693351,
+      "wikidata_id": "Q66581461",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66581461"
+    },
+    {
+      "name_ko": "마로니에공원",
+      "name_en": "Marronnier Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.580503,
+      "longitude": 127.002807,
+      "wikidata_id": "Q623956",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623956"
+    },
+    {
+      "name_ko": "마이산도립공원",
+      "name_en": "Maisan-doripgongwon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.7525,
+      "longitude": 127.373333333,
+      "wikidata_id": "Q27312905",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27312905"
+    },
+    {
+      "name_ko": "마천공원",
+      "name_en": "Macheon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50167,
+      "longitude": 127.14583,
+      "wikidata_id": "Q27300916",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300916"
+    },
+    {
+      "name_ko": "만남공원",
+      "name_en": "Mannam-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50194,
+      "longitude": 126.98472,
+      "wikidata_id": "Q27301179",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301179"
+    },
+    {
+      "name_ko": "만석공원",
+      "name_en": "Manseok Park",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.3,
+      "longitude": 127,
+      "wikidata_id": "Q6751591",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6751591"
+    },
+    {
+      "name_ko": "망원한강공원",
+      "name_en": "Mangwon Hangang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.55146,
+      "longitude": 126.900404,
+      "wikidata_id": "Q130455545",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130455545"
+    },
+    {
+      "name_ko": "매봉공원",
+      "name_en": "Maebonggongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.623055555,
+      "longitude": 127.474444444,
+      "wikidata_id": "Q27340620",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340620"
+    },
+    {
+      "name_ko": "매탄공원",
+      "name_en": "Maetan-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.26806,
+      "longitude": 127.04556,
+      "wikidata_id": "Q27301119",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301119"
+    },
+    {
+      "name_ko": "맥도생태공원",
+      "name_en": "Maekdo Ecological Park",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.150283,
+      "longitude": 128.954582,
+      "wikidata_id": "Q131451069",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131451069"
+    },
+    {
+      "name_ko": "명달공원",
+      "name_en": "Myeongdal Neighborhood Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49833,
+      "longitude": 127.02111,
+      "wikidata_id": "Q27301223",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301223"
+    },
+    {
+      "name_ko": "모래내유원지",
+      "name_en": "Moraenaeyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 38.11,
+      "longitude": 127.261388888,
+      "wikidata_id": "Q27341237",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341237"
+    },
+    {
+      "name_ko": "모래소유원지",
+      "name_en": "Moraeso-yuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.829166666,
+      "longitude": 128.396944444,
+      "wikidata_id": "Q27311853",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311853"
+    },
+    {
+      "name_ko": "모악산도립공원",
+      "name_en": "Moaksan-doripkongwon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.730833333,
+      "longitude": 127.083333333,
+      "wikidata_id": "Q27312817",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27312817"
+    },
+    {
+      "name_ko": "목련공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49139,
+      "longitude": 127.08556,
+      "wikidata_id": "Q27300914",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300914"
+    },
+    {
+      "name_ko": "목련공원",
+      "name_en": "Mongnyeon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49889,
+      "longitude": 127.13917,
+      "wikidata_id": "Q27300913",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300913"
+    },
+    {
+      "name_ko": "목련공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48472,
+      "longitude": 127.04417,
+      "wikidata_id": "Q27301221",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301221"
+    },
+    {
+      "name_ko": "문래공원",
+      "name_en": "Mullae Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.516111111,
+      "longitude": 126.893888888,
+      "wikidata_id": "Q97229870",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97229870"
+    },
+    {
+      "name_ko": "문평공원",
+      "name_en": "Munpyeong-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.443055555,
+      "longitude": 127.397777777,
+      "wikidata_id": "Q27320641",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320641"
+    },
+    {
+      "name_ko": "문화휴식공원",
+      "name_en": "Munhwahyusikgongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.715277777,
+      "longitude": 127.425277777,
+      "wikidata_id": "Q27340627",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340627"
+    },
+    {
+      "name_ko": "미도공원",
+      "name_en": "Mido-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50167,
+      "longitude": 127.01056,
+      "wikidata_id": "Q27301220",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301220"
+    },
+    {
+      "name_ko": "미도어린이공원",
+      "name_en": "Midoeorini-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.46278,
+      "longitude": 126.91528,
+      "wikidata_id": "Q27301219",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301219"
+    },
+    {
+      "name_ko": "미안산체육공원",
+      "name_en": "Miansancheyukgongwon",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.21167,
+      "longitude": 129.09,
+      "wikidata_id": "Q27296334",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296334"
+    },
+    {
+      "name_ko": "미천골자연휴양림",
+      "name_en": "Micheongoljayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.940555555,
+      "longitude": 128.528888888,
+      "wikidata_id": "Q27340998",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340998"
+    },
+    {
+      "name_ko": "민락공원",
+      "name_en": "Millakgongwon",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.1575,
+      "longitude": 129.13056,
+      "wikidata_id": "Q27296331",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296331"
+    },
+    {
+      "name_ko": "반창유원지",
+      "name_en": "Banchangyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.821388888,
+      "longitude": 127.334444444,
+      "wikidata_id": "Q27311974",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311974"
+    },
+    {
+      "name_ko": "반포공원",
+      "name_en": "Banpo-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49861,
+      "longitude": 126.99139,
+      "wikidata_id": "Q27301218",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301218"
+    },
+    {
+      "name_ko": "밤섬유원지",
+      "name_en": "Banseomyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.695555555,
+      "longitude": 127.163333333,
+      "wikidata_id": "Q27308603",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308603"
+    },
+    {
+      "name_ko": "방동약수관광지",
+      "name_en": "Bangdongyaksugwangwangji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.944444444,
+      "longitude": 128.388888888,
+      "wikidata_id": "Q27340847",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340847"
+    },
+    {
+      "name_ko": "방죽공원",
+      "name_en": "Bangjuk-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50056,
+      "longitude": 127.12278,
+      "wikidata_id": "Q27300912",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300912"
+    },
+    {
+      "name_ko": "방태자연휴양림",
+      "name_en": "Bangtaejayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.918055555,
+      "longitude": 128.403888888,
+      "wikidata_id": "Q27340841",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340841"
+    },
+    {
+      "name_ko": "방현공원",
+      "name_en": "Banghyeon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.47833,
+      "longitude": 126.99167,
+      "wikidata_id": "Q27301217",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301217"
+    },
+    {
+      "name_ko": "백로주유원지",
+      "name_en": "Baengnojuyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.982222222,
+      "longitude": 127.241388888,
+      "wikidata_id": "Q27311972",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311972"
+    },
+    {
+      "name_ko": "백봉공원",
+      "name_en": "Baekbonggongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.646666666,
+      "longitude": 127.458611111,
+      "wikidata_id": "Q27340623",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340623"
+    },
+    {
+      "name_ko": "뱅이골소공원",
+      "name_en": "Baengigolsogongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.208611111,
+      "longitude": 128.000277777,
+      "wikidata_id": "Q27341081",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341081"
+    },
+    {
+      "name_ko": "벼락소유원지",
+      "name_en": "Byeoraksoyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.723888888,
+      "longitude": 127.193055555,
+      "wikidata_id": "Q27308585",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308585"
+    },
+    {
+      "name_ko": "별빛정원우주",
+      "name_en": "Starlight Garden Space",
+      "admin_area_ko": "이천시",
+      "admin_area_en": "Icheon",
+      "latitude": 37.242107,
+      "longitude": 127.392694,
+      "wikidata_id": "Q137534503",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137534503"
+    },
+    {
+      "name_ko": "보라매공원",
+      "name_en": "Boramae Park",
+      "admin_area_ko": "동작구",
+      "admin_area_en": "Seoul",
+      "latitude": 37.491944444,
+      "longitude": 126.919722222,
+      "wikidata_id": "Q27301216",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301216"
+    },
+    {
+      "name_ko": "보라매공원",
+      "name_en": "Boramae-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.348055555,
+      "longitude": 127.384722222,
+      "wikidata_id": "Q27320640",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320640"
+    },
+    {
+      "name_ko": "보문산대공원",
+      "name_en": "Pomunsan Park",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.30962,
+      "longitude": 127.42248,
+      "wikidata_id": "Q27320701",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320701"
+    },
+    {
+      "name_ko": "복돌이동산",
+      "name_en": "Poktoridongsan",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.431666666,
+      "longitude": 127.007222222,
+      "wikidata_id": "Q27301236",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301236"
+    },
+    {
+      "name_ko": "복주산자연휴양림",
+      "name_en": "Bokjusanjayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.143611111,
+      "longitude": 127.478611111,
+      "wikidata_id": "Q27340811",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340811"
+    },
+    {
+      "name_ko": "봉명공원",
+      "name_en": "Bongmyeonggongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.651388888,
+      "longitude": 127.450833333,
+      "wikidata_id": "Q27340626",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340626"
+    },
+    {
+      "name_ko": "봉무공원",
+      "name_en": "Bongmu Park",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.9202102,
+      "longitude": 128.6499178,
+      "wikidata_id": "Q113621267",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113621267"
+    },
+    {
+      "name_ko": "봉화공원",
+      "name_en": "Bonghwagongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.664444444,
+      "longitude": 127.522777777,
+      "wikidata_id": "Q27340611",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340611"
+    },
+    {
+      "name_ko": "봉황대",
+      "name_en": "Ponghwangdae",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.739722222,
+      "longitude": 127.923055555,
+      "wikidata_id": "Q27321898",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27321898"
+    },
+    {
+      "name_ko": "부모산공원",
+      "name_en": "Bumosangongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.634444444,
+      "longitude": 127.405555555,
+      "wikidata_id": "Q27340638",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340638"
+    },
+    {
+      "name_ko": "부산민주공원",
+      "name_en": "Democracy Park",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 35.1096,
+      "longitude": 129.028,
+      "wikidata_id": "Q12598807",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598807"
+    },
+    {
+      "name_ko": "부산시민공원",
+      "name_en": "Busan Citizens Park",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.16624722,
+      "longitude": 129.05666389,
+      "wikidata_id": "Q15206062",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15206062"
+    },
+    {
+      "name_ko": "부연동유원지",
+      "name_en": "Buyeondongyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.889444444,
+      "longitude": 128.643611111,
+      "wikidata_id": "Q27340861",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340861"
+    },
+    {
+      "name_ko": "북서울 꿈의숲",
+      "name_en": "Dream Forest",
+      "admin_area_ko": "강북구",
+      "admin_area_en": "Gangbuk District",
+      "latitude": 37.621052,
+      "longitude": 127.041079,
+      "wikidata_id": "Q12599081",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599081"
+    },
+    {
+      "name_ko": "분당중앙공원",
+      "name_en": "Bundang Central Park",
+      "admin_area_ko": "수내동",
+      "admin_area_en": "Sunae-dong",
+      "latitude": 37.37709167,
+      "longitude": 127.12383333,
+      "wikidata_id": "Q4997505",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4997505"
+    },
+    {
+      "name_ko": "분재예술공원",
+      "name_en": "Bunjaeyesulgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.781944444,
+      "longitude": 127.169722222,
+      "wikidata_id": "Q27330855",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27330855"
+    },
+    {
+      "name_ko": "분토공원",
+      "name_en": "Bunto-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48833,
+      "longitude": 127.0175,
+      "wikidata_id": "Q27301214",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301214"
+    },
+    {
+      "name_ko": "비둘기공원",
+      "name_en": "Bidulgi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48333,
+      "longitude": 127.08583,
+      "wikidata_id": "Q27300911",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300911"
+    },
+    {
+      "name_ko": "비목공원",
+      "name_en": "Bimokgongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.213333333,
+      "longitude": 127.845555555,
+      "wikidata_id": "Q27341091",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341091"
+    },
+    {
+      "name_ko": "비석거리공원",
+      "name_en": "Biseokgeori-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49444,
+      "longitude": 127.1175,
+      "wikidata_id": "Q27300910",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300910"
+    },
+    {
+      "name_ko": "뿌리공원",
+      "name_en": "Ppurigongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.28488,
+      "longitude": 127.38863,
+      "wikidata_id": "Q27320639",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320639"
+    },
+    {
+      "name_ko": "사기동굴유원지",
+      "name_en": "Sagidonggul-yuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.676666666,
+      "longitude": 126.964444444,
+      "wikidata_id": "Q27308617",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308617"
+    },
+    {
+      "name_ko": "사기막골유원지",
+      "name_en": "Sagimakgol-yuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.44556,
+      "longitude": 127.18222,
+      "wikidata_id": "Q27300962",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300962"
+    },
+    {
+      "name_ko": "사육신공원",
+      "name_en": "Sayuksin Park",
+      "admin_area_ko": "동작구",
+      "admin_area_en": "Dongjak District",
+      "latitude": 37.51405,
+      "longitude": 126.948632,
+      "wikidata_id": "Q12599807",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12599807"
+    },
+    {
+      "name_ko": "사평로공원",
+      "name_en": "Sapyeongno-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50139,
+      "longitude": 127.00306,
+      "wikidata_id": "Q27301213",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301213"
+    },
+    {
+      "name_ko": "산장유원지",
+      "name_en": "Sanjangyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.748055555,
+      "longitude": 127.4175,
+      "wikidata_id": "Q27308356",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308356"
+    },
+    {
+      "name_ko": "삼례수도산공원",
+      "name_en": "Samrye Sudosan Park",
+      "admin_area_ko": "완주군",
+      "admin_area_en": "Wanju County",
+      "latitude": 35.903479,
+      "longitude": 127.06828,
+      "wikidata_id": "Q73716889",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73716889"
+    },
+    {
+      "name_ko": "삼봉자연휴양림",
+      "name_en": "Sambongjayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.858611111,
+      "longitude": 128.463611111,
+      "wikidata_id": "Q27340842",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340842"
+    },
+    {
+      "name_ko": "삼선당공원",
+      "name_en": "Samseondanggongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.6225,
+      "longitude": 127.455,
+      "wikidata_id": "Q27340621",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340621"
+    },
+    {
+      "name_ko": "삼일공원",
+      "name_en": "Samilgongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.642777777,
+      "longitude": 127.497777777,
+      "wikidata_id": "Q27340614",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340614"
+    },
+    {
+      "name_ko": "삼일공원",
+      "name_en": "Samil-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48583,
+      "longitude": 126.97472,
+      "wikidata_id": "Q27301212",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301212"
+    },
+    {
+      "name_ko": "삼전공원",
+      "name_en": "Samjeon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50222,
+      "longitude": 127.0925,
+      "wikidata_id": "Q27300909",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300909"
+    },
+    {
+      "name_ko": "삼척장미공원",
+      "name_en": "Samcheok Rose Park",
+      "admin_area_ko": "삼척시",
+      "admin_area_en": "Samcheok",
+      "latitude": 37.433284,
+      "longitude": 129.177337,
+      "wikidata_id": "Q137545924",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137545924"
+    },
+    {
+      "name_ko": "삼천동유원지",
+      "name_en": "Samch'ondong-yuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.867222222,
+      "longitude": 127.693055555,
+      "wikidata_id": "Q27308560",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308560"
+    },
+    {
+      "name_ko": "삼청공원",
+      "name_en": "Samch'ong-gongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.592777777,
+      "longitude": 126.985,
+      "wikidata_id": "Q27308635",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308635"
+    },
+    {
+      "name_ko": "상동호수공원",
+      "name_en": "Sangdong Lake Park",
+      "admin_area_ko": "원미구",
+      "admin_area_en": "Wonmi-gu",
+      "latitude": 37.503949,
+      "longitude": 126.745149,
+      "wikidata_id": "Q17564536",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17564536"
+    },
+    {
+      "name_ko": "상명달공원",
+      "name_en": "Sangmyeongdal-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48222,
+      "longitude": 127.00556,
+      "wikidata_id": "Q27301211",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301211"
+    },
+    {
+      "name_ko": "상중도유원지",
+      "name_en": "Sangjungdo-yuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.900833333,
+      "longitude": 127.714722222,
+      "wikidata_id": "Q27308561",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308561"
+    },
+    {
+      "name_ko": "상희공원",
+      "name_en": "Sanghui-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.41083,
+      "longitude": 127.14139,
+      "wikidata_id": "Q27300908",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300908"
+    },
+    {
+      "name_ko": "새나라공원",
+      "name_en": "Saenaragongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.5425,
+      "longitude": 127.223333333,
+      "wikidata_id": "Q27308453",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308453"
+    },
+    {
+      "name_ko": "새말공원",
+      "name_en": "Saemal-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49333,
+      "longitude": 126.98861,
+      "wikidata_id": "Q27301210",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301210"
+    },
+    {
+      "name_ko": "새우촌공원",
+      "name_en": "Saeuchon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48,
+      "longitude": 126.98917,
+      "wikidata_id": "Q27301209",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301209"
+    },
+    {
+      "name_ko": "새적굴공원",
+      "name_en": "Saejeokgulgongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.661666666,
+      "longitude": 127.497777777,
+      "wikidata_id": "Q27340615",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340615"
+    },
+    {
+      "name_ko": "새터유원지",
+      "name_en": "Saeteoyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.654444444,
+      "longitude": 127.366944444,
+      "wikidata_id": "Q27308414",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308414"
+    },
+    {
+      "name_ko": "샘머리공원",
+      "name_en": "Saemmeori-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.356666666,
+      "longitude": 127.384722222,
+      "wikidata_id": "Q27320638",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320638"
+    },
+    {
+      "name_ko": "서대문독립공원",
+      "name_en": "Seodaemun Independence Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.5752858,
+      "longitude": 126.9550192,
+      "wikidata_id": "Q623629",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623629"
+    },
+    {
+      "name_ko": "서리골공원",
+      "name_en": "Seorigol-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49778,
+      "longitude": 127.00778,
+      "wikidata_id": "Q27301208",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301208"
+    },
+    {
+      "name_ko": "서리풀공원",
+      "name_en": "Seoripul-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49,
+      "longitude": 127.00056,
+      "wikidata_id": "Q27301207",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301207"
+    },
+    {
+      "name_ko": "서릿개공원",
+      "name_en": "Seoritgae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.5025,
+      "longitude": 126.99556,
+      "wikidata_id": "Q27301206",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301206"
+    },
+    {
+      "name_ko": "서울대공원",
+      "name_en": "Seoul Grand Park",
+      "admin_area_ko": "과천시",
+      "admin_area_en": "Gwacheon",
+      "latitude": 37.430555555,
+      "longitude": 127.017222222,
+      "wikidata_id": "Q495391",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q495391"
+    },
+    {
+      "name_ko": "서울대공원",
+      "name_en": "Seouldae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.43,
+      "longitude": 127.01583,
+      "wikidata_id": "Q27300885",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300885"
+    },
+    {
+      "name_ko": "서울드림랜드",
+      "name_en": "Soulturimnaendu",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.620833333,
+      "longitude": 127.038333333,
+      "wikidata_id": "Q27308626",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308626"
+    },
+    {
+      "name_ko": "서울랜드",
+      "name_en": "Seoullaendeu",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.43417,
+      "longitude": 127.01972,
+      "wikidata_id": "Q27301244",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301244"
+    },
+    {
+      "name_ko": "서울어린이대공원",
+      "name_en": "Seoul Children's Grand Park",
+      "admin_area_ko": "광진구",
+      "admin_area_en": "Seoul",
+      "latitude": 37.546,
+      "longitude": 127.08,
+      "wikidata_id": "Q485465",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q485465"
+    },
+    {
+      "name_ko": "서울푸른수목원",
+      "name_en": "Pureun Arboretum",
+      "admin_area_ko": "구로구",
+      "admin_area_en": "Guro District",
+      "latitude": 37.484086111,
+      "longitude": 126.825422222,
+      "wikidata_id": "Q12601393",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12601393"
+    },
+    {
+      "name_ko": "서포리국민관광지",
+      "name_en": "Seoporigungmin-gwan-gwangji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.22083,
+      "longitude": 126.11444,
+      "wikidata_id": "Q27299570",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27299570"
+    },
+    {
+      "name_ko": "석수체육공원",
+      "name_en": "Seoksucheyuk-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.41028,
+      "longitude": 126.90722,
+      "wikidata_id": "Q27301205",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301205"
+    },
+    {
+      "name_ko": "석촌호수공원",
+      "name_en": "Seokchon Lake Park",
+      "admin_area_ko": "송파구",
+      "admin_area_en": "Songpa District",
+      "latitude": 37.51,
+      "longitude": 127.103,
+      "wikidata_id": "Q16172386",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16172386"
+    },
+    {
+      "name_ko": "선암호수공원",
+      "name_en": "Seonam Lake Park",
+      "admin_area_ko": "선암동",
+      "admin_area_en": "Seonam-dong",
+      "latitude": 35.51675,
+      "longitude": 129.32648,
+      "wikidata_id": "Q15276188",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15276188"
+    },
+    {
+      "name_ko": "설악해맞이공원",
+      "name_en": "Seorakhaemajigongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.163055555,
+      "longitude": 128.608611111,
+      "wikidata_id": "Q27341171",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341171"
+    },
+    {
+      "name_ko": "설운체육공원",
+      "name_en": "Seoruncheyukgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.858055555,
+      "longitude": 127.143055555,
+      "wikidata_id": "Q27340915",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340915"
+    },
+    {
+      "name_ko": "성두산공원",
+      "name_en": "Seongdusan-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.37172,
+      "longitude": 127.37071,
+      "wikidata_id": "Q27320636",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320636"
+    },
+    {
+      "name_ko": "세종호수공원",
+      "name_en": "Sejong lake park",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": 36.494,
+      "longitude": 127.274,
+      "wikidata_id": "Q64506499",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64506499"
+    },
+    {
+      "name_ko": "소래습지생태공원",
+      "name_en": "Sorae Wetland Ecology Park",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.4122,
+      "longitude": 126.7474,
+      "wikidata_id": "Q66175402",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66175402"
+    },
+    {
+      "name_ko": "소백산국립공원",
+      "name_en": "Sobaeksangungnipgongwon",
+      "admin_area_ko": "대한민국",
+      "admin_area_en": "South Korea",
+      "latitude": 37.0025,
+      "longitude": 128.562777777,
+      "wikidata_id": "Q27337740",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27337740"
+    },
+    {
+      "name_ko": "소헌공원",
+      "name_en": "Soheon Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 36.433579,
+      "longitude": 129.055088,
+      "wikidata_id": "Q136947733",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136947733"
+    },
+    {
+      "name_ko": "손기정체육공원",
+      "name_en": "Sohn Kee-chung Sports Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.556294,
+      "longitude": 126.965974,
+      "wikidata_id": "Q16220016",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16220016"
+    },
+    {
+      "name_ko": "솔섬유원지",
+      "name_en": "Solseomyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.964444444,
+      "longitude": 128.318888888,
+      "wikidata_id": "Q27311852",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311852"
+    },
+    {
+      "name_ko": "송대공원",
+      "name_en": "Songdaegongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.725277777,
+      "longitude": 127.440555555,
+      "wikidata_id": "Q27340618",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340618"
+    },
+    {
+      "name_ko": "송암관광농원",
+      "name_en": "Songamgwangwangnongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.696111111,
+      "longitude": 127.163055555,
+      "wikidata_id": "Q27308601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308601"
+    },
+    {
+      "name_ko": "송이공원",
+      "name_en": "Songi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50111,
+      "longitude": 127.11889,
+      "wikidata_id": "Q27300907",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300907"
+    },
+    {
+      "name_ko": "수궁유원지",
+      "name_en": "Sugungyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.787777777,
+      "longitude": 127.305277777,
+      "wikidata_id": "Q27336572",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336572"
+    },
+    {
+      "name_ko": "수동유원지",
+      "name_en": "Sudongyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.686944444,
+      "longitude": 127.320833333,
+      "wikidata_id": "Q27308374",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308374"
+    },
+    {
+      "name_ko": "수량공원",
+      "name_en": "Suryanggongwon",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.15639,
+      "longitude": 126.80333,
+      "wikidata_id": "Q27296304",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296304"
+    },
+    {
+      "name_ko": "수산유원지",
+      "name_en": "Susanyuwonji",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 33.470277777,
+      "longitude": 126.385555555,
+      "wikidata_id": "Q27340735",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340735"
+    },
+    {
+      "name_ko": "수원 올림픽 공원",
+      "name_en": "Suwon Olympic Park",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.26136177,
+      "longitude": 127.02779341,
+      "wikidata_id": "Q20970530",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20970530"
+    },
+    {
+      "name_ko": "승일공원",
+      "name_en": "Seungilgongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.186388888,
+      "longitude": 127.301666666,
+      "wikidata_id": "Q27341264",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341264"
+    },
+    {
+      "name_ko": "시민의숲",
+      "name_en": "Maeheon Citizen's Forest",
+      "admin_area_ko": "양재동",
+      "admin_area_en": "Yangjae-dong",
+      "latitude": 37.471695,
+      "longitude": 127.035205,
+      "wikidata_id": "Q15060384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15060384"
+    },
+    {
+      "name_ko": "신길근린공원",
+      "name_en": "Singilgeullin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50139,
+      "longitude": 126.90639,
+      "wikidata_id": "Q27301204",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301204"
+    },
+    {
+      "name_ko": "신반포공원",
+      "name_en": "Sinbanpo-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50139,
+      "longitude": 127.00028,
+      "wikidata_id": "Q27301203",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301203"
+    },
+    {
+      "name_ko": "신정호유원지",
+      "name_en": "Sinjeonghoyuwonji",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.772222222,
+      "longitude": 126.983611111,
+      "wikidata_id": "Q27340696",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340696"
+    },
+    {
+      "name_ko": "신흥유원지",
+      "name_en": "Sinhung-yuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.71705,
+      "longitude": 126.94801,
+      "wikidata_id": "Q27308590",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308590"
+    },
+    {
+      "name_ko": "싸리고개공원",
+      "name_en": "Ssarigogae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48972,
+      "longitude": 127.03556,
+      "wikidata_id": "Q27301202",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301202"
+    },
+    {
+      "name_ko": "아침고요원예수목원",
+      "name_en": "Achimgoyowonyaesumogwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.743888888,
+      "longitude": 127.352222222,
+      "wikidata_id": "Q27336587",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336587"
+    },
+    {
+      "name_ko": "아침뜰근린공원",
+      "name_en": "Achimtteul Neighborhood Park",
+      "admin_area_ko": "세종특별자치시",
+      "admin_area_en": "Sejong",
+      "latitude": 36.476938,
+      "longitude": 127.254484,
+      "wikidata_id": "Q65271246",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65271246"
+    },
+    {
+      "name_ko": "안산갈대습지공원",
+      "name_en": "Ansan Reed Marsh Park",
+      "admin_area_ko": "상록구",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.27,
+      "longitude": 126.843055555,
+      "wikidata_id": "Q19940341",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940341"
+    },
+    {
+      "name_ko": "안산근린공원",
+      "name_en": "Ansan Neighborhood Park",
+      "admin_area_ko": "여수시",
+      "admin_area_en": "South Jeolla",
+      "latitude": 34.75939,
+      "longitude": 127.65855,
+      "wikidata_id": "Q123039008",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123039008"
+    },
+    {
+      "name_ko": "안양유원지",
+      "name_en": "Anyang-yuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.41889,
+      "longitude": 126.9325,
+      "wikidata_id": "Q27300882",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300882"
+    },
+    {
+      "name_ko": "암남공원",
+      "name_en": "",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.055555555,
+      "longitude": 129.014722222,
+      "wikidata_id": "Q12605947",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12605947"
+    },
+    {
+      "name_ko": "앙카라공원",
+      "name_en": "Ankara Park",
+      "admin_area_ko": "여의동",
+      "admin_area_en": "Yeoui-dong",
+      "latitude": 37.517472222,
+      "longitude": 126.930166666,
+      "wikidata_id": "Q12605978",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12605978"
+    },
+    {
+      "name_ko": "앞산공원",
+      "name_en": "Apsan Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.82,
+      "longitude": 128.579,
+      "wikidata_id": "Q4782147",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4782147"
+    },
+    {
+      "name_ko": "양산수질정화공원",
+      "name_en": "Yangsan Water Purification Park",
+      "admin_area_ko": "양산시",
+      "admin_area_en": "Yangsan",
+      "latitude": 35.307132,
+      "longitude": 129.022532,
+      "wikidata_id": "Q65272222",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65272222"
+    },
+    {
+      "name_ko": "양재천근린공원",
+      "name_en": "Yangjaecheongeullin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.47639,
+      "longitude": 127.04167,
+      "wikidata_id": "Q27301198",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301198"
+    },
+    {
+      "name_ko": "양지공원",
+      "name_en": "Yangji-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.35306,
+      "longitude": 126.92583,
+      "wikidata_id": "Q27301118",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301118"
+    },
+    {
+      "name_ko": "양지공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48639,
+      "longitude": 126.97,
+      "wikidata_id": "Q27301197",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301197"
+    },
+    {
+      "name_ko": "양청공원",
+      "name_en": "Yangcheonggongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.712222222,
+      "longitude": 127.422777777,
+      "wikidata_id": "Q27340630",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340630"
+    },
+    {
+      "name_ko": "양화한강공원",
+      "name_en": "Yanghwa Hangang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.543977,
+      "longitude": 126.89347,
+      "wikidata_id": "Q130534000",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130534000"
+    },
+    {
+      "name_ko": "어린이공원",
+      "name_en": "Eorini-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.36139,
+      "longitude": 126.92056,
+      "wikidata_id": "Q27301115",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301115"
+    },
+    {
+      "name_ko": "어린이공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.34167,
+      "longitude": 126.94083,
+      "wikidata_id": "Q27301116",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301116"
+    },
+    {
+      "name_ko": "어린이공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.34611,
+      "longitude": 126.92528,
+      "wikidata_id": "Q27301117",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301117"
+    },
+    {
+      "name_ko": "어린이공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.25611,
+      "longitude": 127.07667,
+      "wikidata_id": "Q27301146",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301146"
+    },
+    {
+      "name_ko": "어린이공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.40028,
+      "longitude": 126.95833,
+      "wikidata_id": "Q27301195",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301195"
+    },
+    {
+      "name_ko": "어린이공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.39083,
+      "longitude": 126.96889,
+      "wikidata_id": "Q27301196",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301196"
+    },
+    {
+      "name_ko": "어린이대공원",
+      "name_en": "Eorinidaegongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.54896,
+      "longitude": 127.08114,
+      "wikidata_id": "Q27307221",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27307221"
+    },
+    {
+      "name_ko": "어린이대공원",
+      "name_en": "",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.181172,
+      "longitude": 126.884657,
+      "wikidata_id": "Q12606525",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12606525"
+    },
+    {
+      "name_ko": "에덴공원",
+      "name_en": "Eden Gongwon",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.10917,
+      "longitude": 128.96361,
+      "wikidata_id": "Q27296319",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296319"
+    },
+    {
+      "name_ko": "에덴공원",
+      "name_en": "Eden Park (Busan)",
+      "admin_area_ko": "하단동",
+      "admin_area_en": "Hadan-dong",
+      "latitude": 35.109166666,
+      "longitude": 128.963333333,
+      "wikidata_id": "Q61101173",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61101173"
+    },
+    {
+      "name_ko": "엑스포과학공원",
+      "name_en": "Expo Gwahak-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.37687,
+      "longitude": 127.38391,
+      "wikidata_id": "Q27320704",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320704"
+    },
+    {
+      "name_ko": "엑스포과학공원",
+      "name_en": "Expo Science Park",
+      "admin_area_ko": "유성구",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.377,
+      "longitude": 127.385,
+      "wikidata_id": "Q624528",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624528"
+    },
+    {
+      "name_ko": "여의도공원",
+      "name_en": "Yeouido Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.52380556,
+      "longitude": 126.91891667,
+      "wikidata_id": "Q625037",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625037"
+    },
+    {
+      "name_ko": "여의도샛강생태공원",
+      "name_en": "Yeouido Saetgang Ecological Park",
+      "admin_area_ko": "영등포구",
+      "admin_area_en": "Yeongdeungpo District",
+      "latitude": 37.518376,
+      "longitude": 126.921125,
+      "wikidata_id": "Q16176229",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16176229"
+    },
+    {
+      "name_ko": "역삼공원",
+      "name_en": "Yeoksam-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50139,
+      "longitude": 127.02972,
+      "wikidata_id": "Q27301194",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301194"
+    },
+    {
+      "name_ko": "연꽃테마파크",
+      "name_en": "Lotus Theme Park",
+      "admin_area_ko": "시흥시",
+      "admin_area_en": "Siheung",
+      "latitude": 37.40243,
+      "longitude": 126.807228,
+      "wikidata_id": "Q137532650",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137532650"
+    },
+    {
+      "name_ko": "연산공원",
+      "name_en": "Yonsan-gongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.213611111,
+      "longitude": 127.219444444,
+      "wikidata_id": "Q27320278",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320278"
+    },
+    {
+      "name_ko": "연인산도립공원",
+      "name_en": "Yeoninsandoripgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.879166666,
+      "longitude": 127.44,
+      "wikidata_id": "Q27336585",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336585"
+    },
+    {
+      "name_ko": "연천 고인돌공원",
+      "name_en": "Yeoncheon Dolmen Park",
+      "admin_area_ko": "연천군",
+      "admin_area_en": "Yeoncheon County",
+      "latitude": 38.08,
+      "longitude": 127.078611111,
+      "wikidata_id": "Q55731988",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55731988"
+    },
+    {
+      "name_ko": "연천유원지",
+      "name_en": "Yeoncheon-yuwonji",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.27583,
+      "longitude": 127.06194,
+      "wikidata_id": "Q27301177",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301177"
+    },
+    {
+      "name_ko": "연화공원",
+      "name_en": "Yeonhwa-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.485,
+      "longitude": 127.12861,
+      "wikidata_id": "Q27300905",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300905"
+    },
+    {
+      "name_ko": "연화산도립공원",
+      "name_en": "Yonhwasan-doripkongwon",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.06,
+      "longitude": 128.291388888,
+      "wikidata_id": "Q27325246",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27325246"
+    },
+    {
+      "name_ko": "영귀대",
+      "name_en": "Yonggwidae",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.742777777,
+      "longitude": 127.902777777,
+      "wikidata_id": "Q27321900",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27321900"
+    },
+    {
+      "name_ko": "영등포공원",
+      "name_en": "Yeongdeungpo Park",
+      "admin_area_ko": "영등포구",
+      "admin_area_en": "Yeongdeungpo District",
+      "latitude": 37.515453,
+      "longitude": 126.910698,
+      "wikidata_id": "Q65273774",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65273774"
+    },
+    {
+      "name_ko": "예술공원",
+      "name_en": "Yesul-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48306,
+      "longitude": 127.01444,
+      "wikidata_id": "Q27301193",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301193"
+    },
+    {
+      "name_ko": "예지공원",
+      "name_en": "Yeji-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49194,
+      "longitude": 127.07306,
+      "wikidata_id": "Q27300904",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300904"
+    },
+    {
+      "name_ko": "오금공원",
+      "name_en": "Ogeum-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50222,
+      "longitude": 127.13083,
+      "wikidata_id": "Q27300903",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300903"
+    },
+    {
+      "name_ko": "오금공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.3525,
+      "longitude": 126.93472,
+      "wikidata_id": "Q27301114",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301114"
+    },
+    {
+      "name_ko": "옥구공원",
+      "name_en": "Okgu Park",
+      "admin_area_ko": "시흥시",
+      "admin_area_en": "Siheung",
+      "latitude": 37.356855,
+      "longitude": 126.715545,
+      "wikidata_id": "Q90815521",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q90815521"
+    },
+    {
+      "name_ko": "온평공원",
+      "name_en": "Eunpyeong-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.359444444,
+      "longitude": 127.362777777,
+      "wikidata_id": "Q27320635",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320635"
+    },
+    {
+      "name_ko": "올림픽공원",
+      "name_en": "Olympic Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.520277777,
+      "longitude": 127.1225,
+      "wikidata_id": "Q486694",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q486694"
+    },
+    {
+      "name_ko": "올림픽공원",
+      "name_en": "Ollimpik-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.26111,
+      "longitude": 127.02778,
+      "wikidata_id": "Q27301113",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301113"
+    },
+    {
+      "name_ko": "완산공원",
+      "name_en": "Wansan-gongwon",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.804444444,
+      "longitude": 127.141388888,
+      "wikidata_id": "Q27314469",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27314469"
+    },
+    {
+      "name_ko": "완오문화마을",
+      "name_en": "Wanomunhwamaeul",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.977222222,
+      "longitude": 127.834166666,
+      "wikidata_id": "Q27341601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341601"
+    },
+    {
+      "name_ko": "용대자연휴양림",
+      "name_en": "Yongdaejayeonhyuyangnim",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.233888888,
+      "longitude": 128.344722222,
+      "wikidata_id": "Q27341428",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341428"
+    },
+    {
+      "name_ko": "용두산공원",
+      "name_en": "Yongdusan Park",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.100555555,
+      "longitude": 129.032777777,
+      "wikidata_id": "Q483056",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483056"
+    },
+    {
+      "name_ko": "용마폭포공원",
+      "name_en": "Yongma Waterfall Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.574405,
+      "longitude": 127.090106,
+      "wikidata_id": "Q12608670",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12608670"
+    },
+    {
+      "name_ko": "용인에버랜드",
+      "name_en": "Yonginebeoraendeu",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.30111,
+      "longitude": 127.18639,
+      "wikidata_id": "Q27301724",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301724"
+    },
+    {
+      "name_ko": "우암사적공원",
+      "name_en": "Uam Historic Park",
+      "admin_area_ko": "동구",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.347748,
+      "longitude": 127.4582,
+      "wikidata_id": "Q64769089",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64769089"
+    },
+    {
+      "name_ko": "우암산공원",
+      "name_en": "Uamsangongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.649444444,
+      "longitude": 127.503333333,
+      "wikidata_id": "Q27340613",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340613"
+    },
+    {
+      "name_ko": "우장산공원",
+      "name_en": "Ujangsangongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.555,
+      "longitude": 126.845555555,
+      "wikidata_id": "Q27340607",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340607"
+    },
+    {
+      "name_ko": "운천공원",
+      "name_en": "Uncheongongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.6475,
+      "longitude": 127.4725,
+      "wikidata_id": "Q27340619",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340619"
+    },
+    {
+      "name_ko": "울산대공원",
+      "name_en": "Ulsan Grand Park",
+      "admin_area_ko": "남구",
+      "admin_area_en": "Nam District",
+      "latitude": 35.528,
+      "longitude": 129.299,
+      "wikidata_id": "Q13468172",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13468172"
+    },
+    {
+      "name_ko": "웃말공원",
+      "name_en": "Utmal-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50222,
+      "longitude": 127.12278,
+      "wikidata_id": "Q27300902",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300902"
+    },
+    {
+      "name_ko": "원지공원",
+      "name_en": "Wonji-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49806,
+      "longitude": 126.89944,
+      "wikidata_id": "Q27301192",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301192"
+    },
+    {
+      "name_ko": "원천그린랜드",
+      "name_en": "Woncheongrillaendeu",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.27417,
+      "longitude": 127.06389,
+      "wikidata_id": "Q27301174",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301174"
+    },
+    {
+      "name_ko": "원통체육공원",
+      "name_en": "Wontongcheyukgongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.122777777,
+      "longitude": 128.196111111,
+      "wikidata_id": "Q27340796",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340796"
+    },
+    {
+      "name_ko": "월명공원",
+      "name_en": "Wolmyeong Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.981,
+      "longitude": 126.692,
+      "wikidata_id": "Q28405308",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28405308"
+    },
+    {
+      "name_ko": "월평공원",
+      "name_en": "Wolpyeong-gongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.333055555,
+      "longitude": 127.361111111,
+      "wikidata_id": "Q27320703",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320703"
+    },
+    {
+      "name_ko": "위도유원지",
+      "name_en": "Widoyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.931388888,
+      "longitude": 127.715,
+      "wikidata_id": "Q27308563",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308563"
+    },
+    {
+      "name_ko": "윗반고개공원놀이터",
+      "name_en": "Witbangogaegongwonnoriteo",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.46583,
+      "longitude": 127.10944,
+      "wikidata_id": "Q27300958",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300958"
+    },
+    {
+      "name_ko": "유림공원",
+      "name_en": "Yurim Park",
+      "admin_area_ko": "유성구",
+      "admin_area_en": "Yuseong District",
+      "latitude": 36.360722222,
+      "longitude": 127.357888888,
+      "wikidata_id": "Q108914532",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108914532"
+    },
+    {
+      "name_ko": "율동공원",
+      "name_en": "Yuldong Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.375,
+      "longitude": 127.15,
+      "wikidata_id": "Q8060899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8060899"
+    },
+    {
+      "name_ko": "은방울공원",
+      "name_en": "Eunbangulgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.54,
+      "longitude": 127.224722222,
+      "wikidata_id": "Q27308457",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308457"
+    },
+    {
+      "name_ko": "은항아리유원지",
+      "name_en": "Eunhangariyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.693055555,
+      "longitude": 127.242777777,
+      "wikidata_id": "Q27308384",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308384"
+    },
+    {
+      "name_ko": "은행나무공원",
+      "name_en": "Eunhaengnamu-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49111,
+      "longitude": 127.09972,
+      "wikidata_id": "Q27300901",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300901"
+    },
+    {
+      "name_ko": "을미기공원",
+      "name_en": "Eulmigigongwon",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.44245,
+      "longitude": 127.41036,
+      "wikidata_id": "Q27320633",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27320633"
+    },
+    {
+      "name_ko": "응천공원",
+      "name_en": "Eungcheongongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 37.032222222,
+      "longitude": 127.603055555,
+      "wikidata_id": "Q27310892",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27310892"
+    },
+    {
+      "name_ko": "의왕자연학습공원",
+      "name_en": "Uiwang Natural Learning Park",
+      "admin_area_ko": "의왕시",
+      "admin_area_en": "Uiwang",
+      "latitude": 37.3068,
+      "longitude": 126.9475,
+      "wikidata_id": "Q137531626",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137531626"
+    },
+    {
+      "name_ko": "이사부사자공원",
+      "name_en": "Isabu Lion Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.475168,
+      "longitude": 129.159494,
+      "wikidata_id": "Q137545359",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137545359"
+    },
+    {
+      "name_ko": "이촌한강공원",
+      "name_en": "Ichon Hangang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.517956,
+      "longitude": 126.969546,
+      "wikidata_id": "Q130296821",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130296821"
+    },
+    {
+      "name_ko": "이현공원",
+      "name_en": "Ihyeongongwon",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.872777777,
+      "longitude": 128.543611111,
+      "wikidata_id": "Q27331073",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27331073"
+    },
+    {
+      "name_ko": "인천대공원",
+      "name_en": "Incheon Grand Park",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.459267,
+      "longitude": 126.750511,
+      "wikidata_id": "Q12613499",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12613499"
+    },
+    {
+      "name_ko": "일산 호수공원",
+      "name_en": "Ilsan Lake Park",
+      "admin_area_ko": "일산동구",
+      "admin_area_en": "Ilsandong-gu",
+      "latitude": 37.657019,
+      "longitude": 126.763746,
+      "wikidata_id": "Q6477301",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6477301"
+    },
+    {
+      "name_ko": "일원새싹공원",
+      "name_en": "Irwonsaessak-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48472,
+      "longitude": 127.08917,
+      "wikidata_id": "Q27300900",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300900"
+    },
+    {
+      "name_ko": "일원은행나무공원",
+      "name_en": "Irwoneunhaengnamu-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49194,
+      "longitude": 127.07694,
+      "wikidata_id": "Q27300899",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300899"
+    },
+    {
+      "name_ko": "일원장미공원",
+      "name_en": "Irwonjangmi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48083,
+      "longitude": 127.08083,
+      "wikidata_id": "Q27300898",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300898"
+    },
+    {
+      "name_ko": "임진각평화누리공원",
+      "name_en": "Imjingak",
+      "admin_area_ko": "파주시",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.889583,
+      "longitude": 126.740111,
+      "wikidata_id": "Q489493",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489493"
+    },
+    {
+      "name_ko": "자유공원",
+      "name_en": "Incheon Jayu Park",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.475611,
+      "longitude": 126.621972,
+      "wikidata_id": "Q11267359",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11267359"
+    },
+    {
+      "name_ko": "자유공원",
+      "name_en": "Jayu-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.37944,
+      "longitude": 126.96417,
+      "wikidata_id": "Q27301191",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301191"
+    },
+    {
+      "name_ko": "잠원한강공원",
+      "name_en": "Jamwon Hangang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.525605,
+      "longitude": 127.016651,
+      "wikidata_id": "Q130753620",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130753620"
+    },
+    {
+      "name_ko": "장군봉근린공원",
+      "name_en": "Janggunbong Neighborhood Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.47997,
+      "longitude": 126.93656,
+      "wikidata_id": "Q27301190",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301190"
+    },
+    {
+      "name_ko": "장안공원",
+      "name_en": "Jangan-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.28694,
+      "longitude": 127.01139,
+      "wikidata_id": "Q27301112",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301112"
+    },
+    {
+      "name_ko": "장안공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49167,
+      "longitude": 127.01139,
+      "wikidata_id": "Q27301189",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301189"
+    },
+    {
+      "name_ko": "장충단공원",
+      "name_en": "Jangchungdan Park",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": 37.557730555,
+      "longitude": 127.0043,
+      "wikidata_id": "Q11268929",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11268929"
+    },
+    {
+      "name_ko": "정골공원",
+      "name_en": "Jeonggol-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.38167,
+      "longitude": 127.13806,
+      "wikidata_id": "Q27300896",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300896"
+    },
+    {
+      "name_ko": "정발산공원",
+      "name_en": "Jeongbalsangongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.665,
+      "longitude": 126.78083,
+      "wikidata_id": "Q27299440",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27299440"
+    },
+    {
+      "name_ko": "정자공원",
+      "name_en": "Jeongja-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.35722,
+      "longitude": 127.11556,
+      "wikidata_id": "Q27301145",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301145"
+    },
+    {
+      "name_ko": "제4야영장",
+      "name_en": "Jesayayeongjang",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.44972,
+      "longitude": 126.94694,
+      "wikidata_id": "Q27301180",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301180"
+    },
+    {
+      "name_ko": "제인어린이공원",
+      "name_en": "Jeineorini-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.36056,
+      "longitude": 126.94417,
+      "wikidata_id": "Q27301111",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301111"
+    },
+    {
+      "name_ko": "제주돌문화공원",
+      "name_en": "Jeju Stone Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 33.448569444,
+      "longitude": 126.658663888,
+      "wikidata_id": "Q55734281",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55734281"
+    },
+    {
+      "name_ko": "종묘광장공원",
+      "name_en": "Jongmyo Square Park",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.57291667,
+      "longitude": 126.99433333,
+      "wikidata_id": "Q16184633",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16184633"
+    },
+    {
+      "name_ko": "주음치강변유원지",
+      "name_en": "Jueumchigangbyeonyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.781388888,
+      "longitude": 127.982222222,
+      "wikidata_id": "Q27311892",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311892"
+    },
+    {
+      "name_ko": "중도유원지",
+      "name_en": "Jungdoyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.881111111,
+      "longitude": 127.693888888,
+      "wikidata_id": "Q27308565",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308565"
+    },
+    {
+      "name_ko": "중앙공원",
+      "name_en": "Junganggongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.714444444,
+      "longitude": 127.418888888,
+      "wikidata_id": "Q27340628",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340628"
+    },
+    {
+      "name_ko": "중앙공원",
+      "name_en": "Junganggongwon",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.13611,
+      "longitude": 126.865,
+      "wikidata_id": "Q27296300",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27296300"
+    },
+    {
+      "name_ko": "중앙공원",
+      "name_en": "Jungang-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.36167,
+      "longitude": 126.93,
+      "wikidata_id": "Q27301110",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301110"
+    },
+    {
+      "name_ko": "중앙공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.37694,
+      "longitude": 127.12444,
+      "wikidata_id": "Q27301144",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301144"
+    },
+    {
+      "name_ko": "중앙공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.43056,
+      "longitude": 126.99444,
+      "wikidata_id": "Q27301187",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301187"
+    },
+    {
+      "name_ko": "중앙공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.39,
+      "longitude": 126.95917,
+      "wikidata_id": "Q27301188",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301188"
+    },
+    {
+      "name_ko": "중앙호수공원",
+      "name_en": "",
+      "admin_area_ko": "서산시",
+      "admin_area_en": "Seosan",
+      "latitude": 36.775963,
+      "longitude": 126.449777,
+      "wikidata_id": "Q42894517",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q42894517"
+    },
+    {
+      "name_ko": "증평시민공원",
+      "name_en": "Jeungpyeong Civic Park",
+      "admin_area_ko": "증평군",
+      "admin_area_en": "Jeungpyeong County",
+      "latitude": 36.788314,
+      "longitude": 127.581032,
+      "wikidata_id": "Q81476111",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81476111"
+    },
+    {
+      "name_ko": "지사울공원",
+      "name_en": "Jisaul Park",
+      "admin_area_ko": "완주군",
+      "admin_area_en": "Wanju County",
+      "latitude": 35.829127,
+      "longitude": 127.02188,
+      "wikidata_id": "Q73594150",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73594150"
+    },
+    {
+      "name_ko": "진달래공원",
+      "name_en": "Jindallae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48472,
+      "longitude": 127.08472,
+      "wikidata_id": "Q27300895",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300895"
+    },
+    {
+      "name_ko": "진부령유원지",
+      "name_en": "Jinburyeongyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.295833333,
+      "longitude": 128.364722222,
+      "wikidata_id": "Q27341430",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341430"
+    },
+    {
+      "name_ko": "진천역사테마공원",
+      "name_en": "Jincheon History Park",
+      "admin_area_ko": "진천군",
+      "admin_area_en": "Jincheon County",
+      "latitude": 36.869385,
+      "longitude": 127.411349,
+      "wikidata_id": "Q81394801",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81394801"
+    },
+    {
+      "name_ko": "진흥골프연습장",
+      "name_en": "Jinheung Golf Yeonseupjang",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.237777777,
+      "longitude": 128.520555555,
+      "wikidata_id": "Q27341394",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341394"
+    },
+    {
+      "name_ko": "천석골공원",
+      "name_en": "Cheonseokgolgongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.079722222,
+      "longitude": 128.518888888,
+      "wikidata_id": "Q27341153",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341153"
+    },
+    {
+      "name_ko": "천호공원",
+      "name_en": "Cheonho Park",
+      "admin_area_ko": "강동구",
+      "admin_area_en": "Gangdong District",
+      "latitude": 37.544305555,
+      "longitude": 127.126361111,
+      "wikidata_id": "Q16169167",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16169167"
+    },
+    {
+      "name_ko": "청계산맑은숲공원",
+      "name_en": "Cheonggyesan Clear Forest Park",
+      "admin_area_ko": "의왕시",
+      "admin_area_en": "Uiwang",
+      "latitude": 37.39,
+      "longitude": 127.01,
+      "wikidata_id": "Q137531506",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137531506"
+    },
+    {
+      "name_ko": "청성체육공원",
+      "name_en": "Cheongseongcheyukgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.8925,
+      "longitude": 127.211666666,
+      "wikidata_id": "Q27340881",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340881"
+    },
+    {
+      "name_ko": "청평유원지",
+      "name_en": "Cheongpyeongyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.709722222,
+      "longitude": 127.445,
+      "wikidata_id": "Q27336566",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336566"
+    },
+    {
+      "name_ko": "청평자연휴양림",
+      "name_en": "Cheongpyeongjayeonhyuyangnim",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.711944444,
+      "longitude": 127.407222222,
+      "wikidata_id": "Q27336570",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27336570"
+    },
+    {
+      "name_ko": "체육공원",
+      "name_en": "Cheyukgongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.249722222,
+      "longitude": 127.412222222,
+      "wikidata_id": "Q27341260",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341260"
+    },
+    {
+      "name_ko": "체육공원",
+      "name_en": "",
+      "admin_area_ko": "전북특별자치도",
+      "admin_area_en": "North Jeolla",
+      "latitude": 35.853055555,
+      "longitude": 127.141666666,
+      "wikidata_id": "Q27314467",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27314467"
+    },
+    {
+      "name_ko": "체육공원",
+      "name_en": "Cheyuk-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48944,
+      "longitude": 127.05917,
+      "wikidata_id": "Q27300894",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300894"
+    },
+    {
+      "name_ko": "체육공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.34694,
+      "longitude": 126.9825,
+      "wikidata_id": "Q27301109",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301109"
+    },
+    {
+      "name_ko": "체육공원",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.38639,
+      "longitude": 126.98333,
+      "wikidata_id": "Q27301186",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301186"
+    },
+    {
+      "name_ko": "칠갑산도립공원",
+      "name_en": "Ch'ilgapsan-doripkongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.410277777,
+      "longitude": 126.870833333,
+      "wikidata_id": "Q27315790",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27315790"
+    },
+    {
+      "name_ko": "큰엉체육공원",
+      "name_en": "Keuneongcheyukgongwon",
+      "admin_area_ko": "제주특별자치도",
+      "admin_area_en": "Jeju Province",
+      "latitude": 33.274166666,
+      "longitude": 126.703888888,
+      "wikidata_id": "Q27340767",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340767"
+    },
+    {
+      "name_ko": "탑골공원",
+      "name_en": "Tapgol Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5711,
+      "longitude": 126.988,
+      "wikidata_id": "Q483357",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483357"
+    },
+    {
+      "name_ko": "태실공원",
+      "name_en": "Taesilgongwon",
+      "admin_area_ko": "충청북도",
+      "admin_area_en": "North Chungcheong",
+      "latitude": 36.703333333,
+      "longitude": 127.422777777,
+      "wikidata_id": "Q27340631",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340631"
+    },
+    {
+      "name_ko": "태안해안국립공원",
+      "name_en": "T'aeanhaean-gungnipkongwon",
+      "admin_area_ko": "충청남도",
+      "admin_area_en": "South Chungcheong",
+      "latitude": 36.65,
+      "longitude": 126.301388888,
+      "wikidata_id": "Q27308196",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308196"
+    },
+    {
+      "name_ko": "태현공원",
+      "name_en": "Taehyeon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.36944,
+      "longitude": 127.14361,
+      "wikidata_id": "Q27301143",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301143"
+    },
+    {
+      "name_ko": "통일공원",
+      "name_en": "Tongilgongwon",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.852222222,
+      "longitude": 126.792222222,
+      "wikidata_id": "Q27340857",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340857"
+    },
+    {
+      "name_ko": "통일동산",
+      "name_en": "Tongildongsan",
+      "admin_area_ko": "파주시",
+      "admin_area_en": "Paju",
+      "latitude": 37.776944444,
+      "longitude": 126.687777777,
+      "wikidata_id": "Q27330978",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27330978"
+    },
+    {
+      "name_ko": "팔각정유원지",
+      "name_en": "Palgakjeonyuwonji",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.975555555,
+      "longitude": 127.669166666,
+      "wikidata_id": "Q27308562",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27308562"
+    },
+    {
+      "name_ko": "팔달공원",
+      "name_en": "Paldal-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.2775,
+      "longitude": 127.01111,
+      "wikidata_id": "Q27301108",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301108"
+    },
+    {
+      "name_ko": "평촌공원",
+      "name_en": "Pyeongchon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.395,
+      "longitude": 126.95583,
+      "wikidata_id": "Q27301185",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301185"
+    },
+    {
+      "name_ko": "평촌자유공원",
+      "name_en": "Pyeongchon Jayu Park",
+      "admin_area_ko": "안양시",
+      "admin_area_en": "Anyang",
+      "latitude": 37.380883,
+      "longitude": 126.963593,
+      "wikidata_id": "Q16169669",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16169669"
+    },
+    {
+      "name_ko": "평화공원",
+      "name_en": "Pyeonghwagongwon",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 38.215,
+      "longitude": 128.201111111,
+      "wikidata_id": "Q27341435",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27341435"
+    },
+    {
+      "name_ko": "평화공원",
+      "name_en": "Pyeonghwa-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.39028,
+      "longitude": 126.94806,
+      "wikidata_id": "Q27301184",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301184"
+    },
+    {
+      "name_ko": "평화의공원",
+      "name_en": "Pyeonghwauigongwon",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.563055555,
+      "longitude": 126.894722222,
+      "wikidata_id": "Q27340602",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340602"
+    },
+    {
+      "name_ko": "푸른공원",
+      "name_en": "Pureun-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50083,
+      "longitude": 126.98972,
+      "wikidata_id": "Q27301183",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301183"
+    },
+    {
+      "name_ko": "하늘공원",
+      "name_en": "",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.567777777,
+      "longitude": 126.885277777,
+      "wikidata_id": "Q27340604",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27340604"
+    },
+    {
+      "name_ko": "하늘공원",
+      "name_en": "Haneulgongwon",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.853055555,
+      "longitude": 128.559166666,
+      "wikidata_id": "Q27331076",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27331076"
+    },
+    {
+      "name_ko": "하양경관농업단지",
+      "name_en": "Hayang Scenic Agriculture Complex",
+      "admin_area_ko": "경산시",
+      "admin_area_en": "Gyeongsan",
+      "latitude": 35.898307,
+      "longitude": 128.796718,
+      "wikidata_id": "Q65310596",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65310596"
+    },
+    {
+      "name_ko": "학동공원",
+      "name_en": "Hakdong Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.5157,
+      "longitude": 127.02542,
+      "wikidata_id": "Q123039241",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123039241"
+    },
+    {
+      "name_ko": "학산공원",
+      "name_en": "Haksan Park",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.8297,
+      "longitude": 128.5389,
+      "wikidata_id": "Q5640604",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5640604"
+    },
+    {
+      "name_ko": "한강공원",
+      "name_en": "Hangang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.51758,
+      "longitude": 127.08672,
+      "wikidata_id": "Q12622668",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12622668"
+    },
+    {
+      "name_ko": "한국민속촌",
+      "name_en": "Korean Folk Village",
+      "admin_area_ko": "용인시",
+      "admin_area_en": "Yongin",
+      "latitude": 37.25944,
+      "longitude": 127.11972,
+      "wikidata_id": "Q494649",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494649"
+    },
+    {
+      "name_ko": "한마음공원",
+      "name_en": "Hanmaeum-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49611,
+      "longitude": 127.07611,
+      "wikidata_id": "Q27300893",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300893"
+    },
+    {
+      "name_ko": "한솔공원",
+      "name_en": "Hansol-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.48111,
+      "longitude": 127.07778,
+      "wikidata_id": "Q27300892",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300892"
+    },
+    {
+      "name_ko": "한티근린공원",
+      "name_en": "Hantigeullin-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.49528,
+      "longitude": 127.06194,
+      "wikidata_id": "Q27300891",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300891"
+    },
+    {
+      "name_ko": "현리유원지",
+      "name_en": "Hyeolliyuwonji",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 37.840277777,
+      "longitude": 127.355555555,
+      "wikidata_id": "Q27311971",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311971"
+    },
+    {
+      "name_ko": "홍이공원",
+      "name_en": "Hongi-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.50111,
+      "longitude": 127.12472,
+      "wikidata_id": "Q27300890",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300890"
+    },
+    {
+      "name_ko": "화명생태공원",
+      "name_en": "Hwamyeong Ecological Park",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.230476,
+      "longitude": 129.004095,
+      "wikidata_id": "Q131383881",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131383881"
+    },
+    {
+      "name_ko": "황성공원",
+      "name_en": "Hwangseong Park",
+      "admin_area_ko": "경주시",
+      "admin_area_en": "Gyeongju",
+      "latitude": 35.859947,
+      "longitude": 129.212235,
+      "wikidata_id": "Q625763",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625763"
+    },
+    {
+      "name_ko": "효원공원",
+      "name_en": "Hyowon-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.26389,
+      "longitude": 127.03806,
+      "wikidata_id": "Q27301107",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301107"
+    },
+    {
+      "name_ko": "효창공원",
+      "name_en": "Hyochang Park",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.54538889,
+      "longitude": 126.96036111,
+      "wikidata_id": "Q5957035",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5957035"
+    },
+    {
+      "name_ko": "휘닉스스노우파크",
+      "name_en": "Phoenix Snow Park",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.57753,
+      "longitude": 128.32557,
+      "wikidata_id": "Q27311760",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27311760"
+    },
+    {
+      "name_ko": "희망공원",
+      "name_en": "Huimang-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.38917,
+      "longitude": 126.94944,
+      "wikidata_id": "Q27301181",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27301181"
+    },
+    {
+      "name_ko": "희망대공원",
+      "name_en": "Huimangdae-gongwon",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.4475,
+      "longitude": 127.15056,
+      "wikidata_id": "Q27300889",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27300889"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 도시공원 (Urban Parks of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 도시공원 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 392 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 도시공원 (Urban Parks of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 도시공원 (Urban Parks of South Korea) — 392 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 392 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

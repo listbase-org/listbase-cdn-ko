@@ -1,0 +1,340 @@
+{
+  "id": "ko-incheon-unlocode",
+  "name": "UN/LOCODE 위치 코드 — 인천광역시 (Incheon)",
+  "title": "UN/LOCODE 위치 코드 — 인천광역시 (Incheon)",
+  "description": "인천광역시의 UN/LOCODE 위치 코드 7건. UNECE 국제연합 무역·운송 지역 코드(UN/LOCODE) 대한민국 목록에서 행정구역 코드 28(KR-28)에 해당하는 항목만 추출한 것입니다. 각 레코드는 LOCODE, 지명(발음 구별 기호 포함/미포함), 기능 분류(항만·철도·도로·공항·우편·복합운송), 승인 상태, IATA 코드, 좌표를 포함합니다. All 7 UN/LOCODE entries for Incheon, South Korea, split from the national ko-unlocode list. Sido assignment is taken directly from UN/LOCODE's own Subdivision column — no geographic inference was used.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "sido_slug",
+      "label": "Sido Slug",
+      "type": "string"
+    },
+    {
+      "key": "sido_name_kr",
+      "label": "Sido Name Kr",
+      "type": "string"
+    },
+    {
+      "key": "sido_name_en",
+      "label": "Sido Name En",
+      "type": "string"
+    },
+    {
+      "key": "sido_code",
+      "label": "Sido Code",
+      "type": "string"
+    },
+    {
+      "key": "sido_chulcheo",
+      "label": "Sido Chulcheo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 19,
+      "locode": "KRBUK",
+      "country": "KR",
+      "location": "BUK",
+      "name": "Bupyong/Incheon",
+      "name_wo_diacritics": "Bupyong/Incheon",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "123-----",
+      "functions": "Maritime transport (sea port), Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "3730N 12908E",
+      "latitude": 37.5,
+      "longitude": 129.1333,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 2,
+      "parent_index": 60,
+      "locode": "KRGHA",
+      "country": "KR",
+      "location": "GHA",
+      "name": "Ganghwa-gun/Incheon",
+      "name_wo_diacritics": "Ganghwa-gun/Incheon",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "3744N 12629E",
+      "latitude": 37.7333,
+      "longitude": 126.4833,
+      "date_updated": "2006-01",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 3,
+      "parent_index": 62,
+      "locode": "KRGIN",
+      "country": "KR",
+      "location": "GIN",
+      "name": "Gyeongin",
+      "name_wo_diacritics": "Gyeongin",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "3732N 12636E",
+      "latitude": 37.5333,
+      "longitude": 126.6,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 4,
+      "parent_index": 113,
+      "locode": "KRICN",
+      "country": "KR",
+      "location": "ICN",
+      "name": "Incheon Intl Apt/Seoul",
+      "name_wo_diacritics": "Incheon Intl Apt/Seoul",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "---4----",
+      "functions": "Air transport (airport)",
+      "iata": "",
+      "coordinates": "3727N 12643E",
+      "latitude": 37.45,
+      "longitude": 126.7167,
+      "date_updated": "2005-01",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 5,
+      "parent_index": 118,
+      "locode": "KRINC",
+      "country": "KR",
+      "location": "INC",
+      "name": "Incheon",
+      "name_wo_diacritics": "Incheon",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "123-----",
+      "functions": "Maritime transport (sea port), Rail transport, Road transport",
+      "iata": "ICN",
+      "coordinates": "3727N 12637E",
+      "latitude": 37.45,
+      "longitude": 126.6167,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 6,
+      "parent_index": 256,
+      "locode": "KRYGP",
+      "country": "KR",
+      "location": "YGP",
+      "name": "Yonggipo",
+      "name_wo_diacritics": "Yonggipo",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "3757N 12443E",
+      "latitude": 37.95,
+      "longitude": 124.7167,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    },
+    {
+      "id": 7,
+      "parent_index": 265,
+      "locode": "KRYPD",
+      "country": "KR",
+      "location": "YPD",
+      "name": "Yeonpyeongdo",
+      "name_wo_diacritics": "Yeonpyeongdo",
+      "subdivision_code": "28",
+      "subdivision_name": "Incheon Gwang'yeogsi [Incheon]",
+      "subdivision_type": "Metropolitan city",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "3739N 12542E",
+      "latitude": 37.65,
+      "longitude": 125.7,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "sido_slug": "incheon",
+      "sido_name_kr": "인천광역시",
+      "sido_name_en": "Incheon",
+      "sido_code": "KR-28",
+      "sido_chulcheo": "source_subdivision"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE 위치 코드 — 인천광역시 (Incheon) - 무료 다운로드",
+    "description": "인천광역시의 UN/LOCODE 위치 코드 7건. UNECE 국제연합 무역·운송 지역 코드(UN/LOCODE) 대한민국 목록에서 행정구역 코드 28(KR-28)에 해당하는 항목만 추출한 것입니다. 각 레코드는 LOCODE, 지명(발음 구별 기호 포함/미포함), 기능 분류(항만·철도·도로·공항·우편·복합운송), 승인 상태, IATA 코드, 좌표를 포함합니다. All 7 UN/LOCODE entries for Incheon, South Korea, split from the national ko-unlocode list. Sido assignment is taken directly from UN/LOCODE's own Subdivision column — no geographic inference was used. 포함 7 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "UN/LOCODE 위치 코드 — 인천광역시 (Incheon) | ListBase",
+    "seo_description": "다운로드 UN/LOCODE 위치 코드 — 인천광역시 (Incheon) — 7 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 7 건 / 25 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

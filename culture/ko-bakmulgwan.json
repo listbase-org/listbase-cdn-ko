@@ -1,0 +1,6703 @@
+{
+  "id": "ko-bakmulgwan",
+  "name": "대한민국의 박물관 (Museums in South Korea)",
+  "title": "대한민국의 박물관 (Museums in South Korea)",
+  "description": "OpenStreetMap 기반 대한민국 박물관·미술관 738곳 목록. 이름, 도시, 좌표, 웹사이트 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 738,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(주)동굴공룡박물관 (Cave Gongnyong Museum)",
+      "name_en": "Cave Gongnyong Museum",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.324504,
+      "longitude": 129.071063,
+      "website": ""
+    },
+    {
+      "name": "(주)세중옛돌조각박물관 (Sejungyetdoljogak Museum)",
+      "name_en": "Sejungyetdoljogak Museum",
+      "city": "Icheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.236003,
+      "longitude": 127.286355,
+      "website": ""
+    },
+    {
+      "name": "(주)엘지종합전시관 (Eljijonghap Exhibition Hall)",
+      "name_en": "Eljijonghap Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.171465,
+      "longitude": 129.050045,
+      "website": ""
+    },
+    {
+      "name": "(주)제주화석박물관 (Jejuhwaseok Museum)",
+      "name_en": "Jejuhwaseok Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.350972,
+      "longitude": 126.825944,
+      "website": ""
+    },
+    {
+      "name": "2002 FIFA 월드컵기념관",
+      "name_en": "2002 FIFA Worldcup Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.568495,
+      "longitude": 126.896336,
+      "website": ""
+    },
+    {
+      "name": "3.1운동 기념관 (3.1 Undong Memorial Hall)",
+      "name_en": "3.1 Undong Memorial Hall",
+      "city": "Anseong",
+      "country": "Korea, Republic of",
+      "latitude": 37.062588,
+      "longitude": 127.171981,
+      "website": ""
+    },
+    {
+      "name": "3.1운동기념관 (3.1 Undong Memorial Hall)",
+      "name_en": "3.1 Undong Memorial Hall",
+      "city": "Kunsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.985024,
+      "longitude": 126.742002,
+      "website": ""
+    },
+    {
+      "name": "3D과학체험관",
+      "name_en": "",
+      "city": "Ungsang",
+      "country": "Korea, Republic of",
+      "latitude": 35.389911,
+      "longitude": 129.155775,
+      "website": ""
+    },
+    {
+      "name": "419민주혁명기념관 (419 Minjuhyeongmyeong Memorial Hall)",
+      "name_en": "419 Minjuhyeongmyeong Memorial Hall",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.161146,
+      "longitude": 126.918637,
+      "website": ""
+    },
+    {
+      "name": "6.25 전쟁체험전시관 (The Korean War Exhibition Hall)",
+      "name_en": "The Korean War Exhibition Hall",
+      "city": "Kosong",
+      "country": "Korea, Republic of",
+      "latitude": 38.584162,
+      "longitude": 128.373705,
+      "website": ""
+    },
+    {
+      "name": "Admiral Yi Sun-sin",
+      "name_en": "",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.741517,
+      "longitude": 127.736823,
+      "website": ""
+    },
+    {
+      "name": "Advanced Science and Technology Center",
+      "name_en": "",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.376771,
+      "longitude": 127.38719,
+      "website": ""
+    },
+    {
+      "name": "Arario Museum in SPACE",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.577659,
+      "longitude": 126.988392,
+      "website": "http://www.arariomuseum.org/"
+    },
+    {
+      "name": "Bridge Museum",
+      "name_en": "",
+      "city": "Tangjin",
+      "country": "Korea, Republic of",
+      "latitude": 36.946116,
+      "longitude": 126.806878,
+      "website": ""
+    },
+    {
+      "name": "Bukchon Heritage Studio",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.581921,
+      "longitude": 126.984213,
+      "website": ""
+    },
+    {
+      "name": "Children's Museum Education Building (Byeotdeuljae)",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.581473,
+      "longitude": 126.97985,
+      "website": ""
+    },
+    {
+      "name": "Daejeon Expo Commemorate Center / World Expo Souvenirs Museum",
+      "name_en": "",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.376939,
+      "longitude": 127.388733,
+      "website": ""
+    },
+    {
+      "name": "Daejeon Unification Pavilion",
+      "name_en": "",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.376359,
+      "longitude": 127.388829,
+      "website": ""
+    },
+    {
+      "name": "Danyang Art Gallery",
+      "name_en": "",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 36.982813,
+      "longitude": 128.371274,
+      "website": ""
+    },
+    {
+      "name": "Gangam Calligraphy Museum",
+      "name_en": "",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.811307,
+      "longitude": 127.15245,
+      "website": ""
+    },
+    {
+      "name": "Ganghwa Peace Observatory",
+      "name_en": "",
+      "city": "Yangsa",
+      "country": "Korea, Republic of",
+      "latitude": 37.82637,
+      "longitude": 126.432923,
+      "website": ""
+    },
+    {
+      "name": "Gyeongju museum",
+      "name_en": "",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.832076,
+      "longitude": 129.21929,
+      "website": ""
+    },
+    {
+      "name": "Jeju Museum of Art",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.452678,
+      "longitude": 126.489405,
+      "website": ""
+    },
+    {
+      "name": "Jeonju Nature Ecological Museum",
+      "name_en": "",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.811569,
+      "longitude": 127.162537,
+      "website": "http://ecomuseum.jeonju.go.kr/"
+    },
+    {
+      "name": "Korea National Maritime Museum",
+      "name_en": "",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.080816,
+      "longitude": 129.079122,
+      "website": ""
+    },
+    {
+      "name": "Lighthouse Village",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.492943,
+      "longitude": 126.964841,
+      "website": ""
+    },
+    {
+      "name": "Love Museum",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.553677,
+      "longitude": 126.921859,
+      "website": "http://lovemuseum.co.kr/"
+    },
+    {
+      "name": "MMCA Seoul",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.5787,
+      "longitude": 126.980379,
+      "website": "http://www.mmca.go.kr/"
+    },
+    {
+      "name": "Multi-Museum",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.618831,
+      "longitude": 126.932556,
+      "website": ""
+    },
+    {
+      "name": "Mungyeong Coal Mine Museum",
+      "name_en": "",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.653497,
+      "longitude": 128.061075,
+      "website": ""
+    },
+    {
+      "name": "Mystery of Caves Exhibition",
+      "name_en": "",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.43812,
+      "longitude": 129.158257,
+      "website": ""
+    },
+    {
+      "name": "National Mountain Museum",
+      "name_en": "",
+      "city": "Sogcho",
+      "country": "Korea, Republic of",
+      "latitude": 38.202722,
+      "longitude": 128.541105,
+      "website": ""
+    },
+    {
+      "name": "National Museum",
+      "name_en": "",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.830039,
+      "longitude": 129.228457,
+      "website": ""
+    },
+    {
+      "name": "Noeun Prehistoric Museum",
+      "name_en": "",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.371777,
+      "longitude": 127.323761,
+      "website": ""
+    },
+    {
+      "name": "Public Information Center",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.493093,
+      "longitude": 126.965454,
+      "website": ""
+    },
+    {
+      "name": "Ripleys Believe It not Museum",
+      "name_en": "",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.251199,
+      "longitude": 126.412808,
+      "website": ""
+    },
+    {
+      "name": "Samcheak Fishing Village Folk Museum",
+      "name_en": "",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.267781,
+      "longitude": 129.327385,
+      "website": ""
+    },
+    {
+      "name": "Samyangdong Préhistoric  Remains Hall",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.523148,
+      "longitude": 126.587812,
+      "website": ""
+    },
+    {
+      "name": "Seongbo Museum",
+      "name_en": "",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.284247,
+      "longitude": 129.069769,
+      "website": ""
+    },
+    {
+      "name": "Seoul Museum of Art",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.564328,
+      "longitude": 126.973824,
+      "website": "http://sema.seoul.go.kr/"
+    },
+    {
+      "name": "Suwon Museums",
+      "name_en": "",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.296405,
+      "longitude": 127.035111,
+      "website": ""
+    },
+    {
+      "name": "Tea Museum / Asian Art Museum",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.583715,
+      "longitude": 126.98334,
+      "website": ""
+    },
+    {
+      "name": "The museum of Jeonju Embroidery Fork",
+      "name_en": "",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.816346,
+      "longitude": 127.15349,
+      "website": ""
+    },
+    {
+      "name": "The National Folk Museum of Korea",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.581863,
+      "longitude": 126.978791,
+      "website": ""
+    },
+    {
+      "name": "Tongil Chon Village Museum",
+      "name_en": "",
+      "city": "Munsan",
+      "country": "Korea, Republic of",
+      "latitude": 37.906184,
+      "longitude": 126.731026,
+      "website": ""
+    },
+    {
+      "name": "Trick Art Museum",
+      "name_en": "",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.399193,
+      "longitude": 126.785262,
+      "website": ""
+    },
+    {
+      "name": "Uhangri Dinosaur Fossil Site",
+      "name_en": "",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.590467,
+      "longitude": 126.433877,
+      "website": ""
+    },
+    {
+      "name": "Yangpyeong Art Museum",
+      "name_en": "",
+      "city": "Yangp'yŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.496335,
+      "longitude": 127.484006,
+      "website": ""
+    },
+    {
+      "name": "練習點",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.535994,
+      "longitude": 126.975369,
+      "website": ""
+    },
+    {
+      "name": "가마오름평화박물관 (Gamaoreumpyeonghwa Museum)",
+      "name_en": "Gamaoreumpyeonghwa Museum",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.305304,
+      "longitude": 126.25405,
+      "website": ""
+    },
+    {
+      "name": "가천박물관",
+      "name_en": "Gachon Museum",
+      "city": "Incheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.418354,
+      "longitude": 126.657551,
+      "website": ""
+    },
+    {
+      "name": "가톨릭대학교 전례박물관 (Catholic University Jeollye Museum)",
+      "name_en": "Catholic University Jeollye Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.586235,
+      "longitude": 127.004544,
+      "website": ""
+    },
+    {
+      "name": "가회박물관 (Gahoe Museum)",
+      "name_en": "Gahoe Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.582154,
+      "longitude": 126.985598,
+      "website": ""
+    },
+    {
+      "name": "감귤박물관 (Gamgyul Museum)",
+      "name_en": "Gamgyul Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.275916,
+      "longitude": 126.624677,
+      "website": ""
+    },
+    {
+      "name": "감귤박물관 (Gamgyul Museum)",
+      "name_en": "Gamgyul Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.275256,
+      "longitude": 126.619674,
+      "website": ""
+    },
+    {
+      "name": "강서구청허준기념관 (Gangseo Office Heojun Memorial Hall)",
+      "name_en": "Gangseo Office Heojun Memorial Hall",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.568018,
+      "longitude": 126.851025,
+      "website": ""
+    },
+    {
+      "name": "강원경찰박물관 (Gangwongyeongchal Museum)",
+      "name_en": "Gangwongyeongchal Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.925617,
+      "longitude": 127.750296,
+      "website": ""
+    },
+    {
+      "name": "강원대학교중앙박물관 (Gangwon University Jungang Museum)",
+      "name_en": "Gangwon University Jungang Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.869481,
+      "longitude": 127.744176,
+      "website": ""
+    },
+    {
+      "name": "강원도산림박물관 (Gangwondosallim Museum)",
+      "name_en": "Gangwondosallim Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.922824,
+      "longitude": 127.725985,
+      "website": ""
+    },
+    {
+      "name": "강원종합박물관 (Gangwonjonghap Museum)",
+      "name_en": "Gangwonjonghap Museum",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.351195,
+      "longitude": 129.086574,
+      "website": ""
+    },
+    {
+      "name": "강진 청자자료박물관 (Gangjin  Cheongjajaryo Museum)",
+      "name_en": "Gangjin  Cheongjajaryo Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.50802,
+      "longitude": 126.800123,
+      "website": ""
+    },
+    {
+      "name": "강진청자박물관 (Gangjincheongja Museum)",
+      "name_en": "Gangjincheongja Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.508186,
+      "longitude": 126.800512,
+      "website": ""
+    },
+    {
+      "name": "강화역사관 (Ganghwa History Museum)",
+      "name_en": "Ganghwa History Museum",
+      "city": "Ganghwa-gun",
+      "country": "Korea, Republic of",
+      "latitude": 37.758849,
+      "longitude": 126.492737,
+      "website": ""
+    },
+    {
+      "name": "강화은암자연사박물관 (Ganghwaeunam Natural History Museum)",
+      "name_en": "Ganghwaeunam Natural History Museum",
+      "city": "Songhae",
+      "country": "Korea, Republic of",
+      "latitude": 37.794849,
+      "longitude": 126.456057,
+      "website": ""
+    },
+    {
+      "name": "거오불교전시관 (Geoo Buddhism Exhibition Hall)",
+      "name_en": "Geoo Buddhism Exhibition Hall",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.627337,
+      "longitude": 129.356495,
+      "website": ""
+    },
+    {
+      "name": "거제민속박물관 (Geoje Folk Museum)",
+      "name_en": "Geoje Folk Museum",
+      "city": "Sinhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 34.949566,
+      "longitude": 128.677325,
+      "website": ""
+    },
+    {
+      "name": "거제박물관 (Geoje Museum)",
+      "name_en": "Geoje Museum",
+      "city": "Sinhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 34.893737,
+      "longitude": 128.686232,
+      "website": ""
+    },
+    {
+      "name": "거제어촌민속전시관 (Geojeeochonminsok Exhibition Hall)",
+      "name_en": "Geojeeochonminsok Exhibition Hall",
+      "city": "Sinhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 34.831988,
+      "longitude": 128.702163,
+      "website": ""
+    },
+    {
+      "name": "거제어촌민속전시관 (Geojeeochonminsok Exhibition Hall)",
+      "name_en": "Geojeeochonminsok Exhibition Hall",
+      "city": "Sinhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 34.832274,
+      "longitude": 128.702679,
+      "website": ""
+    },
+    {
+      "name": "건강과 성박물관",
+      "name_en": "",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.254782,
+      "longitude": 126.345956,
+      "website": ""
+    },
+    {
+      "name": "건국대학교 박물관 (Konkuk University Museum)",
+      "name_en": "Konkuk University Museum",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.542369,
+      "longitude": 127.075588,
+      "website": ""
+    },
+    {
+      "name": "건들바우박물관 (Geondeulbau Museum)",
+      "name_en": "Geondeulbau Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.86551,
+      "longitude": 128.601055,
+      "website": ""
+    },
+    {
+      "name": "검단선사박물관 (Geomdanseonsa Museum)",
+      "name_en": "Geomdanseonsa Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.595587,
+      "longitude": 126.708338,
+      "website": ""
+    },
+    {
+      "name": "경기도립박물관 (Gyeonggidorip Museum)",
+      "name_en": "Gyeonggidorip Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.267953,
+      "longitude": 127.108388,
+      "website": ""
+    },
+    {
+      "name": "경기도미술관 (Gyeonggido Art Museum)",
+      "name_en": "Gyeonggido Art Museum",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.325769,
+      "longitude": 126.813708,
+      "website": ""
+    },
+    {
+      "name": "경기도박물관 (Gyeonggido Museum)",
+      "name_en": "Gyeonggido Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.2679,
+      "longitude": 127.108547,
+      "website": ""
+    },
+    {
+      "name": "경기여고내경운박물관 (Gyeonggiyeogonaegyeongun Museum)",
+      "name_en": "Gyeonggiyeogonaegyeongun Museum",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.487164,
+      "longitude": 127.065421,
+      "website": ""
+    },
+    {
+      "name": "경남대학교박물관 (Gyeongnam University Museum)",
+      "name_en": "Gyeongnam University Museum",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.182435,
+      "longitude": 128.552418,
+      "website": ""
+    },
+    {
+      "name": "경보화석박물관 (Gyeongbohwaseok Museum)",
+      "name_en": "Gyeongbohwaseok Museum",
+      "city": "Heung-hai",
+      "country": "Korea, Republic of",
+      "latitude": 36.296076,
+      "longitude": 129.376778,
+      "website": ""
+    },
+    {
+      "name": "경북대학교 박물관 (Gyeongbuk University Museum)",
+      "name_en": "Gyeongbuk University Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.889119,
+      "longitude": 128.604786,
+      "website": ""
+    },
+    {
+      "name": "경북대학교자연사박물관 (Gyeongbuk University Natural History Museum)",
+      "name_en": "Gyeongbuk University Natural History Museum",
+      "city": "Kunwi",
+      "country": "Korea, Republic of",
+      "latitude": 36.121204,
+      "longitude": 128.576857,
+      "website": ""
+    },
+    {
+      "name": "경산시립박물관 (Gyeongsan City Museum)",
+      "name_en": "Gyeongsan City Museum",
+      "city": "Gyeongsan-si",
+      "country": "Korea, Republic of",
+      "latitude": 35.814023,
+      "longitude": 128.76287,
+      "website": ""
+    },
+    {
+      "name": "경상북도산림과학박물관 (Gyeongsangbukdosallim Science Museum)",
+      "name_en": "Gyeongsangbukdosallim Science Museum",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.711686,
+      "longitude": 128.822868,
+      "website": ""
+    },
+    {
+      "name": "경주테디베어박물관 (Teddy Bear Museum)",
+      "name_en": "",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.851836,
+      "longitude": 129.276897,
+      "website": ""
+    },
+    {
+      "name": "경찰박물관",
+      "name_en": "Korean National Police Heritage Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.568838,
+      "longitude": 126.969404,
+      "website": ""
+    },
+    {
+      "name": "경희대학교 중앙박물관 (Kyunghee University Central Museum)",
+      "name_en": "Gyeonghui University Jungang Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.596672,
+      "longitude": 127.053146,
+      "website": ""
+    },
+    {
+      "name": "계룡건설주택전시관 (Gyeryonggeonseoljutaek Exhibition Hall)",
+      "name_en": "Gyeryonggeonseoljutaek Exhibition Hall",
+      "city": "Daejeon",
+      "country": "Korea, Republic of",
+      "latitude": 36.34691,
+      "longitude": 127.388786,
+      "website": ""
+    },
+    {
+      "name": "계룡산민속박물관 (Gyeryongsan Folk Museum)",
+      "name_en": "Gyeryongsan Folk Museum",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.372937,
+      "longitude": 127.258971,
+      "website": ""
+    },
+    {
+      "name": "계룡산자연사박물관 (Gyeryongsan Natural History Museum)",
+      "name_en": "Gyeryongsan Natural History Museum",
+      "city": "Gongju",
+      "country": "Korea, Republic of",
+      "latitude": 36.401129,
+      "longitude": 127.244322,
+      "website": ""
+    },
+    {
+      "name": "계명대학교박물관 (Gyemyeong University Museum)",
+      "name_en": "Gyemyeong University Museum",
+      "city": "Hwawŏn",
+      "country": "Korea, Republic of",
+      "latitude": 35.856622,
+      "longitude": 128.489973,
+      "website": ""
+    },
+    {
+      "name": "고가구전시관 (Gogagu Exhibition Hall)",
+      "name_en": "Gogagu Exhibition Hall",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.814536,
+      "longitude": 127.152133,
+      "website": ""
+    },
+    {
+      "name": "고남패총박물관 (Gonampaechong Museum)",
+      "name_en": "Gonampaechong Museum",
+      "city": "Taisen-ri",
+      "country": "Korea, Republic of",
+      "latitude": 36.420193,
+      "longitude": 126.410249,
+      "website": ""
+    },
+    {
+      "name": "고래화석박물관 (Goraehwaseok Museum)",
+      "name_en": "Goraehwaseok Museum",
+      "city": "Tonghae",
+      "country": "Korea, Republic of",
+      "latitude": 37.591145,
+      "longitude": 129.089705,
+      "website": ""
+    },
+    {
+      "name": "고려대학교박물관 (Korea University Museum)",
+      "name_en": "Goryeo University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.589257,
+      "longitude": 127.034678,
+      "website": ""
+    },
+    {
+      "name": "고성탈박물관 (Goseongtal Museum)",
+      "name_en": "Goseongtal Museum",
+      "city": "Goseong",
+      "country": "Korea, Republic of",
+      "latitude": 34.970878,
+      "longitude": 128.334219,
+      "website": ""
+    },
+    {
+      "name": "고창고인돌박물관 (Gochanggoindol Museum)",
+      "name_en": "Gochanggoindol Museum",
+      "city": "Koch'ang",
+      "country": "Korea, Republic of",
+      "latitude": 35.440974,
+      "longitude": 126.652722,
+      "website": ""
+    },
+    {
+      "name": "고창판소리박물관 (Gochangpansori Museum)",
+      "name_en": "Gochangpansori Museum",
+      "city": "Koch'ang",
+      "country": "Korea, Republic of",
+      "latitude": 35.432235,
+      "longitude": 126.702638,
+      "website": ""
+    },
+    {
+      "name": "고판화박물관 (Gopanhwa Museum)",
+      "name_en": "Gopanhwa Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.256251,
+      "longitude": 128.128608,
+      "website": ""
+    },
+    {
+      "name": "곤충박물관 (Gonchung Museum)",
+      "name_en": "Gonchung Museum",
+      "city": "Songhae",
+      "country": "Korea, Republic of",
+      "latitude": 37.755457,
+      "longitude": 126.468701,
+      "website": ""
+    },
+    {
+      "name": "곤충박물관 (Gonchung Museum)",
+      "name_en": "Gonchung Museum",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.013725,
+      "longitude": 127.757574,
+      "website": ""
+    },
+    {
+      "name": "공군박물관 (Gonggun Museum)",
+      "name_en": "Gonggun Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.575595,
+      "longitude": 127.512854,
+      "website": ""
+    },
+    {
+      "name": "공인박물관 (Gongin Museum)",
+      "name_en": "Gongin Museum",
+      "city": "Ungsang",
+      "country": "Korea, Republic of",
+      "latitude": 35.416341,
+      "longitude": 129.212327,
+      "website": ""
+    },
+    {
+      "name": "관광안내전시관 (Tourist Information Center)",
+      "name_en": "Gwangwangannae Exhibition Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.568575,
+      "longitude": 126.981548,
+      "website": ""
+    },
+    {
+      "name": "관세박물관 (Gwanse Museum)",
+      "name_en": "Gwanse Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.518173,
+      "longitude": 127.034002,
+      "website": ""
+    },
+    {
+      "name": "관세박물관 (Gwanse Museum)",
+      "name_en": "Gwanse Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.518155,
+      "longitude": 127.033969,
+      "website": ""
+    },
+    {
+      "name": "관음불교전시관 (Gwaneum Buddhism Exhibition Hall)",
+      "name_en": "Gwaneum Buddhism Exhibition Hall",
+      "city": "Anyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.396133,
+      "longitude": 126.919704,
+      "website": ""
+    },
+    {
+      "name": "광복기념관 (Gwangbok Memorial Hall)",
+      "name_en": "Gwangbok Memorial Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.179866,
+      "longitude": 129.074748,
+      "website": ""
+    },
+    {
+      "name": "광복기념관 (Gwangbok Memorial Hall)",
+      "name_en": "Gwangbok Memorial Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.111042,
+      "longitude": 129.027645,
+      "website": ""
+    },
+    {
+      "name": "광주시립민속박물관 (Gwangjusirip Folk Museum)",
+      "name_en": "Gwangjusirip Folk Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.184168,
+      "longitude": 126.888643,
+      "website": ""
+    },
+    {
+      "name": "광주학생독립운동기념관 (Gwangju Student Dongnipundong Memorial Hall)",
+      "name_en": "Gwangju Student Dongnipundong Memorial Hall",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.147289,
+      "longitude": 126.877783,
+      "website": ""
+    },
+    {
+      "name": "괴산민속자료전시관 (Goesanminsokjaryo Exhibition Hall)",
+      "name_en": "Goesanminsokjaryo Exhibition Hall",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.806953,
+      "longitude": 127.793824,
+      "website": ""
+    },
+    {
+      "name": "괴산청결고추박물관 (Goesancheonggyeolgochu Museum)",
+      "name_en": "Goesancheonggyeolgochu Museum",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.812827,
+      "longitude": 127.79772,
+      "website": ""
+    },
+    {
+      "name": "국립경주박물관 (National Gyeongju Museum)",
+      "name_en": "National Gyeongju Museum",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.829381,
+      "longitude": 129.227928,
+      "website": ""
+    },
+    {
+      "name": "국립경주박물관어린이박물관 (National Gyeongju Museum Children Museum)",
+      "name_en": "National Gyeongju Museum Children Museum",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.82876,
+      "longitude": 129.227396,
+      "website": ""
+    },
+    {
+      "name": "국립고궁박물관 (National Palace Museum)",
+      "name_en": "National Palace Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.576561,
+      "longitude": 126.974855,
+      "website": "www.gogung.go.kr"
+    },
+    {
+      "name": "국립공주박물관 (Gongju National Museum)",
+      "name_en": "Gongju National Museum",
+      "city": "Gongju",
+      "country": "Korea, Republic of",
+      "latitude": 36.465668,
+      "longitude": 127.111909,
+      "website": ""
+    },
+    {
+      "name": "국립광주박물관",
+      "name_en": "",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.189018,
+      "longitude": 126.883072,
+      "website": ""
+    },
+    {
+      "name": "국립광주박물관 (National Gwangju Museum)",
+      "name_en": "National Gwangju Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.191013,
+      "longitude": 126.8908,
+      "website": ""
+    },
+    {
+      "name": "국립김해박물관 (National Gimhae Museum)",
+      "name_en": "National Gimhae Museum",
+      "city": "Kimhae",
+      "country": "Korea, Republic of",
+      "latitude": 35.242808,
+      "longitude": 128.873358,
+      "website": ""
+    },
+    {
+      "name": "국립산림박물관 (National Sallim Museum)",
+      "name_en": "National Sallim Museum",
+      "city": "Jinjeop",
+      "country": "Korea, Republic of",
+      "latitude": 37.755653,
+      "longitude": 127.164739,
+      "website": ""
+    },
+    {
+      "name": "국립서울과학관 (National Seoul Science Museum)",
+      "name_en": "National Seoul Science Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.582461,
+      "longitude": 126.996937,
+      "website": ""
+    },
+    {
+      "name": "국립순천대학교 박물관 (National Suncheon University Museum)",
+      "name_en": "National Suncheon University Museum",
+      "city": "Suncheon",
+      "country": "Korea, Republic of",
+      "latitude": 34.964358,
+      "longitude": 127.480433,
+      "website": ""
+    },
+    {
+      "name": "국립전주박물관 (National Jeonju Museum)",
+      "name_en": "National Jeonju Museum",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.801028,
+      "longitude": 127.089704,
+      "website": ""
+    },
+    {
+      "name": "국립중앙과학관첨단과학전시관 (National Jungang Science Museum Cheomdangwahak Exhibition Hall)",
+      "name_en": "National Jungang Science Museum Cheomdangwahak Exhibition Hall",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.377988,
+      "longitude": 127.384475,
+      "website": ""
+    },
+    {
+      "name": "국립진주박물관 (Jinju National Museum)",
+      "name_en": "Jinju National Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.189053,
+      "longitude": 128.076799,
+      "website": ""
+    },
+    {
+      "name": "국립청주박물관 (National Cheongju Museum)",
+      "name_en": "National Cheongju Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.649302,
+      "longitude": 127.512201,
+      "website": ""
+    },
+    {
+      "name": "국립청주박물관 어린이전시관 (National Cheongju Museum Children Exhibition Hall)",
+      "name_en": "National Cheongju Museum Children Exhibition Hall",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.64932,
+      "longitude": 127.512224,
+      "website": ""
+    },
+    {
+      "name": "국립춘천박물관 (National Chuncheon Museum)",
+      "name_en": "National Chuncheon Museum",
+      "city": "Dongnae",
+      "country": "Korea, Republic of",
+      "latitude": 37.864499,
+      "longitude": 127.752695,
+      "website": ""
+    },
+    {
+      "name": "국립해양유물전시관 (National Haeyang Museum)",
+      "name_en": "National Haeyang Museum",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.792054,
+      "longitude": 126.421291,
+      "website": ""
+    },
+    {
+      "name": "국민대학교박물관 (Kookmin University Museum)",
+      "name_en": "Kookmin University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.610458,
+      "longitude": 126.996179,
+      "website": ""
+    },
+    {
+      "name": "국악음반박물관 (Gukakeumban Museum)",
+      "name_en": "Gukakeumban Museum",
+      "city": "Hwado",
+      "country": "Korea, Republic of",
+      "latitude": 37.641777,
+      "longitude": 127.372942,
+      "website": ""
+    },
+    {
+      "name": "군립의령박물관 (Gullipuiryeong Museum)",
+      "name_en": "Gullipuiryeong Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.321951,
+      "longitude": 128.261702,
+      "website": ""
+    },
+    {
+      "name": "궁중유물전시관 (Gungjung Museum)",
+      "name_en": "Gungjung Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.565743,
+      "longitude": 126.975153,
+      "website": ""
+    },
+    {
+      "name": "귀족호도박물관 (Gwijokhodo Museum)",
+      "name_en": "Gwijokhodo Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.674666,
+      "longitude": 126.919163,
+      "website": ""
+    },
+    {
+      "name": "귀족호도박물관 (Gwijokhodo Museum)",
+      "name_en": "Gwijokhodo Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.674708,
+      "longitude": 126.919471,
+      "website": ""
+    },
+    {
+      "name": "근현대디자인박물관 (Geunhyeondae Design Museum)",
+      "name_en": "Geunhyeondae Design Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.553239,
+      "longitude": 126.929735,
+      "website": ""
+    },
+    {
+      "name": "금강산자연사박물관 (Geumgangsan Natural History Museum)",
+      "name_en": "Geumgangsan Natural History Museum",
+      "city": "Kosong",
+      "country": "Korea, Republic of",
+      "latitude": 38.47221,
+      "longitude": 128.421558,
+      "website": ""
+    },
+    {
+      "name": "금강아파트주택전시관 (Geumgang Apt. Jutaek Exhibition Hall)",
+      "name_en": "",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.152833,
+      "longitude": 126.85851,
+      "website": ""
+    },
+    {
+      "name": "금구원 조각전시관 (Geumguwon  Jogak Exhibition Hall)",
+      "name_en": "Geumguwon  Jogak Exhibition Hall",
+      "city": "Puan",
+      "country": "Korea, Republic of",
+      "latitude": 35.620446,
+      "longitude": 126.488823,
+      "website": ""
+    },
+    {
+      "name": "금산인삼종합전시관 (Geumsaninsamjonghap Exhibition Hall)",
+      "name_en": "Geumsaninsamjonghap Exhibition Hall",
+      "city": "Kinzan",
+      "country": "Korea, Republic of",
+      "latitude": 36.099981,
+      "longitude": 127.501207,
+      "website": ""
+    },
+    {
+      "name": "금오민속박물관 (Geumo Folk Museum)",
+      "name_en": "Geumo Folk Museum",
+      "city": "Jenzan",
+      "country": "Korea, Republic of",
+      "latitude": 36.255305,
+      "longitude": 128.223552,
+      "website": ""
+    },
+    {
+      "name": "금호산업어울림주택전시관 (Geumhosaneopeoullimjutaek Exhibition Hall)",
+      "name_en": "Geumhosaneopeoullimjutaek Exhibition Hall",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.593259,
+      "longitude": 126.698209,
+      "website": ""
+    },
+    {
+      "name": "기쁨씽크공장전시관 (Gibbeumssingkeugongjang Exhibition Hall)",
+      "name_en": "Gibbeumssingkeugongjang Exhibition Hall",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.807924,
+      "longitude": 126.376749,
+      "website": ""
+    },
+    {
+      "name": "김정부인기념관 (Gimjeongbuin Memorial Hall)",
+      "name_en": "Gimjeongbuin Memorial Hall",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.079116,
+      "longitude": 128.037719,
+      "website": ""
+    },
+    {
+      "name": "김천민속유물전시관 (Gimcheonminsok Museum)",
+      "name_en": "Gimcheonminsok Museum",
+      "city": "Gimcheon",
+      "country": "Korea, Republic of",
+      "latitude": 36.10328,
+      "longitude": 128.180443,
+      "website": ""
+    },
+    {
+      "name": "김천세계도자기박물관 (Gimcheonsegye Ceramic Museum)",
+      "name_en": "Gimcheonsegye Ceramic Museum",
+      "city": "Gimcheon",
+      "country": "Korea, Republic of",
+      "latitude": 36.116929,
+      "longitude": 128.011021,
+      "website": ""
+    },
+    {
+      "name": "김치박물관 (Gimchi Museum)",
+      "name_en": "Gimchi Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.512479,
+      "longitude": 127.05876,
+      "website": ""
+    },
+    {
+      "name": "김치박물관 (Kimchi Museum)",
+      "name_en": "",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.108447,
+      "longitude": 126.866936,
+      "website": ""
+    },
+    {
+      "name": "김포유리박물관 (Gimpoyuri Museum)",
+      "name_en": "Gimpoyuri Museum",
+      "city": "Tongjin",
+      "country": "Korea, Republic of",
+      "latitude": 37.645007,
+      "longitude": 126.582897,
+      "website": ""
+    },
+    {
+      "name": "나비레 전시관 (Nabire Exhibition Hall)",
+      "name_en": "Nabire Exhibition Hall",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.329375,
+      "longitude": 126.17787,
+      "website": ""
+    },
+    {
+      "name": "나주배박물관 (Najubae Museum)",
+      "name_en": "Najubae Museum",
+      "city": "Naju",
+      "country": "Korea, Republic of",
+      "latitude": 34.994184,
+      "longitude": 126.769219,
+      "website": ""
+    },
+    {
+      "name": "나주학생독립운동기념관 (Naju Student Dongnipundong Memorial Hall)",
+      "name_en": "Naju Student Dongnipundong Memorial Hall",
+      "city": "Naju",
+      "country": "Korea, Republic of",
+      "latitude": 35.028245,
+      "longitude": 126.726648,
+      "website": ""
+    },
+    {
+      "name": "낙동강 승전기념관 (Nakdonggang  Seungjeon Memorial Hall)",
+      "name_en": "Nakdonggang  Seungjeon Memorial Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.836705,
+      "longitude": 128.576833,
+      "website": ""
+    },
+    {
+      "name": "난계국악박물관 (Nangyegukak Museum)",
+      "name_en": "Nangyegukak Museum",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.210222,
+      "longitude": 127.704662,
+      "website": ""
+    },
+    {
+      "name": "난지도 이야기 (Story of Nanjido)",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.563561,
+      "longitude": 126.898387,
+      "website": ""
+    },
+    {
+      "name": "남농기념관 (Namnong Memorial Hall)",
+      "name_en": "Namnong Memorial Hall",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.792531,
+      "longitude": 126.419569,
+      "website": ""
+    },
+    {
+      "name": "남도향토음식박물관 (Namdo Local Eumsik Museum)",
+      "name_en": "Namdo Local Eumsik Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.201867,
+      "longitude": 126.898479,
+      "website": ""
+    },
+    {
+      "name": "남명기념관 Nammyeong Memorial Hall",
+      "name_en": "Nammyeong Memorial Hall",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.274583,
+      "longitude": 127.849993,
+      "website": ""
+    },
+    {
+      "name": "남양휴튼주택전시관 (Namyanghyuteunjutaek Exhibition Hall)",
+      "name_en": "Namyanghyuteunjutaek Exhibition Hall",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.610018,
+      "longitude": 127.450848,
+      "website": ""
+    },
+    {
+      "name": "남원향토박물관 (Namwon Local Museum)",
+      "name_en": "Namwon Local Museum",
+      "city": "Nangen",
+      "country": "Korea, Republic of",
+      "latitude": 35.401445,
+      "longitude": 127.386641,
+      "website": ""
+    },
+    {
+      "name": "남한산성만해기념관 (Namhansanseongmanhae Memorial Hall)",
+      "name_en": "Namhansanseongmanhae Memorial Hall",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.477386,
+      "longitude": 127.180765,
+      "website": ""
+    },
+    {
+      "name": "남해향토역사관 (Namhae Local History Museum)",
+      "name_en": "Namhae Local History Museum",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.809857,
+      "longitude": 127.834096,
+      "website": ""
+    },
+    {
+      "name": "내셔널지오그래픽 125주년사진전",
+      "name_en": "",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.411941,
+      "longitude": 126.392788,
+      "website": ""
+    },
+    {
+      "name": "논산젓갈전시관 (Nonsanjeosgal Exhibition Hall)",
+      "name_en": "Nonsanjeosgal Exhibition Hall",
+      "city": "Nonsan",
+      "country": "Korea, Republic of",
+      "latitude": 36.158306,
+      "longitude": 127.008945,
+      "website": ""
+    },
+    {
+      "name": "농경유물전시관 (Nonggyeong Museum)",
+      "name_en": "Nonggyeong Museum",
+      "city": "Gwangtan",
+      "country": "Korea, Republic of",
+      "latitude": 37.765311,
+      "longitude": 126.796371,
+      "website": ""
+    },
+    {
+      "name": "농업박물관",
+      "name_en": "Agricultural Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.566776,
+      "longitude": 126.96805,
+      "website": ""
+    },
+    {
+      "name": "농자재전시관 (Nongjajae Exhibition Hall)",
+      "name_en": "Nongjajae Exhibition Hall",
+      "city": "Naju",
+      "country": "Korea, Republic of",
+      "latitude": 35.006345,
+      "longitude": 126.711034,
+      "website": ""
+    },
+    {
+      "name": "다도박물관 (Dado Museum)",
+      "name_en": "Dado Museum",
+      "city": "Wolgot",
+      "country": "Korea, Republic of",
+      "latitude": 37.737625,
+      "longitude": 126.574327,
+      "website": ""
+    },
+    {
+      "name": "다보성고미술전시관 (Daboseonggomisul Exhibition Hall)",
+      "name_en": "Daboseonggomisul Exhibition Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.575209,
+      "longitude": 126.985977,
+      "website": ""
+    },
+    {
+      "name": "다부동전적기념관 (Dabudongjeonjeok Memorial Hall)",
+      "name_en": "Dabudongjeonjeok Memorial Hall",
+      "city": "Waegwan",
+      "country": "Korea, Republic of",
+      "latitude": 36.046693,
+      "longitude": 128.518328,
+      "website": ""
+    },
+    {
+      "name": "다산기념관 (Dasan Memorial Hall)",
+      "name_en": "Dasan Memorial Hall",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.57518,
+      "longitude": 126.746482,
+      "website": ""
+    },
+    {
+      "name": "다산유물전시관 (Dasan Museum)",
+      "name_en": "Dasan Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.56158,
+      "longitude": 126.729489,
+      "website": ""
+    },
+    {
+      "name": "다솔사휴게소박물관 (Dasolsa Service Station Museum)",
+      "name_en": "Dasolsa Service Station Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.092066,
+      "longitude": 127.928312,
+      "website": ""
+    },
+    {
+      "name": "닥종이인형박물관",
+      "name_en": "",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.246845,
+      "longitude": 126.51031,
+      "website": ""
+    },
+    {
+      "name": "단양광공업전시관 (Danyanggwanggongeop Exhibition Hall)",
+      "name_en": "Danyanggwanggongeop Exhibition Hall",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 36.999912,
+      "longitude": 128.34152,
+      "website": ""
+    },
+    {
+      "name": "단원전시관 (Danwon Exhibition Hall)",
+      "name_en": "Danwon Exhibition Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.318889,
+      "longitude": 126.828071,
+      "website": ""
+    },
+    {
+      "name": "단종역사관 (Danjong History Museum)",
+      "name_en": "Danjong History Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.195676,
+      "longitude": 128.45445,
+      "website": ""
+    },
+    {
+      "name": "단종역사관 (Danjong History Museum)",
+      "name_en": "Danjong History Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.192952,
+      "longitude": 128.495506,
+      "website": ""
+    },
+    {
+      "name": "당진수석전시관 (Dangjinsuseok Exhibition Hall)",
+      "name_en": "Dangjinsuseok Exhibition Hall",
+      "city": "Tangjin",
+      "country": "Korea, Republic of",
+      "latitude": 36.888258,
+      "longitude": 126.623765,
+      "website": ""
+    },
+    {
+      "name": "당항포 자연사전시관 (Danghangpo  Jayeonsa Exhibition Hall)",
+      "name_en": "Danghangpo  Jayeonsa Exhibition Hall",
+      "city": "Goseong",
+      "country": "Korea, Republic of",
+      "latitude": 35.054287,
+      "longitude": 128.397568,
+      "website": ""
+    },
+    {
+      "name": "대가야박물관 (Daegaya Museum)",
+      "name_en": "Daegaya Museum",
+      "city": "Hwawŏn",
+      "country": "Korea, Republic of",
+      "latitude": 35.733283,
+      "longitude": 128.262916,
+      "website": ""
+    },
+    {
+      "name": "대가야박물관 (Daegaya Museum)",
+      "name_en": "Daegaya Museum",
+      "city": "Hwawŏn",
+      "country": "Korea, Republic of",
+      "latitude": 35.723025,
+      "longitude": 128.257263,
+      "website": ""
+    },
+    {
+      "name": "대구가톨릭대학교박물관 (Daegu Catholic University Museum)",
+      "name_en": "Daegu Catholic University Museum",
+      "city": "Hayang",
+      "country": "Korea, Republic of",
+      "latitude": 35.906779,
+      "longitude": 128.803969,
+      "website": ""
+    },
+    {
+      "name": "대구교육대학교 교육박물관 (Daegu Teachers College Gyoyuk Museum)",
+      "name_en": "Daegu Teachers College Gyoyuk Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.85084,
+      "longitude": 128.589547,
+      "website": ""
+    },
+    {
+      "name": "대구근대역사관",
+      "name_en": "Daegu Modern History Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.871717,
+      "longitude": 128.591207,
+      "website": ""
+    },
+    {
+      "name": "대구대학교박물관 (Daegu University Museum)",
+      "name_en": "Daegu University Museum",
+      "city": "Hayang",
+      "country": "Korea, Republic of",
+      "latitude": 35.858299,
+      "longitude": 128.803024,
+      "website": ""
+    },
+    {
+      "name": "대구불교전시관 (Daegu Buddhism Exhibition Hall)",
+      "name_en": "Daegu Buddhism Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.833783,
+      "longitude": 128.556067,
+      "website": ""
+    },
+    {
+      "name": "대구스포츠기념관",
+      "name_en": "Daegu Sports Memorial Hall",
+      "city": "Gyeongsan-si",
+      "country": "Korea, Republic of",
+      "latitude": 35.827742,
+      "longitude": 128.685287,
+      "website": ""
+    },
+    {
+      "name": "대명불교전시관 (Daemyeong Buddhism Exhibition Hall)",
+      "name_en": "Daemyeong Buddhism Exhibition Hall",
+      "city": "Nonsan",
+      "country": "Korea, Republic of",
+      "latitude": 36.207549,
+      "longitude": 127.085193,
+      "website": ""
+    },
+    {
+      "name": "대성동고분박물관 (Daeseongdonggobun Museum)",
+      "name_en": "Daeseongdonggobun Museum",
+      "city": "Kimhae",
+      "country": "Korea, Republic of",
+      "latitude": 35.236251,
+      "longitude": 128.873771,
+      "website": ""
+    },
+    {
+      "name": "대우건설거제동전시관 (Daeugeonseolgeojedong Exhibition Hall)",
+      "name_en": "Daeugeonseolgeojedong Exhibition Hall",
+      "city": "Kijang",
+      "country": "Korea, Republic of",
+      "latitude": 35.158595,
+      "longitude": 129.144172,
+      "website": ""
+    },
+    {
+      "name": "대우자동차종합전시관 (Daeujadongchajonghap Exhibition Hall)",
+      "name_en": "Daeujadongchajonghap Exhibition Hall",
+      "city": "Sinhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 34.887821,
+      "longitude": 128.691314,
+      "website": ""
+    },
+    {
+      "name": "대원사 티벳박물관 (Daewonsa  Tibet Museum)",
+      "name_en": "Daewonsa  Tibet Museum",
+      "city": "Hwasun",
+      "country": "Korea, Republic of",
+      "latitude": 34.961006,
+      "longitude": 127.132531,
+      "website": ""
+    },
+    {
+      "name": "대전 3.1의거 기념관 (Daejeon 3.1 Uigeo Memorial Hall)",
+      "name_en": "Daejeon 3.1 Uigeo Memorial Hall",
+      "city": "Heung-hai",
+      "country": "Korea, Republic of",
+      "latitude": 36.253524,
+      "longitude": 129.35571,
+      "website": ""
+    },
+    {
+      "name": "대전대학교박물관 (Daejeon University Museum)",
+      "name_en": "Daejeon University Museum",
+      "city": "Daejeon",
+      "country": "Korea, Republic of",
+      "latitude": 36.335806,
+      "longitude": 127.460372,
+      "website": ""
+    },
+    {
+      "name": "대전선사박물관 (Daejeonseonsa Museum)",
+      "name_en": "Daejeonseonsa Museum",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.374302,
+      "longitude": 127.324798,
+      "website": ""
+    },
+    {
+      "name": "대청문화전시관 (Daecheongmunhwa Exhibition Hall)",
+      "name_en": "Daecheongmunhwa Exhibition Hall",
+      "city": "Sintansin",
+      "country": "Korea, Republic of",
+      "latitude": 36.473572,
+      "longitude": 127.473795,
+      "website": ""
+    },
+    {
+      "name": "대한민국술박물관 (Daehanminguksul Museum)",
+      "name_en": "Daehanminguksul Museum",
+      "city": "Anseong",
+      "country": "Korea, Republic of",
+      "latitude": 36.981611,
+      "longitude": 127.305392,
+      "website": ""
+    },
+    {
+      "name": "대한불교전시관 (Daehan Buddhism Exhibition Hall)",
+      "name_en": "Daehan Buddhism Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.169316,
+      "longitude": 129.115932,
+      "website": ""
+    },
+    {
+      "name": "대한불교전시관 (Daehan Buddhism Exhibition Hall)",
+      "name_en": "Daehan Buddhism Exhibition Hall",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.544829,
+      "longitude": 129.311261,
+      "website": ""
+    },
+    {
+      "name": "덕봉전시관 (Deokbong Exhibition Hall)",
+      "name_en": "Deokbong Exhibition Hall",
+      "city": "Kunsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.968915,
+      "longitude": 126.694212,
+      "website": ""
+    },
+    {
+      "name": "덕성여자대학교 박물관 (Deokseong Womans University Museum)",
+      "name_en": "Deokseong Womans University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.650993,
+      "longitude": 127.016839,
+      "website": ""
+    },
+    {
+      "name": "덕암민속박물관 (Deokam Folk Museum)",
+      "name_en": "Deokam Folk Museum",
+      "city": "Okcheon",
+      "country": "Korea, Republic of",
+      "latitude": 36.293062,
+      "longitude": 127.568791,
+      "website": ""
+    },
+    {
+      "name": "덕포진교육박물관 (Deokpojingyoyuk Museum)",
+      "name_en": "Deokpojingyoyuk Museum",
+      "city": "Wolgot",
+      "country": "Korea, Republic of",
+      "latitude": 37.649533,
+      "longitude": 126.539474,
+      "website": ""
+    },
+    {
+      "name": "덕포진전시관 (Deokpojin Exhibition Hall)",
+      "name_en": "Deokpojin Exhibition Hall",
+      "city": "Wolgot",
+      "country": "Korea, Republic of",
+      "latitude": 37.657297,
+      "longitude": 126.543629,
+      "website": ""
+    },
+    {
+      "name": "도산 안창호 기념관 (Dosan  Anchangho  Memorial Hall)",
+      "name_en": "Dosan  Anchangho  Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.523918,
+      "longitude": 127.035531,
+      "website": ""
+    },
+    {
+      "name": "도예랑전시관 (Doyerang Exhibition Hall)",
+      "name_en": "Doyerang Exhibition Hall",
+      "city": "Icheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.310241,
+      "longitude": 127.401672,
+      "website": ""
+    },
+    {
+      "name": "독도박물관 (Dokdo Museum)",
+      "name_en": "Dokdo Museum",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.485972,
+      "longitude": 130.897086,
+      "website": ""
+    },
+    {
+      "name": "독도체험관(dokdo museum seoul)",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.562142,
+      "longitude": 126.968892,
+      "website": ""
+    },
+    {
+      "name": "독립기념관 (Independence Hall of Korea)",
+      "name_en": "Dongnip Memorial Hall",
+      "city": "Cheonan",
+      "country": "Korea, Republic of",
+      "latitude": 36.783045,
+      "longitude": 127.224876,
+      "website": ""
+    },
+    {
+      "name": "돌석도예전시관 (Dolseokdoye Exhibition Hall)",
+      "name_en": "Dolseokdoye Exhibition Hall",
+      "city": "Anyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.37902,
+      "longitude": 126.904885,
+      "website": ""
+    },
+    {
+      "name": "동강사진박물관 (Donggangsajin Museum)",
+      "name_en": "Donggangsajin Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.18196,
+      "longitude": 128.461418,
+      "website": ""
+    },
+    {
+      "name": "동국대학교 경주캠퍼스박물관 (Dongguk University Gyeongju Campus Museum)",
+      "name_en": "Dongguk University Gyeongju Campus Museum",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.862321,
+      "longitude": 129.194729,
+      "website": ""
+    },
+    {
+      "name": "동국대학교 박물관",
+      "name_en": "Dongguk University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.558238,
+      "longitude": 127.002372,
+      "website": ""
+    },
+    {
+      "name": "동굴엑스포타운 (Cave Ekseupo Town)",
+      "name_en": "Cave Ekseupo Town",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.439905,
+      "longitude": 129.158342,
+      "website": ""
+    },
+    {
+      "name": "동대문역사관 1398",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.567038,
+      "longitude": 127.011566,
+      "website": ""
+    },
+    {
+      "name": "동대문운동장기념관",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.567689,
+      "longitude": 127.011314,
+      "website": ""
+    },
+    {
+      "name": "동림매듭박물관 (Dongnimmaedeup Museum)",
+      "name_en": "Dongnimmaedeup Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.583005,
+      "longitude": 126.986073,
+      "website": ""
+    },
+    {
+      "name": "동부건설주택전시관 (Dongbugeonseoljutaek Exhibition Hall)",
+      "name_en": "Dongbugeonseoljutaek Exhibition Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.552961,
+      "longitude": 126.973475,
+      "website": ""
+    },
+    {
+      "name": "동산도기박물관 (Dongsandogi Museum)",
+      "name_en": "Dongsandogi Museum",
+      "city": "Daejeon",
+      "country": "Korea, Republic of",
+      "latitude": 36.319046,
+      "longitude": 127.373938,
+      "website": ""
+    },
+    {
+      "name": "동삼동패총전시관 (Dongsamdongpaechong Exhibition Hall)",
+      "name_en": "Dongsamdongpaechong Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.071242,
+      "longitude": 129.07968,
+      "website": ""
+    },
+    {
+      "name": "동서개발주택전시관 (Dongseogaebaljutaek Exhibition Hall)",
+      "name_en": "Dongseogaebaljutaek Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.835058,
+      "longitude": 128.623171,
+      "website": ""
+    },
+    {
+      "name": "동아대학교 박물관 (Donga University Museum)",
+      "name_en": "Donga University Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.111967,
+      "longitude": 129.01628,
+      "website": ""
+    },
+    {
+      "name": "동아대학교 박물관 Donga Univ. Museum (Donga University Museum Donga Univ. Museum)",
+      "name_en": "Donga University Museum Donga Univ. Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.104906,
+      "longitude": 129.019508,
+      "website": ""
+    },
+    {
+      "name": "동제미술전시관",
+      "name_en": "Dongjemisul Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.789348,
+      "longitude": 128.593717,
+      "website": ""
+    },
+    {
+      "name": "동진수리박물관 (Dongjinsuri Museum)",
+      "name_en": "Dongjinsuri Museum",
+      "city": "Kimje",
+      "country": "Korea, Republic of",
+      "latitude": 35.798008,
+      "longitude": 126.893699,
+      "website": ""
+    },
+    {
+      "name": "동학혁명기념관 (Donghakhyeongmyeong Memorial Hall)",
+      "name_en": "Donghakhyeongmyeong Memorial Hall",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.816919,
+      "longitude": 127.151982,
+      "website": ""
+    },
+    {
+      "name": "동호불교전시관 (Dongho Buddhism Exhibition Hall)",
+      "name_en": "Dongho Buddhism Exhibition Hall",
+      "city": "Pohang",
+      "country": "Korea, Republic of",
+      "latitude": 36.034122,
+      "longitude": 129.370412,
+      "website": ""
+    },
+    {
+      "name": "두루뫼 박물관 (Durumoe Museum)",
+      "name_en": "Durumoe Museum",
+      "city": "Beopwon",
+      "country": "Korea, Republic of",
+      "latitude": 37.856734,
+      "longitude": 126.895739,
+      "website": ""
+    },
+    {
+      "name": "등대박물관 (Deungdae Museum)",
+      "name_en": "Deungdae Museum",
+      "city": "Pohang",
+      "country": "Korea, Republic of",
+      "latitude": 36.077217,
+      "longitude": 129.569134,
+      "website": ""
+    },
+    {
+      "name": "떡 박물관 (Ddeok Museum)",
+      "name_en": "Ddeok Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.574915,
+      "longitude": 126.990576,
+      "website": ""
+    },
+    {
+      "name": "로베르또상품전시관 (Robereuddosangpum Exhibition Hall)",
+      "name_en": "Robereuddosangpum Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.178347,
+      "longitude": 129.072302,
+      "website": ""
+    },
+    {
+      "name": "루브르미술전시관 (Rubeureumisul Exhibition Hall)",
+      "name_en": "Rubeureumisul Exhibition Hall",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.224991,
+      "longitude": 128.583963,
+      "website": ""
+    },
+    {
+      "name": "마리소리골악기박물관 (Marisorigorakgi Museum)",
+      "name_en": "Marisorigorakgi Museum",
+      "city": "Seoseok",
+      "country": "Korea, Republic of",
+      "latitude": 37.737949,
+      "longitude": 128.250986,
+      "website": ""
+    },
+    {
+      "name": "마사박물관 (Equine Museum)",
+      "name_en": "Masa Museum",
+      "city": "Anyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.447802,
+      "longitude": 127.012081,
+      "website": ""
+    },
+    {
+      "name": "마산불교전시관 (Masan Buddhism Exhibition Hall)",
+      "name_en": "Masan Buddhism Exhibition Hall",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.221209,
+      "longitude": 128.586837,
+      "website": ""
+    },
+    {
+      "name": "마산시립박물관 (Masan City Museum)",
+      "name_en": "Masan City Museum",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.209381,
+      "longitude": 128.569967,
+      "website": ""
+    },
+    {
+      "name": "마산시립박물관 (Masan City Museum)",
+      "name_en": "Masan City Museum",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.19666,
+      "longitude": 128.568088,
+      "website": ""
+    },
+    {
+      "name": "만경수석전시관 (Mangyeongsuseok Exhibition Hall)",
+      "name_en": "Mangyeongsuseok Exhibition Hall",
+      "city": "Wanju",
+      "country": "Korea, Republic of",
+      "latitude": 35.848874,
+      "longitude": 127.118753,
+      "website": ""
+    },
+    {
+      "name": "만덕불교전시관 (Mandeok Buddhism Exhibition Hall)",
+      "name_en": "Mandeok Buddhism Exhibition Hall",
+      "city": "Pohang",
+      "country": "Korea, Republic of",
+      "latitude": 36.034627,
+      "longitude": 129.361721,
+      "website": ""
+    },
+    {
+      "name": "만덕불교전시관 (Mandeok Buddhism Exhibition Hall)",
+      "name_en": "Mandeok Buddhism Exhibition Hall",
+      "city": "Pohang",
+      "country": "Korea, Republic of",
+      "latitude": 36.025051,
+      "longitude": 129.357946,
+      "website": ""
+    },
+    {
+      "name": "만물전시관 (Manmul Exhibition Hall)",
+      "name_en": "Manmul Exhibition Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.54282,
+      "longitude": 126.990963,
+      "website": ""
+    },
+    {
+      "name": "만천곤충박물관 (Mancheongonchung Museum)",
+      "name_en": "Mancheongonchung Museum",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.519115,
+      "longitude": 126.901395,
+      "website": ""
+    },
+    {
+      "name": "만해기념관 (Manhae Memorial Hall)",
+      "name_en": "Manhae Memorial Hall",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.477376,
+      "longitude": 127.180731,
+      "website": ""
+    },
+    {
+      "name": "만해기념관 (Manhae Memorial Hall)",
+      "name_en": "Manhae Memorial Hall",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.47743,
+      "longitude": 127.180674,
+      "website": ""
+    },
+    {
+      "name": "매암차박물관 (maeam Tea  Museum)",
+      "name_en": "maeam Tea Museum",
+      "city": "Kwangyang",
+      "country": "Korea, Republic of",
+      "latitude": 35.161202,
+      "longitude": 127.709134,
+      "website": ""
+    },
+    {
+      "name": "명륜불교전시관 (Myeongnyun Buddhism Exhibition Hall)",
+      "name_en": "Myeongnyun Buddhism Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.206725,
+      "longitude": 129.003029,
+      "website": ""
+    },
+    {
+      "name": "명성도예전시관 (Myeongseongdoye Exhibition Hall)",
+      "name_en": "Myeongseongdoye Exhibition Hall",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.301932,
+      "longitude": 127.649791,
+      "website": ""
+    },
+    {
+      "name": "명인박물관 (Myeongin Museum)",
+      "name_en": "Myeongin Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.580162,
+      "longitude": 126.985203,
+      "website": ""
+    },
+    {
+      "name": "모형항공기박물관 (Mohyeonghanggonggi Museum)",
+      "name_en": "Mohyeonghanggonggi Museum",
+      "city": "Hongch’ŏn",
+      "country": "Korea, Republic of",
+      "latitude": 37.751739,
+      "longitude": 127.822266,
+      "website": ""
+    },
+    {
+      "name": "목아박물관 (Moka Museum)",
+      "name_en": "Moka Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.28815,
+      "longitude": 127.687742,
+      "website": ""
+    },
+    {
+      "name": "목아불교박물관 (Moka Buddhism Museum)",
+      "name_en": "Moka Buddhism Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.28815,
+      "longitude": 127.687719,
+      "website": ""
+    },
+    {
+      "name": "목인박물관 (Mokin Museum)",
+      "name_en": "Mokin Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.573937,
+      "longitude": 126.983593,
+      "website": ""
+    },
+    {
+      "name": "목포대학교박물관 (Mokpo University Museum)",
+      "name_en": "Mokpo University Museum",
+      "city": "Muan",
+      "country": "Korea, Republic of",
+      "latitude": 34.906708,
+      "longitude": 126.435409,
+      "website": ""
+    },
+    {
+      "name": "목포자연사박물관 (Mokpo Natural History Museum)",
+      "name_en": "Mokpo Natural History Museum",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.793893,
+      "longitude": 126.421029,
+      "website": ""
+    },
+    {
+      "name": "목포자연사박물관 (Mokpo Natural History Museum)",
+      "name_en": "Mokpo Natural History Museum",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.793261,
+      "longitude": 126.420943,
+      "website": ""
+    },
+    {
+      "name": "몽골징기스칸박물관 (Monggoljinggiseukan Museum)",
+      "name_en": "Monggoljinggiseukan Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.265782,
+      "longitude": 126.412001,
+      "website": ""
+    },
+    {
+      "name": "몽촌역사관 (Mongchon History Museum)",
+      "name_en": "Mongchon History Museum",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.520977,
+      "longitude": 127.116026,
+      "website": ""
+    },
+    {
+      "name": "무릉박물관 (Mureung Museum)",
+      "name_en": "Mureung Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.324942,
+      "longitude": 127.886869,
+      "website": ""
+    },
+    {
+      "name": "무림민속전시관 (Murimminsok Exhibition Hall)",
+      "name_en": "Murimminsok Exhibition Hall",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.604284,
+      "longitude": 128.21042,
+      "website": ""
+    },
+    {
+      "name": "무불정사불교전시관 (Mubuljeongsa Buddhism Exhibition Hall)",
+      "name_en": "Mubuljeongsa Buddhism Exhibition Hall",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.357037,
+      "longitude": 127.33561,
+      "website": ""
+    },
+    {
+      "name": "무형문화재전시관 (Muhyeongmunhwajae Exhibition Hall)",
+      "name_en": "Muhyeongmunhwajae Exhibition Hall",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.149716,
+      "longitude": 126.921763,
+      "website": ""
+    },
+    {
+      "name": "묵선자불경전시관 (Mukseonjabulgyeong Exhibition Hall)",
+      "name_en": "Mukseonjabulgyeong Exhibition Hall",
+      "city": "Ungsang",
+      "country": "Korea, Republic of",
+      "latitude": 35.508552,
+      "longitude": 129.138835,
+      "website": ""
+    },
+    {
+      "name": "문경도자기전시관 (Mungyeong Ceramic Exhibition Hall)",
+      "name_en": "Mungyeong Ceramic Exhibition Hall",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.76963,
+      "longitude": 128.127356,
+      "website": ""
+    },
+    {
+      "name": "문경새재박물관 (Mungyeongsaejae Museum)",
+      "name_en": "Mungyeongsaejae Museum",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.763058,
+      "longitude": 128.076029,
+      "website": ""
+    },
+    {
+      "name": "문경새재박물관 (Mungyeongsaejae Museum)",
+      "name_en": "Mungyeongsaejae Museum",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.761552,
+      "longitude": 128.076979,
+      "website": ""
+    },
+    {
+      "name": "문경석탄박물관 (Mungyeongseoktan Museum)",
+      "name_en": "Mungyeongseoktan Museum",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.654641,
+      "longitude": 128.061132,
+      "website": ""
+    },
+    {
+      "name": "문경석탄박물관 (Mungyeongseoktan Museum)",
+      "name_en": "Mungyeongseoktan Museum",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.653622,
+      "longitude": 128.061836,
+      "website": ""
+    },
+    {
+      "name": "문경석탄박물관 (Mungyeongseoktan Museum)",
+      "name_en": "Mungyeongseoktan Museum",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.645264,
+      "longitude": 128.066415,
+      "website": ""
+    },
+    {
+      "name": "물박물관 (Mul Museum)",
+      "name_en": "Mul Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.520064,
+      "longitude": 126.812185,
+      "website": ""
+    },
+    {
+      "name": "미륵사지유물전시관 (Mireuksaji Museum)",
+      "name_en": "Mireuksaji Museum",
+      "city": "Iksan",
+      "country": "Korea, Republic of",
+      "latitude": 36.010756,
+      "longitude": 127.02786,
+      "website": ""
+    },
+    {
+      "name": "미륵사지유물전시관 (Mireuksaji Museum)",
+      "name_en": "Mireuksaji Museum",
+      "city": "Iksan",
+      "country": "Korea, Republic of",
+      "latitude": 36.01118,
+      "longitude": 127.027855,
+      "website": ""
+    },
+    {
+      "name": "미리벌민속박물관 (Miribeol Folk Museum)",
+      "name_en": "Miribeol Folk Museum",
+      "city": "Miryang",
+      "country": "Korea, Republic of",
+      "latitude": 35.418808,
+      "longitude": 128.674608,
+      "website": ""
+    },
+    {
+      "name": "민물고기전시관 (Minmulgogi Exhibition Hall)",
+      "name_en": "Minmulgogi Exhibition Hall",
+      "city": "T’aebaek",
+      "country": "Korea, Republic of",
+      "latitude": 36.966401,
+      "longitude": 129.380982,
+      "website": ""
+    },
+    {
+      "name": "민속도자기종합전시관 (Minsok Ceramic Jonghap Exhibition Hall)",
+      "name_en": "Minsok Ceramic Jonghap Exhibition Hall",
+      "city": "Icheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.307553,
+      "longitude": 127.412028,
+      "website": ""
+    },
+    {
+      "name": "민속자료전시관 (Minsokjaryo Exhibition Hall)",
+      "name_en": "Minsokjaryo Exhibition Hall",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.806953,
+      "longitude": 127.793824,
+      "website": ""
+    },
+    {
+      "name": "민폐류박물관 (Minpyeryu Museum)",
+      "name_en": "Minpyeryu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.497279,
+      "longitude": 127.043365,
+      "website": ""
+    },
+    {
+      "name": "밀양시립박물관 (Milyang City Museum)",
+      "name_en": "Milyang City Museum",
+      "city": "Miryang",
+      "country": "Korea, Republic of",
+      "latitude": 35.503142,
+      "longitude": 128.759272,
+      "website": ""
+    },
+    {
+      "name": "박물관 (Museum)",
+      "name_en": "Museum",
+      "city": "Songwon",
+      "country": "Korea, Republic of",
+      "latitude": 36.995683,
+      "longitude": 127.082573,
+      "website": ""
+    },
+    {
+      "name": "박물관 (Museum)",
+      "name_en": "Museum",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.526221,
+      "longitude": 130.825547,
+      "website": ""
+    },
+    {
+      "name": "박을복자수박물관 (Bakeulbokjasu Museum)",
+      "name_en": "Bakeulbokjasu Museum",
+      "city": "Jangheung",
+      "country": "Korea, Republic of",
+      "latitude": 37.653691,
+      "longitude": 127.008564,
+      "website": ""
+    },
+    {
+      "name": "박진전쟁기념관 (Bakjin War Memorial Hall)",
+      "name_en": "Bakjin War Memorial Hall",
+      "city": "Changnyeong",
+      "country": "Korea, Republic of",
+      "latitude": 35.447456,
+      "longitude": 128.386213,
+      "website": ""
+    },
+    {
+      "name": "박화성문학기념관 (Bakhwaseongmunhak Memorial Hall)",
+      "name_en": "Bakhwaseongmunhak Memorial Hall",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.787467,
+      "longitude": 126.381979,
+      "website": ""
+    },
+    {
+      "name": "반디랜드곤충박물관 (Bandiraendeugonchung Museum)",
+      "name_en": "Bandiraendeugonchung Museum",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.013774,
+      "longitude": 127.757438,
+      "website": ""
+    },
+    {
+      "name": "반디랜드천문과학관 (Bandiraendeucheonmun Science Museum)",
+      "name_en": "Bandiraendeucheonmun Science Museum",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.012812,
+      "longitude": 127.758463,
+      "website": ""
+    },
+    {
+      "name": "반딧불박물관 (Banditbul Museum)",
+      "name_en": "Banditbul Museum",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.013934,
+      "longitude": 127.757574,
+      "website": ""
+    },
+    {
+      "name": "반잠수정전시관 (Banjamsujeong Exhibition Hall)",
+      "name_en": "Banjamsujeong Exhibition Hall",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.605433,
+      "longitude": 127.786695,
+      "website": ""
+    },
+    {
+      "name": "밥돌박물관 (Bapdol Museum)",
+      "name_en": "Bapdol Museum",
+      "city": "Wolgot",
+      "country": "Korea, Republic of",
+      "latitude": 37.654138,
+      "longitude": 126.546807,
+      "website": ""
+    },
+    {
+      "name": "방산자기박물관 (Bangsanjagi Museum)",
+      "name_en": "Bangsanjagi Museum",
+      "city": "Yanggu",
+      "country": "Korea, Republic of",
+      "latitude": 38.207316,
+      "longitude": 127.951208,
+      "website": ""
+    },
+    {
+      "name": "방원공룡박물관 (Bangwongongnyong Museum)",
+      "name_en": "Bangwongongnyong Museum",
+      "city": "Suncheon",
+      "country": "Korea, Republic of",
+      "latitude": 34.864036,
+      "longitude": 127.464437,
+      "website": ""
+    },
+    {
+      "name": "방짜유기박물관",
+      "name_en": "Brassware Museum",
+      "city": "Hayang",
+      "country": "Korea, Republic of",
+      "latitude": 35.965528,
+      "longitude": 128.701223,
+      "website": ""
+    },
+    {
+      "name": "배다리 술 박물관 (Baedari  Sul Museum)",
+      "name_en": "Baedari  Sul Museum",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.658497,
+      "longitude": 126.8462,
+      "website": ""
+    },
+    {
+      "name": "백남준 아트센터",
+      "name_en": "Nam June-Paik Art Center",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.269137,
+      "longitude": 127.110405,
+      "website": ""
+    },
+    {
+      "name": "백련박물관 Baengnyeon Museum",
+      "name_en": "Baengnyeon Museum",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 35.859713,
+      "longitude": 127.766583,
+      "website": ""
+    },
+    {
+      "name": "백범기념관 (Baekbeom Memorial Hall)",
+      "name_en": "Baekbeom Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.54377,
+      "longitude": 126.959682,
+      "website": ""
+    },
+    {
+      "name": "백산기념관 (Baeksan Memorial Hall)",
+      "name_en": "Baeksan Memorial Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.101642,
+      "longitude": 129.034646,
+      "website": ""
+    },
+    {
+      "name": "백양사박물관 (Baekyangsa Museum)",
+      "name_en": "Baekyangsa Museum",
+      "city": "Koch'ang",
+      "country": "Korea, Republic of",
+      "latitude": 35.434607,
+      "longitude": 126.88233,
+      "website": ""
+    },
+    {
+      "name": "백제군사박물관 (Baekje Military Museum)",
+      "name_en": "Baekje Military Museum",
+      "city": "Nonsan",
+      "country": "Korea, Republic of",
+      "latitude": 36.192362,
+      "longitude": 127.181187,
+      "website": ""
+    },
+    {
+      "name": "백주년기념관 (Baekjunyeon Memorial Hall)",
+      "name_en": "Baekjunyeon Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.574395,
+      "longitude": 127.000387,
+      "website": ""
+    },
+    {
+      "name": "버섯박물관",
+      "name_en": "Beoseos Museum",
+      "city": "Sogcho",
+      "country": "Korea, Republic of",
+      "latitude": 38.213249,
+      "longitude": 128.596012,
+      "website": ""
+    },
+    {
+      "name": "벽골제 수리 민속유물전시관 (Byeokgolje  Suri  Minsok Museum)",
+      "name_en": "Byeokgolje  Suri  Minsok Museum",
+      "city": "Kimje",
+      "country": "Korea, Republic of",
+      "latitude": 35.755332,
+      "longitude": 126.853374,
+      "website": ""
+    },
+    {
+      "name": "별새꽃돌자연탐사과학관 (Byeolsaeggoctoljayeontamsa Science Museum)",
+      "name_en": "Byeolsaeggoctoljayeontamsa Science Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.185732,
+      "longitude": 128.058345,
+      "website": ""
+    },
+    {
+      "name": "보령석탄박물관 (Boryeongseoktan Museum)",
+      "name_en": "Boryeongseoktan Museum",
+      "city": "Taisen-ri",
+      "country": "Korea, Republic of",
+      "latitude": 36.326128,
+      "longitude": 126.652731,
+      "website": ""
+    },
+    {
+      "name": "보물섬 마늘나라 마늘전시관 (Bomulseom  Maneullara  Maneul Exhibition Hall)",
+      "name_en": "Bomulseom  Maneullara  Maneul Exhibition Hall",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.813982,
+      "longitude": 127.919694,
+      "website": ""
+    },
+    {
+      "name": "복천박물관 (Bokcheon Museum)",
+      "name_en": "Bokcheon Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.206975,
+      "longitude": 129.091757,
+      "website": "http://bcmuseum.busan.go.kr/"
+    },
+    {
+      "name": "본태박물관",
+      "name_en": "",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.303725,
+      "longitude": 126.392442,
+      "website": ""
+    },
+    {
+      "name": "봉화불교전시관 (Bonghwa Buddhism Exhibition Hall)",
+      "name_en": "Bonghwa Buddhism Exhibition Hall",
+      "city": "Eisen",
+      "country": "Korea, Republic of",
+      "latitude": 36.888052,
+      "longitude": 128.739646,
+      "website": ""
+    },
+    {
+      "name": "부봉박물관 (Bubong Museum)",
+      "name_en": "Bubong Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.582948,
+      "longitude": 126.984715,
+      "website": ""
+    },
+    {
+      "name": "부산근대역사관 (Busangeundae History Museum)",
+      "name_en": "Busangeundae History Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.10275,
+      "longitude": 129.031478,
+      "website": ""
+    },
+    {
+      "name": "부산대학교박물관 (Busan University Museum)",
+      "name_en": "Busan University Museum",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.233803,
+      "longitude": 129.080166,
+      "website": ""
+    },
+    {
+      "name": "부산박물관 (Busan Museum)",
+      "name_en": "Busan Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.129415,
+      "longitude": 129.093919,
+      "website": ""
+    },
+    {
+      "name": "부산불교전시관 (Busan Buddhism Exhibition Hall)",
+      "name_en": "Busan Buddhism Exhibition Hall",
+      "city": "Pohang",
+      "country": "Korea, Republic of",
+      "latitude": 36.036499,
+      "longitude": 129.36192,
+      "website": ""
+    },
+    {
+      "name": "부산시립박물관 (Busan City Museum)",
+      "name_en": "Busan City Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.103213,
+      "longitude": 129.017215,
+      "website": ""
+    },
+    {
+      "name": "부산어촌민속관",
+      "name_en": "Busan Fishing Vilage Folk Museum",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.233796,
+      "longitude": 129.008535,
+      "website": ""
+    },
+    {
+      "name": "부산포민속박물관 (Busanpo Folk Museum)",
+      "name_en": "Busanpo Folk Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.155447,
+      "longitude": 129.060234,
+      "website": ""
+    },
+    {
+      "name": "부산해양자연사박물관 (Busanhaeyang Natural History Museum)",
+      "name_en": "Busanhaeyang Natural History Museum",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.223942,
+      "longitude": 129.078538,
+      "website": ""
+    },
+    {
+      "name": "부산해양자연사박물관 (Busansihaeyangsaengmul Exhibition Hall)",
+      "name_en": "Busansihaeyangsaengmul Exhibition Hall",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.22172,
+      "longitude": 129.075982,
+      "website": ""
+    },
+    {
+      "name": "부안청자전시관 (Buancheongja Exhibition Hall)",
+      "name_en": "Buancheongja Exhibition Hall",
+      "city": "Puan",
+      "country": "Korea, Republic of",
+      "latitude": 35.61148,
+      "longitude": 126.651715,
+      "website": ""
+    },
+    {
+      "name": "부엉이 미술 공예 박물관 (Bueongi  Misul  Gongye Museum)",
+      "name_en": "Bueongi  Misul  Gongye Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.587058,
+      "longitude": 126.982843,
+      "website": ""
+    },
+    {
+      "name": "부천교육박물관 (Bucheongyoyuk Museum)",
+      "name_en": "Bucheongyoyuk Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.502227,
+      "longitude": 126.797574,
+      "website": ""
+    },
+    {
+      "name": "부천식물원 (Bucheon Florist)",
+      "name_en": "Bucheon Florist",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.505127,
+      "longitude": 126.815713,
+      "website": ""
+    },
+    {
+      "name": "부천향토역사관 (Bucheon Local History Museum)",
+      "name_en": "Bucheon Local History Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.515833,
+      "longitude": 126.789502,
+      "website": ""
+    },
+    {
+      "name": "분재박물관 (Bunjae Museum)",
+      "name_en": "Bunjae Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.466753,
+      "longitude": 127.02078,
+      "website": ""
+    },
+    {
+      "name": "불교서적전시관 (Buddhism Seojeok Exhibition Hall)",
+      "name_en": "Buddhism Seojeok Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.134617,
+      "longitude": 129.059865,
+      "website": ""
+    },
+    {
+      "name": "불교전시관 (Buddhism Exhibition Hall)",
+      "name_en": "Buddhism Exhibition Hall",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.974936,
+      "longitude": 127.930652,
+      "website": ""
+    },
+    {
+      "name": "불교전시관 (Buddhism Exhibition Hall)",
+      "name_en": "Buddhism Exhibition Hall",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.841365,
+      "longitude": 129.217785,
+      "website": ""
+    },
+    {
+      "name": "불교전시관 (Buddhism Exhibition Hall)",
+      "name_en": "Buddhism Exhibition Hall",
+      "city": "Daejeon",
+      "country": "Korea, Republic of",
+      "latitude": 36.328273,
+      "longitude": 127.433489,
+      "website": ""
+    },
+    {
+      "name": "불교전시관 (Buddhism Exhibition Hall)",
+      "name_en": "Buddhism Exhibition Hall",
+      "city": "Ungsang",
+      "country": "Korea, Republic of",
+      "latitude": 35.564867,
+      "longitude": 129.127961,
+      "website": ""
+    },
+    {
+      "name": "불교전시관 (Buddhism Exhibition Hall)",
+      "name_en": "Buddhism Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.134617,
+      "longitude": 129.059865,
+      "website": ""
+    },
+    {
+      "name": "비단금 서울전시관 (Bidangeum Seoul Exhibition Hall)",
+      "name_en": "Bidangeum Seoul Exhibition Hall",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.487808,
+      "longitude": 126.914893,
+      "website": ""
+    },
+    {
+      "name": "사비나 미술관 (Sabina Art Museum)",
+      "name_en": "Sabina Art Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.576532,
+      "longitude": 126.984685,
+      "website": "http://www.savinamuseum.com/"
+    },
+    {
+      "name": "사이버 농업 과학관 (Cyber Nongeop Science Museum)",
+      "name_en": "Cyber Nongeop Science Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.273357,
+      "longitude": 126.984743,
+      "website": ""
+    },
+    {
+      "name": "사이버 우정박물관 (Cyber Ujeong Museum)",
+      "name_en": "Cyber Ujeong Museum",
+      "city": "Cheonan",
+      "country": "Korea, Republic of",
+      "latitude": 36.816061,
+      "longitude": 127.186084,
+      "website": ""
+    },
+    {
+      "name": "사이버 전통 다도 박물관 (Cyber Jeontong  Dado Museum)",
+      "name_en": "Cyber Jeontong  Dado Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.170425,
+      "longitude": 129.074064,
+      "website": ""
+    },
+    {
+      "name": "산림박물관 (Sallim Museum)",
+      "name_en": "Sallim Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.923523,
+      "longitude": 127.724333,
+      "website": ""
+    },
+    {
+      "name": "산삼비교전시관 (Sansambigyo Exhibition Hall)",
+      "name_en": "Sansambigyo Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.948705,
+      "longitude": 128.578251,
+      "website": ""
+    },
+    {
+      "name": "산악박물관 (Sanak Museum)",
+      "name_en": "Sanak Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.497811,
+      "longitude": 127.035599,
+      "website": ""
+    },
+    {
+      "name": "산청한의학박물관 Sancheonghanuihak Museum",
+      "name_en": "Sancheonghanuihak Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.44082,
+      "longitude": 127.829243,
+      "website": ""
+    },
+    {
+      "name": "삼박골버섯테마박물관 (Sambakgolbeoseos Theme Museum)",
+      "name_en": "Sambakgolbeoseos Theme Museum",
+      "city": "Yesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.616149,
+      "longitude": 126.81384,
+      "website": ""
+    },
+    {
+      "name": "삼성어린이박물관",
+      "name_en": "Samseong Children Museum",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.515014,
+      "longitude": 127.102023,
+      "website": ""
+    },
+    {
+      "name": "삼성출판박물관 (Samseongchulpan Museum)",
+      "name_en": "Samseongchulpan Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.608713,
+      "longitude": 126.956976,
+      "website": ""
+    },
+    {
+      "name": "삼성화재교통박물관 (Samseonghwajaegyotong Museum)",
+      "name_en": "Samseonghwajaegyotong Museum",
+      "city": "Kwangju",
+      "country": "Korea, Republic of",
+      "latitude": 37.30034,
+      "longitude": 127.217984,
+      "website": ""
+    },
+    {
+      "name": "삼척 민물고기전시관 (Samcheok  Minmulgogi Exhibition Hall)",
+      "name_en": "Samcheok  Minmulgogi Exhibition Hall",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.387378,
+      "longitude": 129.196011,
+      "website": ""
+    },
+    {
+      "name": "삼척시립박물관 (Samcheok City Museum)",
+      "name_en": "Samcheok City Museum",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.438646,
+      "longitude": 129.157849,
+      "website": ""
+    },
+    {
+      "name": "삽교호곤충박물관 (Sapgyohogonchung Museum)",
+      "name_en": "Sapgyohogonchung Museum",
+      "city": "Tangjin",
+      "country": "Korea, Republic of",
+      "latitude": 36.889321,
+      "longitude": 126.825429,
+      "website": ""
+    },
+    {
+      "name": "상명대학교박물관 (Sangmyeong University Museum)",
+      "name_en": "Sangmyeong University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.601984,
+      "longitude": 126.954182,
+      "website": ""
+    },
+    {
+      "name": "상주박물관 (Sangju Museum)",
+      "name_en": "Sangju Museum",
+      "city": "Sangju",
+      "country": "Korea, Republic of",
+      "latitude": 36.458698,
+      "longitude": 128.240808,
+      "website": ""
+    },
+    {
+      "name": "상주자전거박물관 (Sangjujajeongeo Museum)",
+      "name_en": "Sangjujajeongeo Museum",
+      "city": "Sangju",
+      "country": "Korea, Republic of",
+      "latitude": 36.412474,
+      "longitude": 128.11781,
+      "website": ""
+    },
+    {
+      "name": "새김해수석꽃판매전시관 (Saegimhaesuseokggochanmae Exhibition Hall)",
+      "name_en": "Saegimhaesuseokggochanmae Exhibition Hall",
+      "city": "Kimhae",
+      "country": "Korea, Republic of",
+      "latitude": 35.226996,
+      "longitude": 128.896721,
+      "website": ""
+    },
+    {
+      "name": "새만금 전시관",
+      "name_en": "Saemangeum Exhibition Center",
+      "city": "Puan",
+      "country": "Korea, Republic of",
+      "latitude": 35.697059,
+      "longitude": 126.558922,
+      "website": ""
+    },
+    {
+      "name": "생명과학박물관 (Saengmyeong Science Museum)",
+      "name_en": "Saengmyeong Science Museum",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.523901,
+      "longitude": 126.871863,
+      "website": ""
+    },
+    {
+      "name": "생명과학체험박물관 (Saengmyeonggwahakcheheom Museum)",
+      "name_en": "Saengmyeonggwahakcheheom Museum",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.523919,
+      "longitude": 126.871874,
+      "website": ""
+    },
+    {
+      "name": "생태체험관 (Saengtaecheheomgwan)",
+      "name_en": "Saengtaecheheomgwan",
+      "city": "T’aebaek",
+      "country": "Korea, Republic of",
+      "latitude": 36.96623,
+      "longitude": 129.380021,
+      "website": ""
+    },
+    {
+      "name": "서귀포감귤박물관 (Seogwipogamgyul Museum)",
+      "name_en": "Seogwipogamgyul Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.275916,
+      "longitude": 126.624677,
+      "website": ""
+    },
+    {
+      "name": "서대문 자연사박물관 (Seodaemun Natural History Museum)",
+      "name_en": "Seodaemun Natural History Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.576676,
+      "longitude": 126.937724,
+      "website": ""
+    },
+    {
+      "name": "서대문형무소역사관 (Seodaemunhyeongmuso History Museum)",
+      "name_en": "Seodaemun Prison History Hal",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.574596,
+      "longitude": 126.955855,
+      "website": ""
+    },
+    {
+      "name": "서미갤러리 (Seomi Gallery)",
+      "name_en": "Seomi Gallery",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.57959,
+      "longitude": 126.983835,
+      "website": ""
+    },
+    {
+      "name": "서복전시관 (Seobok Exhibition Hall)",
+      "name_en": "Seobok Exhibition Hall",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.244766,
+      "longitude": 126.570672,
+      "website": ""
+    },
+    {
+      "name": "서울대학교 의학박물관 (Seoul University Uihak Museum)",
+      "name_en": "Seoul University Uihak Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.579474,
+      "longitude": 126.998927,
+      "website": ""
+    },
+    {
+      "name": "서울미술관",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.59468,
+      "longitude": 126.963177,
+      "website": ""
+    },
+    {
+      "name": "서울새로운탄생종합전전시관 (Seoul Saerountansaengjonghapjeon Exhibition Hall)",
+      "name_en": "Seoul Saerountansaengjonghapjeon Exhibition Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.570881,
+      "longitude": 126.968995,
+      "website": ""
+    },
+    {
+      "name": "서울시립대학교박물관 (Seoul Sirip University Museum)",
+      "name_en": "Seoul Sirip University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.583154,
+      "longitude": 127.056914,
+      "website": ""
+    },
+    {
+      "name": "서울시립북서울미술관",
+      "name_en": "",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.640926,
+      "longitude": 127.066749,
+      "website": ""
+    },
+    {
+      "name": "서울어린이박물관",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.524073,
+      "longitude": 126.978938,
+      "website": ""
+    },
+    {
+      "name": "서울역사박물관 (Seoul History Museum)",
+      "name_en": "Seoul History Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.570487,
+      "longitude": 126.97056,
+      "website": ""
+    },
+    {
+      "name": "서울올림픽기념관 (Seoul Olympic Memorial Hall)",
+      "name_en": "Seoul Olympic Memorial Hall",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.520581,
+      "longitude": 127.115311,
+      "website": ""
+    },
+    {
+      "name": "서울특별시과학전시관 (Seoul Gwahak Exhibition Hall)",
+      "name_en": "Seoul Gwahak Exhibition Hall",
+      "city": "Anyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.469334,
+      "longitude": 126.958993,
+      "website": ""
+    },
+    {
+      "name": "서천 해양박물관 (Seocheon  Haeyang Museum)",
+      "name_en": "Seocheon  Haeyang Museum",
+      "city": "Taisen-ri",
+      "country": "Korea, Republic of",
+      "latitude": 36.14488,
+      "longitude": 126.502327,
+      "website": ""
+    },
+    {
+      "name": "석당수석전시관 (Seokdangsuseok Exhibition Hall)",
+      "name_en": "",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.131591,
+      "longitude": 126.903138,
+      "website": ""
+    },
+    {
+      "name": "석부작 박물관",
+      "name_en": "",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.250437,
+      "longitude": 126.536487,
+      "website": ""
+    },
+    {
+      "name": "석장리박물관 (Seokjangni Museum)",
+      "name_en": "Seokjangni Museum",
+      "city": "Gongju",
+      "country": "Korea, Republic of",
+      "latitude": 36.447625,
+      "longitude": 127.189549,
+      "website": ""
+    },
+    {
+      "name": "선비박물관 (Seonbi Museum)",
+      "name_en": "Seonbi Museum",
+      "city": "Daejeon",
+      "country": "Korea, Republic of",
+      "latitude": 36.35324,
+      "longitude": 127.380536,
+      "website": ""
+    },
+    {
+      "name": "선인장전시관 (Seoninjang Exhibition Hall)",
+      "name_en": "Seoninjang Exhibition Hall",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.658035,
+      "longitude": 126.763171,
+      "website": ""
+    },
+    {
+      "name": "성균관대학교박물관 (Seonggyungwan University Museum)",
+      "name_en": "Seonggyungwan University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.584468,
+      "longitude": 126.996969,
+      "website": ""
+    },
+    {
+      "name": "성산포조가비박물관 (Seongsanpojogabi Museum)",
+      "name_en": "Seongsanpojogabi Museum",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.477741,
+      "longitude": 126.908219,
+      "website": ""
+    },
+    {
+      "name": "성서박물관 (Seongseo Museum)",
+      "name_en": "Seongseo Museum",
+      "city": "Incheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.459531,
+      "longitude": 126.679084,
+      "website": ""
+    },
+    {
+      "name": "성신여자대학교 박물관 (Seongsin Womans University Museum)",
+      "name_en": "Seongsin Womans University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.592312,
+      "longitude": 127.021167,
+      "website": ""
+    },
+    {
+      "name": "성신여자대학교박물관 (Seongsin Womans University Museum)",
+      "name_en": "Seongsin Womans University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.592339,
+      "longitude": 127.021166,
+      "website": ""
+    },
+    {
+      "name": "성호기념관 (Seongho Memorial Hall)",
+      "name_en": "Seongho Memorial Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.31731,
+      "longitude": 126.857907,
+      "website": ""
+    },
+    {
+      "name": "성화불교전시관 (Seonghwa Buddhism Exhibition Hall)",
+      "name_en": "Seonghwa Buddhism Exhibition Hall",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.60039,
+      "longitude": 127.106122,
+      "website": ""
+    },
+    {
+      "name": "세계 장신구 박물관 (Segye  Jangsingu Museum)",
+      "name_en": "Segye  Jangsingu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.580966,
+      "longitude": 126.981833,
+      "website": ""
+    },
+    {
+      "name": "세계민속악기박물관 (Segyeminsokakgi Museum)",
+      "name_en": "Segyeminsokakgi Museum",
+      "city": "Tanhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 37.789557,
+      "longitude": 126.699386,
+      "website": "http://www.e-musictour.com/"
+    },
+    {
+      "name": "세계성문화박물관",
+      "name_en": "",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.245724,
+      "longitude": 126.508178,
+      "website": ""
+    },
+    {
+      "name": "세계성문화박물관 (Segyeseongmunhwa Museum)",
+      "name_en": "Segyeseongmunhwa Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.247195,
+      "longitude": 126.507892,
+      "website": ""
+    },
+    {
+      "name": "세계자동차제주박물관 (Segyejadongchajeju Museum)",
+      "name_en": "Segyejadongchajeju Museum",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.30282,
+      "longitude": 126.370001,
+      "website": ""
+    },
+    {
+      "name": "세계자동차제주박물관 (World Automobile Jeju Museum)",
+      "name_en": "World Automobile Jeju Museum",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.282931,
+      "longitude": 126.349604,
+      "website": ""
+    },
+    {
+      "name": "세계파충류체험박물관 (Segyepachungnyucheheom Museum)",
+      "name_en": "Segyepachungnyucheheom Museum",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.581454,
+      "longitude": 129.45475,
+      "website": ""
+    },
+    {
+      "name": "세명불교전시관 (Semyeong Buddhism Exhibition Hall)",
+      "name_en": "Semyeong Buddhism Exhibition Hall",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.541437,
+      "longitude": 129.309894,
+      "website": ""
+    },
+    {
+      "name": "세종대왕기념관 (Sejongdaewang Memorial Hall)",
+      "name_en": "Sejongdaewang Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.590769,
+      "longitude": 127.043617,
+      "website": ""
+    },
+    {
+      "name": "세종대학교박물관 (Sejong University Museum)",
+      "name_en": "Sejong University Museum",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.55142,
+      "longitude": 127.075313,
+      "website": ""
+    },
+    {
+      "name": "셀라뮤즈자기박물관 (Sellamyujeujagi Museum)",
+      "name_en": "Sellamyujeujagi Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.606786,
+      "longitude": 126.96329,
+      "website": ""
+    },
+    {
+      "name": "소금강돌박물관 (Sogeumgangdol Museum)",
+      "name_en": "Sogeumgangdol Museum",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.847825,
+      "longitude": 128.726963,
+      "website": ""
+    },
+    {
+      "name": "소양강댐 물문화관",
+      "name_en": "",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.949134,
+      "longitude": 127.815188,
+      "website": ""
+    },
+    {
+      "name": "소품박물관 (Sopum Museum)",
+      "name_en": "Sopum Museum",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.501519,
+      "longitude": 127.058513,
+      "website": ""
+    },
+    {
+      "name": "속초불교전시관",
+      "name_en": "Sokcho Buddhism Exhibition Hall",
+      "city": "Sogcho",
+      "country": "Korea, Republic of",
+      "latitude": 38.20635,
+      "longitude": 128.588316,
+      "website": ""
+    },
+    {
+      "name": "손양원목사 순교기념관 (Sonyangwonmoksa  Sungyo Memorial Hall)",
+      "name_en": "Sonyangwonmoksa  Sungyo Memorial Hall",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.845725,
+      "longitude": 127.636228,
+      "website": ""
+    },
+    {
+      "name": "송광매기념관 (Songgwangmae Memorial Hall)",
+      "name_en": "Songgwangmae Memorial Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.997619,
+      "longitude": 128.614001,
+      "website": ""
+    },
+    {
+      "name": "송종국월드컵기념관",
+      "name_en": "Songjongguk Worldcup Memorial Hall",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 36.982593,
+      "longitude": 128.371261,
+      "website": ""
+    },
+    {
+      "name": "수도국산 달동네박물관 (Sudoguksan  Daldongne Museum)",
+      "name_en": "Sudoguksan  Daldongne Museum",
+      "city": "Incheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.477523,
+      "longitude": 126.639182,
+      "website": ""
+    },
+    {
+      "name": "수도박물관",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.538475,
+      "longitude": 127.042797,
+      "website": ""
+    },
+    {
+      "name": "수산과학관 (Susan Science Museum)",
+      "name_en": "Susan Science Museum",
+      "city": "Kijang",
+      "country": "Korea, Republic of",
+      "latitude": 35.191308,
+      "longitude": 129.222873,
+      "website": "http://www.fsm.go.kr/"
+    },
+    {
+      "name": "수양계유물전시관 (Suyanggye Museum)",
+      "name_en": "Suyanggye Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 36.959491,
+      "longitude": 128.331759,
+      "website": ""
+    },
+    {
+      "name": "수원대학교박물관 (Suwon University Museum)",
+      "name_en": "Suwon University Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.216997,
+      "longitude": 126.957654,
+      "website": ""
+    },
+    {
+      "name": "수원시박물관 (Suwonsi Museum)",
+      "name_en": "Suwonsi Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.297391,
+      "longitude": 127.04882,
+      "website": ""
+    },
+    {
+      "name": "수원화성 박물관 (Suwonhwaseong Museum)",
+      "name_en": "Suwonhwaseong Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.282493,
+      "longitude": 127.018864,
+      "website": ""
+    },
+    {
+      "name": "수원효행기념관 (Suwonhyohaeng Memorial Hall)",
+      "name_en": "Suwonhyohaeng Memorial Hall",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.324335,
+      "longitude": 126.98776,
+      "website": ""
+    },
+    {
+      "name": "수컷돌거북이 수석박물관 (Sukeosdolgeobuki  Suseok Museum)",
+      "name_en": "Sukeosdolgeobuki  Suseok Museum",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.315689,
+      "longitude": 126.267482,
+      "website": ""
+    },
+    {
+      "name": "숭실대학교 한국기독교박물관 (Sungsil University Korea Gidokgyo Museum)",
+      "name_en": "Sungsil University Korea Gidokgyo Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.506978,
+      "longitude": 126.951141,
+      "website": ""
+    },
+    {
+      "name": "쉬어가는박물관 (Swieoganeun Museum)",
+      "name_en": "Swieoganeun Museum",
+      "city": "Kwangyang",
+      "country": "Korea, Republic of",
+      "latitude": 35.019634,
+      "longitude": 127.62882,
+      "website": ""
+    },
+    {
+      "name": "스테이트월셔 전시관 (Seuteiteuwolsyeo Exhibition Hall)",
+      "name_en": "Seuteiteuwolsyeo Exhibition Hall",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.488305,
+      "longitude": 127.047923,
+      "website": ""
+    },
+    {
+      "name": "신광신발전시관 (Singwangsinbal Exhibition Hall)",
+      "name_en": "Singwangsinbal Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.160808,
+      "longitude": 129.061555,
+      "website": ""
+    },
+    {
+      "name": "신라대학교박물관 (Silla University Museum)",
+      "name_en": "Silla University Museum",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.167901,
+      "longitude": 128.996118,
+      "website": ""
+    },
+    {
+      "name": "신라역사과학관 (Sillayeoksa Science Museum)",
+      "name_en": "Sillayeoksa Science Museum",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.806896,
+      "longitude": 129.311345,
+      "website": ""
+    },
+    {
+      "name": "신문박물관 (Sinmun Museum)",
+      "name_en": "Sinmun Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.569559,
+      "longitude": 126.977594,
+      "website": ""
+    },
+    {
+      "name": "신세계상업사박물관 (Sinsegyesangeopsa Museum)",
+      "name_en": "Sinsegyesangeopsa Museum",
+      "city": "Osan",
+      "country": "Korea, Republic of",
+      "latitude": 37.150091,
+      "longitude": 127.180295,
+      "website": ""
+    },
+    {
+      "name": "신아기념관 (Sina Memorial Hall)",
+      "name_en": "Sina Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.566204,
+      "longitude": 126.972059,
+      "website": ""
+    },
+    {
+      "name": "신재생에너지전시관 (New & Renewable Energy Center)",
+      "name_en": "New & Renewable Energy Center",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.685571,
+      "longitude": 128.758335,
+      "website": ""
+    },
+    {
+      "name": "실크로드박물관 (Silkeurodeu Museum)",
+      "name_en": "Silkeurodeu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.583735,
+      "longitude": 126.982418,
+      "website": ""
+    },
+    {
+      "name": "쌍계제다전시관 Ssanggyejeda Exhibition Hall",
+      "name_en": "Ssanggyejeda Exhibition Hall",
+      "city": "Kurye",
+      "country": "Korea, Republic of",
+      "latitude": 35.234225,
+      "longitude": 127.640364,
+      "website": ""
+    },
+    {
+      "name": "아름다운 차 박물관 (Areumdaun Cha Museum)",
+      "name_en": "Areumdaun Cha Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.572387,
+      "longitude": 126.985809,
+      "website": ""
+    },
+    {
+      "name": "아리랑박물관 (Arirang Museum)",
+      "name_en": "Arirang Museum",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.471299,
+      "longitude": 128.723238,
+      "website": ""
+    },
+    {
+      "name": "아이스뮤지엄",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.470647,
+      "longitude": 126.488338,
+      "website": ""
+    },
+    {
+      "name": "아프리카민속미술박물관 (Apeurikaminsongmisul Museum)",
+      "name_en": "Apeurikaminsongmisul Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.581597,
+      "longitude": 127.002748,
+      "website": ""
+    },
+    {
+      "name": "아프리카예술박물관 (Apeurika Art Museum)",
+      "name_en": "Apeurika Art Museum",
+      "city": "Jinjeop",
+      "country": "Korea, Republic of",
+      "latitude": 37.776443,
+      "longitude": 127.138632,
+      "website": ""
+    },
+    {
+      "name": "아프리카예술박물관 (Apeurika Art Museum)",
+      "name_en": "Apeurika Art Museum",
+      "city": "Jinjeop",
+      "country": "Korea, Republic of",
+      "latitude": 37.775314,
+      "longitude": 127.139542,
+      "website": ""
+    },
+    {
+      "name": "안견기념관 (Angyeon Memorial Hall)",
+      "name_en": "Angyeon Memorial Hall",
+      "city": "Suisan",
+      "country": "Korea, Republic of",
+      "latitude": 36.863953,
+      "longitude": 126.438424,
+      "website": ""
+    },
+    {
+      "name": "안동공예문화전시관 (Andonggongyemunhwa Exhibition Hall)",
+      "name_en": "Andonggongyemunhwa Exhibition Hall",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.580373,
+      "longitude": 128.761325,
+      "website": ""
+    },
+    {
+      "name": "안동대학교박물관 (Andong University Museum)",
+      "name_en": "Andong University Museum",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.541633,
+      "longitude": 128.794833,
+      "website": ""
+    },
+    {
+      "name": "안동독립운동기념관 (Andongdongnipundong Memorial Hall)",
+      "name_en": "Andongdongnipundong Memorial Hall",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.533055,
+      "longitude": 128.858092,
+      "website": ""
+    },
+    {
+      "name": "안동민속박물관 (Andong Folk Museum)",
+      "name_en": "Andong Folk Museum",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.579388,
+      "longitude": 128.766547,
+      "website": ""
+    },
+    {
+      "name": "안동전통문화콘텐츠박물관 (Andongjeontongmunhwakontencheu Museum)",
+      "name_en": "Andongjeontongmunhwakontencheu Museum",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.566005,
+      "longitude": 128.734234,
+      "website": ""
+    },
+    {
+      "name": "안산 습지 공원 기념관 (Ansan  Seupji  Gongwon Memorial Hall)",
+      "name_en": "Ansan  Seupji  Gongwon Memorial Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.27412,
+      "longitude": 126.839369,
+      "website": ""
+    },
+    {
+      "name": "안산1대학 강석봉기념관 (Ansan 1 University Gangseokbong Memorial Hall)",
+      "name_en": "Ansan 1 University Gangseokbong Memorial Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.309275,
+      "longitude": 126.875627,
+      "website": ""
+    },
+    {
+      "name": "안산올림픽기념관 (Ansan Olympic Memorial Hall)",
+      "name_en": "Ansan Olympic Memorial Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.325934,
+      "longitude": 126.827384,
+      "website": ""
+    },
+    {
+      "name": "안성맞춤박물관 (Anseongmajchum Museum)",
+      "name_en": "Anseongmajchum Museum",
+      "city": "Anseong",
+      "country": "Korea, Republic of",
+      "latitude": 37.011578,
+      "longitude": 127.228106,
+      "website": ""
+    },
+    {
+      "name": "안성맞춤박물관 (Anseongmajchum Museum)",
+      "name_en": "Anseongmajchum Museum",
+      "city": "Anseong",
+      "country": "Korea, Republic of",
+      "latitude": 37.01126,
+      "longitude": 127.229087,
+      "website": ""
+    },
+    {
+      "name": "안중근의사기념관 (Anjunggeunuisa Memorial Hall)",
+      "name_en": "Anjunggeunuisa Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.553895,
+      "longitude": 126.980502,
+      "website": ""
+    },
+    {
+      "name": "암사동선사주거지 원시생활전시관 (Amsadongseonsajugeoji  Wonsisaenghwal Exhibition Hall)",
+      "name_en": "Amsadongseonsajugeoji  Wonsisaenghwal Exhibition Hall",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.560254,
+      "longitude": 127.13003,
+      "website": ""
+    },
+    {
+      "name": "애니메이션박물관 (Aenimeisyeon Museum)",
+      "name_en": "Aenimeisyeon Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.892743,
+      "longitude": 127.692313,
+      "website": ""
+    },
+    {
+      "name": "애양원역사관 (Aeyangwon History Museum)",
+      "name_en": "Aeyangwon History Museum",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.84046,
+      "longitude": 127.629841,
+      "website": ""
+    },
+    {
+      "name": "약령시 한의약박물관 (Yangnyeongsi  Hanuiyak Museum)",
+      "name_en": "Yangnyeongsi  Hanuiyak Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.577803,
+      "longitude": 127.037593,
+      "website": ""
+    },
+    {
+      "name": "양구선사박물관 (Yangguseonsa Museum)",
+      "name_en": "Yangguseonsa Museum",
+      "city": "Yanggu",
+      "country": "Korea, Republic of",
+      "latitude": 38.124021,
+      "longitude": 127.990467,
+      "website": ""
+    },
+    {
+      "name": "양구전쟁기념관 (Yanggu War Memorial Hall)",
+      "name_en": "Yanggu War Memorial Hall",
+      "city": "Yanggu",
+      "country": "Korea, Republic of",
+      "latitude": 38.109937,
+      "longitude": 127.990275,
+      "website": ""
+    },
+    {
+      "name": "어촌민속전시관 (Eochonminsok Exhibition Hall)",
+      "name_en": "Eochonminsok Exhibition Hall",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.306978,
+      "longitude": 126.688342,
+      "website": ""
+    },
+    {
+      "name": "어촌민속전시관 (Eochonminsok Exhibition Hall)",
+      "name_en": "Eochonminsok Exhibition Hall",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.267669,
+      "longitude": 129.3275,
+      "website": ""
+    },
+    {
+      "name": "엄홍길박물관 (Eomhonggil Museum)",
+      "name_en": "Eomhonggil Museum",
+      "city": "Uijeongbu-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.712225,
+      "longitude": 127.046556,
+      "website": ""
+    },
+    {
+      "name": "에덴바이오벽지 분당주택전시관 (Edenbaiobyeokji  Bundangjutaek Exhibition Hall)",
+      "name_en": "Edenbaiobyeokji  Bundangjutaek Exhibition Hall",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.358532,
+      "longitude": 127.112095,
+      "website": ""
+    },
+    {
+      "name": "에로스박물관 (Eroseu Museum)",
+      "name_en": "Eroseu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.582829,
+      "longitude": 126.980225,
+      "website": ""
+    },
+    {
+      "name": "에스디건설주택전시관 (Eseudigeonseoljutaek Exhibition Hall)",
+      "name_en": "Eseudigeonseoljutaek Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.870071,
+      "longitude": 128.603312,
+      "website": ""
+    },
+    {
+      "name": "엘비스프레슬리기념관 (Elbiseupeureseulli Memorial Hall)",
+      "name_en": "Elbiseupeureseulli Memorial Hall",
+      "city": "Gwangtan",
+      "country": "Korea, Republic of",
+      "latitude": 37.776629,
+      "longitude": 126.882479,
+      "website": ""
+    },
+    {
+      "name": "여성생활사박물관 (Yeoseongsaenghwalsa Museum)",
+      "name_en": "Yeoseongsaenghwalsa Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.242889,
+      "longitude": 127.708162,
+      "website": ""
+    },
+    {
+      "name": "여성생활사박물관 (Yeoseongsaenghwalsa Museum)",
+      "name_en": "Yeoseongsaenghwalsa Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.242943,
+      "longitude": 127.70823,
+      "website": ""
+    },
+    {
+      "name": "역사관 (History Museum)",
+      "name_en": "History Museum",
+      "city": "Ganghwa-gun",
+      "country": "Korea, Republic of",
+      "latitude": 37.738621,
+      "longitude": 126.512708,
+      "website": ""
+    },
+    {
+      "name": "연기향토박물관 (Yeongi Local Museum)",
+      "name_en": "Yeongi Local Museum",
+      "city": "Gongju",
+      "country": "Korea, Republic of",
+      "latitude": 36.595672,
+      "longitude": 127.207481,
+      "website": ""
+    },
+    {
+      "name": "연화불교전시관 (Yeonhwa Buddhism Exhibition Hall)",
+      "name_en": "Yeonhwa Buddhism Exhibition Hall",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.83757,
+      "longitude": 129.210113,
+      "website": ""
+    },
+    {
+      "name": "영광 원자력발전소전시관 (Yeonggwang  Wonjaryeokbaljeonso Exhibition Hall)",
+      "name_en": "Yeonggwang  Wonjaryeokbaljeonso Exhibition Hall",
+      "city": "Reiko",
+      "country": "Korea, Republic of",
+      "latitude": 35.407114,
+      "longitude": 126.406494,
+      "website": ""
+    },
+    {
+      "name": "영동군 향토민속자료전시관 (Yeongdonggun Local Minsokjaryo Exhibition Hall)",
+      "name_en": "Yeongdonggun Local Minsokjaryo Exhibition Hall",
+      "city": "Yŏng-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.175728,
+      "longitude": 127.771375,
+      "website": ""
+    },
+    {
+      "name": "영월곤충박물관 (Yeongwolgonchung Museum)",
+      "name_en": "Yeongwolgonchung Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.211205,
+      "longitude": 128.422802,
+      "website": ""
+    },
+    {
+      "name": "영월책박물관 (Yeongwolchaek Museum)",
+      "name_en": "Yeongwolchaek Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.243921,
+      "longitude": 128.356623,
+      "website": ""
+    },
+    {
+      "name": "영일민속박물관 (Yeongil Folk Museum)",
+      "name_en": "Yeongil Folk Museum",
+      "city": "Heung-hai",
+      "country": "Korea, Republic of",
+      "latitude": 36.110545,
+      "longitude": 129.34737,
+      "website": ""
+    },
+    {
+      "name": "영종대교기념관 (Yeongjongdaegyo Memorial Hall)",
+      "name_en": "Yeongjongdaegyo Memorial Hall",
+      "city": "Tongjin",
+      "country": "Korea, Republic of",
+      "latitude": 37.553947,
+      "longitude": 126.607105,
+      "website": ""
+    },
+    {
+      "name": "영집궁시박물관 (Yeongjipgungsi Museum)",
+      "name_en": "Yeongjipgungsi Museum",
+      "city": "Tanhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 37.784956,
+      "longitude": 126.71124,
+      "website": ""
+    },
+    {
+      "name": "예뿌리민속박물관 (Yebburi Folk Museum)",
+      "name_en": "Yebburi Folk Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.582958,
+      "longitude": 127.597263,
+      "website": ""
+    },
+    {
+      "name": "오남공룡체험전시관 (Onamgongnyongcheheom Exhibition Hall)",
+      "name_en": "Onamgongnyongcheheom Exhibition Hall",
+      "city": "Onam",
+      "country": "Korea, Republic of",
+      "latitude": 37.695761,
+      "longitude": 127.251655,
+      "website": ""
+    },
+    {
+      "name": "오리박물관 (Ori Museum)",
+      "name_en": "Ori Museum",
+      "city": "Ungsang",
+      "country": "Korea, Republic of",
+      "latitude": 35.468689,
+      "longitude": 129.07726,
+      "website": ""
+    },
+    {
+      "name": "오산리선사유적박물관",
+      "name_en": "Osalliseonsayujeok Museum",
+      "city": "Sogcho",
+      "country": "Korea, Republic of",
+      "latitude": 38.085964,
+      "longitude": 128.660478,
+      "website": ""
+    },
+    {
+      "name": "오설록 차박물관 (Oseollok Cha Museum)",
+      "name_en": "Oseollok Cha Museum",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.305916,
+      "longitude": 126.289385,
+      "website": ""
+    },
+    {
+      "name": "옥현유적전시관 (Okhyeonyujeok Exhibition Hall)",
+      "name_en": "Okhyeonyujeok Exhibition Hall",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.5413,
+      "longitude": 129.262755,
+      "website": ""
+    },
+    {
+      "name": "온양민속박물관 (Onyang Folk Museum)",
+      "name_en": "Onyang Folk Museum",
+      "city": "Asan",
+      "country": "Korea, Republic of",
+      "latitude": 36.792142,
+      "longitude": 127.006651,
+      "website": ""
+    },
+    {
+      "name": "올림픽기념관 (Olympic Memorial Hall)",
+      "name_en": "Olympic Memorial Hall",
+      "city": "Gumi",
+      "country": "Korea, Republic of",
+      "latitude": 36.123343,
+      "longitude": 128.329373,
+      "website": ""
+    },
+    {
+      "name": "올림픽기념관 (Olympic Memorial Hall)",
+      "name_en": "Olympic Memorial Hall",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.260534,
+      "longitude": 126.499171,
+      "website": ""
+    },
+    {
+      "name": "올림픽전시관",
+      "name_en": "",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.516716,
+      "longitude": 127.07462,
+      "website": ""
+    },
+    {
+      "name": "옹기민속박물관 (Onggi Folk Museum)",
+      "name_en": "Onggi Folk Museum",
+      "city": "Uijeongbu-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.654535,
+      "longitude": 127.014639,
+      "website": ""
+    },
+    {
+      "name": "완도군 어촌민속전시관 (Wandogun  Eochonminsok Exhibition Hall)",
+      "name_en": "Wandogun  Eochonminsok Exhibition Hall",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.311412,
+      "longitude": 126.729289,
+      "website": ""
+    },
+    {
+      "name": "왕궁리유적전시관 (Wanggungniyujeok Exhibition Hall)",
+      "name_en": "Wanggungniyujeok Exhibition Hall",
+      "city": "Iksan",
+      "country": "Korea, Republic of",
+      "latitude": 35.971566,
+      "longitude": 127.056295,
+      "website": ""
+    },
+    {
+      "name": "용두산미술전시관 (Yongdusanmisul Exhibition Hall)",
+      "name_en": "Yongdusanmisul Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.100955,
+      "longitude": 129.03252,
+      "website": ""
+    },
+    {
+      "name": "용은불교전시관 (Yongeun Buddhism Exhibition Hall)",
+      "name_en": "Yongeun Buddhism Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.887697,
+      "longitude": 128.563833,
+      "website": ""
+    },
+    {
+      "name": "우당기념관 (Udang Memorial Hall)",
+      "name_en": "Udang Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.58391,
+      "longitude": 126.967774,
+      "website": ""
+    },
+    {
+      "name": "우당기념관 (Udang Memorial Hall)",
+      "name_en": "Udang Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.584039,
+      "longitude": 126.968111,
+      "website": ""
+    },
+    {
+      "name": "우리삶옥당박물관 (Urisalmokdang Museum)",
+      "name_en": "Urisalmokdang Museum",
+      "city": "Reiko",
+      "country": "Korea, Republic of",
+      "latitude": 35.360417,
+      "longitude": 126.402647,
+      "website": ""
+    },
+    {
+      "name": "우봉미술전시관 (Ubongmisul Exhibition Hall)",
+      "name_en": "Ubongmisul Exhibition Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.855661,
+      "longitude": 128.586349,
+      "website": ""
+    },
+    {
+      "name": "우장춘기념관 (Ujangchun Memorial Hall)",
+      "name_en": "Ujangchun Memorial Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.213437,
+      "longitude": 129.072047,
+      "website": ""
+    },
+    {
+      "name": "우정박물관 (Ujeong Museum)",
+      "name_en": "Ujeong Museum",
+      "city": "Cheonan",
+      "country": "Korea, Republic of",
+      "latitude": 36.814278,
+      "longitude": 127.187549,
+      "website": ""
+    },
+    {
+      "name": "우정불교전시관 (Ujeong Buddhism Exhibition Hall)",
+      "name_en": "Ujeong Buddhism Exhibition Hall",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.554518,
+      "longitude": 129.312214,
+      "website": ""
+    },
+    {
+      "name": "운강이강년선생기념관 (Ungangigangnyeonseonsaeng Memorial Hall)",
+      "name_en": "Ungangigangnyeonseonsaeng Memorial Hall",
+      "city": "Mungyeong",
+      "country": "Korea, Republic of",
+      "latitude": 36.67198,
+      "longitude": 127.995289,
+      "website": ""
+    },
+    {
+      "name": "운현궁 유물전시관",
+      "name_en": "Relic museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.57639,
+      "longitude": 126.986747,
+      "website": ""
+    },
+    {
+      "name": "울산암각화박물관 (Ulsanamgakhwa Museum)",
+      "name_en": "Ulsanamgakhwa Museum",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.60806,
+      "longitude": 129.1707,
+      "website": ""
+    },
+    {
+      "name": "울진 민물고기전시관 (Uljin  Minmulgogi Exhibition Hall)",
+      "name_en": "Uljin  Minmulgogi Exhibition Hall",
+      "city": "T’aebaek",
+      "country": "Korea, Republic of",
+      "latitude": 36.945609,
+      "longitude": 129.400549,
+      "website": ""
+    },
+    {
+      "name": "울트라건축박물관 (Ulteurageonchuk Museum)",
+      "name_en": "Ulteurageonchuk Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.563714,
+      "longitude": 126.964531,
+      "website": ""
+    },
+    {
+      "name": "움집터전시관 (Umjipteo Exhibition Hall)",
+      "name_en": "Umjipteo Exhibition Hall",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.521337,
+      "longitude": 127.115988,
+      "website": ""
+    },
+    {
+      "name": "원강우주지구박물관",
+      "name_en": "Wongangujujigu Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.356008,
+      "longitude": 127.05157,
+      "website": ""
+    },
+    {
+      "name": "원불교역사박물관 (Won Buddhism History Museum)",
+      "name_en": "Won Buddhism History Museum",
+      "city": "Iksan",
+      "country": "Korea, Republic of",
+      "latitude": 35.972363,
+      "longitude": 126.950927,
+      "website": ""
+    },
+    {
+      "name": "원자력전시관 (Wonjaryeok Exhibition Hall)",
+      "name_en": "Wonjaryeok Exhibition Hall",
+      "city": "T’aebaek",
+      "country": "Korea, Republic of",
+      "latitude": 37.097562,
+      "longitude": 129.372753,
+      "website": ""
+    },
+    {
+      "name": "원주시립박물관 (Wonju City Museum)",
+      "name_en": "Wonju City Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.342861,
+      "longitude": 127.96651,
+      "website": ""
+    },
+    {
+      "name": "원주시립박물관 (Wonju City Museum)",
+      "name_en": "Wonju City Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.34998,
+      "longitude": 127.963651,
+      "website": ""
+    },
+    {
+      "name": "월드컵기념관 (Worldcup Memorial Hall)",
+      "name_en": "Worldcup Memorial Hall",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.289366,
+      "longitude": 127.032645,
+      "website": ""
+    },
+    {
+      "name": "월정사성보박물관 (Woljeongsaseongbo Museum)",
+      "name_en": "Woljeongsaseongbo Museum",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.7089,
+      "longitude": 128.577206,
+      "website": ""
+    },
+    {
+      "name": "유교문화박물관 (Yugyomunhwa Museum)",
+      "name_en": "Yugyomunhwa Museum",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.701969,
+      "longitude": 128.811269,
+      "website": ""
+    },
+    {
+      "name": "유교문화전시관 (Yugyomunhwa Exhibition Hall)",
+      "name_en": "Yugyomunhwa Exhibition Hall",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.555071,
+      "longitude": 128.531196,
+      "website": ""
+    },
+    {
+      "name": "유럽자기박물관 (Yureopjagi Museum)",
+      "name_en": "Yureopjagi Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.503263,
+      "longitude": 126.797715,
+      "website": ""
+    },
+    {
+      "name": "유리의 성 (Glass Castle)",
+      "name_en": "",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.314556,
+      "longitude": 126.273362,
+      "website": ""
+    },
+    {
+      "name": "유배박물관",
+      "name_en": "",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.832045,
+      "longitude": 127.899238,
+      "website": ""
+    },
+    {
+      "name": "육군박물관 (Yukgun Museum)",
+      "name_en": "Yukgun Museum",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.62284,
+      "longitude": 127.100555,
+      "website": ""
+    },
+    {
+      "name": "음성군유물전시관 (Eumseonggun Museum)",
+      "name_en": "Eumseonggun Museum",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.936441,
+      "longitude": 127.690389,
+      "website": ""
+    },
+    {
+      "name": "의령군박물관 (Uiryeonggun Museum)",
+      "name_en": "Uiryeonggun Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.319751,
+      "longitude": 128.269966,
+      "website": ""
+    },
+    {
+      "name": "의정부주공주택전시관 (Uijeongbujugongjutaek Exhibition Hall)",
+      "name_en": "Uijeongbujugongjutaek Exhibition Hall",
+      "city": "Uijeongbu-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.71734,
+      "longitude": 127.048453,
+      "website": ""
+    },
+    {
+      "name": "의학박물관 (Uihak Museum)",
+      "name_en": "Uihak Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.5784,
+      "longitude": 126.999512,
+      "website": ""
+    },
+    {
+      "name": "이랜드뮤지엄",
+      "name_en": "",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.435967,
+      "longitude": 126.27439,
+      "website": ""
+    },
+    {
+      "name": "이승복기념관 (Iseungbok Memorial Hall)",
+      "name_en": "Iseungbok Memorial Hall",
+      "city": "Seoseok",
+      "country": "Korea, Republic of",
+      "latitude": 37.672575,
+      "longitude": 128.463167,
+      "website": ""
+    },
+    {
+      "name": "이화여자대학교 100주년기념박물관",
+      "name_en": "Ewha Womans University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.560353,
+      "longitude": 126.944853,
+      "website": ""
+    },
+    {
+      "name": "이화여자대학교 자연사박물관",
+      "name_en": "EWha Womans Univ. Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.560561,
+      "longitude": 126.948278,
+      "website": ""
+    },
+    {
+      "name": "이효석기념관 (Ihyoseok Memorial Hall)",
+      "name_en": "Ihyoseok Memorial Hall",
+      "city": "Seoseok",
+      "country": "Korea, Republic of",
+      "latitude": 37.607974,
+      "longitude": 128.382035,
+      "website": ""
+    },
+    {
+      "name": "익산보석박물관 (Iksan Boseok Museum)",
+      "name_en": "Iksanboseok Museum",
+      "city": "Yŏnmu",
+      "country": "Korea, Republic of",
+      "latitude": 35.990625,
+      "longitude": 127.102412,
+      "website": ""
+    },
+    {
+      "name": "인덕전시관 (Indeok Exhibition Hall)",
+      "name_en": "Indeok Exhibition Hall",
+      "city": "Changwon",
+      "country": "Korea, Republic of",
+      "latitude": 35.274568,
+      "longitude": 128.675013,
+      "website": ""
+    },
+    {
+      "name": "인문학박물관 (Inmunhak Museum)",
+      "name_en": "Inmunhak Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.583731,
+      "longitude": 126.986405,
+      "website": ""
+    },
+    {
+      "name": "인사동한국미술관 (Insadong Korea Art Museum)",
+      "name_en": "Insadong Korea Art Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.571902,
+      "longitude": 126.987296,
+      "website": ""
+    },
+    {
+      "name": "인월요업역사관 Inwolyoeop History Museum",
+      "name_en": "Inwolyoeop History Museum",
+      "city": "Changsu",
+      "country": "Korea, Republic of",
+      "latitude": 35.485857,
+      "longitude": 127.596376,
+      "website": ""
+    },
+    {
+      "name": "인천상륙작전기념관",
+      "name_en": "The Memorial Hall for Incheon Landing Operation",
+      "city": "Incheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.419643,
+      "longitude": 126.654236,
+      "website": ""
+    },
+    {
+      "name": "인천시립박물관",
+      "name_en": "Incheon City Museum",
+      "city": "Incheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.420728,
+      "longitude": 126.653327,
+      "website": ""
+    },
+    {
+      "name": "인천어린이박물관 (Incheon Children Museum)",
+      "name_en": "Incheon Children Museum",
+      "city": "Incheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.435869,
+      "longitude": 126.691514,
+      "website": ""
+    },
+    {
+      "name": "일민미술관 (Ilmin Museum of Art)",
+      "name_en": "Ilmin Museum of Art",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.569935,
+      "longitude": 126.97751,
+      "website": "http://ilmin.org/"
+    },
+    {
+      "name": "일본군 위안부 역사관 (Ilbongun  Wianbu History Museum)",
+      "name_en": "Ilbongun  Wianbu History Museum",
+      "city": "Kwangju",
+      "country": "Korea, Republic of",
+      "latitude": 37.442888,
+      "longitude": 127.321696,
+      "website": ""
+    },
+    {
+      "name": "일심수석전시관 (Ilsimsuseok Exhibition Hall)",
+      "name_en": "Ilsimsuseok Exhibition Hall",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.09602,
+      "longitude": 127.792155,
+      "website": ""
+    },
+    {
+      "name": "일준부채박물관 (Iljunbuchae Museum)",
+      "name_en": "Iljunbuchae Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.36101,
+      "longitude": 128.24191,
+      "website": ""
+    },
+    {
+      "name": "임시수도기념관 (Imsisudo Memorial Hall)",
+      "name_en": "Imsisudo Memorial Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.103529,
+      "longitude": 129.017482,
+      "website": ""
+    },
+    {
+      "name": "입점리고분전시관",
+      "name_en": "",
+      "city": "Iksan",
+      "country": "Korea, Republic of",
+      "latitude": 36.04672,
+      "longitude": 126.872204,
+      "website": ""
+    },
+    {
+      "name": "자연생태박물관 (Jayeonsaengtae Museum)",
+      "name_en": "Jayeonsaengtae Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.504827,
+      "longitude": 126.816546,
+      "website": ""
+    },
+    {
+      "name": "자연염색박물관 (Jayeonyeomsaek Museum)",
+      "name_en": "Jayeonyeomsaek Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.978995,
+      "longitude": 128.636757,
+      "website": ""
+    },
+    {
+      "name": "자유수호평화박물관 (Jayusuhopyeonghwa Museum)",
+      "name_en": "Jayusuhopyeonghwa Museum",
+      "city": "Yangju",
+      "country": "Korea, Republic of",
+      "latitude": 37.942619,
+      "longitude": 127.065915,
+      "website": ""
+    },
+    {
+      "name": "작은박물관 (Jakeun Museum)",
+      "name_en": "Jakeun Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.554086,
+      "longitude": 126.925728,
+      "website": ""
+    },
+    {
+      "name": "잠사과학박물관 (Jamsa Science Museum)",
+      "name_en": "Jamsa Science Museum",
+      "city": "Suwon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.264247,
+      "longitude": 126.988022,
+      "website": ""
+    },
+    {
+      "name": "장기곶등대박물관 (Janggigojdeungdae Museum)",
+      "name_en": "Janggigojdeungdae Museum",
+      "city": "Pohang",
+      "country": "Korea, Republic of",
+      "latitude": 36.070013,
+      "longitude": 129.563807,
+      "website": ""
+    },
+    {
+      "name": "장생포고래박물관 (Jangsaengpogorae Museum)",
+      "name_en": "Jangsaengpogorae Museum",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.502409,
+      "longitude": 129.383798,
+      "website": ""
+    },
+    {
+      "name": "장생포고래박물관 (Jangsaengpogorae Museum)",
+      "name_en": "Jangsaengpogorae Museum",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.502311,
+      "longitude": 129.383764,
+      "website": ""
+    },
+    {
+      "name": "재용박물관 (Jaeyong Museum)",
+      "name_en": "Jaeyong Museum",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.48866,
+      "longitude": 127.05294,
+      "website": ""
+    },
+    {
+      "name": "전기박물관 (Jeongi Museum)",
+      "name_en": "Jeongi Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.485655,
+      "longitude": 127.027952,
+      "website": ""
+    },
+    {
+      "name": "전라남도농업박물관 (Jeollanamdonongeop Museum)",
+      "name_en": "Jeollanamdonongeop Museum",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.776576,
+      "longitude": 126.459074,
+      "website": ""
+    },
+    {
+      "name": "전라북도특산품전시관 (Jeollabukdoteuksanpum Exhibition Hall)",
+      "name_en": "Jeollabukdoteuksanpum Exhibition Hall",
+      "city": "Nangen",
+      "country": "Korea, Republic of",
+      "latitude": 35.401188,
+      "longitude": 127.376888,
+      "website": ""
+    },
+    {
+      "name": "전북대학교박물관 (Jeonbuk University Museum)",
+      "name_en": "Jeonbuk University Museum",
+      "city": "Wanju",
+      "country": "Korea, Republic of",
+      "latitude": 35.845957,
+      "longitude": 127.127477,
+      "website": ""
+    },
+    {
+      "name": "전주공예품전시관 (Jeonjugongyepum Exhibition Hall)",
+      "name_en": "Jeonjugongyepum Exhibition Hall",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.814279,
+      "longitude": 127.152755,
+      "website": ""
+    },
+    {
+      "name": "전주역사박물관 (Jeonju History Museum)",
+      "name_en": "Jeonju History Museum",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.800603,
+      "longitude": 127.093084,
+      "website": "http://www.jeonjumuseum.org"
+    },
+    {
+      "name": "전주전통술박물관 (Jeonjujeontongsul Museum)",
+      "name_en": "Jeonjujeontongsul Museum",
+      "city": "Jeonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.817041,
+      "longitude": 127.153524,
+      "website": ""
+    },
+    {
+      "name": "정남진천문과학관 (Jeongnamjincheonmun Science Museum)",
+      "name_en": "Jeongnamjincheonmun Science Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.658037,
+      "longitude": 126.925821,
+      "website": ""
+    },
+    {
+      "name": "정선아리랑학교 추억의 박물관 (Jeongseonariranghakgyo  Chueokui Museum)",
+      "name_en": "Jeongseonariranghakgyo  Chueokui Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.210339,
+      "longitude": 128.649366,
+      "website": ""
+    },
+    {
+      "name": "제2석굴암전시관 (Je 2 Seokguram Exhibition Hall)",
+      "name_en": "Je 2 Seokguram Exhibition Hall",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.806896,
+      "longitude": 129.311345,
+      "website": ""
+    },
+    {
+      "name": "제암리 3.1운동순국기념관 (Jeamni 3.1 Undongsunguk Memorial Hall)",
+      "name_en": "Jeamni 3.1 Undongsunguk Memorial Hall",
+      "city": "Hwaseong-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.125622,
+      "longitude": 126.892583,
+      "website": ""
+    },
+    {
+      "name": "제일불교전시관 (Jeil Buddhism Exhibition Hall)",
+      "name_en": "Jeil Buddhism Exhibition Hall",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.196996,
+      "longitude": 128.083322,
+      "website": ""
+    },
+    {
+      "name": "제주교육박물관 (Jejugyoyuk Museum)",
+      "name_en": "Jejugyoyuk Museum",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.494613,
+      "longitude": 126.537966,
+      "website": ""
+    },
+    {
+      "name": "제주도 민속자연사박물관 (Jejudo  Minsok Natural History Museum)",
+      "name_en": "Jejudo  Minsok Natural History Museum",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.50659,
+      "longitude": 126.531451,
+      "website": ""
+    },
+    {
+      "name": "제주돔레저",
+      "name_en": "",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.262443,
+      "longitude": 126.27528,
+      "website": ""
+    },
+    {
+      "name": "제주러브랜드 Jeju Love Land",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.451684,
+      "longitude": 126.490174,
+      "website": ""
+    },
+    {
+      "name": "제주민속박물관 (Jeju Folk Museum)",
+      "name_en": "Jeju Folk Museum",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.521566,
+      "longitude": 126.581642,
+      "website": ""
+    },
+    {
+      "name": "제주민속촌박물관",
+      "name_en": "Jeju Folk Village Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.322602,
+      "longitude": 126.84211,
+      "website": ""
+    },
+    {
+      "name": "제주세계성문화박물관 (Jejusegyeseongmunhwa Museum)",
+      "name_en": "Jejusegyeseongmunhwa Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.245981,
+      "longitude": 126.514218,
+      "website": ""
+    },
+    {
+      "name": "제주세계자연유산센터",
+      "name_en": "",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.456987,
+      "longitude": 126.714947,
+      "website": ""
+    },
+    {
+      "name": "제주전쟁역사평화박물관",
+      "name_en": "",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.305704,
+      "longitude": 126.249122,
+      "website": ""
+    },
+    {
+      "name": "제주해녀박물관 (Jeju haenyeo Museum)",
+      "name_en": "Jeju haenyeo Museum",
+      "city": "Jeju-si",
+      "country": "Korea, Republic of",
+      "latitude": 33.52209,
+      "longitude": 126.863536,
+      "website": ""
+    },
+    {
+      "name": "제주화석박물관 (Jejuhwaseok Museum)",
+      "name_en": "Jejuhwaseok Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.343697,
+      "longitude": 126.843744,
+      "website": ""
+    },
+    {
+      "name": "제천의병전시관 (Jecheonuibyeong Exhibition Hall)",
+      "name_en": "Jecheonuibyeong Exhibition Hall",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.099169,
+      "longitude": 128.086226,
+      "website": ""
+    },
+    {
+      "name": "조명박물관 (Jomyeong Museum)",
+      "name_en": "Jomyeong Museum",
+      "city": "Gwangjeok",
+      "country": "Korea, Republic of",
+      "latitude": 37.835794,
+      "longitude": 126.96746,
+      "website": ""
+    },
+    {
+      "name": "조선관요박물관 (Joseongwanyo Museum)",
+      "name_en": "Joseongwanyo Museum",
+      "city": "Kwangju",
+      "country": "Korea, Republic of",
+      "latitude": 37.352228,
+      "longitude": 127.326078,
+      "website": ""
+    },
+    {
+      "name": "조선대학교 박물관 (Joseon University Museum)",
+      "name_en": "Joseon University Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.142515,
+      "longitude": 126.934742,
+      "website": ""
+    },
+    {
+      "name": "조선민화박물관 (Joseonminhwa Museum)",
+      "name_en": "Joseonminhwa Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.096407,
+      "longitude": 128.606819,
+      "website": ""
+    },
+    {
+      "name": "조흥금융박물관 (Joheunggeumyung Museum)",
+      "name_en": "Joheunggeumyung Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.568602,
+      "longitude": 126.976351,
+      "website": ""
+    },
+    {
+      "name": "종이박물관 (Jongi Museum)",
+      "name_en": "Jongi Museum",
+      "city": "Wanju",
+      "country": "Korea, Republic of",
+      "latitude": 35.847972,
+      "longitude": 127.099075,
+      "website": ""
+    },
+    {
+      "name": "주산교회",
+      "name_en": "",
+      "city": "Taisen-ri",
+      "country": "Korea, Republic of",
+      "latitude": 36.200848,
+      "longitude": 126.615726,
+      "website": ""
+    },
+    {
+      "name": "주천조각보박물관 (Jucheonjogakbo Museum)",
+      "name_en": "Jucheonjogakbo Museum",
+      "city": "Kijang",
+      "country": "Korea, Republic of",
+      "latitude": 35.168444,
+      "longitude": 129.166266,
+      "website": ""
+    },
+    {
+      "name": "중남미문화원 병설 박물관 (Jungnammi Cultural Center Byeongseol Museum)",
+      "name_en": "Jungnammi Cultural Center Byeongseol Museum",
+      "city": "Jangheung",
+      "country": "Korea, Republic of",
+      "latitude": 37.70411,
+      "longitude": 126.895124,
+      "website": ""
+    },
+    {
+      "name": "중앙대학교박물관 (Jungang University Museum)",
+      "name_en": "Jungang University Museum",
+      "city": "Anseong",
+      "country": "Korea, Republic of",
+      "latitude": 37.006175,
+      "longitude": 127.219069,
+      "website": ""
+    },
+    {
+      "name": "증권박물관 (Jeunggwon Museum)",
+      "name_en": "Jeunggwon Museum",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.638683,
+      "longitude": 126.786109,
+      "website": ""
+    },
+    {
+      "name": "증도갯벌생태전시관",
+      "name_en": "Jeungdogaetbeolsaengtae Exhibition Hall",
+      "city": "Sinan",
+      "country": "Korea, Republic of",
+      "latitude": 34.964415,
+      "longitude": 126.136681,
+      "website": ""
+    },
+    {
+      "name": "증평향토자료전시관 (Jeungpyeong Local Jaryo Exhibition Hall)",
+      "name_en": "Jeungpyeong Local Jaryo Exhibition Hall",
+      "city": "Chinch'ŏn",
+      "country": "Korea, Republic of",
+      "latitude": 36.787206,
+      "longitude": 127.57295,
+      "website": ""
+    },
+    {
+      "name": "지당자연사박물관 (Jidang Natural History Museum)",
+      "name_en": "Jidang Natural History Museum",
+      "city": "Nonsan",
+      "country": "Korea, Republic of",
+      "latitude": 36.327283,
+      "longitude": 127.064361,
+      "website": ""
+    },
+    {
+      "name": "지리산 빨치산 토벌전시관 Jirisan  Bbalchisan  Tobeol Exhibition Hall",
+      "name_en": "Jirisan  Bbalchisan  Tobeol Exhibition Hall",
+      "city": "Kurye",
+      "country": "Korea, Republic of",
+      "latitude": 35.291385,
+      "longitude": 127.754235,
+      "website": ""
+    },
+    {
+      "name": "지리산역사관 Jirisan History Museum",
+      "name_en": "Jirisan History Museum",
+      "city": "Kurye",
+      "country": "Korea, Republic of",
+      "latitude": 35.282904,
+      "longitude": 127.651936,
+      "website": ""
+    },
+    {
+      "name": "지적박물관 (Jijeok Museum)",
+      "name_en": "Jijeok Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.076053,
+      "longitude": 128.197631,
+      "website": ""
+    },
+    {
+      "name": "지질박물관 (Geology Museum)",
+      "name_en": "Geology Museum",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.377523,
+      "longitude": 127.362322,
+      "website": ""
+    },
+    {
+      "name": "직지성보박물관 (Jikjiseongbo Museum)",
+      "name_en": "Jikjiseongbo Museum",
+      "city": "Gimcheon",
+      "country": "Korea, Republic of",
+      "latitude": 36.116668,
+      "longitude": 128.004033,
+      "website": ""
+    },
+    {
+      "name": "진안역사박물관 (Jinan History Museum)",
+      "name_en": "Jinan History Museum",
+      "city": "Jinan-gun",
+      "country": "Korea, Republic of",
+      "latitude": 35.77218,
+      "longitude": 127.416609,
+      "website": ""
+    },
+    {
+      "name": "진천 태권도박물관 (Jincheon  Taegwondo Museum)",
+      "name_en": "Jincheon  Taegwondo Museum",
+      "city": "Chinch'ŏn",
+      "country": "Korea, Republic of",
+      "latitude": 36.849592,
+      "longitude": 127.439847,
+      "website": ""
+    },
+    {
+      "name": "진천종박물관 (Jincheonjong Museum)",
+      "name_en": "Jincheonjong Museum",
+      "city": "Chinch'ŏn",
+      "country": "Korea, Republic of",
+      "latitude": 36.87089,
+      "longitude": 127.413858,
+      "website": ""
+    },
+    {
+      "name": "진해시박물관 (Jinhaesi Museum)",
+      "name_en": "Jinhaesi Museum",
+      "city": "Changwon",
+      "country": "Korea, Republic of",
+      "latitude": 35.147737,
+      "longitude": 128.668089,
+      "website": ""
+    },
+    {
+      "name": "진해시에너지전시관 (Jinhaesi Energy Exhibition Hall)",
+      "name_en": "Jinhaesi Energy Exhibition Hall",
+      "city": "Changwon",
+      "country": "Korea, Republic of",
+      "latitude": 35.143268,
+      "longitude": 128.690135,
+      "website": ""
+    },
+    {
+      "name": "짚풀생활사박물관 (Jippulsaenghwalsa Museum)",
+      "name_en": "Jippulsaenghwalsa Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.584932,
+      "longitude": 126.999624,
+      "website": ""
+    },
+    {
+      "name": "참소리축음기에디슨박물관 (Chamsorichukeumgiediseun Museum)",
+      "name_en": "Chamsorichukeumgiediseun Museum",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.777198,
+      "longitude": 128.932292,
+      "website": ""
+    },
+    {
+      "name": "참소리축음기에디슨박물관 (Chamsorichukeumgiediseun Museum)",
+      "name_en": "Chamsorichukeumgiediseun Museum",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.79769,
+      "longitude": 128.897459,
+      "website": ""
+    },
+    {
+      "name": "창녕민속전시관 (Changnyeongminsok Exhibition Hall)",
+      "name_en": "Changnyeongminsok Exhibition Hall",
+      "city": "Changnyeong",
+      "country": "Korea, Republic of",
+      "latitude": 35.461682,
+      "longitude": 128.526405,
+      "website": ""
+    },
+    {
+      "name": "창녕박물관 (Changnyeong Museum)",
+      "name_en": "Changnyeong Museum",
+      "city": "Changnyeong",
+      "country": "Korea, Republic of",
+      "latitude": 35.545474,
+      "longitude": 128.505147,
+      "website": ""
+    },
+    {
+      "name": "창조자연사박물관 (Changjo Natural History Museum)",
+      "name_en": "Changjo Natural History Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.433699,
+      "longitude": 126.786384,
+      "website": ""
+    },
+    {
+      "name": "창호종합전시관 (Changhojonghap Exhibition Hall)",
+      "name_en": "Changhojonghap Exhibition Hall",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.768351,
+      "longitude": 128.907831,
+      "website": ""
+    },
+    {
+      "name": "창호종합전시관 (Changhojonghap Exhibition Hall)",
+      "name_en": "Changhojonghap Exhibition Hall",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.764926,
+      "longitude": 128.889094,
+      "website": ""
+    },
+    {
+      "name": "채만식문학관",
+      "name_en": "",
+      "city": "Kunsan",
+      "country": "Korea, Republic of",
+      "latitude": 36.008699,
+      "longitude": 126.757922,
+      "website": "http://chae.gunsan.go.kr/index.gunsan"
+    },
+    {
+      "name": "채용신기념관 (Chaeyongsin Memorial Hall)",
+      "name_en": "Chaeyongsin Memorial Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.299543,
+      "longitude": 126.862427,
+      "website": ""
+    },
+    {
+      "name": "채용신기념관 (Chaeyongsin Memorial Hall)新羅城",
+      "name_en": "Chaeyongsin Memorial Hall",
+      "city": "Ansan-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.299543,
+      "longitude": 126.862427,
+      "website": ""
+    },
+    {
+      "name": "천안박물관 (Cheonan Museum)",
+      "name_en": "Cheonan Museum",
+      "city": "Cheonan",
+      "country": "Korea, Republic of",
+      "latitude": 36.786506,
+      "longitude": 127.163592,
+      "website": ""
+    },
+    {
+      "name": "천주교관덕정순교기념관 (Gwandeokjeongsungyo Memorial Hall)",
+      "name_en": "Gwandeokjeongsungyo Memorial Hall",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.864948,
+      "longitude": 128.591169,
+      "website": ""
+    },
+    {
+      "name": "천지불교전시관 Cheonji Buddhism Exhibition Hall",
+      "name_en": "Cheonji Buddhism Exhibition Hall",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.271886,
+      "longitude": 127.778082,
+      "website": ""
+    },
+    {
+      "name": "철박물관 (Cheol Museum)",
+      "name_en": "Cheol Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.090468,
+      "longitude": 127.649154,
+      "website": ""
+    },
+    {
+      "name": "첨단과학관 (Cheomdan Science Museum)",
+      "name_en": "Cheomdan Science Museum",
+      "city": "Songgang-dong",
+      "country": "Korea, Republic of",
+      "latitude": 36.377988,
+      "longitude": 127.384631,
+      "website": ""
+    },
+    {
+      "name": "청계천문화관",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.571255,
+      "longitude": 127.035091,
+      "website": ""
+    },
+    {
+      "name": "청량산박물관 (Cheongnyangsan Museum)",
+      "name_en": "Cheongnyangsan Museum",
+      "city": "Eisen",
+      "country": "Korea, Republic of",
+      "latitude": 36.788005,
+      "longitude": 128.893953,
+      "website": ""
+    },
+    {
+      "name": "청송민속박물관 (Cheongsong Folk Museum)",
+      "name_en": "Cheongsong Folk Museum",
+      "city": "Cheongsong gun",
+      "country": "Korea, Republic of",
+      "latitude": 36.389787,
+      "longitude": 129.083435,
+      "website": ""
+    },
+    {
+      "name": "청암민속박물관 (Cheongam Folk Museum)",
+      "name_en": "Cheongam Folk Museum",
+      "city": "Jangheung",
+      "country": "Korea, Republic of",
+      "latitude": 37.722688,
+      "longitude": 126.94701,
+      "website": ""
+    },
+    {
+      "name": "청전전각박물관 (Cheongjeonjeongak Museum)",
+      "name_en": "Cheongjeonjeongak Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.122301,
+      "longitude": 128.604719,
+      "website": ""
+    },
+    {
+      "name": "청주고인쇄박물관(Cheongju Museum)",
+      "name_en": "",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.644255,
+      "longitude": 127.471508,
+      "website": ""
+    },
+    {
+      "name": "청학동 Cheonghak-dong",
+      "name_en": "",
+      "city": "Kurye",
+      "country": "Korea, Republic of",
+      "latitude": 35.238195,
+      "longitude": 127.704592,
+      "website": ""
+    },
+    {
+      "name": "체신기념관 (Chesin Memorial Hall)",
+      "name_en": "Chesin Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.574567,
+      "longitude": 126.982542,
+      "website": ""
+    },
+    {
+      "name": "초전섬유 퀼트박물관 (Chojeonseomyu  Kwilteu Museum)",
+      "name_en": "Chojeonseomyu  Kwilteu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.558144,
+      "longitude": 126.984157,
+      "website": ""
+    },
+    {
+      "name": "초콜릿박물관 (Chocolate Museum)",
+      "name_en": "Chocolate Museum",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.257052,
+      "longitude": 126.229976,
+      "website": ""
+    },
+    {
+      "name": "추사적거지기념관 (Chusajeokgeoji Memorial Hall)",
+      "name_en": "Chusajeokgeoji Memorial Hall",
+      "city": "Gaigeturi",
+      "country": "Korea, Republic of",
+      "latitude": 33.250209,
+      "longitude": 126.278391,
+      "website": ""
+    },
+    {
+      "name": "추억의민속박물관 (Chueokui Folk Museum)",
+      "name_en": "Chueokui Folk Museum",
+      "city": "Kimhae",
+      "country": "Korea, Republic of",
+      "latitude": 35.294132,
+      "longitude": 128.794632,
+      "website": ""
+    },
+    {
+      "name": "춘천막국수체험박물관 (Chuncheonmakguksucheheom Museum)",
+      "name_en": "Chuncheonmakguksucheheom Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.948783,
+      "longitude": 127.749752,
+      "website": ""
+    },
+    {
+      "name": "충렬공박제상기념관 (Chungnyeolgongbakjesang Memorial Hall)",
+      "name_en": "Chungnyeolgongbakjesang Memorial Hall",
+      "city": "Ulsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.654721,
+      "longitude": 129.229894,
+      "website": ""
+    },
+    {
+      "name": "충북교육박물관 (Chungbukgyoyuk Museum)",
+      "name_en": "Chungbukgyoyuk Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.638575,
+      "longitude": 127.486897,
+      "website": ""
+    },
+    {
+      "name": "충주고구려천문과학관 (Chungjugoguryeocheonmun Science Museum)",
+      "name_en": "Chungjugoguryeocheonmun Science Museum",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 37.040268,
+      "longitude": 127.848332,
+      "website": ""
+    },
+    {
+      "name": "충주박물관 (Chungju Museum)",
+      "name_en": "Chungju Museum",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 37.016888,
+      "longitude": 127.865158,
+      "website": ""
+    },
+    {
+      "name": "충주박물관 (Chungju Museum)",
+      "name_en": "Chungju Museum",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 37.01687,
+      "longitude": 127.865125,
+      "website": ""
+    },
+    {
+      "name": "충주사과과학관 (Chungju Apple Science Museum)",
+      "name_en": "Chungju Apple Science Museum",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 37.044557,
+      "longitude": 127.928859,
+      "website": ""
+    },
+    {
+      "name": "충청대학교박물관 (Chungcheong University Museum)",
+      "name_en": "Chungcheong University Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.620353,
+      "longitude": 127.366469,
+      "website": ""
+    },
+    {
+      "name": "충현박물관",
+      "name_en": "Chunghyeon Museum",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.433693,
+      "longitude": 126.878416,
+      "website": ""
+    },
+    {
+      "name": "충효동분청자기전시관 (Chunghyodongbuncheongjagi Exhibition Hall)",
+      "name_en": "Chunghyodongbuncheongjagi Exhibition Hall",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.167121,
+      "longitude": 126.998304,
+      "website": ""
+    },
+    {
+      "name": "치악민속박물관 (Chiak Folk Museum)",
+      "name_en": "Chiak Folk Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.335898,
+      "longitude": 128.011298,
+      "website": ""
+    },
+    {
+      "name": "캠코전북대리점전시관 (Kaemkojeonbukdaerijeom Exhibition Hall)",
+      "name_en": "Kaemkojeonbukdaerijeom Exhibition Hall",
+      "city": "Kimje",
+      "country": "Korea, Republic of",
+      "latitude": 35.812801,
+      "longitude": 126.867739,
+      "website": ""
+    },
+    {
+      "name": "코리아나 화장박물관 (Koreana Hwajang Museum)",
+      "name_en": "Koreana Hwajang Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.524009,
+      "longitude": 127.032558,
+      "website": ""
+    },
+    {
+      "name": "탈과도깨비박물관 (Talgwadoggaebi Museum)",
+      "name_en": "Talgwadoggaebi Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.403169,
+      "longitude": 126.780573,
+      "website": ""
+    },
+    {
+      "name": "태백석탄박물관 (Taebaekseoktan Museum)",
+      "name_en": "Taebaekseoktan Museum",
+      "city": "T’aebaek",
+      "country": "Korea, Republic of",
+      "latitude": 37.11722,
+      "longitude": 128.951393,
+      "website": ""
+    },
+    {
+      "name": "태영박물관 (Taeyeong Museum)",
+      "name_en": "Taeyeong Museum",
+      "city": "Kinzan",
+      "country": "Korea, Republic of",
+      "latitude": 36.051613,
+      "longitude": 127.436572,
+      "website": ""
+    },
+    {
+      "name": "태정민속박물관 (Taejeong Folk Museum)",
+      "name_en": "Taejeong Folk Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.190233,
+      "longitude": 128.083826,
+      "website": ""
+    },
+    {
+      "name": "토지박물관 (Toji Museum)",
+      "name_en": "Toji Museum",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.354494,
+      "longitude": 127.120496,
+      "website": ""
+    },
+    {
+      "name": "통도사 성보박물관 (Tongdosa  Seongbo Museum)",
+      "name_en": "Tongdosa  Seongbo Museum",
+      "city": "Ungsang",
+      "country": "Korea, Republic of",
+      "latitude": 35.487823,
+      "longitude": 129.064433,
+      "website": ""
+    },
+    {
+      "name": "통영불교전시관 (Tongyeong Buddhism Exhibition Hall)",
+      "name_en": "Tongyeong Buddhism Exhibition Hall",
+      "city": "Kyosai",
+      "country": "Korea, Republic of",
+      "latitude": 34.846395,
+      "longitude": 128.427106,
+      "website": ""
+    },
+    {
+      "name": "통영수산과학관 (Tongyeongsusan Science Museum)",
+      "name_en": "Tongyeongsusan Science Museum",
+      "city": "Kyosai",
+      "country": "Korea, Republic of",
+      "latitude": 34.763933,
+      "longitude": 128.407102,
+      "website": ""
+    },
+    {
+      "name": "통영수산과학관 (Tongyeongsusan Science Museum)",
+      "name_en": "Tongyeongsusan Science Museum",
+      "city": "Kyosai",
+      "country": "Korea, Republic of",
+      "latitude": 34.763508,
+      "longitude": 128.407515,
+      "website": ""
+    },
+    {
+      "name": "통영시 향토역사관 (Tongyeongsi Local History Museum)",
+      "name_en": "Tongyeongsi Local History Museum",
+      "city": "Goseong",
+      "country": "Korea, Republic of",
+      "latitude": 34.846794,
+      "longitude": 128.42386,
+      "website": ""
+    },
+    {
+      "name": "통영시수산과학관 (Tongyeongsisusan Science Museum)",
+      "name_en": "Tongyeongsisusan Science Museum",
+      "city": "Kyosai",
+      "country": "Korea, Republic of",
+      "latitude": 34.763933,
+      "longitude": 128.407102,
+      "website": ""
+    },
+    {
+      "name": "트릭아이미술관 - Trick Eye Museum",
+      "name_en": "Trick Eye Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.553784,
+      "longitude": 126.921927,
+      "website": ""
+    },
+    {
+      "name": "트릭월드",
+      "name_en": "Trick World",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.562412,
+      "longitude": 126.984171,
+      "website": ""
+    },
+    {
+      "name": "파로호안보전시관 (Parohoanbo Exhibition Hall)",
+      "name_en": "Parohoanbo Exhibition Hall",
+      "city": "Hwacheon",
+      "country": "Korea, Republic of",
+      "latitude": 38.095031,
+      "longitude": 127.771981,
+      "website": ""
+    },
+    {
+      "name": "펄벅기념관 (Peolbeok Memorial Hall)",
+      "name_en": "Peolbeok Memorial Hall",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.475632,
+      "longitude": 126.781444,
+      "website": ""
+    },
+    {
+      "name": "평강성서유물박물관 (Pyeonggangseongseoyumul Museum)",
+      "name_en": "Pyeonggangseongseoyumul Museum",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.492021,
+      "longitude": 126.84499,
+      "website": ""
+    },
+    {
+      "name": "평화박물관 (Pyeonghwa Museum)",
+      "name_en": "Pyeonghwa Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.572752,
+      "longitude": 126.983212,
+      "website": ""
+    },
+    {
+      "name": "포스코 역사관 (Poseuko History Museum)",
+      "name_en": "Poseuko History Museum",
+      "city": "Enjitsu",
+      "country": "Korea, Republic of",
+      "latitude": 35.998009,
+      "longitude": 129.382675,
+      "website": ""
+    },
+    {
+      "name": "포스코건설주택문화전시관 (Poseukogeonseoljutaengmunhwa Exhibition Hall)",
+      "name_en": "Poseukogeonseoljutaengmunhwa Exhibition Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.525599,
+      "longitude": 127.053201,
+      "website": ""
+    },
+    {
+      "name": "폰박물관 (Pon Museum)",
+      "name_en": "Pon Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.164847,
+      "longitude": 127.691682,
+      "website": ""
+    },
+    {
+      "name": "풍기인견홍보전시관 (Punggiingyeonhongbo Exhibition Hall)",
+      "name_en": "Punggiingyeonhongbo Exhibition Hall",
+      "city": "Eisen",
+      "country": "Korea, Republic of",
+      "latitude": 36.862856,
+      "longitude": 128.530799,
+      "website": ""
+    },
+    {
+      "name": "풍기인삼종합전시관 (Punggiinsamjonghap Exhibition Hall)",
+      "name_en": "Punggiinsamjonghap Exhibition Hall",
+      "city": "Eisen",
+      "country": "Korea, Republic of",
+      "latitude": 36.876858,
+      "longitude": 128.541028,
+      "website": ""
+    },
+    {
+      "name": "필암서원유물전시관 (Piramseowon Museum)",
+      "name_en": "Piramseowon Museum",
+      "city": "Koch'ang",
+      "country": "Korea, Republic of",
+      "latitude": 35.3104,
+      "longitude": 126.751609,
+      "website": ""
+    },
+    {
+      "name": "하남역사박물관 (Hanam History Museum)",
+      "name_en": "Hanam History Museum",
+      "city": "Hanam",
+      "country": "Korea, Republic of",
+      "latitude": 37.537967,
+      "longitude": 127.202658,
+      "website": ""
+    },
+    {
+      "name": "하남역사박물관 (Hanam History Museum)",
+      "name_en": "Hanam History Museum",
+      "city": "Hanam",
+      "country": "Korea, Republic of",
+      "latitude": 37.535039,
+      "longitude": 127.201478,
+      "website": ""
+    },
+    {
+      "name": "하늘정원조경전시관 (Haneuljeongwonjogyeong Exhibition Hall)",
+      "name_en": "Haneuljeongwonjogyeong Exhibition Hall",
+      "city": "Seongnam-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.459181,
+      "longitude": 127.078894,
+      "website": ""
+    },
+    {
+      "name": "하의3도농민운동항쟁기념관 (Haui 3 Donongminundonghangjaeng Memorial Hall)",
+      "name_en": "Haui 3 Donongminundonghangjaeng Memorial Hall",
+      "city": "Sinan",
+      "country": "Korea, Republic of",
+      "latitude": 34.61587,
+      "longitude": 126.028127,
+      "website": ""
+    },
+    {
+      "name": "하회동탈박물관 (Hahoedongtal Museum)",
+      "name_en": "Hahoedongtal Museum",
+      "city": "Andong",
+      "country": "Korea, Republic of",
+      "latitude": 36.548913,
+      "longitude": 128.527639,
+      "website": ""
+    },
+    {
+      "name": "한국가구박물관",
+      "name_en": "Korea Furniture Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.60025,
+      "longitude": 126.993662,
+      "website": "www.kofum.com/"
+    },
+    {
+      "name": "한국고건축박물관 (Korea Gogeonchuk Museum)",
+      "name_en": "Korea Gogeonchuk Museum",
+      "city": "Hongsung",
+      "country": "Korea, Republic of",
+      "latitude": 36.632639,
+      "longitude": 126.61073,
+      "website": ""
+    },
+    {
+      "name": "한국광고영상박물관 (Korea Gwanggoyeongsang Museum)",
+      "name_en": "Korea Gwanggoyeongsang Museum",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.787554,
+      "longitude": 129.277739,
+      "website": ""
+    },
+    {
+      "name": "한국광고영상박물관 (Korea Gwanggoyeongsang Museum)",
+      "name_en": "Korea Gwanggoyeongsang Museum",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.787572,
+      "longitude": 129.277728,
+      "website": ""
+    },
+    {
+      "name": "한국교원대학교 교육박물관 (Korea National University of Education Museum)",
+      "name_en": "Korea National University of Education Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.607169,
+      "longitude": 127.357282,
+      "website": ""
+    },
+    {
+      "name": "한국교회100주년기념관 (Korea Church 100 Junyeon Memorial Hall)",
+      "name_en": "Korea Church 100 Junyeon Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.574395,
+      "longitude": 127.000387,
+      "website": ""
+    },
+    {
+      "name": "한국근대사박물관 (Korea Geundaesa Museum)",
+      "name_en": "Korea Geundaesa Museum",
+      "city": "Tanhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 37.730951,
+      "longitude": 126.72587,
+      "website": ""
+    },
+    {
+      "name": "한국기독교순교자기념관 (Korea Gidokgyosungyoja Memorial Hall)",
+      "name_en": "Korea Gidokgyosungyoja Memorial Hall",
+      "city": "Icheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.251007,
+      "longitude": 127.324758,
+      "website": ""
+    },
+    {
+      "name": "한국기독교역사박물관 (Korea Gidokgyo History Museum)",
+      "name_en": "Korea Gidokgyo History Museum",
+      "city": "Pubal",
+      "country": "Korea, Republic of",
+      "latitude": 37.222763,
+      "longitude": 127.499336,
+      "website": ""
+    },
+    {
+      "name": "한국대나무박물관 (Korea Daenamu Museum)",
+      "name_en": "Korea Daenamu Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.30946,
+      "longitude": 126.97651,
+      "website": ""
+    },
+    {
+      "name": "한국대나무박물관 (Korea Daenamu Museum)",
+      "name_en": "Korea Daenamu Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.32195,
+      "longitude": 126.985336,
+      "website": ""
+    },
+    {
+      "name": "한국도성박물관",
+      "name_en": "Seoul City Wall Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.57259,
+      "longitude": 127.008636,
+      "website": ""
+    },
+    {
+      "name": "한국만화박물관 (Korea Manhwa Museum);부천수석박물관 (Bucheonsuseok Museum)",
+      "name_en": "Korea Manhwa Museum;Bucheonsuseok Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.502671,
+      "longitude": 126.797549,
+      "website": ""
+    },
+    {
+      "name": "한국미용박물관 (Korea Miyong Museum)",
+      "name_en": "Korea Miyong Museum",
+      "city": "Gwangju",
+      "country": "Korea, Republic of",
+      "latitude": 35.172187,
+      "longitude": 126.909335,
+      "website": ""
+    },
+    {
+      "name": "한국분재박물관 (Korea Bunjae Museum)",
+      "name_en": "Korea Bunjae Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.466735,
+      "longitude": 127.020758,
+      "website": ""
+    },
+    {
+      "name": "한국불교미술박물관 (Korea Buddhism Misul Museum)",
+      "name_en": "Korea Buddhism Misul Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.58074,
+      "longitude": 126.988878,
+      "website": ""
+    },
+    {
+      "name": "한국불교전시관 (Korea Buddhism Exhibition Hall)",
+      "name_en": "Korea Buddhism Exhibition Hall",
+      "city": "Yangsan",
+      "country": "Korea, Republic of",
+      "latitude": 35.339904,
+      "longitude": 129.037624,
+      "website": ""
+    },
+    {
+      "name": "한국비림박물관 (Korea Birim Museum)",
+      "name_en": "Korea Birim Museum",
+      "city": "Okcheon",
+      "country": "Korea, Republic of",
+      "latitude": 36.474313,
+      "longitude": 127.664569,
+      "website": ""
+    },
+    {
+      "name": "한국산업도자전시관 (Korea Saneopdoja Exhibition Hall)",
+      "name_en": "Korea Saneopdoja Exhibition Hall",
+      "city": "Moppo",
+      "country": "Korea, Republic of",
+      "latitude": 34.793509,
+      "longitude": 126.419878,
+      "website": ""
+    },
+    {
+      "name": "한국상업사박물관 (Korea Sangeopsa Museum)",
+      "name_en": "Korea Sangeopsa Museum",
+      "city": "Osan",
+      "country": "Korea, Republic of",
+      "latitude": 37.140522,
+      "longitude": 127.179362,
+      "website": ""
+    },
+    {
+      "name": "한국성결교회역사박물관 (Korea Seonggyeol Church History Museum)",
+      "name_en": "Korea Seonggyeol Church History Museum",
+      "city": "Cheonan",
+      "country": "Korea, Republic of",
+      "latitude": 36.76595,
+      "longitude": 127.105409,
+      "website": ""
+    },
+    {
+      "name": "한국성결교회역사자료박물관 (Korea Seonggyeol Church Yeoksajaryo Museum)",
+      "name_en": "Korea Seonggyeol Church Yeoksajaryo Museum",
+      "city": "Cheonan",
+      "country": "Korea, Republic of",
+      "latitude": 36.766218,
+      "longitude": 127.105137,
+      "website": ""
+    },
+    {
+      "name": "한국영상박물관 (Korea Yeongsang Museum)",
+      "name_en": "Korea Yeongsang Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.873456,
+      "longitude": 128.595219,
+      "website": ""
+    },
+    {
+      "name": "한국영상박물관 (Korea Yeongsang Museum)",
+      "name_en": "Korea Yeongsang Museum",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.873438,
+      "longitude": 128.595141,
+      "website": ""
+    },
+    {
+      "name": "한국영화박물관 (Korean Film Museum)",
+      "name_en": "",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.580412,
+      "longitude": 126.890057,
+      "website": "www.film.or.kr/museum"
+    },
+    {
+      "name": "한국자수박물관 (Korea Jasu Museum)",
+      "name_en": "Korea Jasu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.515418,
+      "longitude": 127.033223,
+      "website": ""
+    },
+    {
+      "name": "한국잠사박물관 (Korea Jamsa Museum)",
+      "name_en": "Korea Jamsa Museum",
+      "city": "Cheongju-si",
+      "country": "Korea, Republic of",
+      "latitude": 36.638739,
+      "longitude": 127.381909,
+      "website": ""
+    },
+    {
+      "name": "한독의약박물관 (Handokuiyak Museum)",
+      "name_en": "Handokuiyak Museum",
+      "city": "Chinch'ŏn",
+      "country": "Korea, Republic of",
+      "latitude": 36.970534,
+      "longitude": 127.465239,
+      "website": ""
+    },
+    {
+      "name": "한라불교전시관 (Halla Buddhism Exhibition Hall)",
+      "name_en": "Halla Buddhism Exhibition Hall",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.250839,
+      "longitude": 126.561655,
+      "website": ""
+    },
+    {
+      "name": "한림대학교박물관 (Hallim University Museum)",
+      "name_en": "Hallim University Museum",
+      "city": "Chuncheon",
+      "country": "Korea, Republic of",
+      "latitude": 37.885588,
+      "longitude": 127.734658,
+      "website": ""
+    },
+    {
+      "name": "한림민속박물관 (Hallim Folk Museum)",
+      "name_en": "Hallim Folk Museum",
+      "city": "Kimhae",
+      "country": "Korea, Republic of",
+      "latitude": 35.294105,
+      "longitude": 128.794654,
+      "website": ""
+    },
+    {
+      "name": "한립완구박물관 (Hallipwangu Museum)",
+      "name_en": "Hallipwangu Museum",
+      "city": "Tanhyeon",
+      "country": "Korea, Republic of",
+      "latitude": 37.787968,
+      "longitude": 126.6967,
+      "website": ""
+    },
+    {
+      "name": "한밭교육박물관 (Hanbat Education Museum)",
+      "name_en": "Hanbat Education Museum",
+      "city": "Daejeon",
+      "country": "Korea, Republic of",
+      "latitude": 36.337491,
+      "longitude": 127.428755,
+      "website": ""
+    },
+    {
+      "name": "한산모시관",
+      "name_en": "",
+      "city": "Kunsan",
+      "country": "Korea, Republic of",
+      "latitude": 36.080373,
+      "longitude": 126.799172,
+      "website": ""
+    },
+    {
+      "name": "한상수자수박물관 (Hansangsujasu Museum)",
+      "name_en": "Hansangsujasu Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.582757,
+      "longitude": 126.985544,
+      "website": ""
+    },
+    {
+      "name": "한양대학교 박물관 (Hanyang University Museum)",
+      "name_en": "Hanyang University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.555126,
+      "longitude": 127.04471,
+      "website": ""
+    },
+    {
+      "name": "한얼문예박물관 (Haneolmunye Museum)",
+      "name_en": "Haneolmunye Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.488916,
+      "longitude": 128.072779,
+      "website": ""
+    },
+    {
+      "name": "한얼문예박물관 (Haneolmunye Museum)",
+      "name_en": "Haneolmunye Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.499575,
+      "longitude": 128.061513,
+      "website": ""
+    },
+    {
+      "name": "한얼테마과학박물관 (Haneol Theme Science Museum)",
+      "name_en": "Haneol Theme Science Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.398402,
+      "longitude": 127.608397,
+      "website": ""
+    },
+    {
+      "name": "한얼테마박물관 (Haneol Theme Museum)",
+      "name_en": "Haneol Theme Museum",
+      "city": "Yeoju",
+      "country": "Korea, Republic of",
+      "latitude": 37.398078,
+      "longitude": 127.608478,
+      "website": ""
+    },
+    {
+      "name": "한의약박물관 (Hanuiyak Museum)",
+      "name_en": "Hanuiyak Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.576107,
+      "longitude": 127.033946,
+      "website": ""
+    },
+    {
+      "name": "한주에이엠씨신영제주영화박물관 (Hanjueiemssisinyeongjejuyeonghwa Museum)",
+      "name_en": "Hanjueiemssisinyeongjejuyeonghwa Museum",
+      "city": "Seogwipo",
+      "country": "Korea, Republic of",
+      "latitude": 33.285604,
+      "longitude": 126.707506,
+      "website": ""
+    },
+    {
+      "name": "한지박물관 (Hanji Museum)",
+      "name_en": "Hanji Museum",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.345884,
+      "longitude": 127.950999,
+      "website": ""
+    },
+    {
+      "name": "한지박물관 (Hanji Museum)",
+      "name_en": "Hanji Museum",
+      "city": "Kimje",
+      "country": "Korea, Republic of",
+      "latitude": 35.716256,
+      "longitude": 127.003724,
+      "website": ""
+    },
+    {
+      "name": "함안박물관 (Haman Museum)",
+      "name_en": "Haman Museum",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.268941,
+      "longitude": 128.402916,
+      "website": ""
+    },
+    {
+      "name": "함안박물관 (Haman Museum)",
+      "name_en": "Haman Museum",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.268929,
+      "longitude": 128.403762,
+      "website": ""
+    },
+    {
+      "name": "함정전시관 (Hamjeong Exhibition Hall)",
+      "name_en": "Hamjeong Exhibition Hall",
+      "city": "Kang-neung",
+      "country": "Korea, Republic of",
+      "latitude": 37.721599,
+      "longitude": 128.998309,
+      "website": ""
+    },
+    {
+      "name": "합덕수리민속박물관 (Hapdeoksuri Folk Museum)",
+      "name_en": "Hapdeoksuri Folk Museum",
+      "city": "Yesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.793873,
+      "longitude": 126.783374,
+      "website": ""
+    },
+    {
+      "name": "합덕수리민속박물관 (Hapdeoksuri Folk Museum)",
+      "name_en": "Hapdeoksuri Folk Museum",
+      "city": "Yesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.793855,
+      "longitude": 126.783364,
+      "website": ""
+    },
+    {
+      "name": "합천박물관 (Hapcheon Museum)",
+      "name_en": "Hapcheon Museum",
+      "city": "Changnyeong",
+      "country": "Korea, Republic of",
+      "latitude": 35.579919,
+      "longitude": 128.28266,
+      "website": ""
+    },
+    {
+      "name": "합천임란창의기념관 (Hapcheonimnanchangui Memorial Hall)",
+      "name_en": "Hapcheonimnanchangui Memorial Hall",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.530027,
+      "longitude": 128.034938,
+      "website": ""
+    },
+    {
+      "name": "항공우주박물관",
+      "name_en": "KAU Aerospace Museum",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.599986,
+      "longitude": 126.865568,
+      "website": ""
+    },
+    {
+      "name": "항공우주박물관 (Hanggonguju Museum)",
+      "name_en": "Hanggonguju Museum",
+      "city": "Chinju",
+      "country": "Korea, Republic of",
+      "latitude": 35.071295,
+      "longitude": 128.06102,
+      "website": ""
+    },
+    {
+      "name": "해남 땅끝해양자연사박물관 (Haenam  Ddangggeuthaeyang Natural History Museum)",
+      "name_en": "Haenam  Ddangggeuthaeyang Natural History Museum",
+      "city": "Haenam",
+      "country": "Korea, Republic of",
+      "latitude": 34.324533,
+      "longitude": 126.566807,
+      "website": ""
+    },
+    {
+      "name": "해동불교전시관 (Haedong Buddhism Exhibition Hall)",
+      "name_en": "Haedong Buddhism Exhibition Hall",
+      "city": "Naesŏ",
+      "country": "Korea, Republic of",
+      "latitude": 35.201432,
+      "longitude": 128.575019,
+      "website": ""
+    },
+    {
+      "name": "해양박물관 (Haeyang Museum)",
+      "name_en": "Haeyang Museum",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.528363,
+      "longitude": 127.135028,
+      "website": ""
+    },
+    {
+      "name": "해양박물관 (Haeyang Museum)",
+      "name_en": "Haeyang Museum",
+      "city": "Guri-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.528344,
+      "longitude": 127.134994,
+      "website": ""
+    },
+    {
+      "name": "해양수산과학관 (Maritime Science Museum)",
+      "name_en": "Maritime Science Museum",
+      "city": "Yeosu",
+      "country": "Korea, Republic of",
+      "latitude": 34.682694,
+      "longitude": 127.775966,
+      "website": ""
+    },
+    {
+      "name": "해인불교전시관 (Haein Buddhism Exhibition Hall)",
+      "name_en": "Haein Buddhism Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.163712,
+      "longitude": 129.061505,
+      "website": ""
+    },
+    {
+      "name": "해인불교전시관 (Haein Buddhism Exhibition Hall)",
+      "name_en": "Haein Buddhism Exhibition Hall",
+      "city": "Busan",
+      "country": "Korea, Republic of",
+      "latitude": 35.134961,
+      "longitude": 129.087128,
+      "website": ""
+    },
+    {
+      "name": "행주대첩 기념관 (Haengjudaecheop Memorial Hall)",
+      "name_en": "Haengjudaecheop Memorial Hall",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.624338,
+      "longitude": 126.825383,
+      "website": ""
+    },
+    {
+      "name": "향촌문화관",
+      "name_en": "",
+      "city": "Daegu",
+      "country": "Korea, Republic of",
+      "latitude": 35.873388,
+      "longitude": 128.594411,
+      "website": ""
+    },
+    {
+      "name": "향토민속자료전시관 (Local Minsokjaryo Exhibition Hall)",
+      "name_en": "Local Minsokjaryo Exhibition Hall",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.931452,
+      "longitude": 127.691711,
+      "website": ""
+    },
+    {
+      "name": "헤르만헤세박물관 (Hereumanhese Museum)",
+      "name_en": "Hereumanhese Museum",
+      "city": "Kwangmyŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.545572,
+      "longitude": 126.880206,
+      "website": ""
+    },
+    {
+      "name": "현암기념관 (Hyeonam Memorial Hall)",
+      "name_en": "Hyeonam Memorial Hall",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.56375,
+      "longitude": 126.974855,
+      "website": ""
+    },
+    {
+      "name": "호남수석전시관 (Honamsuseok Exhibition Hall)",
+      "name_en": "Honamsuseok Exhibition Hall",
+      "city": "Muan",
+      "country": "Korea, Republic of",
+      "latitude": 34.933793,
+      "longitude": 126.434435,
+      "website": ""
+    },
+    {
+      "name": "호담항공우주전시관 (Hodamhanggonguju Exhibition Hall)",
+      "name_en": "Hodamhanggonguju Exhibition Hall",
+      "city": "Muan",
+      "country": "Korea, Republic of",
+      "latitude": 34.973612,
+      "longitude": 126.52024,
+      "website": ""
+    },
+    {
+      "name": "호수공원",
+      "name_en": "Goyangggoch Exhibition Hall",
+      "city": "Goyang-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.658035,
+      "longitude": 126.763171,
+      "website": ""
+    },
+    {
+      "name": "호안다구박물관 (Hoandagu Museum)",
+      "name_en": "Hoandagu Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.105716,
+      "longitude": 128.67687,
+      "website": ""
+    },
+    {
+      "name": "호암공원생태전시관 (Hoamgongwonsaengtae Exhibition Hall)",
+      "name_en": "Hoamgongwonsaengtae Exhibition Hall",
+      "city": "Koesan",
+      "country": "Korea, Republic of",
+      "latitude": 36.959979,
+      "longitude": 127.922085,
+      "website": ""
+    },
+    {
+      "name": "호야지리박물관 (Hoyajiri Museum)",
+      "name_en": "Hoyajiri Museum",
+      "city": "Neietsu",
+      "country": "Korea, Republic of",
+      "latitude": 37.299943,
+      "longitude": 128.262815,
+      "website": ""
+    },
+    {
+      "name": "홍사용 문학관",
+      "name_en": "",
+      "city": "Osan",
+      "country": "Korea, Republic of",
+      "latitude": 37.205263,
+      "longitude": 127.075247,
+      "website": ""
+    },
+    {
+      "name": "홍익대학교박물관 (Hongik University Museum)",
+      "name_en": "Hongik University Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.550902,
+      "longitude": 126.925985,
+      "website": ""
+    },
+    {
+      "name": "홍천생명건강과학관 (Hongcheonsaengmyeonggeongang Science Museum)",
+      "name_en": "Hongcheonsaengmyeonggeongang Science Museum",
+      "city": "Hongch’ŏn",
+      "country": "Korea, Republic of",
+      "latitude": 37.682672,
+      "longitude": 127.876595,
+      "website": ""
+    },
+    {
+      "name": "화정박물관 (Hwajeong Museum)",
+      "name_en": "Hwajeong Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.541467,
+      "longitude": 126.995021,
+      "website": ""
+    },
+    {
+      "name": "화정박물관 (Hwajeong Museum)",
+      "name_en": "Hwajeong Museum",
+      "city": "Seoul",
+      "country": "Korea, Republic of",
+      "latitude": 37.604682,
+      "longitude": 126.965811,
+      "website": ""
+    },
+    {
+      "name": "화진포 해양박물관 (Hwajinpo  Haeyang Museum)",
+      "name_en": "Hwajinpo  Haeyang Museum",
+      "city": "Kosong",
+      "country": "Korea, Republic of",
+      "latitude": 38.481546,
+      "longitude": 128.43593,
+      "website": ""
+    },
+    {
+      "name": "화진포역사안보전시관 (Hwajinpoyeoksaanbo Exhibition Hall)",
+      "name_en": "Hwajinpoyeoksaanbo Exhibition Hall",
+      "city": "Kosong",
+      "country": "Korea, Republic of",
+      "latitude": 38.380373,
+      "longitude": 128.4676,
+      "website": ""
+    },
+    {
+      "name": "화천민속박물관 (Hwacheon Folk Museum)",
+      "name_en": "Hwacheon Folk Museum",
+      "city": "Hwacheon",
+      "country": "Korea, Republic of",
+      "latitude": 38.097862,
+      "longitude": 127.703739,
+      "website": ""
+    },
+    {
+      "name": "환경재생조형박물관 (Hwangyeongjaesaengjohyeong Museum)",
+      "name_en": "Hwangyeongjaesaengjohyeong Museum",
+      "city": "Yangp'yŏng",
+      "country": "Korea, Republic of",
+      "latitude": 37.483445,
+      "longitude": 127.483347,
+      "website": ""
+    },
+    {
+      "name": "활박물관 (Hwal Museum)",
+      "name_en": "Hwal Museum",
+      "city": "Bucheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.50082,
+      "longitude": 126.797414,
+      "website": ""
+    },
+    {
+      "name": "황영조 기념관 (Hwangyeongjo Memorial Hall)",
+      "name_en": "Hwangyeongjo Memorial Hall",
+      "city": "Santyoku",
+      "country": "Korea, Republic of",
+      "latitude": 37.307259,
+      "longitude": 129.2948,
+      "website": ""
+    },
+    {
+      "name": "황제불교전시관 (Hwangje Buddhism Exhibition Hall)",
+      "name_en": "Hwangje Buddhism Exhibition Hall",
+      "city": "Wŏnju",
+      "country": "Korea, Republic of",
+      "latitude": 37.352974,
+      "longitude": 127.946852,
+      "website": ""
+    },
+    {
+      "name": "황토빛도자기전시관 (Hwangtobich Ceramic Exhibition Hall)",
+      "name_en": "Hwangtobich Ceramic Exhibition Hall",
+      "city": "Icheon-si",
+      "country": "Korea, Republic of",
+      "latitude": 37.294867,
+      "longitude": 127.412533,
+      "website": ""
+    },
+    {
+      "name": "효자정재수기념관 (Hyojajeongjaesu Memorial Hall)",
+      "name_en": "Hyojajeongjaesu Memorial Hall",
+      "city": "Sangju",
+      "country": "Korea, Republic of",
+      "latitude": 36.416277,
+      "longitude": 127.923247,
+      "website": ""
+    },
+    {
+      "name": "희년기념관 (Huinyeon Memorial Hall)",
+      "name_en": "Huinyeon Memorial Hall",
+      "city": "Kyonju",
+      "country": "Korea, Republic of",
+      "latitude": 35.848194,
+      "longitude": 129.206684,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 박물관 (Museums in South Korea) - 무료 다운로드",
+    "description": "OpenStreetMap 기반 대한민국 박물관·미술관 738곳 목록. 이름, 도시, 좌표, 웹사이트 포함. 포함 738 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 박물관 (Museums in South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 박물관 (Museums in South Korea) — 738 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 738 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

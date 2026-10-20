@@ -1,0 +1,136 @@
+{
+  "id": "ko-sigandae-atlantic",
+  "name": "대서양 시간대 (10)",
+  "title": "대서양 시간대 (10)",
+  "description": "IANA tz 식별자가 'Atlantic/'로 시작하는 시간대의 한국어 명칭 목록.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "아조레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Bermuda",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "버뮤다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Canary",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "카나리아 제도",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Cape_Verde",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "카보 베르데",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Faeroe",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "페로 제도",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/Madeira",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "마데이라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/Reykjavik",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "레이캬비크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Atlantic/South_Georgia",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "사우스조지아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Atlantic/St_Helena",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "세인트 헬레나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Atlantic/Stanley",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "스탠리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "대서양 시간대 (10) - 무료 다운로드",
+    "description": "IANA tz 식별자가 'Atlantic/'로 시작하는 시간대의 한국어 명칭 목록. 포함 10 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대서양 시간대 (10) | ListBase",
+    "seo_description": "다운로드 대서양 시간대 (10) — 10 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 10 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

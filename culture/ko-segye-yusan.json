@@ -1,0 +1,301 @@
+{
+  "id": "ko-segye-yusan",
+  "name": "대한민국의 유네스코 세계유산",
+  "title": "대한민국의 유네스코 세계유산",
+  "description": "유네스코 세계유산으로 등재된 대한민국의 유산 목록",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks",
+      "category": "Cultural",
+      "date_inscribed": 1995,
+      "criteria": "(iv)(vi)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 35.8,
+      "longitude": 128.1,
+      "short_description": "The Temple of Haeinsa, on Mount Gaya, is home to the Tripitaka Koreana , the most complete collection of Buddhist texts, engraved on 80,000 woodblocks between 1237 and 1248. The buildings of Janggyeong Panjeon, which date from the 15th century, were constructed to house the woodblocks, which are also revered as exceptional works of art. As the oldest depository of the Tripitaka , they reveal an astonishing mastery of the invention and implementation of the conservation techniques used to preserve these woodblocks.",
+      "id_number": 737,
+      "url": "https://whc.unesco.org/en/list/737"
+    },
+    {
+      "name": "Jongmyo Shrine",
+      "category": "Cultural",
+      "date_inscribed": 1995,
+      "criteria": "(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.55,
+      "longitude": 126.98333,
+      "short_description": "Jongmyo is the oldest and most authentic of the Confucian royal shrines to have been preserved. Dedicated to the forefathers of the Joseon dynasty (1392–1910), the shrine has existed in its present form since the 16th century and houses tablets bearing the teachings of members of the former royal family. Ritual ceremonies linking music, song and dance still take place there, perpetuating a tradition that goes back to the 14th century.",
+      "id_number": 738,
+      "url": "https://whc.unesco.org/en/list/738"
+    },
+    {
+      "name": "Seokguram Grotto and Bulguksa Temple",
+      "category": "Cultural",
+      "date_inscribed": 1995,
+      "criteria": "(i)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 35.783333,
+      "longitude": 129.35,
+      "short_description": "Established in the 8th century on the slopes of Mount Toham, the Seokguram Grotto contains a monumental statue of the Buddha looking at the sea in the bhumisparsha mudra position. With the surrounding portrayals of gods, Bodhisattvas and disciples, all realistically and delicately sculpted in high and low relief, it is considered a masterpiece of Buddhist art in the Far East. The Temple of Bulguksa (built in 774) and the Seokguram Grotto form a religious architectural complex of exceptional significance.",
+      "id_number": 736,
+      "url": "https://whc.unesco.org/en/list/736"
+    },
+    {
+      "name": "Changdeokgung Palace Complex",
+      "category": "Cultural",
+      "date_inscribed": 1997,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.55,
+      "longitude": 126.983333,
+      "short_description": "In the early 15th century, the King Taejong ordered the construction of a new palace at an auspicious site. A Bureau of Palace Construction was set up to create the complex, consisting of a number of official and residential buildings set in a garden that was cleverly adapted to the uneven topography of the 58-ha site. The result is an exceptional example of Far Eastern palace architecture and design, blending harmoniously with the surrounding landscape.",
+      "id_number": 816,
+      "url": "https://whc.unesco.org/en/list/816"
+    },
+    {
+      "name": "Hwaseong Fortress",
+      "category": "Cultural",
+      "date_inscribed": 1997,
+      "criteria": "(ii)(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.27222,
+      "longitude": 127.00833,
+      "short_description": "When the Joseon King Jeongjo moved his father's tomb to Suwon at the end of the 18th century, he surrounded it with strong defensive works, laid out according to the precepts of an influential military architect of the period, who brought together the latest developments in the field from both East and West. The massive walls, extending for nearly 6 km, still survive; they are pierced by four gates and equipped with bastions, artillery towers and other features.",
+      "id_number": 817,
+      "url": "https://whc.unesco.org/en/list/817"
+    },
+    {
+      "name": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 34.96667,
+      "longitude": 126.92917,
+      "short_description": "The prehistoric cemeteries at Gochang, Hwasun, and Ganghwa contain many hundreds of examples of dolmens - tombs from the 1st millennium BC constructed of large stone slabs. They form part of the Megalithic culture, found in many parts of the world, but nowhere in such a concentrated form.",
+      "id_number": 977,
+      "url": "https://whc.unesco.org/en/list/977"
+    },
+    {
+      "name": "Gyeongju Historic Areas",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(ii)(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 35.78889,
+      "longitude": 129.22667,
+      "short_description": "The Gyeongju Historic Areas contain a remarkable concentration of outstanding examples of Korean Buddhist art, in the form of sculptures, reliefs, pagodas, and the remains of temples and palaces from the flowering, in particular between the 7th and 10th centuries, of this form of unique artistic expression.",
+      "id_number": 976,
+      "url": "https://whc.unesco.org/en/list/976"
+    },
+    {
+      "name": "Jeju Volcanic Island and Lava Tubes",
+      "category": "Natural",
+      "date_inscribed": 2007,
+      "criteria": "(vii)(viii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 33.468889,
+      "longitude": 126.720278,
+      "short_description": "Jeju Volcanic Island and Lava Tubes together comprise three sites that make up 18,846 ha. It includes Geomunoreum, regarded as the finest lava tube system of caves anywhere, with its multicoloured carbonate roofs and floors, and dark-coloured lava walls; the fortress-like Seongsan Ilchulbong tuff cone, rising out of the ocean, a dramatic landscape; and Mount Halla, the highest in Korea, with its waterfalls, multi-shaped rock formations, and lake-filled crater. The site, of outstanding aesthetic beauty, also bears testimony to the history of the planet, its features and processes.",
+      "id_number": 1264,
+      "url": "https://whc.unesco.org/en/list/1264"
+    },
+    {
+      "name": "Royal Tombs of the Joseon Dynasty",
+      "category": "Cultural",
+      "date_inscribed": 2009,
+      "criteria": "(iii)(iv)(vi)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.197222,
+      "longitude": 128.452778,
+      "short_description": "The Royal Tombs of the Joseon Dynasty form a collection of 40 tombs scattered over 18 locations. Built over five centuries, from 1408 to 1966, the tombs honoured the memory of ancestors, showed respect for their achievements, asserted royal authority, protected ancestral spirits from evil and provided protection from vandalism. Spots of outstanding natural beauty were chosen for the tombs which typically have their back protected by a hill as they face south toward water and, ideally, layers of mountain ridges in the distance. Alongside the burial area, the royal tombs feature a ceremonial area and an entrance. In addition to the burial mounds, associated buildings that are an integral part of the tombs include a T-shaped wooden shrine, a shed for stele, a royal kitchen and a guards’ house, a red-spiked gate and the tomb keeper’s house. The grounds are adorned on the outside with a range of stone objects including figures of people and animals. The Joseon Tombs completes the 5,000 year history of royal tombs architecture in the Korean peninsula.",
+      "id_number": 1319,
+      "url": "https://whc.unesco.org/en/list/1319"
+    },
+    {
+      "name": "Historic Villages of Korea: Hahoe and Yangdong",
+      "category": "Cultural",
+      "date_inscribed": 2010,
+      "criteria": "(iii)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 36.539167,
+      "longitude": 128.516667,
+      "short_description": "Founded in the 14th-15th centuries, Hahoe and Yangdong are seen as the two most representative historic clan villages in the Republic of Korea. Their layout and location - sheltered by forested mountains and facing out onto a river and open agricultural fields – reflect the distinctive aristocratic Confucian culture of the early part of the Joseon Dynasty (1392-1910). The villages were located to provide both physical and spiritual nourishment from their surrounding landscapes. They include residences of the head families, together with substantial timber framed houses of other clan members, also pavilions, study halls, Confucian academies for learning, and clusters of one story mud-walled, thatched-roofed houses, formerly for commoners. The landscapes of mountains, trees and water around the village, framed in views from pavilions and retreats, were celebrated for their beauty by 17th and 18th century poets.",
+      "id_number": 1324,
+      "url": "https://whc.unesco.org/en/list/1324"
+    },
+    {
+      "name": "Namhansanseong",
+      "category": "Cultural",
+      "date_inscribed": 2014,
+      "criteria": "(ii)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.478889,
+      "longitude": 127.181111,
+      "short_description": "Namhansanseong was designed as an emergency capital for the Joseon dynasty (1392–1910), in a mountainous site 25 km south-east of Seoul. Built and defended by Buddhist monk-soldiers, it could accommodate 4,000 people and fulfilled important administrative and military functions. Its earliest remains date from the 7th century, but it was rebuilt several times, notably in the early 17th century in anticipation of an attack from the Sino-Manchu Qing dynasty. The city embodies a synthesis of the defensive military engineering concepts of the period, based on Chinese and Japanese influences, and changes in the art of fortification following the introduction from the West of weapons using gunpowder. A city that has always been inhabited, and which was the provincial capital over a long period, it contains evidence of a variety of military, civil and religious buildings and has become a symbol of Korean sovereignty.",
+      "id_number": 1439,
+      "url": "https://whc.unesco.org/en/list/1439"
+    },
+    {
+      "name": "Baekje Historic Areas",
+      "category": "Cultural",
+      "date_inscribed": 2015,
+      "criteria": "(ii)(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 36.461944,
+      "longitude": 127.127222,
+      "short_description": "Located in the mountainous mid-western region of the Republic of Korea, this property comprises eight archaeological sites dating from 475 to 660 CE, including the Gongsanseong fortress and royal tombs at Songsan-ri related to the capital, Ungjin (present day Gongju), the Busosanseong Fortress and Gwanbuk-ri administrative buildings, the Jeongnimsa Temple, the royal tombs in Neungsan-ri and the Naseong city wall related to the capital, Sabi (now Buyeo), the royal palace at Wanggung-ri and the Mireuksa Temple in Iksan related to the secondary Sabi capital. Together, these sites represent the later period of the Baekje Kingdom – one of the three earliest kingdoms on the Korean peninsula (18 BCE to 660 CE) - during which time they were at the crossroads of considerable technological, religious (Buddhist), cultural and artistic exchanges between the ancient East Asian kingdoms in Korea, China and Japan.",
+      "id_number": 1477,
+      "url": "https://whc.unesco.org/en/list/1477"
+    },
+    {
+      "name": "Sansa, Buddhist Mountain Monasteries in Korea",
+      "category": "Cultural",
+      "date_inscribed": 2018,
+      "criteria": "(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 36.541944,
+      "longitude": 127.833333,
+      "short_description": "The Sansa are Buddhist mountain monasteries located throughout the southern provinces of the Korean Peninsula. The spatial arrangement of the seven temples that comprise the property, established from the 7th to 9th centuries, present common characteristics that are specific to Korea – the ‘madang’ (open courtyard) flanked by four buildings (Buddha Hall, pavilion, lecture hall and dormitory). They contain a large number of individually remarkable structures, objects, documents and shrines. These mountain monasteries are sacred places, which have survived as living centres of faith and daily religious practice to the present.",
+      "id_number": 1562,
+      "url": "https://whc.unesco.org/en/list/1562"
+    },
+    {
+      "name": "Seowon, Korean Neo-Confucian Academies",
+      "category": "Cultural",
+      "date_inscribed": 2019,
+      "criteria": "(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Republic of Korea",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 36.727297,
+      "longitude": 128.843428,
+      "short_description": "The property is located in central and southern parts of the Republic of Korea, and comprises nine seowon , representing a type of Neo-Confucian academy of the Joseon dynasty (15th -19th centuries CE). Learning, veneration of scholars and interaction with the environment were the essential functions of the seowons , expressed in their design. Situated near mountains and water sources, they favoured the appreciation of nature and cultivation of mind and body. The pavilion-style buildings were intended to facilitate connections to the landscape. The seowons illustrate a historical process in which Neo-Confucianism from China was adapted to Korean conditions.",
+      "id_number": 1498,
+      "url": "https://whc.unesco.org/en/list/1498"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 유네스코 세계유산 - 무료 다운로드",
+    "description": "유네스코 세계유산으로 등재된 대한민국의 유산 목록 포함 14 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 유네스코 세계유산 | ListBase",
+    "seo_description": "다운로드 대한민국의 유네스코 세계유산 — 14 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 14 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

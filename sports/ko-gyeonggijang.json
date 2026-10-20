@@ -1,0 +1,866 @@
+{
+  "id": "ko-gyeonggijang",
+  "name": "대한민국의 경기장 (Stadiums of South Korea)",
+  "title": "대한민국의 경기장 (Stadiums of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 경기장(스타디움) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "동대문야구장",
+      "name_en": "Dongdaemun Baseball Stadium",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.566728,
+      "longitude": 127.009247,
+      "wikidata_id": "Q484274",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q484274"
+    },
+    {
+      "name_ko": "숭의야구장",
+      "name_en": "Sungui Baseball Stadium",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.4667,
+      "longitude": 126.643,
+      "wikidata_id": "Q623462",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q623462"
+    },
+    {
+      "name_ko": "울산문수야구장",
+      "name_en": "Ulsan Baseball Stadium",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.532,
+      "longitude": 129.266,
+      "wikidata_id": "Q7879921",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7879921"
+    },
+    {
+      "name_ko": "유니버시아드 테니스장",
+      "name_en": "Duryu Park Stadium",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.849969,
+      "longitude": 128.563828,
+      "wikidata_id": "Q5316833",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5316833"
+    },
+    {
+      "name_ko": "전주종합경기장",
+      "name_en": "Jeonju Sports Complex",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.839009,
+      "longitude": 127.126355,
+      "wikidata_id": "Q11269664",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11269664"
+    },
+    {
+      "name_ko": "전주종합경기장 야구장",
+      "name_en": "Jeonju Baseball Stadium",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.837807,
+      "longitude": 127.124679,
+      "wikidata_id": "Q6180330",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6180330"
+    },
+    {
+      "name_ko": "강릉실내종합체육관",
+      "name_en": "Gangneung Indoor Ice Rink",
+      "admin_area_ko": "강릉시",
+      "admin_area_en": "Gangneung",
+      "latitude": 37.773764,
+      "longitude": 128.892519,
+      "wikidata_id": "Q5521161",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5521161"
+    },
+    {
+      "name_ko": "경찰 야구단 야구장",
+      "name_en": "Byukje Baseball Stadium",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.730139,
+      "longitude": 126.849917,
+      "wikidata_id": "Q5004664",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5004664"
+    },
+    {
+      "name_ko": "고양 국가대표 야구훈련장",
+      "name_en": "Goyang Korea national baseball team Training Stadium",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.681333,
+      "longitude": 126.741667,
+      "wikidata_id": "Q5590181",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5590181"
+    },
+    {
+      "name_ko": "고양종합운동장",
+      "name_en": "Goyang Stadium",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.676422,
+      "longitude": 126.743056,
+      "wikidata_id": "Q484713",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q484713"
+    },
+    {
+      "name_ko": "광양축구전용구장",
+      "name_en": "Gwangyang Football Stadium",
+      "admin_area_ko": "광양시",
+      "admin_area_en": "Gwangyang",
+      "latitude": 34.93312,
+      "longitude": 127.727478,
+      "wikidata_id": "Q488404",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q488404"
+    },
+    {
+      "name_ko": "광주무등경기장",
+      "name_en": "Gwangju Mudeung Stadium",
+      "admin_area_ko": "광주광역시",
+      "admin_area_en": "Gwangju",
+      "latitude": 35.168189,
+      "longitude": 126.88914,
+      "wikidata_id": "Q492662",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q492662"
+    },
+    {
+      "name_ko": "구미시민운동장",
+      "name_en": "Gumi Civic Stadium",
+      "admin_area_ko": "구미시",
+      "admin_area_en": "Gumi",
+      "latitude": 36.111397,
+      "longitude": 128.352214,
+      "wikidata_id": "Q5618125",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5618125"
+    },
+    {
+      "name_ko": "군산월명종합운동장 야구장",
+      "name_en": "Gunsan Wallmyeong Baseball Stadium",
+      "admin_area_ko": "군산시",
+      "admin_area_en": "Gunsan",
+      "latitude": 35.966,
+      "longitude": 126.748,
+      "wikidata_id": "Q493760",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q493760"
+    },
+    {
+      "name_ko": "김천종합운동장",
+      "name_en": "Gimcheon Stadium",
+      "admin_area_ko": "김천시",
+      "admin_area_en": "Gimcheon",
+      "latitude": 36.139642,
+      "longitude": 128.086508,
+      "wikidata_id": "Q5562676",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5562676"
+    },
+    {
+      "name_ko": "김포종합운동장",
+      "name_en": "Gimpo Stadium",
+      "admin_area_ko": "김포시",
+      "admin_area_en": "Gimpo",
+      "latitude": 37.617559,
+      "longitude": 126.719672,
+      "wikidata_id": "Q5562785",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5562785"
+    },
+    {
+      "name_ko": "김해운동장",
+      "name_en": "Gimhae Stadium",
+      "admin_area_ko": "김해시",
+      "admin_area_en": "Gimhae",
+      "latitude": 35.255573,
+      "longitude": 128.877118,
+      "wikidata_id": "Q5562687",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5562687"
+    },
+    {
+      "name_ko": "알펜시아 노르딕 경기장",
+      "name_en": "Alpensia Cross-Country Centre",
+      "admin_area_ko": "대관령면",
+      "admin_area_en": "Daegwallyeong-myeon",
+      "latitude": 37.664,
+      "longitude": 128.685,
+      "wikidata_id": "Q18492960",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18492960"
+    },
+    {
+      "name_ko": "대구스타디움",
+      "name_en": "Daegu Stadium",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.829739,
+      "longitude": 128.690205,
+      "wikidata_id": "Q482441",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482441"
+    },
+    {
+      "name_ko": "대구시민운동장 야구장",
+      "name_en": "Daegu Baseball Stadium",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.880975,
+      "longitude": 128.586572,
+      "wikidata_id": "Q489449",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489449"
+    },
+    {
+      "name_ko": "한밭종합운동장 야구장",
+      "name_en": "Daejeon Hanbat Baseball Stadium",
+      "admin_area_ko": "대전광역시",
+      "admin_area_en": "Daejeon",
+      "latitude": 36.316944,
+      "longitude": 127.429444,
+      "wikidata_id": "Q489704",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489704"
+    },
+    {
+      "name_ko": "마산종합운동장 야구장",
+      "name_en": "Masan Baseball Stadium",
+      "admin_area_ko": "마산회원구",
+      "admin_area_en": "Masanhoewon-gu",
+      "latitude": 35.220797,
+      "longitude": 128.581058,
+      "wikidata_id": "Q624231",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624231"
+    },
+    {
+      "name_ko": "보은공설운동장",
+      "name_en": "Boeun Public Stadium",
+      "admin_area_ko": "보은군",
+      "admin_area_en": "Boeun County",
+      "latitude": 36.486784,
+      "longitude": 127.729659,
+      "wikidata_id": "Q12598416",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12598416"
+    },
+    {
+      "name_ko": "사직야구장",
+      "name_en": "Sajik Baseball Stadium",
+      "admin_area_ko": "부산광역시",
+      "admin_area_en": "Busan",
+      "latitude": 35.194278,
+      "longitude": 129.061306,
+      "wikidata_id": "Q489909",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489909"
+    },
+    {
+      "name_ko": "부천종합운동장",
+      "name_en": "Bucheon Stadium",
+      "admin_area_ko": "부천시",
+      "admin_area_en": "Bucheon",
+      "latitude": 37.502567,
+      "longitude": 126.798999,
+      "wikidata_id": "Q4982684",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4982684"
+    },
+    {
+      "name_ko": "대구시민운동장",
+      "name_en": "Daegu Civic Stadium",
+      "admin_area_ko": "북구",
+      "admin_area_en": "Buk District",
+      "latitude": 35.881253,
+      "longitude": 128.588231,
+      "wikidata_id": "Q262526",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q262526"
+    },
+    {
+      "name_ko": "삼척종합운동장",
+      "name_en": "Samcheok Stadium",
+      "admin_area_ko": "삼척시",
+      "admin_area_en": "Samcheok",
+      "latitude": 37.455782,
+      "longitude": 129.173575,
+      "wikidata_id": "Q20194113",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20194113"
+    },
+    {
+      "name_ko": "상주시민운동장",
+      "name_en": "Sangju Civic Stadium",
+      "admin_area_ko": "상주시",
+      "admin_area_en": "Sangju",
+      "latitude": 36.432297,
+      "longitude": 128.161579,
+      "wikidata_id": "Q7418025",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7418025"
+    },
+    {
+      "name_ko": "구덕야구장",
+      "name_en": "Gudeok Baseball Stadium",
+      "admin_area_ko": "서구",
+      "admin_area_en": "Seo District",
+      "latitude": 35.194278,
+      "longitude": 129.061306,
+      "wikidata_id": "Q625058",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625058"
+    },
+    {
+      "name_ko": "구덕운동장",
+      "name_en": "Busan Gudeok Stadium",
+      "admin_area_ko": "서대신동",
+      "admin_area_en": "Seodaesin-dong",
+      "latitude": 35.116543,
+      "longitude": 129.014543,
+      "wikidata_id": "Q5001263",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5001263"
+    },
+    {
+      "name_ko": "서산종합운동장",
+      "name_en": "Seosan City Stadium",
+      "admin_area_ko": "서산시",
+      "admin_area_en": "Seosan",
+      "latitude": 36.797669,
+      "longitude": 126.434419,
+      "wikidata_id": "Q7451629",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7451629"
+    },
+    {
+      "name_ko": "노원마들스타디움",
+      "name_en": "Nowon Madeul Stadium",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.643955,
+      "longitude": 127.057523,
+      "wikidata_id": "Q6727168",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6727168"
+    },
+    {
+      "name_ko": "동대문운동장",
+      "name_en": "Dongdaemun Stadium",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.56758,
+      "longitude": 127.010595,
+      "wikidata_id": "Q489240",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489240"
+    },
+    {
+      "name_ko": "목동운동장",
+      "name_en": "Mokdong Stadium",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.530509,
+      "longitude": 126.883022,
+      "wikidata_id": "Q6895259",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6895259"
+    },
+    {
+      "name_ko": "상무야구장",
+      "name_en": "Sangmu Baseball Stadium",
+      "admin_area_ko": "성남시",
+      "admin_area_en": "Seongnam",
+      "latitude": 36.648833,
+      "longitude": 128.16475,
+      "wikidata_id": "Q7418054",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7418054"
+    },
+    {
+      "name_ko": "성남종합운동장",
+      "name_en": "Seongnam Stadium",
+      "admin_area_ko": "성남시",
+      "admin_area_en": "Seongnam",
+      "latitude": 37.433128,
+      "longitude": 127.13752,
+      "wikidata_id": "Q7451601",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7451601"
+    },
+    {
+      "name_ko": "탄천종합운동장",
+      "name_en": "Tancheon Sports Complex",
+      "admin_area_ko": "성남시",
+      "admin_area_en": "Seongnam",
+      "latitude": 37.410166,
+      "longitude": 127.121273,
+      "wikidata_id": "Q497095",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q497095"
+    },
+    {
+      "name_ko": "속초종합경기장",
+      "name_en": "Sokcho Sports Complex",
+      "admin_area_ko": "속초시",
+      "admin_area_en": "Sokcho",
+      "latitude": 38.192747,
+      "longitude": 128.534658,
+      "wikidata_id": "Q20188948",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20188948"
+    },
+    {
+      "name_ko": "수원월드컵경기장",
+      "name_en": "Suwon World Cup Stadium",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.286421,
+      "longitude": 127.036855,
+      "wikidata_id": "Q494761",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494761"
+    },
+    {
+      "name_ko": "양산종합운동장",
+      "name_en": "Yangsan Stadium",
+      "admin_area_ko": "양산시",
+      "admin_area_en": "Yangsan",
+      "latitude": 35.344688,
+      "longitude": 129.032218,
+      "wikidata_id": "Q8048650",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8048650"
+    },
+    {
+      "name_ko": "목동야구장",
+      "name_en": "Mokdong Baseball Stadium",
+      "admin_area_ko": "양천구",
+      "admin_area_en": "Yangcheon District",
+      "latitude": 37.530706,
+      "longitude": 126.880978,
+      "wikidata_id": "Q490165",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490165"
+    },
+    {
+      "name_ko": "울산공설운동장",
+      "name_en": "Ulsan Public Stadium",
+      "admin_area_ko": "울산광역시",
+      "admin_area_en": "Ulsan",
+      "latitude": 35.562396,
+      "longitude": 129.34802,
+      "wikidata_id": "Q16743852",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16743852"
+    },
+    {
+      "name_ko": "울산종합운동장",
+      "name_en": "Ulsan Stadium",
+      "admin_area_ko": "울산광역시",
+      "admin_area_en": "Ulsan",
+      "latitude": 35.562396,
+      "longitude": 129.34802,
+      "wikidata_id": "Q486725",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q486725"
+    },
+    {
+      "name_ko": "울진종합운동장",
+      "name_en": "Uljin Stadium",
+      "admin_area_ko": "울진군",
+      "admin_area_en": "Uljin County",
+      "latitude": 36.95823,
+      "longitude": 129.374814,
+      "wikidata_id": "Q115118289",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115118289"
+    },
+    {
+      "name_ko": "원주종합운동장",
+      "name_en": "Wonju Stadium",
+      "admin_area_ko": "원주시",
+      "admin_area_en": "Wonju",
+      "latitude": 37.337376,
+      "longitude": 127.944224,
+      "wikidata_id": "Q8032073",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8032073"
+    },
+    {
+      "name_ko": "의정부종합운동장",
+      "name_en": "Uijeongbu Sports Complex",
+      "admin_area_ko": "의정부시",
+      "admin_area_en": "Uijeongbu",
+      "latitude": 37.757921,
+      "longitude": 127.029747,
+      "wikidata_id": "Q7878065",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7878065"
+    },
+    {
+      "name_ko": "두산 베어스 필드",
+      "name_en": "Bears Field",
+      "admin_area_ko": "이천시",
+      "admin_area_en": "Icheon",
+      "latitude": 37.331528,
+      "longitude": 127.457556,
+      "wikidata_id": "Q4876770",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4876770"
+    },
+    {
+      "name_ko": "이천종합운동장",
+      "name_en": "Icheon Sports Complex",
+      "admin_area_ko": "이천시",
+      "admin_area_en": "Icheon",
+      "latitude": 37.285788,
+      "longitude": 127.496645,
+      "wikidata_id": "Q5986070",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5986070"
+    },
+    {
+      "name_ko": "송도 LNG 야구장",
+      "name_en": "Songdo LNG Baseball Stadium",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.3524,
+      "longitude": 126.6169,
+      "wikidata_id": "Q7561250",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7561250"
+    },
+    {
+      "name_ko": "숭의종합경기장",
+      "name_en": "Sungui Sports Complex",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.465679,
+      "longitude": 126.64342,
+      "wikidata_id": "Q12603532",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12603532"
+    },
+    {
+      "name_ko": "인천SSG랜더스필드",
+      "name_en": "Incheon SSG Landers Field",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.437111,
+      "longitude": 126.693306,
+      "wikidata_id": "Q489490",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489490"
+    },
+    {
+      "name_ko": "인천문학경기장",
+      "name_en": "Incheon Munhak Sports Complex",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.434984,
+      "longitude": 126.690699,
+      "wikidata_id": "Q138554",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138554"
+    },
+    {
+      "name_ko": "인천아시아드주경기장",
+      "name_en": "Incheon Asiad Main Stadium",
+      "admin_area_ko": "인천광역시",
+      "admin_area_en": "Incheon",
+      "latitude": 37.547675,
+      "longitude": 126.666682,
+      "wikidata_id": "Q497430",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q497430"
+    },
+    {
+      "name_ko": "광주무등경기장 야구장",
+      "name_en": "Gwangju Mudeung Baseball Stadium",
+      "admin_area_ko": "임동",
+      "admin_area_en": "Im-dong",
+      "latitude": 35.168889,
+      "longitude": 126.887222,
+      "wikidata_id": "Q489506",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489506"
+    },
+    {
+      "name_ko": "임실종합경기장",
+      "name_en": "Imsil Stadium",
+      "admin_area_ko": "임실군",
+      "admin_area_en": "Imsil County",
+      "latitude": 35.607221,
+      "longitude": 127.283577,
+      "wikidata_id": "Q104186784",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104186784"
+    },
+    {
+      "name_ko": "잠실야구장",
+      "name_en": "Jamsil Baseball Stadium",
+      "admin_area_ko": "잠실동",
+      "admin_area_en": "Jamsil-dong",
+      "latitude": 37.512389,
+      "longitude": 127.071972,
+      "wikidata_id": "Q490616",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490616"
+    },
+    {
+      "name_ko": "수원야구장",
+      "name_en": "Suwon Baseball Stadium",
+      "admin_area_ko": "장안구",
+      "admin_area_en": "Jangan-gu",
+      "latitude": 37.300122,
+      "longitude": 127.009635,
+      "wikidata_id": "Q482926",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482926"
+    },
+    {
+      "name_ko": "제주오라종합경기장 야구장",
+      "name_en": "Jeju Baseball Stadium",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.495722,
+      "longitude": 126.514389,
+      "wikidata_id": "Q6176552",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6176552"
+    },
+    {
+      "name_ko": "제주종합경기장",
+      "name_en": "Jeju Sports Complex",
+      "admin_area_ko": "제주시",
+      "admin_area_en": "Jeju",
+      "latitude": 33.497169,
+      "longitude": 126.51367,
+      "wikidata_id": "Q6176564",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6176564"
+    },
+    {
+      "name_ko": "제천종합운동장",
+      "name_en": "Jecheon Stadium",
+      "admin_area_ko": "제천시",
+      "admin_area_en": "Jecheon",
+      "latitude": 37.130008,
+      "longitude": 128.217745,
+      "wikidata_id": "Q6172569",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6172569"
+    },
+    {
+      "name_ko": "진주공설운동장",
+      "name_en": "Jinju Public Stadium",
+      "admin_area_ko": "진주시",
+      "admin_area_en": "Jinju",
+      "latitude": 35.188498,
+      "longitude": 128.067315,
+      "wikidata_id": "Q6202565",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6202565"
+    },
+    {
+      "name_ko": "진주종합경기장",
+      "name_en": "Jinju Stadium",
+      "admin_area_ko": "진주시",
+      "admin_area_en": "Jinju",
+      "latitude": 35.182943,
+      "longitude": 128.135836,
+      "wikidata_id": "Q6202574",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6202574"
+    },
+    {
+      "name_ko": "창원종합운동장",
+      "name_en": "Changwon Stadium",
+      "admin_area_ko": "창원시",
+      "admin_area_en": "Changwon",
+      "latitude": 35.23402,
+      "longitude": 128.664753,
+      "wikidata_id": "Q483820",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483820"
+    },
+    {
+      "name_ko": "창원축구센터",
+      "name_en": "Changwon Football Center",
+      "admin_area_ko": "창원시",
+      "admin_area_en": "Changwon",
+      "latitude": 35.223406,
+      "longitude": 128.705707,
+      "wikidata_id": "Q493801",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q493801"
+    },
+    {
+      "name_ko": "천안오룡경기장",
+      "name_en": "Cheonan Oryong Stadium",
+      "admin_area_ko": "천안시",
+      "admin_area_en": "Cheonan",
+      "latitude": 36.812694,
+      "longitude": 127.162348,
+      "wikidata_id": "Q495291",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q495291"
+    },
+    {
+      "name_ko": "천안종합운동장",
+      "name_en": "Cheonan Stadium",
+      "admin_area_ko": "천안시",
+      "admin_area_en": "Cheonan",
+      "latitude": 36.81876,
+      "longitude": 127.115081,
+      "wikidata_id": "Q5091591",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5091591"
+    },
+    {
+      "name_ko": "청주야구장",
+      "name_en": "Cheongju Baseball Stadium",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.638611,
+      "longitude": 127.47,
+      "wikidata_id": "Q625864",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q625864"
+    },
+    {
+      "name_ko": "청주종합경기장",
+      "name_en": "Cheongju Sports Complex",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.637851,
+      "longitude": 127.472375,
+      "wikidata_id": "Q5091647",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5091647"
+    },
+    {
+      "name_ko": "의암야구장",
+      "name_en": "Chuncheon Baseball Stadium",
+      "admin_area_ko": "춘천시",
+      "admin_area_en": "Chuncheon",
+      "latitude": 37.8537,
+      "longitude": 127.6899,
+      "wikidata_id": "Q5116239",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5116239"
+    },
+    {
+      "name_ko": "춘천송암스포츠타운",
+      "name_en": "Chuncheon Songam Sports Town",
+      "admin_area_ko": "춘천시",
+      "admin_area_en": "Chuncheon",
+      "latitude": 37.855952,
+      "longitude": 127.690945,
+      "wikidata_id": "Q5116244",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5116244"
+    },
+    {
+      "name_ko": "춘천종합운동장",
+      "name_en": "Chuncheon Stadium",
+      "admin_area_ko": "춘천시",
+      "admin_area_en": "Chuncheon",
+      "latitude": 37.869118,
+      "longitude": 127.718394,
+      "wikidata_id": "Q5116237",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5116237"
+    },
+    {
+      "name_ko": "충주공설운동장",
+      "name_en": "Chungju Public Stadium",
+      "admin_area_ko": "충주시",
+      "admin_area_en": "Chungju",
+      "latitude": 36.980383,
+      "longitude": 127.936387,
+      "wikidata_id": "Q5116379",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5116379"
+    },
+    {
+      "name_ko": "파주스타디움",
+      "name_en": "Paju Stadium",
+      "admin_area_ko": "파주시",
+      "admin_area_en": "Paju",
+      "latitude": 37.756085,
+      "longitude": 126.786476,
+      "wikidata_id": "Q7125325",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7125325"
+    },
+    {
+      "name_ko": "알펜시아 바이애슬론 경기장",
+      "name_en": "Alpensia Biathlon Centre",
+      "admin_area_ko": "평창군",
+      "admin_area_en": "Pyeongchang County",
+      "latitude": 37.6631,
+      "longitude": 128.6876,
+      "wikidata_id": "Q18492965",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18492965"
+    },
+    {
+      "name_ko": "평창알펜시아스키점프센터",
+      "name_en": "Alpensia Ski Jumping Stadium",
+      "admin_area_ko": "평창군",
+      "admin_area_en": "Pyeongchang County",
+      "latitude": 37.6617,
+      "longitude": 128.6806,
+      "wikidata_id": "Q488308",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q488308"
+    },
+    {
+      "name_ko": "포천종합운동장",
+      "name_en": "Pocheon Stadium",
+      "admin_area_ko": "포천시",
+      "admin_area_en": "Pocheon",
+      "latitude": 37.887965,
+      "longitude": 127.200777,
+      "wikidata_id": "Q20241128",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20241128"
+    },
+    {
+      "name_ko": "포항야구장",
+      "name_en": "Pohang Baseball Stadium",
+      "admin_area_ko": "포항시",
+      "admin_area_en": "Pohang",
+      "latitude": 36.007778,
+      "longitude": 129.359444,
+      "wikidata_id": "Q7207755",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7207755"
+    },
+    {
+      "name_ko": "함안공설운동장",
+      "name_en": "Haman Public Stadium",
+      "admin_area_ko": "함안군",
+      "admin_area_en": "Haman County",
+      "latitude": 35.281861,
+      "longitude": 128.398233,
+      "wikidata_id": "Q5644033",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5644033"
+    },
+    {
+      "name_ko": "전남야구장",
+      "name_en": "Jeonnam Stadium",
+      "admin_area_ko": "함평군",
+      "admin_area_en": "Hampyeong County",
+      "latitude": 35.1153,
+      "longitude": 126.5255,
+      "wikidata_id": "Q6180342",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6180342"
+    },
+    {
+      "name_ko": "화천생활체육공원",
+      "name_en": "Hwacheon Sports Park",
+      "admin_area_ko": "화천군",
+      "admin_area_en": "Hwacheon County",
+      "latitude": 38.096446,
+      "longitude": 127.701755,
+      "wikidata_id": "Q18734162",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18734162"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 경기장 (Stadiums of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 경기장(스타디움) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 80 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 경기장 (Stadiums of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 경기장 (Stadiums of South Korea) — 80 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 80 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

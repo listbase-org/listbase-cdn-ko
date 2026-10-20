@@ -1,0 +1,457 @@
+{
+  "id": "ko-cheukjeong-danwi-volume",
+  "name": "부피 단위 (44)",
+  "title": "부피 단위 (44)",
+  "description": "CLDR ko 로케일의 'volume' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "volume-acre-foot",
+      "bunryu": "volume",
+      "ireum": "에이커 피트",
+      "yakja": "ac ft",
+      "gan_yakja": "ac ft",
+      "danwi_paeteon": "{0}에이커 피트",
+      "id": 1
+    },
+    {
+      "unit_code": "volume-barrel",
+      "bunryu": "volume",
+      "ireum": "배럴",
+      "yakja": "bbl",
+      "gan_yakja": "bbl",
+      "danwi_paeteon": "{0}배럴",
+      "id": 2
+    },
+    {
+      "unit_code": "volume-bushel",
+      "bunryu": "volume",
+      "ireum": "부셸",
+      "yakja": "bu",
+      "gan_yakja": "bu",
+      "danwi_paeteon": "{0}부셸",
+      "id": 3
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "bunryu": "volume",
+      "ireum": "센티리터",
+      "yakja": "cL",
+      "gan_yakja": "cL",
+      "danwi_paeteon": "{0}센티리터",
+      "id": 4
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "bunryu": "volume",
+      "ireum": "세제곱센티미터",
+      "yakja": "cm³",
+      "gan_yakja": "cm³",
+      "danwi_paeteon": "{0}세제곱센티미터",
+      "id": 5
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "bunryu": "volume",
+      "ireum": "세제곱피트",
+      "yakja": "ft³",
+      "gan_yakja": "ft³",
+      "danwi_paeteon": "{0}세제곱피트",
+      "id": 6
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "bunryu": "volume",
+      "ireum": "세제곱인치",
+      "yakja": "in³",
+      "gan_yakja": "in³",
+      "danwi_paeteon": "{0}세제곱인치",
+      "id": 7
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "bunryu": "volume",
+      "ireum": "세제곱킬로미터",
+      "yakja": "km³",
+      "gan_yakja": "km³",
+      "danwi_paeteon": "{0}세제곱킬로미터",
+      "id": 8
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "bunryu": "volume",
+      "ireum": "세제곱미터",
+      "yakja": "m³",
+      "gan_yakja": "m³",
+      "danwi_paeteon": "{0}세제곱미터",
+      "id": 9
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "bunryu": "volume",
+      "ireum": "세제곱마일",
+      "yakja": "mi³",
+      "gan_yakja": "mi³",
+      "danwi_paeteon": "{0}세제곱마일",
+      "id": 10
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "bunryu": "volume",
+      "ireum": "세제곱야드",
+      "yakja": "yd³",
+      "gan_yakja": "yd³",
+      "danwi_paeteon": "{0}세제곱야드",
+      "id": 11
+    },
+    {
+      "unit_code": "volume-cup",
+      "bunryu": "volume",
+      "ireum": "컵",
+      "yakja": "컵",
+      "gan_yakja": "컵",
+      "danwi_paeteon": "{0}컵",
+      "id": 12
+    },
+    {
+      "unit_code": "volume-cup-imperial",
+      "bunryu": "volume",
+      "ireum": "cup Imp.",
+      "yakja": "cup Imp.",
+      "gan_yakja": "cup Imp.",
+      "danwi_paeteon": "{0} cup Imp.",
+      "id": 13
+    },
+    {
+      "unit_code": "volume-cup-jp",
+      "bunryu": "volume",
+      "ireum": "cup [JP]",
+      "yakja": "cup [JP]",
+      "gan_yakja": "cup [JP]",
+      "danwi_paeteon": "{0} cup [JP]",
+      "id": 14
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "bunryu": "volume",
+      "ireum": "미터식 컵",
+      "yakja": "mcup",
+      "gan_yakja": "mcup",
+      "danwi_paeteon": "{0}미터식 컵",
+      "id": 15
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "bunryu": "volume",
+      "ireum": "데시리터",
+      "yakja": "dL",
+      "gan_yakja": "dL",
+      "danwi_paeteon": "{0}데시리터",
+      "id": 16
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "bunryu": "volume",
+      "ireum": "디저트스푼",
+      "yakja": "dstspn",
+      "gan_yakja": "dstspn",
+      "danwi_paeteon": "{0}디저트스푼",
+      "id": 17
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "bunryu": "volume",
+      "ireum": "영국 디저트스푼",
+      "yakja": "dstspn Imp",
+      "gan_yakja": "dsp Imp",
+      "danwi_paeteon": "{0}영국 디저트스푼",
+      "id": 18
+    },
+    {
+      "unit_code": "volume-dram",
+      "bunryu": "volume",
+      "ireum": "영국 액량 드램",
+      "yakja": "dram fluid",
+      "gan_yakja": "dram fluid",
+      "danwi_paeteon": "{0}영국 액량 드램",
+      "id": 19
+    },
+    {
+      "unit_code": "volume-drop",
+      "bunryu": "volume",
+      "ireum": "방울",
+      "yakja": "drop",
+      "gan_yakja": "drop",
+      "danwi_paeteon": "{0}방울",
+      "id": 20
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "bunryu": "volume",
+      "ireum": "액량 온스",
+      "yakja": "fl oz",
+      "gan_yakja": "fl oz",
+      "danwi_paeteon": "{0}액량 온스",
+      "id": 21
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "bunryu": "volume",
+      "ireum": "영국 액량 온스",
+      "yakja": "Imp. fl oz",
+      "gan_yakja": "Imp. fl oz",
+      "danwi_paeteon": "{0}영국 액량 온스",
+      "id": 22
+    },
+    {
+      "unit_code": "volume-fluid-ounce-metric",
+      "bunryu": "volume",
+      "ireum": "미터식 액량 온스",
+      "yakja": "fl oz m.",
+      "gan_yakja": "fl oz m.",
+      "danwi_paeteon": "{0}미터식 액량 온스",
+      "id": 23
+    },
+    {
+      "unit_code": "volume-gallon",
+      "bunryu": "volume",
+      "ireum": "갤런",
+      "yakja": "gal",
+      "gan_yakja": "gal",
+      "danwi_paeteon": "{0}갤런",
+      "id": 24
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "bunryu": "volume",
+      "ireum": "영국식 갤런",
+      "yakja": "Imp. gal",
+      "gan_yakja": "Imp. gal",
+      "danwi_paeteon": "{0}영국식 갤런",
+      "id": 25
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "bunryu": "volume",
+      "ireum": "헥토리터",
+      "yakja": "hL",
+      "gan_yakja": "hL",
+      "danwi_paeteon": "{0}헥토리터",
+      "id": 26
+    },
+    {
+      "unit_code": "volume-jigger",
+      "bunryu": "volume",
+      "ireum": "지거",
+      "yakja": "jigger",
+      "gan_yakja": "jigger",
+      "danwi_paeteon": "{0}지거",
+      "id": 27
+    },
+    {
+      "unit_code": "volume-koku",
+      "bunryu": "volume",
+      "ireum": "koku [JP]",
+      "yakja": "koku [JP]",
+      "gan_yakja": "koku [JP]",
+      "danwi_paeteon": "{0} koku [JP]",
+      "id": 28
+    },
+    {
+      "unit_code": "volume-kosaji",
+      "bunryu": "volume",
+      "ireum": "kosaji [JP]",
+      "yakja": "kosaji [JP]",
+      "gan_yakja": "kosaji [JP]",
+      "danwi_paeteon": "{0} kosaji [JP]",
+      "id": 29
+    },
+    {
+      "unit_code": "volume-liter",
+      "bunryu": "volume",
+      "ireum": "리터",
+      "yakja": "리터",
+      "gan_yakja": "리터",
+      "danwi_paeteon": "{0}리터",
+      "id": 30
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "bunryu": "volume",
+      "ireum": "메가리터",
+      "yakja": "ML",
+      "gan_yakja": "ML",
+      "danwi_paeteon": "{0}메가리터",
+      "id": 31
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "bunryu": "volume",
+      "ireum": "밀리리터",
+      "yakja": "mL",
+      "gan_yakja": "mL",
+      "danwi_paeteon": "{0}밀리리터",
+      "id": 32
+    },
+    {
+      "unit_code": "volume-osaji",
+      "bunryu": "volume",
+      "ireum": "osaji [JP]",
+      "yakja": "osaji [JP]",
+      "gan_yakja": "osaji [JP]",
+      "danwi_paeteon": "{0} osaji [JP]",
+      "id": 33
+    },
+    {
+      "unit_code": "volume-pinch",
+      "bunryu": "volume",
+      "ireum": "꼬집",
+      "yakja": "pinch",
+      "gan_yakja": "pinch",
+      "danwi_paeteon": "{0}꼬집",
+      "id": 34
+    },
+    {
+      "unit_code": "volume-pint",
+      "bunryu": "volume",
+      "ireum": "파인트",
+      "yakja": "pt",
+      "gan_yakja": "pt",
+      "danwi_paeteon": "{0}파인트",
+      "id": 35
+    },
+    {
+      "unit_code": "volume-pint-imperial",
+      "bunryu": "volume",
+      "ireum": "pint Imp.",
+      "yakja": "pint Imp.",
+      "gan_yakja": "pint Imp.",
+      "danwi_paeteon": "{0} pt Imp.",
+      "id": 36
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "bunryu": "volume",
+      "ireum": "미터식 파인트",
+      "yakja": "mpt",
+      "gan_yakja": "mpt",
+      "danwi_paeteon": "{0}미터식 파인트",
+      "id": 37
+    },
+    {
+      "unit_code": "volume-quart",
+      "bunryu": "volume",
+      "ireum": "쿼트",
+      "yakja": "qt",
+      "gan_yakja": "qt",
+      "danwi_paeteon": "{0}쿼트",
+      "id": 38
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "bunryu": "volume",
+      "ireum": "영국 쿼트",
+      "yakja": "qt Imp",
+      "gan_yakja": "qt Imp",
+      "danwi_paeteon": "{0}영국 쿼트",
+      "id": 39
+    },
+    {
+      "unit_code": "volume-sai",
+      "bunryu": "volume",
+      "ireum": "sai [JP]",
+      "yakja": "sai [JP]",
+      "gan_yakja": "sai [JP]",
+      "danwi_paeteon": "{0} sai [JP]",
+      "id": 40
+    },
+    {
+      "unit_code": "volume-shaku",
+      "bunryu": "volume",
+      "ireum": "shaku [vol, JP]",
+      "yakja": "shaku [vol, JP]",
+      "gan_yakja": "shaku [vol, JP]",
+      "danwi_paeteon": "{0} shaku [vol, JP]",
+      "id": 41
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "bunryu": "volume",
+      "ireum": "테이블스푼",
+      "yakja": "tbsp",
+      "gan_yakja": "tbsp",
+      "danwi_paeteon": "{0}테이블스푼",
+      "id": 42
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "bunryu": "volume",
+      "ireum": "티스푼",
+      "yakja": "tsp",
+      "gan_yakja": "tsp",
+      "danwi_paeteon": "{0}티스푼",
+      "id": 43
+    },
+    {
+      "unit_code": "volume-to-jp",
+      "bunryu": "volume",
+      "ireum": "to [JP]",
+      "yakja": "to [JP]",
+      "gan_yakja": "to [JP]",
+      "danwi_paeteon": "{0} to [JP]",
+      "id": 44
+    }
+  ],
+  "meta": {
+    "title": "부피 단위 (44) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'volume' 분류 측정 단위와 한국어 명칭. 포함 44 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "부피 단위 (44) | ListBase",
+    "seo_description": "다운로드 부피 단위 (44) — 44 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 44 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

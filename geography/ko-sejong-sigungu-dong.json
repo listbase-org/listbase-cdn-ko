@@ -1,0 +1,151 @@
+{
+  "id": "ko-sejong-sigungu-dong",
+  "name": "Sejong 시군구·동읍면 — Sejong Districts & Neighborhoods",
+  "title": "Sejong 시군구·동읍면 — Sejong Districts & Neighborhoods",
+  "description": "Sejong (세종특별자치시) — 시군구 및 동·읍·면 행정 지명 목록 22건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Sejong 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "고운동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "금남면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "나성동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "다정동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "대평동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "도담동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "반곡동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "보람동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "부강면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "새롬동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "소담동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "소정면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "아름동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "어진동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "연기면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "연동면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "연서면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "장군면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "전의면",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "조치원읍",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "종촌동",
+      "dong_eup_myeon": ""
+    },
+    {
+      "sido": "세종특별자치시",
+      "sigungu": "한솔동",
+      "dong_eup_myeon": ""
+    }
+  ],
+  "meta": {
+    "title": "Sejong 시군구·동읍면 — Sejong Districts & Neighborhoods - 무료 다운로드",
+    "description": "Sejong (세종특별자치시) — 시군구 및 동·읍·면 행정 지명 목록 22건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Sejong 편. 필드: sido, sigungu, dong_eup_myeon. 포함 22 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Sejong 시군구·동읍면 — Sejong Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Sejong 시군구·동읍면 — Sejong Districts & Neighborhoods — 22 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 22 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

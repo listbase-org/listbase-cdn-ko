@@ -1,0 +1,246 @@
+{
+  "id": "ko-gunggwol",
+  "name": "한국의 궁궐 (Korean Royal Palaces)",
+  "title": "한국의 궁궐 (Korean Royal Palaces)",
+  "description": "위키데이터 기준 대한민국에 위치한 궁궐(왕궁) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "경복궁",
+      "name_en": "",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.579884,
+      "longitude": 126.9768,
+      "wikidata_id": "Q482485",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482485"
+    },
+    {
+      "name_ko": "경복궁 수정전",
+      "name_en": "Sujeongjeon Hall of Gyeongbokgung Palace",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.578959,
+      "longitude": 126.975927,
+      "wikidata_id": "Q16092206",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092206"
+    },
+    {
+      "name_ko": "경운궁 양이재",
+      "name_en": "Gyeongungung Palace Yangijae",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.566944,
+      "longitude": 126.975556,
+      "wikidata_id": "Q12583799",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12583799"
+    },
+    {
+      "name_ko": "경희궁",
+      "name_en": "Gyeonghuigung",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.571444,
+      "longitude": 126.968139,
+      "wikidata_id": "Q483291",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q483291"
+    },
+    {
+      "name_ko": "근정전",
+      "name_en": "Geunjeongjeon",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.578333,
+      "longitude": 126.976944,
+      "wikidata_id": "Q10855678",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10855678"
+    },
+    {
+      "name_ko": "남한산성 행궁",
+      "name_en": "Namhansanseong Haenggung",
+      "admin_area_ko": "남한산성면",
+      "admin_area_en": "Namhansanseong-myeon",
+      "latitude": 37.478889,
+      "longitude": 127.181389,
+      "wikidata_id": "Q20651693",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20651693"
+    },
+    {
+      "name_ko": "덕수궁",
+      "name_en": "Deoksugung",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.566111,
+      "longitude": 126.975,
+      "wikidata_id": "Q482631",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482631"
+    },
+    {
+      "name_ko": "도정궁",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16092809",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092809"
+    },
+    {
+      "name_ko": "사동궁",
+      "name_en": "Sadong Palace",
+      "admin_area_ko": "관훈동",
+      "admin_area_en": "Gwanhun-dong",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q16162104",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16162104"
+    },
+    {
+      "name_ko": "수원 화성",
+      "name_en": "Hwaseong Fortress",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.280733,
+      "longitude": 127.010203,
+      "wikidata_id": "Q482423",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482423"
+    },
+    {
+      "name_ko": "안동별궁",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q97205845",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97205845"
+    },
+    {
+      "name_ko": "어의궁",
+      "name_en": "",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q19940417",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19940417"
+    },
+    {
+      "name_ko": "운현궁",
+      "name_en": "Unhyeongung",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.5761,
+      "longitude": 126.987,
+      "wikidata_id": "Q490392",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490392"
+    },
+    {
+      "name_ko": "중화전",
+      "name_en": "Junghwajeon",
+      "admin_area_ko": "중구",
+      "admin_area_en": "Jung District",
+      "latitude": "",
+      "longitude": "",
+      "wikidata_id": "Q118765478",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118765478"
+    },
+    {
+      "name_ko": "창경궁",
+      "name_en": "Changgyeonggung",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.578431,
+      "longitude": 126.995981,
+      "wikidata_id": "Q482852",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q482852"
+    },
+    {
+      "name_ko": "창덕궁",
+      "name_en": "Changdeokgung",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.579444,
+      "longitude": 126.991667,
+      "wikidata_id": "Q477157",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q477157"
+    },
+    {
+      "name_ko": "청남대",
+      "name_en": "Cheongnamdae",
+      "admin_area_ko": "청주시",
+      "admin_area_en": "Cheongju",
+      "latitude": 36.462457,
+      "longitude": 127.487581,
+      "wikidata_id": "Q11273766",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11273766"
+    },
+    {
+      "name_ko": "청와대",
+      "name_en": "Blue House",
+      "admin_area_ko": "종로구",
+      "admin_area_en": "Jongno District",
+      "latitude": 37.586692,
+      "longitude": 126.974864,
+      "wikidata_id": "Q494577",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494577"
+    }
+  ],
+  "meta": {
+    "title": "한국의 궁궐 (Korean Royal Palaces) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 궁궐(왕궁) 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 18 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국의 궁궐 (Korean Royal Palaces) | ListBase",
+    "seo_description": "다운로드 한국의 궁궐 (Korean Royal Palaces) — 18 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 18 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

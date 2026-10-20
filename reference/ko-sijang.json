@@ -1,0 +1,156 @@
+{
+  "id": "ko-sijang",
+  "name": "대한민국의 시장 (Traditional Markets of South Korea)",
+  "title": "대한민국의 시장 (Traditional Markets of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 시장 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "가좌시장",
+      "name_en": "Gajwa Market",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.582810907,
+      "longitude": 126.706332297,
+      "wikidata_id": "Q137532827",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137532827"
+    },
+    {
+      "name_ko": "경동시장",
+      "name_en": "Gyeongdong Market",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.581,
+      "longitude": 127.037,
+      "wikidata_id": "Q713285",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q713285"
+    },
+    {
+      "name_ko": "나주 목사고을 시장",
+      "name_en": "Naju Moksagoeul Market",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.03,
+      "longitude": 126.72,
+      "wikidata_id": "Q137171810",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137171810"
+    },
+    {
+      "name_ko": "남평 전통 시장",
+      "name_en": "Nampyeong Traditional Market",
+      "admin_area_ko": "전라남도",
+      "admin_area_en": "South Jeolla",
+      "latitude": 35.04,
+      "longitude": 126.84,
+      "wikidata_id": "Q137213917",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137213917"
+    },
+    {
+      "name_ko": "서문시장",
+      "name_en": "Seomun Market",
+      "admin_area_ko": "대구광역시",
+      "admin_area_en": "Daegu",
+      "latitude": 35.86923,
+      "longitude": 128.58042,
+      "wikidata_id": "Q624174",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q624174"
+    },
+    {
+      "name_ko": "울산 농수산물 도매시장",
+      "name_en": "Ulsan Wholesale Agricultural and Fish Market",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.539,
+      "longitude": 129.343,
+      "wikidata_id": "Q23044892",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23044892"
+    },
+    {
+      "name_ko": "울산중앙시장",
+      "name_en": "Ulsan Central Market",
+      "admin_area_ko": "울산광역시",
+      "admin_area_en": "Ulsan",
+      "latitude": 35.554,
+      "longitude": 129.323,
+      "wikidata_id": "Q16255498",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16255498"
+    },
+    {
+      "name_ko": "칠성시장",
+      "name_en": "Chilseong Market",
+      "admin_area_ko": "북구",
+      "admin_area_en": "Buk District",
+      "latitude": 35.8766,
+      "longitude": 128.6044,
+      "wikidata_id": "Q31179211",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31179211"
+    },
+    {
+      "name_ko": "화개장터",
+      "name_en": "Hwagae Market",
+      "admin_area_ko": "하동군",
+      "admin_area_en": "Hadong County",
+      "latitude": 35.18813,
+      "longitude": 127.62416,
+      "wikidata_id": "Q136947523",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136947523"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 시장 (Traditional Markets of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 시장 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 9 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 시장 (Traditional Markets of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 시장 (Traditional Markets of South Korea) — 9 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 9 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

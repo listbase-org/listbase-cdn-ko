@@ -1,0 +1,764 @@
+{
+  "id": "ko-suin-bundang-seon-jihacheol-yeok",
+  "name": "수인분당선 지하철 역 (Suin-Bundang Line subway stations)",
+  "title": "수인분당선 지하철 역 (Suin-Bundang Line subway stations)",
+  "description": "수인분당선(Suin-Bundang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 63개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Suin-Bundang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "수원",
+      "name_romanized": "suwon",
+      "lines": "01호선, 수인분당선",
+      "lines_en": "Line 1, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.265974,
+      "longitude": 126.999874,
+      "around_stations": "고색, 매교, 화서, 세류",
+      "around_count": 4
+    },
+    {
+      "name": "인천",
+      "name_romanized": "incheon",
+      "lines": "01호선, 수인분당선",
+      "lines_en": "Line 1, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.476691,
+      "longitude": 126.616936,
+      "around_stations": "동인천, 신포",
+      "around_count": 2
+    },
+    {
+      "name": "청량리",
+      "name_romanized": "",
+      "lines": "01호선, 경의선, 경춘선, 수인분당선",
+      "lines_en": "Line 1, Gyeongui-Jungang Line, Gyeongchun Line, Suin-Bundang Line",
+      "lines_count": 4,
+      "latitude": 37.580178,
+      "longitude": 127.046835,
+      "around_stations": "왕십리, 회기, 제기동",
+      "around_count": 3
+    },
+    {
+      "name": "선릉",
+      "name_romanized": "",
+      "lines": "02호선, 수인분당선",
+      "lines_en": "Line 2, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.504503,
+      "longitude": 127.049008,
+      "around_stations": "한티, 선정릉, 역삼, 삼성",
+      "around_count": 4
+    },
+    {
+      "name": "왕십리",
+      "name_romanized": "",
+      "lines": "02호선, 05호선, 경의선, 수인분당선",
+      "lines_en": "Line 2, Line 5, Gyeongui-Jungang Line, Suin-Bundang Line",
+      "lines_count": 4,
+      "latitude": 37.561533,
+      "longitude": 127.037732,
+      "around_stations": "서울숲, 청량리, 상왕십리, 한양대, 행당, 마장, 응봉",
+      "around_count": 7
+    },
+    {
+      "name": "도곡",
+      "name_romanized": "",
+      "lines": "03호선, 수인분당선",
+      "lines_en": "Line 3, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.490858,
+      "longitude": 127.055381,
+      "around_stations": "구룡, 한티, 매봉, 대치",
+      "around_count": 4
+    },
+    {
+      "name": "수서",
+      "name_romanized": "",
+      "lines": "03호선, 수인분당선",
+      "lines_en": "Line 3, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.487371,
+      "longitude": 127.10188,
+      "around_stations": "복정, 대모산입구, 일원, 가락시장",
+      "around_count": 4
+    },
+    {
+      "name": "한대앞",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.309689,
+      "longitude": 126.85344,
+      "around_stations": "중앙, 사리, 상록수",
+      "around_count": 3
+    },
+    {
+      "name": "중앙",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.315941,
+      "longitude": 126.838573,
+      "around_stations": "고잔, 한대앞",
+      "around_count": 2
+    },
+    {
+      "name": "고잔",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.316777,
+      "longitude": 126.823249,
+      "around_stations": "초지, 중앙",
+      "around_count": 2
+    },
+    {
+      "name": "초지",
+      "name_romanized": "",
+      "lines": "04호선, 서해선, 수인분당선",
+      "lines_en": "Line 4, Seohae Line, Suin-Bundang Line",
+      "lines_count": 3,
+      "latitude": 37.320646,
+      "longitude": 126.805913,
+      "around_stations": "안산, 고잔, 선부, 원곡",
+      "around_count": 4
+    },
+    {
+      "name": "안산",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.327082,
+      "longitude": 126.788532,
+      "around_stations": "신길온천, 초지",
+      "around_count": 2
+    },
+    {
+      "name": "신길온천",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.338212,
+      "longitude": 126.765844,
+      "around_stations": "정왕, 안산",
+      "around_count": 2
+    },
+    {
+      "name": "정왕",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.351735,
+      "longitude": 126.742989,
+      "around_stations": "오이도, 신길온천",
+      "around_count": 2
+    },
+    {
+      "name": "오이도",
+      "name_romanized": "",
+      "lines": "04호선, 수인분당선",
+      "lines_en": "Line 4, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.362357,
+      "longitude": 126.738714,
+      "around_stations": "달월, 정왕",
+      "around_count": 2
+    },
+    {
+      "name": "강남구청",
+      "name_romanized": "",
+      "lines": "07호선, 수인분당선",
+      "lines_en": "Line 7, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.517186,
+      "longitude": 127.04128,
+      "around_stations": "선정릉, 압구정로데오, 학동, 청담",
+      "around_count": 4
+    },
+    {
+      "name": "모란",
+      "name_romanized": "",
+      "lines": "08호선, 수인분당선",
+      "lines_en": "Line 8, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.43213,
+      "longitude": 127.129087,
+      "around_stations": "야탑, 태평, 수진",
+      "around_count": 3
+    },
+    {
+      "name": "복정",
+      "name_romanized": "",
+      "lines": "08호선, 수인분당선",
+      "lines_en": "Line 8, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.470047,
+      "longitude": 127.126662,
+      "around_stations": "가천대, 수서, 산성, 장지",
+      "around_count": 4
+    },
+    {
+      "name": "선정릉",
+      "name_romanized": "",
+      "lines": "09호선, 수인분당선",
+      "lines_en": "Line 9, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.51098,
+      "longitude": 127.043593,
+      "around_stations": "선릉, 강남구청, 언주, 삼성중앙",
+      "around_count": 4
+    },
+    {
+      "name": "이매",
+      "name_romanized": "",
+      "lines": "경강선, 수인분당선",
+      "lines_en": "Gyeonggang Line, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.396104,
+      "longitude": 127.12827,
+      "around_stations": "서현, 야탑, 판교, 삼동",
+      "around_count": 4
+    },
+    {
+      "name": "한티",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.496237,
+      "longitude": 127.052873,
+      "around_stations": "도곡, 선릉",
+      "around_count": 2
+    },
+    {
+      "name": "구룡",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.486839,
+      "longitude": 127.058856,
+      "around_stations": "개포동, 도곡",
+      "around_count": 2
+    },
+    {
+      "name": "개포동",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.489116,
+      "longitude": 127.06614,
+      "around_stations": "대모산입구, 구룡",
+      "around_count": 2
+    },
+    {
+      "name": "대모산입구",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.491373,
+      "longitude": 127.07272,
+      "around_stations": "수서, 개포동",
+      "around_count": 2
+    },
+    {
+      "name": "서울숲",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.543617,
+      "longitude": 127.044707,
+      "around_stations": "압구정로데오, 왕십리",
+      "around_count": 2
+    },
+    {
+      "name": "압구정로데오",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.527381,
+      "longitude": 127.040534,
+      "around_stations": "강남구청, 서울숲",
+      "around_count": 2
+    },
+    {
+      "name": "가천대",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.448605,
+      "longitude": 127.126697,
+      "around_stations": "태평, 복정",
+      "around_count": 2
+    },
+    {
+      "name": "태평",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.440019,
+      "longitude": 127.127709,
+      "around_stations": "모란, 가천대",
+      "around_count": 2
+    },
+    {
+      "name": "야탑",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.411185,
+      "longitude": 127.128715,
+      "around_stations": "이매, 모란",
+      "around_count": 2
+    },
+    {
+      "name": "서현",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.385126,
+      "longitude": 127.123592,
+      "around_stations": "수내, 이매",
+      "around_count": 2
+    },
+    {
+      "name": "수내",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.378455,
+      "longitude": 127.114322,
+      "around_stations": "정자, 서현",
+      "around_count": 2
+    },
+    {
+      "name": "정자",
+      "name_romanized": "",
+      "lines": "수인분당선, 신분당선",
+      "lines_en": "Suin-Bundang Line, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.36706,
+      "longitude": 127.108105,
+      "around_stations": "미금, 수내, 판교",
+      "around_count": 3
+    },
+    {
+      "name": "미금",
+      "name_romanized": "",
+      "lines": "수인분당선, 신분당선",
+      "lines_en": "Suin-Bundang Line, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.350077,
+      "longitude": 127.10891,
+      "around_stations": "오리, 정자, 동천",
+      "around_count": 3
+    },
+    {
+      "name": "신갈",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.286102,
+      "longitude": 127.111313,
+      "around_stations": "기흥, 구성",
+      "around_count": 2
+    },
+    {
+      "name": "상갈",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.26181,
+      "longitude": 127.108847,
+      "around_stations": "청명, 기흥",
+      "around_count": 2
+    },
+    {
+      "name": "청명",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.259489,
+      "longitude": 127.078934,
+      "around_stations": "영통, 상갈",
+      "around_count": 2
+    },
+    {
+      "name": "영통",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.251568,
+      "longitude": 127.071394,
+      "around_stations": "망포, 청명",
+      "around_count": 2
+    },
+    {
+      "name": "망포",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.245795,
+      "longitude": 127.057353,
+      "around_stations": "매탄권선, 영통",
+      "around_count": 2
+    },
+    {
+      "name": "매탄권선",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.252759,
+      "longitude": 127.040566,
+      "around_stations": "수원시청, 망포",
+      "around_count": 2
+    },
+    {
+      "name": "수원시청",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.261911,
+      "longitude": 127.030736,
+      "around_stations": "매교, 매탄권선",
+      "around_count": 2
+    },
+    {
+      "name": "매교",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.265481,
+      "longitude": 127.015678,
+      "around_stations": "수원, 수원시청",
+      "around_count": 2
+    },
+    {
+      "name": "구성",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.298969,
+      "longitude": 127.105664,
+      "around_stations": "신갈, 보정",
+      "around_count": 2
+    },
+    {
+      "name": "보정",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.312752,
+      "longitude": 127.108196,
+      "around_stations": "구성, 죽전",
+      "around_count": 2
+    },
+    {
+      "name": "오리",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.339824,
+      "longitude": 127.108942,
+      "around_stations": "죽전, 미금",
+      "around_count": 2
+    },
+    {
+      "name": "죽전",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.324753,
+      "longitude": 127.107395,
+      "around_stations": "보정, 오리",
+      "around_count": 2
+    },
+    {
+      "name": "기흥",
+      "name_romanized": "",
+      "lines": "수인분당선, 용인경전철",
+      "lines_en": "Suin-Bundang Line, Everline (Yongin LRT)",
+      "lines_count": 2,
+      "latitude": 37.275619,
+      "longitude": 127.115936,
+      "around_stations": "상갈, 신갈, 강남대",
+      "around_count": 3
+    },
+    {
+      "name": "달월",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.379681,
+      "longitude": 126.745177,
+      "around_stations": "월곶, 오이도",
+      "around_count": 2
+    },
+    {
+      "name": "월곶",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.391769,
+      "longitude": 126.742699,
+      "around_stations": "소래포구, 달월",
+      "around_count": 2
+    },
+    {
+      "name": "소래포구",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.40095,
+      "longitude": 126.733522,
+      "around_stations": "인천논현, 월곶",
+      "around_count": 2
+    },
+    {
+      "name": "인천논현",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.400614,
+      "longitude": 126.722478,
+      "around_stations": "호구포, 소래포구",
+      "around_count": 2
+    },
+    {
+      "name": "호구포",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.401637,
+      "longitude": 126.708627,
+      "around_stations": "남동인더스파크, 인천논현",
+      "around_count": 2
+    },
+    {
+      "name": "남동인더스파크",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.407722,
+      "longitude": 126.695216,
+      "around_stations": "원인재, 호구포",
+      "around_count": 2
+    },
+    {
+      "name": "원인재",
+      "name_romanized": "",
+      "lines": "수인분당선, 인천선",
+      "lines_en": "Suin-Bundang Line, Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.412603,
+      "longitude": 126.687389,
+      "around_stations": "동춘, 신연수, 연수, 남동인더스파크",
+      "around_count": 4
+    },
+    {
+      "name": "연수",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.417804,
+      "longitude": 126.67894,
+      "around_stations": "송도, 원인재",
+      "around_count": 2
+    },
+    {
+      "name": "송도",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.428514,
+      "longitude": 126.657772,
+      "around_stations": "인하대, 연수",
+      "around_count": 2
+    },
+    {
+      "name": "인하대",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.448493,
+      "longitude": 126.649619,
+      "around_stations": "숭의, 송도",
+      "around_count": 2
+    },
+    {
+      "name": "숭의",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.460789,
+      "longitude": 126.638297,
+      "around_stations": "신포, 인하대",
+      "around_count": 2
+    },
+    {
+      "name": "신포",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.46874,
+      "longitude": 126.623853,
+      "around_stations": "인천, 숭의",
+      "around_count": 2
+    },
+    {
+      "name": "사리",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.29062095298378,
+      "longitude": 126.85709658864381,
+      "around_stations": "한대앞, 야목",
+      "around_count": 2
+    },
+    {
+      "name": "야목",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.26139114625711,
+      "longitude": 126.88378190254757,
+      "around_stations": "사리, 어천",
+      "around_count": 2
+    },
+    {
+      "name": "어천",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.25008693721142,
+      "longitude": 126.90878536249919,
+      "around_stations": "야목, 오목천",
+      "around_count": 2
+    },
+    {
+      "name": "오목천",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.24335646829219,
+      "longitude": 126.96386677176771,
+      "around_stations": "어천, 고색",
+      "around_count": 2
+    },
+    {
+      "name": "고색",
+      "name_romanized": "",
+      "lines": "수인분당선",
+      "lines_en": "Suin-Bundang Line",
+      "lines_count": 1,
+      "latitude": 37.24978483062486,
+      "longitude": 126.98053419002909,
+      "around_stations": "오목천, 수원",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "수인분당선 지하철 역 (Suin-Bundang Line subway stations) - 무료 다운로드",
+    "description": "수인분당선(Suin-Bundang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 63개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Suin-Bundang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 63 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "수인분당선 지하철 역 (Suin-Bundang Line subway stations) | ListBase",
+    "seo_description": "다운로드 수인분당선 지하철 역 (Suin-Bundang Line subway stations) — 63 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 63 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

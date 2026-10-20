@@ -1,0 +1,156 @@
+{
+  "id": "ko-jeju-daehak",
+  "name": "Jeju-do — Universities & Colleges (대학·전문대학)",
+  "title": "Jeju-do — Universities & Colleges (대학·전문대학)",
+  "description": "Accredited higher-education institutions located in Jeju-do (제주특별자치도), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nameKr",
+      "label": "NameKr",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "establishment",
+      "label": "Establishment",
+      "type": "string"
+    },
+    {
+      "key": "campus",
+      "label": "Campus",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "link",
+      "label": "Link",
+      "type": "string"
+    },
+    {
+      "key": "accredited_degree",
+      "label": "Accredited Degree",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_language",
+      "label": "Accredited Language",
+      "type": "boolean"
+    },
+    {
+      "key": "accredited_excellent",
+      "label": "Accredited Excellent",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "id": 60,
+      "nameKr": "한국폴리텍 I 대학 제주캠퍼스",
+      "level": "전문대학",
+      "type": "기능대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "제주특별자치도",
+      "region_en": "Jeju-do",
+      "link": "http://www.kopo.ac.kr/jeju/index.do",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 127,
+      "nameKr": "제주한라대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "제주특별자치도",
+      "region_en": "Jeju-do",
+      "link": "http://www.chu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 128,
+      "nameKr": "제주대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "국립",
+      "campus": "제1캠퍼스",
+      "region": "제주특별자치도",
+      "region_en": "Jeju-do",
+      "link": "http://www.jejunu.ac.kr",
+      "accredited_degree": true,
+      "accredited_language": true,
+      "accredited_excellent": false
+    },
+    {
+      "id": 129,
+      "nameKr": "제주국제대학교",
+      "level": "대학(4년제)",
+      "type": "대학교",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "제주특별자치도",
+      "region_en": "Jeju-do",
+      "link": "http://www.jeju.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    },
+    {
+      "id": 130,
+      "nameKr": "제주관광대학교",
+      "level": "전문대학",
+      "type": "전문대학",
+      "establishment": "사립",
+      "campus": "제1캠퍼스",
+      "region": "제주특별자치도",
+      "region_en": "Jeju-do",
+      "link": "http://www.jtu.ac.kr",
+      "accredited_degree": false,
+      "accredited_language": false,
+      "accredited_excellent": false
+    }
+  ],
+  "meta": {
+    "title": "Jeju-do — Universities & Colleges (대학·전문대학) - 무료 다운로드",
+    "description": "Accredited higher-education institutions located in Jeju-do (제주특별자치도), South Korea — a per-region split of the national ystory/korea-universities directory. Each record carries the native Korean name, education level, institution type, founding body, campus, official web link, and accreditation flags. 포함 5 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Jeju-do — Universities & Colleges (대학·전문대학) | ListBase",
+    "seo_description": "다운로드 Jeju-do — Universities & Colleges (대학·전문대학) — 5 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 5 건 / 12 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

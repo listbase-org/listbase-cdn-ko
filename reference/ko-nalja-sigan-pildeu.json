@@ -1,0 +1,266 @@
+{
+  "id": "ko-nalja-sigan-pildeu",
+  "name": "날짜·시간 필드 명칭 (CLDR)",
+  "title": "날짜·시간 필드 명칭 (CLDR)",
+  "description": "연·월·일·시·분·초 등 CLDR 날짜/시간 필드의 한국어 표시 명칭.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "day",
+      "ireum": "일"
+    },
+    {
+      "id": 2,
+      "code": "day-narrow",
+      "ireum": "일"
+    },
+    {
+      "id": 3,
+      "code": "day-short",
+      "ireum": "일"
+    },
+    {
+      "id": 4,
+      "code": "dayOfYear",
+      "ireum": "년의 일"
+    },
+    {
+      "id": 5,
+      "code": "dayOfYear-narrow",
+      "ireum": "년의 일"
+    },
+    {
+      "id": 6,
+      "code": "dayOfYear-short",
+      "ireum": "년의 일"
+    },
+    {
+      "id": 7,
+      "code": "dayperiod",
+      "ireum": "오전/오후"
+    },
+    {
+      "id": 8,
+      "code": "dayperiod-narrow",
+      "ireum": "오전/오후"
+    },
+    {
+      "id": 9,
+      "code": "dayperiod-short",
+      "ireum": "오전/오후"
+    },
+    {
+      "id": 10,
+      "code": "era",
+      "ireum": "연호"
+    },
+    {
+      "id": 11,
+      "code": "era-narrow",
+      "ireum": "연호"
+    },
+    {
+      "id": 12,
+      "code": "era-short",
+      "ireum": "연호"
+    },
+    {
+      "id": 13,
+      "code": "hour",
+      "ireum": "시"
+    },
+    {
+      "id": 14,
+      "code": "hour-narrow",
+      "ireum": "시"
+    },
+    {
+      "id": 15,
+      "code": "hour-short",
+      "ireum": "시"
+    },
+    {
+      "id": 16,
+      "code": "minute",
+      "ireum": "분"
+    },
+    {
+      "id": 17,
+      "code": "minute-narrow",
+      "ireum": "분"
+    },
+    {
+      "id": 18,
+      "code": "minute-short",
+      "ireum": "분"
+    },
+    {
+      "id": 19,
+      "code": "month",
+      "ireum": "월"
+    },
+    {
+      "id": 20,
+      "code": "month-narrow",
+      "ireum": "월"
+    },
+    {
+      "id": 21,
+      "code": "month-short",
+      "ireum": "월"
+    },
+    {
+      "id": 22,
+      "code": "quarter",
+      "ireum": "분기"
+    },
+    {
+      "id": 23,
+      "code": "quarter-narrow",
+      "ireum": "분기"
+    },
+    {
+      "id": 24,
+      "code": "quarter-short",
+      "ireum": "분기"
+    },
+    {
+      "id": 25,
+      "code": "second",
+      "ireum": "초"
+    },
+    {
+      "id": 26,
+      "code": "second-narrow",
+      "ireum": "초"
+    },
+    {
+      "id": 27,
+      "code": "second-short",
+      "ireum": "초"
+    },
+    {
+      "id": 28,
+      "code": "week",
+      "ireum": "주"
+    },
+    {
+      "id": 29,
+      "code": "week-narrow",
+      "ireum": "주"
+    },
+    {
+      "id": 30,
+      "code": "week-short",
+      "ireum": "주"
+    },
+    {
+      "id": 31,
+      "code": "weekOfMonth",
+      "ireum": "월의 주"
+    },
+    {
+      "id": 32,
+      "code": "weekOfMonth-narrow",
+      "ireum": "월의 주"
+    },
+    {
+      "id": 33,
+      "code": "weekOfMonth-short",
+      "ireum": "월의 주"
+    },
+    {
+      "id": 34,
+      "code": "weekday",
+      "ireum": "요일"
+    },
+    {
+      "id": 35,
+      "code": "weekday-narrow",
+      "ireum": "요일"
+    },
+    {
+      "id": 36,
+      "code": "weekday-short",
+      "ireum": "요일"
+    },
+    {
+      "id": 37,
+      "code": "weekdayOfMonth",
+      "ireum": "월의 평일"
+    },
+    {
+      "id": 38,
+      "code": "weekdayOfMonth-narrow",
+      "ireum": "월의 평일"
+    },
+    {
+      "id": 39,
+      "code": "weekdayOfMonth-short",
+      "ireum": "월의 평일"
+    },
+    {
+      "id": 40,
+      "code": "year",
+      "ireum": "년"
+    },
+    {
+      "id": 41,
+      "code": "year-narrow",
+      "ireum": "년"
+    },
+    {
+      "id": 42,
+      "code": "year-short",
+      "ireum": "년"
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "ireum": "시간대"
+    },
+    {
+      "id": 44,
+      "code": "zone-narrow",
+      "ireum": "시간대"
+    },
+    {
+      "id": 45,
+      "code": "zone-short",
+      "ireum": "시간대"
+    }
+  ],
+  "meta": {
+    "title": "날짜·시간 필드 명칭 (CLDR) - 무료 다운로드",
+    "description": "연·월·일·시·분·초 등 CLDR 날짜/시간 필드의 한국어 표시 명칭. 포함 45 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "날짜·시간 필드 명칭 (CLDR) | ListBase",
+    "seo_description": "다운로드 날짜·시간 필드 명칭 (CLDR) — 45 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 45 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

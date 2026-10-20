@@ -1,0 +1,225 @@
+{
+  "id": "ko-gonghang-cheoldo-jihacheol-yeok",
+  "name": "공항철도 지하철 역 (AREX (Airport Railroad Express) subway stations)",
+  "title": "공항철도 지하철 역 (AREX (Airport Railroad Express) subway stations)",
+  "description": "공항철도(AREX (Airport Railroad Express))의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 14개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region AREX (Airport Railroad Express) stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "서울",
+      "name_romanized": "seoul",
+      "lines": "01호선, 04호선, 경의선, 공항철도",
+      "lines_en": "Line 1, Line 4, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.554648,
+      "longitude": 126.972559,
+      "around_stations": "신촌(경의선), 시청, 남영, 공덕, 숙대입구, 회현",
+      "around_count": 6
+    },
+    {
+      "name": "홍대입구",
+      "name_romanized": "hongdae-ipgu",
+      "lines": "02호선, 경의선, 공항철도",
+      "lines_en": "Line 2, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 3,
+      "latitude": 37.557192,
+      "longitude": 126.925381,
+      "around_stations": "가좌, 디지털미디어시티, 신촌, 합정, 서강대, 공덕",
+      "around_count": 6
+    },
+    {
+      "name": "김포공항",
+      "name_romanized": "",
+      "lines": "05호선, 09호선, 공항철도, 김포도시철도",
+      "lines_en": "Line 5, Line 9, AREX (Airport Railroad Express), Gimpo Goldline",
+      "lines_count": 4,
+      "latitude": 37.562434,
+      "longitude": 126.801058,
+      "around_stations": "계양, 마곡나루, 개화, 공항시장, 고촌, 개화산, 송정",
+      "around_count": 7
+    },
+    {
+      "name": "공덕",
+      "name_romanized": "",
+      "lines": "05호선, 06호선, 경의선, 공항철도",
+      "lines_en": "Line 5, Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.544018,
+      "longitude": 126.951592,
+      "around_stations": "서강대, 홍대입구, 애오개, 서울, 효창공원앞, 마포, 대흥",
+      "around_count": 7
+    },
+    {
+      "name": "디지털미디어시티",
+      "name_romanized": "",
+      "lines": "06호선, 경의선, 공항철도",
+      "lines_en": "Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 3,
+      "latitude": 37.576646,
+      "longitude": 126.900984,
+      "around_stations": "수색, 가좌, 증산, 월드컵경기장, 홍대입구, 마곡나루",
+      "around_count": 6
+    },
+    {
+      "name": "마곡나루",
+      "name_romanized": "",
+      "lines": "09호선, 공항철도",
+      "lines_en": "Line 9, AREX (Airport Railroad Express)",
+      "lines_count": 2,
+      "latitude": 37.567336,
+      "longitude": 126.829497,
+      "around_stations": "김포공항, 디지털미디어시티, 신방화, 양천향교",
+      "around_count": 4
+    },
+    {
+      "name": "계양",
+      "name_romanized": "",
+      "lines": "공항철도, 인천선",
+      "lines_en": "AREX (Airport Railroad Express), Incheon Line 1",
+      "lines_count": 2,
+      "latitude": 37.571462,
+      "longitude": 126.735637,
+      "around_stations": "검암, 김포공항, 귤현",
+      "around_count": 3
+    },
+    {
+      "name": "검암",
+      "name_romanized": "",
+      "lines": "공항철도, 인천2호선",
+      "lines_en": "AREX (Airport Railroad Express), Incheon Line 2",
+      "lines_count": 2,
+      "latitude": 37.569104,
+      "longitude": 126.673728,
+      "around_stations": "청라국제도시, 계양, 독정, 검바위",
+      "around_count": 4
+    },
+    {
+      "name": "청라국제도시",
+      "name_romanized": "",
+      "lines": "공항철도",
+      "lines_en": "AREX (Airport Railroad Express)",
+      "lines_count": 1,
+      "latitude": 37.555878,
+      "longitude": 126.625327,
+      "around_stations": "영종, 검암",
+      "around_count": 2
+    },
+    {
+      "name": "운서",
+      "name_romanized": "",
+      "lines": "공항철도",
+      "lines_en": "AREX (Airport Railroad Express)",
+      "lines_count": 1,
+      "latitude": 37.492904,
+      "longitude": 126.49379,
+      "around_stations": "공항화물청사, 영종",
+      "around_count": 2
+    },
+    {
+      "name": "공항화물청사",
+      "name_romanized": "",
+      "lines": "공항철도",
+      "lines_en": "AREX (Airport Railroad Express)",
+      "lines_count": 1,
+      "latitude": 37.458366,
+      "longitude": 126.476241,
+      "around_stations": "인천공항1터미널, 운서",
+      "around_count": 2
+    },
+    {
+      "name": "인천공항1터미널",
+      "name_romanized": "",
+      "lines": "공항철도, 자기부상철도",
+      "lines_en": "AREX (Airport Railroad Express), Incheon Airport Maglev",
+      "lines_count": 2,
+      "latitude": 37.4475222,
+      "longitude": 126.4503834,
+      "around_stations": "인천공항2터미널, 공항화물청사, 장기주차장",
+      "around_count": 3
+    },
+    {
+      "name": "인천공항2터미널",
+      "name_romanized": "",
+      "lines": "공항철도",
+      "lines_en": "AREX (Airport Railroad Express)",
+      "lines_count": 1,
+      "latitude": 37.4848197,
+      "longitude": 126.4374223,
+      "around_stations": "인천공항1터미널",
+      "around_count": 1
+    },
+    {
+      "name": "영종",
+      "name_romanized": "",
+      "lines": "공항철도",
+      "lines_en": "AREX (Airport Railroad Express)",
+      "lines_count": 1,
+      "latitude": 37.511466,
+      "longitude": 126.5237,
+      "around_stations": "운서, 청라국제도시",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "공항철도 지하철 역 (AREX (Airport Railroad Express) subway stations) - 무료 다운로드",
+    "description": "공항철도(AREX (Airport Railroad Express))의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 14개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region AREX (Airport Railroad Express) stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 14 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "공항철도 지하철 역 (AREX (Airport Railroad Express) subway stations) | ListBase",
+    "seo_description": "다운로드 공항철도 지하철 역 (AREX (Airport Railroad Express) subway stations) — 14 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 14 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

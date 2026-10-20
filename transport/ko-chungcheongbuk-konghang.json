@@ -1,0 +1,133 @@
+{
+  "id": "ko-chungcheongbuk-konghang",
+  "name": "North Chungcheong 공항 (Airports in North Chungcheong, South Korea)",
+  "title": "North Chungcheong 공항 (Airports in North Chungcheong, South Korea)",
+  "description": "Airports located in the North Chungcheong administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RKTU",
+      "iata": "CJJ",
+      "name": "Cheongju International Airport",
+      "city": "Cheongju",
+      "subdivision": "North Chungcheong",
+      "country": "KR",
+      "elevation_ft": 191,
+      "latitude": 36.7166,
+      "longitude": 127.499,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKTI",
+      "iata": "JWO",
+      "name": "Jungwon Air Base",
+      "city": "",
+      "subdivision": "North Chungcheong",
+      "country": "KR",
+      "elevation_ft": 281,
+      "latitude": 37.03,
+      "longitude": 127.885,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK24",
+      "iata": "",
+      "name": "G 522 Airport",
+      "city": "",
+      "subdivision": "North Chungcheong",
+      "country": "KR",
+      "elevation_ft": 546,
+      "latitude": 36.1802,
+      "longitude": 127.833,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKTE",
+      "iata": "",
+      "name": "Seongmu Airport",
+      "city": "",
+      "subdivision": "North Chungcheong",
+      "country": "KR",
+      "elevation_ft": 258,
+      "latitude": 36.5682,
+      "longitude": 127.5,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "North Chungcheong 공항 (Airports in North Chungcheong, South Korea) - 무료 다운로드",
+    "description": "Airports located in the North Chungcheong administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone. 포함 4 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "North Chungcheong 공항 (Airports in North Chungcheong, South Korea) | ListBase",
+    "seo_description": "다운로드 North Chungcheong 공항 (Airports in North Chungcheong, South Korea) — 4 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 4 건 / 11 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

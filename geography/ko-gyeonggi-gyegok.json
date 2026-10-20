@@ -1,0 +1,698 @@
+{
+  "id": "ko-gyeonggi-gyegok",
+  "name": "계곡 — 경기도",
+  "title": "계곡 — 경기도",
+  "description": "경기도에 위치한 계곡(골) 57건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "mountain_at",
+      "label": "Mountain At",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27311991",
+      "name_ko": "가평막골",
+      "name_en": "가평막골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.801667,
+      "longitude": 127.403889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27330964",
+      "name_ko": "갈월계곡",
+      "name_en": "갈월계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.755,
+      "longitude": 126.9575,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27311067",
+      "name_ko": "강씨봉골",
+      "name_en": "강씨봉골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.9575,
+      "longitude": 127.382778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27340869",
+      "name_ko": "갬발고개",
+      "name_en": "갬발고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.959722,
+      "longitude": 127.158056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27340899",
+      "name_ko": "곰고개",
+      "name_en": "곰고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.905833,
+      "longitude": 127.190833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27340864",
+      "name_ko": "곰메골고개",
+      "name_en": "곰메골고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.915,
+      "longitude": 127.23,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27302730",
+      "name_ko": "광대골",
+      "name_en": "광대골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.468611,
+      "longitude": 127.433889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27340893",
+      "name_ko": "구렁고개",
+      "name_en": "구렁고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.929444,
+      "longitude": 127.310556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27341319",
+      "name_ko": "남배이고개",
+      "name_en": "남배이고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.073333,
+      "longitude": 127.107222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27341187",
+      "name_ko": "낭유고개",
+      "name_en": "낭유고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.041944,
+      "longitude": 127.336389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27340879",
+      "name_ko": "단고개",
+      "name_en": "단고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.8875,
+      "longitude": 127.236667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q27340863",
+      "name_ko": "덕고개",
+      "name_en": "덕고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.919722,
+      "longitude": 127.238611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27341212",
+      "name_ko": "도내지고개",
+      "name_en": "도내지고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.057778,
+      "longitude": 127.278611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27340829",
+      "name_ko": "도마치",
+      "name_en": "도마치",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.044167,
+      "longitude": 127.451389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27340838",
+      "name_ko": "도마치계곡",
+      "name_en": "도마치계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.053889,
+      "longitude": 127.402778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27302674",
+      "name_ko": "도장골",
+      "name_en": "도장골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.450278,
+      "longitude": 127.378889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27341235",
+      "name_ko": "돌재고개",
+      "name_en": "돌재고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.135833,
+      "longitude": 127.236389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27330957",
+      "name_ko": "동교계곡",
+      "name_en": "동교계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.8575,
+      "longitude": 127.118611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q27308361",
+      "name_ko": "두멍골",
+      "name_en": "두멍골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.735556,
+      "longitude": 127.335,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27308352",
+      "name_ko": "두몽안계곡",
+      "name_en": "두몽안계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.752778,
+      "longitude": 127.3075,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q27340874",
+      "name_ko": "뒷물고개",
+      "name_en": "뒷물고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.883889,
+      "longitude": 127.236667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27340929",
+      "name_ko": "마장고개",
+      "name_en": "마장고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.861111,
+      "longitude": 127.241111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q27341207",
+      "name_ko": "매바위고개",
+      "name_en": "매바위고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.020833,
+      "longitude": 127.353611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q27311988",
+      "name_ko": "명지산골",
+      "name_en": "명지산골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.934444,
+      "longitude": 127.464722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27340925",
+      "name_ko": "무네미고개",
+      "name_en": "무네미고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.868611,
+      "longitude": 127.231667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q27341286",
+      "name_ko": "미시골",
+      "name_en": "미시골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.139722,
+      "longitude": 127.247778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q27340877",
+      "name_ko": "박석고개",
+      "name_en": "박석고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.891944,
+      "longitude": 127.238611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q27302727",
+      "name_ko": "방골",
+      "name_en": "방골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.406944,
+      "longitude": 127.424167,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q27341358",
+      "name_ko": "부령골",
+      "name_en": "부령골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.181944,
+      "longitude": 127.056111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q27340827",
+      "name_ko": "북녁골",
+      "name_en": "북녁골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.054444,
+      "longitude": 127.433889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27307373",
+      "name_ko": "비룡골",
+      "name_en": "비룡골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.523611,
+      "longitude": 127.713333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q27308390",
+      "name_ko": "삼각골",
+      "name_en": "삼각골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.605278,
+      "longitude": 127.463611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q27307369",
+      "name_ko": "삼막골",
+      "name_en": "삼막골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.536389,
+      "longitude": 127.721944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q27307350",
+      "name_ko": "삼천골",
+      "name_en": "삼천골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.591111,
+      "longitude": 127.569444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q27307259",
+      "name_ko": "상아골",
+      "name_en": "상아골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.931389,
+      "longitude": 127.125278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q27340907",
+      "name_ko": "새골고개",
+      "name_en": "새골고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.965556,
+      "longitude": 127.211111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q27341220",
+      "name_ko": "새재고개",
+      "name_en": "새재고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.102778,
+      "longitude": 127.229722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q27341337",
+      "name_ko": "송고개",
+      "name_en": "송고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.039722,
+      "longitude": 126.953889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q27336586",
+      "name_ko": "수동계곡",
+      "name_en": "수동계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.746944,
+      "longitude": 127.294444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27341268",
+      "name_ko": "순담계곡",
+      "name_en": "순담계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.175,
+      "longitude": 127.293056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q27340933",
+      "name_ko": "숫고개",
+      "name_en": "숫고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.996111,
+      "longitude": 127.200833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q27341202",
+      "name_ko": "약사동계곡",
+      "name_en": "약사동계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.090278,
+      "longitude": 127.381111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q27302728",
+      "name_ko": "양지골",
+      "name_en": "양지골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.4525,
+      "longitude": 127.42,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q27341183",
+      "name_ko": "여우고개",
+      "name_en": "여우고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.056667,
+      "longitude": 127.351389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q27340895",
+      "name_ko": "오뚜기고개",
+      "name_en": "오뚜기고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.948611,
+      "longitude": 127.375833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q27341360",
+      "name_ko": "옷나무골",
+      "name_en": "옷나무골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.184444,
+      "longitude": 127.0125,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q27340923",
+      "name_ko": "자갈고개",
+      "name_en": "자갈고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.874167,
+      "longitude": 127.216667,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q27308399",
+      "name_ko": "작은성지골",
+      "name_en": "작은성지골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.5225,
+      "longitude": 127.335,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q27340905",
+      "name_ko": "장승거리고개",
+      "name_en": "장승거리고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.963889,
+      "longitude": 127.188889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q27307271",
+      "name_ko": "절골",
+      "name_en": "절골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.9425,
+      "longitude": 127.148611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q27341229",
+      "name_ko": "지장계곡",
+      "name_en": "지장계곡",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.127778,
+      "longitude": 127.182222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q27340870",
+      "name_ko": "텃골고개",
+      "name_en": "텃골고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.959444,
+      "longitude": 127.185278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q27308480",
+      "name_ko": "퇴골",
+      "name_en": "퇴골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.933333,
+      "longitude": 127.5,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q27307269",
+      "name_ko": "푸석골",
+      "name_en": "푸석골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.986667,
+      "longitude": 127.153889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q27341351",
+      "name_ko": "하공장골",
+      "name_en": "하공장골",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.196389,
+      "longitude": 127.078889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q27341205",
+      "name_ko": "형제고개",
+      "name_en": "형제고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 38.07,
+      "longitude": 127.391944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q27340921",
+      "name_ko": "힐딱고개",
+      "name_en": "힐딱고개",
+      "mountain_at": "",
+      "located_in_at": "경기도",
+      "latitude": 37.872222,
+      "longitude": 127.223333,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "계곡 — 경기도 - 무료 다운로드",
+    "description": "경기도에 위치한 계곡(골) 57건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함. 포함 57 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "계곡 — 경기도 | ListBase",
+    "seo_description": "다운로드 계곡 — 경기도 — 57 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 57 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

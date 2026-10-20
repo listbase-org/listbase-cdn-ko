@@ -1,0 +1,115 @@
+{
+  "id": "ko-cheukjeong-danwi-speed",
+  "name": "속도 단위 (6)",
+  "title": "속도 단위 (6)",
+  "description": "CLDR ko 로케일의 'speed' 분류 측정 단위와 한국어 명칭.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "speed-beaufort",
+      "bunryu": "speed",
+      "ireum": "보퍼트",
+      "yakja": "Bft",
+      "gan_yakja": "Bft",
+      "danwi_paeteon": "보퍼트 계급 {0}",
+      "id": 1
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "bunryu": "speed",
+      "ireum": "시간당 킬로미터",
+      "yakja": "km/h",
+      "gan_yakja": "km/h",
+      "danwi_paeteon": "시속 {0}킬로미터",
+      "id": 2
+    },
+    {
+      "unit_code": "speed-knot",
+      "bunryu": "speed",
+      "ireum": "노트",
+      "yakja": "kn",
+      "gan_yakja": "kn",
+      "danwi_paeteon": "{0}노트",
+      "id": 3
+    },
+    {
+      "unit_code": "speed-light-speed",
+      "bunryu": "speed",
+      "ireum": "광속",
+      "yakja": "light",
+      "gan_yakja": "light",
+      "danwi_paeteon": "{0}광속",
+      "id": 4
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "bunryu": "speed",
+      "ireum": "미터 매 초",
+      "yakja": "m/s",
+      "gan_yakja": "m/s",
+      "danwi_paeteon": "초속 {0}미터",
+      "id": 5
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "bunryu": "speed",
+      "ireum": "시간당 마일",
+      "yakja": "mi/h",
+      "gan_yakja": "mi/h",
+      "danwi_paeteon": "시속 {0}마일",
+      "id": 6
+    }
+  ],
+  "meta": {
+    "title": "속도 단위 (6) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'speed' 분류 측정 단위와 한국어 명칭. 포함 6 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "속도 단위 (6) | ListBase",
+    "seo_description": "다운로드 속도 단위 (6) — 6 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 6 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

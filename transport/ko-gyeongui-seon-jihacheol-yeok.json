@@ -1,0 +1,687 @@
+{
+  "id": "ko-gyeongui-seon-jihacheol-yeok",
+  "name": "경의선 지하철 역 (Gyeongui-Jungang Line subway stations)",
+  "title": "경의선 지하철 역 (Gyeongui-Jungang Line subway stations)",
+  "description": "경의선(Gyeongui-Jungang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 56개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Gyeongui-Jungang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "용산",
+      "name_romanized": "yongsan",
+      "lines": "01호선, 경의선",
+      "lines_en": "Line 1, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.529849,
+      "longitude": 126.964561,
+      "around_stations": "효창공원앞, 이촌, 노량진, 남영",
+      "around_count": 4
+    },
+    {
+      "name": "회기",
+      "name_romanized": "",
+      "lines": "01호선, 경의선, 경춘선",
+      "lines_en": "Line 1, Gyeongui-Jungang Line, Gyeongchun Line",
+      "lines_count": 3,
+      "latitude": 37.58946,
+      "longitude": 127.057583,
+      "around_stations": "청량리, 중랑, 외대앞",
+      "around_count": 3
+    },
+    {
+      "name": "청량리",
+      "name_romanized": "",
+      "lines": "01호선, 경의선, 경춘선, 수인분당선",
+      "lines_en": "Line 1, Gyeongui-Jungang Line, Gyeongchun Line, Suin-Bundang Line",
+      "lines_count": 4,
+      "latitude": 37.580178,
+      "longitude": 127.046835,
+      "around_stations": "왕십리, 회기, 제기동",
+      "around_count": 3
+    },
+    {
+      "name": "서울",
+      "name_romanized": "seoul",
+      "lines": "01호선, 04호선, 경의선, 공항철도",
+      "lines_en": "Line 1, Line 4, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.554648,
+      "longitude": 126.972559,
+      "around_stations": "신촌(경의선), 시청, 남영, 공덕, 숙대입구, 회현",
+      "around_count": 6
+    },
+    {
+      "name": "홍대입구",
+      "name_romanized": "hongdae-ipgu",
+      "lines": "02호선, 경의선, 공항철도",
+      "lines_en": "Line 2, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 3,
+      "latitude": 37.557192,
+      "longitude": 126.925381,
+      "around_stations": "가좌, 디지털미디어시티, 신촌, 합정, 서강대, 공덕",
+      "around_count": 6
+    },
+    {
+      "name": "왕십리",
+      "name_romanized": "",
+      "lines": "02호선, 05호선, 경의선, 수인분당선",
+      "lines_en": "Line 2, Line 5, Gyeongui-Jungang Line, Suin-Bundang Line",
+      "lines_count": 4,
+      "latitude": 37.561533,
+      "longitude": 127.037732,
+      "around_stations": "서울숲, 청량리, 상왕십리, 한양대, 행당, 마장, 응봉",
+      "around_count": 7
+    },
+    {
+      "name": "옥수",
+      "name_romanized": "",
+      "lines": "03호선, 경의선",
+      "lines_en": "Line 3, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.540685,
+      "longitude": 127.017965,
+      "around_stations": "금호, 압구정, 한남, 응봉",
+      "around_count": 4
+    },
+    {
+      "name": "대곡",
+      "name_romanized": "",
+      "lines": "03호선, 경의선",
+      "lines_en": "Line 3, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.631626,
+      "longitude": 126.811024,
+      "around_stations": "곡산, 능곡, 백석, 화정",
+      "around_count": 4
+    },
+    {
+      "name": "이촌",
+      "name_romanized": "",
+      "lines": "04호선, 경의선",
+      "lines_en": "Line 4, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.522272,
+      "longitude": 126.974345,
+      "around_stations": "용산, 서빙고, 신용산, 동작",
+      "around_count": 4
+    },
+    {
+      "name": "공덕",
+      "name_romanized": "",
+      "lines": "05호선, 06호선, 경의선, 공항철도",
+      "lines_en": "Line 5, Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 4,
+      "latitude": 37.544018,
+      "longitude": 126.951592,
+      "around_stations": "서강대, 홍대입구, 애오개, 서울, 효창공원앞, 마포, 대흥",
+      "around_count": 7
+    },
+    {
+      "name": "디지털미디어시티",
+      "name_romanized": "",
+      "lines": "06호선, 경의선, 공항철도",
+      "lines_en": "Line 6, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 3,
+      "latitude": 37.576646,
+      "longitude": 126.900984,
+      "around_stations": "수색, 가좌, 증산, 월드컵경기장, 홍대입구, 마곡나루",
+      "around_count": 6
+    },
+    {
+      "name": "효창공원앞",
+      "name_romanized": "",
+      "lines": "06호선, 경의선",
+      "lines_en": "Line 6, Gyeongui-Jungang Line",
+      "lines_count": 2,
+      "latitude": 37.539261,
+      "longitude": 126.961351,
+      "around_stations": "공덕, 용산, 삼각지",
+      "around_count": 3
+    },
+    {
+      "name": "상봉",
+      "name_romanized": "",
+      "lines": "07호선, 경의선, 경춘선",
+      "lines_en": "Line 7, Gyeongui-Jungang Line, Gyeongchun Line",
+      "lines_count": 3,
+      "latitude": 37.596362,
+      "longitude": 127.085032,
+      "around_stations": "중랑, 망우, 면목, 중화, 광운대",
+      "around_count": 5
+    },
+    {
+      "name": "서빙고",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.519594,
+      "longitude": 126.988537,
+      "around_stations": "이촌, 한남",
+      "around_count": 2
+    },
+    {
+      "name": "중랑",
+      "name_romanized": "",
+      "lines": "경의선, 경춘선",
+      "lines_en": "Gyeongui-Jungang Line, Gyeongchun Line",
+      "lines_count": 2,
+      "latitude": 37.594917,
+      "longitude": 127.076116,
+      "around_stations": "회기, 상봉",
+      "around_count": 2
+    },
+    {
+      "name": "망우",
+      "name_romanized": "",
+      "lines": "경의선, 경춘선",
+      "lines_en": "Gyeongui-Jungang Line, Gyeongchun Line",
+      "lines_count": 2,
+      "latitude": 37.59955,
+      "longitude": 127.091909,
+      "around_stations": "상봉, 양원, 신내",
+      "around_count": 3
+    },
+    {
+      "name": "양원",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.606596,
+      "longitude": 127.107906,
+      "around_stations": "망우, 구리",
+      "around_count": 2
+    },
+    {
+      "name": "구리",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.603392,
+      "longitude": 127.143869,
+      "around_stations": "양원, 도농",
+      "around_count": 2
+    },
+    {
+      "name": "도농",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.608806,
+      "longitude": 127.161153,
+      "around_stations": "구리, 양정",
+      "around_count": 2
+    },
+    {
+      "name": "양정",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.60533,
+      "longitude": 127.19364,
+      "around_stations": "도농, 덕소",
+      "around_count": 2
+    },
+    {
+      "name": "덕소",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.586781,
+      "longitude": 127.208832,
+      "around_stations": "양정, 도심",
+      "around_count": 2
+    },
+    {
+      "name": "도심",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.579622,
+      "longitude": 127.222672,
+      "around_stations": "덕소, 팔당",
+      "around_count": 2
+    },
+    {
+      "name": "팔당",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.547371,
+      "longitude": 127.243939,
+      "around_stations": "도심, 운길산",
+      "around_count": 2
+    },
+    {
+      "name": "운길산",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.554669,
+      "longitude": 127.310115,
+      "around_stations": "팔당, 양수",
+      "around_count": 2
+    },
+    {
+      "name": "양수",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.545981,
+      "longitude": 127.329098,
+      "around_stations": "운길산, 신원",
+      "around_count": 2
+    },
+    {
+      "name": "신원",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.525545,
+      "longitude": 127.372921,
+      "around_stations": "양수, 국수",
+      "around_count": 2
+    },
+    {
+      "name": "응봉",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.549946,
+      "longitude": 127.034538,
+      "around_stations": "옥수, 왕십리",
+      "around_count": 2
+    },
+    {
+      "name": "국수",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.516169,
+      "longitude": 127.399367,
+      "around_stations": "신원, 아신",
+      "around_count": 2
+    },
+    {
+      "name": "아신",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.51382,
+      "longitude": 127.443173,
+      "around_stations": "국수, 오빈",
+      "around_count": 2
+    },
+    {
+      "name": "오빈",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.506062,
+      "longitude": 127.473868,
+      "around_stations": "아신, 양평(중앙)",
+      "around_count": 2
+    },
+    {
+      "name": "양평(중앙)",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.492695677260684,
+      "longitude": 127.49222959342376,
+      "around_stations": "오빈, 원덕",
+      "around_count": 2
+    },
+    {
+      "name": "원덕",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.468672,
+      "longitude": 127.547076,
+      "around_stations": "양평(중앙), 용문",
+      "around_count": 2
+    },
+    {
+      "name": "용문",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.48223,
+      "longitude": 127.594647,
+      "around_stations": "원덕, 지평",
+      "around_count": 2
+    },
+    {
+      "name": "지평",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.476444,
+      "longitude": 127.629617,
+      "around_stations": "용문",
+      "around_count": 1
+    },
+    {
+      "name": "신촌(경의선)",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.5584701,
+      "longitude": 126.9387193,
+      "around_stations": "가좌, 서울",
+      "around_count": 2
+    },
+    {
+      "name": "수색",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.580842,
+      "longitude": 126.895611,
+      "around_stations": "화전, 디지털미디어시티",
+      "around_count": 2
+    },
+    {
+      "name": "화전",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.602888,
+      "longitude": 126.868387,
+      "around_stations": "강매, 수색",
+      "around_count": 2
+    },
+    {
+      "name": "강매",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.612314,
+      "longitude": 126.843223,
+      "around_stations": "행신, 화전",
+      "around_count": 2
+    },
+    {
+      "name": "행신",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.612102,
+      "longitude": 126.834146,
+      "around_stations": "능곡, 강매",
+      "around_count": 2
+    },
+    {
+      "name": "능곡",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.618808,
+      "longitude": 126.820783,
+      "around_stations": "대곡, 행신",
+      "around_count": 2
+    },
+    {
+      "name": "곡산",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.645676,
+      "longitude": 126.801762,
+      "around_stations": "백마, 대곡",
+      "around_count": 2
+    },
+    {
+      "name": "풍산",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.672346,
+      "longitude": 126.786243,
+      "around_stations": "일산, 백마",
+      "around_count": 2
+    },
+    {
+      "name": "일산",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.682077,
+      "longitude": 126.769846,
+      "around_stations": "탄현, 풍산",
+      "around_count": 2
+    },
+    {
+      "name": "탄현",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.694023,
+      "longitude": 126.761086,
+      "around_stations": "야당, 일산",
+      "around_count": 2
+    },
+    {
+      "name": "운정",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.725826,
+      "longitude": 126.767257,
+      "around_stations": "금릉, 야당",
+      "around_count": 2
+    },
+    {
+      "name": "금릉",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.751322,
+      "longitude": 126.765347,
+      "around_stations": "금촌, 운정",
+      "around_count": 2
+    },
+    {
+      "name": "월롱",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.796188,
+      "longitude": 126.792587,
+      "around_stations": "파주, 금촌",
+      "around_count": 2
+    },
+    {
+      "name": "파주",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.815298,
+      "longitude": 126.792783,
+      "around_stations": "문산, 월롱",
+      "around_count": 2
+    },
+    {
+      "name": "문산",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.854619,
+      "longitude": 126.788047,
+      "around_stations": "임진강, 파주",
+      "around_count": 2
+    },
+    {
+      "name": "임진강",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.8888842,
+      "longitude": 126.745303,
+      "around_stations": "문산",
+      "around_count": 1
+    },
+    {
+      "name": "서강대",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.551881,
+      "longitude": 126.935711,
+      "around_stations": "홍대입구, 공덕",
+      "around_count": 2
+    },
+    {
+      "name": "백마",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.658239,
+      "longitude": 126.794461,
+      "around_stations": "풍산, 곡산",
+      "around_count": 2
+    },
+    {
+      "name": "야당",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.712327,
+      "longitude": 126.761356,
+      "around_stations": "운정, 탄현",
+      "around_count": 2
+    },
+    {
+      "name": "금촌",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.766217,
+      "longitude": 126.774644,
+      "around_stations": "월롱, 금릉",
+      "around_count": 2
+    },
+    {
+      "name": "한남",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.52943,
+      "longitude": 127.009169,
+      "around_stations": "서빙고, 옥수",
+      "around_count": 2
+    },
+    {
+      "name": "가좌",
+      "name_romanized": "",
+      "lines": "경의선",
+      "lines_en": "Gyeongui-Jungang Line",
+      "lines_count": 1,
+      "latitude": 37.568491,
+      "longitude": 126.915487,
+      "around_stations": "디지털미디어시티, 신촌(경의선), 홍대입구",
+      "around_count": 3
+    }
+  ],
+  "meta": {
+    "title": "경의선 지하철 역 (Gyeongui-Jungang Line subway stations) - 무료 다운로드",
+    "description": "경의선(Gyeongui-Jungang Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 56개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Gyeongui-Jungang Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 56 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "경의선 지하철 역 (Gyeongui-Jungang Line subway stations) | ListBase",
+    "seo_description": "다운로드 경의선 지하철 역 (Gyeongui-Jungang Line subway stations) — 56 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 56 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

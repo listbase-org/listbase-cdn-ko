@@ -1,0 +1,286 @@
+{
+  "id": "ko-tv-chaeneol-series",
+  "name": "대한민국 드라마 채널",
+  "title": "대한민국 드라마 채널",
+  "description": "드라마·시리즈 전문 채널 13개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'series'. Korean 'series' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AsiaN.kr",
+      "name": "AsiaN",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2003-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.asiantv.co.kr/"
+    },
+    {
+      "id": 2,
+      "channel_id": "ChannelChina.kr",
+      "name": "Channel China",
+      "alt_names": "채널차이나",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2010-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cntv.co.kr/china"
+    },
+    {
+      "id": 3,
+      "channel_id": "ChunghwaTV.kr",
+      "name": "Chunghwa TV",
+      "alt_names": "중화TV",
+      "network": "",
+      "owners": "CJ ENM Entertainment Division",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "2004-05-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://zhtv.tving.com/zhtv"
+    },
+    {
+      "id": 4,
+      "channel_id": "DramaCube.kr",
+      "name": "DramaCube",
+      "alt_names": "드라마큐브",
+      "network": "",
+      "owners": "Cube Entertainment",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2011-08-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.imtcast.com/dramacube/"
+    },
+    {
+      "id": 5,
+      "channel_id": "Dramax.kr",
+      "name": "Dramax",
+      "alt_names": "드라맥스",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2006-12-12",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://dramax.ihq.co.kr/"
+    },
+    {
+      "id": 6,
+      "channel_id": "ENADRAMA.kr",
+      "name": "ENA DRAMA",
+      "alt_names": "ENA 드라마, DramaH, 드라마H, HomeDrama, HOMETV",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2003-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mediagenie.co.kr/ENA_DRAMA/"
+    },
+    {
+      "id": 7,
+      "channel_id": "JNGKorea.kr",
+      "name": "JNG Korea",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2021-05-01",
+      "closed": "2022-11-01",
+      "replaced_by": "WeLike.kr",
+      "website": "http://jngkorea.com/"
+    },
+    {
+      "id": 8,
+      "channel_id": "OCN.kr",
+      "name": "OCN",
+      "alt_names": "",
+      "network": "",
+      "owners": "CJ Group",
+      "country": "KR",
+      "categories": "movies, series",
+      "is_nsfw": false,
+      "launched": "1999-07-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://ocn.tving.com/"
+    },
+    {
+      "id": 9,
+      "channel_id": "Telenovela.kr",
+      "name": "Telenovela",
+      "alt_names": "텔레노벨라",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.telenovela.co.kr/"
+    },
+    {
+      "id": 10,
+      "channel_id": "WeLike.kr",
+      "name": "WeLike",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2022-11-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://weliketv.co.kr/"
+    },
+    {
+      "id": 11,
+      "channel_id": "iHQDrama.kr",
+      "name": "iHQ Drama",
+      "alt_names": "",
+      "network": "",
+      "owners": "EMB Production Comapny",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2022-02-21",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://ihq.co.kr/drama/"
+    },
+    {
+      "id": 12,
+      "channel_id": "tvN.kr",
+      "name": "tvN",
+      "alt_names": "",
+      "network": "",
+      "owners": "CJ E&M",
+      "country": "KR",
+      "categories": "entertainment, series",
+      "is_nsfw": false,
+      "launched": "2006-10-09",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvn.tving.com/tvn/"
+    },
+    {
+      "id": 13,
+      "channel_id": "tvNDrama.kr",
+      "name": "tvN Drama",
+      "alt_names": "O tvN, Story On",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "series",
+      "is_nsfw": false,
+      "launched": "2006-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvndrama.tving.com/"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 드라마 채널 - 무료 다운로드",
+    "description": "드라마·시리즈 전문 채널 13개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'series'. Korean 'series' TV channels split from the ko-tv-chaeneol master dataset. 포함 13 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 드라마 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 드라마 채널 — 13 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 13 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

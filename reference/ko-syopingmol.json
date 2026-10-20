@@ -1,0 +1,186 @@
+{
+  "id": "ko-syopingmol",
+  "name": "대한민국의 쇼핑몰 (Shopping Malls of South Korea)",
+  "title": "대한민국의 쇼핑몰 (Shopping Malls of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 쇼핑몰 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "미도파백화점",
+      "name_en": "Midopa",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.563548,
+      "longitude": 126.981482,
+      "wikidata_id": "Q18648213",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18648213"
+    },
+    {
+      "name_ko": "삼성플라자",
+      "name_en": "Samsung Plaza",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 37.384722,
+      "longitude": 127.123611,
+      "wikidata_id": "Q7410518",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7410518"
+    },
+    {
+      "name_ko": "스타필드 안성",
+      "name_en": "Starfield Anseong",
+      "admin_area_ko": "경기도",
+      "admin_area_en": "Gyeonggi Province",
+      "latitude": 36.99457,
+      "longitude": 127.147279,
+      "wikidata_id": "Q137364161",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137364161"
+    },
+    {
+      "name_ko": "스타필드 고양",
+      "name_en": "Starfield Goyang",
+      "admin_area_ko": "고양시",
+      "admin_area_en": "Goyang",
+      "latitude": 37.647179,
+      "longitude": 126.89519,
+      "wikidata_id": "Q52785127",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52785127"
+    },
+    {
+      "name_ko": "가락시장",
+      "name_en": "Garak Market",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.494,
+      "longitude": 127.113,
+      "wikidata_id": "Q494323",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q494323"
+    },
+    {
+      "name_ko": "코엑스몰",
+      "name_en": "COEX Mall",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.511944,
+      "longitude": 127.058889,
+      "wikidata_id": "Q490387",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q490387"
+    },
+    {
+      "name_ko": "타임스트림",
+      "name_en": "Time Stream",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.483874,
+      "longitude": 126.930233,
+      "wikidata_id": "Q65306680",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65306680"
+    },
+    {
+      "name_ko": "롯데월드몰",
+      "name_en": "Lotte World Mall",
+      "admin_area_ko": "송파구",
+      "admin_area_en": "Songpa District",
+      "latitude": 37.5137,
+      "longitude": 127.1043,
+      "wikidata_id": "Q12616233",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12616233"
+    },
+    {
+      "name_ko": "스타필드 수원",
+      "name_en": "Starfield Suwon",
+      "admin_area_ko": "수원시",
+      "admin_area_en": "Suwon",
+      "latitude": 37.287366,
+      "longitude": 126.991208,
+      "wikidata_id": "Q125857395",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125857395"
+    },
+    {
+      "name_ko": "타임스퀘어",
+      "name_en": "Times Square",
+      "admin_area_ko": "영등포구",
+      "admin_area_en": "Yeongdeungpo District",
+      "latitude": 37.517194,
+      "longitude": 126.90375,
+      "wikidata_id": "Q6502131",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6502131"
+    },
+    {
+      "name_ko": "스타시티몰",
+      "name_en": "Star City, Seoul",
+      "admin_area_ko": "자양동",
+      "admin_area_en": "Jayang-dong",
+      "latitude": 37.5378,
+      "longitude": 127.072,
+      "wikidata_id": "Q7600667",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7600667"
+    },
+    {
+      "name_ko": "스타필드 하남",
+      "name_en": "Starfield Hanam",
+      "admin_area_ko": "하남시",
+      "admin_area_en": "Hanam",
+      "latitude": 37.545405,
+      "longitude": 127.223858,
+      "wikidata_id": "Q26831336",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26831336"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 쇼핑몰 (Shopping Malls of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 쇼핑몰 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 12 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 쇼핑몰 (Shopping Malls of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 쇼핑몰 (Shopping Malls of South Korea) — 12 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 12 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

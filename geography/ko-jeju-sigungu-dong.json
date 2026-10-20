@@ -1,0 +1,411 @@
+{
+  "id": "ko-jeju-sigungu-dong",
+  "name": "Jeju 시군구·동읍면 — Jeju Districts & Neighborhoods",
+  "title": "Jeju 시군구·동읍면 — Jeju Districts & Neighborhoods",
+  "description": "Jeju (제주특별자치도) — 시군구 및 동·읍·면 행정 지명 목록 74건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Jeju 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "강정동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "남원읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "대정읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "대포동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "도순동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "동홍동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "법환동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "보목동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "상예동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "상효동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "색달동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "서귀동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "서호동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "서홍동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "성산읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "신효동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "안덕면"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "영남동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "월평동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "중문동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "토평동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "표선면"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "하예동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "하원동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "하효동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "호근동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "서귀포시",
+      "dong_eup_myeon": "회수동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "건입동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "구좌읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "내도동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "노형동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "도남동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "도두이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "도두일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "도련이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "도련일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "도평동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "봉개동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "삼도이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "삼도일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "삼양삼동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "삼양이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "삼양일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "아라이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "아라일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "애월읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "연동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "영평동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "오등동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "오라삼동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "오라이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "오라일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "외도이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "외도일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "용강동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "용담삼동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "용담이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "용담일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "우도면"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "월평동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "이도이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "이도일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "이호이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "이호일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "일도이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "일도일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "조천읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "추자면"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "한경면"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "한림읍"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "해안동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "화북이동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "화북일동"
+    },
+    {
+      "sido": "제주특별자치도",
+      "sigungu": "제주시",
+      "dong_eup_myeon": "회천동"
+    }
+  ],
+  "meta": {
+    "title": "Jeju 시군구·동읍면 — Jeju Districts & Neighborhoods - 무료 다운로드",
+    "description": "Jeju (제주특별자치도) — 시군구 및 동·읍·면 행정 지명 목록 74건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Jeju 편. 필드: sido, sigungu, dong_eup_myeon. 포함 74 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Jeju 시군구·동읍면 — Jeju Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Jeju 시군구·동읍면 — Jeju Districts & Neighborhoods — 74 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 74 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

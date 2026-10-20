@@ -1,0 +1,266 @@
+{
+  "id": "ko-sejong-haengjeong-dong",
+  "name": "세종특별자치시 — 행정동",
+  "title": "세종특별자치시 — 행정동",
+  "description": "세종특별자치시의 행정동(行政洞) 목록 20개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (20 haengjeong-dong / administrative neighborhoods of Sejong.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "short_code",
+      "label": "Short Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dong",
+      "label": "Dong",
+      "type": "string"
+    },
+    {
+      "key": "sido_code",
+      "label": "Sido Code",
+      "type": "number"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sgg_code",
+      "label": "Sgg Code",
+      "type": "number"
+    },
+    {
+      "key": "sgg",
+      "label": "Sgg",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "3611025000",
+      "short_code": "2901011",
+      "name": "세종특별자치시 세종시 조치원읍",
+      "dong": "조치원읍",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611031000",
+      "short_code": "2901031",
+      "name": "세종특별자치시 세종시 연기면",
+      "dong": "연기면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611032000",
+      "short_code": "2901032",
+      "name": "세종특별자치시 세종시 연동면",
+      "dong": "연동면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611033000",
+      "short_code": "2901033",
+      "name": "세종특별자치시 세종시 부강면",
+      "dong": "부강면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611034000",
+      "short_code": "2901034",
+      "name": "세종특별자치시 세종시 금남면",
+      "dong": "금남면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611035000",
+      "short_code": "2901035",
+      "name": "세종특별자치시 세종시 장군면",
+      "dong": "장군면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611036000",
+      "short_code": "2901036",
+      "name": "세종특별자치시 세종시 연서면",
+      "dong": "연서면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611037000",
+      "short_code": "2901037",
+      "name": "세종특별자치시 세종시 전의면",
+      "dong": "전의면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611038000",
+      "short_code": "2901038",
+      "name": "세종특별자치시 세종시 전동면",
+      "dong": "전동면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611039000",
+      "short_code": "2901039",
+      "name": "세종특별자치시 세종시 소정면",
+      "dong": "소정면",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611051000",
+      "short_code": "2901061",
+      "name": "세종특별자치시 세종시 한솔동",
+      "dong": "한솔동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611051500",
+      "short_code": "2901067",
+      "name": "세종특별자치시 세종시 새롬동",
+      "dong": "새롬동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611052000",
+      "short_code": "2901053",
+      "name": "세종특별자치시 세종시 도담동",
+      "dong": "도담동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611053000",
+      "short_code": "2901059",
+      "name": "세종특별자치시 세종시 아름동",
+      "dong": "아름동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611054000",
+      "short_code": "2901056",
+      "name": "세종특별자치시 세종시 종촌동",
+      "dong": "종촌동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611055000",
+      "short_code": "2901060",
+      "name": "세종특별자치시 세종시 고운동",
+      "dong": "고운동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611055500",
+      "short_code": "2901065",
+      "name": "세종특별자치시 세종시 소담동",
+      "dong": "소담동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611056000",
+      "short_code": "2901066",
+      "name": "세종특별자치시 세종시 보람동",
+      "dong": "보람동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611057000",
+      "short_code": "2901064",
+      "name": "세종특별자치시 세종시 대평동",
+      "dong": "대평동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    },
+    {
+      "code": "3611058000",
+      "short_code": "2901068",
+      "name": "세종특별자치시 세종시 다정동",
+      "dong": "다정동",
+      "sido_code": "36",
+      "sido": "세종특별자치시",
+      "sgg_code": "36110",
+      "sgg": "세종시"
+    }
+  ],
+  "meta": {
+    "title": "세종특별자치시 — 행정동 - 무료 다운로드",
+    "description": "세종특별자치시의 행정동(行政洞) 목록 20개. 각 행정동의 행정동 코드, 소속 시·군·구, 이름을 포함한다. 데이터 기준일은 2021년 4월 (raqoon886/Local_HangJeongDong). 행정동은 행정 효율을 위한 행정 단위로 법정동과 다르게 통합·분할될 수 있다. (20 haengjeong-dong / administrative neighborhoods of Sejong.) 포함 20 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세종특별자치시 — 행정동 | ListBase",
+    "seo_description": "다운로드 세종특별자치시 — 행정동 — 20 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 20 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

@@ -1,0 +1,3416 @@
+{
+  "id": "ko-sigandae",
+  "name": "세계의 시간대 (IANA / CLDR 한국어)",
+  "title": "세계의 시간대 (IANA / CLDR 한국어)",
+  "description": "IANA tz 시간대 식별자와 CLDR ko 로케일이 제공하는 한국어 대표 도시명. 권역(gwonyeok)은 tz 식별자의 첫 번째 구성 요소입니다.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 420,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아비장",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아크라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아디스아바바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "알제",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "아스메라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bamako",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "바마코",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Bangui",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "방기",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Banjul",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "반줄",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Bissau",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "비사우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Blantyre",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "블랜타이어",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Brazzaville",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "브라자빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Bujumbura",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "부줌부라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Cairo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "카이로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Casablanca",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "카사블랑카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Ceuta",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "세우타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Conakry",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "코나크리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Dakar",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "다카르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "다르에스살람",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Djibouti",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "지부티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Douala",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "두알라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/El_Aaiun",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "엘아이운",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Freetown",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "프리타운",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Gaborone",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "가보로네",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Africa/Harare",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "하라레",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Africa/Johannesburg",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "요하네스버그",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Africa/Juba",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "주바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Africa/Kampala",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "캄팔라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Africa/Khartoum",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "카르툼",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Africa/Kigali",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "키갈리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Africa/Kinshasa",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "킨샤사",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Africa/Lagos",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "라고스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Africa/Libreville",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "리브르빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Africa/Lome",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "로메",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Africa/Luanda",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "루안다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Africa/Lubumbashi",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "루붐바시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Africa/Lusaka",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "루사카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Africa/Malabo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "말라보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Africa/Maputo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "마푸토",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Africa/Maseru",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "마세루",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Africa/Mbabane",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "음바바네",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Africa/Mogadishu",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "모가디슈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Africa/Monrovia",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "몬로비아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Africa/Nairobi",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "나이로비",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Africa/Ndjamena",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "엔자메나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Africa/Niamey",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "니아메",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Africa/Nouakchott",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "누악쇼트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Africa/Ouagadougou",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "와가두구",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Africa/Porto-Novo",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "포르토노보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Africa/Sao_Tome",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "상투메",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Africa/Tripoli",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "트리폴리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Africa/Tunis",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "튀니스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Africa/Windhoek",
+      "gwonyeok": "Africa",
+      "dosi_ireum": "빈트후크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Adak",
+      "gwonyeok": "America",
+      "dosi_ireum": "에이닥",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Anchorage",
+      "gwonyeok": "America",
+      "dosi_ireum": "앵커리지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Anguilla",
+      "gwonyeok": "America",
+      "dosi_ireum": "앙귈라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/Antigua",
+      "gwonyeok": "America",
+      "dosi_ireum": "안티과",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/Araguaina",
+      "gwonyeok": "America",
+      "dosi_ireum": "아라과이나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/Argentina/La_Rioja",
+      "gwonyeok": "America",
+      "dosi_ireum": "라 리오하",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "gwonyeok": "America",
+      "dosi_ireum": "리오 가예고스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/Argentina/Salta",
+      "gwonyeok": "America",
+      "dosi_ireum": "살타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/Argentina/San_Juan",
+      "gwonyeok": "America",
+      "dosi_ireum": "산후안",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/Argentina/San_Luis",
+      "gwonyeok": "America",
+      "dosi_ireum": "산루이스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "America/Argentina/Tucuman",
+      "gwonyeok": "America",
+      "dosi_ireum": "투쿠만",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "America/Argentina/Ushuaia",
+      "gwonyeok": "America",
+      "dosi_ireum": "우수아이아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "America/Aruba",
+      "gwonyeok": "America",
+      "dosi_ireum": "아루바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "America/Asuncion",
+      "gwonyeok": "America",
+      "dosi_ireum": "아순시온",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "America/Bahia",
+      "gwonyeok": "America",
+      "dosi_ireum": "바히아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "America/Bahia_Banderas",
+      "gwonyeok": "America",
+      "dosi_ireum": "바이아 반데라스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "America/Barbados",
+      "gwonyeok": "America",
+      "dosi_ireum": "바베이도스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "America/Belem",
+      "gwonyeok": "America",
+      "dosi_ireum": "벨렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "America/Belize",
+      "gwonyeok": "America",
+      "dosi_ireum": "벨리즈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "America/Blanc-Sablon",
+      "gwonyeok": "America",
+      "dosi_ireum": "블랑 사블롱",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "America/Boa_Vista",
+      "gwonyeok": "America",
+      "dosi_ireum": "보아 비스타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "America/Bogota",
+      "gwonyeok": "America",
+      "dosi_ireum": "보고타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "America/Boise",
+      "gwonyeok": "America",
+      "dosi_ireum": "보이시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "America/Buenos_Aires",
+      "gwonyeok": "America",
+      "dosi_ireum": "부에노스 아이레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "America/Cambridge_Bay",
+      "gwonyeok": "America",
+      "dosi_ireum": "케임브리지 베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "America/Campo_Grande",
+      "gwonyeok": "America",
+      "dosi_ireum": "캄포 그란데",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "America/Cancun",
+      "gwonyeok": "America",
+      "dosi_ireum": "칸쿤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "America/Caracas",
+      "gwonyeok": "America",
+      "dosi_ireum": "카라카스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "America/Catamarca",
+      "gwonyeok": "America",
+      "dosi_ireum": "카타마르카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "America/Cayenne",
+      "gwonyeok": "America",
+      "dosi_ireum": "카옌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "America/Cayman",
+      "gwonyeok": "America",
+      "dosi_ireum": "케이맨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "America/Chicago",
+      "gwonyeok": "America",
+      "dosi_ireum": "시카고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "America/Chihuahua",
+      "gwonyeok": "America",
+      "dosi_ireum": "치와와",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "America/Ciudad_Juarez",
+      "gwonyeok": "America",
+      "dosi_ireum": "시우다드후아레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "America/Coral_Harbour",
+      "gwonyeok": "America",
+      "dosi_ireum": "코랄하버",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "America/Cordoba",
+      "gwonyeok": "America",
+      "dosi_ireum": "코르도바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "America/Costa_Rica",
+      "gwonyeok": "America",
+      "dosi_ireum": "코스타리카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "America/Coyhaique",
+      "gwonyeok": "America",
+      "dosi_ireum": "코이아이케",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "America/Creston",
+      "gwonyeok": "America",
+      "dosi_ireum": "크레스톤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "America/Cuiaba",
+      "gwonyeok": "America",
+      "dosi_ireum": "쿠이아바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "America/Curacao",
+      "gwonyeok": "America",
+      "dosi_ireum": "퀴라소",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "America/Danmarkshavn",
+      "gwonyeok": "America",
+      "dosi_ireum": "덴마크샤븐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "America/Dawson",
+      "gwonyeok": "America",
+      "dosi_ireum": "도슨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "America/Dawson_Creek",
+      "gwonyeok": "America",
+      "dosi_ireum": "도슨크릭",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "America/Denver",
+      "gwonyeok": "America",
+      "dosi_ireum": "덴버",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "America/Detroit",
+      "gwonyeok": "America",
+      "dosi_ireum": "디트로이트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "America/Dominica",
+      "gwonyeok": "America",
+      "dosi_ireum": "도미니카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "America/Edmonton",
+      "gwonyeok": "America",
+      "dosi_ireum": "에드먼턴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "America/Eirunepe",
+      "gwonyeok": "America",
+      "dosi_ireum": "아이루네페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "America/El_Salvador",
+      "gwonyeok": "America",
+      "dosi_ireum": "엘살바도르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "America/Fort_Nelson",
+      "gwonyeok": "America",
+      "dosi_ireum": "포트 넬슨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "America/Fortaleza",
+      "gwonyeok": "America",
+      "dosi_ireum": "포르탈레자",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "America/Glace_Bay",
+      "gwonyeok": "America",
+      "dosi_ireum": "글라스베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "America/Godthab",
+      "gwonyeok": "America",
+      "dosi_ireum": "고드호프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "America/Goose_Bay",
+      "gwonyeok": "America",
+      "dosi_ireum": "구즈베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "America/Grand_Turk",
+      "gwonyeok": "America",
+      "dosi_ireum": "그랜드 터크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "America/Grenada",
+      "gwonyeok": "America",
+      "dosi_ireum": "그레나다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "America/Guadeloupe",
+      "gwonyeok": "America",
+      "dosi_ireum": "과들루프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "America/Guatemala",
+      "gwonyeok": "America",
+      "dosi_ireum": "과테말라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "America/Guayaquil",
+      "gwonyeok": "America",
+      "dosi_ireum": "과야킬",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "America/Guyana",
+      "gwonyeok": "America",
+      "dosi_ireum": "가이아나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "America/Halifax",
+      "gwonyeok": "America",
+      "dosi_ireum": "핼리팩스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "America/Havana",
+      "gwonyeok": "America",
+      "dosi_ireum": "하바나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "America/Hermosillo",
+      "gwonyeok": "America",
+      "dosi_ireum": "에르모시요",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "America/Indiana/Knox",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 녹스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "America/Indiana/Marengo",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 머렝고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "America/Indiana/Petersburg",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 피츠버그",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "America/Indiana/Tell_City",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 텔시티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "America/Indiana/Vevay",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 비비",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "America/Indiana/Vincennes",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 빈센스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "America/Indiana/Winamac",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 위너맥",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "America/Indianapolis",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나폴리스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "America/Inuvik",
+      "gwonyeok": "America",
+      "dosi_ireum": "이누빅",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "America/Iqaluit",
+      "gwonyeok": "America",
+      "dosi_ireum": "이칼루이트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "America/Jamaica",
+      "gwonyeok": "America",
+      "dosi_ireum": "자메이카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "America/Jujuy",
+      "gwonyeok": "America",
+      "dosi_ireum": "후후이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "America/Juneau",
+      "gwonyeok": "America",
+      "dosi_ireum": "주노",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "America/Kentucky/Monticello",
+      "gwonyeok": "America",
+      "dosi_ireum": "켄터키주, 몬티첼로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "America/Kralendijk",
+      "gwonyeok": "America",
+      "dosi_ireum": "크라렌디즈크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "America/La_Paz",
+      "gwonyeok": "America",
+      "dosi_ireum": "라파스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "America/Lima",
+      "gwonyeok": "America",
+      "dosi_ireum": "리마",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "America/Los_Angeles",
+      "gwonyeok": "America",
+      "dosi_ireum": "로스앤젤레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "America/Louisville",
+      "gwonyeok": "America",
+      "dosi_ireum": "루이빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "America/Lower_Princes",
+      "gwonyeok": "America",
+      "dosi_ireum": "로워 프린스 쿼터",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "America/Maceio",
+      "gwonyeok": "America",
+      "dosi_ireum": "마세이오",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "America/Managua",
+      "gwonyeok": "America",
+      "dosi_ireum": "마나과",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "America/Manaus",
+      "gwonyeok": "America",
+      "dosi_ireum": "마나우스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "America/Marigot",
+      "gwonyeok": "America",
+      "dosi_ireum": "마리곳",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "America/Martinique",
+      "gwonyeok": "America",
+      "dosi_ireum": "마티니크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "America/Matamoros",
+      "gwonyeok": "America",
+      "dosi_ireum": "마타모로스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "America/Mazatlan",
+      "gwonyeok": "America",
+      "dosi_ireum": "마사틀란",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "America/Mendoza",
+      "gwonyeok": "America",
+      "dosi_ireum": "멘도사",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 145,
+      "tz_id": "America/Menominee",
+      "gwonyeok": "America",
+      "dosi_ireum": "메노미니",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 146,
+      "tz_id": "America/Merida",
+      "gwonyeok": "America",
+      "dosi_ireum": "메리다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 147,
+      "tz_id": "America/Metlakatla",
+      "gwonyeok": "America",
+      "dosi_ireum": "메틀라카틀라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 148,
+      "tz_id": "America/Mexico_City",
+      "gwonyeok": "America",
+      "dosi_ireum": "멕시코 시티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 149,
+      "tz_id": "America/Miquelon",
+      "gwonyeok": "America",
+      "dosi_ireum": "미클롱",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 150,
+      "tz_id": "America/Moncton",
+      "gwonyeok": "America",
+      "dosi_ireum": "몽턴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 151,
+      "tz_id": "America/Monterrey",
+      "gwonyeok": "America",
+      "dosi_ireum": "몬테레이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 152,
+      "tz_id": "America/Montevideo",
+      "gwonyeok": "America",
+      "dosi_ireum": "몬테비데오",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 153,
+      "tz_id": "America/Montserrat",
+      "gwonyeok": "America",
+      "dosi_ireum": "몬세라트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 154,
+      "tz_id": "America/Nassau",
+      "gwonyeok": "America",
+      "dosi_ireum": "나소",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 155,
+      "tz_id": "America/New_York",
+      "gwonyeok": "America",
+      "dosi_ireum": "뉴욕",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 156,
+      "tz_id": "America/Nome",
+      "gwonyeok": "America",
+      "dosi_ireum": "놈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 157,
+      "tz_id": "America/Noronha",
+      "gwonyeok": "America",
+      "dosi_ireum": "노롱야",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 158,
+      "tz_id": "America/North_Dakota/Beulah",
+      "gwonyeok": "America",
+      "dosi_ireum": "노스다코타주, 베라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 159,
+      "tz_id": "America/North_Dakota/Center",
+      "gwonyeok": "America",
+      "dosi_ireum": "중부, 노스다코타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 160,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "gwonyeok": "America",
+      "dosi_ireum": "노스다코타주, 뉴살렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 161,
+      "tz_id": "America/Ojinaga",
+      "gwonyeok": "America",
+      "dosi_ireum": "오히나가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 162,
+      "tz_id": "America/Panama",
+      "gwonyeok": "America",
+      "dosi_ireum": "파나마",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 163,
+      "tz_id": "America/Paramaribo",
+      "gwonyeok": "America",
+      "dosi_ireum": "파라마리보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 164,
+      "tz_id": "America/Phoenix",
+      "gwonyeok": "America",
+      "dosi_ireum": "피닉스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 165,
+      "tz_id": "America/Port-au-Prince",
+      "gwonyeok": "America",
+      "dosi_ireum": "포르토프랭스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 166,
+      "tz_id": "America/Port_of_Spain",
+      "gwonyeok": "America",
+      "dosi_ireum": "포트오브스페인",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 167,
+      "tz_id": "America/Porto_Velho",
+      "gwonyeok": "America",
+      "dosi_ireum": "포르토벨료",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 168,
+      "tz_id": "America/Puerto_Rico",
+      "gwonyeok": "America",
+      "dosi_ireum": "푸에르토리코",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 169,
+      "tz_id": "America/Punta_Arenas",
+      "gwonyeok": "America",
+      "dosi_ireum": "푼타아레나스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 170,
+      "tz_id": "America/Rankin_Inlet",
+      "gwonyeok": "America",
+      "dosi_ireum": "랭킹 인렛",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 171,
+      "tz_id": "America/Recife",
+      "gwonyeok": "America",
+      "dosi_ireum": "레시페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 172,
+      "tz_id": "America/Regina",
+      "gwonyeok": "America",
+      "dosi_ireum": "리자이나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 173,
+      "tz_id": "America/Resolute",
+      "gwonyeok": "America",
+      "dosi_ireum": "리졸루트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 174,
+      "tz_id": "America/Rio_Branco",
+      "gwonyeok": "America",
+      "dosi_ireum": "히우 브랑쿠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 175,
+      "tz_id": "America/Santarem",
+      "gwonyeok": "America",
+      "dosi_ireum": "산타렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 176,
+      "tz_id": "America/Santiago",
+      "gwonyeok": "America",
+      "dosi_ireum": "산티아고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 177,
+      "tz_id": "America/Santo_Domingo",
+      "gwonyeok": "America",
+      "dosi_ireum": "산토도밍고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 178,
+      "tz_id": "America/Sao_Paulo",
+      "gwonyeok": "America",
+      "dosi_ireum": "상파울루",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 179,
+      "tz_id": "America/Scoresbysund",
+      "gwonyeok": "America",
+      "dosi_ireum": "스코레스바이선드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 180,
+      "tz_id": "America/Sitka",
+      "gwonyeok": "America",
+      "dosi_ireum": "싯카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 181,
+      "tz_id": "America/St_Barthelemy",
+      "gwonyeok": "America",
+      "dosi_ireum": "생바르텔레미",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 182,
+      "tz_id": "America/St_Johns",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트존스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 183,
+      "tz_id": "America/St_Kitts",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트키츠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 184,
+      "tz_id": "America/St_Lucia",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트루시아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 185,
+      "tz_id": "America/St_Thomas",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트토마스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 186,
+      "tz_id": "America/St_Vincent",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트빈센트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 187,
+      "tz_id": "America/Swift_Current",
+      "gwonyeok": "America",
+      "dosi_ireum": "스위프트커런트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 188,
+      "tz_id": "America/Tegucigalpa",
+      "gwonyeok": "America",
+      "dosi_ireum": "테구시갈파",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 189,
+      "tz_id": "America/Thule",
+      "gwonyeok": "America",
+      "dosi_ireum": "툴레",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 190,
+      "tz_id": "America/Tijuana",
+      "gwonyeok": "America",
+      "dosi_ireum": "티후아나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 191,
+      "tz_id": "America/Toronto",
+      "gwonyeok": "America",
+      "dosi_ireum": "토론토",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 192,
+      "tz_id": "America/Tortola",
+      "gwonyeok": "America",
+      "dosi_ireum": "토르톨라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 193,
+      "tz_id": "America/Vancouver",
+      "gwonyeok": "America",
+      "dosi_ireum": "벤쿠버",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 194,
+      "tz_id": "America/Whitehorse",
+      "gwonyeok": "America",
+      "dosi_ireum": "화이트호스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 195,
+      "tz_id": "America/Winnipeg",
+      "gwonyeok": "America",
+      "dosi_ireum": "위니펙",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 196,
+      "tz_id": "America/Yakutat",
+      "gwonyeok": "America",
+      "dosi_ireum": "야쿠타트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 197,
+      "tz_id": "Antarctica/Casey",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "케이시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 198,
+      "tz_id": "Antarctica/Davis",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "데이비스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 199,
+      "tz_id": "Antarctica/DumontDUrville",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "뒤몽 뒤르빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 200,
+      "tz_id": "Antarctica/Macquarie",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "맥쿼리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 201,
+      "tz_id": "Antarctica/Mawson",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "모슨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 202,
+      "tz_id": "Antarctica/McMurdo",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "맥머도",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 203,
+      "tz_id": "Antarctica/Palmer",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "파머",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 204,
+      "tz_id": "Antarctica/Rothera",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "로데라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 205,
+      "tz_id": "Antarctica/Syowa",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "쇼와",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 206,
+      "tz_id": "Antarctica/Troll",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "트롤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 207,
+      "tz_id": "Antarctica/Vostok",
+      "gwonyeok": "Antarctica",
+      "dosi_ireum": "보스토크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 208,
+      "tz_id": "Arctic/Longyearbyen",
+      "gwonyeok": "Arctic",
+      "dosi_ireum": "롱이어비엔",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 209,
+      "tz_id": "Asia/Aden",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아덴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 210,
+      "tz_id": "Asia/Almaty",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "알마티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 211,
+      "tz_id": "Asia/Amman",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "암만",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 212,
+      "tz_id": "Asia/Anadyr",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아나디리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 213,
+      "tz_id": "Asia/Aqtau",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아크타우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 214,
+      "tz_id": "Asia/Aqtobe",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "악토브",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 215,
+      "tz_id": "Asia/Ashgabat",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아슈하바트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 216,
+      "tz_id": "Asia/Atyrau",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아티라우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 217,
+      "tz_id": "Asia/Baghdad",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바그다드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 218,
+      "tz_id": "Asia/Bahrain",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바레인",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 219,
+      "tz_id": "Asia/Baku",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바쿠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 220,
+      "tz_id": "Asia/Bangkok",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "방콕",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 221,
+      "tz_id": "Asia/Barnaul",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바르나울",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 222,
+      "tz_id": "Asia/Beirut",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "베이루트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 223,
+      "tz_id": "Asia/Bishkek",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "비슈케크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 224,
+      "tz_id": "Asia/Brunei",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "브루나이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 225,
+      "tz_id": "Asia/Calcutta",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "콜카타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 226,
+      "tz_id": "Asia/Chita",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "치타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 227,
+      "tz_id": "Asia/Colombo",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "콜롬보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 228,
+      "tz_id": "Asia/Damascus",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "다마스쿠스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 229,
+      "tz_id": "Asia/Dhaka",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "다카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 230,
+      "tz_id": "Asia/Dili",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "딜리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 231,
+      "tz_id": "Asia/Dubai",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "두바이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 232,
+      "tz_id": "Asia/Dushanbe",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "두샨베",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 233,
+      "tz_id": "Asia/Famagusta",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "파마구스타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 234,
+      "tz_id": "Asia/Gaza",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "가자",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 235,
+      "tz_id": "Asia/Hebron",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "헤브론",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 236,
+      "tz_id": "Asia/Hong_Kong",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "홍콩",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 237,
+      "tz_id": "Asia/Hovd",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "호브드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 238,
+      "tz_id": "Asia/Irkutsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "이르쿠츠크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 239,
+      "tz_id": "Asia/Jakarta",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "자카르타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 240,
+      "tz_id": "Asia/Jayapura",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "자야푸라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 241,
+      "tz_id": "Asia/Jerusalem",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "예루살렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 242,
+      "tz_id": "Asia/Kabul",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카불",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 243,
+      "tz_id": "Asia/Kamchatka",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "캄차카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 244,
+      "tz_id": "Asia/Karachi",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카라치",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 245,
+      "tz_id": "Asia/Katmandu",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카트만두",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 246,
+      "tz_id": "Asia/Khandyga",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "한디가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 247,
+      "tz_id": "Asia/Krasnoyarsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "크라스노야르스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 248,
+      "tz_id": "Asia/Kuala_Lumpur",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "쿠알라룸푸르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 249,
+      "tz_id": "Asia/Kuching",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "쿠칭",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 250,
+      "tz_id": "Asia/Kuwait",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "쿠웨이트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 251,
+      "tz_id": "Asia/Macau",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마카오",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 252,
+      "tz_id": "Asia/Magadan",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마가단",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 253,
+      "tz_id": "Asia/Makassar",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마카사르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 254,
+      "tz_id": "Asia/Manila",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마닐라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 255,
+      "tz_id": "Asia/Muscat",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "무스카트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 256,
+      "tz_id": "Asia/Nicosia",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "니코시아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 257,
+      "tz_id": "Asia/Novokuznetsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "노보쿠즈네츠크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 258,
+      "tz_id": "Asia/Novosibirsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "노보시비르스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 259,
+      "tz_id": "Asia/Omsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "옴스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 260,
+      "tz_id": "Asia/Oral",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "오랄",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 261,
+      "tz_id": "Asia/Phnom_Penh",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "프놈펜",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 262,
+      "tz_id": "Asia/Pontianak",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "폰티아나크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 263,
+      "tz_id": "Asia/Pyongyang",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "평양",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 264,
+      "tz_id": "Asia/Qatar",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카타르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 265,
+      "tz_id": "Asia/Qostanay",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "코스타나이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 266,
+      "tz_id": "Asia/Qyzylorda",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "키질로르다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 267,
+      "tz_id": "Asia/Rangoon",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "랑군",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 268,
+      "tz_id": "Asia/Riyadh",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "리야드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 269,
+      "tz_id": "Asia/Saigon",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "사이공",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 270,
+      "tz_id": "Asia/Sakhalin",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "사할린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 271,
+      "tz_id": "Asia/Samarkand",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "사마르칸트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 272,
+      "tz_id": "Asia/Seoul",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "서울",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 273,
+      "tz_id": "Asia/Shanghai",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "상하이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 274,
+      "tz_id": "Asia/Singapore",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "싱가포르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 275,
+      "tz_id": "Asia/Srednekolymsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "스레드네콜림스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 276,
+      "tz_id": "Asia/Taipei",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "타이베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 277,
+      "tz_id": "Asia/Tashkent",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "타슈켄트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 278,
+      "tz_id": "Asia/Tbilisi",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "트빌리시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 279,
+      "tz_id": "Asia/Tehran",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "테헤란",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 280,
+      "tz_id": "Asia/Thimphu",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "팀부",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 281,
+      "tz_id": "Asia/Tokyo",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "도쿄",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 282,
+      "tz_id": "Asia/Tomsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "톰스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 283,
+      "tz_id": "Asia/Ulaanbaatar",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "울란바토르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 284,
+      "tz_id": "Asia/Urumqi",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "우루무치",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 285,
+      "tz_id": "Asia/Ust-Nera",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "우스티네라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 286,
+      "tz_id": "Asia/Vientiane",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "비엔티안",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 287,
+      "tz_id": "Asia/Vladivostok",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "블라디보스토크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 288,
+      "tz_id": "Asia/Yakutsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "야쿠츠크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 289,
+      "tz_id": "Asia/Yekaterinburg",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "예카테린부르크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 290,
+      "tz_id": "Asia/Yerevan",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "예레반",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 291,
+      "tz_id": "Atlantic/Azores",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "아조레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 292,
+      "tz_id": "Atlantic/Bermuda",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "버뮤다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 293,
+      "tz_id": "Atlantic/Canary",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "카나리아 제도",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 294,
+      "tz_id": "Atlantic/Cape_Verde",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "카보 베르데",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 295,
+      "tz_id": "Atlantic/Faeroe",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "페로 제도",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 296,
+      "tz_id": "Atlantic/Madeira",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "마데이라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 297,
+      "tz_id": "Atlantic/Reykjavik",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "레이캬비크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 298,
+      "tz_id": "Atlantic/South_Georgia",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "사우스조지아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 299,
+      "tz_id": "Atlantic/St_Helena",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "세인트 헬레나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 300,
+      "tz_id": "Atlantic/Stanley",
+      "gwonyeok": "Atlantic",
+      "dosi_ireum": "스탠리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 301,
+      "tz_id": "Australia/Adelaide",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "애들레이드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 302,
+      "tz_id": "Australia/Brisbane",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "브리스베인",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 303,
+      "tz_id": "Australia/Broken_Hill",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "브로컨힐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 304,
+      "tz_id": "Australia/Darwin",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "다윈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 305,
+      "tz_id": "Australia/Eucla",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "유클라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 306,
+      "tz_id": "Australia/Hobart",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "호바트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 307,
+      "tz_id": "Australia/Lindeman",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "린데만",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 308,
+      "tz_id": "Australia/Lord_Howe",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "로드 하우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 309,
+      "tz_id": "Australia/Melbourne",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "멜버른",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 310,
+      "tz_id": "Australia/Perth",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "퍼스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 311,
+      "tz_id": "Australia/Sydney",
+      "gwonyeok": "Australia",
+      "dosi_ireum": "시드니",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 312,
+      "tz_id": "Etc/UTC",
+      "gwonyeok": "Etc",
+      "dosi_ireum": "",
+      "pyojunsi_ireum": "협정 세계시",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 313,
+      "tz_id": "Etc/Unknown",
+      "gwonyeok": "Etc",
+      "dosi_ireum": "알 수 없는 장소",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 314,
+      "tz_id": "Europe/Amsterdam",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "암스테르담",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 315,
+      "tz_id": "Europe/Andorra",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "안도라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 316,
+      "tz_id": "Europe/Astrakhan",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "아스트라한",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 317,
+      "tz_id": "Europe/Athens",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "아테네",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 318,
+      "tz_id": "Europe/Belgrade",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "베오그라드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 319,
+      "tz_id": "Europe/Berlin",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "베를린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 320,
+      "tz_id": "Europe/Bratislava",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "브라티슬라바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 321,
+      "tz_id": "Europe/Brussels",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "브뤼셀",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 322,
+      "tz_id": "Europe/Bucharest",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "부쿠레슈티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 323,
+      "tz_id": "Europe/Budapest",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "부다페스트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 324,
+      "tz_id": "Europe/Busingen",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "뷔지겐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 325,
+      "tz_id": "Europe/Chisinau",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "키시나우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 326,
+      "tz_id": "Europe/Copenhagen",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "코펜하겐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 327,
+      "tz_id": "Europe/Dublin",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "더블린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": "아일랜드 표준시"
+    },
+    {
+      "id": 328,
+      "tz_id": "Europe/Gibraltar",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "지브롤터",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 329,
+      "tz_id": "Europe/Guernsey",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "건지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 330,
+      "tz_id": "Europe/Helsinki",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "헬싱키",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 331,
+      "tz_id": "Europe/Isle_of_Man",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "맨섬",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 332,
+      "tz_id": "Europe/Istanbul",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "이스탄불",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 333,
+      "tz_id": "Europe/Jersey",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "저지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 334,
+      "tz_id": "Europe/Kaliningrad",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "칼리닌그라드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 335,
+      "tz_id": "Europe/Kiev",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "키예프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 336,
+      "tz_id": "Europe/Kirov",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "키로프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 337,
+      "tz_id": "Europe/Lisbon",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "리스본",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 338,
+      "tz_id": "Europe/Ljubljana",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "류블랴나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 339,
+      "tz_id": "Europe/London",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "런던",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": "영국 하계 표준시"
+    },
+    {
+      "id": 340,
+      "tz_id": "Europe/Luxembourg",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "룩셈부르크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 341,
+      "tz_id": "Europe/Madrid",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "마드리드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 342,
+      "tz_id": "Europe/Malta",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "몰타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 343,
+      "tz_id": "Europe/Mariehamn",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "마리에함",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 344,
+      "tz_id": "Europe/Minsk",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "민스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 345,
+      "tz_id": "Europe/Monaco",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "모나코",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 346,
+      "tz_id": "Europe/Moscow",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "모스크바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 347,
+      "tz_id": "Europe/Oslo",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "오슬로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 348,
+      "tz_id": "Europe/Paris",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "파리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 349,
+      "tz_id": "Europe/Podgorica",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "포드고리차",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 350,
+      "tz_id": "Europe/Prague",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "프라하",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 351,
+      "tz_id": "Europe/Riga",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "리가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 352,
+      "tz_id": "Europe/Rome",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "로마",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 353,
+      "tz_id": "Europe/Samara",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "사마라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 354,
+      "tz_id": "Europe/San_Marino",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "산마리노",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 355,
+      "tz_id": "Europe/Sarajevo",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "사라예보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 356,
+      "tz_id": "Europe/Saratov",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "사라토프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 357,
+      "tz_id": "Europe/Simferopol",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "심페로폴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 358,
+      "tz_id": "Europe/Skopje",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "스코페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 359,
+      "tz_id": "Europe/Sofia",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "소피아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 360,
+      "tz_id": "Europe/Stockholm",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "스톡홀름",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 361,
+      "tz_id": "Europe/Tallinn",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "탈린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 362,
+      "tz_id": "Europe/Tirane",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "티라나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 363,
+      "tz_id": "Europe/Ulyanovsk",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "울리야노프스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 364,
+      "tz_id": "Europe/Vaduz",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "파두츠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 365,
+      "tz_id": "Europe/Vatican",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "바티칸",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 366,
+      "tz_id": "Europe/Vienna",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "비엔나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 367,
+      "tz_id": "Europe/Vilnius",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "빌니우스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 368,
+      "tz_id": "Europe/Volgograd",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "볼고그라트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 369,
+      "tz_id": "Europe/Warsaw",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "바르샤바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 370,
+      "tz_id": "Europe/Zagreb",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "자그레브",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 371,
+      "tz_id": "Europe/Zurich",
+      "gwonyeok": "Europe",
+      "dosi_ireum": "취리히",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 372,
+      "tz_id": "Indian/Antananarivo",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "안타나나리보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 373,
+      "tz_id": "Indian/Chagos",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "차고스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 374,
+      "tz_id": "Indian/Christmas",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "크리스마스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 375,
+      "tz_id": "Indian/Cocos",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "코코스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 376,
+      "tz_id": "Indian/Comoro",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "코모로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 377,
+      "tz_id": "Indian/Kerguelen",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "케르켈렌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 378,
+      "tz_id": "Indian/Mahe",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "마헤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 379,
+      "tz_id": "Indian/Maldives",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "몰디브",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 380,
+      "tz_id": "Indian/Mauritius",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "모리셔스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 381,
+      "tz_id": "Indian/Mayotte",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "메요트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 382,
+      "tz_id": "Indian/Reunion",
+      "gwonyeok": "Indian",
+      "dosi_ireum": "레위니옹",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 383,
+      "tz_id": "Pacific/Apia",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "아피아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 384,
+      "tz_id": "Pacific/Auckland",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "오클랜드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 385,
+      "tz_id": "Pacific/Bougainville",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "부갱빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 386,
+      "tz_id": "Pacific/Chatham",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "채텀",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 387,
+      "tz_id": "Pacific/Easter",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "이스터 섬",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 388,
+      "tz_id": "Pacific/Efate",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "에파테",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 389,
+      "tz_id": "Pacific/Enderbury",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "칸톤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 390,
+      "tz_id": "Pacific/Fakaofo",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "파카오푸",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 391,
+      "tz_id": "Pacific/Fiji",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "피지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 392,
+      "tz_id": "Pacific/Funafuti",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "푸나푸티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 393,
+      "tz_id": "Pacific/Galapagos",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "갈라파고스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 394,
+      "tz_id": "Pacific/Gambier",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "감비어",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 395,
+      "tz_id": "Pacific/Guadalcanal",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "과달카날",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 396,
+      "tz_id": "Pacific/Guam",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "괌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 397,
+      "tz_id": "Pacific/Honolulu",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "호놀룰루",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 398,
+      "tz_id": "Pacific/Kiritimati",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "키리티마티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 399,
+      "tz_id": "Pacific/Kosrae",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "코스레",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 400,
+      "tz_id": "Pacific/Kwajalein",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "콰잘렌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 401,
+      "tz_id": "Pacific/Majuro",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "마주로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 402,
+      "tz_id": "Pacific/Marquesas",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "마퀘사스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 403,
+      "tz_id": "Pacific/Midway",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "미드웨이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 404,
+      "tz_id": "Pacific/Nauru",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "나우루",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 405,
+      "tz_id": "Pacific/Niue",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "니우에",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 406,
+      "tz_id": "Pacific/Norfolk",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "노퍽",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 407,
+      "tz_id": "Pacific/Noumea",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "누메아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 408,
+      "tz_id": "Pacific/Pago_Pago",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "파고파고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 409,
+      "tz_id": "Pacific/Palau",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "팔라우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 410,
+      "tz_id": "Pacific/Pitcairn",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "핏케언",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 411,
+      "tz_id": "Pacific/Ponape",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "포나페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 412,
+      "tz_id": "Pacific/Port_Moresby",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "포트모르즈비",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 413,
+      "tz_id": "Pacific/Rarotonga",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "라로통가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 414,
+      "tz_id": "Pacific/Saipan",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "사이판",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 415,
+      "tz_id": "Pacific/Tahiti",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "타히티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 416,
+      "tz_id": "Pacific/Tarawa",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "타라와",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 417,
+      "tz_id": "Pacific/Tongatapu",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "통가타푸",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 418,
+      "tz_id": "Pacific/Truk",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "트루크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 419,
+      "tz_id": "Pacific/Wake",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "웨이크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 420,
+      "tz_id": "Pacific/Wallis",
+      "gwonyeok": "Pacific",
+      "dosi_ireum": "월리스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "세계의 시간대 (IANA / CLDR 한국어) - 무료 다운로드",
+    "description": "IANA tz 시간대 식별자와 CLDR ko 로케일이 제공하는 한국어 대표 도시명. 권역(gwonyeok)은 tz 식별자의 첫 번째 구성 요소입니다. 포함 420 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세계의 시간대 (IANA / CLDR 한국어) | ListBase",
+    "seo_description": "다운로드 세계의 시간대 (IANA / CLDR 한국어) — 420 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 420 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

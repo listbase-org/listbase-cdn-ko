@@ -1,0 +1,712 @@
+{
+  "id": "ko-sigandae-asia",
+  "name": "아시아 시간대 (82)",
+  "title": "아시아 시간대 (82)",
+  "description": "IANA tz 식별자가 'Asia/'로 시작하는 시간대의 한국어 명칭 목록.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aden",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아덴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Almaty",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "알마티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Amman",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "암만",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Anadyr",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아나디리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Aqtau",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아크타우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Aqtobe",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "악토브",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Ashgabat",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아슈하바트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Atyrau",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "아티라우",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Baghdad",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바그다드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Bahrain",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바레인",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Baku",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바쿠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Bangkok",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "방콕",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Barnaul",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "바르나울",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Beirut",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "베이루트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Bishkek",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "비슈케크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Brunei",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "브루나이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Calcutta",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "콜카타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Chita",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "치타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Colombo",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "콜롬보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Damascus",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "다마스쿠스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Dhaka",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "다카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Dili",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "딜리",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Dubai",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "두바이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Dushanbe",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "두샨베",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Famagusta",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "파마구스타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Gaza",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "가자",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Hebron",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "헤브론",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Hong_Kong",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "홍콩",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Hovd",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "호브드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Irkutsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "이르쿠츠크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Jakarta",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "자카르타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Jayapura",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "자야푸라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Jerusalem",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "예루살렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Kabul",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카불",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Kamchatka",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "캄차카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Karachi",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카라치",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Katmandu",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카트만두",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Khandyga",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "한디가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Krasnoyarsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "크라스노야르스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Kuala_Lumpur",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "쿠알라룸푸르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Kuching",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "쿠칭",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Kuwait",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "쿠웨이트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Macau",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마카오",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Magadan",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마가단",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Makassar",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마카사르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Asia/Manila",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "마닐라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Asia/Muscat",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "무스카트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Asia/Nicosia",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "니코시아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Asia/Novokuznetsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "노보쿠즈네츠크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Asia/Novosibirsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "노보시비르스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Asia/Omsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "옴스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Asia/Oral",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "오랄",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Asia/Phnom_Penh",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "프놈펜",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Asia/Pontianak",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "폰티아나크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Asia/Pyongyang",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "평양",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Asia/Qatar",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "카타르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Asia/Qostanay",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "코스타나이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Asia/Qyzylorda",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "키질로르다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "Asia/Rangoon",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "랑군",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "Asia/Riyadh",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "리야드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Asia/Saigon",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "사이공",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Asia/Sakhalin",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "사할린",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Samarkand",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "사마르칸트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Seoul",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "서울",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Shanghai",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "상하이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Singapore",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "싱가포르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Srednekolymsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "스레드네콜림스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Taipei",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "타이베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Tashkent",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "타슈켄트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Tbilisi",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "트빌리시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Tehran",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "테헤란",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Thimphu",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "팀부",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Tokyo",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "도쿄",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Tomsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "톰스크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Ulaanbaatar",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "울란바토르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Urumqi",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "우루무치",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Ust-Nera",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "우스티네라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Vientiane",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "비엔티안",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Vladivostok",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "블라디보스토크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Yakutsk",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "야쿠츠크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Yekaterinburg",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "예카테린부르크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Yerevan",
+      "gwonyeok": "Asia",
+      "dosi_ireum": "예레반",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "아시아 시간대 (82) - 무료 다운로드",
+    "description": "IANA tz 식별자가 'Asia/'로 시작하는 시간대의 한국어 명칭 목록. 포함 82 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "아시아 시간대 (82) | ListBase",
+    "seo_description": "다운로드 아시아 시간대 (82) — 82 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 82 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

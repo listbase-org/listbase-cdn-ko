@@ -1,0 +1,196 @@
+{
+  "id": "ko-tv-chaeneol-animation",
+  "name": "대한민국 애니메이션 채널",
+  "title": "대한민국 애니메이션 채널",
+  "description": "애니메이션 전문 채널 7개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'animation'. Korean 'animation' TV channels split from the ko-tv-chaeneol master dataset.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Anibox.kr",
+      "name": "Anibox",
+      "alt_names": "애니박스",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "animation",
+      "is_nsfw": false,
+      "launched": "2006-09-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.aniboxtv.com/"
+    },
+    {
+      "id": 2,
+      "channel_id": "Animax.kr",
+      "name": "Animax",
+      "alt_names": "애니맥스",
+      "network": "Animax",
+      "owners": "Animax Broadcasting Korea Co. Ltd., Aniplus Inc., JJ Media Works Co. Ltd.",
+      "country": "KR",
+      "categories": "animation",
+      "is_nsfw": false,
+      "launched": "2006-04-29",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.animaxtv.co.kr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "Anione.kr",
+      "name": "Anione",
+      "alt_names": "애니원",
+      "network": "",
+      "owners": "",
+      "country": "KR",
+      "categories": "animation",
+      "is_nsfw": false,
+      "launched": "2002-03-04",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.anionetv.com/"
+    },
+    {
+      "id": 4,
+      "channel_id": "Aniplus.kr",
+      "name": "Aniplus",
+      "alt_names": "애니플러스",
+      "network": "Aniplus",
+      "owners": "Aniplus Inc",
+      "country": "KR",
+      "categories": "animation",
+      "is_nsfw": false,
+      "launched": "2009-12-07",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.aniplustv.com/"
+    },
+    {
+      "id": 5,
+      "channel_id": "CartoonNetwork.kr",
+      "name": "Cartoon Network",
+      "alt_names": "카툰 네트워크",
+      "network": "Cartoon Network",
+      "owners": "Warner Bros. Discovery EMEA",
+      "country": "KR",
+      "categories": "animation, kids",
+      "is_nsfw": false,
+      "launched": "2006-11-11",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.cartoonnetworkkorea.com/"
+    },
+    {
+      "id": 6,
+      "channel_id": "JEITalentTV.kr",
+      "name": "JEI Talent TV",
+      "alt_names": "JEI 재능TV",
+      "network": "",
+      "owners": "JEI Corporation",
+      "country": "KR",
+      "categories": "kids, animation",
+      "is_nsfw": false,
+      "launched": "1995-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.jeitv.com/"
+    },
+    {
+      "id": 7,
+      "channel_id": "Tooniverse.kr",
+      "name": "Tooniverse",
+      "alt_names": "투니버스",
+      "network": "",
+      "owners": "CJ ENM E&M Division",
+      "country": "KR",
+      "categories": "animation, kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tooniverse.tving.com/tooniverse"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 애니메이션 채널 - 무료 다운로드",
+    "description": "애니메이션 전문 채널 7개. 대한민국 텔레비전 채널 311개 데이터셋(ko-tv-chaeneol)의 장르별 분할본. iptv-org 분류 'animation'. Korean 'animation' TV channels split from the ko-tv-chaeneol master dataset. 포함 7 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국 애니메이션 채널 | ListBase",
+    "seo_description": "다운로드 대한민국 애니메이션 채널 — 7 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 7 건 / 13 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

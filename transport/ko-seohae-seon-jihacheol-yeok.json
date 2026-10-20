@@ -1,0 +1,203 @@
+{
+  "id": "ko-seohae-seon-jihacheol-yeok",
+  "name": "서해선 지하철 역 (Seohae Line subway stations)",
+  "title": "서해선 지하철 역 (Seohae Line subway stations)",
+  "description": "서해선(Seohae Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 12개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Seohae Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "소사",
+      "name_romanized": "",
+      "lines": "01호선, 서해선",
+      "lines_en": "Line 1, Seohae Line",
+      "lines_count": 2,
+      "latitude": 37.482753,
+      "longitude": 126.79544,
+      "around_stations": "부천, 역곡, 소새울",
+      "around_count": 3
+    },
+    {
+      "name": "초지",
+      "name_romanized": "",
+      "lines": "04호선, 서해선, 수인분당선",
+      "lines_en": "Line 4, Seohae Line, Suin-Bundang Line",
+      "lines_count": 3,
+      "latitude": 37.320646,
+      "longitude": 126.805913,
+      "around_stations": "안산, 고잔, 선부, 원곡",
+      "around_count": 4
+    },
+    {
+      "name": "소새울",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.4683816,
+      "longitude": 126.7957752,
+      "around_stations": "소사, 시흥대야",
+      "around_count": 2
+    },
+    {
+      "name": "시흥대야",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.4501982,
+      "longitude": 126.790783,
+      "around_stations": "소새울, 신천",
+      "around_count": 2
+    },
+    {
+      "name": "신천",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.4390364,
+      "longitude": 126.7860373,
+      "around_stations": "시흥대야, 신현",
+      "around_count": 2
+    },
+    {
+      "name": "신현",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.4096235,
+      "longitude": 126.7882578,
+      "around_stations": "신천, 시흥시청",
+      "around_count": 2
+    },
+    {
+      "name": "시흥시청",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.3814799,
+      "longitude": 126.8034582,
+      "around_stations": "신현, 시흥능곡",
+      "around_count": 2
+    },
+    {
+      "name": "시흥능곡",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.370157,
+      "longitude": 126.8065453,
+      "around_stations": "시흥시청, 달미",
+      "around_count": 2
+    },
+    {
+      "name": "달미",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.3489544,
+      "longitude": 126.8073508,
+      "around_stations": "시흥능곡, 선부",
+      "around_count": 2
+    },
+    {
+      "name": "선부",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.3344112,
+      "longitude": 126.807809,
+      "around_stations": "달미, 초지",
+      "around_count": 2
+    },
+    {
+      "name": "원곡",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.3131572,
+      "longitude": 126.793524,
+      "around_stations": "초지, 원시",
+      "around_count": 2
+    },
+    {
+      "name": "원시",
+      "name_romanized": "",
+      "lines": "서해선",
+      "lines_en": "Seohae Line",
+      "lines_count": 1,
+      "latitude": 37.3004026,
+      "longitude": 126.7839674,
+      "around_stations": "원곡",
+      "around_count": 1
+    }
+  ],
+  "meta": {
+    "title": "서해선 지하철 역 (Seohae Line subway stations) - 무료 다운로드",
+    "description": "서해선(Seohae Line)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 12개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Seohae Line stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 12 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "서해선 지하철 역 (Seohae Line subway stations) | ListBase",
+    "seo_description": "다운로드 서해선 지하철 역 (Seohae Line subway stations) — 12 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 12 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

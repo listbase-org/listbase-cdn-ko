@@ -1,0 +1,3836 @@
+{
+  "id": "ko-gwangju-sigungu-dong",
+  "name": "Gwangju 시군구·동읍면 — Gwangju Districts & Neighborhoods",
+  "title": "Gwangju 시군구·동읍면 — Gwangju Districts & Neighborhoods",
+  "description": "Gwangju (광주광역시) — 시군구 및 동·읍·면 행정 지명 목록 759건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gwangju 편. 필드: sido, sigungu, dong_eup_myeon.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 759,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sigungu",
+      "label": "Sigungu",
+      "type": "string"
+    },
+    {
+      "key": "dong_eup_myeon",
+      "label": "Dong Eup Myeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "고룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "광산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "남산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "내산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "대산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "덕림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "도덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "도산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "도천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "도호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "동림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "동산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "동호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "두정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "등임동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "명도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "명화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "박호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "복룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "본덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "북산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "비아동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "사호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "산막동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "산수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "산월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "산정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "삼거동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "삼도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "서봉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "선동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "선암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "소촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "송대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "송산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "송촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "송치동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "송학동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "수완동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "신가동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "신동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "신룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "신창동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "쌍암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "안청동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "양동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "양산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "연산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "오산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "오선동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "오운동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "옥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "왕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "요기동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "용곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "용동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "용봉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "우산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "운남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "운수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "월계동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "월곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "월전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "유계동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "임곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "장덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "장록동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "장수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "지산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "지정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "지죽동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "지평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "진곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "하남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "하산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "황룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "광산구",
+      "dong_eup_myeon": "흑석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "감만동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "개포동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "고사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "관교동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "광덕면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "괴동동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "구동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "구룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "구룡포읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "구성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "구소동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "남화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "노대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "논현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "다가동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "달동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대명동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대송면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대연동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대잠동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대지동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대치동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "대흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "덕남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "도곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "도금동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "도화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "동면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "동촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "동해면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "두왕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "매암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "목천읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "무거동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "문학동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "문현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "문화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "방림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "백운동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "병천면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "봉덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "봉명동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "봉선동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "부곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "북면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "사직동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "삼룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "삼산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "삼성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "상개동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "상도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "서동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "석정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "선암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "성남면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "성암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "성황동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "세곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "송내동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "송도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "송하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "수서동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "수신면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "숭의동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "승촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "신방동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "신부동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "신사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "신장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "신정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "쌍용동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "안서동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "압구정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "압촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "야음동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "양과동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "양림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "양촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "여천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "역삼동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "연일읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "영성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "오룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "오천읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "옥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "용곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "용당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "용연동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "용잠동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "용현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "용호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "우암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "원산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "원성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "월산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "월성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "유량동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "율현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "이동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "이장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "이천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "인덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "일원동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "일월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "임암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "자곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "장기면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "장생포동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "장흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "주안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "주월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "지곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "지석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "진월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "청담동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "청당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "청림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "청수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "칠석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "풍세면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "학익동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "해도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "행암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "호미곶면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "화장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "황성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "남구",
+      "dong_eup_myeon": "효자동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가수원동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가양동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가좌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "가좌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "갈마동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "갈산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "감삼동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "강동동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "개화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "검암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "경서동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "공촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "공항동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "관저동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "광천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "괴곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "괴정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "구랑동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "구산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "금호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "남부민동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내발산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "내방동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "녹산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "농성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "눌차동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "당하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대저1동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대저2동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대항동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "대화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "덕이동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "덕흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "도마동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "도안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "도원동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동대신동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동대신동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동대신동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동선동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "동천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "두류동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "둔산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "등촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "마곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "마륵동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "마전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "만년동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "매노동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "매월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "명지동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "미음동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "방화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "백석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "범방동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "법곳동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "벽진동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "변동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "복수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "본동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "본리동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "봉곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "봉림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부민동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부민동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부민동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부용동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "부용동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "불로동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "비산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "산직동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "상리동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "상인동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "생곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서대신동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서대신동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서대신동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "서창동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "석남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "성당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "세하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "송현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "시천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "식만동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "신당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "신현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "신호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "심곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "쌍촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "아미동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "아미동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "암남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "양동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "연희동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "염창동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오류동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "오쇠동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "왕길동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "외발산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용문동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "용촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "우명동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원대동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원대동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원대동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "원창동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "월성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "월암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "월평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "유천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "유촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "이곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "이현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "일산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "장기동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "장안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "정림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "주엽동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "죽동동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "죽림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "죽전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "중리동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "지사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "진천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "천성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "초장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "충무동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "충무동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "충무동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "치평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "탄방동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "탄현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "토성동5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "파호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "평리동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "평촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "풍암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "호림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "호산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "화곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "화전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "서구",
+      "dong_eup_myeon": "흑석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "가양동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "가오동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "각산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "간석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "강일동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "검사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "계림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "고덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "고잔동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "광산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "괴전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "구도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "구월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "궁동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금강동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금남로5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "금호동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "길동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "남촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "낭월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "내탑동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "논현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "능성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대별동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대의동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "대인동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "덕곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도선동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "도학동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동내동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동명동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동부동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "동호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "둔산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "둔촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "마두동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "마산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "마장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "만석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "만수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "매여동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "명일동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "문봉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "미곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "미대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "미포동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "방어동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "방촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "백석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "백안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "범일동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "봉무동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "부동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "불로동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "불로동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "비룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사근동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사리현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사복동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "사성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "산수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "산황동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "삼괴동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "삼성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "삼정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상매동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상소동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상왕십리동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "상일동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서부동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서창동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "서호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "선교동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "설문동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성내동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성수동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "성수동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "세천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "소제동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "소태동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "소호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "송현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "수기동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "수산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "수정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "숙천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "식사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신기동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신무동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신상동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신서동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신용동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "암사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "오동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "옥수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용계동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용답동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용연동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용운동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "용전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "운림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "운연동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "원동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "월남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "율암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "율하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "응봉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "이사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "인동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "일산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "입석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "자양동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장척동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "장항동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "전하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "정발산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "좌천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "주산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "주전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "주촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "중대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "중동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "중산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지묘동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지영동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "지저동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "직동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "진인동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "창영동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "천호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "초량동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "추동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "충장로5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "판암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "평광동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "풍동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "하소동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "하왕십리동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "학동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "행당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "호남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "홍도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "홍익동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "화수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "화정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "화평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "황금동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "효동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "효목동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "동구",
+      "dong_eup_myeon": "효평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "가대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "각화동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "검단동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "고성동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "고성동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "고성동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "관음동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "구암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "구유동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "구포동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "국우동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "금곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "금호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "기계면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "기북면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "길음동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "남빈동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "노곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "노원동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "노원동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "노원동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "누문동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "달천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "당사동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "대신동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "대안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "대촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "대현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "대흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "덕산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "덕수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "덕의동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "덕천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "도남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "돈암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동림동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동변동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동빈1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동빈2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동선동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동선동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동선동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동선동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동선동5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동6가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동소문동7가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "동호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "두암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "두정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "두호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "득량동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "만덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "망월동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "매곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "매곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "매천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "명촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "무룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "문흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "미아동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "백석동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "번동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동6가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "보문동7가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "복현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "본촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "부대동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "북동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "불당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "사수동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "산격동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "산하동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "삼각동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "삼선동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "삼선동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "삼선동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "삼선동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "삼선동5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "상안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "상원동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "상월곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "생용동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "서변동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "석관동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "성거읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "성북동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "성북동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "성성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "성정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "성환읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "송라면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "송정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "수곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "수유동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "시례동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신광면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신당동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신명동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신안동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신용동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "신흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "쌍용동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "안암동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "안암동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "안암동3가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "안암동4가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "안암동5가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "양덕동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "양산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "양정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "어물동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "업성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "여남동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "여천동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "연경동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "연암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "연제동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "염포동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "오룡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "오치동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "와촌동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "용강동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "용두동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "용봉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "용전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "용흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "우산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "우이동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "우현동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "운암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "운정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "월출동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "유동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "읍내동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "일곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "임동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "입장면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "장등동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "장성동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "장위동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "정릉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "정자동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "조야동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "종암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "죽도동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "죽장면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "중산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "중앙동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "중흥동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "지야동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "직산읍"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "진장동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "차암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "창평동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "창포동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "천곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "청풍동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "청하면"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "충효동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "칠성동1가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "칠성동2가"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "침산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "태령동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "태전동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "팔달동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "풍향동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "하월곡동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "학산동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "학잠동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "학정동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "항구동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "호계동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "화명동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "화봉동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "화암동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "환호동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "효령동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "효문동"
+    },
+    {
+      "sido": "광주광역시",
+      "sigungu": "북구",
+      "dong_eup_myeon": "흥해읍"
+    }
+  ],
+  "meta": {
+    "title": "Gwangju 시군구·동읍면 — Gwangju Districts & Neighborhoods - 무료 다운로드",
+    "description": "Gwangju (광주광역시) — 시군구 및 동·읍·면 행정 지명 목록 759건. 대한민국 전국 시군구동읍면 데이터셋(2022-09 기준)을 시도별로 분할한 Gwangju 편. 필드: sido, sigungu, dong_eup_myeon. 포함 759 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gwangju 시군구·동읍면 — Gwangju Districts & Neighborhoods | ListBase",
+    "seo_description": "다운로드 Gwangju 시군구·동읍면 — Gwangju Districts & Neighborhoods — 759 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 759 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

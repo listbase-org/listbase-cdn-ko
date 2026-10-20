@@ -1,0 +1,166 @@
+{
+  "id": "ko-myoji",
+  "name": "대한민국의 묘지 (Cemeteries of South Korea)",
+  "title": "대한민국의 묘지 (Cemeteries of South Korea)",
+  "description": "위키데이터 기준 대한민국에 위치한 묘지 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ko",
+      "label": "Admin Area Ko",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "건원릉",
+      "name_en": "Geonwolleung",
+      "admin_area_ko": "구리시",
+      "admin_area_en": "Guri",
+      "latitude": 37.6252505,
+      "longitude": 127.131286,
+      "wikidata_id": "Q16092198",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16092198"
+    },
+    {
+      "name_ko": "경주 오릉",
+      "name_en": "Oreung",
+      "admin_area_ko": "",
+      "admin_area_en": "",
+      "latitude": 35.823333333,
+      "longitude": 129.208888888,
+      "wikidata_id": "Q16094174",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16094174"
+    },
+    {
+      "name_ko": "국립4·19민주묘지",
+      "name_en": "April 19th National Cemetery",
+      "admin_area_ko": "강북구",
+      "admin_area_en": "Seoul",
+      "latitude": 37.648333333,
+      "longitude": 127.0075,
+      "wikidata_id": "Q12585683",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585683"
+    },
+    {
+      "name_ko": "국립5·18민주묘지",
+      "name_en": "May 18th National Cemetery",
+      "admin_area_ko": "북구",
+      "admin_area_en": "Buk District",
+      "latitude": 35.23583333,
+      "longitude": 126.93916667,
+      "wikidata_id": "Q12585682",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12585682"
+    },
+    {
+      "name_ko": "국립대전현충원",
+      "name_en": "Daejeon National Cemetery",
+      "admin_area_ko": "유성구",
+      "admin_area_en": "Yuseong District",
+      "latitude": 36.3714,
+      "longitude": 127.297,
+      "wikidata_id": "Q18149764",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18149764"
+    },
+    {
+      "name_ko": "노작 홍사용 묘역",
+      "name_en": "",
+      "admin_area_ko": "석우동",
+      "admin_area_en": "Seogu-dong",
+      "latitude": 37.206389,
+      "longitude": 127.078889,
+      "wikidata_id": "Q55728787",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55728787"
+    },
+    {
+      "name_ko": "서울외국인묘지공원",
+      "name_en": "Yanghwajin Foreign Missionary Cemetery",
+      "admin_area_ko": "서울특별시",
+      "admin_area_en": "Seoul",
+      "latitude": 37.54655,
+      "longitude": 126.91102,
+      "wikidata_id": "Q8048577",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8048577"
+    },
+    {
+      "name_ko": "신장절공묘역",
+      "name_en": "Sinjangjeolgong Cemetery",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Gangwon Province",
+      "latitude": 37.904638888,
+      "longitude": 127.661111111,
+      "wikidata_id": "Q126899774",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126899774"
+    },
+    {
+      "name_ko": "조선왕릉",
+      "name_en": "Royal Tombs of the Joseon Dynasty",
+      "admin_area_ko": "강원특별자치도",
+      "admin_area_en": "Seoul",
+      "latitude": 37.19722222,
+      "longitude": 128.45277778,
+      "wikidata_id": "Q495276",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q495276"
+    },
+    {
+      "name_ko": "진양 오방산 조선조 팔각형 고분군",
+      "name_en": "Jinju Ha Ryun Cemetery",
+      "admin_area_ko": "경상남도",
+      "admin_area_en": "South Gyeongsang",
+      "latitude": 35.305833333,
+      "longitude": 128.106388888,
+      "wikidata_id": "Q20652086",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20652086"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 묘지 (Cemeteries of South Korea) - 무료 다운로드",
+    "description": "위키데이터 기준 대한민국에 위치한 묘지 목록. 한글/영문 명칭, 좌표, 소재 행정구역 포함. 포함 10 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 묘지 (Cemeteries of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 묘지 (Cemeteries of South Korea) — 10 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 10 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

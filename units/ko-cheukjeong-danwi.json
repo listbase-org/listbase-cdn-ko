@@ -1,0 +1,2149 @@
+{
+  "id": "ko-cheukjeong-danwi",
+  "name": "측정 단위 한국어 명칭 (CLDR)",
+  "title": "측정 단위 한국어 명칭 (CLDR)",
+  "description": "CLDR ko 로케일의 측정 단위 목록. 긴 이름(long), 약자(short), 간략 약자(narrow) 표기를 함께 제공합니다.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 232,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "acceleration-g-force",
+      "bunryu": "acceleration",
+      "ireum": "중력가속도",
+      "yakja": "g-force",
+      "gan_yakja": "g-force",
+      "danwi_paeteon": "{0} 중력가속도",
+      "id": 1
+    },
+    {
+      "unit_code": "acceleration-meter-per-square-second",
+      "bunryu": "acceleration",
+      "ireum": "미터 매 초 제곱",
+      "yakja": "m/s²",
+      "gan_yakja": "m/s²",
+      "danwi_paeteon": "제곱 초당 {0}미터",
+      "id": 2
+    },
+    {
+      "unit_code": "angle-arc-minute",
+      "bunryu": "angle",
+      "ireum": "분각",
+      "yakja": "′",
+      "gan_yakja": "′",
+      "danwi_paeteon": "{0}분각",
+      "id": 3
+    },
+    {
+      "unit_code": "angle-arc-second",
+      "bunryu": "angle",
+      "ireum": "각초",
+      "yakja": "″",
+      "gan_yakja": "″",
+      "danwi_paeteon": "{0}각초",
+      "id": 4
+    },
+    {
+      "unit_code": "angle-degree",
+      "bunryu": "angle",
+      "ireum": "도",
+      "yakja": "°",
+      "gan_yakja": "°",
+      "danwi_paeteon": "{0}도",
+      "id": 5
+    },
+    {
+      "unit_code": "angle-radian",
+      "bunryu": "angle",
+      "ireum": "라디안",
+      "yakja": "rad",
+      "gan_yakja": "rad",
+      "danwi_paeteon": "{0}라디안",
+      "id": 6
+    },
+    {
+      "unit_code": "angle-revolution",
+      "bunryu": "angle",
+      "ireum": "회전",
+      "yakja": "rev",
+      "gan_yakja": "rev",
+      "danwi_paeteon": "{0}회전",
+      "id": 7
+    },
+    {
+      "unit_code": "angle-steradian",
+      "bunryu": "angle",
+      "ireum": "스테라디안",
+      "yakja": "sr",
+      "gan_yakja": "sr",
+      "danwi_paeteon": "{0}스테라디안",
+      "id": 8
+    },
+    {
+      "unit_code": "area-acre",
+      "bunryu": "area",
+      "ireum": "에이커",
+      "yakja": "ac",
+      "gan_yakja": "ac",
+      "danwi_paeteon": "{0}에이커",
+      "id": 9
+    },
+    {
+      "unit_code": "area-bu-jp",
+      "bunryu": "area",
+      "ireum": "bu [JP]",
+      "yakja": "bu [JP]",
+      "gan_yakja": "bu [JP]",
+      "danwi_paeteon": "{0} bu [JP]",
+      "id": 10
+    },
+    {
+      "unit_code": "area-cho",
+      "bunryu": "area",
+      "ireum": "cho [JP]",
+      "yakja": "cho [JP]",
+      "gan_yakja": "cho [JP]",
+      "danwi_paeteon": "{0} cho [JP]",
+      "id": 11
+    },
+    {
+      "unit_code": "area-dunam",
+      "bunryu": "area",
+      "ireum": "두남",
+      "yakja": "두남",
+      "gan_yakja": "두남",
+      "danwi_paeteon": "{0}두남",
+      "id": 12
+    },
+    {
+      "unit_code": "area-hectare",
+      "bunryu": "area",
+      "ireum": "헥타르",
+      "yakja": "ha",
+      "gan_yakja": "ha",
+      "danwi_paeteon": "{0}헥타르",
+      "id": 13
+    },
+    {
+      "unit_code": "area-se-jp",
+      "bunryu": "area",
+      "ireum": "se [JP]",
+      "yakja": "se [JP]",
+      "gan_yakja": "se [JP]",
+      "danwi_paeteon": "{0} se [JP]",
+      "id": 14
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "bunryu": "area",
+      "ireum": "제곱센티미터",
+      "yakja": "cm²",
+      "gan_yakja": "cm²",
+      "danwi_paeteon": "{0}제곱센티미터",
+      "id": 15
+    },
+    {
+      "unit_code": "area-square-foot",
+      "bunryu": "area",
+      "ireum": "제곱피트",
+      "yakja": "ft²",
+      "gan_yakja": "ft²",
+      "danwi_paeteon": "{0}제곱피트",
+      "id": 16
+    },
+    {
+      "unit_code": "area-square-inch",
+      "bunryu": "area",
+      "ireum": "제곱인치",
+      "yakja": "in²",
+      "gan_yakja": "in²",
+      "danwi_paeteon": "{0}제곱인치",
+      "id": 17
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "bunryu": "area",
+      "ireum": "제곱킬로미터",
+      "yakja": "km²",
+      "gan_yakja": "km²",
+      "danwi_paeteon": "{0}제곱킬로미터",
+      "id": 18
+    },
+    {
+      "unit_code": "area-square-meter",
+      "bunryu": "area",
+      "ireum": "제곱미터",
+      "yakja": "m²",
+      "gan_yakja": "m²",
+      "danwi_paeteon": "{0}제곱미터",
+      "id": 19
+    },
+    {
+      "unit_code": "area-square-mile",
+      "bunryu": "area",
+      "ireum": "제곱마일",
+      "yakja": "mi²",
+      "gan_yakja": "mi²",
+      "danwi_paeteon": "{0}제곱마일",
+      "id": 20
+    },
+    {
+      "unit_code": "area-square-yard",
+      "bunryu": "area",
+      "ireum": "제곱야드",
+      "yakja": "yd²",
+      "gan_yakja": "yd²",
+      "danwi_paeteon": "{0}제곱야드",
+      "id": 21
+    },
+    {
+      "unit_code": "concentr-item",
+      "bunryu": "concentr",
+      "ireum": "항목",
+      "yakja": "항목",
+      "gan_yakja": "항목",
+      "danwi_paeteon": "{0}개 항목",
+      "id": 22
+    },
+    {
+      "unit_code": "concentr-karat",
+      "bunryu": "concentr",
+      "ireum": "캐럿",
+      "yakja": "kt",
+      "gan_yakja": "kt",
+      "danwi_paeteon": "{0}캐럿",
+      "id": 23
+    },
+    {
+      "unit_code": "concentr-katal",
+      "bunryu": "concentr",
+      "ireum": "캐탈",
+      "yakja": "kat",
+      "gan_yakja": "kat",
+      "danwi_paeteon": "{0}캐탈",
+      "id": 24
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "bunryu": "concentr",
+      "ireum": "데시리터당 밀리그램",
+      "yakja": "mg/dL",
+      "gan_yakja": "mg/dL",
+      "danwi_paeteon": "데시리터당 {0}밀리그램",
+      "id": 25
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "bunryu": "concentr",
+      "ireum": "리터당 밀리몰",
+      "yakja": "mmol/L",
+      "gan_yakja": "mmol/L",
+      "danwi_paeteon": "리터당 {0}밀리몰",
+      "id": 26
+    },
+    {
+      "unit_code": "concentr-mole",
+      "bunryu": "concentr",
+      "ireum": "몰",
+      "yakja": "mol",
+      "gan_yakja": "mol",
+      "danwi_paeteon": "{0}몰",
+      "id": 27
+    },
+    {
+      "unit_code": "concentr-ofglucose",
+      "bunryu": "concentr",
+      "ireum": "포도당",
+      "yakja": "Glc",
+      "gan_yakja": "Glc",
+      "danwi_paeteon": "{0}포도당",
+      "id": 28
+    },
+    {
+      "unit_code": "concentr-part",
+      "bunryu": "concentr",
+      "ireum": "분율",
+      "yakja": "part",
+      "gan_yakja": "part",
+      "danwi_paeteon": "{0}분율",
+      "id": 29
+    },
+    {
+      "unit_code": "concentr-part-per-1e6",
+      "bunryu": "concentr",
+      "ireum": "ppm",
+      "yakja": "ppm",
+      "gan_yakja": "ppm",
+      "danwi_paeteon": "{0}ppm",
+      "id": 30
+    },
+    {
+      "unit_code": "concentr-part-per-1e9",
+      "bunryu": "concentr",
+      "ireum": "ppb",
+      "yakja": "ppb",
+      "gan_yakja": "ppb",
+      "danwi_paeteon": "{0}ppb",
+      "id": 31
+    },
+    {
+      "unit_code": "concentr-percent",
+      "bunryu": "concentr",
+      "ireum": "%",
+      "yakja": "%",
+      "gan_yakja": "%",
+      "danwi_paeteon": "{0}%",
+      "id": 32
+    },
+    {
+      "unit_code": "concentr-permille",
+      "bunryu": "concentr",
+      "ireum": "‰",
+      "yakja": "‰",
+      "gan_yakja": "‰",
+      "danwi_paeteon": "{0}‰",
+      "id": 33
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "bunryu": "concentr",
+      "ireum": "‱",
+      "yakja": "‱",
+      "gan_yakja": "‱",
+      "danwi_paeteon": "{0}‱",
+      "id": 34
+    },
+    {
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "bunryu": "consumption",
+      "ireum": "100킬로미터당 리터",
+      "yakja": "L/100km",
+      "gan_yakja": "L/100km",
+      "danwi_paeteon": "100킬로미터당 {0}리터",
+      "id": 35
+    },
+    {
+      "unit_code": "consumption-liter-per-kilometer",
+      "bunryu": "consumption",
+      "ireum": "킬로미터당 리터",
+      "yakja": "L/km",
+      "gan_yakja": "L/km",
+      "danwi_paeteon": "킬로미터당 {0}리터",
+      "id": 36
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon",
+      "bunryu": "consumption",
+      "ireum": "갤런당 마일",
+      "yakja": "mpg",
+      "gan_yakja": "mpg",
+      "danwi_paeteon": "갤런당 {0}마일",
+      "id": 37
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "bunryu": "consumption",
+      "ireum": "영국식 갤런당 마일",
+      "yakja": "mpg Imp.",
+      "gan_yakja": "mpg Imp.",
+      "danwi_paeteon": "영국식 갤런당 {0}마일",
+      "id": 38
+    },
+    {
+      "unit_code": "coordinateUnit",
+      "bunryu": "coordinateUnit",
+      "ireum": "방향",
+      "yakja": "쪽",
+      "gan_yakja": "쪽",
+      "danwi_paeteon": "",
+      "id": 39
+    },
+    {
+      "unit_code": "digital-bit",
+      "bunryu": "digital",
+      "ireum": "비트",
+      "yakja": "bit",
+      "gan_yakja": "bit",
+      "danwi_paeteon": "{0}비트",
+      "id": 40
+    },
+    {
+      "unit_code": "digital-byte",
+      "bunryu": "digital",
+      "ireum": "바이트",
+      "yakja": "byte",
+      "gan_yakja": "B",
+      "danwi_paeteon": "{0}바이트",
+      "id": 41
+    },
+    {
+      "unit_code": "digital-gigabit",
+      "bunryu": "digital",
+      "ireum": "기가비트",
+      "yakja": "Gb",
+      "gan_yakja": "Gb",
+      "danwi_paeteon": "{0}기가비트",
+      "id": 42
+    },
+    {
+      "unit_code": "digital-gigabyte",
+      "bunryu": "digital",
+      "ireum": "기가바이트",
+      "yakja": "GB",
+      "gan_yakja": "GB",
+      "danwi_paeteon": "{0}기가바이트",
+      "id": 43
+    },
+    {
+      "unit_code": "digital-kilobit",
+      "bunryu": "digital",
+      "ireum": "킬로비트",
+      "yakja": "kb",
+      "gan_yakja": "kb",
+      "danwi_paeteon": "{0}킬로비트",
+      "id": 44
+    },
+    {
+      "unit_code": "digital-kilobyte",
+      "bunryu": "digital",
+      "ireum": "킬로바이트",
+      "yakja": "kB",
+      "gan_yakja": "kB",
+      "danwi_paeteon": "{0}킬로바이트",
+      "id": 45
+    },
+    {
+      "unit_code": "digital-megabit",
+      "bunryu": "digital",
+      "ireum": "메가비트",
+      "yakja": "Mb",
+      "gan_yakja": "Mb",
+      "danwi_paeteon": "{0}메가비트",
+      "id": 46
+    },
+    {
+      "unit_code": "digital-megabyte",
+      "bunryu": "digital",
+      "ireum": "메가바이트",
+      "yakja": "MB",
+      "gan_yakja": "MB",
+      "danwi_paeteon": "{0}메가바이트",
+      "id": 47
+    },
+    {
+      "unit_code": "digital-petabyte",
+      "bunryu": "digital",
+      "ireum": "페타바이트",
+      "yakja": "PB",
+      "gan_yakja": "PB",
+      "danwi_paeteon": "{0}페타바이트",
+      "id": 48
+    },
+    {
+      "unit_code": "digital-terabit",
+      "bunryu": "digital",
+      "ireum": "테라비트",
+      "yakja": "Tb",
+      "gan_yakja": "Tb",
+      "danwi_paeteon": "{0}테라비트",
+      "id": 49
+    },
+    {
+      "unit_code": "digital-terabyte",
+      "bunryu": "digital",
+      "ireum": "테라바이트",
+      "yakja": "TB",
+      "gan_yakja": "TB",
+      "danwi_paeteon": "{0}테라바이트",
+      "id": 50
+    },
+    {
+      "unit_code": "duration-century",
+      "bunryu": "duration",
+      "ireum": "세기",
+      "yakja": "C",
+      "gan_yakja": "C",
+      "danwi_paeteon": "{0}세기",
+      "id": 51
+    },
+    {
+      "unit_code": "duration-day",
+      "bunryu": "duration",
+      "ireum": "일",
+      "yakja": "일",
+      "gan_yakja": "일",
+      "danwi_paeteon": "{0}일",
+      "id": 52
+    },
+    {
+      "unit_code": "duration-decade",
+      "bunryu": "duration",
+      "ireum": "dec",
+      "yakja": "dec",
+      "gan_yakja": "dec",
+      "danwi_paeteon": "{0}dec",
+      "id": 53
+    },
+    {
+      "unit_code": "duration-fortnight",
+      "bunryu": "duration",
+      "ireum": "fortnight",
+      "yakja": "fortnight",
+      "gan_yakja": "fortnight",
+      "danwi_paeteon": "{0} fw",
+      "id": 54
+    },
+    {
+      "unit_code": "duration-hour",
+      "bunryu": "duration",
+      "ireum": "시간",
+      "yakja": "시간",
+      "gan_yakja": "시간",
+      "danwi_paeteon": "{0}시간",
+      "id": 55
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "bunryu": "duration",
+      "ireum": "마이크로초",
+      "yakja": "μs",
+      "gan_yakja": "μs",
+      "danwi_paeteon": "{0}마이크로초",
+      "id": 56
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "bunryu": "duration",
+      "ireum": "밀리초",
+      "yakja": "밀리초",
+      "gan_yakja": "ms",
+      "danwi_paeteon": "{0}밀리초",
+      "id": 57
+    },
+    {
+      "unit_code": "duration-minute",
+      "bunryu": "duration",
+      "ireum": "분",
+      "yakja": "분",
+      "gan_yakja": "분",
+      "danwi_paeteon": "{0}분",
+      "id": 58
+    },
+    {
+      "unit_code": "duration-month",
+      "bunryu": "duration",
+      "ireum": "개월",
+      "yakja": "개월",
+      "gan_yakja": "개월",
+      "danwi_paeteon": "{0}개월",
+      "id": 59
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "bunryu": "duration",
+      "ireum": "나노초",
+      "yakja": "ns",
+      "gan_yakja": "ns",
+      "danwi_paeteon": "{0}나노초",
+      "id": 60
+    },
+    {
+      "unit_code": "duration-night",
+      "bunryu": "duration",
+      "ireum": "박",
+      "yakja": "박",
+      "gan_yakja": "박",
+      "danwi_paeteon": "{0}박",
+      "id": 61
+    },
+    {
+      "unit_code": "duration-quarter",
+      "bunryu": "duration",
+      "ireum": "분기",
+      "yakja": "분기",
+      "gan_yakja": "분기",
+      "danwi_paeteon": "{0}분기",
+      "id": 62
+    },
+    {
+      "unit_code": "duration-second",
+      "bunryu": "duration",
+      "ireum": "초",
+      "yakja": "초",
+      "gan_yakja": "초",
+      "danwi_paeteon": "{0}초",
+      "id": 63
+    },
+    {
+      "unit_code": "duration-week",
+      "bunryu": "duration",
+      "ireum": "주",
+      "yakja": "주",
+      "gan_yakja": "주",
+      "danwi_paeteon": "{0}주",
+      "id": 64
+    },
+    {
+      "unit_code": "duration-year",
+      "bunryu": "duration",
+      "ireum": "년",
+      "yakja": "년",
+      "gan_yakja": "년",
+      "danwi_paeteon": "{0}년",
+      "id": 65
+    },
+    {
+      "unit_code": "electric-ampere",
+      "bunryu": "electric",
+      "ireum": "암페어",
+      "yakja": "amp",
+      "gan_yakja": "amp",
+      "danwi_paeteon": "{0}암페어",
+      "id": 66
+    },
+    {
+      "unit_code": "electric-coulomb",
+      "bunryu": "electric",
+      "ireum": "쿨롬",
+      "yakja": "C",
+      "gan_yakja": "C",
+      "danwi_paeteon": "{0}쿨롬",
+      "id": 67
+    },
+    {
+      "unit_code": "electric-farad",
+      "bunryu": "electric",
+      "ireum": "패럿",
+      "yakja": "F",
+      "gan_yakja": "F",
+      "danwi_paeteon": "{0}패럿",
+      "id": 68
+    },
+    {
+      "unit_code": "electric-henry",
+      "bunryu": "electric",
+      "ireum": "헨리",
+      "yakja": "H",
+      "gan_yakja": "H",
+      "danwi_paeteon": "{0}헨리",
+      "id": 69
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "bunryu": "electric",
+      "ireum": "밀리암페어",
+      "yakja": "mA",
+      "gan_yakja": "mA",
+      "danwi_paeteon": "{0}밀리암페어",
+      "id": 70
+    },
+    {
+      "unit_code": "electric-ohm",
+      "bunryu": "electric",
+      "ireum": "옴",
+      "yakja": "ohm",
+      "gan_yakja": "ohm",
+      "danwi_paeteon": "{0}옴",
+      "id": 71
+    },
+    {
+      "unit_code": "electric-siemens",
+      "bunryu": "electric",
+      "ireum": "지멘스",
+      "yakja": "S",
+      "gan_yakja": "S",
+      "danwi_paeteon": "{0}지멘스",
+      "id": 72
+    },
+    {
+      "unit_code": "electric-volt",
+      "bunryu": "electric",
+      "ireum": "볼트",
+      "yakja": "V",
+      "gan_yakja": "V",
+      "danwi_paeteon": "{0}볼트",
+      "id": 73
+    },
+    {
+      "unit_code": "energy-becquerel",
+      "bunryu": "energy",
+      "ireum": "베크렐",
+      "yakja": "Bq",
+      "gan_yakja": "Bq",
+      "danwi_paeteon": "{0}베크렐",
+      "id": 74
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "bunryu": "energy",
+      "ireum": "영국 열량 단위",
+      "yakja": "Btu",
+      "gan_yakja": "Btu",
+      "danwi_paeteon": "{0}영국 열량 단위",
+      "id": 75
+    },
+    {
+      "unit_code": "energy-british-thermal-unit-it",
+      "bunryu": "energy",
+      "ireum": "BTU-IT",
+      "yakja": "BTU-IT",
+      "gan_yakja": "BTU-IT",
+      "danwi_paeteon": "{0} BTU-IT",
+      "id": 76
+    },
+    {
+      "unit_code": "energy-calorie",
+      "bunryu": "energy",
+      "ireum": "칼로리",
+      "yakja": "cal",
+      "gan_yakja": "cal",
+      "danwi_paeteon": "{0}칼로리",
+      "id": 77
+    },
+    {
+      "unit_code": "energy-calorie-it",
+      "bunryu": "energy",
+      "ireum": "칼로리[IT]",
+      "yakja": "cal-IT",
+      "gan_yakja": "cal-IT",
+      "danwi_paeteon": "{0}칼로리[IT]",
+      "id": 78
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "bunryu": "energy",
+      "ireum": "전자볼트",
+      "yakja": "eV",
+      "gan_yakja": "eV",
+      "danwi_paeteon": "{0}전자볼트",
+      "id": 79
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "bunryu": "energy",
+      "ireum": "칼로리",
+      "yakja": "Cal",
+      "gan_yakja": "Cal",
+      "danwi_paeteon": "{0}칼로리",
+      "id": 80
+    },
+    {
+      "unit_code": "energy-gray",
+      "bunryu": "energy",
+      "ireum": "그레이",
+      "yakja": "Gy",
+      "gan_yakja": "Gy",
+      "danwi_paeteon": "{0}그레이",
+      "id": 81
+    },
+    {
+      "unit_code": "energy-joule",
+      "bunryu": "energy",
+      "ireum": "줄",
+      "yakja": "줄",
+      "gan_yakja": "줄",
+      "danwi_paeteon": "{0}줄",
+      "id": 82
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "bunryu": "energy",
+      "ireum": "킬로칼로리",
+      "yakja": "kcal",
+      "gan_yakja": "kcal",
+      "danwi_paeteon": "{0}킬로칼로리",
+      "id": 83
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "bunryu": "energy",
+      "ireum": "킬로줄",
+      "yakja": "kJ",
+      "gan_yakja": "kJ",
+      "danwi_paeteon": "{0}킬로줄",
+      "id": 84
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "bunryu": "energy",
+      "ireum": "킬로와트시",
+      "yakja": "kWh",
+      "gan_yakja": "kWh",
+      "danwi_paeteon": "{0}킬로와트시",
+      "id": 85
+    },
+    {
+      "unit_code": "energy-sievert",
+      "bunryu": "energy",
+      "ireum": "시버트",
+      "yakja": "Sv",
+      "gan_yakja": "Sv",
+      "danwi_paeteon": "{0}시버트",
+      "id": 86
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "bunryu": "energy",
+      "ireum": "미국 섬",
+      "yakja": "미국 섬",
+      "gan_yakja": "미국 섬",
+      "danwi_paeteon": "{0}섬",
+      "id": 87
+    },
+    {
+      "unit_code": "force-kilogram-force",
+      "bunryu": "force",
+      "ireum": "킬로그램힘",
+      "yakja": "kgf",
+      "gan_yakja": "kgf",
+      "danwi_paeteon": "{0}킬로그램힘",
+      "id": 88
+    },
+    {
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "bunryu": "force",
+      "ireum": "100킬로미터당 킬로와트시",
+      "yakja": "kWh/100km",
+      "gan_yakja": "kWh/100km",
+      "danwi_paeteon": "100킬로미터당 {0}킬로와트시",
+      "id": 89
+    },
+    {
+      "unit_code": "force-newton",
+      "bunryu": "force",
+      "ireum": "뉴턴",
+      "yakja": "N",
+      "gan_yakja": "N",
+      "danwi_paeteon": "{0}뉴턴",
+      "id": 90
+    },
+    {
+      "unit_code": "force-pound-force",
+      "bunryu": "force",
+      "ireum": "파운드포스",
+      "yakja": "lbf",
+      "gan_yakja": "lbf",
+      "danwi_paeteon": "{0}파운드포스",
+      "id": 91
+    },
+    {
+      "unit_code": "frequency-gigahertz",
+      "bunryu": "frequency",
+      "ireum": "기가헤르츠",
+      "yakja": "GHz",
+      "gan_yakja": "GHz",
+      "danwi_paeteon": "{0}기가헤르츠",
+      "id": 92
+    },
+    {
+      "unit_code": "frequency-hertz",
+      "bunryu": "frequency",
+      "ireum": "헤르츠",
+      "yakja": "Hz",
+      "gan_yakja": "Hz",
+      "danwi_paeteon": "{0}헤르츠",
+      "id": 93
+    },
+    {
+      "unit_code": "frequency-kilohertz",
+      "bunryu": "frequency",
+      "ireum": "킬로헤르츠",
+      "yakja": "kHz",
+      "gan_yakja": "kHz",
+      "danwi_paeteon": "{0}킬로헤르츠",
+      "id": 94
+    },
+    {
+      "unit_code": "frequency-megahertz",
+      "bunryu": "frequency",
+      "ireum": "메가헤르츠",
+      "yakja": "MHz",
+      "gan_yakja": "MHz",
+      "danwi_paeteon": "{0}메가헤르츠",
+      "id": 95
+    },
+    {
+      "unit_code": "graphics-dot",
+      "bunryu": "graphics",
+      "ireum": "도트",
+      "yakja": "도트",
+      "gan_yakja": "도트",
+      "danwi_paeteon": "{0}도트",
+      "id": 96
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "bunryu": "graphics",
+      "ireum": "센티미터당 도트 수",
+      "yakja": "dpcm",
+      "gan_yakja": "dpcm",
+      "danwi_paeteon": "센티미터당 {0}도트",
+      "id": 97
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "bunryu": "graphics",
+      "ireum": "인치당 도트 수",
+      "yakja": "dpi",
+      "gan_yakja": "dpi",
+      "danwi_paeteon": "인치당 {0}도트",
+      "id": 98
+    },
+    {
+      "unit_code": "graphics-em",
+      "bunryu": "graphics",
+      "ireum": "em",
+      "yakja": "em",
+      "gan_yakja": "em",
+      "danwi_paeteon": "{0}em",
+      "id": 99
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "bunryu": "graphics",
+      "ireum": "MP",
+      "yakja": "MP",
+      "gan_yakja": "MP",
+      "danwi_paeteon": "{0}MP",
+      "id": 100
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "bunryu": "graphics",
+      "ireum": "px",
+      "yakja": "px",
+      "gan_yakja": "px",
+      "danwi_paeteon": "{0}px",
+      "id": 101
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "bunryu": "graphics",
+      "ireum": "ppcm",
+      "yakja": "ppcm",
+      "gan_yakja": "ppcm",
+      "danwi_paeteon": "{0}ppcm",
+      "id": 102
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "bunryu": "graphics",
+      "ireum": "ppi",
+      "yakja": "ppi",
+      "gan_yakja": "ppi",
+      "danwi_paeteon": "{0}ppi",
+      "id": 103
+    },
+    {
+      "unit_code": "length-astronomical-unit",
+      "bunryu": "length",
+      "ireum": "천문 단위",
+      "yakja": "au",
+      "gan_yakja": "au",
+      "danwi_paeteon": "{0}천문 단위",
+      "id": 104
+    },
+    {
+      "unit_code": "length-centimeter",
+      "bunryu": "length",
+      "ireum": "센티미터",
+      "yakja": "cm",
+      "gan_yakja": "cm",
+      "danwi_paeteon": "{0}센티미터",
+      "id": 105
+    },
+    {
+      "unit_code": "length-chain",
+      "bunryu": "length",
+      "ireum": "chain",
+      "yakja": "chain",
+      "gan_yakja": "chain",
+      "danwi_paeteon": "{0} chain",
+      "id": 106
+    },
+    {
+      "unit_code": "length-decimeter",
+      "bunryu": "length",
+      "ireum": "데시미터",
+      "yakja": "dm",
+      "gan_yakja": "dm",
+      "danwi_paeteon": "{0}데시미터",
+      "id": 107
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "bunryu": "length",
+      "ireum": "지구 반경",
+      "yakja": "R⊕",
+      "gan_yakja": "R⊕",
+      "danwi_paeteon": "{0}지구 반경",
+      "id": 108
+    },
+    {
+      "unit_code": "length-fathom",
+      "bunryu": "length",
+      "ireum": "패덤",
+      "yakja": "fm",
+      "gan_yakja": "fm",
+      "danwi_paeteon": "{0}패덤",
+      "id": 109
+    },
+    {
+      "unit_code": "length-foot",
+      "bunryu": "length",
+      "ireum": "피트",
+      "yakja": "ft",
+      "gan_yakja": "ft",
+      "danwi_paeteon": "{0}피트",
+      "id": 110
+    },
+    {
+      "unit_code": "length-furlong",
+      "bunryu": "length",
+      "ireum": "펄롱",
+      "yakja": "fur",
+      "gan_yakja": "fur",
+      "danwi_paeteon": "{0}펄롱",
+      "id": 111
+    },
+    {
+      "unit_code": "length-inch",
+      "bunryu": "length",
+      "ireum": "인치",
+      "yakja": "in",
+      "gan_yakja": "in",
+      "danwi_paeteon": "{0}인치",
+      "id": 112
+    },
+    {
+      "unit_code": "length-jo-jp",
+      "bunryu": "length",
+      "ireum": "jo [JP]",
+      "yakja": "jo [JP]",
+      "gan_yakja": "jo [JP]",
+      "danwi_paeteon": "{0} jo [JP]",
+      "id": 113
+    },
+    {
+      "unit_code": "length-ken",
+      "bunryu": "length",
+      "ireum": "ken [JP]",
+      "yakja": "ken [JP]",
+      "gan_yakja": "ken [JP]",
+      "danwi_paeteon": "{0} ken [JP]",
+      "id": 114
+    },
+    {
+      "unit_code": "length-kilometer",
+      "bunryu": "length",
+      "ireum": "킬로미터",
+      "yakja": "km",
+      "gan_yakja": "km",
+      "danwi_paeteon": "{0}킬로미터",
+      "id": 115
+    },
+    {
+      "unit_code": "length-light-year",
+      "bunryu": "length",
+      "ireum": "광년",
+      "yakja": "ly",
+      "gan_yakja": "ly",
+      "danwi_paeteon": "{0}광년",
+      "id": 116
+    },
+    {
+      "unit_code": "length-meter",
+      "bunryu": "length",
+      "ireum": "미터",
+      "yakja": "m",
+      "gan_yakja": "m",
+      "danwi_paeteon": "{0}미터",
+      "id": 117
+    },
+    {
+      "unit_code": "length-micrometer",
+      "bunryu": "length",
+      "ireum": "마이크로미터",
+      "yakja": "μm",
+      "gan_yakja": "μm",
+      "danwi_paeteon": "{0}마이크로미터",
+      "id": 118
+    },
+    {
+      "unit_code": "length-mile",
+      "bunryu": "length",
+      "ireum": "마일",
+      "yakja": "mi",
+      "gan_yakja": "mi",
+      "danwi_paeteon": "{0}마일",
+      "id": 119
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "bunryu": "length",
+      "ireum": "스칸디나비아 마일",
+      "yakja": "smi",
+      "gan_yakja": "smi",
+      "danwi_paeteon": "{0}스칸디나비아 마일",
+      "id": 120
+    },
+    {
+      "unit_code": "length-millimeter",
+      "bunryu": "length",
+      "ireum": "밀리미터",
+      "yakja": "mm",
+      "gan_yakja": "mm",
+      "danwi_paeteon": "{0}밀리미터",
+      "id": 121
+    },
+    {
+      "unit_code": "length-nanometer",
+      "bunryu": "length",
+      "ireum": "나노미터",
+      "yakja": "nm",
+      "gan_yakja": "nm",
+      "danwi_paeteon": "{0}나노미터",
+      "id": 122
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "bunryu": "length",
+      "ireum": "해리",
+      "yakja": "nmi",
+      "gan_yakja": "nmi",
+      "danwi_paeteon": "{0}해리",
+      "id": 123
+    },
+    {
+      "unit_code": "length-parsec",
+      "bunryu": "length",
+      "ireum": "파섹",
+      "yakja": "pc",
+      "gan_yakja": "pc",
+      "danwi_paeteon": "{0}파섹",
+      "id": 124
+    },
+    {
+      "unit_code": "length-picometer",
+      "bunryu": "length",
+      "ireum": "피코미터",
+      "yakja": "pm",
+      "gan_yakja": "pm",
+      "danwi_paeteon": "{0}피코미터",
+      "id": 125
+    },
+    {
+      "unit_code": "length-point",
+      "bunryu": "length",
+      "ireum": "포인트",
+      "yakja": "pt",
+      "gan_yakja": "pt",
+      "danwi_paeteon": "{0}포인트",
+      "id": 126
+    },
+    {
+      "unit_code": "length-ri-jp",
+      "bunryu": "length",
+      "ireum": "ri [JP]",
+      "yakja": "ri [JP]",
+      "gan_yakja": "ri [JP]",
+      "danwi_paeteon": "{0} ri [JP]",
+      "id": 127
+    },
+    {
+      "unit_code": "length-rin",
+      "bunryu": "length",
+      "ireum": "rin [JP]",
+      "yakja": "rin [JP]",
+      "gan_yakja": "rin [JP]",
+      "danwi_paeteon": "{0} rin [JP]",
+      "id": 128
+    },
+    {
+      "unit_code": "length-rod",
+      "bunryu": "length",
+      "ireum": "rod",
+      "yakja": "rod",
+      "gan_yakja": "rod",
+      "danwi_paeteon": "{0} rod",
+      "id": 129
+    },
+    {
+      "unit_code": "length-shaku-cloth",
+      "bunryu": "length",
+      "ireum": "shaku [cloth, JP]",
+      "yakja": "shaku [cloth, JP]",
+      "gan_yakja": "shaku [cloth, JP]",
+      "danwi_paeteon": "{0} shaku [cloth, JP]",
+      "id": 130
+    },
+    {
+      "unit_code": "length-shaku-length",
+      "bunryu": "length",
+      "ireum": "shaku [JP]",
+      "yakja": "shaku [JP]",
+      "gan_yakja": "shaku [JP]",
+      "danwi_paeteon": "{0} shaku [JP]",
+      "id": 131
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "bunryu": "length",
+      "ireum": "태양 반경",
+      "yakja": "R☉",
+      "gan_yakja": "R☉",
+      "danwi_paeteon": "{0}태양 반경",
+      "id": 132
+    },
+    {
+      "unit_code": "length-sun",
+      "bunryu": "length",
+      "ireum": "sun [JP]",
+      "yakja": "sun [JP]",
+      "gan_yakja": "sun [JP]",
+      "danwi_paeteon": "{0} sun [JP]",
+      "id": 133
+    },
+    {
+      "unit_code": "length-yard",
+      "bunryu": "length",
+      "ireum": "야드",
+      "yakja": "yd",
+      "gan_yakja": "yd",
+      "danwi_paeteon": "{0}야드",
+      "id": 134
+    },
+    {
+      "unit_code": "light-candela",
+      "bunryu": "light",
+      "ireum": "칸델라",
+      "yakja": "cd",
+      "gan_yakja": "cd",
+      "danwi_paeteon": "{0}칸델라",
+      "id": 135
+    },
+    {
+      "unit_code": "light-lumen",
+      "bunryu": "light",
+      "ireum": "루멘",
+      "yakja": "lm",
+      "gan_yakja": "lm",
+      "danwi_paeteon": "{0}루멘",
+      "id": 136
+    },
+    {
+      "unit_code": "light-lux",
+      "bunryu": "light",
+      "ireum": "룩스",
+      "yakja": "lx",
+      "gan_yakja": "lx",
+      "danwi_paeteon": "{0}룩스",
+      "id": 137
+    },
+    {
+      "unit_code": "light-solar-luminosity",
+      "bunryu": "light",
+      "ireum": "태양 광도",
+      "yakja": "L☉",
+      "gan_yakja": "L☉",
+      "danwi_paeteon": "{0}태양 광도",
+      "id": 138
+    },
+    {
+      "unit_code": "magnetic-tesla",
+      "bunryu": "magnetic",
+      "ireum": "테슬라",
+      "yakja": "T",
+      "gan_yakja": "T",
+      "danwi_paeteon": "{0}테슬라",
+      "id": 139
+    },
+    {
+      "unit_code": "magnetic-weber",
+      "bunryu": "magnetic",
+      "ireum": "웨버",
+      "yakja": "Wb",
+      "gan_yakja": "Wb",
+      "danwi_paeteon": "{0}웨버",
+      "id": 140
+    },
+    {
+      "unit_code": "mass-carat",
+      "bunryu": "mass",
+      "ireum": "캐럿",
+      "yakja": "CD",
+      "gan_yakja": "CD",
+      "danwi_paeteon": "{0}캐럿",
+      "id": 141
+    },
+    {
+      "unit_code": "mass-dalton",
+      "bunryu": "mass",
+      "ireum": "돌턴",
+      "yakja": "Da",
+      "gan_yakja": "Da",
+      "danwi_paeteon": "{0}돌턴",
+      "id": 142
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "bunryu": "mass",
+      "ireum": "지구 질량",
+      "yakja": "M⊕",
+      "gan_yakja": "M⊕",
+      "danwi_paeteon": "{0}지구 질량",
+      "id": 143
+    },
+    {
+      "unit_code": "mass-fun",
+      "bunryu": "mass",
+      "ireum": "fun [JP]",
+      "yakja": "fun [JP]",
+      "gan_yakja": "fun [JP]",
+      "danwi_paeteon": "{0} fun [JP]",
+      "id": 144
+    },
+    {
+      "unit_code": "mass-grain",
+      "bunryu": "mass",
+      "ireum": "그레인",
+      "yakja": "grain",
+      "gan_yakja": "grain",
+      "danwi_paeteon": "{0}그레인",
+      "id": 145
+    },
+    {
+      "unit_code": "mass-gram",
+      "bunryu": "mass",
+      "ireum": "그램",
+      "yakja": "그램",
+      "gan_yakja": "g",
+      "danwi_paeteon": "{0}그램",
+      "id": 146
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "bunryu": "mass",
+      "ireum": "킬로그램",
+      "yakja": "kg",
+      "gan_yakja": "kg",
+      "danwi_paeteon": "{0}킬로그램",
+      "id": 147
+    },
+    {
+      "unit_code": "mass-microgram",
+      "bunryu": "mass",
+      "ireum": "마이크로그램",
+      "yakja": "μg",
+      "gan_yakja": "μg",
+      "danwi_paeteon": "{0}마이크로그램",
+      "id": 148
+    },
+    {
+      "unit_code": "mass-milligram",
+      "bunryu": "mass",
+      "ireum": "밀리그램",
+      "yakja": "mg",
+      "gan_yakja": "mg",
+      "danwi_paeteon": "{0}밀리그램",
+      "id": 149
+    },
+    {
+      "unit_code": "mass-ounce",
+      "bunryu": "mass",
+      "ireum": "온스",
+      "yakja": "oz",
+      "gan_yakja": "oz",
+      "danwi_paeteon": "{0}온스",
+      "id": 150
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "bunryu": "mass",
+      "ireum": "트로이 온스",
+      "yakja": "oz t",
+      "gan_yakja": "oz t",
+      "danwi_paeteon": "{0}트로이 온스",
+      "id": 151
+    },
+    {
+      "unit_code": "mass-pound",
+      "bunryu": "mass",
+      "ireum": "파운드",
+      "yakja": "lb",
+      "gan_yakja": "lb",
+      "danwi_paeteon": "{0}파운드",
+      "id": 152
+    },
+    {
+      "unit_code": "mass-slug",
+      "bunryu": "mass",
+      "ireum": "slug",
+      "yakja": "slug",
+      "gan_yakja": "slug",
+      "danwi_paeteon": "{0} slug",
+      "id": 153
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "bunryu": "mass",
+      "ireum": "태양 질량",
+      "yakja": "M☉",
+      "gan_yakja": "M☉",
+      "danwi_paeteon": "{0}태양 질량",
+      "id": 154
+    },
+    {
+      "unit_code": "mass-stone",
+      "bunryu": "mass",
+      "ireum": "스톤",
+      "yakja": "st",
+      "gan_yakja": "st",
+      "danwi_paeteon": "{0}스톤",
+      "id": 155
+    },
+    {
+      "unit_code": "mass-ton",
+      "bunryu": "mass",
+      "ireum": "톤",
+      "yakja": "tn",
+      "gan_yakja": "tn",
+      "danwi_paeteon": "{0}톤",
+      "id": 156
+    },
+    {
+      "unit_code": "mass-tonne",
+      "bunryu": "mass",
+      "ireum": "메트릭 톤",
+      "yakja": "t",
+      "gan_yakja": "t",
+      "danwi_paeteon": "{0}메트릭 톤",
+      "id": 157
+    },
+    {
+      "unit_code": "power-gigawatt",
+      "bunryu": "power",
+      "ireum": "기가와트",
+      "yakja": "GW",
+      "gan_yakja": "GW",
+      "danwi_paeteon": "{0}기가와트",
+      "id": 158
+    },
+    {
+      "unit_code": "power-horsepower",
+      "bunryu": "power",
+      "ireum": "마력",
+      "yakja": "hp",
+      "gan_yakja": "hp",
+      "danwi_paeteon": "{0}마력",
+      "id": 159
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "bunryu": "power",
+      "ireum": "킬로와트",
+      "yakja": "kW",
+      "gan_yakja": "kW",
+      "danwi_paeteon": "{0}킬로와트",
+      "id": 160
+    },
+    {
+      "unit_code": "power-megawatt",
+      "bunryu": "power",
+      "ireum": "메가와트",
+      "yakja": "MW",
+      "gan_yakja": "MW",
+      "danwi_paeteon": "{0}메가와트",
+      "id": 161
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "bunryu": "power",
+      "ireum": "밀리와트",
+      "yakja": "mW",
+      "gan_yakja": "mW",
+      "danwi_paeteon": "{0}밀리와트",
+      "id": 162
+    },
+    {
+      "unit_code": "power-watt",
+      "bunryu": "power",
+      "ireum": "와트",
+      "yakja": "w",
+      "gan_yakja": "w",
+      "danwi_paeteon": "{0}와트",
+      "id": 163
+    },
+    {
+      "unit_code": "pressure-atmosphere",
+      "bunryu": "pressure",
+      "ireum": "atm",
+      "yakja": "atm",
+      "gan_yakja": "atm",
+      "danwi_paeteon": "{0}atm",
+      "id": 164
+    },
+    {
+      "unit_code": "pressure-bar",
+      "bunryu": "pressure",
+      "ireum": "바",
+      "yakja": "bar",
+      "gan_yakja": "bar",
+      "danwi_paeteon": "{0}바",
+      "id": 165
+    },
+    {
+      "unit_code": "pressure-gasoline-energy-density",
+      "bunryu": "pressure",
+      "ireum": "gas E",
+      "yakja": "gas E",
+      "gan_yakja": "gas E",
+      "danwi_paeteon": "{0} gas E",
+      "id": 166
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "bunryu": "pressure",
+      "ireum": "헥토파스칼",
+      "yakja": "hPa",
+      "gan_yakja": "hPa",
+      "danwi_paeteon": "{0}헥토파스칼",
+      "id": 167
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "bunryu": "pressure",
+      "ireum": "수은주인치",
+      "yakja": "inHg",
+      "gan_yakja": "inHg",
+      "danwi_paeteon": "{0}수은주인치",
+      "id": 168
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "bunryu": "pressure",
+      "ireum": "킬로파스칼",
+      "yakja": "kPa",
+      "gan_yakja": "kPa",
+      "danwi_paeteon": "{0}킬로파스칼",
+      "id": 169
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "bunryu": "pressure",
+      "ireum": "메가파스칼",
+      "yakja": "MPa",
+      "gan_yakja": "MPa",
+      "danwi_paeteon": "{0}메가파스칼",
+      "id": 170
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "bunryu": "pressure",
+      "ireum": "밀리바",
+      "yakja": "mbar",
+      "gan_yakja": "mbar",
+      "danwi_paeteon": "{0}밀리바",
+      "id": 171
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "bunryu": "pressure",
+      "ireum": "수은주밀리미터",
+      "yakja": "mmHg",
+      "gan_yakja": "mmHg",
+      "danwi_paeteon": "{0}수은주밀리미터",
+      "id": 172
+    },
+    {
+      "unit_code": "pressure-ofhg",
+      "bunryu": "pressure",
+      "ireum": "수은주",
+      "yakja": "Hg",
+      "gan_yakja": "Hg",
+      "danwi_paeteon": "{0}수은주",
+      "id": 173
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "bunryu": "pressure",
+      "ireum": "파스칼",
+      "yakja": "Pa",
+      "gan_yakja": "Pa",
+      "danwi_paeteon": "{0}파스칼",
+      "id": 174
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "bunryu": "pressure",
+      "ireum": "제곱인치당 파운드",
+      "yakja": "psi",
+      "gan_yakja": "psi",
+      "danwi_paeteon": "{0}제곱인치당 파운드",
+      "id": 175
+    },
+    {
+      "unit_code": "speed-beaufort",
+      "bunryu": "speed",
+      "ireum": "보퍼트",
+      "yakja": "Bft",
+      "gan_yakja": "Bft",
+      "danwi_paeteon": "보퍼트 계급 {0}",
+      "id": 176
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "bunryu": "speed",
+      "ireum": "시간당 킬로미터",
+      "yakja": "km/h",
+      "gan_yakja": "km/h",
+      "danwi_paeteon": "시속 {0}킬로미터",
+      "id": 177
+    },
+    {
+      "unit_code": "speed-knot",
+      "bunryu": "speed",
+      "ireum": "노트",
+      "yakja": "kn",
+      "gan_yakja": "kn",
+      "danwi_paeteon": "{0}노트",
+      "id": 178
+    },
+    {
+      "unit_code": "speed-light-speed",
+      "bunryu": "speed",
+      "ireum": "광속",
+      "yakja": "light",
+      "gan_yakja": "light",
+      "danwi_paeteon": "{0}광속",
+      "id": 179
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "bunryu": "speed",
+      "ireum": "미터 매 초",
+      "yakja": "m/s",
+      "gan_yakja": "m/s",
+      "danwi_paeteon": "초속 {0}미터",
+      "id": 180
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "bunryu": "speed",
+      "ireum": "시간당 마일",
+      "yakja": "mi/h",
+      "gan_yakja": "mi/h",
+      "danwi_paeteon": "시속 {0}마일",
+      "id": 181
+    },
+    {
+      "unit_code": "temperature-celsius",
+      "bunryu": "temperature",
+      "ireum": "섭씨",
+      "yakja": "°C",
+      "gan_yakja": "°C",
+      "danwi_paeteon": "섭씨 {0}도",
+      "id": 182
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "bunryu": "temperature",
+      "ireum": "화씨",
+      "yakja": "°F",
+      "gan_yakja": "°F",
+      "danwi_paeteon": "화씨 {0}도",
+      "id": 183
+    },
+    {
+      "unit_code": "temperature-generic",
+      "bunryu": "temperature",
+      "ireum": "도",
+      "yakja": "°",
+      "gan_yakja": "°",
+      "danwi_paeteon": "{0}도",
+      "id": 184
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "bunryu": "temperature",
+      "ireum": "켈빈",
+      "yakja": "K",
+      "gan_yakja": "K",
+      "danwi_paeteon": "{0}켈빈",
+      "id": 185
+    },
+    {
+      "unit_code": "temperature-rankine",
+      "bunryu": "temperature",
+      "ireum": "°R",
+      "yakja": "°R",
+      "gan_yakja": "°R",
+      "danwi_paeteon": "{0} °R",
+      "id": 186
+    },
+    {
+      "unit_code": "torque-newton-meter",
+      "bunryu": "torque",
+      "ireum": "뉴턴미터",
+      "yakja": "N⋅m",
+      "gan_yakja": "N⋅m",
+      "danwi_paeteon": "{0}뉴턴미터",
+      "id": 187
+    },
+    {
+      "unit_code": "torque-pound-force-foot",
+      "bunryu": "torque",
+      "ireum": "lbf⋅ft",
+      "yakja": "lbf⋅ft",
+      "gan_yakja": "lbf⋅ft",
+      "danwi_paeteon": "{0}lbf⋅ft",
+      "id": 188
+    },
+    {
+      "unit_code": "volume-acre-foot",
+      "bunryu": "volume",
+      "ireum": "에이커 피트",
+      "yakja": "ac ft",
+      "gan_yakja": "ac ft",
+      "danwi_paeteon": "{0}에이커 피트",
+      "id": 189
+    },
+    {
+      "unit_code": "volume-barrel",
+      "bunryu": "volume",
+      "ireum": "배럴",
+      "yakja": "bbl",
+      "gan_yakja": "bbl",
+      "danwi_paeteon": "{0}배럴",
+      "id": 190
+    },
+    {
+      "unit_code": "volume-bushel",
+      "bunryu": "volume",
+      "ireum": "부셸",
+      "yakja": "bu",
+      "gan_yakja": "bu",
+      "danwi_paeteon": "{0}부셸",
+      "id": 191
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "bunryu": "volume",
+      "ireum": "센티리터",
+      "yakja": "cL",
+      "gan_yakja": "cL",
+      "danwi_paeteon": "{0}센티리터",
+      "id": 192
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "bunryu": "volume",
+      "ireum": "세제곱센티미터",
+      "yakja": "cm³",
+      "gan_yakja": "cm³",
+      "danwi_paeteon": "{0}세제곱센티미터",
+      "id": 193
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "bunryu": "volume",
+      "ireum": "세제곱피트",
+      "yakja": "ft³",
+      "gan_yakja": "ft³",
+      "danwi_paeteon": "{0}세제곱피트",
+      "id": 194
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "bunryu": "volume",
+      "ireum": "세제곱인치",
+      "yakja": "in³",
+      "gan_yakja": "in³",
+      "danwi_paeteon": "{0}세제곱인치",
+      "id": 195
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "bunryu": "volume",
+      "ireum": "세제곱킬로미터",
+      "yakja": "km³",
+      "gan_yakja": "km³",
+      "danwi_paeteon": "{0}세제곱킬로미터",
+      "id": 196
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "bunryu": "volume",
+      "ireum": "세제곱미터",
+      "yakja": "m³",
+      "gan_yakja": "m³",
+      "danwi_paeteon": "{0}세제곱미터",
+      "id": 197
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "bunryu": "volume",
+      "ireum": "세제곱마일",
+      "yakja": "mi³",
+      "gan_yakja": "mi³",
+      "danwi_paeteon": "{0}세제곱마일",
+      "id": 198
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "bunryu": "volume",
+      "ireum": "세제곱야드",
+      "yakja": "yd³",
+      "gan_yakja": "yd³",
+      "danwi_paeteon": "{0}세제곱야드",
+      "id": 199
+    },
+    {
+      "unit_code": "volume-cup",
+      "bunryu": "volume",
+      "ireum": "컵",
+      "yakja": "컵",
+      "gan_yakja": "컵",
+      "danwi_paeteon": "{0}컵",
+      "id": 200
+    },
+    {
+      "unit_code": "volume-cup-imperial",
+      "bunryu": "volume",
+      "ireum": "cup Imp.",
+      "yakja": "cup Imp.",
+      "gan_yakja": "cup Imp.",
+      "danwi_paeteon": "{0} cup Imp.",
+      "id": 201
+    },
+    {
+      "unit_code": "volume-cup-jp",
+      "bunryu": "volume",
+      "ireum": "cup [JP]",
+      "yakja": "cup [JP]",
+      "gan_yakja": "cup [JP]",
+      "danwi_paeteon": "{0} cup [JP]",
+      "id": 202
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "bunryu": "volume",
+      "ireum": "미터식 컵",
+      "yakja": "mcup",
+      "gan_yakja": "mcup",
+      "danwi_paeteon": "{0}미터식 컵",
+      "id": 203
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "bunryu": "volume",
+      "ireum": "데시리터",
+      "yakja": "dL",
+      "gan_yakja": "dL",
+      "danwi_paeteon": "{0}데시리터",
+      "id": 204
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "bunryu": "volume",
+      "ireum": "디저트스푼",
+      "yakja": "dstspn",
+      "gan_yakja": "dstspn",
+      "danwi_paeteon": "{0}디저트스푼",
+      "id": 205
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "bunryu": "volume",
+      "ireum": "영국 디저트스푼",
+      "yakja": "dstspn Imp",
+      "gan_yakja": "dsp Imp",
+      "danwi_paeteon": "{0}영국 디저트스푼",
+      "id": 206
+    },
+    {
+      "unit_code": "volume-dram",
+      "bunryu": "volume",
+      "ireum": "영국 액량 드램",
+      "yakja": "dram fluid",
+      "gan_yakja": "dram fluid",
+      "danwi_paeteon": "{0}영국 액량 드램",
+      "id": 207
+    },
+    {
+      "unit_code": "volume-drop",
+      "bunryu": "volume",
+      "ireum": "방울",
+      "yakja": "drop",
+      "gan_yakja": "drop",
+      "danwi_paeteon": "{0}방울",
+      "id": 208
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "bunryu": "volume",
+      "ireum": "액량 온스",
+      "yakja": "fl oz",
+      "gan_yakja": "fl oz",
+      "danwi_paeteon": "{0}액량 온스",
+      "id": 209
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "bunryu": "volume",
+      "ireum": "영국 액량 온스",
+      "yakja": "Imp. fl oz",
+      "gan_yakja": "Imp. fl oz",
+      "danwi_paeteon": "{0}영국 액량 온스",
+      "id": 210
+    },
+    {
+      "unit_code": "volume-fluid-ounce-metric",
+      "bunryu": "volume",
+      "ireum": "미터식 액량 온스",
+      "yakja": "fl oz m.",
+      "gan_yakja": "fl oz m.",
+      "danwi_paeteon": "{0}미터식 액량 온스",
+      "id": 211
+    },
+    {
+      "unit_code": "volume-gallon",
+      "bunryu": "volume",
+      "ireum": "갤런",
+      "yakja": "gal",
+      "gan_yakja": "gal",
+      "danwi_paeteon": "{0}갤런",
+      "id": 212
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "bunryu": "volume",
+      "ireum": "영국식 갤런",
+      "yakja": "Imp. gal",
+      "gan_yakja": "Imp. gal",
+      "danwi_paeteon": "{0}영국식 갤런",
+      "id": 213
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "bunryu": "volume",
+      "ireum": "헥토리터",
+      "yakja": "hL",
+      "gan_yakja": "hL",
+      "danwi_paeteon": "{0}헥토리터",
+      "id": 214
+    },
+    {
+      "unit_code": "volume-jigger",
+      "bunryu": "volume",
+      "ireum": "지거",
+      "yakja": "jigger",
+      "gan_yakja": "jigger",
+      "danwi_paeteon": "{0}지거",
+      "id": 215
+    },
+    {
+      "unit_code": "volume-koku",
+      "bunryu": "volume",
+      "ireum": "koku [JP]",
+      "yakja": "koku [JP]",
+      "gan_yakja": "koku [JP]",
+      "danwi_paeteon": "{0} koku [JP]",
+      "id": 216
+    },
+    {
+      "unit_code": "volume-kosaji",
+      "bunryu": "volume",
+      "ireum": "kosaji [JP]",
+      "yakja": "kosaji [JP]",
+      "gan_yakja": "kosaji [JP]",
+      "danwi_paeteon": "{0} kosaji [JP]",
+      "id": 217
+    },
+    {
+      "unit_code": "volume-liter",
+      "bunryu": "volume",
+      "ireum": "리터",
+      "yakja": "리터",
+      "gan_yakja": "리터",
+      "danwi_paeteon": "{0}리터",
+      "id": 218
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "bunryu": "volume",
+      "ireum": "메가리터",
+      "yakja": "ML",
+      "gan_yakja": "ML",
+      "danwi_paeteon": "{0}메가리터",
+      "id": 219
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "bunryu": "volume",
+      "ireum": "밀리리터",
+      "yakja": "mL",
+      "gan_yakja": "mL",
+      "danwi_paeteon": "{0}밀리리터",
+      "id": 220
+    },
+    {
+      "unit_code": "volume-osaji",
+      "bunryu": "volume",
+      "ireum": "osaji [JP]",
+      "yakja": "osaji [JP]",
+      "gan_yakja": "osaji [JP]",
+      "danwi_paeteon": "{0} osaji [JP]",
+      "id": 221
+    },
+    {
+      "unit_code": "volume-pinch",
+      "bunryu": "volume",
+      "ireum": "꼬집",
+      "yakja": "pinch",
+      "gan_yakja": "pinch",
+      "danwi_paeteon": "{0}꼬집",
+      "id": 222
+    },
+    {
+      "unit_code": "volume-pint",
+      "bunryu": "volume",
+      "ireum": "파인트",
+      "yakja": "pt",
+      "gan_yakja": "pt",
+      "danwi_paeteon": "{0}파인트",
+      "id": 223
+    },
+    {
+      "unit_code": "volume-pint-imperial",
+      "bunryu": "volume",
+      "ireum": "pint Imp.",
+      "yakja": "pint Imp.",
+      "gan_yakja": "pint Imp.",
+      "danwi_paeteon": "{0} pt Imp.",
+      "id": 224
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "bunryu": "volume",
+      "ireum": "미터식 파인트",
+      "yakja": "mpt",
+      "gan_yakja": "mpt",
+      "danwi_paeteon": "{0}미터식 파인트",
+      "id": 225
+    },
+    {
+      "unit_code": "volume-quart",
+      "bunryu": "volume",
+      "ireum": "쿼트",
+      "yakja": "qt",
+      "gan_yakja": "qt",
+      "danwi_paeteon": "{0}쿼트",
+      "id": 226
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "bunryu": "volume",
+      "ireum": "영국 쿼트",
+      "yakja": "qt Imp",
+      "gan_yakja": "qt Imp",
+      "danwi_paeteon": "{0}영국 쿼트",
+      "id": 227
+    },
+    {
+      "unit_code": "volume-sai",
+      "bunryu": "volume",
+      "ireum": "sai [JP]",
+      "yakja": "sai [JP]",
+      "gan_yakja": "sai [JP]",
+      "danwi_paeteon": "{0} sai [JP]",
+      "id": 228
+    },
+    {
+      "unit_code": "volume-shaku",
+      "bunryu": "volume",
+      "ireum": "shaku [vol, JP]",
+      "yakja": "shaku [vol, JP]",
+      "gan_yakja": "shaku [vol, JP]",
+      "danwi_paeteon": "{0} shaku [vol, JP]",
+      "id": 229
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "bunryu": "volume",
+      "ireum": "테이블스푼",
+      "yakja": "tbsp",
+      "gan_yakja": "tbsp",
+      "danwi_paeteon": "{0}테이블스푼",
+      "id": 230
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "bunryu": "volume",
+      "ireum": "티스푼",
+      "yakja": "tsp",
+      "gan_yakja": "tsp",
+      "danwi_paeteon": "{0}티스푼",
+      "id": 231
+    },
+    {
+      "unit_code": "volume-to-jp",
+      "bunryu": "volume",
+      "ireum": "to [JP]",
+      "yakja": "to [JP]",
+      "gan_yakja": "to [JP]",
+      "danwi_paeteon": "{0} to [JP]",
+      "id": 232
+    }
+  ],
+  "meta": {
+    "title": "측정 단위 한국어 명칭 (CLDR) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 측정 단위 목록. 긴 이름(long), 약자(short), 간략 약자(narrow) 표기를 함께 제공합니다. 포함 232 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "측정 단위 한국어 명칭 (CLDR) | ListBase",
+    "seo_description": "다운로드 측정 단위 한국어 명칭 (CLDR) — 232 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 232 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

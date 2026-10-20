@@ -1,0 +1,1466 @@
+{
+  "id": "ko-tonghwa",
+  "name": "세계의 통화 (285)",
+  "title": "세계의 통화 (285)",
+  "description": "세계의 통화 목록 — ISO 4217 통화 코드 285개, 한국어 명칭(유니코드 CLDR) 및 영어 명칭 포함. 예: 미국 달러(USD), 유로(EUR), 대한민국 원(KRW), 일본 엔화(JPY), 중국 위안화(CNY), 파운드(GBP), 사우디아라비아 리얄(SAR). 코드순 정렬. 기존 세계 참조 자료(ko-gukga 국가 목록)를 보완하는 KO 버킷 최초의 통화 목록. 출처: umpirsky/currency-list (CLDR).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "ADP",
+      "name_ko": "안도라 페세타",
+      "name_en": "Andorran Peseta"
+    },
+    {
+      "code": "AED",
+      "name_ko": "아랍에미리트 디르함",
+      "name_en": "United Arab Emirates Dirham"
+    },
+    {
+      "code": "AFA",
+      "name_ko": "아프가니 (1927–2002)",
+      "name_en": "Afghan Afghani (1927–2002)"
+    },
+    {
+      "code": "AFN",
+      "name_ko": "아프가니스탄 아프가니",
+      "name_en": "Afghan Afghani"
+    },
+    {
+      "code": "ALK",
+      "name_ko": "Albanian Lek (1946–1965)",
+      "name_en": "Albanian Lek (1946–1965)"
+    },
+    {
+      "code": "ALL",
+      "name_ko": "알바니아 레크",
+      "name_en": "Albanian Lek"
+    },
+    {
+      "code": "AMD",
+      "name_ko": "아르메니아 드람",
+      "name_en": "Armenian Dram"
+    },
+    {
+      "code": "ANG",
+      "name_ko": "네덜란드령 안틸레스 길더",
+      "name_en": "Netherlands Antillean Guilder"
+    },
+    {
+      "code": "AOA",
+      "name_ko": "앙골라 콴자",
+      "name_en": "Angolan Kwanza"
+    },
+    {
+      "code": "AOK",
+      "name_ko": "앙골라 콴자 (1977–1990)",
+      "name_en": "Angolan Kwanza (1977–1991)"
+    },
+    {
+      "code": "AON",
+      "name_ko": "앙골라 신콴자 (1990–2000)",
+      "name_en": "Angolan New Kwanza (1990–2000)"
+    },
+    {
+      "code": "AOR",
+      "name_ko": "앙골라 재조정 콴자 (1995–1999)",
+      "name_en": "Angolan Readjusted Kwanza (1995–1999)"
+    },
+    {
+      "code": "ARA",
+      "name_ko": "아르헨티나 오스트랄",
+      "name_en": "Argentine Austral"
+    },
+    {
+      "code": "ARL",
+      "name_ko": "아르헨티나 페소 레이 (1970–1983)",
+      "name_en": "Argentine Peso Ley (1970–1983)"
+    },
+    {
+      "code": "ARM",
+      "name_ko": "아르헨티나 페소 (18810–1970)",
+      "name_en": "Argentine Peso (1881–1970)"
+    },
+    {
+      "code": "ARP",
+      "name_ko": "아르헨티나 페소 (1983–1985)",
+      "name_en": "Argentine Peso (1983–1985)"
+    },
+    {
+      "code": "ARS",
+      "name_ko": "아르헨티나 페소",
+      "name_en": "Argentine Peso"
+    },
+    {
+      "code": "ATS",
+      "name_ko": "호주 실링",
+      "name_en": "Austrian Schilling"
+    },
+    {
+      "code": "AUD",
+      "name_ko": "호주 달러",
+      "name_en": "Australian Dollar"
+    },
+    {
+      "code": "AWG",
+      "name_ko": "아루바 플로린",
+      "name_en": "Aruban Florin"
+    },
+    {
+      "code": "AZM",
+      "name_ko": "아제르바이젠 마나트(1993–2006)",
+      "name_en": "Azerbaijani Manat (1993–2006)"
+    },
+    {
+      "code": "AZN",
+      "name_ko": "아제르바이잔 마나트",
+      "name_en": "Azerbaijani Manat"
+    },
+    {
+      "code": "BAD",
+      "name_ko": "보스니아-헤르체고비나 디나르",
+      "name_en": "Bosnia-Herzegovina Dinar (1992–1994)"
+    },
+    {
+      "code": "BAM",
+      "name_ko": "보스니아-헤르체고비나 태환 마르크",
+      "name_en": "Bosnia-Herzegovina Convertible Mark"
+    },
+    {
+      "code": "BAN",
+      "name_ko": "보스니아-헤르체고비나 신디나르 (1994–1997)",
+      "name_en": "Bosnia-Herzegovina New Dinar (1994–1997)"
+    },
+    {
+      "code": "BBD",
+      "name_ko": "바베이도스 달러",
+      "name_en": "Barbadian Dollar"
+    },
+    {
+      "code": "BDT",
+      "name_ko": "방글라데시 타카",
+      "name_en": "Bangladeshi Taka"
+    },
+    {
+      "code": "BEC",
+      "name_ko": "벨기에 프랑 (태환)",
+      "name_en": "Belgian Franc (convertible)"
+    },
+    {
+      "code": "BEF",
+      "name_ko": "벨기에 프랑",
+      "name_en": "Belgian Franc"
+    },
+    {
+      "code": "BEL",
+      "name_ko": "벨기에 프랑 (금융)",
+      "name_en": "Belgian Franc (financial)"
+    },
+    {
+      "code": "BGL",
+      "name_ko": "불가리아 동전 렛",
+      "name_en": "Bulgarian Hard Lev"
+    },
+    {
+      "code": "BGM",
+      "name_ko": "불가리아 사회주의자 렛",
+      "name_en": "Bulgarian Socialist Lev"
+    },
+    {
+      "code": "BGN",
+      "name_ko": "불가리아 레프",
+      "name_en": "Bulgarian Lev"
+    },
+    {
+      "code": "BGO",
+      "name_ko": "불가리아 렛 (1879–1952)",
+      "name_en": "Bulgarian Lev (1879–1952)"
+    },
+    {
+      "code": "BHD",
+      "name_ko": "바레인 디나르",
+      "name_en": "Bahraini Dinar"
+    },
+    {
+      "code": "BIF",
+      "name_ko": "부룬디 프랑",
+      "name_en": "Burundian Franc"
+    },
+    {
+      "code": "BMD",
+      "name_ko": "버뮤다 달러",
+      "name_en": "Bermudan Dollar"
+    },
+    {
+      "code": "BND",
+      "name_ko": "부루나이 달러",
+      "name_en": "Brunei Dollar"
+    },
+    {
+      "code": "BOB",
+      "name_ko": "볼리비아노",
+      "name_en": "Bolivian Boliviano"
+    },
+    {
+      "code": "BOL",
+      "name_ko": "볼리비아 볼리비아노 (1863–1963)",
+      "name_en": "Bolivian Boliviano (1863–1963)"
+    },
+    {
+      "code": "BOP",
+      "name_ko": "볼리비아노 페소",
+      "name_en": "Bolivian Peso"
+    },
+    {
+      "code": "BOV",
+      "name_ko": "볼리비아노 Mvdol(기금)",
+      "name_en": "Bolivian Mvdol"
+    },
+    {
+      "code": "BRB",
+      "name_ko": "볼리비아노 크루제이루 노보 (1967–1986)",
+      "name_en": "Brazilian New Cruzeiro (1967–1986)"
+    },
+    {
+      "code": "BRC",
+      "name_ko": "브라질 크루자두",
+      "name_en": "Brazilian Cruzado (1986–1989)"
+    },
+    {
+      "code": "BRE",
+      "name_ko": "브라질 크루제이루 (1990–1993)",
+      "name_en": "Brazilian Cruzeiro (1990–1993)"
+    },
+    {
+      "code": "BRL",
+      "name_ko": "브라질 레알",
+      "name_en": "Brazilian Real"
+    },
+    {
+      "code": "BRN",
+      "name_ko": "브라질 크루자두 노보",
+      "name_en": "Brazilian New Cruzado (1989–1990)"
+    },
+    {
+      "code": "BRR",
+      "name_ko": "브라질 크루제이루",
+      "name_en": "Brazilian Cruzeiro (1993–1994)"
+    },
+    {
+      "code": "BRZ",
+      "name_ko": "브라질 크루제이루 (1942–1967)",
+      "name_en": "Brazilian Cruzeiro (1942–1967)"
+    },
+    {
+      "code": "BSD",
+      "name_ko": "바하마 달러",
+      "name_en": "Bahamian Dollar"
+    },
+    {
+      "code": "BTN",
+      "name_ko": "부탄 눌투눔",
+      "name_en": "Bhutanese Ngultrum"
+    },
+    {
+      "code": "BUK",
+      "name_ko": "버마 차트",
+      "name_en": "Burmese Kyat"
+    },
+    {
+      "code": "BWP",
+      "name_ko": "보츠와나 폴라",
+      "name_en": "Botswanan Pula"
+    },
+    {
+      "code": "BYB",
+      "name_ko": "벨라루스 신권 루블 (1994–1999)",
+      "name_en": "Belarusian Ruble (1994–1999)"
+    },
+    {
+      "code": "BYN",
+      "name_ko": "벨라루스 루블",
+      "name_en": "Belarusian Ruble"
+    },
+    {
+      "code": "BYR",
+      "name_ko": "벨라루스 루블 (2000–2016)",
+      "name_en": "Belarusian Ruble (2000–2016)"
+    },
+    {
+      "code": "BZD",
+      "name_ko": "벨리즈 달러",
+      "name_en": "Belize Dollar"
+    },
+    {
+      "code": "CAD",
+      "name_ko": "캐나다 달러",
+      "name_en": "Canadian Dollar"
+    },
+    {
+      "code": "CDF",
+      "name_ko": "콩고 프랑 콩골라스",
+      "name_en": "Congolese Franc"
+    },
+    {
+      "code": "CHE",
+      "name_ko": "유로 (WIR)",
+      "name_en": "WIR Euro"
+    },
+    {
+      "code": "CHF",
+      "name_ko": "스위스 프랑",
+      "name_en": "Swiss Franc"
+    },
+    {
+      "code": "CHW",
+      "name_ko": "프랑 (WIR)",
+      "name_en": "WIR Franc"
+    },
+    {
+      "code": "CLE",
+      "name_ko": "칠레 에스쿠도",
+      "name_en": "Chilean Escudo"
+    },
+    {
+      "code": "CLF",
+      "name_ko": "칠레 (UF)",
+      "name_en": "Chilean Unit of Account (UF)"
+    },
+    {
+      "code": "CLP",
+      "name_ko": "칠레 페소",
+      "name_en": "Chilean Peso"
+    },
+    {
+      "code": "CNX",
+      "name_ko": "Chinese People’s Bank Dollar",
+      "name_en": "Chinese People’s Bank Dollar"
+    },
+    {
+      "code": "CNY",
+      "name_ko": "중국 위안화",
+      "name_en": "Chinese Yuan"
+    },
+    {
+      "code": "COP",
+      "name_ko": "콜롬비아 페소",
+      "name_en": "Colombian Peso"
+    },
+    {
+      "code": "COU",
+      "name_ko": "콜롬비아 실가 단위",
+      "name_en": "Colombian Real Value Unit"
+    },
+    {
+      "code": "CRC",
+      "name_ko": "코스타리카 콜론",
+      "name_en": "Costa Rican Colón"
+    },
+    {
+      "code": "CSD",
+      "name_ko": "고 세르비아 디나르",
+      "name_en": "Serbian Dinar (2002–2006)"
+    },
+    {
+      "code": "CSK",
+      "name_ko": "체코슬로바키아 동전 코루나",
+      "name_en": "Czechoslovak Hard Koruna"
+    },
+    {
+      "code": "CUC",
+      "name_ko": "쿠바 태환 페소",
+      "name_en": "Cuban Convertible Peso"
+    },
+    {
+      "code": "CUP",
+      "name_ko": "쿠바 페소",
+      "name_en": "Cuban Peso"
+    },
+    {
+      "code": "CVE",
+      "name_ko": "카보베르데 에스쿠도",
+      "name_en": "Cape Verdean Escudo"
+    },
+    {
+      "code": "CYP",
+      "name_ko": "싸이프러스 파운드",
+      "name_en": "Cypriot Pound"
+    },
+    {
+      "code": "CZK",
+      "name_ko": "체코 공화국 코루나",
+      "name_en": "Czech Koruna"
+    },
+    {
+      "code": "DDM",
+      "name_ko": "동독 오스트마르크",
+      "name_en": "East German Mark"
+    },
+    {
+      "code": "DEM",
+      "name_ko": "독일 마르크",
+      "name_en": "German Mark"
+    },
+    {
+      "code": "DJF",
+      "name_ko": "지부티 프랑",
+      "name_en": "Djiboutian Franc"
+    },
+    {
+      "code": "DKK",
+      "name_ko": "덴마크 크로네",
+      "name_en": "Danish Krone"
+    },
+    {
+      "code": "DOP",
+      "name_ko": "도미니카 페소",
+      "name_en": "Dominican Peso"
+    },
+    {
+      "code": "DZD",
+      "name_ko": "알제리 디나르",
+      "name_en": "Algerian Dinar"
+    },
+    {
+      "code": "ECS",
+      "name_ko": "에쿠아도르 수크레",
+      "name_en": "Ecuadorian Sucre"
+    },
+    {
+      "code": "ECV",
+      "name_ko": "에콰도르 (UVC)",
+      "name_en": "Ecuadorian Unit of Constant Value"
+    },
+    {
+      "code": "EEK",
+      "name_ko": "에스토니아 크룬",
+      "name_en": "Estonian Kroon"
+    },
+    {
+      "code": "EGP",
+      "name_ko": "이집트 파운드",
+      "name_en": "Egyptian Pound"
+    },
+    {
+      "code": "ERN",
+      "name_ko": "에리트리아 나크파",
+      "name_en": "Eritrean Nakfa"
+    },
+    {
+      "code": "ESA",
+      "name_ko": "스페인 페세타(예금)",
+      "name_en": "Spanish Peseta (A account)"
+    },
+    {
+      "code": "ESB",
+      "name_ko": "스페인 페세타(변환 예금)",
+      "name_en": "Spanish Peseta (convertible account)"
+    },
+    {
+      "code": "ESP",
+      "name_ko": "스페인 페세타",
+      "name_en": "Spanish Peseta"
+    },
+    {
+      "code": "ETB",
+      "name_ko": "에티오피아 비르",
+      "name_en": "Ethiopian Birr"
+    },
+    {
+      "code": "EUR",
+      "name_ko": "유로",
+      "name_en": "Euro"
+    },
+    {
+      "code": "FIM",
+      "name_ko": "핀란드 마르카",
+      "name_en": "Finnish Markka"
+    },
+    {
+      "code": "FJD",
+      "name_ko": "피지 달러",
+      "name_en": "Fijian Dollar"
+    },
+    {
+      "code": "FKP",
+      "name_ko": "포클랜드제도 파운드",
+      "name_en": "Falkland Islands Pound"
+    },
+    {
+      "code": "FRF",
+      "name_ko": "프랑스 프랑",
+      "name_en": "French Franc"
+    },
+    {
+      "code": "GBP",
+      "name_ko": "파운드",
+      "name_en": "British Pound"
+    },
+    {
+      "code": "GEK",
+      "name_ko": "그루지야 지폐 라리트",
+      "name_en": "Georgian Kupon Larit"
+    },
+    {
+      "code": "GEL",
+      "name_ko": "조지아 라리",
+      "name_en": "Georgian Lari"
+    },
+    {
+      "code": "GHC",
+      "name_ko": "가나 시디 (1979–2007)",
+      "name_en": "Ghanaian Cedi (1979–2007)"
+    },
+    {
+      "code": "GHS",
+      "name_ko": "가나 시디",
+      "name_en": "Ghanaian Cedi"
+    },
+    {
+      "code": "GIP",
+      "name_ko": "지브롤터 파운드",
+      "name_en": "Gibraltar Pound"
+    },
+    {
+      "code": "GMD",
+      "name_ko": "감비아 달라시",
+      "name_en": "Gambian Dalasi"
+    },
+    {
+      "code": "GNF",
+      "name_ko": "기니 프랑",
+      "name_en": "Guinean Franc"
+    },
+    {
+      "code": "GNS",
+      "name_ko": "기니 시리",
+      "name_en": "Guinean Syli"
+    },
+    {
+      "code": "GQE",
+      "name_ko": "적도 기니 에쿨 (Ekwele)",
+      "name_en": "Equatorial Guinean Ekwele"
+    },
+    {
+      "code": "GRD",
+      "name_ko": "그리스 드라크마",
+      "name_en": "Greek Drachma"
+    },
+    {
+      "code": "GTQ",
+      "name_ko": "과테말라 케트살",
+      "name_en": "Guatemalan Quetzal"
+    },
+    {
+      "code": "GWE",
+      "name_ko": "포르투갈령 기니 에스쿠도",
+      "name_en": "Portuguese Guinea Escudo"
+    },
+    {
+      "code": "GWP",
+      "name_ko": "기네비쏘 페소",
+      "name_en": "Guinea-Bissau Peso"
+    },
+    {
+      "code": "GYD",
+      "name_ko": "가이아나 달러",
+      "name_en": "Guyanaese Dollar"
+    },
+    {
+      "code": "HKD",
+      "name_ko": "홍콩 달러",
+      "name_en": "Hong Kong Dollar"
+    },
+    {
+      "code": "HNL",
+      "name_ko": "온두라스 렘피라",
+      "name_en": "Honduran Lempira"
+    },
+    {
+      "code": "HRD",
+      "name_ko": "크로아티아 디나르",
+      "name_en": "Croatian Dinar"
+    },
+    {
+      "code": "HRK",
+      "name_ko": "크로아티아 쿠나",
+      "name_en": "Croatian Kuna"
+    },
+    {
+      "code": "HTG",
+      "name_ko": "하이티 구르드",
+      "name_en": "Haitian Gourde"
+    },
+    {
+      "code": "HUF",
+      "name_ko": "헝가리 포린트",
+      "name_en": "Hungarian Forint"
+    },
+    {
+      "code": "IDR",
+      "name_ko": "인도네시아 루피아",
+      "name_en": "Indonesian Rupiah"
+    },
+    {
+      "code": "IEP",
+      "name_ko": "아일랜드 파운드",
+      "name_en": "Irish Pound"
+    },
+    {
+      "code": "ILP",
+      "name_ko": "이스라엘 파운드",
+      "name_en": "Israeli Pound"
+    },
+    {
+      "code": "ILR",
+      "name_ko": "Israeli Shekel (1980–1985)",
+      "name_en": "Israeli Shekel (1980–1985)"
+    },
+    {
+      "code": "ILS",
+      "name_ko": "이스라엘 신권 세켈",
+      "name_en": "Israeli New Shekel"
+    },
+    {
+      "code": "INR",
+      "name_ko": "인도 루피",
+      "name_en": "Indian Rupee"
+    },
+    {
+      "code": "IQD",
+      "name_ko": "이라크 디나르",
+      "name_en": "Iraqi Dinar"
+    },
+    {
+      "code": "IRR",
+      "name_ko": "이란 리얄",
+      "name_en": "Iranian Rial"
+    },
+    {
+      "code": "ISJ",
+      "name_ko": "Icelandic Króna (1918–1981)",
+      "name_en": "Icelandic Króna (1918–1981)"
+    },
+    {
+      "code": "ISK",
+      "name_ko": "아이슬란드 크로나",
+      "name_en": "Icelandic Króna"
+    },
+    {
+      "code": "ITL",
+      "name_ko": "이탈리아 리라",
+      "name_en": "Italian Lira"
+    },
+    {
+      "code": "JMD",
+      "name_ko": "자메이카 달러",
+      "name_en": "Jamaican Dollar"
+    },
+    {
+      "code": "JOD",
+      "name_ko": "요르단 디나르",
+      "name_en": "Jordanian Dinar"
+    },
+    {
+      "code": "JPY",
+      "name_ko": "일본 엔화",
+      "name_en": "Japanese Yen"
+    },
+    {
+      "code": "KES",
+      "name_ko": "케냐 실링",
+      "name_en": "Kenyan Shilling"
+    },
+    {
+      "code": "KGS",
+      "name_ko": "키르기스스탄 솜",
+      "name_en": "Kyrgystani Som"
+    },
+    {
+      "code": "KHR",
+      "name_ko": "캄보디아 리얄",
+      "name_en": "Cambodian Riel"
+    },
+    {
+      "code": "KMF",
+      "name_ko": "코모르 프랑",
+      "name_en": "Comorian Franc"
+    },
+    {
+      "code": "KPW",
+      "name_ko": "조선 민주주의 인민 공화국 원",
+      "name_en": "North Korean Won"
+    },
+    {
+      "code": "KRH",
+      "name_ko": "대한민국 환 (1953–1962)",
+      "name_en": "South Korean Hwan (1953–1962)"
+    },
+    {
+      "code": "KRO",
+      "name_ko": "South Korean Won (1945–1953)",
+      "name_en": "South Korean Won (1945–1953)"
+    },
+    {
+      "code": "KRW",
+      "name_ko": "대한민국 원",
+      "name_en": "South Korean Won"
+    },
+    {
+      "code": "KWD",
+      "name_ko": "쿠웨이트 디나르",
+      "name_en": "Kuwaiti Dinar"
+    },
+    {
+      "code": "KYD",
+      "name_ko": "케이맨 제도 달러",
+      "name_en": "Cayman Islands Dollar"
+    },
+    {
+      "code": "KZT",
+      "name_ko": "카자흐스탄 텐게",
+      "name_en": "Kazakhstani Tenge"
+    },
+    {
+      "code": "LAK",
+      "name_ko": "라오스 키프",
+      "name_en": "Laotian Kip"
+    },
+    {
+      "code": "LBP",
+      "name_ko": "레바논 파운드",
+      "name_en": "Lebanese Pound"
+    },
+    {
+      "code": "LKR",
+      "name_ko": "스리랑카 루피",
+      "name_en": "Sri Lankan Rupee"
+    },
+    {
+      "code": "LRD",
+      "name_ko": "라이베리아 달러",
+      "name_en": "Liberian Dollar"
+    },
+    {
+      "code": "LSL",
+      "name_ko": "레소토 로티",
+      "name_en": "Lesotho Loti"
+    },
+    {
+      "code": "LTL",
+      "name_ko": "리투아니아 리타",
+      "name_en": "Lithuanian Litas"
+    },
+    {
+      "code": "LTT",
+      "name_ko": "룩셈부르크 타로나",
+      "name_en": "Lithuanian Talonas"
+    },
+    {
+      "code": "LUC",
+      "name_ko": "룩셈부르크 변환 프랑",
+      "name_en": "Luxembourgian Convertible Franc"
+    },
+    {
+      "code": "LUF",
+      "name_ko": "룩셈부르크 프랑",
+      "name_en": "Luxembourgian Franc"
+    },
+    {
+      "code": "LUL",
+      "name_ko": "룩셈부르크 재정 프랑",
+      "name_en": "Luxembourg Financial Franc"
+    },
+    {
+      "code": "LVL",
+      "name_ko": "라트비아 라트",
+      "name_en": "Latvian Lats"
+    },
+    {
+      "code": "LVR",
+      "name_ko": "라트비아 루블",
+      "name_en": "Latvian Ruble"
+    },
+    {
+      "code": "LYD",
+      "name_ko": "리비아 디나르",
+      "name_en": "Libyan Dinar"
+    },
+    {
+      "code": "MAD",
+      "name_ko": "모로코 디렘",
+      "name_en": "Moroccan Dirham"
+    },
+    {
+      "code": "MAF",
+      "name_ko": "모로코 프랑",
+      "name_en": "Moroccan Franc"
+    },
+    {
+      "code": "MCF",
+      "name_ko": "모나코 프랑",
+      "name_en": "Monegasque Franc"
+    },
+    {
+      "code": "MDC",
+      "name_ko": "몰도바 쿠폰",
+      "name_en": "Moldovan Cupon"
+    },
+    {
+      "code": "MDL",
+      "name_ko": "몰도바 레이",
+      "name_en": "Moldovan Leu"
+    },
+    {
+      "code": "MGA",
+      "name_ko": "마다가스카르 아리아리",
+      "name_en": "Malagasy Ariary"
+    },
+    {
+      "code": "MGF",
+      "name_ko": "마다가스카르 프랑",
+      "name_en": "Malagasy Franc"
+    },
+    {
+      "code": "MKD",
+      "name_ko": "마케도니아 디나르",
+      "name_en": "Macedonian Denar"
+    },
+    {
+      "code": "MKN",
+      "name_ko": "Macedonian Denar (1992–1993)",
+      "name_en": "Macedonian Denar (1992–1993)"
+    },
+    {
+      "code": "MLF",
+      "name_ko": "말리 프랑",
+      "name_en": "Malian Franc"
+    },
+    {
+      "code": "MMK",
+      "name_ko": "미얀마 키얏",
+      "name_en": "Myanmar Kyat"
+    },
+    {
+      "code": "MNT",
+      "name_ko": "몽골 투그릭",
+      "name_en": "Mongolian Tugrik"
+    },
+    {
+      "code": "MOP",
+      "name_ko": "마카오 파타카",
+      "name_en": "Macanese Pataca"
+    },
+    {
+      "code": "MRO",
+      "name_ko": "모리타니 우기야",
+      "name_en": "Mauritanian Ouguiya"
+    },
+    {
+      "code": "MTL",
+      "name_ko": "몰타 리라",
+      "name_en": "Maltese Lira"
+    },
+    {
+      "code": "MTP",
+      "name_ko": "몰타 파운드",
+      "name_en": "Maltese Pound"
+    },
+    {
+      "code": "MUR",
+      "name_ko": "모리셔스 루피",
+      "name_en": "Mauritian Rupee"
+    },
+    {
+      "code": "MVP",
+      "name_ko": "Maldivian Rupee (1947–1981)",
+      "name_en": "Maldivian Rupee (1947–1981)"
+    },
+    {
+      "code": "MVR",
+      "name_ko": "몰디브 제도 루피아",
+      "name_en": "Maldivian Rufiyaa"
+    },
+    {
+      "code": "MWK",
+      "name_ko": "말라위 콰쳐",
+      "name_en": "Malawian Kwacha"
+    },
+    {
+      "code": "MXN",
+      "name_ko": "멕시코 페소",
+      "name_en": "Mexican Peso"
+    },
+    {
+      "code": "MXP",
+      "name_ko": "멕시코 실버 페소 (1861–1992)",
+      "name_en": "Mexican Silver Peso (1861–1992)"
+    },
+    {
+      "code": "MXV",
+      "name_ko": "멕시코 (UDI)",
+      "name_en": "Mexican Investment Unit"
+    },
+    {
+      "code": "MYR",
+      "name_ko": "말레이시아 링깃",
+      "name_en": "Malaysian Ringgit"
+    },
+    {
+      "code": "MZE",
+      "name_ko": "모잠비크 에스쿠도",
+      "name_en": "Mozambican Escudo"
+    },
+    {
+      "code": "MZM",
+      "name_ko": "고 모잠비크 메티칼",
+      "name_en": "Mozambican Metical (1980–2006)"
+    },
+    {
+      "code": "MZN",
+      "name_ko": "모잠비크 메티칼",
+      "name_en": "Mozambican Metical"
+    },
+    {
+      "code": "NAD",
+      "name_ko": "나미비아 달러",
+      "name_en": "Namibian Dollar"
+    },
+    {
+      "code": "NGN",
+      "name_ko": "니제르 나이라",
+      "name_en": "Nigerian Naira"
+    },
+    {
+      "code": "NIC",
+      "name_ko": "니카라과 코르도바",
+      "name_en": "Nicaraguan Córdoba (1988–1991)"
+    },
+    {
+      "code": "NIO",
+      "name_ko": "니카라과 코르도바 오로",
+      "name_en": "Nicaraguan Córdoba"
+    },
+    {
+      "code": "NLG",
+      "name_ko": "네델란드 길더",
+      "name_en": "Dutch Guilder"
+    },
+    {
+      "code": "NOK",
+      "name_ko": "노르웨이 크로네",
+      "name_en": "Norwegian Krone"
+    },
+    {
+      "code": "NPR",
+      "name_ko": "네팔 루피",
+      "name_en": "Nepalese Rupee"
+    },
+    {
+      "code": "NZD",
+      "name_ko": "뉴질랜드 달러",
+      "name_en": "New Zealand Dollar"
+    },
+    {
+      "code": "OMR",
+      "name_ko": "오만 리얄",
+      "name_en": "Omani Rial"
+    },
+    {
+      "code": "PAB",
+      "name_ko": "파나마 발보아",
+      "name_en": "Panamanian Balboa"
+    },
+    {
+      "code": "PEI",
+      "name_ko": "페루 인티",
+      "name_en": "Peruvian Inti"
+    },
+    {
+      "code": "PEN",
+      "name_ko": "페루 솔",
+      "name_en": "Peruvian Sol"
+    },
+    {
+      "code": "PES",
+      "name_ko": "페루 솔 (1863–1965)",
+      "name_en": "Peruvian Sol (1863–1965)"
+    },
+    {
+      "code": "PGK",
+      "name_ko": "파푸아뉴기니 키나",
+      "name_en": "Papua New Guinean Kina"
+    },
+    {
+      "code": "PHP",
+      "name_ko": "필리핀 페소",
+      "name_en": "Philippine Peso"
+    },
+    {
+      "code": "PKR",
+      "name_ko": "파키스탄 루피",
+      "name_en": "Pakistani Rupee"
+    },
+    {
+      "code": "PLN",
+      "name_ko": "폴란드 즐로티",
+      "name_en": "Polish Zloty"
+    },
+    {
+      "code": "PLZ",
+      "name_ko": "폴란드 즐로티 (1950–1995)",
+      "name_en": "Polish Zloty (1950–1995)"
+    },
+    {
+      "code": "PTE",
+      "name_ko": "포르투갈 에스쿠도",
+      "name_en": "Portuguese Escudo"
+    },
+    {
+      "code": "PYG",
+      "name_ko": "파라과이 과라니",
+      "name_en": "Paraguayan Guarani"
+    },
+    {
+      "code": "QAR",
+      "name_ko": "카타르 리얄",
+      "name_en": "Qatari Rial"
+    },
+    {
+      "code": "RHD",
+      "name_ko": "로디지아 달러",
+      "name_en": "Rhodesian Dollar"
+    },
+    {
+      "code": "ROL",
+      "name_ko": "루마니아 레이",
+      "name_en": "Romanian Leu (1952–2006)"
+    },
+    {
+      "code": "RON",
+      "name_ko": "루마니아 레우",
+      "name_en": "Romanian Leu"
+    },
+    {
+      "code": "RSD",
+      "name_ko": "세르비아 디나르",
+      "name_en": "Serbian Dinar"
+    },
+    {
+      "code": "RUB",
+      "name_ko": "러시아 루블",
+      "name_en": "Russian Ruble"
+    },
+    {
+      "code": "RUR",
+      "name_ko": "러시아 루블 (1991–1998)",
+      "name_en": "Russian Ruble (1991–1998)"
+    },
+    {
+      "code": "RWF",
+      "name_ko": "르완다 프랑",
+      "name_en": "Rwandan Franc"
+    },
+    {
+      "code": "SAR",
+      "name_ko": "사우디아라비아 리얄",
+      "name_en": "Saudi Riyal"
+    },
+    {
+      "code": "SBD",
+      "name_ko": "솔로몬 제도 달러",
+      "name_en": "Solomon Islands Dollar"
+    },
+    {
+      "code": "SCR",
+      "name_ko": "세이셸 루피",
+      "name_en": "Seychellois Rupee"
+    },
+    {
+      "code": "SDD",
+      "name_ko": "수단 디나르",
+      "name_en": "Sudanese Dinar (1992–2007)"
+    },
+    {
+      "code": "SDG",
+      "name_ko": "수단 파운드",
+      "name_en": "Sudanese Pound"
+    },
+    {
+      "code": "SDP",
+      "name_ko": "고 수단 파운드",
+      "name_en": "Sudanese Pound (1957–1998)"
+    },
+    {
+      "code": "SEK",
+      "name_ko": "스웨덴 크로나",
+      "name_en": "Swedish Krona"
+    },
+    {
+      "code": "SGD",
+      "name_ko": "싱가폴 달러",
+      "name_en": "Singapore Dollar"
+    },
+    {
+      "code": "SHP",
+      "name_ko": "세인트헬레나 파운드",
+      "name_en": "St. Helena Pound"
+    },
+    {
+      "code": "SIT",
+      "name_ko": "슬로베니아 톨라르",
+      "name_en": "Slovenian Tolar"
+    },
+    {
+      "code": "SKK",
+      "name_ko": "슬로바키아 코루나",
+      "name_en": "Slovak Koruna"
+    },
+    {
+      "code": "SLL",
+      "name_ko": "시에라리온 리온",
+      "name_en": "Sierra Leonean Leone"
+    },
+    {
+      "code": "SOS",
+      "name_ko": "소말리아 실링",
+      "name_en": "Somali Shilling"
+    },
+    {
+      "code": "SRD",
+      "name_ko": "수리남 달러",
+      "name_en": "Surinamese Dollar"
+    },
+    {
+      "code": "SRG",
+      "name_ko": "수리남 길더",
+      "name_en": "Surinamese Guilder"
+    },
+    {
+      "code": "SSP",
+      "name_ko": "남수단 파운드",
+      "name_en": "South Sudanese Pound"
+    },
+    {
+      "code": "STD",
+      "name_ko": "상투메 프린시페 도브라",
+      "name_en": "São Tomé & Príncipe Dobra"
+    },
+    {
+      "code": "SUR",
+      "name_ko": "소련 루블",
+      "name_en": "Soviet Rouble"
+    },
+    {
+      "code": "SVC",
+      "name_ko": "엘살바도르 콜론",
+      "name_en": "Salvadoran Colón"
+    },
+    {
+      "code": "SYP",
+      "name_ko": "시리아 파운드",
+      "name_en": "Syrian Pound"
+    },
+    {
+      "code": "SZL",
+      "name_ko": "스와질란드 릴랑게니",
+      "name_en": "Swazi Lilangeni"
+    },
+    {
+      "code": "THB",
+      "name_ko": "태국 바트",
+      "name_en": "Thai Baht"
+    },
+    {
+      "code": "TJR",
+      "name_ko": "타지키스탄 루블",
+      "name_en": "Tajikistani Ruble"
+    },
+    {
+      "code": "TJS",
+      "name_ko": "타지키스탄 소모니",
+      "name_en": "Tajikistani Somoni"
+    },
+    {
+      "code": "TMM",
+      "name_ko": "투르크메니스탄 마나트 (1993–2009)",
+      "name_en": "Turkmenistani Manat (1993–2009)"
+    },
+    {
+      "code": "TMT",
+      "name_ko": "투르크메니스탄 마나트",
+      "name_en": "Turkmenistani Manat"
+    },
+    {
+      "code": "TND",
+      "name_ko": "튀니지 디나르",
+      "name_en": "Tunisian Dinar"
+    },
+    {
+      "code": "TOP",
+      "name_ko": "통가 파앙가",
+      "name_en": "Tongan Paʻanga"
+    },
+    {
+      "code": "TPE",
+      "name_ko": "티모르 에스쿠도",
+      "name_en": "Timorese Escudo"
+    },
+    {
+      "code": "TRL",
+      "name_ko": "터키 리라",
+      "name_en": "Turkish Lira (1922–2005)"
+    },
+    {
+      "code": "TRY",
+      "name_ko": "신 터키 리라",
+      "name_en": "Turkish Lira"
+    },
+    {
+      "code": "TTD",
+      "name_ko": "트리니다드 토바고 달러",
+      "name_en": "Trinidad & Tobago Dollar"
+    },
+    {
+      "code": "TWD",
+      "name_ko": "신 타이완 달러",
+      "name_en": "New Taiwan Dollar"
+    },
+    {
+      "code": "TZS",
+      "name_ko": "탄자니아 실링",
+      "name_en": "Tanzanian Shilling"
+    },
+    {
+      "code": "UAH",
+      "name_ko": "우크라이나 그리브나",
+      "name_en": "Ukrainian Hryvnia"
+    },
+    {
+      "code": "UAK",
+      "name_ko": "우크라이나 카보바네츠",
+      "name_en": "Ukrainian Karbovanets"
+    },
+    {
+      "code": "UGS",
+      "name_ko": "우간다 실링 (1966–1987)",
+      "name_en": "Ugandan Shilling (1966–1987)"
+    },
+    {
+      "code": "UGX",
+      "name_ko": "우간다 실링",
+      "name_en": "Ugandan Shilling"
+    },
+    {
+      "code": "USD",
+      "name_ko": "미국 달러",
+      "name_en": "US Dollar"
+    },
+    {
+      "code": "USN",
+      "name_ko": "미국 달러(다음날)",
+      "name_en": "US Dollar (Next day)"
+    },
+    {
+      "code": "USS",
+      "name_ko": "미국 달러(당일)",
+      "name_en": "US Dollar (Same day)"
+    },
+    {
+      "code": "UYI",
+      "name_ko": "우루과이 페소 (UI)",
+      "name_en": "Uruguayan Peso (Indexed Units)"
+    },
+    {
+      "code": "UYP",
+      "name_ko": "우루과이 페소 (1975–1993)",
+      "name_en": "Uruguayan Peso (1975–1993)"
+    },
+    {
+      "code": "UYU",
+      "name_ko": "우루과이 페소 우루과요",
+      "name_en": "Uruguayan Peso"
+    },
+    {
+      "code": "UZS",
+      "name_ko": "우즈베키스탄 숨",
+      "name_en": "Uzbekistani Som"
+    },
+    {
+      "code": "VEB",
+      "name_ko": "베네주엘라 볼리바르 (1871–2008)",
+      "name_en": "Venezuelan Bolívar (1871–2008)"
+    },
+    {
+      "code": "VEF",
+      "name_ko": "베네수엘라 볼리바르",
+      "name_en": "Venezuelan Bolívar"
+    },
+    {
+      "code": "VND",
+      "name_ko": "베트남 동",
+      "name_en": "Vietnamese Dong"
+    },
+    {
+      "code": "VNN",
+      "name_ko": "베트남 동 (1978–1985)",
+      "name_en": "Vietnamese Dong (1978–1985)"
+    },
+    {
+      "code": "VUV",
+      "name_ko": "바누아투 바투",
+      "name_en": "Vanuatu Vatu"
+    },
+    {
+      "code": "WST",
+      "name_ko": "서 사모아 탈라",
+      "name_en": "Samoan Tala"
+    },
+    {
+      "code": "XAF",
+      "name_ko": "중앙아프리카 CFA 프랑",
+      "name_en": "Central African CFA Franc"
+    },
+    {
+      "code": "XCD",
+      "name_ko": "동카리브 달러",
+      "name_en": "East Caribbean Dollar"
+    },
+    {
+      "code": "XEU",
+      "name_ko": "유럽 환율 단위",
+      "name_en": "European Currency Unit"
+    },
+    {
+      "code": "XFO",
+      "name_ko": "프랑스 프랑 (Gold)",
+      "name_en": "French Gold Franc"
+    },
+    {
+      "code": "XFU",
+      "name_ko": "프랑스 프랑 (UIC)",
+      "name_en": "French UIC-Franc"
+    },
+    {
+      "code": "XOF",
+      "name_ko": "서아프리카 CFA 프랑",
+      "name_en": "West African CFA Franc"
+    },
+    {
+      "code": "XPF",
+      "name_ko": "CFP 프랑",
+      "name_en": "CFP Franc"
+    },
+    {
+      "code": "XRE",
+      "name_ko": "RINET 기금",
+      "name_en": "RINET Funds"
+    },
+    {
+      "code": "YDD",
+      "name_ko": "예멘 디나르",
+      "name_en": "Yemeni Dinar"
+    },
+    {
+      "code": "YER",
+      "name_ko": "예멘 리알",
+      "name_en": "Yemeni Rial"
+    },
+    {
+      "code": "YUD",
+      "name_ko": "유고슬라비아 동전 디나르",
+      "name_en": "Yugoslavian Hard Dinar (1966–1990)"
+    },
+    {
+      "code": "YUM",
+      "name_ko": "유고슬라비아 노비 디나르",
+      "name_en": "Yugoslavian New Dinar (1994–2002)"
+    },
+    {
+      "code": "YUN",
+      "name_ko": "유고슬라비아 전환 디나르",
+      "name_en": "Yugoslavian Convertible Dinar (1990–1992)"
+    },
+    {
+      "code": "YUR",
+      "name_ko": "Yugoslavian Reformed Dinar (1992–1993)",
+      "name_en": "Yugoslavian Reformed Dinar (1992–1993)"
+    },
+    {
+      "code": "ZAL",
+      "name_ko": "남아프리카 랜드 (금융)",
+      "name_en": "South African Rand (financial)"
+    },
+    {
+      "code": "ZAR",
+      "name_ko": "남아프리카 랜드",
+      "name_en": "South African Rand"
+    },
+    {
+      "code": "ZMK",
+      "name_ko": "쟘비아 콰쳐 (1968–2012)",
+      "name_en": "Zambian Kwacha (1968–2012)"
+    },
+    {
+      "code": "ZMW",
+      "name_ko": "잠비아 콰쳐",
+      "name_en": "Zambian Kwacha"
+    },
+    {
+      "code": "ZRN",
+      "name_ko": "자이르 신권 자이르",
+      "name_en": "Zairean New Zaire (1993–1998)"
+    },
+    {
+      "code": "ZRZ",
+      "name_ko": "자이르 자이르",
+      "name_en": "Zairean Zaire (1971–1993)"
+    },
+    {
+      "code": "ZWD",
+      "name_ko": "짐바브웨 달러",
+      "name_en": "Zimbabwean Dollar (1980–2008)"
+    },
+    {
+      "code": "ZWL",
+      "name_ko": "짐바브웨 달러 (2009)",
+      "name_en": "Zimbabwean Dollar (2009)"
+    },
+    {
+      "code": "ZWR",
+      "name_ko": "짐바브웨 달러 (2008)",
+      "name_en": "Zimbabwean Dollar (2008)"
+    }
+  ],
+  "meta": {
+    "title": "세계의 통화 (285) - 무료 다운로드",
+    "description": "세계의 통화 목록 — ISO 4217 통화 코드 285개, 한국어 명칭(유니코드 CLDR) 및 영어 명칭 포함. 예: 미국 달러(USD), 유로(EUR), 대한민국 원(KRW), 일본 엔화(JPY), 중국 위안화(CNY), 파운드(GBP), 사우디아라비아 리얄(SAR). 코드순 정렬. 기존 세계 참조 자료(ko-gukga 국가 목록)를 보완하는 KO 버킷 최초의 통화 목록. 출처: umpirsky/currency-list (CLDR). 포함 285 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "세계의 통화 (285) | ListBase",
+    "seo_description": "다운로드 세계의 통화 (285) — 285 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 285 건 / 3 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

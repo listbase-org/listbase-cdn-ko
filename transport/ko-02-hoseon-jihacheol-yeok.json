@@ -1,0 +1,632 @@
+{
+  "id": "ko-02-hoseon-jihacheol-yeok",
+  "name": "02호선 지하철 역 (Line 2 subway stations)",
+  "title": "02호선 지하철 역 (Line 2 subway stations)",
+  "description": "02호선(Line 2)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 51개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 2 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "신도림",
+      "name_romanized": "",
+      "lines": "01호선, 02호선",
+      "lines_en": "Line 1, Line 2",
+      "lines_count": 2,
+      "latitude": 37.508725,
+      "longitude": 126.891295,
+      "around_stations": "구로, 영등포, 도림천, 문래, 대림",
+      "around_count": 5
+    },
+    {
+      "name": "신설동",
+      "name_romanized": "",
+      "lines": "01호선, 02호선, 우이신설경전철",
+      "lines_en": "Line 1, Line 2, Ui-Sinseol LRT",
+      "lines_count": 3,
+      "latitude": 37.575297,
+      "longitude": 127.025087,
+      "around_stations": "동묘앞, 제기동, 용두, 보문",
+      "around_count": 4
+    },
+    {
+      "name": "시청",
+      "name_romanized": "sicheong",
+      "lines": "01호선, 02호선",
+      "lines_en": "Line 1, Line 2",
+      "lines_count": 2,
+      "latitude": 37.564718,
+      "longitude": 126.977108,
+      "around_stations": "서울, 종각, 충정로, 을지로입구",
+      "around_count": 4
+    },
+    {
+      "name": "강변",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.535095,
+      "longitude": 127.094681,
+      "around_stations": "구의, 잠실나루",
+      "around_count": 2
+    },
+    {
+      "name": "잠실나루",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.520733,
+      "longitude": 127.10379,
+      "around_stations": "강변, 잠실",
+      "around_count": 2
+    },
+    {
+      "name": "잠실",
+      "name_romanized": "jamsil",
+      "lines": "02호선, 08호선",
+      "lines_en": "Line 2, Line 8",
+      "lines_count": 2,
+      "latitude": 37.51395,
+      "longitude": 127.102234,
+      "around_stations": "석촌, 몽촌토성, 잠실나루, 잠실새내",
+      "around_count": 4
+    },
+    {
+      "name": "잠실새내",
+      "name_romanized": "jamsil-saenae",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.511687,
+      "longitude": 127.086162,
+      "around_stations": "잠실, 종합운동장",
+      "around_count": 2
+    },
+    {
+      "name": "종합운동장",
+      "name_romanized": "",
+      "lines": "02호선, 09호선",
+      "lines_en": "Line 2, Line 9",
+      "lines_count": 2,
+      "latitude": 37.510997,
+      "longitude": 127.073642,
+      "around_stations": "봉은사, 삼전, 삼성, 잠실새내",
+      "around_count": 4
+    },
+    {
+      "name": "삼성",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.508844,
+      "longitude": 127.06316,
+      "around_stations": "종합운동장, 선릉",
+      "around_count": 2
+    },
+    {
+      "name": "선릉",
+      "name_romanized": "",
+      "lines": "02호선, 수인분당선",
+      "lines_en": "Line 2, Suin-Bundang Line",
+      "lines_count": 2,
+      "latitude": 37.504503,
+      "longitude": 127.049008,
+      "around_stations": "한티, 선정릉, 역삼, 삼성",
+      "around_count": 4
+    },
+    {
+      "name": "역삼",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.500622,
+      "longitude": 127.036456,
+      "around_stations": "선릉, 강남",
+      "around_count": 2
+    },
+    {
+      "name": "강남",
+      "name_romanized": "gangnam",
+      "lines": "02호선, 신분당선",
+      "lines_en": "Line 2, Sinbundang Line",
+      "lines_count": 2,
+      "latitude": 37.497175,
+      "longitude": 127.027926,
+      "around_stations": "양재, 교대, 역삼",
+      "around_count": 3
+    },
+    {
+      "name": "교대",
+      "name_romanized": "",
+      "lines": "02호선, 03호선",
+      "lines_en": "Line 2, Line 3",
+      "lines_count": 2,
+      "latitude": 37.493415,
+      "longitude": 127.01408,
+      "around_stations": "고속터미널, 남부터미널, 서초, 강남",
+      "around_count": 4
+    },
+    {
+      "name": "방배",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.481426,
+      "longitude": 126.997596,
+      "around_stations": "서초, 사당",
+      "around_count": 2
+    },
+    {
+      "name": "사당",
+      "name_romanized": "",
+      "lines": "02호선, 04호선",
+      "lines_en": "Line 2, Line 4",
+      "lines_count": 2,
+      "latitude": 37.47653,
+      "longitude": 126.981685,
+      "around_stations": "남태령, 이수(총신대), 낙성대, 방배",
+      "around_count": 4
+    },
+    {
+      "name": "낙성대",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.47693,
+      "longitude": 126.963693,
+      "around_stations": "사당, 서울대입구",
+      "around_count": 2
+    },
+    {
+      "name": "서울대입구",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.481247,
+      "longitude": 126.952739,
+      "around_stations": "낙성대, 봉천",
+      "around_count": 2
+    },
+    {
+      "name": "봉천",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.482362,
+      "longitude": 126.941892,
+      "around_stations": "서울대입구, 신림",
+      "around_count": 2
+    },
+    {
+      "name": "신림",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.484201,
+      "longitude": 126.929715,
+      "around_stations": "봉천, 신대방",
+      "around_count": 2
+    },
+    {
+      "name": "신대방",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.487462,
+      "longitude": 126.913149,
+      "around_stations": "신림, 구로디지털단지",
+      "around_count": 2
+    },
+    {
+      "name": "구로디지털단지",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.485266,
+      "longitude": 126.901401,
+      "around_stations": "신대방, 대림",
+      "around_count": 2
+    },
+    {
+      "name": "문래",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.517933,
+      "longitude": 126.89476,
+      "around_stations": "신도림, 영등포구청",
+      "around_count": 2
+    },
+    {
+      "name": "영등포구청",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.52497,
+      "longitude": 126.895951,
+      "around_stations": "양평, 영등포시장, 당산, 문래",
+      "around_count": 4
+    },
+    {
+      "name": "용답",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.561904,
+      "longitude": 127.050899,
+      "around_stations": "성수, 신답",
+      "around_count": 2
+    },
+    {
+      "name": "신정네거리",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.520074,
+      "longitude": 126.852912,
+      "around_stations": "까치산, 양천구청",
+      "around_count": 2
+    },
+    {
+      "name": "을지로입구",
+      "name_romanized": "euljiro-ipgu",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.566014,
+      "longitude": 126.982618,
+      "around_stations": "시청, 을지로3가",
+      "around_count": 2
+    },
+    {
+      "name": "을지로3가",
+      "name_romanized": "",
+      "lines": "02호선, 03호선",
+      "lines_en": "Line 2, Line 3",
+      "lines_count": 2,
+      "latitude": 37.566295,
+      "longitude": 126.99191,
+      "around_stations": "종로3가, 충무로, 을지로입구, 을지로4가",
+      "around_count": 4
+    },
+    {
+      "name": "을지로4가",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.566941,
+      "longitude": 126.998079,
+      "around_stations": "종로3가, 동대문역사문화공원, 을지로3가",
+      "around_count": 3
+    },
+    {
+      "name": "동대문역사문화공원",
+      "name_romanized": "",
+      "lines": "02호선, 04호선, 05호선",
+      "lines_en": "Line 2, Line 4, Line 5",
+      "lines_count": 3,
+      "latitude": 37.565138,
+      "longitude": 127.007896,
+      "around_stations": "을지로4가, 청구, 동대문, 충무로, 신당",
+      "around_count": 5
+    },
+    {
+      "name": "신당",
+      "name_romanized": "",
+      "lines": "02호선, 06호선",
+      "lines_en": "Line 2, Line 6",
+      "lines_count": 2,
+      "latitude": 37.565972,
+      "longitude": 127.01782,
+      "around_stations": "청구, 동묘앞, 동대문역사문화공원, 상왕십리",
+      "around_count": 4
+    },
+    {
+      "name": "한양대",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.555273,
+      "longitude": 127.043655,
+      "around_stations": "왕십리, 뚝섬",
+      "around_count": 2
+    },
+    {
+      "name": "뚝섬",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.547184,
+      "longitude": 127.047367,
+      "around_stations": "한양대, 성수",
+      "around_count": 2
+    },
+    {
+      "name": "성수",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.544581,
+      "longitude": 127.055961,
+      "around_stations": "뚝섬, 건대입구, 용답",
+      "around_count": 3
+    },
+    {
+      "name": "건대입구",
+      "name_romanized": "",
+      "lines": "02호선, 07호선",
+      "lines_en": "Line 2, Line 7",
+      "lines_count": 2,
+      "latitude": 37.540693,
+      "longitude": 127.07023,
+      "around_stations": "뚝섬유원지, 어린이대공원, 성수, 구의",
+      "around_count": 4
+    },
+    {
+      "name": "구의",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.537077,
+      "longitude": 127.085916,
+      "around_stations": "건대입구, 강변",
+      "around_count": 2
+    },
+    {
+      "name": "당산",
+      "name_romanized": "",
+      "lines": "02호선, 09호선",
+      "lines_en": "Line 2, Line 9",
+      "lines_count": 2,
+      "latitude": 37.53438,
+      "longitude": 126.902281,
+      "around_stations": "선유도, 국회의사당, 합정, 영등포구청",
+      "around_count": 4
+    },
+    {
+      "name": "합정",
+      "name_romanized": "",
+      "lines": "02호선, 06호선",
+      "lines_en": "Line 2, Line 6",
+      "lines_count": 2,
+      "latitude": 37.549463,
+      "longitude": 126.913739,
+      "around_stations": "망원, 상수, 홍대입구, 당산",
+      "around_count": 4
+    },
+    {
+      "name": "홍대입구",
+      "name_romanized": "hongdae-ipgu",
+      "lines": "02호선, 경의선, 공항철도",
+      "lines_en": "Line 2, Gyeongui-Jungang Line, AREX (Airport Railroad Express)",
+      "lines_count": 3,
+      "latitude": 37.557192,
+      "longitude": 126.925381,
+      "around_stations": "가좌, 디지털미디어시티, 신촌, 합정, 서강대, 공덕",
+      "around_count": 6
+    },
+    {
+      "name": "신촌",
+      "name_romanized": "sinchon",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.555134,
+      "longitude": 126.936893,
+      "around_stations": "홍대입구, 이대",
+      "around_count": 2
+    },
+    {
+      "name": "이대",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.556733,
+      "longitude": 126.946013,
+      "around_stations": "신촌, 아현",
+      "around_count": 2
+    },
+    {
+      "name": "아현",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.557345,
+      "longitude": 126.956141,
+      "around_stations": "이대, 충정로",
+      "around_count": 2
+    },
+    {
+      "name": "충정로",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.559973,
+      "longitude": 126.963672,
+      "around_stations": "애오개, 서대문, 아현, 시청",
+      "around_count": 4
+    },
+    {
+      "name": "신답",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.57004,
+      "longitude": 127.046481,
+      "around_stations": "용답, 용두",
+      "around_count": 2
+    },
+    {
+      "name": "까치산",
+      "name_romanized": "",
+      "lines": "02호선, 05호선",
+      "lines_en": "Line 2, Line 5",
+      "lines_count": 2,
+      "latitude": 37.531768,
+      "longitude": 126.846683,
+      "around_stations": "화곡, 신정, 신정네거리",
+      "around_count": 3
+    },
+    {
+      "name": "서초",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.491897,
+      "longitude": 127.007917,
+      "around_stations": "교대, 방배",
+      "around_count": 2
+    },
+    {
+      "name": "왕십리",
+      "name_romanized": "",
+      "lines": "02호선, 05호선, 경의선, 수인분당선",
+      "lines_en": "Line 2, Line 5, Gyeongui-Jungang Line, Suin-Bundang Line",
+      "lines_count": 4,
+      "latitude": 37.561533,
+      "longitude": 127.037732,
+      "around_stations": "서울숲, 청량리, 상왕십리, 한양대, 행당, 마장, 응봉",
+      "around_count": 7
+    },
+    {
+      "name": "상왕십리",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.564354,
+      "longitude": 127.029354,
+      "around_stations": "신당, 왕십리",
+      "around_count": 2
+    },
+    {
+      "name": "대림",
+      "name_romanized": "",
+      "lines": "02호선, 07호선",
+      "lines_en": "Line 2, Line 7",
+      "lines_count": 2,
+      "latitude": 37.49297,
+      "longitude": 126.895801,
+      "around_stations": "구로디지털단지, 신도림, 남구로, 신풍",
+      "around_count": 4
+    },
+    {
+      "name": "도림천",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.514287,
+      "longitude": 126.882768,
+      "around_stations": "양천구청, 신도림",
+      "around_count": 2
+    },
+    {
+      "name": "양천구청",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.512398,
+      "longitude": 126.865819,
+      "around_stations": "신정네거리, 도림천",
+      "around_count": 2
+    },
+    {
+      "name": "용두",
+      "name_romanized": "",
+      "lines": "02호선",
+      "lines_en": "Line 2",
+      "lines_count": 1,
+      "latitude": 37.574028,
+      "longitude": 127.038091,
+      "around_stations": "신답, 신설동",
+      "around_count": 2
+    }
+  ],
+  "meta": {
+    "title": "02호선 지하철 역 (Line 2 subway stations) - 무료 다운로드",
+    "description": "02호선(Line 2)의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 51개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region Line 2 stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 51 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "02호선 지하철 역 (Line 2 subway stations) | ListBase",
+    "seo_description": "다운로드 02호선 지하철 역 (Line 2 subway stations) — 51 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 51 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

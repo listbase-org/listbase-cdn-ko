@@ -1,0 +1,516 @@
+{
+  "id": "ko-saem",
+  "name": "대한민국의 샘·약수터 (Springs of South Korea)",
+  "title": "대한민국의 샘·약수터 (Springs of South Korea)",
+  "description": "대한민국에 위치한 샘·약수터 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27321815",
+      "name_ko": "가산약수터",
+      "name_en": "Kasan-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.560278,
+      "longitude": 129.337222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27341015",
+      "name_ko": "갈천약수",
+      "name_en": "Galcheonyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.907222,
+      "longitude": 128.505833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27313046",
+      "name_ko": "갈천약수터",
+      "name_en": "Kalch'on-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.893611,
+      "longitude": 128.495833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27311814",
+      "name_ko": "개인약수",
+      "name_en": "Gaeinyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.881389,
+      "longitude": 128.37,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12583425",
+      "name_ko": "검룡소",
+      "name_en": "Geomryongso",
+      "located_in_at": "",
+      "latitude": 37.2275,
+      "longitude": 128.918611,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EA%B2%80%EB%A3%A1%EC%86%8C"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27319011",
+      "name_ko": "남산약수터",
+      "name_en": "Namsan-yaksut'o",
+      "located_in_at": "충청남도",
+      "latitude": 36.101111,
+      "longitude": 127.503333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27324906",
+      "name_ko": "남산약수터",
+      "name_en": "Namsan-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 35.628333,
+      "longitude": 128.714444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27320621",
+      "name_ko": "남장사약수터",
+      "name_en": "Namjangsa-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.427778,
+      "longitude": 128.1075,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27312908",
+      "name_ko": "냉천약수터",
+      "name_en": "Naengcheon-yaksuteo",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.731389,
+      "longitude": 127.2975,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27314302",
+      "name_ko": "달기약수터",
+      "name_en": "Talgi-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.438333,
+      "longitude": 129.083611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27341349",
+      "name_ko": "대광골약수",
+      "name_en": "Daegwanggolyaksu",
+      "located_in_at": "경기도",
+      "latitude": 38.189444,
+      "longitude": 127.123889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q27322007",
+      "name_ko": "대전리약수터",
+      "name_en": "Taejolli-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.483611,
+      "longitude": 128.030278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27341445",
+      "name_ko": "도솔약수",
+      "name_en": "Dosolyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.242778,
+      "longitude": 128.086389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27323864",
+      "name_ko": "마당구들약수터",
+      "name_en": "Madanggudur-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.586667,
+      "longitude": 129.252222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q27341256",
+      "name_ko": "매월약수",
+      "name_en": "Maewolyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.193333,
+      "longitude": 127.473611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q27307249",
+      "name_ko": "무럭골약수터",
+      "name_en": "Mureokgoryaksuteo",
+      "located_in_at": "경기도",
+      "latitude": 37.917778,
+      "longitude": 127.188056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q27323877",
+      "name_ko": "방가골약수",
+      "name_en": "Panggagor-yaksu",
+      "located_in_at": "경상북도",
+      "latitude": 36.57,
+      "longitude": 129.255556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q27311822",
+      "name_ko": "방동약수",
+      "name_en": "Bangdongyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.944167,
+      "longitude": 128.396389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q27312928",
+      "name_ko": "방아다리약수터",
+      "name_en": "Pangadari-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.692778,
+      "longitude": 128.503333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27340992",
+      "name_ko": "부연동약수",
+      "name_en": "Buyeondongyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.879444,
+      "longitude": 128.640556,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q27341009",
+      "name_ko": "불바라기약수",
+      "name_en": "Bulbaragiyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.891944,
+      "longitude": 128.554444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q27306594",
+      "name_ko": "삼내약수터",
+      "name_en": "Samnae-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.289167,
+      "longitude": 128.759444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q27313044",
+      "name_ko": "삼봉약수",
+      "name_en": "Sambongyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.865833,
+      "longitude": 128.464444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q27306527",
+      "name_ko": "선령약수터",
+      "name_en": "Sollyong-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.151111,
+      "longitude": 128.673333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27308481",
+      "name_ko": "성산약수터",
+      "name_en": "Songsan-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.953056,
+      "longitude": 127.698333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q27312983",
+      "name_ko": "송천약수터",
+      "name_en": "Songch'on-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.81,
+      "longitude": 128.629444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q27322201",
+      "name_ko": "약목약수터",
+      "name_en": "Yangmog-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.029722,
+      "longitude": 128.338889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q24000648",
+      "name_ko": "양양 오색리 오색약수",
+      "name_en": "Yangyang Osaek-ri Osaek medicinal spring",
+      "located_in_at": "양양군",
+      "latitude": 38.077778,
+      "longitude": 128.444722,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%96%91%EC%96%91_%EC%98%A4%EC%83%89%EB%A6%AC_%EC%98%A4%EC%83%89%EC%95%BD%EC%88%98"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q27300470",
+      "name_ko": "양통약수터",
+      "name_en": "Yangt'ong-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.014722,
+      "longitude": 127.750833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q27323908",
+      "name_ko": "영양약수터",
+      "name_en": "Yongyang-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.604444,
+      "longitude": 129.111944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27290297",
+      "name_ko": "오색약수",
+      "name_en": "Osaegyaksu",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.08639,
+      "longitude": 128.43194,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q27304119",
+      "name_ko": "오전약수",
+      "name_en": "Ojeonyaksu",
+      "located_in_at": "경상북도",
+      "latitude": 37.013056,
+      "longitude": 128.747778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q27320631",
+      "name_ko": "원촌정약수터",
+      "name_en": "Wonch'onjong-yaksut'o",
+      "located_in_at": "충청남도",
+      "latitude": 36.4825,
+      "longitude": 127.34,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q27321857",
+      "name_ko": "위정약수터",
+      "name_en": "Wijong-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.549167,
+      "longitude": 129.326111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q27307380",
+      "name_ko": "장군약수터",
+      "name_en": "Changgun-yaksut'o",
+      "located_in_at": "경기도",
+      "latitude": 37.553056,
+      "longitude": 127.538889,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q27302464",
+      "name_ko": "장충약수터",
+      "name_en": "Changch'ung-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.288333,
+      "longitude": 128.326111,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q27310870",
+      "name_ko": "청계약수",
+      "name_en": "Cheonggyeyaksu",
+      "located_in_at": "경기도",
+      "latitude": 37.927778,
+      "longitude": 127.339722,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q27321850",
+      "name_ko": "초수곡약수터",
+      "name_en": "Ch'osugog-yaksut'o",
+      "located_in_at": "경상북도",
+      "latitude": 36.514167,
+      "longitude": 129.336944,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q16171649",
+      "name_ko": "초정약수",
+      "name_en": "Chojeongyaksu",
+      "located_in_at": "",
+      "latitude": 36.4849,
+      "longitude": 127.3371,
+      "wikipedia_ko": "https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27300599",
+      "name_ko": "추곡약수터",
+      "name_en": "Chugogyaksuteo",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.038333,
+      "longitude": 127.891389,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q27321943",
+      "name_ko": "치라골약수터",
+      "name_en": "Ch'iragor-yaksut'o",
+      "located_in_at": "경상남도",
+      "latitude": 35.568889,
+      "longitude": 127.833611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q27324915",
+      "name_ko": "칠엽황물",
+      "name_en": "Ch'iryophwangmul",
+      "located_in_at": "경상북도",
+      "latitude": 35.699722,
+      "longitude": 128.622222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q27307381",
+      "name_ko": "형제약수터",
+      "name_en": "Hyeongjeyaksuteo",
+      "located_in_at": "경기도",
+      "latitude": 37.532778,
+      "longitude": 127.527778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q27303319",
+      "name_ko": "화암약수터",
+      "name_en": "Hwaam-yaksut'o",
+      "located_in_at": "강원특별자치도",
+      "latitude": 37.327222,
+      "longitude": 128.782778,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q27300592",
+      "name_ko": "후곡약수터",
+      "name_en": "Hugongyaksuteo",
+      "located_in_at": "강원특별자치도",
+      "latitude": 38.167778,
+      "longitude": 128.059444,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 샘·약수터 (Springs of South Korea) - 무료 다운로드",
+    "description": "대한민국에 위치한 샘·약수터 목록. 한국어 이름 가나다순. 출처는 Wikidata 공개 SPARQL 엔드포인트(query.wikidata.org). 각 항목에 한국어 이름(rdfs:label@ko), 영어 라벨, 소재 행정구역(P131), 좌표(WGS84 P625), 한국어 위키백과 링크 등을 제공한다. 한글 라벨이 없는 항목은 원어 보존 규칙에 따라 제외했다. 라이선스 CC0-1.0. 포함 45 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "대한민국의 샘·약수터 (Springs of South Korea) | ListBase",
+    "seo_description": "다운로드 대한민국의 샘·약수터 (Springs of South Korea) — 45 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 45 건 / 8 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

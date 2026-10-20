@@ -1,0 +1,192 @@
+{
+  "id": "ko-jeollabuk-gyegok",
+  "name": "계곡 — 전북특별자치도",
+  "title": "계곡 — 전북특별자치도",
+  "description": "전북특별자치도에 위치한 계곡(골) 11건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "mountain_at",
+      "label": "Mountain At",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ko",
+      "label": "Wikipedia Ko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27314197",
+      "name_ko": "구천계곡",
+      "name_en": "구천계곡",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.874722,
+      "longitude": 127.775278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27323694",
+      "name_ko": "머골",
+      "name_en": "머골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.556389,
+      "longitude": 127.570833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27314191",
+      "name_ko": "모도막골",
+      "name_en": "모도막골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.866944,
+      "longitude": 127.815278,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27323657",
+      "name_ko": "문바위골",
+      "name_en": "문바위골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.965278,
+      "longitude": 127.573056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27314204",
+      "name_ko": "백악골",
+      "name_en": "백악골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.982222,
+      "longitude": 127.882222,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27314481",
+      "name_ko": "북당골",
+      "name_en": "북당골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.530556,
+      "longitude": 127.043333,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27312854",
+      "name_ko": "삼밭골",
+      "name_en": "삼밭골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.552778,
+      "longitude": 127.458611,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27314423",
+      "name_ko": "시랑골",
+      "name_en": "시랑골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.949444,
+      "longitude": 127.239444,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27323645",
+      "name_ko": "심배나무골",
+      "name_en": "심배나무골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.945,
+      "longitude": 127.603056,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27323711",
+      "name_ko": "절골",
+      "name_en": "절골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.600833,
+      "longitude": 127.525833,
+      "wikipedia_ko": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q27314484",
+      "name_ko": "해돋이골",
+      "name_en": "해돋이골",
+      "mountain_at": "",
+      "located_in_at": "전북특별자치도",
+      "latitude": 35.549444,
+      "longitude": 127.241944,
+      "wikipedia_ko": ""
+    }
+  ],
+  "meta": {
+    "title": "계곡 — 전북특별자치도 - 무료 다운로드",
+    "description": "전북특별자치도에 위치한 계곡(골) 11건. 이미 정제된 ko-gyegok(대한민국 계곡, Wikidata CC0) 부모 데이터셋을 원본 Wikidata P131(소재 행정구역) 값 기준으로 무파생 분할한 것으로, 각 레코드는 부모 행을 그대로 보존한다(순번 id만 재부여). 한국어/영어 명칭, 소속 산, WGS84 좌표, 한국어 위키백과 링크 포함. 포함 11 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "계곡 — 전북특별자치도 | ListBase",
+    "seo_description": "다운로드 계곡 — 전북특별자치도 — 11 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 11 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

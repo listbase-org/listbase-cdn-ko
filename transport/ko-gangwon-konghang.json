@@ -1,0 +1,185 @@
+{
+  "id": "ko-gangwon-konghang",
+  "name": "Gangwon-do 공항 (Airports in Gangwon-do, South Korea)",
+  "title": "Gangwon-do 공항 (Airports in Gangwon-do, South Korea)",
+  "description": "Airports located in the Gangwon-do administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "RKNN",
+      "iata": "KAG",
+      "name": "Gangneung Airport",
+      "city": "",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 35,
+      "latitude": 37.7536,
+      "longitude": 128.944,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKNC",
+      "iata": "QUN",
+      "name": "A-306 Airport",
+      "city": "Chun Chon City",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 245,
+      "latitude": 37.8838,
+      "longitude": 127.718,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKNW",
+      "iata": "WJU",
+      "name": "Wonju Airport",
+      "city": "Wonju",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 329,
+      "latitude": 37.4381,
+      "longitude": 127.96,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKNY",
+      "iata": "YNY",
+      "name": "Yangyang International Airport",
+      "city": "Sokcho / Gangneung",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 241,
+      "latitude": 38.0613,
+      "longitude": 128.66901,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK16",
+      "iata": "",
+      "name": "G 312 Airport",
+      "city": "",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 855,
+      "latitude": 38.0731,
+      "longitude": 127.523,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK39",
+      "iata": "",
+      "name": "G 239 Airport",
+      "city": "",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 630,
+      "latitude": 38.1992,
+      "longitude": 127.222,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RK44",
+      "iata": "",
+      "name": "G 412 Airport",
+      "city": "",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 950,
+      "latitude": 38.2417,
+      "longitude": 128.20799,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    },
+    {
+      "icao": "RKND",
+      "iata": "",
+      "name": "Sokcho Airport",
+      "city": "",
+      "subdivision": "Gangwon-do",
+      "country": "KR",
+      "elevation_ft": 92,
+      "latitude": 38.1426,
+      "longitude": 128.599,
+      "timezone": "Asia/Seoul",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Gangwon-do 공항 (Airports in Gangwon-do, South Korea) - 무료 다운로드",
+    "description": "Airports located in the Gangwon-do administrative subdivision of South Korea, extracted from the mborsetti/airportsdata global airports register. Includes ICAO, IATA (where assigned), elevation, lat/lon, and IANA timezone. 포함 8 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "Gangwon-do 공항 (Airports in Gangwon-do, South Korea) | ListBase",
+    "seo_description": "다운로드 Gangwon-do 공항 (Airports in Gangwon-do, South Korea) — 8 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 8 건 / 11 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

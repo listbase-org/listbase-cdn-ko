@@ -1,0 +1,236 @@
+{
+  "id": "ko-uijeongbu-gyeongjeoncheol-jihacheol-yeok",
+  "name": "의정부경전철 지하철 역 (U Line (Uijeongbu LRT) subway stations)",
+  "title": "의정부경전철 지하철 역 (U Line (Uijeongbu LRT) subway stations)",
+  "description": "의정부경전철(U Line (Uijeongbu LRT))의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 15개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region U Line (Uijeongbu LRT) stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "lines_en",
+      "label": "Lines En",
+      "type": "string"
+    },
+    {
+      "key": "lines_count",
+      "label": "Lines Count",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "around_stations",
+      "label": "Around Stations",
+      "type": "string"
+    },
+    {
+      "key": "around_count",
+      "label": "Around Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "회룡",
+      "name_romanized": "",
+      "lines": "01호선, 의정부경전철",
+      "lines_en": "Line 1, U Line (Uijeongbu LRT)",
+      "lines_count": 2,
+      "latitude": 37.724846,
+      "longitude": 127.046895,
+      "around_stations": "발곡, 범골, 의정부, 망월사",
+      "around_count": 4
+    },
+    {
+      "name": "동오",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.745271,
+      "longitude": 127.056947,
+      "around_stations": "의정부중앙, 새말",
+      "around_count": 2
+    },
+    {
+      "name": "새말",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.748885,
+      "longitude": 127.06362,
+      "around_stations": "동오, 경기도청북부청사",
+      "around_count": 2
+    },
+    {
+      "name": "경기도청북부청사",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.75059,
+      "longitude": 127.071495,
+      "around_stations": "새말, 효자",
+      "around_count": 2
+    },
+    {
+      "name": "효자",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.754025,
+      "longitude": 127.076902,
+      "around_stations": "경기도청북부청사, 곤제",
+      "around_count": 2
+    },
+    {
+      "name": "범골",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.728755,
+      "longitude": 127.04353,
+      "around_stations": "회룡, 경전철의정부",
+      "around_count": 2
+    },
+    {
+      "name": "경전철의정부",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.737202,
+      "longitude": 127.043257,
+      "around_stations": "범골, 의정부시청",
+      "around_count": 2
+    },
+    {
+      "name": "의정부시청",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.739256,
+      "longitude": 127.034781,
+      "around_stations": "경전철의정부, 흥선",
+      "around_count": 2
+    },
+    {
+      "name": "흥선",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.743302,
+      "longitude": 127.037023,
+      "around_stations": "의정부시청, 의정부중앙",
+      "around_count": 2
+    },
+    {
+      "name": "의정부중앙",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.743676,
+      "longitude": 127.049565,
+      "around_stations": "흥선, 동오",
+      "around_count": 2
+    },
+    {
+      "name": "곤제",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.750471,
+      "longitude": 127.083715,
+      "around_stations": "효자, 어룡",
+      "around_count": 2
+    },
+    {
+      "name": "어룡",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.742802,
+      "longitude": 127.085035,
+      "around_stations": "곤제, 송산",
+      "around_count": 2
+    },
+    {
+      "name": "발곡",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.727048,
+      "longitude": 127.052803,
+      "around_stations": "회룡",
+      "around_count": 1
+    },
+    {
+      "name": "송산",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.737279,
+      "longitude": 127.087159,
+      "around_stations": "어룡, 탑석",
+      "around_count": 2
+    },
+    {
+      "name": "탑석",
+      "name_romanized": "",
+      "lines": "의정부경전철",
+      "lines_en": "U Line (Uijeongbu LRT)",
+      "lines_count": 1,
+      "latitude": 37.733579,
+      "longitude": 127.088704,
+      "around_stations": "송산",
+      "around_count": 1
+    }
+  ],
+  "meta": {
+    "title": "의정부경전철 지하철 역 (U Line (Uijeongbu LRT) subway stations) - 무료 다운로드",
+    "description": "의정부경전철(U Line (Uijeongbu LRT))의 모든 역 정보 — 좌표(위도/경도) 및 인접 역 포함. 15개 역. 수도권 도시철도 631개 역 데이터셋의 노선별 분할본. Capital region U Line (Uijeongbu LRT) stations split from the master ko-sudogwon-jihacheol-yeok dataset (iml1111/Korea-Subway, 2021-06-03). 포함 15 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "의정부경전철 지하철 역 (U Line (Uijeongbu LRT) subway stations) | ListBase",
+    "seo_description": "다운로드 의정부경전철 지하철 역 (U Line (Uijeongbu LRT) subway stations) — 15 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 15 건 / 9 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

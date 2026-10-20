@@ -1,0 +1,187 @@
+{
+  "id": "ko-cheukjeong-danwi-energy",
+  "name": "에너지 단위 (14)",
+  "title": "에너지 단위 (14)",
+  "description": "CLDR ko 로케일의 'energy' 분류 측정 단위와 한국어 명칭.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "yakja",
+      "label": "Yakja",
+      "type": "string"
+    },
+    {
+      "key": "gan_yakja",
+      "label": "Gan Yakja",
+      "type": "string"
+    },
+    {
+      "key": "danwi_paeteon",
+      "label": "Danwi Paeteon",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "energy-becquerel",
+      "bunryu": "energy",
+      "ireum": "베크렐",
+      "yakja": "Bq",
+      "gan_yakja": "Bq",
+      "danwi_paeteon": "{0}베크렐",
+      "id": 1
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "bunryu": "energy",
+      "ireum": "영국 열량 단위",
+      "yakja": "Btu",
+      "gan_yakja": "Btu",
+      "danwi_paeteon": "{0}영국 열량 단위",
+      "id": 2
+    },
+    {
+      "unit_code": "energy-british-thermal-unit-it",
+      "bunryu": "energy",
+      "ireum": "BTU-IT",
+      "yakja": "BTU-IT",
+      "gan_yakja": "BTU-IT",
+      "danwi_paeteon": "{0} BTU-IT",
+      "id": 3
+    },
+    {
+      "unit_code": "energy-calorie",
+      "bunryu": "energy",
+      "ireum": "칼로리",
+      "yakja": "cal",
+      "gan_yakja": "cal",
+      "danwi_paeteon": "{0}칼로리",
+      "id": 4
+    },
+    {
+      "unit_code": "energy-calorie-it",
+      "bunryu": "energy",
+      "ireum": "칼로리[IT]",
+      "yakja": "cal-IT",
+      "gan_yakja": "cal-IT",
+      "danwi_paeteon": "{0}칼로리[IT]",
+      "id": 5
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "bunryu": "energy",
+      "ireum": "전자볼트",
+      "yakja": "eV",
+      "gan_yakja": "eV",
+      "danwi_paeteon": "{0}전자볼트",
+      "id": 6
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "bunryu": "energy",
+      "ireum": "칼로리",
+      "yakja": "Cal",
+      "gan_yakja": "Cal",
+      "danwi_paeteon": "{0}칼로리",
+      "id": 7
+    },
+    {
+      "unit_code": "energy-gray",
+      "bunryu": "energy",
+      "ireum": "그레이",
+      "yakja": "Gy",
+      "gan_yakja": "Gy",
+      "danwi_paeteon": "{0}그레이",
+      "id": 8
+    },
+    {
+      "unit_code": "energy-joule",
+      "bunryu": "energy",
+      "ireum": "줄",
+      "yakja": "줄",
+      "gan_yakja": "줄",
+      "danwi_paeteon": "{0}줄",
+      "id": 9
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "bunryu": "energy",
+      "ireum": "킬로칼로리",
+      "yakja": "kcal",
+      "gan_yakja": "kcal",
+      "danwi_paeteon": "{0}킬로칼로리",
+      "id": 10
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "bunryu": "energy",
+      "ireum": "킬로줄",
+      "yakja": "kJ",
+      "gan_yakja": "kJ",
+      "danwi_paeteon": "{0}킬로줄",
+      "id": 11
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "bunryu": "energy",
+      "ireum": "킬로와트시",
+      "yakja": "kWh",
+      "gan_yakja": "kWh",
+      "danwi_paeteon": "{0}킬로와트시",
+      "id": 12
+    },
+    {
+      "unit_code": "energy-sievert",
+      "bunryu": "energy",
+      "ireum": "시버트",
+      "yakja": "Sv",
+      "gan_yakja": "Sv",
+      "danwi_paeteon": "{0}시버트",
+      "id": 13
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "bunryu": "energy",
+      "ireum": "미국 섬",
+      "yakja": "미국 섬",
+      "gan_yakja": "미국 섬",
+      "danwi_paeteon": "{0}섬",
+      "id": 14
+    }
+  ],
+  "meta": {
+    "title": "에너지 단위 (14) - 무료 다운로드",
+    "description": "CLDR ko 로케일의 'energy' 분류 측정 단위와 한국어 명칭. 포함 14 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "에너지 단위 (14) | ListBase",
+    "seo_description": "다운로드 에너지 단위 (14) — 14 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 14 건 / 7 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

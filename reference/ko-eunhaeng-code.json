@@ -1,0 +1,370 @@
+{
+  "id": "ko-eunhaeng-code",
+  "name": "한국 금융기관 코드 (3자리 은행코드)",
+  "title": "한국 금융기관 코드 (3자리 은행코드)",
+  "description": "대한민국 금융기관 식별 코드 (3자리 은행코드 / domestic bank codes). 한국은행(001), 국민은행(004), 신한은행(088) 등 시중·지방·특수은행, 우체국, 새마을금고·신협 중앙회, 인터넷전문은행(K뱅크 089 / 카카오뱅크 090 / 토스뱅크 092), 주요 증권사를 포함한 53개 기관의 3자리 코드와 한국어·영어 명칭. 국내 계좌이체에 사용되는 도메스틱 식별 코드로, SWIFT/BIC 국제 코드 데이터셋(ko-eunhaeng)과는 별개의 코드 체계. Korean domestic 3-digit financial-institution identifier codes (used for inter-bank transfers within Korea) with native Korean and English names; distinct from the international SWIFT/BIC code set.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "001",
+      "name_ko": "한국은행",
+      "name_en": "Bank of Korea",
+      "type": "bank"
+    },
+    {
+      "code": "002",
+      "name_ko": "산업은행",
+      "name_en": "Korea Development Bank",
+      "type": "bank"
+    },
+    {
+      "code": "003",
+      "name_ko": "기업은행",
+      "name_en": "Industrial Bank of Korea",
+      "type": "bank"
+    },
+    {
+      "code": "004",
+      "name_ko": "국민은행",
+      "name_en": "KB Kookmin Bank",
+      "type": "bank"
+    },
+    {
+      "code": "007",
+      "name_ko": "수협중앙회",
+      "name_en": "National Federation of Fisheries Cooperatives",
+      "type": "bank"
+    },
+    {
+      "code": "008",
+      "name_ko": "수출입은행",
+      "name_en": "Korea Eximbank",
+      "type": "bank"
+    },
+    {
+      "code": "011",
+      "name_ko": "농협은행",
+      "name_en": "Nonghyup Bank",
+      "type": "bank"
+    },
+    {
+      "code": "012",
+      "name_ko": "지역농축협",
+      "name_en": "Nonghyup Local Cooperatives",
+      "type": "bank"
+    },
+    {
+      "code": "020",
+      "name_ko": "우리은행",
+      "name_en": "Woori Bank",
+      "type": "bank"
+    },
+    {
+      "code": "023",
+      "name_ko": "SC은행",
+      "name_en": "Standard Chartered Korea",
+      "type": "bank"
+    },
+    {
+      "code": "027",
+      "name_ko": "한국씨티은행",
+      "name_en": "Citibank Korea",
+      "type": "bank"
+    },
+    {
+      "code": "031",
+      "name_ko": "대구은행",
+      "name_en": "DGB Financial Group (Daegu Bank)",
+      "type": "bank"
+    },
+    {
+      "code": "032",
+      "name_ko": "부산은행",
+      "name_en": "Busan Bank",
+      "type": "bank"
+    },
+    {
+      "code": "034",
+      "name_ko": "광주은행",
+      "name_en": "Kwangju Bank",
+      "type": "bank"
+    },
+    {
+      "code": "035",
+      "name_ko": "제주은행",
+      "name_en": "Jeju Bank",
+      "type": "bank"
+    },
+    {
+      "code": "037",
+      "name_ko": "전북은행",
+      "name_en": "Jeonbuk Bank",
+      "type": "bank"
+    },
+    {
+      "code": "039",
+      "name_ko": "경남은행",
+      "name_en": "Kyongnam Bank",
+      "type": "bank"
+    },
+    {
+      "code": "045",
+      "name_ko": "새마을금고중앙회",
+      "name_en": "Korea Federation of Community Credit Cooperatives",
+      "type": "bank"
+    },
+    {
+      "code": "048",
+      "name_ko": "신협중앙회",
+      "name_en": "Credit Union",
+      "type": "bank"
+    },
+    {
+      "code": "050",
+      "name_ko": "상호저축은행",
+      "name_en": "Mutual Savings Bank",
+      "type": "bank"
+    },
+    {
+      "code": "071",
+      "name_ko": "우체국",
+      "name_en": "Korea Post",
+      "type": "bank"
+    },
+    {
+      "code": "080",
+      "name_ko": "하나은행 (080)",
+      "name_en": "Hana Bank (080)",
+      "type": "bank"
+    },
+    {
+      "code": "081",
+      "name_ko": "하나은행",
+      "name_en": "Hana Bank",
+      "type": "bank"
+    },
+    {
+      "code": "082",
+      "name_ko": "하나은행 (082)",
+      "name_en": "Hana Bank (082)",
+      "type": "bank"
+    },
+    {
+      "code": "088",
+      "name_ko": "신한은행",
+      "name_en": "Shinhan Bank",
+      "type": "bank"
+    },
+    {
+      "code": "089",
+      "name_ko": "K뱅크",
+      "name_en": "K-Bank",
+      "type": "bank"
+    },
+    {
+      "code": "090",
+      "name_ko": "카카오뱅크",
+      "name_en": "Kakao Bank",
+      "type": "bank"
+    },
+    {
+      "code": "092",
+      "name_ko": "토스뱅크",
+      "name_en": "Toss Bank",
+      "type": "bank"
+    },
+    {
+      "code": "209",
+      "name_ko": "유안타증권",
+      "name_en": "Yuanta Securities",
+      "type": "securities"
+    },
+    {
+      "code": "218",
+      "name_ko": "현대증권",
+      "name_en": "Hyundai Securities",
+      "type": "securities"
+    },
+    {
+      "code": "230",
+      "name_ko": "미래에셋증권",
+      "name_en": "Mirae Asset Securities",
+      "type": "securities"
+    },
+    {
+      "code": "238",
+      "name_ko": "대우증권",
+      "name_en": "Daewoo Securities",
+      "type": "securities"
+    },
+    {
+      "code": "240",
+      "name_ko": "삼성증권",
+      "name_en": "Samsung Securities",
+      "type": "securities"
+    },
+    {
+      "code": "243",
+      "name_ko": "한국투자증권",
+      "name_en": "Korea Investment & Securities",
+      "type": "securities"
+    },
+    {
+      "code": "247",
+      "name_ko": "우리투자증권",
+      "name_en": "Woori Investment Securities",
+      "type": "securities"
+    },
+    {
+      "code": "261",
+      "name_ko": "교보증권",
+      "name_en": "Kyobo Securities",
+      "type": "securities"
+    },
+    {
+      "code": "262",
+      "name_ko": "하이투자증권",
+      "name_en": "Hi Investment Securities",
+      "type": "securities"
+    },
+    {
+      "code": "263",
+      "name_ko": "HMC투자증권",
+      "name_en": "HMC Investment Securities",
+      "type": "securities"
+    },
+    {
+      "code": "264",
+      "name_ko": "키움증권",
+      "name_en": "Kiwoom Securities",
+      "type": "securities"
+    },
+    {
+      "code": "265",
+      "name_ko": "이베스트투자증권",
+      "name_en": "EBEST Investment & Securities",
+      "type": "securities"
+    },
+    {
+      "code": "266",
+      "name_ko": "SK증권",
+      "name_en": "SK Securities",
+      "type": "securities"
+    },
+    {
+      "code": "267",
+      "name_ko": "대신증권",
+      "name_en": "Daishin Securities",
+      "type": "securities"
+    },
+    {
+      "code": "268",
+      "name_ko": "아이엠투자증권",
+      "name_en": "IM Investment Securities",
+      "type": "securities"
+    },
+    {
+      "code": "269",
+      "name_ko": "한화투자증권",
+      "name_en": "Hanwha Investment & Securities",
+      "type": "securities"
+    },
+    {
+      "code": "270",
+      "name_ko": "하나대투자증권",
+      "name_en": "Hana Investment Securities",
+      "type": "securities"
+    },
+    {
+      "code": "271",
+      "name_ko": "토스증권",
+      "name_en": "Toss Investment",
+      "type": "securities"
+    },
+    {
+      "code": "278",
+      "name_ko": "신한금융투자",
+      "name_en": "Shinhan Financial Investment",
+      "type": "bank"
+    },
+    {
+      "code": "279",
+      "name_ko": "동부증권",
+      "name_en": "Dongbu Securities",
+      "type": "securities"
+    },
+    {
+      "code": "280",
+      "name_ko": "유진투자증권",
+      "name_en": "Eugene Investment & Securities",
+      "type": "securities"
+    },
+    {
+      "code": "287",
+      "name_ko": "메리츠종합금융증권",
+      "name_en": "Meritz Securities",
+      "type": "securities"
+    },
+    {
+      "code": "288",
+      "name_ko": "카카오페이증권",
+      "name_en": "Kakaopay Securities",
+      "type": "securities"
+    },
+    {
+      "code": "290",
+      "name_ko": "부국증권",
+      "name_en": "Buku Securities",
+      "type": "securities"
+    },
+    {
+      "code": "291",
+      "name_ko": "신영증권",
+      "name_en": "Shinyoung Securities",
+      "type": "securities"
+    },
+    {
+      "code": "292",
+      "name_ko": "LIG투자증권",
+      "name_en": "LIG Investment Securities",
+      "type": "securities"
+    }
+  ],
+  "meta": {
+    "title": "한국 금융기관 코드 (3자리 은행코드) - 무료 다운로드",
+    "description": "대한민국 금융기관 식별 코드 (3자리 은행코드 / domestic bank codes). 한국은행(001), 국민은행(004), 신한은행(088) 등 시중·지방·특수은행, 우체국, 새마을금고·신협 중앙회, 인터넷전문은행(K뱅크 089 / 카카오뱅크 090 / 토스뱅크 092), 주요 증권사를 포함한 53개 기관의 3자리 코드와 한국어·영어 명칭. 국내 계좌이체에 사용되는 도메스틱 식별 코드로, SWIFT/BIC 국제 코드 데이터셋(ko-eunhaeng)과는 별개의 코드 체계. Korean domestic 3-digit financial-institution identifier codes (used for inter-bank transfers within Korea) with native Korean and English names; distinct from the international SWIFT/BIC code set. 포함 54 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "한국 금융기관 코드 (3자리 은행코드) | ListBase",
+    "seo_description": "다운로드 한국 금융기관 코드 (3자리 은행코드) — 54 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 54 건 / 4 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}

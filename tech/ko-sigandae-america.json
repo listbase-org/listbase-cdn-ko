@@ -1,0 +1,1208 @@
+{
+  "id": "ko-sigandae-america",
+  "name": "아메리카 시간대 (144)",
+  "title": "아메리카 시간대 (144)",
+  "description": "IANA tz 식별자가 'America/'로 시작하는 시간대의 한국어 명칭 목록.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "dosi_ireum",
+      "label": "Dosi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "pyojunsi_ireum",
+      "label": "Pyojunsi Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hagyesi_ireum",
+      "label": "Hagyesi Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Adak",
+      "gwonyeok": "America",
+      "dosi_ireum": "에이닥",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Anchorage",
+      "gwonyeok": "America",
+      "dosi_ireum": "앵커리지",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Anguilla",
+      "gwonyeok": "America",
+      "dosi_ireum": "앙귈라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Antigua",
+      "gwonyeok": "America",
+      "dosi_ireum": "안티과",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Araguaina",
+      "gwonyeok": "America",
+      "dosi_ireum": "아라과이나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Argentina/La_Rioja",
+      "gwonyeok": "America",
+      "dosi_ireum": "라 리오하",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "gwonyeok": "America",
+      "dosi_ireum": "리오 가예고스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Argentina/Salta",
+      "gwonyeok": "America",
+      "dosi_ireum": "살타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Argentina/San_Juan",
+      "gwonyeok": "America",
+      "dosi_ireum": "산후안",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Argentina/San_Luis",
+      "gwonyeok": "America",
+      "dosi_ireum": "산루이스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Argentina/Tucuman",
+      "gwonyeok": "America",
+      "dosi_ireum": "투쿠만",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Argentina/Ushuaia",
+      "gwonyeok": "America",
+      "dosi_ireum": "우수아이아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Aruba",
+      "gwonyeok": "America",
+      "dosi_ireum": "아루바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Asuncion",
+      "gwonyeok": "America",
+      "dosi_ireum": "아순시온",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Bahia",
+      "gwonyeok": "America",
+      "dosi_ireum": "바히아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Bahia_Banderas",
+      "gwonyeok": "America",
+      "dosi_ireum": "바이아 반데라스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Barbados",
+      "gwonyeok": "America",
+      "dosi_ireum": "바베이도스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Belem",
+      "gwonyeok": "America",
+      "dosi_ireum": "벨렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Belize",
+      "gwonyeok": "America",
+      "dosi_ireum": "벨리즈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Blanc-Sablon",
+      "gwonyeok": "America",
+      "dosi_ireum": "블랑 사블롱",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Boa_Vista",
+      "gwonyeok": "America",
+      "dosi_ireum": "보아 비스타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Bogota",
+      "gwonyeok": "America",
+      "dosi_ireum": "보고타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Boise",
+      "gwonyeok": "America",
+      "dosi_ireum": "보이시",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Buenos_Aires",
+      "gwonyeok": "America",
+      "dosi_ireum": "부에노스 아이레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Cambridge_Bay",
+      "gwonyeok": "America",
+      "dosi_ireum": "케임브리지 베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Campo_Grande",
+      "gwonyeok": "America",
+      "dosi_ireum": "캄포 그란데",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Cancun",
+      "gwonyeok": "America",
+      "dosi_ireum": "칸쿤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Caracas",
+      "gwonyeok": "America",
+      "dosi_ireum": "카라카스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Catamarca",
+      "gwonyeok": "America",
+      "dosi_ireum": "카타마르카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Cayenne",
+      "gwonyeok": "America",
+      "dosi_ireum": "카옌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Cayman",
+      "gwonyeok": "America",
+      "dosi_ireum": "케이맨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Chicago",
+      "gwonyeok": "America",
+      "dosi_ireum": "시카고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Chihuahua",
+      "gwonyeok": "America",
+      "dosi_ireum": "치와와",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Ciudad_Juarez",
+      "gwonyeok": "America",
+      "dosi_ireum": "시우다드후아레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Coral_Harbour",
+      "gwonyeok": "America",
+      "dosi_ireum": "코랄하버",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Cordoba",
+      "gwonyeok": "America",
+      "dosi_ireum": "코르도바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Costa_Rica",
+      "gwonyeok": "America",
+      "dosi_ireum": "코스타리카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Coyhaique",
+      "gwonyeok": "America",
+      "dosi_ireum": "코이아이케",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Creston",
+      "gwonyeok": "America",
+      "dosi_ireum": "크레스톤",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Cuiaba",
+      "gwonyeok": "America",
+      "dosi_ireum": "쿠이아바",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Curacao",
+      "gwonyeok": "America",
+      "dosi_ireum": "퀴라소",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Danmarkshavn",
+      "gwonyeok": "America",
+      "dosi_ireum": "덴마크샤븐",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Dawson",
+      "gwonyeok": "America",
+      "dosi_ireum": "도슨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Dawson_Creek",
+      "gwonyeok": "America",
+      "dosi_ireum": "도슨크릭",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Denver",
+      "gwonyeok": "America",
+      "dosi_ireum": "덴버",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Detroit",
+      "gwonyeok": "America",
+      "dosi_ireum": "디트로이트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Dominica",
+      "gwonyeok": "America",
+      "dosi_ireum": "도미니카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Edmonton",
+      "gwonyeok": "America",
+      "dosi_ireum": "에드먼턴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Eirunepe",
+      "gwonyeok": "America",
+      "dosi_ireum": "아이루네페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/El_Salvador",
+      "gwonyeok": "America",
+      "dosi_ireum": "엘살바도르",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Fort_Nelson",
+      "gwonyeok": "America",
+      "dosi_ireum": "포트 넬슨",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Fortaleza",
+      "gwonyeok": "America",
+      "dosi_ireum": "포르탈레자",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Glace_Bay",
+      "gwonyeok": "America",
+      "dosi_ireum": "글라스베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Godthab",
+      "gwonyeok": "America",
+      "dosi_ireum": "고드호프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Goose_Bay",
+      "gwonyeok": "America",
+      "dosi_ireum": "구즈베이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/Grand_Turk",
+      "gwonyeok": "America",
+      "dosi_ireum": "그랜드 터크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/Grenada",
+      "gwonyeok": "America",
+      "dosi_ireum": "그레나다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/Guadeloupe",
+      "gwonyeok": "America",
+      "dosi_ireum": "과들루프",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/Guatemala",
+      "gwonyeok": "America",
+      "dosi_ireum": "과테말라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/Guayaquil",
+      "gwonyeok": "America",
+      "dosi_ireum": "과야킬",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/Guyana",
+      "gwonyeok": "America",
+      "dosi_ireum": "가이아나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/Halifax",
+      "gwonyeok": "America",
+      "dosi_ireum": "핼리팩스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "America/Havana",
+      "gwonyeok": "America",
+      "dosi_ireum": "하바나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "America/Hermosillo",
+      "gwonyeok": "America",
+      "dosi_ireum": "에르모시요",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "America/Indiana/Knox",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 녹스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "America/Indiana/Marengo",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 머렝고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "America/Indiana/Petersburg",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 피츠버그",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "America/Indiana/Tell_City",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 텔시티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "America/Indiana/Vevay",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 비비",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "America/Indiana/Vincennes",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 빈센스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "America/Indiana/Winamac",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나주, 위너맥",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "America/Indianapolis",
+      "gwonyeok": "America",
+      "dosi_ireum": "인디애나폴리스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "America/Inuvik",
+      "gwonyeok": "America",
+      "dosi_ireum": "이누빅",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "America/Iqaluit",
+      "gwonyeok": "America",
+      "dosi_ireum": "이칼루이트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "America/Jamaica",
+      "gwonyeok": "America",
+      "dosi_ireum": "자메이카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "America/Jujuy",
+      "gwonyeok": "America",
+      "dosi_ireum": "후후이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "America/Juneau",
+      "gwonyeok": "America",
+      "dosi_ireum": "주노",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "America/Kentucky/Monticello",
+      "gwonyeok": "America",
+      "dosi_ireum": "켄터키주, 몬티첼로",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "America/Kralendijk",
+      "gwonyeok": "America",
+      "dosi_ireum": "크라렌디즈크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "America/La_Paz",
+      "gwonyeok": "America",
+      "dosi_ireum": "라파스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "America/Lima",
+      "gwonyeok": "America",
+      "dosi_ireum": "리마",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "America/Los_Angeles",
+      "gwonyeok": "America",
+      "dosi_ireum": "로스앤젤레스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "America/Louisville",
+      "gwonyeok": "America",
+      "dosi_ireum": "루이빌",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "America/Lower_Princes",
+      "gwonyeok": "America",
+      "dosi_ireum": "로워 프린스 쿼터",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "America/Maceio",
+      "gwonyeok": "America",
+      "dosi_ireum": "마세이오",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "America/Managua",
+      "gwonyeok": "America",
+      "dosi_ireum": "마나과",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "America/Manaus",
+      "gwonyeok": "America",
+      "dosi_ireum": "마나우스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "America/Marigot",
+      "gwonyeok": "America",
+      "dosi_ireum": "마리곳",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "America/Martinique",
+      "gwonyeok": "America",
+      "dosi_ireum": "마티니크",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "America/Matamoros",
+      "gwonyeok": "America",
+      "dosi_ireum": "마타모로스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "America/Mazatlan",
+      "gwonyeok": "America",
+      "dosi_ireum": "마사틀란",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "America/Mendoza",
+      "gwonyeok": "America",
+      "dosi_ireum": "멘도사",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "America/Menominee",
+      "gwonyeok": "America",
+      "dosi_ireum": "메노미니",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "America/Merida",
+      "gwonyeok": "America",
+      "dosi_ireum": "메리다",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "America/Metlakatla",
+      "gwonyeok": "America",
+      "dosi_ireum": "메틀라카틀라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "America/Mexico_City",
+      "gwonyeok": "America",
+      "dosi_ireum": "멕시코 시티",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "America/Miquelon",
+      "gwonyeok": "America",
+      "dosi_ireum": "미클롱",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "America/Moncton",
+      "gwonyeok": "America",
+      "dosi_ireum": "몽턴",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "America/Monterrey",
+      "gwonyeok": "America",
+      "dosi_ireum": "몬테레이",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "America/Montevideo",
+      "gwonyeok": "America",
+      "dosi_ireum": "몬테비데오",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "America/Montserrat",
+      "gwonyeok": "America",
+      "dosi_ireum": "몬세라트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "America/Nassau",
+      "gwonyeok": "America",
+      "dosi_ireum": "나소",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "America/New_York",
+      "gwonyeok": "America",
+      "dosi_ireum": "뉴욕",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "America/Nome",
+      "gwonyeok": "America",
+      "dosi_ireum": "놈",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "America/Noronha",
+      "gwonyeok": "America",
+      "dosi_ireum": "노롱야",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "America/North_Dakota/Beulah",
+      "gwonyeok": "America",
+      "dosi_ireum": "노스다코타주, 베라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "America/North_Dakota/Center",
+      "gwonyeok": "America",
+      "dosi_ireum": "중부, 노스다코타",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "gwonyeok": "America",
+      "dosi_ireum": "노스다코타주, 뉴살렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "America/Ojinaga",
+      "gwonyeok": "America",
+      "dosi_ireum": "오히나가",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "America/Panama",
+      "gwonyeok": "America",
+      "dosi_ireum": "파나마",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "America/Paramaribo",
+      "gwonyeok": "America",
+      "dosi_ireum": "파라마리보",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "America/Phoenix",
+      "gwonyeok": "America",
+      "dosi_ireum": "피닉스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "America/Port-au-Prince",
+      "gwonyeok": "America",
+      "dosi_ireum": "포르토프랭스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "America/Port_of_Spain",
+      "gwonyeok": "America",
+      "dosi_ireum": "포트오브스페인",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "America/Porto_Velho",
+      "gwonyeok": "America",
+      "dosi_ireum": "포르토벨료",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "America/Puerto_Rico",
+      "gwonyeok": "America",
+      "dosi_ireum": "푸에르토리코",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "America/Punta_Arenas",
+      "gwonyeok": "America",
+      "dosi_ireum": "푼타아레나스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "America/Rankin_Inlet",
+      "gwonyeok": "America",
+      "dosi_ireum": "랭킹 인렛",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "America/Recife",
+      "gwonyeok": "America",
+      "dosi_ireum": "레시페",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "America/Regina",
+      "gwonyeok": "America",
+      "dosi_ireum": "리자이나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "America/Resolute",
+      "gwonyeok": "America",
+      "dosi_ireum": "리졸루트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "America/Rio_Branco",
+      "gwonyeok": "America",
+      "dosi_ireum": "히우 브랑쿠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "America/Santarem",
+      "gwonyeok": "America",
+      "dosi_ireum": "산타렘",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "America/Santiago",
+      "gwonyeok": "America",
+      "dosi_ireum": "산티아고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "America/Santo_Domingo",
+      "gwonyeok": "America",
+      "dosi_ireum": "산토도밍고",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "America/Sao_Paulo",
+      "gwonyeok": "America",
+      "dosi_ireum": "상파울루",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "America/Scoresbysund",
+      "gwonyeok": "America",
+      "dosi_ireum": "스코레스바이선드",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "America/Sitka",
+      "gwonyeok": "America",
+      "dosi_ireum": "싯카",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "America/St_Barthelemy",
+      "gwonyeok": "America",
+      "dosi_ireum": "생바르텔레미",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "America/St_Johns",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트존스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "America/St_Kitts",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트키츠",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "America/St_Lucia",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트루시아",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "America/St_Thomas",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트토마스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "America/St_Vincent",
+      "gwonyeok": "America",
+      "dosi_ireum": "세인트빈센트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "America/Swift_Current",
+      "gwonyeok": "America",
+      "dosi_ireum": "스위프트커런트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "America/Tegucigalpa",
+      "gwonyeok": "America",
+      "dosi_ireum": "테구시갈파",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "America/Thule",
+      "gwonyeok": "America",
+      "dosi_ireum": "툴레",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "America/Tijuana",
+      "gwonyeok": "America",
+      "dosi_ireum": "티후아나",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "America/Toronto",
+      "gwonyeok": "America",
+      "dosi_ireum": "토론토",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "America/Tortola",
+      "gwonyeok": "America",
+      "dosi_ireum": "토르톨라",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "America/Vancouver",
+      "gwonyeok": "America",
+      "dosi_ireum": "벤쿠버",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "America/Whitehorse",
+      "gwonyeok": "America",
+      "dosi_ireum": "화이트호스",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "America/Winnipeg",
+      "gwonyeok": "America",
+      "dosi_ireum": "위니펙",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "America/Yakutat",
+      "gwonyeok": "America",
+      "dosi_ireum": "야쿠타트",
+      "pyojunsi_ireum": "",
+      "hagyesi_ireum": ""
+    }
+  ],
+  "meta": {
+    "title": "아메리카 시간대 (144) - 무료 다운로드",
+    "description": "IANA tz 식별자가 'America/'로 시작하는 시간대의 한국어 명칭 목록. 포함 144 건. Excel, CSV, PDF 형식으로 다운로드.",
+    "seo_title": "아메리카 시간대 (144) | ListBase",
+    "seo_description": "다운로드 아메리카 시간대 (144) — 144 건. Excel, CSV, PDF 형식으로 제공.",
+    "key_takeaways": [
+      "포함 144 건 / 6 개 항목",
+      "Excel, CSV, PDF 형식으로 무료 다운로드",
+      "데이터 출처: open data"
+    ]
+  }
+}
