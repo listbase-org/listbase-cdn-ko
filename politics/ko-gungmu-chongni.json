@@ -1,0 +1,506 @@
+{
+  "id": "ko-gungmu-chongni",
+  "name": "대한민국의 역대 국무총리",
+  "title": "대한민국의 역대 국무총리",
+  "description": "대한민국 역대 국무총리의 대수, 이름, 임기, 출신지, 출신학교 목록.",
+  "category": "politics",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_국무총리",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_국무총리",
+  "updated": "2026-10",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    },
+    {
+      "key": "birthplace",
+      "label": "Birthplace",
+      "type": "string"
+    },
+    {
+      "key": "education",
+      "label": "Education",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_no": "서리",
+      "name": "이윤영(李允榮)",
+      "tenure": "1948년 7월 27일 ~ 1948년 7월 31일",
+      "birthplace": "평북 영변",
+      "education": "평양숭실사범"
+    },
+    {
+      "term_no": "임시 대행",
+      "name": "신익희(申翼熙)",
+      "tenure": "1948년 7월 31일~1948년 8월 2일",
+      "birthplace": "경기 광주",
+      "education": "와세다 대학"
+    },
+    {
+      "term_no": "초대",
+      "name": "이범석(李範奭)",
+      "tenure": "1948년 8월 2일~1950년 4월 20일",
+      "birthplace": "경기 한성 (현 서울)",
+      "education": "중국 윈난 육군강무학교 (현 윈난 대학)"
+    },
+    {
+      "term_no": "서리",
+      "name": "신성모(申性模)",
+      "tenure": "1950년 4월 21일~1950년 11월 22일",
+      "birthplace": "경남 의령",
+      "education": "보성법률전문학교 (현 고려대 법대)"
+    },
+    {
+      "term_no": "2대",
+      "name": "장면(張勉)",
+      "tenure": "1950년 11월 23일~1952년 4월 23일",
+      "birthplace": "경기 한성 (현 서울)",
+      "education": "수원고등농림 (현 서울대 농대)"
+    },
+    {
+      "term_no": "서리",
+      "name": "허정(許政)",
+      "tenure": "1951년 11월 6일~1952년 4월 9일",
+      "birthplace": "경남 부산 (현 경남과 분리)",
+      "education": "보성전문학교 (현 고려대)"
+    },
+    {
+      "term_no": "서리",
+      "name": "이윤영(李允榮)",
+      "tenure": "1952년 4월 24일~1952년 5월 5일",
+      "birthplace": "평북 영변",
+      "education": "평양숭실사범전문학교 (현 숭실대 기독교학과)"
+    },
+    {
+      "term_no": "3대",
+      "name": "장택상(張澤相)",
+      "tenure": "1952년 5월 6일~1952년 10월 5일",
+      "birthplace": "경북 칠곡 (현 경북 구미)",
+      "education": "영국 에딘버러대"
+    },
+    {
+      "term_no": "직무대행",
+      "name": "이갑성(李甲成)",
+      "tenure": "1952년 10월 5일~1952년 10월 9일",
+      "birthplace": "경북 대구 (현 경북과 분리)",
+      "education": "세브란스의학전문학교 (현 연세대 의대)"
+    },
+    {
+      "term_no": "서리",
+      "name": "백두진(白斗鎭)",
+      "tenure": "1952년 10월 9일~1953년 4월 23일",
+      "birthplace": "황해 신천",
+      "education": "일본 히토쓰바시 대학"
+    },
+    {
+      "term_no": "4대",
+      "name": "백두진(白斗鎭)",
+      "tenure": "1953년 4월 24일~1954년 6월 17일",
+      "birthplace": "황해 신천",
+      "education": "일본 히토쓰바시 대학"
+    },
+    {
+      "term_no": "임시 대행",
+      "name": "이기붕(李起鵬)",
+      "tenure": "1954년 6월 17일~1954년 6월 27일",
+      "birthplace": "충북 괴산",
+      "education": "미국 아이오와 주립 데이버 대학교"
+    },
+    {
+      "term_no": "5대",
+      "name": "변영태(卞榮泰)",
+      "tenure": "1954년 6월 27일~1954년 11월 28일",
+      "birthplace": "경기 부천",
+      "education": "중국 푸젠 셰훠 대학"
+    },
+    {
+      "term_no": "임시 서리",
+      "name": "백한성(白漢成)",
+      "tenure": "1954년 11월 18일~1954년 11월 28일",
+      "birthplace": "충남 대전 (현 충남과 분리)",
+      "education": "경성법학전문학교 (현 서울대 법대)"
+    },
+    {
+      "term_no": "내각수반",
+      "name": "허정(許政)",
+      "tenure": "1960년 4월 27일~1960년 6월 15일",
+      "birthplace": "경남 부산 (현 경남과 분리)",
+      "education": "보성전문학교 (현 고려대)"
+    },
+    {
+      "term_no": "6대",
+      "name": "허정(許政)",
+      "tenure": "1960년 6월 15일~1960년 8월 18일",
+      "birthplace": "경남 부산 (현 경남과 분리)",
+      "education": "보성전문학교 (현 고려대)"
+    },
+    {
+      "term_no": "7대",
+      "name": "장면(張勉)",
+      "tenure": "1960년 8월 19일~1961년 5월 18일",
+      "birthplace": "경기 한성 (현 서울)",
+      "education": "수원고등농림 (현 서울대 농대)"
+    },
+    {
+      "term_no": "임시 내각수반 직무대행",
+      "name": "김종오(金鍾五)",
+      "tenure": "1961년 5월 18일~1961년 5월 20일",
+      "birthplace": "충북 청원 (현 충북 청주)",
+      "education": "군사영어학교 (현 육사)"
+    },
+    {
+      "term_no": "내각수반",
+      "name": "장도영(張都映)",
+      "tenure": "1961년 5월 20일~1961년 7월 2일",
+      "birthplace": "평북 용천",
+      "education": "군사영어학교 (현 육사)"
+    },
+    {
+      "term_no": "내각수반",
+      "name": "송요찬(宋堯讚)",
+      "tenure": "1961년 7월 3일~1962년 6월 15일",
+      "birthplace": "충남 청양",
+      "education": "미국 지휘참모대"
+    },
+    {
+      "term_no": "내각수반 직무대행",
+      "name": "최덕신(崔德新)",
+      "tenure": "1962년 6월 16일~1962년 6월 18일",
+      "birthplace": "평북 의주",
+      "education": "육사"
+    },
+    {
+      "term_no": "내각수반",
+      "name": "박정희(朴正熙)",
+      "tenure": "1962년 6월 18일~1962년 7월 9일",
+      "birthplace": "경북 선산 (현 경북 구미)",
+      "education": "육사"
+    },
+    {
+      "term_no": "내각수반",
+      "name": "김현철(金顯哲)",
+      "tenure": "1962년 7월 10일~1963년 12월 16일",
+      "birthplace": "경기 한성 (현 서울)",
+      "education": "경성고등공업학교 (현 서울대 공대)"
+    },
+    {
+      "term_no": "서리",
+      "name": "유창순(劉彰順)",
+      "tenure": "1982년 1월 4일~1982년 1월 22일",
+      "birthplace": "평남 안주",
+      "education": "미국 헤이스팅스대"
+    },
+    {
+      "term_no": "15대",
+      "name": "유창순(劉彰順)",
+      "tenure": "1982년 1월 23일~1982년 6월 24일",
+      "birthplace": "평남 안주",
+      "education": "미국 헤이스팅스대"
+    },
+    {
+      "term_no": "서리",
+      "name": "김상협(金相浹)",
+      "tenure": "1982년 6월 24일~1982년 9월 20일",
+      "birthplace": "전북 부안",
+      "education": "일본 도쿄대"
+    },
+    {
+      "term_no": "16대",
+      "name": "김상협(金相浹)",
+      "tenure": "1982년 9월 21일~1983년 10월 14일",
+      "birthplace": "전북 부안",
+      "education": "일본 도쿄대"
+    },
+    {
+      "term_no": "서리",
+      "name": "진의종(陳懿種)",
+      "tenure": "1983년 10월 14일~1983년 10월 16일",
+      "birthplace": "전북 고창",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "17대",
+      "name": "진의종(陳懿種)",
+      "tenure": "1983년 10월 17일~1985년 2월 18일",
+      "birthplace": "전북 고창",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "직무대행",
+      "name": "신병현(申秉鉉)",
+      "tenure": "1984년 11월 8일~1985년 2월 18일",
+      "birthplace": "황해 장연",
+      "education": "미국 아메리칸대"
+    },
+    {
+      "term_no": "서리",
+      "name": "노신영(盧信永)",
+      "tenure": "1985년 2월 19일~1985년 5월 15일",
+      "birthplace": "평남 강서",
+      "education": "서울대"
+    },
+    {
+      "term_no": "18대",
+      "name": "노신영(盧信永)",
+      "tenure": "1985년 5월 16일~1987년 5월 25일",
+      "birthplace": "평남 강서",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "이한기(李漢基)",
+      "tenure": "1987년 5월 26일~1987년 7월 13일",
+      "birthplace": "전북 고창",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "김정렬(金貞烈)",
+      "tenure": "1987년 7월 14일~1987년 8월 6일",
+      "birthplace": "경기 경성 (현 서울)",
+      "education": "육사"
+    },
+    {
+      "term_no": "19대",
+      "name": "김정렬(金貞烈)",
+      "tenure": "1987년 8월 7일~1988년 2월 24일",
+      "birthplace": "경기 경성 (현 서울)",
+      "education": "육사"
+    },
+    {
+      "term_no": "서리",
+      "name": "이현재(李賢宰)",
+      "tenure": "1988년 2월 25일~1988년 3월 1일",
+      "birthplace": "충남 홍성",
+      "education": "서울대"
+    },
+    {
+      "term_no": "20대",
+      "name": "이현재(李賢宰)",
+      "tenure": "1988년 3월 2일~1988년 12월 4일",
+      "birthplace": "충남 홍성",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "강영훈(姜英勳)",
+      "tenure": "1988년 12월 5일~1988년 12월 15일",
+      "birthplace": "평북 창성",
+      "education": "군사영어학교 (현 육사)"
+    },
+    {
+      "term_no": "21대",
+      "name": "강영훈(姜英勳)",
+      "tenure": "1988년 12월 16일~1990년 12월 26일",
+      "birthplace": "평북 창성",
+      "education": "군사영어학교 (현 육사)"
+    },
+    {
+      "term_no": "서리",
+      "name": "노재봉(盧在鳳)",
+      "tenure": "1990년 12월 27일~1991년 1월 22일",
+      "birthplace": "경남 마산 (현 경남 창원)",
+      "education": "서울대"
+    },
+    {
+      "term_no": "22대",
+      "name": "노재봉(盧在鳳)",
+      "tenure": "1991년 1월 23일~1991년 5월 23일",
+      "birthplace": "경남 마산 (현 경남 창원)",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "정원식(鄭元植)",
+      "tenure": "1991년 5월 24일~1991년 7월 7일",
+      "birthplace": "황해 재령",
+      "education": "서울대"
+    },
+    {
+      "term_no": "23대",
+      "name": "정원식(鄭元植)",
+      "tenure": "1991년 7월 8일~1992년 10월 7일",
+      "birthplace": "황해 재령",
+      "education": "서울대"
+    },
+    {
+      "term_no": "24대",
+      "name": "현승종(玄勝種)",
+      "tenure": "1992년 10월 8일~1993년 2월 24일",
+      "birthplace": "평남 개천",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "25대",
+      "name": "황인성(黃寅性)",
+      "tenure": "1993년 2월 25일~1993년 12월 16일",
+      "birthplace": "전북 무주",
+      "education": "육사"
+    },
+    {
+      "term_no": "26대",
+      "name": "이회창(李會昌)",
+      "tenure": "1993년 12월 17일~1994년 4월 22일",
+      "birthplace": "황해 서흥",
+      "education": "서울대"
+    },
+    {
+      "term_no": "직무대행",
+      "name": "정재석(丁渽錫)",
+      "tenure": "1994년 4월 22일~1994년 4월 29일",
+      "birthplace": "전북 장수",
+      "education": "서울대"
+    },
+    {
+      "term_no": "27대",
+      "name": "이영덕(李榮德)",
+      "tenure": "1994년 4월 29일~1994년 12월 16일",
+      "birthplace": "평남 강서",
+      "education": "서울대"
+    },
+    {
+      "term_no": "28대",
+      "name": "이홍구(李洪九)",
+      "tenure": "1994년 12월 17일~1995년 12월 17일",
+      "birthplace": "경기 고양",
+      "education": "서울대"
+    },
+    {
+      "term_no": "29대",
+      "name": "이수성(李壽成)",
+      "tenure": "1995년 12월 18일~1997년 3월 4일",
+      "birthplace": "함남 함흥",
+      "education": "서울대"
+    },
+    {
+      "term_no": "30대",
+      "name": "고건(高建)",
+      "tenure": "1997년 3월 5일~1998년 3월 3일",
+      "birthplace": "경기 경성 (현 서울 종로)",
+      "education": "서울대"
+    },
+    {
+      "term_no": "임시 직무대행",
+      "name": "임창열(林昌烈)",
+      "tenure": "1998년 2월 25일~1998년 3월 5일",
+      "birthplace": "경기 시흥 (현 서울 동대문)",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "김종필(金鍾泌)",
+      "tenure": "1998년 3월 3일~1998년 8월 17일",
+      "birthplace": "충남 부여",
+      "education": "육사"
+    },
+    {
+      "term_no": "31대",
+      "name": "김종필(金鍾泌)",
+      "tenure": "1998년 8월 18일~2000년 1월 12일",
+      "birthplace": "충남 부여",
+      "education": "육사"
+    },
+    {
+      "term_no": "32대",
+      "name": "박태준(朴泰俊)",
+      "tenure": "2000년 1월 13일~2000년 5월 19일",
+      "birthplace": "경남 양산",
+      "education": "육사"
+    },
+    {
+      "term_no": "직무대행",
+      "name": "이헌재(李憲宰)",
+      "tenure": "2000년 5월 19일~2000년 5월 23일",
+      "birthplace": "중국 상해",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "이한동(李漢東)",
+      "tenure": "2000년 5월 23일~2000년 6월 28일",
+      "birthplace": "경기 포천",
+      "education": "서울대"
+    },
+    {
+      "term_no": "33대",
+      "name": "이한동(李漢東)",
+      "tenure": "2000년 6월 29일~2002년 7월 10일",
+      "birthplace": "경기 포천",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "장상(張裳)",
+      "tenure": "2002년 7월 11일~2002년 7월 31일",
+      "birthplace": "평북 용천",
+      "education": "이화여대"
+    },
+    {
+      "term_no": "직무대행",
+      "name": "전윤철(田允喆)",
+      "tenure": "2002년 8월 1일~2002년 8월 8일",
+      "birthplace": "전남 목포",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "장대환(張大煥)",
+      "tenure": "2002년 8월 9일~2002년 8월 28일",
+      "birthplace": "경북 대구 (현 경북과 분리)",
+      "education": "서울대"
+    },
+    {
+      "term_no": "직무대행",
+      "name": "전윤철(田允喆)",
+      "tenure": "2002년 8월 29일~2002년 9월 9일",
+      "birthplace": "전남 목포",
+      "education": "서울대"
+    },
+    {
+      "term_no": "서리",
+      "name": "김석수(金碩洙)",
+      "tenure": "2002년 9월 10일~2002년 10월 4일",
+      "birthplace": "경남 하동",
+      "education": "연세대"
+    },
+    {
+      "term_no": "34대",
+      "name": "김석수(金碩洙)",
+      "tenure": "2002년 10월 5일~2003년 2월 26일",
+      "birthplace": "경남 하동",
+      "education": "연세대"
+    },
+    {
+      "term_no": "임시 직무대행",
+      "name": "이상주(李相周)",
+      "tenure": "2003년 2월 25일~2003년 2월 26일",
+      "birthplace": "경북 경주",
+      "education": "서울대"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 국무총리 - Free Download",
+    "description": "대한민국 역대 국무총리의 대수, 이름, 임기, 출신지, 출신학교 목록. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 국무총리 | ListBase",
+    "seo_description": "Download 대한민국의 역대 국무총리 — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_국무총리"
+    ]
+  }
+}

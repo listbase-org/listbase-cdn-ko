@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:22.541Z",
-  "total_datasets": 418,
-  "total_records": 444953,
+  "generated": "2026-10-22T04:23:25.240Z",
+  "total_datasets": 419,
+  "total_records": 445018,
   "categories": [
     {
       "id": "culture",
@@ -50,6 +50,10 @@
     },
     {
       "id": "music",
+      "dataset_count": 1
+    },
+    {
+      "id": "politics",
       "dataset_count": 1
     },
     {
@@ -6265,6 +6269,32 @@
         "xlsx": {
           "name": "ko-golden-disc-daesang_KO.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "ko-gungmu-chongni",
+      "name": "대한민국의 역대 국무총리",
+      "category": "politics",
+      "record_count": 65,
+      "columns": [
+        "term_no",
+        "name",
+        "tenure",
+        "birthplace",
+        "education"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_국무총리",
+      "updated": "2026-10",
+      "size": 15963,
+      "files": {
+        "csv": {
+          "name": "ko-gungmu-chongni_KO.csv",
+          "size": 7716
+        },
+        "xlsx": {
+          "name": "ko-gungmu-chongni_KO.xlsx",
+          "size": 10550
         }
       }
     },
