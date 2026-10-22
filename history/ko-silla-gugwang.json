@@ -1,0 +1,324 @@
+{
+  "id": "ko-silla-gugwang",
+  "name": "신라의 역대 국왕",
+  "title": "신라의 역대 국왕",
+  "description": "신라 역대 국왕의 대수, 시호, 휘, 재위 기간 목록.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/신라의_국왕",
+  "source_url": "https://ko.wikipedia.org/wiki/신라의_국왕",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "-",
+      "title": "태조(太祖)",
+      "personal_name": "김성한(金星漢)",
+      "reign": "(추존)",
+      "note": "추존 연대 미상. 문무왕릉비, 김인문묘비, 흥덕왕릉비 진철대사탑비, 원주 흥법사지 진공대사탑비 등에서 그를 태조로 기록하였다."
+    },
+    {
+      "order": "-",
+      "title": "사요 갈문왕",
+      "personal_name": "사요 갈문왕",
+      "reign": "(추존)",
+      "note": "유리 이사금의 장인."
+    },
+    {
+      "order": "-",
+      "title": "허루 갈문왕",
+      "personal_name": "허루 갈문왕",
+      "reign": "(추존)",
+      "note": "파사 이사금의 장인."
+    },
+    {
+      "order": "-",
+      "title": "마제 갈문왕",
+      "personal_name": "마제 갈문왕",
+      "reign": "(추존)",
+      "note": "지마 이사금의 장인."
+    },
+    {
+      "order": "-",
+      "title": "일지 갈문왕",
+      "personal_name": "일지 갈문왕",
+      "reign": "(추존)",
+      "note": "일성 이사금의 외할아버지."
+    },
+    {
+      "order": "-",
+      "title": "지소례왕",
+      "personal_name": "지소례왕",
+      "reign": "(추존)",
+      "note": "일성 이사금의 장인."
+    },
+    {
+      "order": "-",
+      "title": "아도 갈문왕",
+      "personal_name": "아도 갈문왕",
+      "reign": "(추존)",
+      "note": "일성 이사금에 의해 추존됨, 지마 이사금의 아들"
+    },
+    {
+      "order": "-",
+      "title": "이칠 갈문왕",
+      "personal_name": "이칠 갈문왕",
+      "reign": "(추존)",
+      "note": "미추 이사금의 외할아버지"
+    },
+    {
+      "order": "-",
+      "title": "구도 갈문왕",
+      "personal_name": "구도 갈문왕",
+      "reign": "(추존)",
+      "note": "미추 이사금에 의해 추존됨, 미추 이사금의 아버지"
+    },
+    {
+      "order": "-",
+      "title": "내음 갈문왕",
+      "personal_name": "내음 갈문왕",
+      "reign": "(추존)",
+      "note": "내해 이사금의 아들, 유례 이사금의 외조부"
+    },
+    {
+      "order": "-",
+      "title": "세신",
+      "personal_name": "석골정",
+      "reign": "(추존)",
+      "note": "첨해 이사금에 의해 추존됨, 조분 이사금의 아버지"
+    },
+    {
+      "order": "-",
+      "title": "파호 갈문왕",
+      "personal_name": "파호 갈문왕",
+      "reign": "(추존)",
+      "note": "눌지 마립간의 동생"
+    },
+    {
+      "order": "-",
+      "title": "습보 갈문왕",
+      "personal_name": "습보 갈문왕",
+      "reign": "(추존)",
+      "note": "지증왕의 생부"
+    },
+    {
+      "order": "-",
+      "title": "지도로 갈문왕",
+      "personal_name": "지도로 갈문왕",
+      "reign": "(추존)",
+      "note": "지증왕의 즉위 전 호칭"
+    },
+    {
+      "order": "-",
+      "title": "입종 갈문왕",
+      "personal_name": "입종 갈문왕",
+      "reign": "(추존)",
+      "note": "법흥왕의 동생"
+    },
+    {
+      "order": "-",
+      "title": "동륜태자",
+      "personal_name": "동륜태자",
+      "reign": "(추존)",
+      "note": "진흥왕에 의해 추봉됨, 진흥왕의 아들"
+    },
+    {
+      "order": "-",
+      "title": "진정 갈문왕",
+      "personal_name": "백반",
+      "reign": "(추존)",
+      "note": "진평왕에 의해 추봉됨, 진평왕의 동생"
+    },
+    {
+      "order": "-",
+      "title": "진안 갈문왕",
+      "personal_name": "국반",
+      "reign": "(추존)",
+      "note": "진평왕에 의해 추봉됨, 진평왕의 동생"
+    },
+    {
+      "order": "-",
+      "title": "복승 갈문왕",
+      "personal_name": "복승 갈문왕",
+      "reign": "(추존)",
+      "note": "마야부인의 아버지"
+    },
+    {
+      "order": "-",
+      "title": "만천 갈문왕",
+      "personal_name": "박노(朴奴)",
+      "reign": "(추존)",
+      "note": "진덕여왕에 의해 추봉됨, 진덕여왕의 외조부"
+    },
+    {
+      "order": "-",
+      "title": "문흥갈문왕(文興葛文王)",
+      "personal_name": "김용춘(金龍春)",
+      "reign": "(추존)",
+      "note": "태종무열왕에 의해 추존됨, 태종무열왕의 아버지. 별칭 탁문흥갈문왕."
+    },
+    {
+      "order": "-",
+      "title": "흥무왕(興武王)",
+      "personal_name": "김유신(金庾信)",
+      "reign": "(추존)",
+      "note": "흥덕왕에 의해 왕으로 추존됨, 김해 김씨 중시조."
+    },
+    {
+      "order": "-",
+      "title": "개성왕(開聖王)",
+      "personal_name": "김효방(金孝芳)",
+      "reign": "(추존)",
+      "note": "선덕왕에 의해 추존됨, 선덕왕의 아버지."
+    },
+    {
+      "order": "-",
+      "title": "현성왕(玄聖王)",
+      "personal_name": "김법선(金法宣)",
+      "reign": "(추존)",
+      "note": "원성왕에 의해 추존됨, 원성왕의 고조부."
+    },
+    {
+      "order": "-",
+      "title": "신영왕(神英王)",
+      "personal_name": "김의관(金義寬)",
+      "reign": "(추존)",
+      "note": "원성왕에 의해 추존됨, 원성왕의 증조부."
+    },
+    {
+      "order": "-",
+      "title": "흥평왕(興平王)",
+      "personal_name": "김위문(金魏文)",
+      "reign": "(추존)",
+      "note": "원성왕에 의해 추존됨, 원성왕의 조부."
+    },
+    {
+      "order": "-",
+      "title": "명덕왕(明德王)",
+      "personal_name": "김효양(金孝讓)",
+      "reign": "(추존)",
+      "note": "원성왕에 의해 추존됨, 원성왕의 아버지."
+    },
+    {
+      "order": "-",
+      "title": "혜충왕(惠忠王)",
+      "personal_name": "김인겸(金仁謙)",
+      "reign": "(추존)",
+      "note": "소성왕에 의해 추존됨, 소성왕의 아버지."
+    },
+    {
+      "order": "-",
+      "title": "익성왕(翌成王)",
+      "personal_name": "김헌정(金憲貞)",
+      "reign": "(추존)",
+      "note": "희강왕에 의해 추존됨, 희강왕의 아버지."
+    },
+    {
+      "order": "-",
+      "title": "선강왕(宣康王)",
+      "personal_name": "김충공(金忠恭)",
+      "reign": "(추존)",
+      "note": "민애왕에 의해 추존됨, 민애왕의 아버지. 별칭 충공 갈문왕."
+    },
+    {
+      "order": "-",
+      "title": "혜강왕(惠康王)",
+      "personal_name": "김예영(金禮英)",
+      "reign": "(추존)",
+      "note": "신무왕에 의해 추존됨, 신무왕의 조부."
+    },
+    {
+      "order": "-",
+      "title": "성덕왕(成德王)",
+      "personal_name": "김균정(金均貞)",
+      "reign": "(추존)",
+      "note": "신무왕에 의해 추존됨, 신무왕의 아버지."
+    },
+    {
+      "order": "-",
+      "title": "의공왕(懿恭王)",
+      "personal_name": "김계명(金啟明)",
+      "reign": "(추존)",
+      "note": "경문왕에 의해 추존됨, 경문왕의 아버지."
+    },
+    {
+      "order": "-",
+      "title": "혜성왕(惠成王)",
+      "personal_name": "김위홍(金魏弘)",
+      "reign": "(추존)",
+      "note": "진성여왕에 의해 추존됨, 진성여왕의 숙부."
+    },
+    {
+      "order": "-",
+      "title": "선성왕(宣聖王)",
+      "personal_name": "박예겸(朴銳謙)",
+      "reign": "(추존)",
+      "note": "신덕왕에 의해 추존됨, 신덕왕의 의부."
+    },
+    {
+      "order": "-",
+      "title": "흥렴왕(興廉王)",
+      "personal_name": "박문원(朴文元)",
+      "reign": "(추존)",
+      "note": "신덕왕에 의해 추존됨, 신덕왕의 생부."
+    },
+    {
+      "order": "-",
+      "title": "성희왕(聖僖王)",
+      "personal_name": "김대존(金大尊)",
+      "reign": "(추존)",
+      "note": "경명왕에 의해 추존됨, 경명왕의 장인."
+    },
+    {
+      "order": "-",
+      "title": "의흥왕(懿興王)",
+      "personal_name": "김인경(金仁慶)",
+      "reign": "(추존)",
+      "note": "경순왕에 의해 추존됨, 경순왕의 조부."
+    },
+    {
+      "order": "-",
+      "title": "신흥왕(神興王)",
+      "personal_name": "김효종(金孝宗)",
+      "reign": "(추존)",
+      "note": "경순왕에 의해 추존됨, 경순왕의 생부."
+    }
+  ],
+  "meta": {
+    "title": "신라의 역대 국왕 - Free Download",
+    "description": "신라 역대 국왕의 대수, 시호, 휘, 재위 기간 목록. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "신라의 역대 국왕 | ListBase",
+    "seo_description": "Download 신라의 역대 국왕 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/신라의_국왕"
+    ]
+  }
+}

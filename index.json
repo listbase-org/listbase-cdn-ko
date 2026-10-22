@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:46.943Z",
-  "total_datasets": 428,
-  "total_records": 445402,
+  "generated": "2026-10-22T04:23:49.266Z",
+  "total_datasets": 429,
+  "total_records": 445441,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -6231,6 +6231,32 @@
         "xlsx": {
           "name": "ko-joseon-gugwang_KO.xlsx",
           "size": 10946
+        }
+      }
+    },
+    {
+      "id": "ko-silla-gugwang",
+      "name": "신라의 역대 국왕",
+      "category": "history",
+      "record_count": 39,
+      "columns": [
+        "order",
+        "title",
+        "personal_name",
+        "reign",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/신라의_국왕",
+      "updated": "2026-10",
+      "size": 9630,
+      "files": {
+        "csv": {
+          "name": "ko-silla-gugwang_KO.csv",
+          "size": 4369
+        },
+        "xlsx": {
+          "name": "ko-silla-gugwang_KO.xlsx",
+          "size": 8816
         }
       }
     },
