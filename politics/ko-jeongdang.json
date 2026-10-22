@@ -1,0 +1,241 @@
+{
+  "id": "ko-jeongdang",
+  "name": "대한민국의 등록 정당 목록",
+  "title": "대한민국의 등록 정당 목록",
+  "description": "중앙선거관리위원회에 등록된 대한민국 정당의 이름, 대표자, 등록일 목록.",
+  "category": "politics",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_정당_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_정당_목록",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "leader",
+      "label": "Leader",
+      "type": "string"
+    },
+    {
+      "key": "registered",
+      "label": "Registered",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "name": "가가국민참여신당",
+      "leader": "박정원",
+      "registered": "2015-12-02"
+    },
+    {
+      "name": "가나반공정당코리아",
+      "leader": "류승구",
+      "registered": "2012-11-13"
+    },
+    {
+      "name": "거지당",
+      "leader": "김준수",
+      "registered": "2020-12-14"
+    },
+    {
+      "name": "공화당",
+      "leader": "김재원",
+      "registered": "2020-03-24"
+    },
+    {
+      "name": "국가혁명당",
+      "leader": "송순권 (권한대행)",
+      "registered": "2019-09-11"
+    },
+    {
+      "name": "국민대통합당",
+      "leader": "김천식",
+      "registered": "2015-10-07"
+    },
+    {
+      "name": "국민연합",
+      "leader": "김현욱",
+      "registered": "2017-04-15"
+    },
+    {
+      "name": "국민주권당",
+      "leader": "박준의, 구산하",
+      "registered": "2023-12-28"
+    },
+    {
+      "name": "국민통합연대",
+      "leader": "권혁민",
+      "registered": "2023-05-15"
+    },
+    {
+      "name": "기독당",
+      "leader": "박두식",
+      "registered": "2020-08-24"
+    },
+    {
+      "name": "노동당",
+      "leader": "이백윤, 고유미",
+      "registered": "2012-10-22"
+    },
+    {
+      "name": "녹색당",
+      "leader": "이상현",
+      "registered": "2012-10-22"
+    },
+    {
+      "name": "대한국민당",
+      "leader": "김종갑",
+      "registered": "2021-06-04"
+    },
+    {
+      "name": "대한당",
+      "leader": "이석인",
+      "registered": "2016-02-15"
+    },
+    {
+      "name": "대한민국당",
+      "leader": "김삼생",
+      "registered": "2012-07-16"
+    },
+    {
+      "name": "대한상공인당",
+      "leader": "(공석)",
+      "registered": "2024-03-18"
+    },
+    {
+      "name": "미래당",
+      "leader": "최지선",
+      "registered": "2017-03-20"
+    },
+    {
+      "name": "미래연대",
+      "leader": "김호일",
+      "registered": "2016-02-15"
+    },
+    {
+      "name": "민주평화당",
+      "leader": "남일",
+      "registered": "2020-02-27"
+    },
+    {
+      "name": "민중민주당",
+      "leader": "이상훈",
+      "registered": "2016-11-21"
+    },
+    {
+      "name": "새누리당",
+      "leader": "성영애",
+      "registered": "2017-04-10"
+    },
+    {
+      "name": "새미래민주당",
+      "leader": "전병헌",
+      "registered": "2024-02-19"
+    },
+    {
+      "name": "여성의당",
+      "leader": "박진숙",
+      "registered": "2020-03-16"
+    },
+    {
+      "name": "열린민주당",
+      "leader": "김인태",
+      "registered": "2022-12-23"
+    },
+    {
+      "name": "우리공화당",
+      "leader": "조원진",
+      "registered": "2020-03-06"
+    },
+    {
+      "name": "자유민주당",
+      "leader": "고영주",
+      "registered": "2021-03-15"
+    },
+    {
+      "name": "자유와혁신",
+      "leader": "황교안",
+      "registered": "2025-08-18"
+    },
+    {
+      "name": "자유통일당",
+      "leader": "김종대",
+      "registered": "2016-03-16"
+    },
+    {
+      "name": "정의당",
+      "leader": "권영국",
+      "registered": "2012-10-31"
+    },
+    {
+      "name": "중도혁신당",
+      "leader": "김중일, 이기남",
+      "registered": "2024-03-07"
+    },
+    {
+      "name": "친미연합",
+      "leader": "최창원",
+      "registered": "2020-03-06"
+    },
+    {
+      "name": "태건당",
+      "leader": "방상용",
+      "registered": "2024-02-27"
+    },
+    {
+      "name": "통일한국당",
+      "leader": "이경희",
+      "registered": "2021-06-04"
+    },
+    {
+      "name": "한국국민당",
+      "leader": "윤영오",
+      "registered": "2015-08-04"
+    },
+    {
+      "name": "한국농어민당",
+      "leader": "김도건",
+      "registered": "2023-11-20"
+    },
+    {
+      "name": "한국독립당",
+      "leader": "조규면",
+      "registered": "2007-08-08"
+    },
+    {
+      "name": "한나라당",
+      "leader": "이태희",
+      "registered": "2013-04-15"
+    },
+    {
+      "name": "한류연합당",
+      "leader": "김영종",
+      "registered": "2021-01-26"
+    },
+    {
+      "name": "한반도미래당",
+      "leader": "김정선",
+      "registered": "2023-12-20"
+    },
+    {
+      "name": "홍익당",
+      "leader": "윤홍식",
+      "registered": "2017-04-10"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 등록 정당 목록 - Free Download",
+    "description": "중앙선거관리위원회에 등록된 대한민국 정당의 이름, 대표자, 등록일 목록. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 등록 정당 목록 | ListBase",
+    "seo_description": "Download 대한민국의 등록 정당 목록 — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_정당_목록"
+    ]
+  }
+}

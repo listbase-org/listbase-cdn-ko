@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:32.691Z",
-  "total_datasets": 422,
-  "total_records": 445156,
+  "generated": "2026-10-22T04:23:34.931Z",
+  "total_datasets": 423,
+  "total_records": 445196,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -6352,6 +6352,30 @@
         "xlsx": {
           "name": "ko-gungmu-chongni_KO.xlsx",
           "size": 10550
+        }
+      }
+    },
+    {
+      "id": "ko-jeongdang",
+      "name": "대한민국의 등록 정당 목록",
+      "category": "politics",
+      "record_count": 40,
+      "columns": [
+        "name",
+        "leader",
+        "registered"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_정당_목록",
+      "updated": "2026-10",
+      "size": 5773,
+      "files": {
+        "csv": {
+          "name": "ko-jeongdang_KO.csv",
+          "size": 1756
+        },
+        "xlsx": {
+          "name": "ko-jeongdang_KO.xlsx",
+          "size": 8249
         }
       }
     },
