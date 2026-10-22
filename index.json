@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:30.204Z",
-  "total_datasets": 421,
-  "total_records": 445074,
+  "generated": "2026-10-22T04:23:32.691Z",
+  "total_datasets": 422,
+  "total_records": 445156,
   "categories": [
     {
       "id": "culture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -9273,6 +9273,33 @@
         "xlsx": {
           "name": "ko-dosi-ingu-sunwi_KO.xlsx",
           "size": 11750
+        }
+      }
+    },
+    {
+      "id": "ko-ingu-donghyang",
+      "name": "대한민국 연도별 인구 동향",
+      "category": "society",
+      "record_count": 82,
+      "columns": [
+        "year",
+        "population",
+        "births",
+        "deaths",
+        "natural_increase",
+        "crude_birth_rate"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+      "updated": "2026-10",
+      "size": 16571,
+      "files": {
+        "csv": {
+          "name": "ko-ingu-donghyang_KO.csv",
+          "size": 4276
+        },
+        "xlsx": {
+          "name": "ko-ingu-donghyang_KO.xlsx",
+          "size": 10856
         }
       }
     },

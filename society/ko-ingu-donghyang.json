@@ -1,0 +1,712 @@
+{
+  "id": "ko-ingu-donghyang",
+  "name": "대한민국 연도별 인구 동향",
+  "title": "대한민국 연도별 인구 동향",
+  "description": "대한민국의 연도별 추계인구, 출생자수, 사망자수, 자연증가수, 조출생률 통계.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+  "updated": "2026-10",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "births",
+      "label": "Births",
+      "type": "number"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "natural_increase",
+      "label": "Natural Increase",
+      "type": "number"
+    },
+    {
+      "key": "crude_birth_rate",
+      "label": "Crude Birth Rate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1945",
+      "population": 16695819,
+      "births": 544786,
+      "deaths": 367308,
+      "natural_increase": "177478",
+      "crude_birth_rate": "32.6"
+    },
+    {
+      "year": "1946",
+      "population": 19369270,
+      "births": 590763,
+      "deaths": 410629,
+      "natural_increase": "180134",
+      "crude_birth_rate": "30.5"
+    },
+    {
+      "year": "1947",
+      "population": 19836234,
+      "births": 686334,
+      "deaths": 361019,
+      "natural_increase": "325315",
+      "crude_birth_rate": 35
+    },
+    {
+      "year": "1948",
+      "population": 20027393,
+      "births": 692948,
+      "deaths": 374512,
+      "natural_increase": "318436",
+      "crude_birth_rate": "34.6"
+    },
+    {
+      "year": "1949",
+      "population": 20188641,
+      "births": 696508,
+      "deaths": 341188,
+      "natural_increase": "355320",
+      "crude_birth_rate": "34.5"
+    },
+    {
+      "year": "1950",
+      "population": 19211386,
+      "births": 633976,
+      "deaths": 597474,
+      "natural_increase": "36502",
+      "crude_birth_rate": 33
+    },
+    {
+      "year": "1951",
+      "population": 19304737,
+      "births": 675666,
+      "deaths": 579142,
+      "natural_increase": "96524",
+      "crude_birth_rate": 35
+    },
+    {
+      "year": "1952",
+      "population": 19566860,
+      "births": 722018,
+      "deaths": 457865,
+      "natural_increase": "264153",
+      "crude_birth_rate": "36.9"
+    },
+    {
+      "year": "1953",
+      "population": 19979069,
+      "births": 777186,
+      "deaths": 363619,
+      "natural_increase": "413567",
+      "crude_birth_rate": "38.9"
+    },
+    {
+      "year": "1954",
+      "population": 20520601,
+      "births": 839293,
+      "deaths": 348850,
+      "natural_increase": "490433",
+      "crude_birth_rate": "40.9"
+    },
+    {
+      "year": "1955",
+      "population": 21168611,
+      "births": 908134,
+      "deaths": 295302,
+      "natural_increase": "612832",
+      "crude_birth_rate": "42.9"
+    },
+    {
+      "year": "1956",
+      "population": 21897911,
+      "births": 945990,
+      "deaths": 294344,
+      "natural_increase": "651646",
+      "crude_birth_rate": "43.2"
+    },
+    {
+      "year": "1957",
+      "population": 22681233,
+      "births": 963952,
+      "deaths": 293344,
+      "natural_increase": "670608",
+      "crude_birth_rate": "42.5"
+    },
+    {
+      "year": "1958",
+      "population": 23490027,
+      "births": 993628,
+      "deaths": 291864,
+      "natural_increase": "701764",
+      "crude_birth_rate": "42.3"
+    },
+    {
+      "year": "1959",
+      "population": 24295786,
+      "births": 1016173,
+      "deaths": 289525,
+      "natural_increase": "726648",
+      "crude_birth_rate": "41.8"
+    },
+    {
+      "year": "1960",
+      "population": 25012374,
+      "births": 1080535,
+      "deaths": 285350,
+      "natural_increase": "795185",
+      "crude_birth_rate": "43.2"
+    },
+    {
+      "year": "1961",
+      "population": 25765673,
+      "births": 1046086,
+      "deaths": 280846,
+      "natural_increase": "765240",
+      "crude_birth_rate": "40.6"
+    },
+    {
+      "year": "1962",
+      "population": 26513030,
+      "births": 1036659,
+      "deaths": 270433,
+      "natural_increase": "760266",
+      "crude_birth_rate": "39.1"
+    },
+    {
+      "year": "1963",
+      "population": 27261747,
+      "births": 1033220,
+      "deaths": 278070,
+      "natural_increase": "755150",
+      "crude_birth_rate": "37.9"
+    },
+    {
+      "year": "1964",
+      "population": 27984155,
+      "births": 1001833,
+      "deaths": 279842,
+      "natural_increase": "721991",
+      "crude_birth_rate": "35.8"
+    },
+    {
+      "year": "1965",
+      "population": 28704674,
+      "births": 996052,
+      "deaths": 272694,
+      "natural_increase": "723358",
+      "crude_birth_rate": "34.7"
+    },
+    {
+      "year": "1966",
+      "population": 29435571,
+      "births": 1030245,
+      "deaths": 294356,
+      "natural_increase": "735889",
+      "crude_birth_rate": 35
+    },
+    {
+      "year": "1967",
+      "population": 30130983,
+      "births": 1005293,
+      "deaths": 242280,
+      "natural_increase": "763013",
+      "crude_birth_rate": "33.4"
+    },
+    {
+      "year": "1968",
+      "population": 30838302,
+      "births": 1043321,
+      "deaths": 280308,
+      "natural_increase": "763013",
+      "crude_birth_rate": "33.8"
+    },
+    {
+      "year": "1969",
+      "population": 31544266,
+      "births": 1044943,
+      "deaths": 270023,
+      "natural_increase": "774920",
+      "crude_birth_rate": "33.1"
+    },
+    {
+      "year": "1970",
+      "population": 32240827,
+      "births": 1006645,
+      "deaths": 258589,
+      "natural_increase": "748056",
+      "crude_birth_rate": "31.2"
+    },
+    {
+      "year": "1971",
+      "population": 32882704,
+      "births": 1024773,
+      "deaths": 237528,
+      "natural_increase": "787245",
+      "crude_birth_rate": "31.2"
+    },
+    {
+      "year": "1972",
+      "population": 33505406,
+      "births": 952780,
+      "deaths": 210071,
+      "natural_increase": "742709",
+      "crude_birth_rate": "28.4"
+    },
+    {
+      "year": "1973",
+      "population": 34103149,
+      "births": 965521,
+      "deaths": 267460,
+      "natural_increase": "698061",
+      "crude_birth_rate": "28.3"
+    },
+    {
+      "year": "1974",
+      "population": 34692266,
+      "births": 922823,
+      "deaths": 248807,
+      "natural_increase": "674016",
+      "crude_birth_rate": "26.6"
+    },
+    {
+      "year": "1975",
+      "population": 35280725,
+      "births": 874030,
+      "deaths": 270657,
+      "natural_increase": "603373",
+      "crude_birth_rate": "24.8"
+    },
+    {
+      "year": "1976",
+      "population": 35848523,
+      "births": 796331,
+      "deaths": 266857,
+      "natural_increase": "529474",
+      "crude_birth_rate": "22.2"
+    },
+    {
+      "year": "1977",
+      "population": 36411795,
+      "births": 825339,
+      "deaths": 249254,
+      "natural_increase": "576085",
+      "crude_birth_rate": "22.7"
+    },
+    {
+      "year": "1978",
+      "population": 36969185,
+      "births": 750728,
+      "deaths": 252298,
+      "natural_increase": "498430",
+      "crude_birth_rate": "20.3"
+    },
+    {
+      "year": "1979",
+      "population": 37534236,
+      "births": 862669,
+      "deaths": 239986,
+      "natural_increase": "622683",
+      "crude_birth_rate": 23
+    },
+    {
+      "year": "1980",
+      "population": 38123775,
+      "births": 862835,
+      "deaths": 277284,
+      "natural_increase": "585551",
+      "crude_birth_rate": "22.6"
+    },
+    {
+      "year": "1981",
+      "population": 38723248,
+      "births": 867409,
+      "deaths": 237481,
+      "natural_increase": "629928",
+      "crude_birth_rate": "22.4"
+    },
+    {
+      "year": "1982",
+      "population": 39326352,
+      "births": 848312,
+      "deaths": 245767,
+      "natural_increase": "602545",
+      "crude_birth_rate": "21.6"
+    },
+    {
+      "year": "1983",
+      "population": 39910403,
+      "births": 769155,
+      "deaths": 254563,
+      "natural_increase": "514592",
+      "crude_birth_rate": "19.3"
+    },
+    {
+      "year": "1984",
+      "population": 40405956,
+      "births": 674793,
+      "deaths": 236445,
+      "natural_increase": "438348",
+      "crude_birth_rate": "16.7"
+    },
+    {
+      "year": "1985",
+      "population": 40805744,
+      "births": 655489,
+      "deaths": 240418,
+      "natural_increase": "415071",
+      "crude_birth_rate": "16.1"
+    },
+    {
+      "year": "1986",
+      "population": 41213674,
+      "births": 636019,
+      "deaths": 239256,
+      "natural_increase": "396763",
+      "crude_birth_rate": "15.4"
+    },
+    {
+      "year": "1987",
+      "population": 41621690,
+      "births": 623831,
+      "deaths": 243504,
+      "natural_increase": "380327",
+      "crude_birth_rate": 15
+    },
+    {
+      "year": "1988",
+      "population": 42031247,
+      "births": 633092,
+      "deaths": 235779,
+      "natural_increase": "397313",
+      "crude_birth_rate": "15.1"
+    },
+    {
+      "year": "1989",
+      "population": 42449038,
+      "births": 639431,
+      "deaths": 236818,
+      "natural_increase": "402613",
+      "crude_birth_rate": "15.1"
+    },
+    {
+      "year": "1990",
+      "population": 42869283,
+      "births": 649738,
+      "deaths": 241616,
+      "natural_increase": "408122",
+      "crude_birth_rate": "15.2"
+    },
+    {
+      "year": "1991",
+      "population": 43295704,
+      "births": 709275,
+      "deaths": 242270,
+      "natural_increase": "467005",
+      "crude_birth_rate": "16.4"
+    },
+    {
+      "year": "1992",
+      "population": 43747962,
+      "births": 730678,
+      "deaths": 236162,
+      "natural_increase": "494516",
+      "crude_birth_rate": "16.7"
+    },
+    {
+      "year": "1993",
+      "population": 44194628,
+      "births": 715826,
+      "deaths": 234257,
+      "natural_increase": "481569",
+      "crude_birth_rate": 16
+    },
+    {
+      "year": "1994",
+      "population": 44641540,
+      "births": 721185,
+      "deaths": 242439,
+      "natural_increase": "478746",
+      "crude_birth_rate": 16
+    },
+    {
+      "year": "1995",
+      "population": 45092991,
+      "births": 715020,
+      "deaths": 242838,
+      "natural_increase": "472182",
+      "crude_birth_rate": "15.7"
+    },
+    {
+      "year": "1996",
+      "population": 45524681,
+      "births": 691226,
+      "deaths": 241149,
+      "natural_increase": "450077",
+      "crude_birth_rate": 15
+    },
+    {
+      "year": "1997",
+      "population": 45953580,
+      "births": 675394,
+      "deaths": 241943,
+      "natural_increase": "433451",
+      "crude_birth_rate": "14.4"
+    },
+    {
+      "year": "1998",
+      "population": 46286503,
+      "births": 641594,
+      "deaths": 243193,
+      "natural_increase": "398401",
+      "crude_birth_rate": "13.6"
+    },
+    {
+      "year": "1999",
+      "population": 46616677,
+      "births": 620668,
+      "deaths": 245364,
+      "natural_increase": "375304",
+      "crude_birth_rate": 13
+    },
+    {
+      "year": "2000",
+      "population": 47008111,
+      "births": 640089,
+      "deaths": 246163,
+      "natural_increase": "393326",
+      "crude_birth_rate": "13.3"
+    },
+    {
+      "year": "2001",
+      "population": 47370164,
+      "births": 559934,
+      "deaths": 241521,
+      "natural_increase": "318413",
+      "crude_birth_rate": "11.6"
+    },
+    {
+      "year": "2002",
+      "population": 47644736,
+      "births": 496911,
+      "deaths": 245317,
+      "natural_increase": "251594",
+      "crude_birth_rate": "10.2"
+    },
+    {
+      "year": "2003",
+      "population": 47892330,
+      "births": 495096,
+      "deaths": 244506,
+      "natural_increase": "250590",
+      "crude_birth_rate": "10.2"
+    },
+    {
+      "year": "2004",
+      "population": 48082519,
+      "births": 476958,
+      "deaths": 244217,
+      "natural_increase": "232741",
+      "crude_birth_rate": "9.8"
+    },
+    {
+      "year": "2005",
+      "population": 48184561,
+      "births": 438707,
+      "deaths": 243883,
+      "natural_increase": "194824",
+      "crude_birth_rate": 9
+    },
+    {
+      "year": "2006",
+      "population": 48438292,
+      "births": 451759,
+      "deaths": 242266,
+      "natural_increase": "209593",
+      "crude_birth_rate": "9.2"
+    },
+    {
+      "year": "2007",
+      "population": 48683638,
+      "births": 496822,
+      "deaths": 244874,
+      "natural_increase": "251948",
+      "crude_birth_rate": 10
+    },
+    {
+      "year": "2008",
+      "population": 49054708,
+      "births": 465892,
+      "deaths": 246113,
+      "natural_increase": "219779",
+      "crude_birth_rate": "9.4"
+    },
+    {
+      "year": "2009",
+      "population": 49307835,
+      "births": 444849,
+      "deaths": 246942,
+      "natural_increase": "197907",
+      "crude_birth_rate": 9
+    },
+    {
+      "year": "2010",
+      "population": 49554112,
+      "births": 470171,
+      "deaths": 255405,
+      "natural_increase": "214766",
+      "crude_birth_rate": "9.4"
+    },
+    {
+      "year": "2011",
+      "population": 49936638,
+      "births": 471265,
+      "deaths": 257396,
+      "natural_increase": "213869",
+      "crude_birth_rate": "9.4"
+    },
+    {
+      "year": "2012",
+      "population": 50199853,
+      "births": 484550,
+      "deaths": 267300,
+      "natural_increase": "217000",
+      "crude_birth_rate": "9.6"
+    },
+    {
+      "year": "2013",
+      "population": 50428893,
+      "births": 436455,
+      "deaths": 266257,
+      "natural_increase": "170198",
+      "crude_birth_rate": "8.6"
+    },
+    {
+      "year": "2014",
+      "population": 50746659,
+      "births": 435435,
+      "deaths": 267692,
+      "natural_increase": "167743",
+      "crude_birth_rate": "8.6"
+    },
+    {
+      "year": "2015",
+      "population": 51014947,
+      "births": 438420,
+      "deaths": 275895,
+      "natural_increase": "162925",
+      "crude_birth_rate": "8.6"
+    },
+    {
+      "year": "2016",
+      "population": 51217803,
+      "births": 406243,
+      "deaths": 280827,
+      "natural_increase": "125416",
+      "crude_birth_rate": "7.9"
+    },
+    {
+      "year": "2017",
+      "population": 51361911,
+      "births": 357771,
+      "deaths": 285534,
+      "natural_increase": "72237",
+      "crude_birth_rate": 7
+    },
+    {
+      "year": "2018",
+      "population": 51585058,
+      "births": 326822,
+      "deaths": 298820,
+      "natural_increase": "28002",
+      "crude_birth_rate": "6.4"
+    },
+    {
+      "year": "2019",
+      "population": 51764822,
+      "births": 303054,
+      "deaths": 295132,
+      "natural_increase": "7922",
+      "crude_birth_rate": "5.9"
+    },
+    {
+      "year": "2020",
+      "population": 51836239,
+      "births": 272337,
+      "deaths": 304948,
+      "natural_increase": "-32611",
+      "crude_birth_rate": "5.3"
+    },
+    {
+      "year": "2021",
+      "population": 51744876,
+      "births": 260562,
+      "deaths": 317680,
+      "natural_increase": "-57118",
+      "crude_birth_rate": "5.1"
+    },
+    {
+      "year": "2022",
+      "population": 51628117,
+      "births": 249186,
+      "deaths": 372939,
+      "natural_increase": "-123753",
+      "crude_birth_rate": "4.9"
+    },
+    {
+      "year": "2023",
+      "population": 51430018,
+      "births": 229971,
+      "deaths": 352721,
+      "natural_increase": "-122750",
+      "crude_birth_rate": "4.5"
+    },
+    {
+      "year": "2024",
+      "population": 51751065,
+      "births": 238300,
+      "deaths": 358400,
+      "natural_increase": "−120,100",
+      "crude_birth_rate": "4.7"
+    },
+    {
+      "year": "2025",
+      "population": 51667000,
+      "births": 254457,
+      "deaths": 363389,
+      "natural_increase": "−108,931",
+      "crude_birth_rate": ""
+    },
+    {
+      "year": "2026",
+      "population": "",
+      "births": "",
+      "deaths": "",
+      "natural_increase": "",
+      "crude_birth_rate": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 연도별 인구 동향 - Free Download",
+    "description": "대한민국의 연도별 추계인구, 출생자수, 사망자수, 자연증가수, 조출생률 통계. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 연도별 인구 동향 | ListBase",
+    "seo_description": "Download 대한민국 연도별 인구 동향 — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_인구"
+    ]
+  }
+}
