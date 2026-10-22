@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:37.276Z",
-  "total_datasets": 424,
-  "total_records": 445222,
+  "generated": "2026-10-22T04:23:39.874Z",
+  "total_datasets": 425,
+  "total_records": 445232,
   "categories": [
     {
       "id": "culture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -9410,6 +9410,33 @@
         "xlsx": {
           "name": "ko-gyeonggijang_KO.xlsx",
           "size": 12982
+        }
+      }
+    },
+    {
+      "id": "ko-kbo-gudan",
+      "name": "KBO 리그 구단",
+      "category": "sports",
+      "record_count": 10,
+      "columns": [
+        "team",
+        "region",
+        "home_stadium",
+        "second_stadium",
+        "founded",
+        "joined"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_리그",
+      "updated": "2026-10",
+      "size": 3684,
+      "files": {
+        "csv": {
+          "name": "ko-kbo-gudan_KO.csv",
+          "size": 937
+        },
+        "xlsx": {
+          "name": "ko-kbo-gudan_KO.xlsx",
+          "size": 7432
         }
       }
     },

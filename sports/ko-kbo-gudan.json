@@ -1,0 +1,136 @@
+{
+  "id": "ko-kbo-gudan",
+  "name": "KBO 리그 구단",
+  "title": "KBO 리그 구단",
+  "description": "KBO 리그 소속 프로야구 구단의 연고지, 홈 경기장, 창단 연도 목록.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/KBO_리그",
+  "source_url": "https://ko.wikipedia.org/wiki/KBO_리그",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "home_stadium",
+      "label": "Home Stadium",
+      "type": "string"
+    },
+    {
+      "key": "second_stadium",
+      "label": "Second Stadium",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "joined",
+      "label": "Joined",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "team": "롯데 자이언츠",
+      "region": "부산",
+      "home_stadium": "사직야구장",
+      "second_stadium": "울산문수야구장",
+      "founded": "1975년",
+      "joined": "1982년"
+    },
+    {
+      "team": "KIA 타이거즈",
+      "region": "전남광주",
+      "home_stadium": "광주기아챔피언스필드",
+      "second_stadium": "빈칸",
+      "founded": "1982년",
+      "joined": "1982년"
+    },
+    {
+      "team": "삼성 라이온즈",
+      "region": "대구",
+      "home_stadium": "대구삼성라이온즈파크",
+      "second_stadium": "포항야구장",
+      "founded": "1982년",
+      "joined": "1982년"
+    },
+    {
+      "team": "LG 트윈스",
+      "region": "서울",
+      "home_stadium": "서울종합운동장 야구장",
+      "second_stadium": "빈칸",
+      "founded": "1982년",
+      "joined": "1982년"
+    },
+    {
+      "team": "두산 베어스",
+      "region": "서울",
+      "home_stadium": "서울종합운동장 야구장",
+      "second_stadium": "빈칸",
+      "founded": "1982년",
+      "joined": "1982년"
+    },
+    {
+      "team": "키움 히어로즈",
+      "region": "서울",
+      "home_stadium": "고척스카이돔",
+      "second_stadium": "빈칸",
+      "founded": "2008년",
+      "joined": "2008년"
+    },
+    {
+      "team": "SSG 랜더스",
+      "region": "인천",
+      "home_stadium": "인천SSG랜더스필드",
+      "second_stadium": "빈칸",
+      "founded": "2000년",
+      "joined": "2000년"
+    },
+    {
+      "team": "kt wiz",
+      "region": "수원",
+      "home_stadium": "수원케이티위즈파크",
+      "second_stadium": "빈칸",
+      "founded": "2013년",
+      "joined": "2015년"
+    },
+    {
+      "team": "한화 이글스",
+      "region": "대전",
+      "home_stadium": "대전한화생명볼파크",
+      "second_stadium": "빈칸",
+      "founded": "1986년",
+      "joined": "1986년"
+    },
+    {
+      "team": "NC 다이노스",
+      "region": "창원",
+      "home_stadium": "창원NC파크",
+      "second_stadium": "빈칸",
+      "founded": "2011년",
+      "joined": "2013년"
+    }
+  ],
+  "meta": {
+    "title": "KBO 리그 구단 - Free Download",
+    "description": "KBO 리그 소속 프로야구 구단의 연고지, 홈 경기장, 창단 연도 목록. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBO 리그 구단 | ListBase",
+    "seo_description": "Download KBO 리그 구단 — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBO_리그"
+    ]
+  }
+}
