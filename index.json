@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-20T04:08:48.153Z",
-  "total_datasets": 414,
-  "total_records": 444693,
+  "generated": "2026-10-22T04:23:15.345Z",
+  "total_datasets": 415,
+  "total_records": 444718,
   "categories": [
     {
       "id": "culture",
@@ -39,6 +39,10 @@
     {
       "id": "language",
       "dataset_count": 2
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -6170,6 +6174,32 @@
         "xlsx": {
           "name": "ko-eoneo-byeonche_KO.xlsx",
           "size": 7567
+        }
+      }
+    },
+    {
+      "id": "ko-daebeobwonjang",
+      "name": "대한민국의 역대 대법원장",
+      "category": "law",
+      "record_count": 25,
+      "columns": [
+        "term_no",
+        "name",
+        "tenure",
+        "birthplace",
+        "education"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_대법원장",
+      "updated": "2026-10",
+      "size": 7046,
+      "files": {
+        "csv": {
+          "name": "ko-daebeobwonjang_KO.csv",
+          "size": 2924
+        },
+        "xlsx": {
+          "name": "ko-daebeobwonjang_KO.xlsx",
+          "size": 8348
         }
       }
     },

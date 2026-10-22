@@ -1,0 +1,226 @@
+{
+  "id": "ko-daebeobwonjang",
+  "name": "대한민국의 역대 대법원장",
+  "title": "대한민국의 역대 대법원장",
+  "description": "대한민국 역대 대법원장의 대수, 이름, 임기, 출신지, 출신학교 목록.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_대법원장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_대법원장",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    },
+    {
+      "key": "birthplace",
+      "label": "Birthplace",
+      "type": "string"
+    },
+    {
+      "key": "education",
+      "label": "Education",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_no": "1대",
+      "name": "김병로(金炳魯)",
+      "tenure": "1948년 9월 13일~1957년 12월 15일",
+      "birthplace": "전북 순창",
+      "education": "메이지 대학"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "김두일(金斗一)",
+      "tenure": "1957년 12월 16일~1958년 6월 19일",
+      "birthplace": "평남 성천",
+      "education": "니혼 대학"
+    },
+    {
+      "term_no": "2대",
+      "name": "조용순(趙容淳)",
+      "tenure": "1958년 6월 20일~1960년 5월 16일",
+      "birthplace": "경기 한성 (현 서울특별시)",
+      "education": "경성전수 (현 서울대)"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "배정현(裴廷鉉)",
+      "tenure": "1960년 5월 17일~1961년 6월 9일",
+      "birthplace": "경기 한성 (현 서울특별시)",
+      "education": ""
+    },
+    {
+      "term_no": "권한대행",
+      "name": "한성수(韓聖壽)",
+      "tenure": "1960년 6월 9일~1961년 6월 21일",
+      "birthplace": "경남 산청",
+      "education": ""
+    },
+    {
+      "term_no": "권한대행",
+      "name": "배정현(裴廷鉉)",
+      "tenure": "1960년 6월 21일~1961년 6월 29일",
+      "birthplace": "경기 한성 (현 서울특별시)",
+      "education": ""
+    },
+    {
+      "term_no": "3대",
+      "name": "조진만(趙鎭滿)",
+      "tenure": "1961년 6월 30일~1964년 1월 31일",
+      "birthplace": "경기 인천 (현 인천광역시)",
+      "education": "경성법학전문 (현 서울대)"
+    },
+    {
+      "term_no": "4대",
+      "name": "조진만(趙鎭滿)",
+      "tenure": "1964년 2월 1일~1968년 10월 19일",
+      "birthplace": "경기 인천 (현 인천광역시)",
+      "education": "경성법학전문 (현 서울대)"
+    },
+    {
+      "term_no": "5대",
+      "name": "민복기(閔復基)",
+      "tenure": "1968년 10월 21일~1973년 3월 13일",
+      "birthplace": "경기 한성 (현 서울특별시)",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "6대",
+      "name": "민복기(閔復基)",
+      "tenure": "1973년 3월 14일~1978년 12월 21일",
+      "birthplace": "경기 한성 (현 서울특별시)",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "이영섭(李英燮)",
+      "tenure": "1978년 12월 22일~1979년 3월 22일",
+      "birthplace": "경기 양주",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "7대",
+      "name": "이영섭(李英燮)",
+      "tenure": "1979년 3월 23일~1981년 4월 15일",
+      "birthplace": "경기 양주",
+      "education": "경성제국대 (현 서울대)"
+    },
+    {
+      "term_no": "8대",
+      "name": "유태흥(兪泰興)",
+      "tenure": "1981년 4월 16일~1986년 4월 15일",
+      "birthplace": "충남 홍성",
+      "education": "간사이 대학"
+    },
+    {
+      "term_no": "9대",
+      "name": "김용철(金容喆)",
+      "tenure": "1986년 4월 16일~1988년 6월 17일",
+      "birthplace": "경북 성주",
+      "education": "서울대"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "이정우(李正雨)",
+      "tenure": "1988년 6월 18일~1988년 7월 18일",
+      "birthplace": "경남 진양 (현 경남 진주)",
+      "education": "고려대"
+    },
+    {
+      "term_no": "10대",
+      "name": "이일규(李一珪)",
+      "tenure": "1988년 7월 19일~1990년 12월 15일",
+      "birthplace": "경남 통영",
+      "education": "간사이 대학"
+    },
+    {
+      "term_no": "11대",
+      "name": "김덕주(金德株)",
+      "tenure": "1990년 12월 16일~1993년 9월 11일",
+      "birthplace": "충남 부여",
+      "education": "서울대"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "최재호(崔在護)",
+      "tenure": "1993년 9월 12일~1993년 9월 24일",
+      "birthplace": "경북 고령",
+      "education": "서울대"
+    },
+    {
+      "term_no": "12대",
+      "name": "윤관(尹錧)",
+      "tenure": "1993년 9월 25일~1999년 9월 22일",
+      "birthplace": "전남 해남",
+      "education": "연세대"
+    },
+    {
+      "term_no": "13대",
+      "name": "최종영(崔鍾泳)",
+      "tenure": "1999년 9월 23일~2005년 9월 23일",
+      "birthplace": "강원 강릉",
+      "education": "서울대"
+    },
+    {
+      "term_no": "14대",
+      "name": "이용훈(李容勳)",
+      "tenure": "2005년 9월 26일~2011년 9월 23일",
+      "birthplace": "전남 보성",
+      "education": "서울대"
+    },
+    {
+      "term_no": "15대",
+      "name": "양승태(梁承泰)",
+      "tenure": "2011년 9월 25일~2017년 9월 24일",
+      "birthplace": "경남 밀양",
+      "education": "서울대"
+    },
+    {
+      "term_no": "16대",
+      "name": "김명수(金命洙)",
+      "tenure": "2017년 9월 25일~2023년 9월 24일",
+      "birthplace": "경남 부산 (현 부산광역시)",
+      "education": "서울대"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "안철상(安哲相)",
+      "tenure": "2023년 9월 25일~2023년 12월 8일",
+      "birthplace": "경남 합천",
+      "education": "건국대"
+    },
+    {
+      "term_no": "17대",
+      "name": "조희대(曺喜大)",
+      "tenure": "2023년 12월 8일~2027년 6월 5일",
+      "birthplace": "경북 경주",
+      "education": "서울대"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 대법원장 - Free Download",
+    "description": "대한민국 역대 대법원장의 대수, 이름, 임기, 출신지, 출신학교 목록. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 대법원장 | ListBase",
+    "seo_description": "Download 대한민국의 역대 대법원장 — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_대법원장"
+    ]
+  }
+}
