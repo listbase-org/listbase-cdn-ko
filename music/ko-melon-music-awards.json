@@ -1,0 +1,184 @@
+{
+  "id": "ko-melon-music-awards",
+  "name": "멜론 뮤직 어워드 역대 대상 수상자",
+  "title": "멜론 뮤직 어워드 역대 대상 수상자",
+  "description": "멜론 뮤직 어워드 회차별 베스트송·아티스트·앨범·레코드상 수상자 목록.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/멜론_뮤직_어워드",
+  "source_url": "https://ko.wikipedia.org/wiki/멜론_뮤직_어워드",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "song_of_year",
+      "label": "Song Of Year",
+      "type": "string"
+    },
+    {
+      "key": "artist_of_year",
+      "label": "Artist Of Year",
+      "type": "string"
+    },
+    {
+      "key": "album_of_year",
+      "label": "Album Of Year",
+      "type": "string"
+    },
+    {
+      "key": "record_of_year",
+      "label": "Record Of Year",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "1",
+      "year": "2009년",
+      "song_of_year": "소녀시대 - Gee",
+      "artist_of_year": "소녀시대",
+      "album_of_year": "지드래곤 - Heartbreaker",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "2",
+      "year": "2010년",
+      "song_of_year": "2AM - 죽어도 못 보내",
+      "artist_of_year": "소녀시대",
+      "album_of_year": "2NE1 - To Anyone",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "3",
+      "year": "2011년",
+      "song_of_year": "아이유 - 좋은 날",
+      "artist_of_year": "비스트",
+      "album_of_year": "2NE1 - 2NE1 2nd Mini Album",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "4",
+      "year": "2012년",
+      "song_of_year": "싸이 - 강남스타일",
+      "artist_of_year": "비스트",
+      "album_of_year": "버스커 버스커 - 버스커 버스커",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "5",
+      "year": "2013년",
+      "song_of_year": "EXO - 으르렁",
+      "artist_of_year": "샤이니",
+      "album_of_year": "버스커 버스커 - 버스커 버스커 2집",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "6",
+      "year": "2014년",
+      "song_of_year": "태양 - 눈, 코, 입",
+      "artist_of_year": "아이유",
+      "album_of_year": "god - Chapter 8",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "7",
+      "year": "2015년",
+      "song_of_year": "빅뱅 - 뱅뱅뱅",
+      "artist_of_year": "빅뱅",
+      "album_of_year": "EXO - EXODUS",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "8",
+      "year": "2016년",
+      "song_of_year": "트와이스 - CHEER UP",
+      "artist_of_year": "EXO",
+      "album_of_year": "방탄소년단 - 화양연화 Young Forever",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "9",
+      "year": "2017년",
+      "song_of_year": "방탄소년단 - 봄날",
+      "artist_of_year": "EXO",
+      "album_of_year": "아이유 - 팔레트",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "10",
+      "year": "2018년",
+      "song_of_year": "iKON - 사랑을 했다",
+      "artist_of_year": "방탄소년단",
+      "album_of_year": "방탄소년단 - LOVE YOURSELF 轉 'Tear'",
+      "record_of_year": "워너원"
+    },
+    {
+      "edition": "11",
+      "year": "2019년",
+      "song_of_year": "방탄소년단 - 작은 것들을 위한 시",
+      "artist_of_year": "방탄소년단",
+      "album_of_year": "방탄소년단 - MAP OF THE SOUL : PERSONA",
+      "record_of_year": "방탄소년단"
+    },
+    {
+      "edition": "12",
+      "year": "2020년",
+      "song_of_year": "방탄소년단 - Dynamite",
+      "artist_of_year": "방탄소년단",
+      "album_of_year": "방탄소년단 - MAP OF THE SOUL : 7",
+      "record_of_year": "-"
+    },
+    {
+      "edition": "13",
+      "year": "2021년",
+      "song_of_year": "방탄소년단 - Butter",
+      "artist_of_year": "아이유",
+      "album_of_year": "아이유 - LILAC",
+      "record_of_year": "aespa"
+    },
+    {
+      "edition": "14",
+      "year": "2022년",
+      "song_of_year": "IVE - LOVE DIVE",
+      "artist_of_year": "임영웅",
+      "album_of_year": "임영웅 - IM HERO",
+      "record_of_year": "방탄소년단"
+    },
+    {
+      "edition": "15",
+      "year": "2023년",
+      "song_of_year": "NewJeans - Ditto",
+      "artist_of_year": "NewJeans",
+      "album_of_year": "IVE - I've IVE",
+      "record_of_year": "NCT DREAM"
+    },
+    {
+      "edition": "16",
+      "year": "2024년",
+      "song_of_year": "aespa - Supernova",
+      "artist_of_year": "aespa",
+      "album_of_year": "aespa - Armageddon",
+      "record_of_year": "(여자)아이들"
+    }
+  ],
+  "meta": {
+    "title": "멜론 뮤직 어워드 역대 대상 수상자 - Free Download",
+    "description": "멜론 뮤직 어워드 회차별 베스트송·아티스트·앨범·레코드상 수상자 목록. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "멜론 뮤직 어워드 역대 대상 수상자 | ListBase",
+    "seo_description": "Download 멜론 뮤직 어워드 역대 대상 수상자 — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/멜론_뮤직_어워드"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:42.237Z",
-  "total_datasets": 426,
-  "total_records": 445277,
+  "generated": "2026-10-22T04:23:44.576Z",
+  "total_datasets": 427,
+  "total_records": 445293,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -6353,6 +6353,33 @@
         "xlsx": {
           "name": "ko-golden-disc-daesang_KO.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "ko-melon-music-awards",
+      "name": "멜론 뮤직 어워드 역대 대상 수상자",
+      "category": "music",
+      "record_count": 16,
+      "columns": [
+        "edition",
+        "year",
+        "song_of_year",
+        "artist_of_year",
+        "album_of_year",
+        "record_of_year"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/멜론_뮤직_어워드",
+      "updated": "2026-10",
+      "size": 5518,
+      "files": {
+        "csv": {
+          "name": "ko-melon-music-awards_KO.csv",
+          "size": 1533
+        },
+        "xlsx": {
+          "name": "ko-melon-music-awards_KO.xlsx",
+          "size": 7929
         }
       }
     },
