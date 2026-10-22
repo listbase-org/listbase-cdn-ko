@@ -1,0 +1,264 @@
+{
+  "id": "ko-joseon-gugwang",
+  "name": "조선의 역대 국왕",
+  "title": "조선의 역대 국왕",
+  "description": "조선 역대 국왕의 묘호, 생몰년·재위, 휘, 시호 목록.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/조선의_국왕",
+  "source_url": "https://ko.wikipedia.org/wiki/조선의_국왕",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "temple_name",
+      "label": "Temple Name",
+      "type": "string"
+    },
+    {
+      "key": "life_reign",
+      "label": "Life Reign",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "posthumous_ming_qing",
+      "label": "Posthumous Ming Qing",
+      "type": "string"
+    },
+    {
+      "key": "posthumous_joseon",
+      "label": "Posthumous Joseon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "제1대",
+      "temple_name": "태조 太祖",
+      "life_reign": "1335년 - 1408년 1392년 - 1398년",
+      "personal_name": "성계 成桂 단 旦",
+      "posthumous_ming_qing": "강헌 康獻",
+      "posthumous_joseon": "지인계운성문신무대왕 至仁啓運聖文神武大王 지인계운응천조통광훈영명성문신무정의광덕고황제 至仁啓運應天肇統廣勳永命聖文神武正義光德高皇帝"
+    },
+    {
+      "order": "제2대",
+      "temple_name": "정종 定宗",
+      "life_reign": "1357년 - 1419년 1398년 - 1400년",
+      "personal_name": "방과 芳果 경 曔",
+      "posthumous_ming_qing": "공정 恭靖",
+      "posthumous_joseon": "의문장무온인순효대왕 懿文莊武溫仁順孝大王"
+    },
+    {
+      "order": "제3대",
+      "temple_name": "태종 太宗",
+      "life_reign": "1367년 - 1422년 1400년 - 1418년",
+      "personal_name": "방원 芳遠",
+      "posthumous_ming_qing": "공정 恭定",
+      "posthumous_joseon": "성덕신공문무광효대왕 聖德神功文武光孝大王 성덕신공건천체극대정문무예철성렬광효대왕 聖德神功建天體極大正文武睿哲成烈光孝大王"
+    },
+    {
+      "order": "제4대",
+      "temple_name": "세종 世宗",
+      "life_reign": "1397년 - 1450년 1418년 - 1450년",
+      "personal_name": "도 祹",
+      "posthumous_ming_qing": "장헌 莊憲",
+      "posthumous_joseon": "영문예무인성명효대왕 英文睿武仁聖明孝大王"
+    },
+    {
+      "order": "제5대",
+      "temple_name": "문종 文宗",
+      "life_reign": "1414년 - 1452년 1450년 - 1452년",
+      "personal_name": "향 珦",
+      "posthumous_ming_qing": "공순 恭順",
+      "posthumous_joseon": "흠명인숙광문성효대왕 欽明仁肅光文聖孝大王"
+    },
+    {
+      "order": "제6대",
+      "temple_name": "단종 端宗",
+      "life_reign": "1441년 - 1457년 1452년 - 1455년",
+      "personal_name": "홍위 弘暐",
+      "posthumous_ming_qing": "-",
+      "posthumous_joseon": "공의온문순정안장경순돈효대왕 恭懿溫文純定安莊景順郭孝大王"
+    },
+    {
+      "order": "제7대",
+      "temple_name": "세조 世祖",
+      "life_reign": "1417년 - 1468년 1455년 - 1468년",
+      "personal_name": "유 瑈",
+      "posthumous_ming_qing": "혜장 惠莊",
+      "posthumous_joseon": "열문영무신성인효대왕 烈文英武神聖仁孝大王 승천체도열문영무지덕융공성신명예흠숙인효대왕 承天體道烈文英武至德隆功聖神明睿欽肅仁孝大王"
+    },
+    {
+      "order": "제8대",
+      "temple_name": "예종 睿宗",
+      "life_reign": "1450년 - 1469년 1468년 - 1469년",
+      "personal_name": "황 晄",
+      "posthumous_ming_qing": "양도 襄悼",
+      "posthumous_joseon": "흠문성무의인소효대왕 欽文聖武懿仁昭孝大王"
+    },
+    {
+      "order": "제9대",
+      "temple_name": "성종 成宗",
+      "life_reign": "1457년 - 1494년 1469년 - 1494년",
+      "personal_name": "혈 娎",
+      "posthumous_ming_qing": "강정 康靖",
+      "posthumous_joseon": "인문헌무흠성공효대왕 仁文憲武欽聖恭孝大王"
+    },
+    {
+      "order": "제10대",
+      "temple_name": "연산군 燕山君",
+      "life_reign": "1476년 - 1506년 1494년 - 1506년",
+      "personal_name": "융 㦕",
+      "posthumous_ming_qing": "-",
+      "posthumous_joseon": "-"
+    },
+    {
+      "order": "제11대",
+      "temple_name": "중종 中宗",
+      "life_reign": "1488년 - 1544년 1506년 - 1544년",
+      "personal_name": "역 懌",
+      "posthumous_ming_qing": "공희 恭僖",
+      "posthumous_joseon": "휘문소무흠인성효대왕 徽文昭武欽仁誠孝大王"
+    },
+    {
+      "order": "제12대",
+      "temple_name": "인종 仁宗",
+      "life_reign": "1515년 - 1545년 1544년 - 1545년",
+      "personal_name": "호 峼",
+      "posthumous_ming_qing": "영정 榮靖",
+      "posthumous_joseon": "헌문의무장숙흠효대왕 獻文懿武章肅欽孝大王"
+    },
+    {
+      "order": "제13대",
+      "temple_name": "명종 明宗",
+      "life_reign": "1534년 - 1567년 1545년 - 1567년",
+      "personal_name": "환 峘",
+      "posthumous_ming_qing": "공헌 恭憲",
+      "posthumous_joseon": "헌의소문광숙경효대왕 獻毅昭文光肅敬孝大王"
+    },
+    {
+      "order": "제14대",
+      "temple_name": "선조 宣祖",
+      "life_reign": "1552년 - 1608년 1567년 - 1608년",
+      "personal_name": "균 鈞 연 昖",
+      "posthumous_ming_qing": "소경 昭敬",
+      "posthumous_joseon": "선종 宣宗 정륜입극성덕홍렬지성대의격천희운현문의무성예달효대왕 正倫立極盛德洪烈至誠大義格天熙運顯文毅武聖睿達孝大王 선조 宣祖 정륜입극성덕홍렬지성대의격천희운경명신력홍공융업현문의무성예달효대왕 正倫立極盛德洪烈至誠大義格天熙運景命神曆弘功隆業顯文毅武聖睿達孝大王"
+    },
+    {
+      "order": "제15대",
+      "temple_name": "광해군 光海君",
+      "life_reign": "1575년 - 1641년 1608년 - 1623년",
+      "personal_name": "혼 琿",
+      "posthumous_ming_qing": "-",
+      "posthumous_joseon": "-"
+    },
+    {
+      "order": "제16대",
+      "temple_name": "인조 仁祖",
+      "life_reign": "1595년 - 1649년 1623년 - 1649년",
+      "personal_name": "종 倧",
+      "posthumous_ming_qing": "장목 莊穆",
+      "posthumous_joseon": "열조 烈祖 헌문열무명숙순효대왕 憲文烈武明肅純孝大王 인조 仁祖 개천조운정기선덕헌문열무명숙순효대왕 開天肇運正紀宣德憲文烈武明肅純孝大王"
+    },
+    {
+      "order": "제17대",
+      "temple_name": "효종 孝宗",
+      "life_reign": "1619년 - 1659년 1649년 - 1659년",
+      "personal_name": "호 淏",
+      "posthumous_ming_qing": "충선 忠宣",
+      "posthumous_joseon": "선문장무신성현인대왕 宣文章武神聖顯仁大王 흠천달도광의홍렬 선문장무신성현인명의정덕대왕 欽天達道光毅弘烈 宣文章武神聖顯仁明義正德大王"
+    },
+    {
+      "order": "제18대",
+      "temple_name": "현종 顯宗",
+      "life_reign": "1641년 - 1674년 1659년 - 1674년",
+      "personal_name": "연 棩",
+      "posthumous_ming_qing": "장각 莊恪",
+      "posthumous_joseon": "순문숙무경인창효대왕 純文肅武敬仁彰孝大王 소휴연경돈덕수성 순문숙무경인창효대왕 昭休衍慶敦德綏成 純文肅武敬仁彰孝大王"
+    },
+    {
+      "order": "제19대",
+      "temple_name": "숙종 肅宗",
+      "life_reign": "1661년 - 1720년 1674년 - 1720년",
+      "personal_name": "순 焞",
+      "posthumous_ming_qing": "희순 僖順",
+      "posthumous_joseon": "장문헌무경명원효대왕 章文憲武敬明元孝大王 현의광륜예성영렬유모영운홍인준덕배천합도계휴독경정중협극신의대훈장문헌무경명원효대왕 顯義光倫睿聖英烈裕謨永運洪仁峻德配天合道啓休篤慶正中恊極神毅大勳章文憲武敬明元孝大王"
+    },
+    {
+      "order": "제20대",
+      "temple_name": "경종 景宗",
+      "life_reign": "1688년 - 1724년 1720년 - 1724년",
+      "personal_name": "윤 昀",
+      "posthumous_ming_qing": "각공 恪恭",
+      "posthumous_joseon": "덕문익무순인선효대왕 德文翼武純仁宣孝大王"
+    },
+    {
+      "order": "제21대",
+      "temple_name": "영조 英祖",
+      "life_reign": "1694년 - 1776년 1724년 - 1776년",
+      "personal_name": "금 昑",
+      "posthumous_ming_qing": "장순 莊順",
+      "posthumous_joseon": "영종 英宗 지행순덕영모의열장의홍륜광인돈희체천건극성공신화대성광운개태기영요명순철건건곤녕익문선무희경현효대왕 至行純德英謨毅烈章義弘倫光仁敦禧體天建極聖功神化大成廣運開泰基永堯明舜哲乾健坤寧翼文宣武熙敬顯孝大王 영조 英祖 지행순덕영모의열장의홍륜광인돈희체천건극성공신화대성광운개태기영요명순철건건곤녕배명수통경력홍휴중화융도숙장창훈정문선무희경현효대왕 至行純德英謨毅烈章義弘倫光仁敦禧體天建極聖功神化大成廣運開泰基永堯明舜哲乾健坤寧配命垂統景曆洪休中和隆道肅莊彰勳正文宣武熙敬顯孝大王"
+    },
+    {
+      "order": "제22대",
+      "temple_name": "정조 正祖",
+      "life_reign": "1752년 - 1800년 1776년 - 1800년",
+      "personal_name": "산 祘",
+      "posthumous_ming_qing": "공선 恭宣",
+      "posthumous_joseon": "정종 正宗 문성무열성인장효대왕 文成武烈聖仁莊孝大王 정조 正祖 경천명도홍덕현모문성무열성인장효선황제 敬天明道洪德顯謨文成武烈聖仁莊孝宣皇帝"
+    },
+    {
+      "order": "제23대",
+      "temple_name": "순조 純祖",
+      "life_reign": "1790년 - 1834년 1800년 - 1834년",
+      "personal_name": "공 玜",
+      "posthumous_ming_qing": "선각 宣恪",
+      "posthumous_joseon": "순종 純宗 연덕현도경인순희문안무정헌경성효대왕 淵德顯道景仁純禧文安武靖憲敬成孝大王 순조 純祖 연덕현도경인순희체성응명흠광석경계천배극융원돈휴의행소륜희화준렬대중지정홍훈철모건시태형창운홍기고명박후강건수정계통수력건공유범문안무정영경성효숙황제 淵德顯道景仁純禧體聖凝命欽光錫慶繼天配極隆元敦休懿行昭倫熙化峻烈大中至正洪勳哲謨乾始泰亨昌運弘基高明博厚剛健粹精啓統垂曆建功裕範文安武靖英敬成孝肅皇帝"
+    },
+    {
+      "order": "제24대",
+      "temple_name": "헌종 憲宗",
+      "life_reign": "1827년 - 1849년 1834년 - 1849년",
+      "personal_name": "환 奐",
+      "posthumous_ming_qing": "장숙 莊肅",
+      "posthumous_joseon": "경문위무명인철효대왕 經文緯武明仁哲孝大王 체건계극중정광대지성광덕홍운장화경문위무명인철효성황제 體健繼極中正光大至聖廣德弘運章化經文緯武明仁哲孝成皇帝"
+    },
+    {
+      "order": "제25대",
+      "temple_name": "철종 哲宗",
+      "life_reign": "1831년 - 1863년 1849년 - 1863년",
+      "personal_name": "원범 元範 변 昪",
+      "posthumous_ming_qing": "충경 忠敬",
+      "posthumous_joseon": "희륜정극수덕순성문현무성헌인영효대왕 熙倫正極粹德純聖文顯武成獻仁英孝大王 희륜정극수덕순성흠명광도돈원창화문현무성헌인영효장황제 熙倫正極粹德純聖欽明光道敦元彰化文顯武成獻仁英孝章皇帝"
+    },
+    {
+      "order": "제26대",
+      "temple_name": "고종 高宗",
+      "life_reign": "1852년 - 1919년 1863년 - 1897년",
+      "personal_name": "재황 載晃 형 㷩",
+      "posthumous_ming_qing": "-",
+      "posthumous_joseon": "통천융운조극돈륜정성광의명공대덕요준순휘우모탕경응명입기지화신열외훈홍업계기선력건행곤정영의홍휴수강문헌무장인익정효태황제 統天隆運肇極敦倫正聖光義明功大德堯峻舜徽禹謨湯敬應命立紀至化神烈巍勳洪業啓基宣曆乾行坤定英毅弘休壽康文憲武章仁翼貞孝太皇帝"
+    }
+  ],
+  "meta": {
+    "title": "조선의 역대 국왕 - Free Download",
+    "description": "조선 역대 국왕의 묘호, 생몰년·재위, 휘, 시호 목록. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "조선의 역대 국왕 | ListBase",
+    "seo_description": "Download 조선의 역대 국왕 — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/조선의_국왕"
+    ]
+  }
+}

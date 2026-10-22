@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:34.931Z",
-  "total_datasets": 423,
-  "total_records": 445196,
+  "generated": "2026-10-22T04:23:37.276Z",
+  "total_datasets": 424,
+  "total_records": 445222,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -6200,6 +6200,33 @@
         "xlsx": {
           "name": "ko-goryeo-gugwang_KO.xlsx",
           "size": 9991
+        }
+      }
+    },
+    {
+      "id": "ko-joseon-gugwang",
+      "name": "조선의 역대 국왕",
+      "category": "history",
+      "record_count": 26,
+      "columns": [
+        "order",
+        "temple_name",
+        "life_reign",
+        "personal_name",
+        "posthumous_ming_qing",
+        "posthumous_joseon"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/조선의_국왕",
+      "updated": "2026-10",
+      "size": 12973,
+      "files": {
+        "csv": {
+          "name": "ko-joseon-gugwang_KO.csv",
+          "size": 7447
+        },
+        "xlsx": {
+          "name": "ko-joseon-gugwang_KO.xlsx",
+          "size": 10946
         }
       }
     },
