@@ -1,12 +1,16 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:25.240Z",
-  "total_datasets": 419,
-  "total_records": 445018,
+  "generated": "2026-10-22T04:23:27.751Z",
+  "total_datasets": 420,
+  "total_records": 445057,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 13
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -468,6 +472,33 @@
         "xlsx": {
           "name": "ko-wangneung-gobun_KO.xlsx",
           "size": 19335
+        }
+      }
+    },
+    {
+      "id": "ko-gyeongje-jipyo",
+      "name": "대한민국 연도별 주요 경제 지표",
+      "category": "economy",
+      "record_count": 39,
+      "columns": [
+        "year",
+        "gdp_ppp_bn_usd",
+        "gdp_per_capita_ppp_usd",
+        "gdp_growth",
+        "inflation",
+        "unemployment"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_경제",
+      "updated": "2026-10",
+      "size": 9335,
+      "files": {
+        "csv": {
+          "name": "ko-gyeongje-jipyo_KO.csv",
+          "size": 1815
+        },
+        "xlsx": {
+          "name": "ko-gyeongje-jipyo_KO.xlsx",
+          "size": 8527
         }
       }
     },

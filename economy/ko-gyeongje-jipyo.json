@@ -1,0 +1,368 @@
+{
+  "id": "ko-gyeongje-jipyo",
+  "name": "대한민국 연도별 주요 경제 지표",
+  "title": "대한민국 연도별 주요 경제 지표",
+  "description": "대한민국의 연도별 GDP(PPP), 1인당 GDP, 경제성장률, 인플레이션, 실업률 등 경제 지표.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_경제",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_경제",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "gdp_ppp_bn_usd",
+      "label": "Gdp Ppp Bn Usd",
+      "type": "number"
+    },
+    {
+      "key": "gdp_per_capita_ppp_usd",
+      "label": "Gdp Per Capita Ppp Usd",
+      "type": "number"
+    },
+    {
+      "key": "gdp_growth",
+      "label": "Gdp Growth",
+      "type": "string"
+    },
+    {
+      "key": "inflation",
+      "label": "Inflation",
+      "type": "string"
+    },
+    {
+      "key": "unemployment",
+      "label": "Unemployment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1980",
+      "gdp_ppp_bn_usd": "85.4",
+      "gdp_per_capita_ppp_usd": "2240",
+      "gdp_growth": "−1.7%",
+      "inflation": "28.7%",
+      "unemployment": "5.2%"
+    },
+    {
+      "year": "1981",
+      "gdp_ppp_bn_usd": "100.2",
+      "gdp_per_capita_ppp_usd": "2587",
+      "gdp_growth": "7.2%",
+      "inflation": "21.4%",
+      "unemployment": "4.5%"
+    },
+    {
+      "year": "1982",
+      "gdp_ppp_bn_usd": "115.2",
+      "gdp_per_capita_ppp_usd": "2929",
+      "gdp_growth": "8.3%",
+      "inflation": "7.2%",
+      "unemployment": "4.1%"
+    },
+    {
+      "year": "1983",
+      "gdp_ppp_bn_usd": "135.6",
+      "gdp_per_capita_ppp_usd": "3396",
+      "gdp_growth": "13.2%",
+      "inflation": "3.4%",
+      "unemployment": "4.1%"
+    },
+    {
+      "year": "1984",
+      "gdp_ppp_bn_usd": "155.1",
+      "gdp_per_capita_ppp_usd": "3839",
+      "gdp_growth": "10.4%",
+      "inflation": "2.3%",
+      "unemployment": "3.9%"
+    },
+    {
+      "year": "1985",
+      "gdp_ppp_bn_usd": "172.4",
+      "gdp_per_capita_ppp_usd": "4225",
+      "gdp_growth": "7.8%",
+      "inflation": "2.5%",
+      "unemployment": "4.0%"
+    },
+    {
+      "year": "1986",
+      "gdp_ppp_bn_usd": "195.6",
+      "gdp_per_capita_ppp_usd": "4747",
+      "gdp_growth": "11.2%",
+      "inflation": "2.8%",
+      "unemployment": "3.8%"
+    },
+    {
+      "year": "1987",
+      "gdp_ppp_bn_usd": "225.4",
+      "gdp_per_capita_ppp_usd": "5417",
+      "gdp_growth": "12.5%",
+      "inflation": "3.0%",
+      "unemployment": "3.1%"
+    },
+    {
+      "year": "1988",
+      "gdp_ppp_bn_usd": "261.2",
+      "gdp_per_capita_ppp_usd": "6214",
+      "gdp_growth": "11.9%",
+      "inflation": "7.1%",
+      "unemployment": "2.5%"
+    },
+    {
+      "year": "1989",
+      "gdp_ppp_bn_usd": "290.5",
+      "gdp_per_capita_ppp_usd": "6844",
+      "gdp_growth": "7.0%",
+      "inflation": "5.7%",
+      "unemployment": "2.6%"
+    },
+    {
+      "year": "1990",
+      "gdp_ppp_bn_usd": 331,
+      "gdp_per_capita_ppp_usd": "7720",
+      "gdp_growth": "9.8%",
+      "inflation": "8.6%",
+      "unemployment": "2.5%"
+    },
+    {
+      "year": "1991",
+      "gdp_ppp_bn_usd": "377.5",
+      "gdp_per_capita_ppp_usd": "8721",
+      "gdp_growth": "10.3%",
+      "inflation": "9.3%",
+      "unemployment": "2.5%"
+    },
+    {
+      "year": "1992",
+      "gdp_ppp_bn_usd": 410,
+      "gdp_per_capita_ppp_usd": "9373",
+      "gdp_growth": "6.2%",
+      "inflation": "6.2%",
+      "unemployment": "2.5%"
+    },
+    {
+      "year": "1993",
+      "gdp_ppp_bn_usd": "448.5",
+      "gdp_per_capita_ppp_usd": "10148",
+      "gdp_growth": "6.8%",
+      "inflation": "4.8%",
+      "unemployment": "2.9%"
+    },
+    {
+      "year": "1994",
+      "gdp_ppp_bn_usd": "500.2",
+      "gdp_per_capita_ppp_usd": "11206",
+      "gdp_growth": "9.2%",
+      "inflation": "6.3%",
+      "unemployment": "2.5%"
+    },
+    {
+      "year": "1995",
+      "gdp_ppp_bn_usd": "559.6",
+      "gdp_per_capita_ppp_usd": "12410",
+      "gdp_growth": "9.6%",
+      "inflation": "4.5%",
+      "unemployment": "2.1%"
+    },
+    {
+      "year": "1996",
+      "gdp_ppp_bn_usd": "613.1",
+      "gdp_per_capita_ppp_usd": "13468",
+      "gdp_growth": "7.6%",
+      "inflation": "4.9%",
+      "unemployment": "2.1%"
+    },
+    {
+      "year": "1997",
+      "gdp_ppp_bn_usd": "660.7",
+      "gdp_per_capita_ppp_usd": "14376",
+      "gdp_growth": "5.9%",
+      "inflation": "4.4%",
+      "unemployment": "2.6%"
+    },
+    {
+      "year": "1998",
+      "gdp_ppp_bn_usd": "631.5",
+      "gdp_per_capita_ppp_usd": "13644",
+      "gdp_growth": "−5.5%",
+      "inflation": "7.5%",
+      "unemployment": "7.0%"
+    },
+    {
+      "year": "1999",
+      "gdp_ppp_bn_usd": "713.1",
+      "gdp_per_capita_ppp_usd": "15297",
+      "gdp_growth": "11.3%",
+      "inflation": "0.8%",
+      "unemployment": "6.6%"
+    },
+    {
+      "year": "2000",
+      "gdp_ppp_bn_usd": 790,
+      "gdp_per_capita_ppp_usd": "16805",
+      "gdp_growth": "8.4%",
+      "inflation": "2.3%",
+      "unemployment": "4.4%"
+    },
+    {
+      "year": "2001",
+      "gdp_ppp_bn_usd": "846.5",
+      "gdp_per_capita_ppp_usd": "17870",
+      "gdp_growth": "4.9%",
+      "inflation": "4.1%",
+      "unemployment": "4.0%"
+    },
+    {
+      "year": "2002",
+      "gdp_ppp_bn_usd": "926.3",
+      "gdp_per_capita_ppp_usd": "19442",
+      "gdp_growth": "7.4%",
+      "inflation": "2.8%",
+      "unemployment": "3.3%"
+    },
+    {
+      "year": "2003",
+      "gdp_ppp_bn_usd": "973.2",
+      "gdp_per_capita_ppp_usd": "20321",
+      "gdp_growth": "3.1%",
+      "inflation": "3.5%",
+      "unemployment": "3.6%"
+    },
+    {
+      "year": "2004",
+      "gdp_ppp_bn_usd": "1051.4",
+      "gdp_per_capita_ppp_usd": "21866",
+      "gdp_growth": "5.2%",
+      "inflation": "3.6%",
+      "unemployment": "3.7%"
+    },
+    {
+      "year": "2005",
+      "gdp_ppp_bn_usd": "1130.8",
+      "gdp_per_capita_ppp_usd": "23469",
+      "gdp_growth": "4.3%",
+      "inflation": "2.8%",
+      "unemployment": "3.8%"
+    },
+    {
+      "year": "2006",
+      "gdp_ppp_bn_usd": "1226.4",
+      "gdp_per_capita_ppp_usd": "25318",
+      "gdp_growth": "5.3%",
+      "inflation": "2.3%",
+      "unemployment": "3.5%"
+    },
+    {
+      "year": "2007",
+      "gdp_ppp_bn_usd": "1332.3",
+      "gdp_per_capita_ppp_usd": "27368",
+      "gdp_growth": "5.8%",
+      "inflation": "2.5%",
+      "unemployment": "3.3%"
+    },
+    {
+      "year": "2008",
+      "gdp_ppp_bn_usd": "1399.2",
+      "gdp_per_capita_ppp_usd": "28523",
+      "gdp_growth": "3.0%",
+      "inflation": "4.7%",
+      "unemployment": "3.2%"
+    },
+    {
+      "year": "2009",
+      "gdp_ppp_bn_usd": 1421,
+      "gdp_per_capita_ppp_usd": "28820",
+      "gdp_growth": "0.8%",
+      "inflation": "2.8%",
+      "unemployment": "3.6%"
+    },
+    {
+      "year": "2010",
+      "gdp_ppp_bn_usd": "1535.4",
+      "gdp_per_capita_ppp_usd": "30985",
+      "gdp_growth": "6.8%",
+      "inflation": "2.9%",
+      "unemployment": "3.7%"
+    },
+    {
+      "year": "2011",
+      "gdp_ppp_bn_usd": "1625.3",
+      "gdp_per_capita_ppp_usd": "32547",
+      "gdp_growth": "3.7%",
+      "inflation": "4.0%",
+      "unemployment": "3.4%"
+    },
+    {
+      "year": "2012",
+      "gdp_ppp_bn_usd": "1696.2",
+      "gdp_per_capita_ppp_usd": "33790",
+      "gdp_growth": "2.4%",
+      "inflation": "2.2%",
+      "unemployment": "3.2%"
+    },
+    {
+      "year": "2013",
+      "gdp_ppp_bn_usd": "1780.6",
+      "gdp_per_capita_ppp_usd": "35310",
+      "gdp_growth": "3.2%",
+      "inflation": "1.3%",
+      "unemployment": "3.1%"
+    },
+    {
+      "year": "2014",
+      "gdp_ppp_bn_usd": "1871.6",
+      "gdp_per_capita_ppp_usd": "36882",
+      "gdp_growth": "3.2%",
+      "inflation": "1.3%",
+      "unemployment": "3.5%"
+    },
+    {
+      "year": "2015",
+      "gdp_ppp_bn_usd": "1944.3",
+      "gdp_per_capita_ppp_usd": "38112",
+      "gdp_growth": "2.8%",
+      "inflation": "0.7%",
+      "unemployment": "3.6%"
+    },
+    {
+      "year": "2016",
+      "gdp_ppp_bn_usd": "2022.2",
+      "gdp_per_capita_ppp_usd": "39484",
+      "gdp_growth": "2.9%",
+      "inflation": "1.0%",
+      "unemployment": "3.7%"
+    },
+    {
+      "year": "2017",
+      "gdp_ppp_bn_usd": "2125.5",
+      "gdp_per_capita_ppp_usd": "41331",
+      "gdp_growth": "3.2%",
+      "inflation": "1.9%",
+      "unemployment": "3.7%"
+    },
+    {
+      "year": "2018",
+      "gdp_ppp_bn_usd": "2235.3",
+      "gdp_per_capita_ppp_usd": "43290",
+      "gdp_growth": "2.7%",
+      "inflation": "1.5%",
+      "unemployment": "3.8%"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 연도별 주요 경제 지표 - Free Download",
+    "description": "대한민국의 연도별 GDP(PPP), 1인당 GDP, 경제성장률, 인플레이션, 실업률 등 경제 지표. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 연도별 주요 경제 지표 | ListBase",
+    "seo_description": "Download 대한민국 연도별 주요 경제 지표 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_경제"
+    ]
+  }
+}
