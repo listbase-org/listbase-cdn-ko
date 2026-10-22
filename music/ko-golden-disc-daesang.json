@@ -1,0 +1,331 @@
+{
+  "id": "ko-golden-disc-daesang",
+  "name": "골든디스크어워즈 역대 대상",
+  "title": "골든디스크어워즈 역대 대상",
+  "description": "골든디스크어워즈 역대 음반 대상, 디지털 음원 대상, 아티스트 대상 수상자 목록.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/골든디스크어워즈",
+  "source_url": "https://ko.wikipedia.org/wiki/골든디스크어워즈",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "album_daesang",
+      "label": "Album Daesang",
+      "type": "string"
+    },
+    {
+      "key": "digital_daesang",
+      "label": "Digital Daesang",
+      "type": "string"
+    },
+    {
+      "key": "artist_daesang",
+      "label": "Artist Daesang",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "1회",
+      "year": "1986년",
+      "album_daesang": "조용필 <허공>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "2회",
+      "year": "1987년",
+      "album_daesang": "이문세 <사랑이 지나가면>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "3회",
+      "year": "1988년",
+      "album_daesang": "주현미 <신사동 그 사람>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "4회",
+      "year": "1989년",
+      "album_daesang": "변진섭 <너무 늦었잖아요>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "5회",
+      "year": "1990년",
+      "album_daesang": "변진섭 <너에게로 또 다시>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "6회",
+      "year": "1991년",
+      "album_daesang": "김현식 <내 사랑 내 곁에>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "7회",
+      "year": "1992년",
+      "album_daesang": "신승훈 <보이지 않는 사랑>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "8회",
+      "year": "1993년",
+      "album_daesang": "신승훈 <널 사랑하니까>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "9회",
+      "year": "1994년",
+      "album_daesang": "김건모 <핑계>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "10회",
+      "year": "1995년",
+      "album_daesang": "김건모 <잘못된 만남>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "11회",
+      "year": "1996년",
+      "album_daesang": "김건모 <스피드>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "12회",
+      "year": "1997년",
+      "album_daesang": "H.O.T. <행복>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "13회",
+      "year": "1998년",
+      "album_daesang": "김종환 <사랑을 위하여>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "14회",
+      "year": "1999년",
+      "album_daesang": "조성모 <슬픈 영혼식>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "15회",
+      "year": "2000년",
+      "album_daesang": "조성모 <아시나요>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "16회",
+      "year": "2001년",
+      "album_daesang": "god <길>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "17회",
+      "year": "2002년",
+      "album_daesang": "쿨 <진실>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "18회",
+      "year": "2003년",
+      "album_daesang": "조성모 <피아노>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "19회",
+      "year": "2004년",
+      "album_daesang": "이수영 <휠릴리>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "20회",
+      "year": "2005년",
+      "album_daesang": "SG 워너비 <죄와 벌>",
+      "digital_daesang": "-",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "21회",
+      "year": "2006년",
+      "album_daesang": "동방신기 <\"o\"-正.反.合>",
+      "digital_daesang": "SG 워너비 <내 사람: Partner for Life>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "22회",
+      "year": "2007년",
+      "album_daesang": "SG 워너비 <아리랑>",
+      "digital_daesang": "아이비 <이럴 거면>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "23회",
+      "year": "2008년",
+      "album_daesang": "동방신기 <MIROTIC>",
+      "digital_daesang": "쥬얼리 <One More Time>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "24회",
+      "year": "2009년",
+      "album_daesang": "슈퍼주니어 <Sorry, Sorry>",
+      "digital_daesang": "소녀시대 <Gee>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "25회",
+      "year": "2010년",
+      "album_daesang": "소녀시대 <Oh!>",
+      "digital_daesang": "2AM <죽어도 못 보내>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "26회",
+      "year": "2011년",
+      "album_daesang": "슈퍼주니어 <Mr. Simple>",
+      "digital_daesang": "소녀시대 <The Boys>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "27회",
+      "year": "2012년",
+      "album_daesang": "슈퍼주니어 <Sexy, Free & Single>",
+      "digital_daesang": "싸이 <강남스타일>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "28회",
+      "year": "2013년",
+      "album_daesang": "EXO <XOXO (Kiss&Hug) Repackage>",
+      "digital_daesang": "싸이 <GENTLEMAN>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "29회",
+      "year": "2014년",
+      "album_daesang": "EXO <중독(Overdose)>",
+      "digital_daesang": "태양 <눈, 코, 입>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "30회",
+      "year": "2015년",
+      "album_daesang": "EXO <EXODUS>",
+      "digital_daesang": "빅뱅 <LOSER>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "31회",
+      "year": "2016년",
+      "album_daesang": "EXO <EX`ACT>",
+      "digital_daesang": "트와이스 <CHEER UP>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "32회",
+      "year": "2017년",
+      "album_daesang": "방탄소년단 <LOVE YOURSELF 承 'Her'>",
+      "digital_daesang": "아이유 <밤편지>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "33회",
+      "year": "2018년",
+      "album_daesang": "방탄소년단 <LOVE YOURSELF 結 'Answer'>",
+      "digital_daesang": "iKON <사랑을 했다>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "34회",
+      "year": "2019년",
+      "album_daesang": "방탄소년단 <MAP OF THE SOUL : PERSONA>",
+      "digital_daesang": "방탄소년단 <작은 것들을 위한 시>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "35회",
+      "year": "2020년",
+      "album_daesang": "방탄소년단 <MAP OF THE SOUL : 7>",
+      "digital_daesang": "아이유 <Blueming>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "36회",
+      "year": "2021년",
+      "album_daesang": "방탄소년단 <BE>",
+      "digital_daesang": "아이유 <Celebrity>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "37회",
+      "year": "2022년",
+      "album_daesang": "방탄소년단 <Proof>",
+      "digital_daesang": "IVE <LOVE DIVE>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "38회",
+      "year": "2023년",
+      "album_daesang": "세븐틴 <FML>",
+      "digital_daesang": "NewJeans <Ditto>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "39회",
+      "year": "2024년",
+      "album_daesang": "세븐틴 <SPILL THE FEELS>",
+      "digital_daesang": "Aespa <Supernova>",
+      "artist_daesang": "-"
+    },
+    {
+      "edition": "40회",
+      "year": "2025년",
+      "album_daesang": "Stray Kids <KARMA>",
+      "digital_daesang": "지드래곤 <HOME SWEET HOME (feat. 태양, 대성)>",
+      "artist_daesang": "제니"
+    }
+  ],
+  "meta": {
+    "title": "골든디스크어워즈 역대 대상 - Free Download",
+    "description": "골든디스크어워즈 역대 음반 대상, 디지털 음원 대상, 아티스트 대상 수상자 목록. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "골든디스크어워즈 역대 대상 | ListBase",
+    "seo_description": "Download 골든디스크어워즈 역대 대상 — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/골든디스크어워즈"
+    ]
+  }
+}

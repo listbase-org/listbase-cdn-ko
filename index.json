@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:17.739Z",
-  "total_datasets": 416,
-  "total_records": 444879,
+  "generated": "2026-10-22T04:23:20.063Z",
+  "total_datasets": 417,
+  "total_records": 444919,
   "categories": [
     {
       "id": "culture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "law",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -6204,6 +6208,32 @@
         "xlsx": {
           "name": "ko-daebeobwonjang_KO.xlsx",
           "size": 8348
+        }
+      }
+    },
+    {
+      "id": "ko-golden-disc-daesang",
+      "name": "골든디스크어워즈 역대 대상",
+      "category": "music",
+      "record_count": 40,
+      "columns": [
+        "edition",
+        "year",
+        "album_daesang",
+        "digital_daesang",
+        "artist_daesang"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/골든디스크어워즈",
+      "updated": "2026-10",
+      "size": 9151,
+      "files": {
+        "csv": {
+          "name": "ko-golden-disc-daesang_KO.csv",
+          "size": 2741
+        },
+        "xlsx": {
+          "name": "ko-golden-disc-daesang_KO.xlsx",
+          "size": 9009
         }
       }
     },
