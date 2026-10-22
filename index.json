@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:27.751Z",
-  "total_datasets": 420,
-  "total_records": 445057,
+  "generated": "2026-10-22T04:23:30.204Z",
+  "total_datasets": 421,
+  "total_records": 445074,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -6274,6 +6274,32 @@
         "xlsx": {
           "name": "ko-daebeobwonjang_KO.xlsx",
           "size": 8348
+        }
+      }
+    },
+    {
+      "id": "ko-heonjae-sojang",
+      "name": "대한민국의 역대 헌법재판소장",
+      "category": "law",
+      "record_count": 17,
+      "columns": [
+        "term_no",
+        "name",
+        "tenure",
+        "appointed_by",
+        "confirmation"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_헌법재판소장",
+      "updated": "2026-10",
+      "size": 4850,
+      "files": {
+        "csv": {
+          "name": "ko-heonjae-sojang_KO.csv",
+          "size": 1432
+        },
+        "xlsx": {
+          "name": "ko-heonjae-sojang_KO.xlsx",
+          "size": 7624
         }
       }
     },

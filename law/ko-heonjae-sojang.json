@@ -1,0 +1,170 @@
+{
+  "id": "ko-heonjae-sojang",
+  "name": "대한민국의 역대 헌법재판소장",
+  "title": "대한민국의 역대 헌법재판소장",
+  "description": "대한민국 헌법재판소 역대 소장의 대수, 이름, 재임기간 목록.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_헌법재판소장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_헌법재판소장",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    },
+    {
+      "key": "appointed_by",
+      "label": "Appointed By",
+      "type": "string"
+    },
+    {
+      "key": "confirmation",
+      "label": "Confirmation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_no": "1대",
+      "name": "조규광",
+      "tenure": "1988년 9월 15일~1994년 9월 14일",
+      "appointed_by": "노태우",
+      "confirmation": "제13대 국회"
+    },
+    {
+      "term_no": "2대",
+      "name": "김용준",
+      "tenure": "1994년 9월 15일~2000년 9월 14일",
+      "appointed_by": "김영삼",
+      "confirmation": "제14대 국회"
+    },
+    {
+      "term_no": "3대",
+      "name": "윤영철",
+      "tenure": "2000년 9월 15일~2006년 9월 14일",
+      "appointed_by": "김대중",
+      "confirmation": "제16대 국회"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "주선회",
+      "tenure": "2006년 9월 20일~2007년 1월 21일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "4대",
+      "name": "이강국",
+      "tenure": "2007년 1월 22일~2013년 1월 21일",
+      "appointed_by": "노무현",
+      "confirmation": "제17대 국회"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "송두환",
+      "tenure": "2013년 1월 28일~2013년 3월 22일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "권한대행",
+      "name": "이정미",
+      "tenure": "2013년 3월 23일~2013년 4월 11일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "5대",
+      "name": "박한철",
+      "tenure": "2013년 4월 12일~2017년 1월 31일",
+      "appointed_by": "박근혜",
+      "confirmation": "제19대 국회"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "이정미",
+      "tenure": "2017년 2월 1일~2017년 3월 13일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "권한대행",
+      "name": "김이수",
+      "tenure": "2017년 3월 14일~2017년 11월 23일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "6대",
+      "name": "이진성",
+      "tenure": "2017년 11월 24일~2018년 9월 19일",
+      "appointed_by": "문재인",
+      "confirmation": "제20대 국회"
+    },
+    {
+      "term_no": "7대",
+      "name": "유남석",
+      "tenure": "2018년 9월 21일~2023년 11월 10일",
+      "appointed_by": "문재인",
+      "confirmation": "제20대 국회"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "이은애",
+      "tenure": "2023년 11월 11일~2023년 11월 29일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "8대",
+      "name": "이종석",
+      "tenure": "2023년 11월 30일~2024년 10월 17일",
+      "appointed_by": "윤석열",
+      "confirmation": "제21대 국회"
+    },
+    {
+      "term_no": "권한대행",
+      "name": "문형배",
+      "tenure": "2024년 10월 18일~2025년 4월 18일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "권한대행",
+      "name": "김형두",
+      "tenure": "2025년 4월 19일~2025년 7월 23일",
+      "appointed_by": "",
+      "confirmation": ""
+    },
+    {
+      "term_no": "9대",
+      "name": "김상환",
+      "tenure": "2025년 7월 24일~",
+      "appointed_by": "이재명",
+      "confirmation": "제22대 국회"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 헌법재판소장 - Free Download",
+    "description": "대한민국 헌법재판소 역대 소장의 대수, 이름, 재임기간 목록. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 헌법재판소장 | ListBase",
+    "seo_description": "Download 대한민국의 역대 헌법재판소장 — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_헌법재판소장"
+    ]
+  }
+}
