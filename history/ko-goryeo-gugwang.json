@@ -1,0 +1,328 @@
+{
+  "id": "ko-goryeo-gugwang",
+  "name": "고려의 역대 국왕",
+  "title": "고려의 역대 국왕",
+  "description": "고려 역대 국왕의 묘호·왕호, 생몰년·재위, 휘, 시호 목록.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/고려의_국왕",
+  "source_url": "https://ko.wikipedia.org/wiki/고려의_국왕",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "temple_name",
+      "label": "Temple Name",
+      "type": "string"
+    },
+    {
+      "key": "life_reign",
+      "label": "Life Reign",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "posthumous_goryeo",
+      "label": "Posthumous Goryeo",
+      "type": "string"
+    },
+    {
+      "key": "posthumous_yuan_ming",
+      "label": "Posthumous Yuan Ming",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "제1대",
+      "temple_name": "태조 太祖",
+      "life_reign": "877년 - 943년 918년 - 943년",
+      "personal_name": "건 建",
+      "posthumous_goryeo": "응운원명광렬대정예덕장효위목신성대왕 應運元明光烈大定睿德章孝威穆神聖大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제2대",
+      "temple_name": "혜종 惠宗",
+      "life_reign": "912년 - 945년 943년 - 945년",
+      "personal_name": "무 武",
+      "posthumous_goryeo": "인덕명효선현고평경헌의공대왕 仁德明孝宣顯高平景憲義恭大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제3대",
+      "temple_name": "정종 定宗",
+      "life_reign": "923년 - 949년 945년 - 949년",
+      "personal_name": "요 堯",
+      "posthumous_goryeo": "지덕장경정숙영인경간장원문명대왕 至德章敬正肅令仁簡敬莊元文明大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제4대",
+      "temple_name": "광종 光宗",
+      "life_reign": "925년 - 975년 949년 - 975년",
+      "personal_name": "소 昭",
+      "posthumous_goryeo": "홍도선열평세숙헌의효강혜대성대왕 弘道宣烈平世肅憲懿孝康惠大成大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제5대",
+      "temple_name": "경종 景宗",
+      "life_reign": "955년 - 981년 975년 - 981년",
+      "personal_name": "주 胄",
+      "posthumous_goryeo": "지인성목명혜순희정효공희헌화대왕 至仁成穆明惠順熙靖孝恭懿獻和大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제6대",
+      "temple_name": "성종 成宗",
+      "life_reign": "960년 - 997년 981년 - 997년",
+      "personal_name": "치 治",
+      "posthumous_goryeo": "강위장헌광효헌명양정문의대왕 康威章憲廣孝獻明襄定文懿大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제7대",
+      "temple_name": "목종 穆宗",
+      "life_reign": "980년 - 1009년 997년 - 1009년",
+      "personal_name": "송 訟",
+      "posthumous_goryeo": "효사위혜극영정공선양대왕 孝思威惠克英定恭宣讓大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제8대",
+      "temple_name": "현종 顯宗",
+      "life_reign": "992년 - 1031년 1009년 - 1031년",
+      "personal_name": "순 詢",
+      "posthumous_goryeo": "대효덕위달사원문대왕 大孝德威達思元文大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제9대",
+      "temple_name": "덕종 德宗",
+      "life_reign": "1016년 - 1034년 1031년 - 1034년",
+      "personal_name": "흠 欽",
+      "posthumous_goryeo": "선효강명광장경강대왕 宣孝康明廣章敬康大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제10대",
+      "temple_name": "정종 靖宗",
+      "life_reign": "1018년 - 1046년 1034년 - 1046년",
+      "personal_name": "형 亨",
+      "posthumous_goryeo": "홍효안의강헌영렬문경용혜대왕 弘孝安毅康獻英烈文敬容惠大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제11대",
+      "temple_name": "문종 文宗",
+      "life_reign": "1019년 - 1083년 1046년 - 1083년",
+      "personal_name": "휘 徽",
+      "posthumous_goryeo": "강정명대장성인효대왕 剛定明大章聖仁孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제12대",
+      "temple_name": "순종 順宗",
+      "life_reign": "1047년 - 1083년 1083년",
+      "personal_name": "훈 勳",
+      "posthumous_goryeo": "영명정헌선혜대왕 英明靖憲宣惠大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제13대",
+      "temple_name": "선종 宣宗",
+      "life_reign": "1049년 - 1094년 1083년 - 1094년",
+      "personal_name": "운 運",
+      "posthumous_goryeo": "관인현순안성사효대왕 寬仁顯順安成思孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제14대",
+      "temple_name": "헌종 獻宗",
+      "life_reign": "1084년 - 1097년 1094년 - 1095년",
+      "personal_name": "욱 昱",
+      "posthumous_goryeo": "공상정비회효대왕 恭殤定比懷孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제15대",
+      "temple_name": "숙종 肅宗",
+      "life_reign": "1054년 - 1105년 1095년 - 1105년",
+      "personal_name": "옹 顒",
+      "posthumous_goryeo": "문혜강정명효대왕 文惠康正明孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제16대",
+      "temple_name": "예종 睿宗",
+      "life_reign": "1079년 - 1122년 1105년 - 1122년",
+      "personal_name": "우 俁",
+      "posthumous_goryeo": "명렬제순문효대왕 明烈齊順文孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제17대",
+      "temple_name": "인종 仁宗",
+      "life_reign": "1109년 - 1146년 1122년 - 1146년",
+      "personal_name": "구 構",
+      "posthumous_goryeo": "극안공효대왕 克安恭孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제18대",
+      "temple_name": "의종 毅宗",
+      "life_reign": "1127년 - 1173년 1146년 - 1170년",
+      "personal_name": "현 晛",
+      "posthumous_goryeo": "강과장효대왕 剛果莊孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제19대",
+      "temple_name": "명종 明宗",
+      "life_reign": "1131년 - 1202년 1170년 - 1197년",
+      "personal_name": "호 晧",
+      "posthumous_goryeo": "황명광효대왕 皇明光孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제20대",
+      "temple_name": "신종 神宗",
+      "life_reign": "1144년 - 1204년 1197년 - 1204년",
+      "personal_name": "탁 晫",
+      "posthumous_goryeo": "경공정효대왕 敬恭靖孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제21대",
+      "temple_name": "희종 熙宗",
+      "life_reign": "1181년 - 1237년 1204년 - 1211년",
+      "personal_name": "영 韺",
+      "posthumous_goryeo": "인목성효대왕 仁穆誠孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제22대",
+      "temple_name": "강종 康宗",
+      "life_reign": "1152년 - 1213년 1211년 - 1213년",
+      "personal_name": "오 祦",
+      "posthumous_goryeo": "준철문열단총명헌 이모목청원효대왕 浚哲文烈亶聰明憲 貽謀穆清元孝大王",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제23대",
+      "temple_name": "고종 高宗",
+      "life_reign": "1192년 - 1259년 1213년 - 1259년",
+      "personal_name": "철 皞",
+      "posthumous_goryeo": "안효대왕 安孝大王",
+      "posthumous_yuan_ming": "충헌 忠憲"
+    },
+    {
+      "order": "제24대",
+      "temple_name": "원종 元宗",
+      "life_reign": "1219년 - 1274년 1259년 - 1274년",
+      "personal_name": "정 禎",
+      "posthumous_goryeo": "순효대왕 順孝大王",
+      "posthumous_yuan_ming": "충경 忠敬"
+    },
+    {
+      "order": "제25대",
+      "temple_name": "충렬왕 忠烈王",
+      "life_reign": "1236년 - 1308년 1274년 - 1298년  복위 1298년 - 1308년",
+      "personal_name": "거 昛",
+      "posthumous_goryeo": "광문선덕경효대왕 光文宣德景孝大王",
+      "posthumous_yuan_ming": "충렬 忠烈"
+    },
+    {
+      "order": "제26대",
+      "temple_name": "충선왕 忠宣王",
+      "life_reign": "1275년 - 1325년 1298년  복위 1308년 - 1313년",
+      "personal_name": "장 璋 이지르부카 益知禮普花",
+      "posthumous_goryeo": "선효대왕 宣孝大王",
+      "posthumous_yuan_ming": "충선 忠宣"
+    },
+    {
+      "order": "제27대",
+      "temple_name": "충숙왕 忠肅王",
+      "life_reign": "1294년 - 1339년 1313년 - 1330년  복위 1332년 - 1339년",
+      "personal_name": "만 卍 아라트나시리 阿刺訥忒失里",
+      "posthumous_goryeo": "의효대왕 懿孝大王",
+      "posthumous_yuan_ming": "충숙 忠肅"
+    },
+    {
+      "order": "제28대",
+      "temple_name": "충혜왕 忠惠王",
+      "life_reign": "1315년 - 1344년 1330년 - 1332년  복위 1339년 - 1344년",
+      "personal_name": "정 禎 부다시리 寶塔實里",
+      "posthumous_goryeo": "헌효대왕 獻孝大王",
+      "posthumous_yuan_ming": "충혜 忠惠"
+    },
+    {
+      "order": "제29대",
+      "temple_name": "충목왕 忠穆王",
+      "life_reign": "1337년 - 1348년 1344년 - 1348년",
+      "personal_name": "흔 昕 바스마도르지 八思麻朶兒只",
+      "posthumous_goryeo": "현효대왕 顯孝大王",
+      "posthumous_yuan_ming": "충목 忠穆"
+    },
+    {
+      "order": "제30대",
+      "temple_name": "충정왕 忠定王",
+      "life_reign": "1337년 - 1352년 1349년 - 1351년",
+      "personal_name": "저 胝 미스젠도르지 迷思監朶兒只",
+      "posthumous_goryeo": "",
+      "posthumous_yuan_ming": "충정 忠定"
+    },
+    {
+      "order": "제31대",
+      "temple_name": "공민왕 恭愍王",
+      "life_reign": "1330년 - 1374년 1351년 - 1374년",
+      "personal_name": "전 顓 바얀테무르 伯顔帖木兒",
+      "posthumous_goryeo": "인문의무용지명열경효대왕 仁文義武勇智明烈敬孝大王",
+      "posthumous_yuan_ming": "공민 恭愍"
+    },
+    {
+      "order": "제32대",
+      "temple_name": "우왕 禑王",
+      "life_reign": "1365년 - 1389년 1374년 - 1388년",
+      "personal_name": "우 禑",
+      "posthumous_goryeo": "",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제33대",
+      "temple_name": "창왕 昌王",
+      "life_reign": "1380년 - 1389년 1388년 - 1389년",
+      "personal_name": "창 昌",
+      "posthumous_goryeo": "",
+      "posthumous_yuan_ming": ""
+    },
+    {
+      "order": "제34대",
+      "temple_name": "공양왕 恭讓王",
+      "life_reign": "1345년 - 1394년 1389년 - 1392년",
+      "personal_name": "요 瑤",
+      "posthumous_goryeo": "",
+      "posthumous_yuan_ming": ""
+    }
+  ],
+  "meta": {
+    "title": "고려의 역대 국왕 - Free Download",
+    "description": "고려 역대 국왕의 묘호·왕호, 생몰년·재위, 휘, 시호 목록. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "고려의 역대 국왕 | ListBase",
+    "seo_description": "Download 고려의 역대 국왕 — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/고려의_국왕"
+    ]
+  }
+}

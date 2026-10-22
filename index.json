@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:20.063Z",
-  "total_datasets": 417,
-  "total_records": 444919,
+  "generated": "2026-10-22T04:23:22.541Z",
+  "total_datasets": 418,
+  "total_records": 444953,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "health",
+      "dataset_count": 1
+    },
+    {
+      "id": "history",
       "dataset_count": 1
     },
     {
@@ -6134,6 +6138,33 @@
         "xlsx": {
           "name": "ko-byeongwon_KO.xlsx",
           "size": 18562
+        }
+      }
+    },
+    {
+      "id": "ko-goryeo-gugwang",
+      "name": "고려의 역대 국왕",
+      "category": "history",
+      "record_count": 34,
+      "columns": [
+        "order",
+        "temple_name",
+        "life_reign",
+        "personal_name",
+        "posthumous_goryeo",
+        "posthumous_yuan_ming"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/고려의_국왕",
+      "updated": "2026-10",
+      "size": 11769,
+      "files": {
+        "csv": {
+          "name": "ko-goryeo-gugwang_KO.csv",
+          "size": 4995
+        },
+        "xlsx": {
+          "name": "ko-goryeo-gugwang_KO.xlsx",
+          "size": 9991
         }
       }
     },
