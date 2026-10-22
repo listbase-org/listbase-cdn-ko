@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:44.576Z",
-  "total_datasets": 427,
-  "total_records": 445293,
+  "generated": "2026-10-22T04:23:46.943Z",
+  "total_datasets": 428,
+  "total_records": 445402,
   "categories": [
     {
       "id": "culture",
@@ -63,6 +63,10 @@
     {
       "id": "reference",
       "dataset_count": 98
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -9326,6 +9330,31 @@
         "xlsx": {
           "name": "ko-upyeonbeonho_KO.xlsx",
           "size": 1879975
+        }
+      }
+    },
+    {
+      "id": "ko-myeoljong-wigijong",
+      "name": "한국의 멸종위기 야생생물",
+      "category": "science",
+      "record_count": 109,
+      "columns": [
+        "name",
+        "family",
+        "scientific_name",
+        "grade"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_멸종위기종",
+      "updated": "2026-10",
+      "size": 17266,
+      "files": {
+        "csv": {
+          "name": "ko-myeoljong-wigijong_KO.csv",
+          "size": 6461
+        },
+        "xlsx": {
+          "name": "ko-myeoljong-wigijong_KO.xlsx",
+          "size": 11312
         }
       }
     },

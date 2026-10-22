@@ -1,0 +1,700 @@
+{
+  "id": "ko-myeoljong-wigijong",
+  "name": "한국의 멸종위기 야생생물",
+  "title": "한국의 멸종위기 야생생물",
+  "description": "한국 멸종위기 야생생물의 한국명, 과명, 학명 목록.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/한국의_멸종위기종",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_멸종위기종",
+  "updated": "2026-10",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "grade",
+      "label": "Grade",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "늑대",
+      "family": "개과",
+      "scientific_name": "Canis lupus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "대륙사슴",
+      "family": "사슴과",
+      "scientific_name": "Cervus nippon hortulorumi",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "바다사자",
+      "family": "바다사자과",
+      "scientific_name": "Zalophus californianus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "반달가슴곰",
+      "family": "곰과",
+      "scientific_name": "Ursus thibetanus ussuricus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "붉은박쥐",
+      "family": "애기박쥐과",
+      "scientific_name": "Myotis formosus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "사향노루",
+      "family": "사향노루과",
+      "scientific_name": "Moschus moschiferus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "산양",
+      "family": "소과",
+      "scientific_name": "Naemorhedus caudatus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "수달",
+      "family": "족제비과",
+      "scientific_name": "Lutra lutra",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "스라소니",
+      "family": "고양이과",
+      "scientific_name": "Lynx lynx",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "여우",
+      "family": "개과",
+      "scientific_name": "Vulpes vulpes peculiosa",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "표범",
+      "family": "고양이과",
+      "scientific_name": "Panthera pardus orientalis",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "호랑이",
+      "family": "고양이과",
+      "scientific_name": "Panthera tigris altaica",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "담비",
+      "family": "족제비과",
+      "scientific_name": "Martes flavigula",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "무산쇠족제비",
+      "family": "족제비과",
+      "scientific_name": "Mustela nivalis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "물개",
+      "family": "바다사자과",
+      "scientific_name": "Callorhinus ursinus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "물범",
+      "family": "물범과",
+      "scientific_name": "Phoca largha",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "물범류",
+      "family": "물범과",
+      "scientific_name": "Phoca spp.",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "삵",
+      "family": "고양이과",
+      "scientific_name": "Prionailurus bengalensis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "작은관코박쥐",
+      "family": "애기박쥐과",
+      "scientific_name": "Murina ussuriensis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "큰바다사자",
+      "family": "바다사자과",
+      "scientific_name": "Eumetopias jubatus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "토끼박쥐",
+      "family": "애기박쥐과",
+      "scientific_name": "Plecotus auritus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "하늘다람쥐",
+      "family": "청설모과",
+      "scientific_name": "Pteromys volans",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "검독수리",
+      "family": "수리과",
+      "scientific_name": "Aquila chrysaetos",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "고니",
+      "family": "오리과",
+      "scientific_name": "Cygnus columbianus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "넓적부리도요",
+      "family": "도요과",
+      "scientific_name": "Calidris pygmaea",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "노랑부리백로",
+      "family": "백로과",
+      "scientific_name": "Egretta eulophotes",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "느시",
+      "family": "느시과",
+      "scientific_name": "Otis tarda",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "두루미",
+      "family": "두루미과",
+      "scientific_name": "Grus japonensis",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "먹황새",
+      "family": "황새과",
+      "scientific_name": "Ciconia nigra",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "뿔제비갈매기",
+      "family": "갈매기과",
+      "scientific_name": "Thalasseus bernsteini",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "저어새",
+      "family": "저어새과",
+      "scientific_name": "Platalea minor",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "참수리",
+      "family": "수리과",
+      "scientific_name": "Hallaeetus pelagicus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "청다리도요사촌",
+      "family": "도요과",
+      "scientific_name": "Tringa guttifer",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "크낙새",
+      "family": "딱따구리과",
+      "scientific_name": "Dryocopus javensis",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "호사비오리",
+      "family": "오리과",
+      "scientific_name": "Mergus squamatus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "혹고니",
+      "family": "오리과",
+      "scientific_name": "Cygnus olor",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "황새",
+      "family": "황새과",
+      "scientific_name": "Ciconia boyciana",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "흰꼬리수리",
+      "family": "수리과",
+      "scientific_name": "Haliaeetus albicilla",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "개리",
+      "family": "오리과",
+      "scientific_name": "Anser cygnoides",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "검은머리갈매기",
+      "family": "갈매기과",
+      "scientific_name": "Chroicocephalus saundersi",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "검은머리물떼새",
+      "family": "검은머리물떼새과",
+      "scientific_name": "Haematopus ostralegus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "검은머리촉새",
+      "family": "멧새과",
+      "scientific_name": "Emberiza aureola",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "검은목두루미",
+      "family": "두루미과",
+      "scientific_name": "Grus grus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "고대갈매기",
+      "family": "갈매기과",
+      "scientific_name": "Ichthyaetus relictus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "긴꼬리딱새",
+      "family": "긴꼬리딱새과",
+      "scientific_name": "Terpsiphone atrocaudata",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "긴점박이올빼미",
+      "family": "올빼미과",
+      "scientific_name": "Strix uralensis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "까막딱다구리",
+      "family": "딱다구리과",
+      "scientific_name": "Dryocopus martius",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "노랑부리저어새",
+      "family": "저어새과",
+      "scientific_name": "Platalea leucorodia",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "독수리",
+      "family": "수리과",
+      "scientific_name": "Aegypius monachus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "따오기",
+      "family": "저어새과",
+      "scientific_name": "Nipponia nippon",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "뜸부기",
+      "family": "뜸부기과",
+      "scientific_name": "Gallicrex cinerea",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "매",
+      "family": "매과",
+      "scientific_name": "Falco peregrinus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "무당새",
+      "family": "멧새과",
+      "scientific_name": "Emberiza hortulana",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "물수리",
+      "family": "물수리과",
+      "scientific_name": "Pandion haliaetus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "벌매",
+      "family": "수리과",
+      "scientific_name": "Pernis ptilorhynchus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "붉은가슴흰죽지",
+      "family": "오리과",
+      "scientific_name": "Aythya baeri",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "붉은배새매",
+      "family": "수리과",
+      "scientific_name": "Accipiter soloensis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "붉은어깨도요",
+      "family": "도요과",
+      "scientific_name": "Calidris tenuirostris",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "붉은해오라기",
+      "family": "백로과",
+      "scientific_name": "Gorsachius goisagi",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "뿔쇠오리",
+      "family": "바다오리과",
+      "scientific_name": "Synthliboramphus wumizusume",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "뿔종다리",
+      "family": "종다리과",
+      "scientific_name": "Galerida cristata",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "새매",
+      "family": "수리과",
+      "scientific_name": "Accipiter nisus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "새홀리기",
+      "family": "매과",
+      "scientific_name": "Falco subbuteo",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "섬개개비",
+      "family": "섬개개비과",
+      "scientific_name": "Helopsaltes pleskei",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "솔개",
+      "family": "수리과",
+      "scientific_name": "Milvus migrans",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "쇠검은머리쑥새",
+      "family": "멧새과",
+      "scientific_name": "Emberiza yessoensis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "쇠제비갈매기",
+      "family": "갈매기과",
+      "scientific_name": "Sternula albifrons",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "수리부엉이",
+      "family": "올빼미과",
+      "scientific_name": "Bubo bubo",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "시베리아흰두루미",
+      "family": "두루미과",
+      "scientific_name": "Leucogeranus leucogeranus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "알락개구리매",
+      "family": "수리과",
+      "scientific_name": "Circus melanoleucos",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "알락꼬리마도요",
+      "family": "도요과",
+      "scientific_name": "Numenius madagascariensis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "양비둘기",
+      "family": "비둘기과",
+      "scientific_name": "Columba rupestris",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "올빼미",
+      "family": "올빼미과",
+      "scientific_name": "Strix nivicolum",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "재두루미",
+      "family": "두루미과",
+      "scientific_name": "Antigone vipio",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "잿빛개구리매",
+      "family": "수리과",
+      "scientific_name": "Circus cyaneus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "조롱이",
+      "family": "수리과",
+      "scientific_name": "Accipiter gularis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "참매",
+      "family": "수리과",
+      "scientific_name": "Accipiter gentilis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "청호반새",
+      "family": "물총새과",
+      "scientific_name": "Halcyon pileata",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "큰고니",
+      "family": "오리과",
+      "scientific_name": "Cygnus cygnus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "큰기러기",
+      "family": "오리과",
+      "scientific_name": "Anser fabalis",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "큰덤불해오라기",
+      "family": "백로과",
+      "scientific_name": "Ixobrychus eurhythmus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "큰뒷부리도요",
+      "family": "도요과",
+      "scientific_name": "Limosa lapponica",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "큰말똥가리",
+      "family": "수리과",
+      "scientific_name": "Buteo hemilasius",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "팔색조",
+      "family": "팔색조과",
+      "scientific_name": "Pitta nympha",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "항라머리검독수리",
+      "family": "수리과",
+      "scientific_name": "Clanga clanga",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "흑기러기",
+      "family": "오리과",
+      "scientific_name": "Branta bernicla",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "흑두루미",
+      "family": "두루미과",
+      "scientific_name": "Grus monacha",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "흑비둘기",
+      "family": "비둘기과",
+      "scientific_name": "Columba janthina",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "흰목물떼새",
+      "family": "물떼새과",
+      "scientific_name": "Charadrius placidus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "흰이마기러기",
+      "family": "오리과",
+      "scientific_name": "Anser erythropus",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "흰죽지수리",
+      "family": "수리과",
+      "scientific_name": "Aquila heliaca",
+      "grade": "Ⅱ급"
+    },
+    {
+      "name": "금개구리",
+      "family": "개구리과",
+      "scientific_name": "Rana plancyi",
+      "grade": ""
+    },
+    {
+      "name": "남생이",
+      "family": "남생이과",
+      "scientific_name": "Chinemys reevesii",
+      "grade": ""
+    },
+    {
+      "name": "맹꽁이",
+      "family": "맹꽁이과",
+      "scientific_name": "Kaloula borealis",
+      "grade": ""
+    },
+    {
+      "name": "비바리뱀",
+      "family": "뱀과",
+      "scientific_name": "Sibynophis collaris",
+      "grade": ""
+    },
+    {
+      "name": "표범장지뱀",
+      "family": "장지뱀과",
+      "scientific_name": "Eremias argus",
+      "grade": ""
+    },
+    {
+      "name": "고리도롱뇽",
+      "family": "도롱뇽과",
+      "scientific_name": "Hynobius yangi",
+      "grade": ""
+    },
+    {
+      "name": "산굴뚝나비",
+      "family": "뱀눈나비과",
+      "scientific_name": "Eumenis autonoe",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "상제나비",
+      "family": "흰나비과",
+      "scientific_name": "Aporia crataegi",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "수염풍뎅이",
+      "family": "검정풍뎅이과",
+      "scientific_name": "Polyphylla laticollis manchuricus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "장수하늘소",
+      "family": "하늘소과",
+      "scientific_name": "Callipogon relictus",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "붉은점모시나비",
+      "family": "호랑나비과",
+      "scientific_name": "Parnassius bremeri",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "비단벌레",
+      "family": "비단벌레과",
+      "scientific_name": "Chrysochroa coreana",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "귀이빨대칭이",
+      "family": "석패과",
+      "scientific_name": "Cristaria plicata",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "나팔고둥",
+      "family": "수염고둥과",
+      "scientific_name": "Charonia sauliae",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "남방방게",
+      "family": "바위게과",
+      "scientific_name": "Helice leachi",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "두드럭조개",
+      "family": "석패과",
+      "scientific_name": "Lamprotula coreana",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "칼세오리옆새우",
+      "family": "옆새우과",
+      "scientific_name": "Gammarus zeongogensis",
+      "grade": "Ⅰ급"
+    },
+    {
+      "name": "거제외줄달팽이",
+      "family": "외줄달팽이과",
+      "scientific_name": "Satsuma myomphala",
+      "grade": "Ⅰ급"
+    }
+  ],
+  "meta": {
+    "title": "한국의 멸종위기 야생생물 - Free Download",
+    "description": "한국 멸종위기 야생생물의 한국명, 과명, 학명 목록. Contains 109 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국의 멸종위기 야생생물 | ListBase",
+    "seo_description": "Download 한국의 멸종위기 야생생물 — 109 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 109 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_멸종위기종"
+    ]
+  }
+}
