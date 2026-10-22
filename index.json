@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-22T04:23:15.345Z",
-  "total_datasets": 415,
-  "total_records": 444718,
+  "generated": "2026-10-22T04:23:17.739Z",
+  "total_datasets": 416,
+  "total_records": 444879,
   "categories": [
     {
       "id": "culture",
@@ -47,6 +47,10 @@
     {
       "id": "reference",
       "dataset_count": 98
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -9096,6 +9100,31 @@
         "xlsx": {
           "name": "ko-upyeonbeonho_KO.xlsx",
           "size": 1879975
+        }
+      }
+    },
+    {
+      "id": "ko-dosi-ingu-sunwi",
+      "name": "대한민국의 도시 인구 순위",
+      "category": "society",
+      "record_count": 161,
+      "columns": [
+        "name",
+        "region",
+        "admin_type",
+        "population"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_도시_인구_순위",
+      "updated": "2026-10",
+      "size": 25345,
+      "files": {
+        "csv": {
+          "name": "ko-dosi-ingu-sunwi_KO.csv",
+          "size": 10005
+        },
+        "xlsx": {
+          "name": "ko-dosi-ingu-sunwi_KO.xlsx",
+          "size": 11750
         }
       }
     },
