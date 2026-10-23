@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:49.760Z",
-  "total_datasets": 445,
-  "total_records": 448397,
+  "generated": "2026-10-23T02:10:52.194Z",
+  "total_datasets": 446,
+  "total_records": 448435,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -6796,6 +6796,30 @@
         "xlsx": {
           "name": "ko-melon-music-awards_KO.xlsx",
           "size": 7929
+        }
+      }
+    },
+    {
+      "id": "ko-seoul-gayo-daesang",
+      "name": "서울가요대상 역대 대상 수상자",
+      "category": "music",
+      "record_count": 38,
+      "columns": [
+        "edition",
+        "year",
+        "grand_prize"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/하이원_서울가요대상",
+      "updated": "2026-10",
+      "size": 5125,
+      "files": {
+        "csv": {
+          "name": "ko-seoul-gayo-daesang_KO.csv",
+          "size": 1199
+        },
+        "xlsx": {
+          "name": "ko-seoul-gayo-daesang_KO.xlsx",
+          "size": 7813
         }
       }
     },

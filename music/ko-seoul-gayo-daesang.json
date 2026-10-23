@@ -1,0 +1,231 @@
+{
+  "id": "ko-seoul-gayo-daesang",
+  "name": "서울가요대상 역대 대상 수상자",
+  "title": "서울가요대상 역대 대상 수상자",
+  "description": "서울가요대상의 회차별 역대 대상 수상자 목록.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/하이원_서울가요대상",
+  "source_url": "https://ko.wikipedia.org/wiki/하이원_서울가요대상",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "grand_prize",
+      "label": "Grand Prize",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "1회",
+      "year": "1990년",
+      "grand_prize": "변진섭"
+    },
+    {
+      "edition": "2회",
+      "year": "1991년",
+      "grand_prize": "태진아"
+    },
+    {
+      "edition": "3회",
+      "year": "1992년",
+      "grand_prize": "서태지와 아이들"
+    },
+    {
+      "edition": "4회",
+      "year": "1993년",
+      "grand_prize": "서태지와 아이들"
+    },
+    {
+      "edition": "5회",
+      "year": "1994년",
+      "grand_prize": "김건모"
+    },
+    {
+      "edition": "6회",
+      "year": "1995년",
+      "grand_prize": "룰라"
+    },
+    {
+      "edition": "7회",
+      "year": "1996년",
+      "grand_prize": "클론"
+    },
+    {
+      "edition": "8회",
+      "year": "1997년",
+      "grand_prize": "H.O.T."
+    },
+    {
+      "edition": "9회",
+      "year": "1998년",
+      "grand_prize": "H.O.T."
+    },
+    {
+      "edition": "9회",
+      "year": "1998년",
+      "grand_prize": "젝스키스"
+    },
+    {
+      "edition": "10회",
+      "year": "1999년",
+      "grand_prize": "핑클"
+    },
+    {
+      "edition": "10회",
+      "year": "1999년",
+      "grand_prize": "조성모"
+    },
+    {
+      "edition": "11회",
+      "year": "2000년",
+      "grand_prize": "조성모"
+    },
+    {
+      "edition": "12회",
+      "year": "2001년",
+      "grand_prize": "김건모"
+    },
+    {
+      "edition": "13회",
+      "year": "2002년",
+      "grand_prize": "보아"
+    },
+    {
+      "edition": "14회",
+      "year": "2003년",
+      "grand_prize": "이효리"
+    },
+    {
+      "edition": "15회",
+      "year": "2004년",
+      "grand_prize": "신화"
+    },
+    {
+      "edition": "16회",
+      "year": "2006년",
+      "grand_prize": "동방신기"
+    },
+    {
+      "edition": "17회",
+      "year": "2007년",
+      "grand_prize": "빅뱅"
+    },
+    {
+      "edition": "18회",
+      "year": "2008년",
+      "grand_prize": "원더걸스"
+    },
+    {
+      "edition": "19회",
+      "year": "2009년",
+      "grand_prize": "소녀시대"
+    },
+    {
+      "edition": "20회",
+      "year": "2010년",
+      "grand_prize": "소녀시대"
+    },
+    {
+      "edition": "21회",
+      "year": "2011년",
+      "grand_prize": "슈퍼주니어"
+    },
+    {
+      "edition": "22회",
+      "year": "2012년",
+      "grand_prize": "싸이"
+    },
+    {
+      "edition": "23회",
+      "year": "2013년",
+      "grand_prize": "EXO"
+    },
+    {
+      "edition": "24회",
+      "year": "2014년",
+      "grand_prize": "EXO"
+    },
+    {
+      "edition": "25회",
+      "year": "2015년",
+      "grand_prize": "EXO"
+    },
+    {
+      "edition": "26회",
+      "year": "2016년",
+      "grand_prize": "EXO"
+    },
+    {
+      "edition": "27회",
+      "year": "2017년",
+      "grand_prize": "방탄소년단"
+    },
+    {
+      "edition": "28회",
+      "year": "2018년",
+      "grand_prize": "방탄소년단"
+    },
+    {
+      "edition": "29회",
+      "year": "2019년",
+      "grand_prize": "태연 (음원)"
+    },
+    {
+      "edition": "29회",
+      "year": "2019년",
+      "grand_prize": "방탄소년단 (앨범)"
+    },
+    {
+      "edition": "30회",
+      "year": "2020년",
+      "grand_prize": "방탄소년단"
+    },
+    {
+      "edition": "31회",
+      "year": "2021년",
+      "grand_prize": "NCT 127"
+    },
+    {
+      "edition": "32회",
+      "year": "2022년",
+      "grand_prize": "NCT DREAM"
+    },
+    {
+      "edition": "33회",
+      "year": "2023년",
+      "grand_prize": "NCT DREAM"
+    },
+    {
+      "edition": "34회",
+      "year": "2024년",
+      "grand_prize": "아이들"
+    },
+    {
+      "edition": "35회",
+      "year": "2025년",
+      "grand_prize": "에이티즈"
+    }
+  ],
+  "meta": {
+    "title": "서울가요대상 역대 대상 수상자 - Free Download",
+    "description": "서울가요대상의 회차별 역대 대상 수상자 목록. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "서울가요대상 역대 대상 수상자 | ListBase",
+    "seo_description": "Download 서울가요대상 역대 대상 수상자 — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/하이원_서울가요대상"
+    ]
+  }
+}
