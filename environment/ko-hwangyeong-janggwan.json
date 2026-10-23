@@ -1,0 +1,336 @@
+{
+  "id": "ko-hwangyeong-janggwan",
+  "name": "대한민국의 역대 환경부 장관",
+  "title": "대한민국의 역대 환경부 장관",
+  "description": "환경청장·환경처장·환경부 장관·기후에너지환경부 장관 등 대한민국 환경 행정 수장의 역대 목록.",
+  "category": "environment",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_기후에너지환경부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_기후에너지환경부_장관",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "left_office",
+      "label": "Left Office",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "환경청장",
+      "term": "제1대",
+      "name": "박승규",
+      "took_office": "1980년 1월 1일",
+      "left_office": "1980년 7월 2일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "환경청장",
+      "term": "제2대",
+      "name": "박준익",
+      "took_office": "1980년 7월 19일",
+      "left_office": "1983년 7월 9일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "환경청장",
+      "term": "제3대",
+      "name": "최수일",
+      "took_office": "1983년 7월 9일",
+      "left_office": "1986년 5월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "환경청장",
+      "term": "제4대",
+      "name": "박판제",
+      "took_office": "1986년 5월 24일",
+      "left_office": "1988년 5월 20일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "환경청장",
+      "term": "제5대",
+      "name": "이상배",
+      "took_office": "1988년 5월 20일",
+      "left_office": "1989년 7월 21일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "환경청장",
+      "term": "제6대",
+      "name": "이재창",
+      "took_office": "1989년 7월 21일",
+      "left_office": "1990년 1월 3일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "환경처장",
+      "term": "제1대",
+      "name": "조경식",
+      "took_office": "1990년 1월 3일",
+      "left_office": "1990년 9월 19일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "환경처장",
+      "term": "제2대",
+      "name": "허남훈",
+      "took_office": "1990년 9월 19일",
+      "left_office": "1991년 4월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "환경처장",
+      "term": "제3대",
+      "name": "권이혁",
+      "took_office": "1991년 4월 26일",
+      "left_office": "1992년 6월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "환경처장",
+      "term": "제4대",
+      "name": "이재창",
+      "took_office": "1992년 6월 26일",
+      "left_office": "1993년 2월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "환경처장",
+      "term": "제5대",
+      "name": "황산성",
+      "took_office": "1993년 2월 26일",
+      "left_office": "1993년 12월 22일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "환경처장",
+      "term": "제6대",
+      "name": "박윤흔",
+      "took_office": "1993년 12월 22일",
+      "left_office": "1994년 12월 21일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제1대",
+      "name": "김중위",
+      "took_office": "1994년 12월 21일",
+      "left_office": "1995년 12월 21일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제2대",
+      "name": "정종택",
+      "took_office": "1995년 12월 21일",
+      "left_office": "1996년 12월 20일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제3대",
+      "name": "강현욱",
+      "took_office": "1996년 12월 20일",
+      "left_office": "1997년 8월 6일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제4대",
+      "name": "윤여준",
+      "took_office": "1997년 8월 6일",
+      "left_office": "1998년 3월 3일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제5대",
+      "name": "최재욱",
+      "took_office": "1998년 3월 3일",
+      "left_office": "1999년 5월 24일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제6대",
+      "name": "손숙",
+      "took_office": "1999년 5월 24일",
+      "left_office": "1999년 6월 25일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제7대",
+      "name": "김명자",
+      "took_office": "1999년 6월 25일",
+      "left_office": "2003년 2월 27일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제8대",
+      "name": "한명숙",
+      "took_office": "2003년 2월 27일",
+      "left_office": "2004년 2월 16일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제9대",
+      "name": "곽결호",
+      "took_office": "2004년 2월 18일",
+      "left_office": "2005년 6월 28일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제10대",
+      "name": "이재용",
+      "took_office": "2005년 6월 28일",
+      "left_office": "2006년 3월 21일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제11대",
+      "name": "이치범",
+      "took_office": "2006년 4월 7일",
+      "left_office": "2007년 9월 4일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제12대",
+      "name": "이규용",
+      "took_office": "2007년 9월 21일",
+      "left_office": "2008년 2월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제13대",
+      "name": "이만의",
+      "took_office": "2008년 3월 12일",
+      "left_office": "2011년 6월 1일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제14대",
+      "name": "유영숙",
+      "took_office": "2011년 6월 2일",
+      "left_office": "2013년 3월 11일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제15대",
+      "name": "윤성규",
+      "took_office": "2013년 3월 11일",
+      "left_office": "2016년 9월 4일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제16대",
+      "name": "조경규",
+      "took_office": "2016년 9월 5일",
+      "left_office": "2017년 7월 3일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제17대",
+      "name": "김은경",
+      "took_office": "2017년 7월 4일",
+      "left_office": "2018년 11월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제18대",
+      "name": "조명래",
+      "took_office": "2018년 11월 10일",
+      "left_office": "2021년 1월 21일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제19대",
+      "name": "한정애",
+      "took_office": "2021년 1월 22일",
+      "left_office": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제20대",
+      "name": "한화진",
+      "took_office": "2022년 5월 10일",
+      "left_office": "2024년 7월 24일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제21대",
+      "name": "김완섭",
+      "took_office": "2024년 7월 24일",
+      "left_office": "2025년 7월 16일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "환경부장관",
+      "term": "제22대",
+      "name": "김성환",
+      "took_office": "2025년 7월 22일",
+      "left_office": "2025년 9월 30일",
+      "government": "이재명 정부"
+    },
+    {
+      "office": "기후에너지환경부 장관",
+      "term": "제1대",
+      "name": "김성환",
+      "took_office": "2025년 10월 1일",
+      "left_office": "현직",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 환경부 장관 - Free Download",
+    "description": "환경청장·환경처장·환경부 장관·기후에너지환경부 장관 등 대한민국 환경 행정 수장의 역대 목록. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 환경부 장관 | ListBase",
+    "seo_description": "Download 대한민국의 역대 환경부 장관 — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_기후에너지환경부_장관"
+    ]
+  }
+}

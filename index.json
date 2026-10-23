@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:38.306Z",
-  "total_datasets": 440,
-  "total_records": 448135,
+  "generated": "2026-10-23T02:10:40.575Z",
+  "total_datasets": 441,
+  "total_records": 448170,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -2439,6 +2439,33 @@
         "xlsx": {
           "name": "ko-cheukjeong-danwi-temperature_KO.xlsx",
           "size": 7041
+        }
+      }
+    },
+    {
+      "id": "ko-hwangyeong-janggwan",
+      "name": "대한민국의 역대 환경부 장관",
+      "category": "environment",
+      "record_count": 35,
+      "columns": [
+        "office",
+        "term",
+        "name",
+        "took_office",
+        "left_office",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_기후에너지환경부_장관",
+      "updated": "2026-10",
+      "size": 9688,
+      "files": {
+        "csv": {
+          "name": "ko-hwangyeong-janggwan_KO.csv",
+          "size": 3557
+        },
+        "xlsx": {
+          "name": "ko-hwangyeong-janggwan_KO.xlsx",
+          "size": 8479
         }
       }
     },
