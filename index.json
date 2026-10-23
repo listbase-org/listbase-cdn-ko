@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:31.195Z",
-  "total_datasets": 437,
-  "total_records": 446079,
+  "generated": "2026-10-23T02:10:33.551Z",
+  "total_datasets": 438,
+  "total_records": 447879,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -6510,6 +6510,30 @@
         "xlsx": {
           "name": "ko-eoneo-byeonche_KO.xlsx",
           "size": 7567
+        }
+      }
+    },
+    {
+      "id": "ko-gicho-hanja",
+      "name": "대한민국 중·고등학교 교육용 기초한자 1800자",
+      "category": "language",
+      "record_count": 1800,
+      "columns": [
+        "hanja",
+        "eum",
+        "level"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_중고등학교_기초한자_목록",
+      "updated": "2026-10",
+      "size": 157325,
+      "files": {
+        "csv": {
+          "name": "ko-gicho-hanja_KO.csv",
+          "size": 51325
+        },
+        "xlsx": {
+          "name": "ko-gicho-hanja_KO.xlsx",
+          "size": 40577
         }
       }
     },
