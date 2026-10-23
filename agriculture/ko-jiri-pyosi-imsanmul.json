@@ -1,0 +1,499 @@
+{
+  "id": "ko-jiri-pyosi-imsanmul",
+  "name": "대한민국의 지리적 표시 임산물",
+  "title": "대한민국의 지리적 표시 임산물",
+  "description": "대한민국에 등록된 지리적 표시 임산물 목록 (등록 번호, 품명, 등록일, 소재지).",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "registered",
+      "label": "Registered",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "양양 송이",
+      "registered": "2006년 3월 27일",
+      "location": "강원특별자치도 양양군",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "장흥 표고버섯",
+      "registered": "2006년 5월 16일",
+      "location": "전라남도 장흥군",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "산청 곶감",
+      "registered": "2006년 6월 9일",
+      "location": "경상남도 산청군",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "name": "정안 밤",
+      "registered": "2006년 9월 15일",
+      "location": "충청남도 공주시",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "name": "울릉도 삼나물",
+      "registered": "2006년 12월 15일",
+      "location": "경상북도 울릉군",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "울릉도 미역취",
+      "registered": "2006년 12월 15일",
+      "location": "경상북도 울릉군",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "울릉도 참고비",
+      "registered": "2006년 12월 15일",
+      "location": "경상북도 울릉군",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "울릉도 부지갱이",
+      "registered": "2006년 12월 15일",
+      "location": "경상북도 울릉군",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "경산 대추",
+      "registered": "2007년 1월 3일",
+      "location": "경상북도 경산시",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "봉화 송이",
+      "registered": "2007년 1월 3일",
+      "location": "경상북도 봉화군",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "청양 구기자",
+      "registered": "2007년 2월 1일",
+      "location": "충청남도 청양군",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "상주 곶감",
+      "registered": "2007년 6월 12일",
+      "location": "경상북도 상주시",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "창선 고사리",
+      "registered": "2007년 7월 16일",
+      "location": "경상남도 남해군",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "영덕 송이",
+      "registered": "2008년 2월 13일",
+      "location": "경상북도 영덕군",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "구례 산수유",
+      "registered": "2008년 3월 12일",
+      "location": "전라남도 구례군",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "광양 백운산 고로쇠 수액",
+      "registered": "2008년 8월 13일",
+      "location": "전라남도 광양시",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "name": "영암 대봉감",
+      "registered": "2008년 11월 25일",
+      "location": "전라남도 영암군",
+      "note": ""
+    },
+    {
+      "no": 18,
+      "name": "천안 호두",
+      "registered": "2008년 12월 23일",
+      "location": "충청남도 천안시",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "name": "문경 오미자",
+      "registered": "2009년 1월 28일",
+      "location": "경상북도 문경시",
+      "note": ""
+    },
+    {
+      "no": 20,
+      "name": "무주 머루",
+      "registered": "2009년 1월 28일",
+      "location": "전북특별자치도 무주군",
+      "note": ""
+    },
+    {
+      "no": 21,
+      "name": "울진 송이",
+      "registered": "2009년 4월 21일",
+      "location": "경상북도 울진군",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "횡성 더덕",
+      "registered": "2009년 5월 12일",
+      "location": "강원특별자치도 횡성군",
+      "note": ""
+    },
+    {
+      "no": 23,
+      "name": "악양 대봉감",
+      "registered": "2009년 5월 12일",
+      "location": "경상남도 하동군",
+      "note": "등록 취소"
+    },
+    {
+      "no": 24,
+      "name": "영동 곶감",
+      "registered": "2009년 6월 23일",
+      "location": "충청북도 영동군",
+      "note": ""
+    },
+    {
+      "no": 25,
+      "name": "가평 잣",
+      "registered": "2009년 6월 23일",
+      "location": "경기도 가평군",
+      "note": ""
+    },
+    {
+      "no": 26,
+      "name": "홍천 잣",
+      "registered": "2009년 11월 17일",
+      "location": "강원특별자치도 홍천군",
+      "note": ""
+    },
+    {
+      "no": 27,
+      "name": "보은 대추",
+      "registered": "2010년 3월 10일",
+      "location": "충청북도 보은군",
+      "note": ""
+    },
+    {
+      "no": 28,
+      "name": "청도 반시",
+      "registered": "2010년 3월 10일",
+      "location": "경상북도 청도군",
+      "note": ""
+    },
+    {
+      "no": 29,
+      "name": "정선 곤드레",
+      "registered": "2010년 4월 5일",
+      "location": "강원특별자치도 정선군",
+      "note": ""
+    },
+    {
+      "no": 30,
+      "name": "거제 맹종죽순",
+      "registered": "2010년 9월 8일",
+      "location": "경상남도 거제시",
+      "note": ""
+    },
+    {
+      "no": 31,
+      "name": "태백 곰취",
+      "registered": "2010년 11월 22일",
+      "location": "강원특별자치도 태백시",
+      "note": ""
+    },
+    {
+      "no": 32,
+      "name": "인제 곰취",
+      "registered": "2010년 11월 22일",
+      "location": "강원특별자치도 인제군",
+      "note": "등록 취소"
+    },
+    {
+      "no": 33,
+      "name": "덕유산 고로쇠 수액",
+      "registered": "2011년 2월 7일",
+      "location": "전북특별자치도 무주군 전북특별자치도 장수군 경상남도 함양군 경상남도 거창군",
+      "note": ""
+    },
+    {
+      "no": 34,
+      "name": "진도 구기자",
+      "registered": "2011년 3월 2일",
+      "location": "전라남도 진도군",
+      "note": ""
+    },
+    {
+      "no": 35,
+      "name": "횡성 참숯",
+      "registered": "2011년 3월 2일",
+      "location": "강원특별자치도 횡성군",
+      "note": "등록 취소"
+    },
+    {
+      "no": 36,
+      "name": "담양 죽순",
+      "registered": "2011년 3월 2일",
+      "location": "전라남도 담양군",
+      "note": ""
+    },
+    {
+      "no": 37,
+      "name": "무주 머루와인",
+      "registered": "2011년 4월 25일",
+      "location": "전북특별자치도 무주군",
+      "note": ""
+    },
+    {
+      "no": 38,
+      "name": "충주 밤",
+      "registered": "2011년 4월 25일",
+      "location": "충청북도 충주시",
+      "note": ""
+    },
+    {
+      "no": 39,
+      "name": "함양 곶감",
+      "registered": "2011년 8월 1일",
+      "location": "경상남도 함양군",
+      "note": ""
+    },
+    {
+      "no": 40,
+      "name": "울릉 고로쇠 수액",
+      "registered": "2012년 3월 1일",
+      "location": "경상북도 울릉군",
+      "note": ""
+    },
+    {
+      "no": 41,
+      "name": "강릉 개두릅",
+      "registered": "2012년 3월 1일",
+      "location": "강원특별자치도 강릉시",
+      "note": ""
+    },
+    {
+      "no": 42,
+      "name": "화순 작약",
+      "registered": "2012년 4월 6일",
+      "location": "전라남도 화순군",
+      "note": ""
+    },
+    {
+      "no": 43,
+      "name": "화순 목단",
+      "registered": "2012년 4월 6일",
+      "location": "전라남도 화순군",
+      "note": ""
+    },
+    {
+      "no": 44,
+      "name": "원주 옻 칠액",
+      "registered": "2012년 6월 26일",
+      "location": "강원특별자치도 원주시",
+      "note": ""
+    },
+    {
+      "no": 45,
+      "name": "무주 천마",
+      "registered": "2013년 1월 7일",
+      "location": "전북특별자치도 무주군",
+      "note": ""
+    },
+    {
+      "no": 46,
+      "name": "홍천 명이",
+      "registered": "2013년 11월 18일",
+      "location": "강원특별자치도 홍천군",
+      "note": ""
+    },
+    {
+      "no": 47,
+      "name": "청양 표고",
+      "registered": "2014년 2월 10일",
+      "location": "충청남도 청양군",
+      "note": ""
+    },
+    {
+      "no": 48,
+      "name": "청양 밤",
+      "registered": "2014년 2월 10일",
+      "location": "충청남도 청양군",
+      "note": ""
+    },
+    {
+      "no": 49,
+      "name": "무주 호두",
+      "registered": "2014년 2월 10일",
+      "location": "전북특별자치도 무주군",
+      "note": ""
+    },
+    {
+      "no": 50,
+      "name": "인제 고로쇠 수액",
+      "registered": "2014년 10월 21일",
+      "location": "강원특별자치도 인제군",
+      "note": ""
+    },
+    {
+      "no": 51,
+      "name": "영월 곤드레",
+      "registered": "2014년 10월 21일",
+      "location": "강원특별자치도 영월군",
+      "note": ""
+    },
+    {
+      "no": 52,
+      "name": "장수 오미자",
+      "registered": "2015년 12월 15일",
+      "location": "전북특별자치도 장수군",
+      "note": ""
+    },
+    {
+      "no": 53,
+      "name": "부여 표고",
+      "registered": "2016년 9월 5일",
+      "location": "충청남도 부여군",
+      "note": ""
+    },
+    {
+      "no": 54,
+      "name": "무주 오미자",
+      "registered": "2017년 1월 11일",
+      "location": "전북특별자치도 무주군",
+      "note": ""
+    },
+    {
+      "no": 55,
+      "name": "평창 산양삼",
+      "registered": "2017년 6월 28일",
+      "location": "강원특별자치도 평창군",
+      "note": ""
+    },
+    {
+      "no": 56,
+      "name": "밀양 대추",
+      "registered": "2018년 3월 2일",
+      "location": "경상남도 밀양시",
+      "note": ""
+    },
+    {
+      "no": 57,
+      "name": "인제 오미자",
+      "registered": "2020년 8월 2일",
+      "location": "강원특별자치도 인제군",
+      "note": ""
+    },
+    {
+      "no": 58,
+      "name": "함양 산양삼",
+      "registered": "2021년 9월 1일",
+      "location": "경상남도 함양군",
+      "note": ""
+    },
+    {
+      "no": 59,
+      "name": "김천 호두",
+      "registered": "2022년 2월 7일",
+      "location": "경상북도 김천시",
+      "note": ""
+    },
+    {
+      "no": 60,
+      "name": "제주 고사리",
+      "registered": "2022년 12월 15일",
+      "location": "제주특별자치도",
+      "note": ""
+    },
+    {
+      "no": 61,
+      "name": "해남 황칠나무",
+      "registered": "2023년 5월 30일",
+      "location": "전라남도 해남군",
+      "note": ""
+    },
+    {
+      "no": 62,
+      "name": "청도 감말랭이",
+      "registered": "2024년 4월 9일",
+      "location": "경상북도 청도군",
+      "note": ""
+    },
+    {
+      "no": 63,
+      "name": "제주 표고버섯",
+      "registered": "2024년 6월 25일",
+      "location": "제주특별자치도",
+      "note": ""
+    },
+    {
+      "no": 64,
+      "name": "완주 곶감",
+      "registered": "2024년 9월 30일",
+      "location": "전북특별자치도 완주군",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 지리적 표시 임산물 - Free Download",
+    "description": "대한민국에 등록된 지리적 표시 임산물 목록 (등록 번호, 품명, 등록일, 소재지). Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 지리적 표시 임산물 | ListBase",
+    "seo_description": "Download 대한민국의 지리적 표시 임산물 — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_지리적_표시"
+    ]
+  }
+}

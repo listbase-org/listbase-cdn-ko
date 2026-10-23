@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:07.265Z",
-  "total_datasets": 430,
-  "total_records": 445559,
+  "generated": "2026-10-23T02:10:17.014Z",
+  "total_datasets": 431,
+  "total_records": 445623,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -102,6 +102,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ko-jiri-pyosi-imsanmul",
+      "name": "대한민국의 지리적 표시 임산물",
+      "category": "agriculture",
+      "record_count": 64,
+      "columns": [
+        "no",
+        "name",
+        "registered",
+        "location",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+      "updated": "2026-10",
+      "size": 12552,
+      "files": {
+        "csv": {
+          "name": "ko-jiri-pyosi-imsanmul_KO.csv",
+          "size": 4971
+        },
+        "xlsx": {
+          "name": "ko-jiri-pyosi-imsanmul_KO.xlsx",
+          "size": 9573
+        }
+      }
+    },
     {
       "id": "ko-jiri-pyosi-nongsanmul",
       "name": "대한민국의 지리적 표시 농산물",
