@@ -1,0 +1,544 @@
+{
+  "id": "ko-yeongnam-hyangto-eumsik",
+  "name": "영남(경상도)의 향토 음식",
+  "title": "영남(경상도)의 향토 음식",
+  "description": "영남 지방(경상도)의 향토 음식 목록 (분류, 음식 이름).",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/영남_요리",
+  "source_url": "https://ko.wikipedia.org/wiki/영남_요리",
+  "updated": "2026-10",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "주 요리",
+      "name": "헛제사밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "진주비빔밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "통영비빔밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "무밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "갱식"
+    },
+    {
+      "category": "주 요리",
+      "name": "애호박죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "떡국"
+    },
+    {
+      "category": "주 요리",
+      "name": "갱죽"
+    },
+    {
+      "category": "국수류",
+      "name": "밀면 , 밀국수냉면"
+    },
+    {
+      "category": "국수류",
+      "name": "진주냉면"
+    },
+    {
+      "category": "국수류",
+      "name": "당면칼국수"
+    },
+    {
+      "category": "국수류",
+      "name": "닭칼국수"
+    },
+    {
+      "category": "국수류",
+      "name": "건진국수"
+    },
+    {
+      "category": "국수류",
+      "name": "조개국수"
+    },
+    {
+      "category": "반찬류",
+      "name": "돼지국밥"
+    },
+    {
+      "category": "반찬류",
+      "name": "수구레국밥"
+    },
+    {
+      "category": "반찬류",
+      "name": "선지국"
+    },
+    {
+      "category": "반찬류",
+      "name": "메기국"
+    },
+    {
+      "category": "반찬류",
+      "name": "육개장"
+    },
+    {
+      "category": "반찬류",
+      "name": "따로 국밥"
+    },
+    {
+      "category": "반찬류",
+      "name": "재첩국"
+    },
+    {
+      "category": "반찬류",
+      "name": "계삼탕"
+    },
+    {
+      "category": "반찬류",
+      "name": "고동국"
+    },
+    {
+      "category": "반찬류",
+      "name": "추어탕"
+    },
+    {
+      "category": "반찬류",
+      "name": "선짓국"
+    },
+    {
+      "category": "반찬류",
+      "name": "동태고명지짐"
+    },
+    {
+      "category": "반찬류",
+      "name": "북어미역국"
+    },
+    {
+      "category": "반찬류",
+      "name": "들깨참깨미역국"
+    },
+    {
+      "category": "반찬류",
+      "name": "마른홍합미역국"
+    },
+    {
+      "category": "반찬류",
+      "name": "빨간 소고기무국"
+    },
+    {
+      "category": "반찬류",
+      "name": "황어쑥국"
+    },
+    {
+      "category": "반찬류",
+      "name": "간국"
+    },
+    {
+      "category": "반찬류",
+      "name": "털게수제비"
+    },
+    {
+      "category": "반찬류",
+      "name": "찜닭"
+    },
+    {
+      "category": "반찬류",
+      "name": "우렁찜"
+    },
+    {
+      "category": "반찬류",
+      "name": "바닷게찜"
+    },
+    {
+      "category": "반찬류",
+      "name": "미더덕찜"
+    },
+    {
+      "category": "반찬류",
+      "name": "아구찜"
+    },
+    {
+      "category": "반찬류",
+      "name": "호박선"
+    },
+    {
+      "category": "반찬류",
+      "name": "대게찜"
+    },
+    {
+      "category": "반찬류",
+      "name": "장어조림"
+    },
+    {
+      "category": "반찬류",
+      "name": "해물잡채"
+    },
+    {
+      "category": "반찬류",
+      "name": "상어돔배기구이"
+    },
+    {
+      "category": "반찬류",
+      "name": "갈치구이"
+    },
+    {
+      "category": "반찬류",
+      "name": "청어구이"
+    },
+    {
+      "category": "반찬류",
+      "name": "갯장어구이"
+    },
+    {
+      "category": "반찬류",
+      "name": "뒷고기"
+    },
+    {
+      "category": "반찬류",
+      "name": "장생포 고래고기"
+    },
+    {
+      "category": "반찬류",
+      "name": "상어돔배기전"
+    },
+    {
+      "category": "반찬류",
+      "name": "배추전"
+    },
+    {
+      "category": "반찬류",
+      "name": "김부치개"
+    },
+    {
+      "category": "반찬류",
+      "name": "파전"
+    },
+    {
+      "category": "반찬류",
+      "name": "동래파전"
+    },
+    {
+      "category": "반찬류",
+      "name": "해파리회"
+    },
+    {
+      "category": "반찬류",
+      "name": "피조개회"
+    },
+    {
+      "category": "반찬류",
+      "name": "광어회"
+    },
+    {
+      "category": "반찬류",
+      "name": "멍게회"
+    },
+    {
+      "category": "반찬류",
+      "name": "장어회"
+    },
+    {
+      "category": "반찬류",
+      "name": "우렁회"
+    },
+    {
+      "category": "반찬류",
+      "name": "생멸치회"
+    },
+    {
+      "category": "반찬류",
+      "name": "잉어회"
+    },
+    {
+      "category": "반찬류",
+      "name": "대게회"
+    },
+    {
+      "category": "반찬류",
+      "name": "돔배기"
+    },
+    {
+      "category": "반찬류",
+      "name": "과메기"
+    },
+    {
+      "category": "반찬류",
+      "name": "간고등어"
+    },
+    {
+      "category": "반찬류",
+      "name": "약대구포"
+    },
+    {
+      "category": "반찬류",
+      "name": "붕어포"
+    },
+    {
+      "category": "반찬류",
+      "name": "마른문어쌈"
+    },
+    {
+      "category": "반찬류",
+      "name": "시래기된장무침"
+    },
+    {
+      "category": "반찬류",
+      "name": "상추겉절이"
+    },
+    {
+      "category": "반찬류",
+      "name": "꼴뚜기무생채"
+    },
+    {
+      "category": "반찬류",
+      "name": "톳나물"
+    },
+    {
+      "category": "반찬류",
+      "name": "두부생채"
+    },
+    {
+      "category": "반찬류",
+      "name": "청각무침"
+    },
+    {
+      "category": "반찬류",
+      "name": "돋나물무침"
+    },
+    {
+      "category": "반찬류",
+      "name": "풋마늘겉절이"
+    },
+    {
+      "category": "반찬류",
+      "name": "솎음배추겉절이"
+    },
+    {
+      "category": "반찬류",
+      "name": "배추쌈"
+    },
+    {
+      "category": "반찬류",
+      "name": "전복김치"
+    },
+    {
+      "category": "반찬류",
+      "name": "속세 김치"
+    },
+    {
+      "category": "반찬류",
+      "name": "콩잎김치"
+    },
+    {
+      "category": "반찬류",
+      "name": "우엉김치"
+    },
+    {
+      "category": "반찬류",
+      "name": "부추김치"
+    },
+    {
+      "category": "반찬류",
+      "name": "우엉잎자반"
+    },
+    {
+      "category": "반찬류",
+      "name": "고추부각"
+    },
+    {
+      "category": "반찬류",
+      "name": "감자부각"
+    },
+    {
+      "category": "반찬류",
+      "name": "꼴뚜기튀김"
+    },
+    {
+      "category": "반찬류",
+      "name": "메밀묵"
+    },
+    {
+      "category": "떡",
+      "name": "모시잎송편"
+    },
+    {
+      "category": "떡",
+      "name": "밀비지"
+    },
+    {
+      "category": "떡",
+      "name": "만경떡"
+    },
+    {
+      "category": "떡",
+      "name": "쑥굴래"
+    },
+    {
+      "category": "떡",
+      "name": "잡과편"
+    },
+    {
+      "category": "떡",
+      "name": "잣구리"
+    },
+    {
+      "category": "떡",
+      "name": "부편"
+    },
+    {
+      "category": "떡",
+      "name": "감자송편"
+    },
+    {
+      "category": "떡",
+      "name": "칡떡"
+    },
+    {
+      "category": "떡",
+      "name": "설기떡"
+    },
+    {
+      "category": "떡",
+      "name": "편떡"
+    },
+    {
+      "category": "떡",
+      "name": "경단"
+    },
+    {
+      "category": "떡",
+      "name": "느름떡"
+    },
+    {
+      "category": "후식",
+      "name": "유과"
+    },
+    {
+      "category": "후식",
+      "name": "준주강반"
+    },
+    {
+      "category": "후식",
+      "name": "대추징조"
+    },
+    {
+      "category": "후식",
+      "name": "강냉이엿"
+    },
+    {
+      "category": "후식",
+      "name": "우엉정과"
+    },
+    {
+      "category": "후식",
+      "name": "다시마정과"
+    },
+    {
+      "category": "후식",
+      "name": "각색정과"
+    },
+    {
+      "category": "후식",
+      "name": "단술감주"
+    },
+    {
+      "category": "후식",
+      "name": "물식혜"
+    },
+    {
+      "category": "후식",
+      "name": "찹쌀식혜"
+    },
+    {
+      "category": "후식",
+      "name": "안동식혜"
+    },
+    {
+      "category": "후식",
+      "name": "얼음수박"
+    },
+    {
+      "category": "후식",
+      "name": "잡곡미숫가루"
+    },
+    {
+      "category": "후식",
+      "name": "수정과"
+    },
+    {
+      "category": "후식",
+      "name": "유자화채"
+    },
+    {
+      "category": "후식",
+      "name": "유자차"
+    },
+    {
+      "category": "후식",
+      "name": "장군차"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "어묵"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "빨간어묵"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "물떡"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "씨앗호떡"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "비빔당면"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "납작만두"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "계란만두"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "충무김밥"
+    },
+    {
+      "category": "길거리 음식",
+      "name": "콩국"
+    }
+  ],
+  "meta": {
+    "title": "영남(경상도)의 향토 음식 - Free Download",
+    "description": "영남 지방(경상도)의 향토 음식 목록 (분류, 음식 이름). Contains 127 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "영남(경상도)의 향토 음식 | ListBase",
+    "seo_description": "Download 영남(경상도)의 향토 음식 — 127 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 127 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/영남_요리"
+    ]
+  }
+}

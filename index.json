@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:26.465Z",
-  "total_datasets": 435,
-  "total_records": 445886,
+  "generated": "2026-10-23T02:10:28.836Z",
+  "total_datasets": 436,
+  "total_records": 446013,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -2993,6 +2993,29 @@
         "xlsx": {
           "name": "ko-michelin-restaurant_KO.xlsx",
           "size": 81958
+        }
+      }
+    },
+    {
+      "id": "ko-yeongnam-hyangto-eumsik",
+      "name": "영남(경상도)의 향토 음식",
+      "category": "food",
+      "record_count": 127,
+      "columns": [
+        "category",
+        "name"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/영남_요리",
+      "updated": "2026-10",
+      "size": 10427,
+      "files": {
+        "csv": {
+          "name": "ko-yeongnam-hyangto-eumsik_KO.csv",
+          "size": 3341
+        },
+        "xlsx": {
+          "name": "ko-yeongnam-hyangto-eumsik_KO.xlsx",
+          "size": 9048
         }
       }
     },
