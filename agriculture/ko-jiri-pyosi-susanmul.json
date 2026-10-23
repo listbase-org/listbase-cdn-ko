@@ -1,0 +1,247 @@
+{
+  "id": "ko-jiri-pyosi-susanmul",
+  "name": "대한민국의 지리적 표시 수산물",
+  "title": "대한민국의 지리적 표시 수산물",
+  "description": "대한민국에 등록된 지리적 표시 수산물 목록 (등록 번호, 품명, 등록일, 소재지).",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "registered",
+      "label": "Registered",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "보성 벌교 꼬막",
+      "registered": "2009년 2월 25일",
+      "location": "전라남도 보성군",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "완도 전복",
+      "registered": "2009년 2월 25일",
+      "location": "전라남도 완도군",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "완도 미역",
+      "registered": "2009년 2월 25일",
+      "location": "전라남도 완도군",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "name": "완도 다시마",
+      "registered": "2009년 2월 25일",
+      "location": "전라남도 완도군",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "name": "기장 미역",
+      "registered": "2009년 2월 25일",
+      "location": "부산광역시 기장군",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "기장 다시마",
+      "registered": "2009년 2월 25일",
+      "location": "부산광역시 기장군",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "장흥 키조개",
+      "registered": "2009년 2월 25일",
+      "location": "전라남도 장흥군",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "완도 김",
+      "registered": "2010년 8월 20일",
+      "location": "전라남도 완도군",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "완도 넙치",
+      "registered": "2010년 8월 20일",
+      "location": "전라남도 완도군",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "장흥 김",
+      "registered": "2011년 1월 18일",
+      "location": "전라남도 장흥군",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "장흥 매생이",
+      "registered": "2011년 5월 13일",
+      "location": "전라남도 장흥군",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "여수 굴",
+      "registered": "2012년 2월 29일",
+      "location": "전라남도 여수시",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "남원 미꾸라지",
+      "registered": "2012년 8월 27일",
+      "location": "전북특별자치도 남원시",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "고흥 미역",
+      "registered": "2012년 8월 27일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "고흥 다시마",
+      "registered": "2012년 8월 27일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "진동 미더덕",
+      "registered": "2013년 9월 26일",
+      "location": "경상남도 창원시",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "name": "신안 김",
+      "registered": "2014년 2월 21일",
+      "location": "전라남도 신안군",
+      "note": ""
+    },
+    {
+      "no": 18,
+      "name": "해남 김",
+      "registered": "2014년 2월 21일",
+      "location": "전라남도 해남군",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "name": "광천 김",
+      "registered": "2014년 2월 21일",
+      "location": "충청남도 보령시",
+      "note": "등록 취소"
+    },
+    {
+      "no": 20,
+      "name": "여자만 새고막",
+      "registered": "2014년 9월 29일",
+      "location": "전라남도 여수시",
+      "note": ""
+    },
+    {
+      "no": 21,
+      "name": "고흥 김",
+      "registered": "2015년 5월 18일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "고흥 굴",
+      "registered": "2016년 4월 1일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 23,
+      "name": "평창 송어",
+      "registered": "2017년 2월 1일",
+      "location": "강원특별자치도 평창군",
+      "note": ""
+    },
+    {
+      "no": 24,
+      "name": "진도 전복",
+      "registered": "2017년 2월 1일",
+      "location": "전라남도 진도군",
+      "note": ""
+    },
+    {
+      "no": 25,
+      "name": "순천만 가리맛조개",
+      "registered": "2018년 1월 16일",
+      "location": "전라남도 순천시",
+      "note": ""
+    },
+    {
+      "no": 26,
+      "name": "신안 전복",
+      "registered": "2018년 10월 26일",
+      "location": "전라남도 신안군",
+      "note": ""
+    },
+    {
+      "no": 27,
+      "name": "신안 건우럭",
+      "registered": "2021년 12월 8일",
+      "location": "전라남도 신안군",
+      "note": ""
+    },
+    {
+      "no": 28,
+      "name": "무안 돌김",
+      "registered": "2024년 9월 5일",
+      "location": "전라남도 무안군",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 지리적 표시 수산물 - Free Download",
+    "description": "대한민국에 등록된 지리적 표시 수산물 목록 (등록 번호, 품명, 등록일, 소재지). Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 지리적 표시 수산물 | ListBase",
+    "seo_description": "Download 대한민국의 지리적 표시 수산물 — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_지리적_표시"
+    ]
+  }
+}

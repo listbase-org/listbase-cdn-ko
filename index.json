@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:17.014Z",
-  "total_datasets": 431,
-  "total_records": 445623,
+  "generated": "2026-10-23T02:10:19.629Z",
+  "total_datasets": 432,
+  "total_records": 445651,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -151,6 +151,32 @@
         "xlsx": {
           "name": "ko-jiri-pyosi-nongsanmul_KO.xlsx",
           "size": 11709
+        }
+      }
+    },
+    {
+      "id": "ko-jiri-pyosi-susanmul",
+      "name": "대한민국의 지리적 표시 수산물",
+      "category": "agriculture",
+      "record_count": 28,
+      "columns": [
+        "no",
+        "name",
+        "registered",
+        "location",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+      "updated": "2026-10",
+      "size": 6291,
+      "files": {
+        "csv": {
+          "name": "ko-jiri-pyosi-susanmul_KO.csv",
+          "size": 2058
+        },
+        "xlsx": {
+          "name": "ko-jiri-pyosi-susanmul_KO.xlsx",
+          "size": 7964
         }
       }
     },
