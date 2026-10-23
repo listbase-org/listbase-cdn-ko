@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:47.468Z",
-  "total_datasets": 444,
-  "total_records": 448304,
+  "generated": "2026-10-23T02:10:49.760Z",
+  "total_datasets": 445,
+  "total_records": 448397,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -6690,6 +6690,33 @@
         "xlsx": {
           "name": "ko-daebeobwonjang_KO.xlsx",
           "size": 8348
+        }
+      }
+    },
+    {
+      "id": "ko-geomchal-chongjang",
+      "name": "대한민국의 역대 검찰총장",
+      "category": "law",
+      "record_count": 93,
+      "columns": [
+        "office",
+        "government",
+        "term",
+        "name",
+        "tenure",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_검찰총장",
+      "updated": "2026-10",
+      "size": 24838,
+      "files": {
+        "csv": {
+          "name": "ko-geomchal-chongjang_KO.csv",
+          "size": 12753
+        },
+        "xlsx": {
+          "name": "ko-geomchal-chongjang_KO.xlsx",
+          "size": 11685
         }
       }
     },
