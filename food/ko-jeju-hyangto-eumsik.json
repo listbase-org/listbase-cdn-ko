@@ -1,0 +1,396 @@
+{
+  "id": "ko-jeju-hyangto-eumsik",
+  "name": "제주도의 향토 음식",
+  "title": "제주도의 향토 음식",
+  "description": "제주도의 향토 음식 목록 (분류, 음식 이름).",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/제주도의_음식_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/제주도의_음식_목록",
+  "updated": "2026-10",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "주 요리",
+      "name": "잡곡밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "생선국수"
+    },
+    {
+      "category": "주 요리",
+      "name": "메밀칼국수"
+    },
+    {
+      "category": "주 요리",
+      "name": "메밀저배기"
+    },
+    {
+      "category": "주 요리",
+      "name": "메밀만두"
+    },
+    {
+      "category": "주 요리",
+      "name": "곤떡국"
+    },
+    {
+      "category": "주 요리",
+      "name": "몸국"
+    },
+    {
+      "category": "주 요리",
+      "name": "멜국"
+    },
+    {
+      "category": "주 요리",
+      "name": "각제기국"
+    },
+    {
+      "category": "주 요리",
+      "name": "접짝뼈국"
+    },
+    {
+      "category": "죽",
+      "name": "메밀범벅"
+    },
+    {
+      "category": "죽",
+      "name": "해물죽"
+    },
+    {
+      "category": "죽",
+      "name": "전복죽"
+    },
+    {
+      "category": "죽",
+      "name": "옥돔죽"
+    },
+    {
+      "category": "죽",
+      "name": "깅이죽"
+    },
+    {
+      "category": "죽",
+      "name": "초기죽"
+    },
+    {
+      "category": "죽",
+      "name": "닭죽"
+    },
+    {
+      "category": "죽",
+      "name": "매역새죽"
+    },
+    {
+      "category": "죽",
+      "name": "보말죽"
+    },
+    {
+      "category": "찬류",
+      "name": "고사릿국"
+    },
+    {
+      "category": "찬류",
+      "name": "톳냉국"
+    },
+    {
+      "category": "찬류",
+      "name": "돼지고기육개장"
+    },
+    {
+      "category": "찬류",
+      "name": "된장찌개"
+    },
+    {
+      "category": "찬류",
+      "name": "복쟁이지짐이"
+    },
+    {
+      "category": "찬류",
+      "name": "상어지짐이"
+    },
+    {
+      "category": "찬류",
+      "name": "오분쟁이찜"
+    },
+    {
+      "category": "찬류",
+      "name": "자리지짐이"
+    },
+    {
+      "category": "찬류",
+      "name": "돼지고기조림"
+    },
+    {
+      "category": "구이류",
+      "name": "돼지고기구이"
+    },
+    {
+      "category": "구이류",
+      "name": "말고기구이"
+    },
+    {
+      "category": "구이류",
+      "name": "볼락구이"
+    },
+    {
+      "category": "구이류",
+      "name": "상어포구이"
+    },
+    {
+      "category": "구이류",
+      "name": "옥돔구이"
+    },
+    {
+      "category": "수육",
+      "name": "검은지름"
+    },
+    {
+      "category": "전",
+      "name": "상어산적"
+    },
+    {
+      "category": "전",
+      "name": "계란전"
+    },
+    {
+      "category": "전",
+      "name": "고사리전"
+    },
+    {
+      "category": "전",
+      "name": "초기전 (표고전)"
+    },
+    {
+      "category": "전",
+      "name": "꿩적"
+    },
+    {
+      "category": "전",
+      "name": "메밀묵지짐이"
+    },
+    {
+      "category": "전",
+      "name": "꿩지짐이"
+    },
+    {
+      "category": "장아찌",
+      "name": "후춧잎장아찌"
+    },
+    {
+      "category": "장아찌",
+      "name": "풋고추오이장아찌"
+    },
+    {
+      "category": "회",
+      "name": "돼지새끼회 (애저회)"
+    },
+    {
+      "category": "회",
+      "name": "말고기회"
+    },
+    {
+      "category": "회",
+      "name": "몰망회"
+    },
+    {
+      "category": "회",
+      "name": "비계회"
+    },
+    {
+      "category": "회",
+      "name": "자리강회"
+    },
+    {
+      "category": "회",
+      "name": "자리물회"
+    },
+    {
+      "category": "회",
+      "name": "자리회"
+    },
+    {
+      "category": "회",
+      "name": "전복소라회"
+    },
+    {
+      "category": "회",
+      "name": "오징어회"
+    },
+    {
+      "category": "나물류",
+      "name": "양에무침"
+    },
+    {
+      "category": "나물류",
+      "name": "톳나물"
+    },
+    {
+      "category": "쌈",
+      "name": "날미역쌈"
+    },
+    {
+      "category": "쌈",
+      "name": "날다시마쌈"
+    },
+    {
+      "category": "쌈",
+      "name": "콩잎쌈"
+    },
+    {
+      "category": "김치",
+      "name": "전복김치"
+    },
+    {
+      "category": "김치",
+      "name": "동지김치"
+    },
+    {
+      "category": "김치",
+      "name": "해물김치"
+    },
+    {
+      "category": "김치",
+      "name": "나박김치"
+    },
+    {
+      "category": "건조식",
+      "name": "다시마 튀각"
+    },
+    {
+      "category": "건조식",
+      "name": "가죽부각"
+    },
+    {
+      "category": "건조식",
+      "name": "깻잎부각"
+    },
+    {
+      "category": "건조식",
+      "name": "순대 (수애)"
+    },
+    {
+      "category": "건조식",
+      "name": "메밀묵"
+    },
+    {
+      "category": "떡",
+      "name": "빙떡"
+    },
+    {
+      "category": "떡",
+      "name": "반찰곤떡"
+    },
+    {
+      "category": "떡",
+      "name": "달떡"
+    },
+    {
+      "category": "떡",
+      "name": "도돔떡"
+    },
+    {
+      "category": "떡",
+      "name": "침떡 (좁쌀시루떡)"
+    },
+    {
+      "category": "떡",
+      "name": "차좁쌀떡"
+    },
+    {
+      "category": "떡",
+      "name": "오메기떡"
+    },
+    {
+      "category": "떡",
+      "name": "돌래떡"
+    },
+    {
+      "category": "떡",
+      "name": "쑥떡"
+    },
+    {
+      "category": "떡",
+      "name": "메밀부꾸미"
+    },
+    {
+      "category": "떡",
+      "name": "빼대기 (감제떡)"
+    },
+    {
+      "category": "떡",
+      "name": "상애떡"
+    },
+    {
+      "category": "후식",
+      "name": "약과"
+    },
+    {
+      "category": "후식",
+      "name": "닭엿"
+    },
+    {
+      "category": "후식",
+      "name": "꿩엿"
+    },
+    {
+      "category": "후식",
+      "name": "돼지고기엿"
+    },
+    {
+      "category": "후식",
+      "name": "하늘애기엿"
+    },
+    {
+      "category": "후식",
+      "name": "호박엿"
+    },
+    {
+      "category": "후식",
+      "name": "보리엿"
+    },
+    {
+      "category": "후식",
+      "name": "마늘엿"
+    },
+    {
+      "category": "일반 음료",
+      "name": "술감주"
+    },
+    {
+      "category": "일반 음료",
+      "name": "밀감화채"
+    },
+    {
+      "category": "일반 음료",
+      "name": "자굴차"
+    },
+    {
+      "category": "일반 음료",
+      "name": "소엽차"
+    }
+  ],
+  "meta": {
+    "title": "제주도의 향토 음식 - Free Download",
+    "description": "제주도의 향토 음식 목록 (분류, 음식 이름). Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "제주도의 향토 음식 | ListBase",
+    "seo_description": "Download 제주도의 향토 음식 — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/제주도의_음식_목록"
+    ]
+  }
+}

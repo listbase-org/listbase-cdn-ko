@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:24.298Z",
-  "total_datasets": 434,
-  "total_records": 445796,
+  "generated": "2026-10-23T02:10:26.465Z",
+  "total_datasets": 435,
+  "total_records": 445886,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -2912,6 +2912,29 @@
         "xlsx": {
           "name": "ko-yureop-gukga_KO.xlsx",
           "size": 15830
+        }
+      }
+    },
+    {
+      "id": "ko-jeju-hyangto-eumsik",
+      "name": "제주도의 향토 음식",
+      "category": "food",
+      "record_count": 90,
+      "columns": [
+        "category",
+        "name"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/제주도의_음식_목록",
+      "updated": "2026-10",
+      "size": 7519,
+      "files": {
+        "csv": {
+          "name": "ko-jeju-hyangto-eumsik_KO.csv",
+          "size": 2174
+        },
+        "xlsx": {
+          "name": "ko-jeju-hyangto-eumsik_KO.xlsx",
+          "size": 8422
         }
       }
     },
