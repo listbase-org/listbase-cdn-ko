@@ -1,0 +1,624 @@
+{
+  "id": "ko-nongnim-janggwan",
+  "name": "대한민국의 역대 농림축산식품부 장관",
+  "title": "대한민국의 역대 농림축산식품부 장관",
+  "description": "농림부·농수산부·농림수산부·농림수산식품부·농림축산식품부 등 대한민국 농정 담당 부처의 역대 장관 목록.",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_농림축산식품부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_농림축산식품부_장관",
+  "updated": "2026-10",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "left_office",
+      "label": "Left Office",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "농림부 장관",
+      "term": "제1대",
+      "name": "조봉암",
+      "took_office": "1948년 8월 15일",
+      "left_office": "1949년 2월 22일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제2대",
+      "name": "이종현",
+      "took_office": "1949년 2월 23일",
+      "left_office": "1950년 1월 20일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제3대",
+      "name": "윤영선",
+      "took_office": "1950년 1월 21일",
+      "left_office": "1950년 11월 22일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제4대",
+      "name": "공진항",
+      "took_office": "1950년 11월 23일",
+      "left_office": "1951년 5월 6일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제5대",
+      "name": "임문환",
+      "took_office": "1951년 5월 7일",
+      "left_office": "1952년 3월 5일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제6대",
+      "name": "함인섭",
+      "took_office": "1952년 3월 6일",
+      "left_office": "1952년 8월 28일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제7대",
+      "name": "신중목",
+      "took_office": "1952년 8월 29일",
+      "left_office": "1953년 9월 9일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제8대",
+      "name": "양성봉",
+      "took_office": "1953년 10월 7일",
+      "left_office": "1954년 5월 5일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제9대",
+      "name": "윤건중",
+      "took_office": "1954년 5월 6일",
+      "left_office": "1954년 6월 29일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제10대",
+      "name": "최규옥",
+      "took_office": "1954년 6월 30일",
+      "left_office": "1955년 2월 15일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제11대",
+      "name": "임철호",
+      "took_office": "1955년 2월 16일",
+      "left_office": "1955년 8월 29일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제12대",
+      "name": "정낙훈",
+      "took_office": "1955년 8월 30일",
+      "left_office": "1955년 11월 16일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제13대",
+      "name": "정운갑",
+      "took_office": "1955년 11월 17일",
+      "left_office": "1957년 6월 16일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제14대",
+      "name": "정재설",
+      "took_office": "1957년 6월 17일",
+      "left_office": "1959년 3월 20일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제15대",
+      "name": "이근직",
+      "took_office": "1959년 3월 21일",
+      "left_office": "1960년 5월 1일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제16대",
+      "name": "이해익",
+      "took_office": "1960년 5월 2일",
+      "left_office": "1960년 8월 22일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제17대",
+      "name": "박제환",
+      "took_office": "1960년 8월 22일",
+      "left_office": "1961년 5월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제18대",
+      "name": "장경순",
+      "took_office": "1961년 5월 20일",
+      "left_office": "1963년 6월 24일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제19대",
+      "name": "류병현",
+      "took_office": "1963년 6월 25일",
+      "left_office": "1963년 12월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제20대",
+      "name": "원용석",
+      "took_office": "1963년 12월 17일",
+      "left_office": "1964년 5월 10일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제21대",
+      "name": "차균희",
+      "took_office": "1964년 5월 11일",
+      "left_office": "1966년 2월 22일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제22대",
+      "name": "박동묘",
+      "took_office": "1966년 2월 23일",
+      "left_office": "1967년 6월 29일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제23대",
+      "name": "김영준",
+      "took_office": "1967년 6월 30일",
+      "left_office": "1968년 5월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제24대",
+      "name": "이계순",
+      "took_office": "1968년 5월 21일",
+      "left_office": "1969년 2월 15일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제25대",
+      "name": "조시형",
+      "took_office": "1969년 2월 17일",
+      "left_office": "1970년 12월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제26대",
+      "name": "김보현",
+      "took_office": "1970년 12월 21일",
+      "left_office": "1971년 6월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제27대",
+      "name": "김보현",
+      "took_office": "1971년 6월 4일",
+      "left_office": "1973년 3월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제27대",
+      "name": "김보현",
+      "took_office": "1973년 3월 3일",
+      "left_office": "1973년 8월 7일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제28대",
+      "name": "정소영",
+      "took_office": "1973년 8월 8일",
+      "left_office": "1975년 12월 18일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제29대",
+      "name": "최각규",
+      "took_office": "1975년 12월 19일",
+      "left_office": "1977년 12월 19일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제30대",
+      "name": "장덕진",
+      "took_office": "1977년 12월 20일",
+      "left_office": "1978년 12월 21일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제31대",
+      "name": "이희일",
+      "took_office": "1978년 12월 22일",
+      "left_office": "1979년 12월 13일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제32대",
+      "name": "이재설",
+      "took_office": "1979년 12월 14일",
+      "left_office": "1980년 5월 21일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제33대",
+      "name": "정종택",
+      "took_office": "1980년 5월 22일",
+      "left_office": "1980년 9월 1알",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제34대",
+      "name": "정종택",
+      "took_office": "1980년 9월 2일",
+      "left_office": "1981년 3월 9일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제35대",
+      "name": "고건",
+      "took_office": "1981년 3월 10일",
+      "left_office": "1982년 5월 20일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제36대",
+      "name": "박종문",
+      "took_office": "1982년 5월 21일",
+      "left_office": "1985년 2월 15일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "농수산부 장관",
+      "term": "제37대",
+      "name": "황인성",
+      "took_office": "1985년 2월 19일",
+      "left_office": "1986년 12월 31일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제37대",
+      "name": "황인성",
+      "took_office": "1987년 1월 1일",
+      "left_office": "1987년 5월 18일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제38대",
+      "name": "김주호",
+      "took_office": "1987년 5월 19일",
+      "left_office": "1988년 2월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제39대",
+      "name": "윤근환",
+      "took_office": "1988년 2월 25일",
+      "left_office": "1988년 12월 5일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제40대",
+      "name": "김식",
+      "took_office": "1988년 12월 6일",
+      "left_office": "1990년 3월 19일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제41대",
+      "name": "강보성",
+      "took_office": "1990년 3월 20일",
+      "left_office": "1990년 9월 18일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제42대",
+      "name": "조경식",
+      "took_office": "1990년 9월 19일",
+      "left_office": "1992년 3월 30일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제43대",
+      "name": "강현욱",
+      "took_office": "1992년 3월 31일",
+      "left_office": "1993년 2월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제44대",
+      "name": "허신행",
+      "took_office": "1993년 2월 26일",
+      "left_office": "1993년 12월 21일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제45대",
+      "name": "김양배",
+      "took_office": "1993년 12월 22일",
+      "left_office": "1994년 4월 4일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제46대",
+      "name": "최인기",
+      "took_office": "1994년 4월 6일",
+      "left_office": "1995년 12월 20일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림수산부 장관",
+      "term": "제47대",
+      "name": "강운태",
+      "took_office": "1995년 12월 21일",
+      "left_office": "1996년 8월 8일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제47대",
+      "name": "강운태",
+      "took_office": "1996년 8월 9일",
+      "left_office": "1996년 12월 20일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제48대",
+      "name": "정시채",
+      "took_office": "1996년 12월 21일",
+      "left_office": "1997년 8월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제49대",
+      "name": "이효계",
+      "took_office": "1997년 8월 6일",
+      "left_office": "1998년 3월 3일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제50대",
+      "name": "김성훈",
+      "took_office": "1998년 3월 3일",
+      "left_office": "2000년 8월 6일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제51대",
+      "name": "한갑수",
+      "took_office": "2000년 8월 7일",
+      "left_office": "2001년 9월 6일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제52대",
+      "name": "김동태",
+      "took_office": "2001년 9월 7일",
+      "left_office": "2003년 2월 27일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제53대",
+      "name": "김영진",
+      "took_office": "2003년 2월 28일",
+      "left_office": "2003년 7월 18일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제54대",
+      "name": "허상만",
+      "took_office": "2003년 7월 24일",
+      "left_office": "2005년 1월 4일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제55대",
+      "name": "박홍수",
+      "took_office": "2005년 1월 5일",
+      "left_office": "2007년 8월 30일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "농림부 장관",
+      "term": "제56대",
+      "name": "임상규",
+      "took_office": "2007년 8월 31일",
+      "left_office": "2008년 2월 28일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "농림수산식품부 장관",
+      "term": "제57대",
+      "name": "정운천",
+      "took_office": "2008년 2월 29일",
+      "left_office": "2008년 8월 5일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "농림수산식품부 장관",
+      "term": "제58대",
+      "name": "장태평",
+      "took_office": "2008년 8월 6일",
+      "left_office": "2010년 8월 30일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "농림수산식품부 장관",
+      "term": "제59대",
+      "name": "유정복",
+      "took_office": "2010년 8월 31일",
+      "left_office": "2011년 6월 1일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "농림수산식품부 장관",
+      "term": "제60대",
+      "name": "서규용",
+      "took_office": "2011년 6월 2일",
+      "left_office": "2013년 3월 11일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제61대",
+      "name": "이동필",
+      "took_office": "2013년 3월 11일",
+      "left_office": "2016년 9월 4일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제62대",
+      "name": "김재수",
+      "took_office": "2016년 9월 5일",
+      "left_office": "2017년 7월 2일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제63대",
+      "name": "김영록",
+      "took_office": "2017년 7월 3일",
+      "left_office": "2018년 3월 15일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제64대",
+      "name": "이개호",
+      "took_office": "2018년 8월 9일",
+      "left_office": "2019년 8월 30일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제65대",
+      "name": "김현수",
+      "took_office": "2019년 8월 31일",
+      "left_office": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제66대",
+      "name": "정황근",
+      "took_office": "2022년 5월 10일",
+      "left_office": "2023년 12월 28일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제67대",
+      "name": "송미령",
+      "took_office": "2023년 12월 29일",
+      "left_office": "2025년 6월 4일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "농림축산식품부 장관",
+      "term": "제67대",
+      "name": "송미령",
+      "took_office": "2025년 6월 4일",
+      "left_office": "현직",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 농림축산식품부 장관 - Free Download",
+    "description": "농림부·농수산부·농림수산부·농림수산식품부·농림축산식품부 등 대한민국 농정 담당 부처의 역대 장관 목록. Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 농림축산식품부 장관 | ListBase",
+    "seo_description": "Download 대한민국의 역대 농림축산식품부 장관 — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_농림축산식품부_장관"
+    ]
+  }
+}

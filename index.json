@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:19.629Z",
-  "total_datasets": 432,
-  "total_records": 445651,
+  "generated": "2026-10-23T02:10:21.854Z",
+  "total_datasets": 433,
+  "total_records": 445722,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -177,6 +177,33 @@
         "xlsx": {
           "name": "ko-jiri-pyosi-susanmul_KO.xlsx",
           "size": 7964
+        }
+      }
+    },
+    {
+      "id": "ko-nongnim-janggwan",
+      "name": "대한민국의 역대 농림축산식품부 장관",
+      "category": "agriculture",
+      "record_count": 71,
+      "columns": [
+        "office",
+        "term",
+        "name",
+        "took_office",
+        "left_office",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_농림축산식품부_장관",
+      "updated": "2026-10",
+      "size": 18130,
+      "files": {
+        "csv": {
+          "name": "ko-nongnim-janggwan_KO.csv",
+          "size": 7455
+        },
+        "xlsx": {
+          "name": "ko-nongnim-janggwan_KO.xlsx",
+          "size": 10108
         }
       }
     },
