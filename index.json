@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:52.194Z",
-  "total_datasets": 446,
-  "total_records": 448435,
+  "generated": "2026-10-23T02:10:54.385Z",
+  "total_datasets": 447,
+  "total_records": 448468,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -6461,6 +6461,37 @@
         "xlsx": {
           "name": "ko-byeongwon_KO.xlsx",
           "size": 18562
+        }
+      }
+    },
+    {
+      "id": "ko-geonguk-hunjang-daehanmingukjang",
+      "name": "건국훈장 대한민국장 독립유공자 수훈자",
+      "category": "history",
+      "record_count": 33,
+      "columns": [
+        "no",
+        "name",
+        "born",
+        "died",
+        "birthplace",
+        "movement",
+        "year",
+        "award_date",
+        "nationality",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/건국훈장_대한민국장_수훈자_목록",
+      "updated": "2026-10",
+      "size": 11494,
+      "files": {
+        "csv": {
+          "name": "ko-geonguk-hunjang-daehanmingukjang_KO.csv",
+          "size": 3495
+        },
+        "xlsx": {
+          "name": "ko-geonguk-hunjang-daehanmingukjang_KO.xlsx",
+          "size": 9190
         }
       }
     },

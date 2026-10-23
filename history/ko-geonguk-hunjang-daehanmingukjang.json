@@ -1,0 +1,472 @@
+{
+  "id": "ko-geonguk-hunjang-daehanmingukjang",
+  "name": "건국훈장 대한민국장 독립유공자 수훈자",
+  "title": "건국훈장 대한민국장 독립유공자 수훈자",
+  "description": "건국훈장 대한민국장(1등급)을 받은 독립유공자 목록 (생몰년, 출생지, 운동계열, 수여일, 국적).",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/건국훈장_대한민국장_수훈자_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/건국훈장_대한민국장_수훈자_목록",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "birthplace",
+      "label": "Birthplace",
+      "type": "string"
+    },
+    {
+      "key": "movement",
+      "label": "Movement",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "award_date",
+      "label": "Award Date",
+      "type": "string"
+    },
+    {
+      "key": "nationality",
+      "label": "Nationality",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "이승만",
+      "born": 1875,
+      "died": 1965,
+      "birthplace": "황해 평산",
+      "movement": "임시정부",
+      "year": "1949년",
+      "award_date": "8월 15일",
+      "nationality": "대한민국",
+      "note": "자신의 대통령 임기 중 수여"
+    },
+    {
+      "no": 2,
+      "name": "이시영",
+      "born": 1869,
+      "died": 1953,
+      "birthplace": "서울",
+      "movement": "임시정부",
+      "year": "1949년",
+      "award_date": "8월 15일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "장제스",
+      "born": 1887,
+      "died": 1975,
+      "birthplace": "중국 저장성",
+      "movement": "독립지원",
+      "year": "1953년",
+      "award_date": "11월 25일",
+      "nationality": "중화민국",
+      "note": "장개석"
+    },
+    {
+      "no": 4,
+      "name": "허위",
+      "born": 1854,
+      "died": 1908,
+      "birthplace": "경북 선산",
+      "movement": "의병",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "name": "김좌진",
+      "born": 1889,
+      "died": 1930,
+      "birthplace": "충남 홍성",
+      "movement": "만주방면",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "오동진",
+      "born": 1889,
+      "died": 1944,
+      "birthplace": "평북 의주",
+      "movement": "정의부",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "조병세",
+      "born": 1827,
+      "died": 1905,
+      "birthplace": "경기 가평",
+      "movement": "순절",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "안중근",
+      "born": 1879,
+      "died": 1910,
+      "birthplace": "황해 해주",
+      "movement": "의열투쟁",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "윤봉길",
+      "born": 1908,
+      "died": 1932,
+      "birthplace": "충남 예산",
+      "movement": "의열투쟁",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "이준",
+      "born": 1859,
+      "died": 1907,
+      "birthplace": "함남 북청",
+      "movement": "해아밀사",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "강우규",
+      "born": 1855,
+      "died": 1920,
+      "birthplace": "평남 덕천",
+      "movement": "의열투쟁",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "김구",
+      "born": 1876,
+      "died": 1949,
+      "birthplace": "황해 해주",
+      "movement": "임시정부",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "안창호",
+      "born": 1878,
+      "died": 1938,
+      "birthplace": "평남 강서",
+      "movement": "임시정부",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "신익희",
+      "born": 1894,
+      "died": 1956,
+      "birthplace": "경기 광주",
+      "movement": "임시정부",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "김창숙",
+      "born": 1879,
+      "died": 1962,
+      "birthplace": "경북 성주",
+      "movement": "임시정부",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "손병희",
+      "born": 1861,
+      "died": 1922,
+      "birthplace": "충북 청주",
+      "movement": "3.1운동",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "name": "이승훈",
+      "born": 1864,
+      "died": 1930,
+      "birthplace": "평북 정주",
+      "movement": "3.1운동",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 18,
+      "name": "한용운",
+      "born": 1879,
+      "died": 1944,
+      "birthplace": "충남 홍성",
+      "movement": "3.1운동",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "name": "최익현",
+      "born": 1834,
+      "died": 1907,
+      "birthplace": "경기 포천",
+      "movement": "의병",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 20,
+      "name": "이강년",
+      "born": 1858,
+      "died": 1908,
+      "birthplace": "경북 문경",
+      "movement": "의병",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 21,
+      "name": "민영환",
+      "born": 1861,
+      "died": 1905,
+      "birthplace": "서울",
+      "movement": "순절",
+      "year": "1962년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "쑹메이링",
+      "born": 1897,
+      "died": 2003,
+      "birthplace": "중국 광둥성",
+      "movement": "독립지원",
+      "year": "1966년",
+      "award_date": "2월 7일",
+      "nationality": "중화민국",
+      "note": "송미령"
+    },
+    {
+      "no": 23,
+      "name": "천궈푸",
+      "born": 1892,
+      "died": 1951,
+      "birthplace": "중국 저장성",
+      "movement": "독립지원",
+      "year": "1966년",
+      "award_date": "2월 10일",
+      "nationality": "중화민국",
+      "note": "진과부"
+    },
+    {
+      "no": 24,
+      "name": "쑨원",
+      "born": 1866,
+      "died": 1925,
+      "birthplace": "중국 광둥성",
+      "movement": "임정지원",
+      "year": "1968년",
+      "award_date": "12월 1일",
+      "nationality": "중화민국",
+      "note": "손문"
+    },
+    {
+      "no": 25,
+      "name": "천치메이",
+      "born": 1878,
+      "died": 1916,
+      "birthplace": "중국 저장성",
+      "movement": "독립지원",
+      "year": "1968년",
+      "award_date": "12월 1일",
+      "nationality": "중화민국",
+      "note": "진기미"
+    },
+    {
+      "no": 26,
+      "name": "조만식",
+      "born": 1883,
+      "died": 1950,
+      "birthplace": "평남 평양",
+      "movement": "교육언론",
+      "year": "1970년",
+      "award_date": "8월 15일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 27,
+      "name": "임병직",
+      "born": 1893,
+      "died": 1976,
+      "birthplace": "충남 부여",
+      "movement": "미주방면",
+      "year": "1976년",
+      "award_date": "9월 21일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 28,
+      "name": "서재필",
+      "born": 1864,
+      "died": 1951,
+      "birthplace": "전남 보성",
+      "movement": "독립협회",
+      "year": "1977년",
+      "award_date": "12월 13일",
+      "nationality": "미국",
+      "note": ""
+    },
+    {
+      "no": 29,
+      "name": "김규식",
+      "born": 1881,
+      "died": 1950,
+      "birthplace": "부산 동래",
+      "movement": "임시정부",
+      "year": "1989년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 30,
+      "name": "조소앙",
+      "born": 1887,
+      "died": 1958,
+      "birthplace": "경기 파주",
+      "movement": "임시정부",
+      "year": "1989년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": "조용은"
+    },
+    {
+      "no": 31,
+      "name": "여운형",
+      "born": 1885,
+      "died": 1947,
+      "birthplace": "경기 양평",
+      "movement": "임시정부",
+      "year": "2008년",
+      "award_date": "2월 21일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 32,
+      "name": "유관순",
+      "born": 1902,
+      "died": 1920,
+      "birthplace": "충남 천안",
+      "movement": "3.1운동",
+      "year": "2019년",
+      "award_date": "3월 1일",
+      "nationality": "대한민국",
+      "note": ""
+    },
+    {
+      "no": 33,
+      "name": "홍범도",
+      "born": 1868,
+      "died": 1943,
+      "birthplace": "평남 평양",
+      "movement": "만주방면",
+      "year": "2021년",
+      "award_date": "8월 17일",
+      "nationality": "대한민국",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "건국훈장 대한민국장 독립유공자 수훈자 - Free Download",
+    "description": "건국훈장 대한민국장(1등급)을 받은 독립유공자 목록 (생몰년, 출생지, 운동계열, 수여일, 국적). Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "건국훈장 대한민국장 독립유공자 수훈자 | ListBase",
+    "seo_description": "Download 건국훈장 대한민국장 독립유공자 수훈자 — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/건국훈장_대한민국장_수훈자_목록"
+    ]
+  }
+}
