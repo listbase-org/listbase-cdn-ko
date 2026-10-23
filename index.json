@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:33.551Z",
-  "total_datasets": 438,
-  "total_records": 447879,
+  "generated": "2026-10-23T02:10:35.936Z",
+  "total_datasets": 439,
+  "total_records": 448103,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -6534,6 +6534,30 @@
         "xlsx": {
           "name": "ko-gicho-hanja_KO.xlsx",
           "size": 40577
+        }
+      }
+    },
+    {
+      "id": "ko-nara-ireum-hanja",
+      "name": "나라 이름의 한자 표기",
+      "category": "language",
+      "record_count": 224,
+      "columns": [
+        "region",
+        "country",
+        "hanja"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/나라_이름의_한자_표기_목록",
+      "updated": "2026-10",
+      "size": 35330,
+      "files": {
+        "csv": {
+          "name": "ko-nara-ireum-hanja_KO.csv",
+          "size": 19824
+        },
+        "xlsx": {
+          "name": "ko-nara-ireum-hanja_KO.xlsx",
+          "size": 16883
         }
       }
     },
