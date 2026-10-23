@@ -1,0 +1,292 @@
+{
+  "id": "ko-eongmanjangja",
+  "name": "대한민국의 억만장자",
+  "title": "대한민국의 억만장자",
+  "description": "순자산 기준 대한민국의 억만장자 순위 (이름, 순자산, 재산 출처).",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_억만장자_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_억만장자_목록",
+  "updated": "2026-10",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "net_worth_usd",
+      "label": "Net Worth Usd",
+      "type": "string"
+    },
+    {
+      "key": "source_of_wealth",
+      "label": "Source Of Wealth",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "이재용",
+      "net_worth_usd": "115억",
+      "source_of_wealth": "삼성"
+    },
+    {
+      "rank": 2,
+      "name": "마이클 김",
+      "net_worth_usd": "97억",
+      "source_of_wealth": "MBK 파트너스"
+    },
+    {
+      "rank": 3,
+      "name": "서정진",
+      "net_worth_usd": "75억",
+      "source_of_wealth": "셀트리온"
+    },
+    {
+      "rank": 4,
+      "name": "조정호",
+      "net_worth_usd": "62억",
+      "source_of_wealth": "메리츠금융그룹"
+    },
+    {
+      "rank": 5,
+      "name": "정몽구",
+      "net_worth_usd": "46억",
+      "source_of_wealth": "현대자동차 및 기아 (모두 명예직)"
+    },
+    {
+      "rank": 6,
+      "name": "김범수",
+      "net_worth_usd": "45억",
+      "source_of_wealth": "카카오"
+    },
+    {
+      "rank": 7,
+      "name": "홍라희",
+      "net_worth_usd": "44억",
+      "source_of_wealth": "리움미술관 (공동 설립자)"
+    },
+    {
+      "rank": 8,
+      "name": "곽동신",
+      "net_worth_usd": "39억",
+      "source_of_wealth": "한미반도체"
+    },
+    {
+      "rank": 9,
+      "name": "권혁빈",
+      "net_worth_usd": "37억",
+      "source_of_wealth": "스마일게이트"
+    },
+    {
+      "rank": 10,
+      "name": "정의선",
+      "net_worth_usd": "34억",
+      "source_of_wealth": "현대자동차"
+    },
+    {
+      "rank": 11,
+      "name": "김범석",
+      "net_worth_usd": "32억",
+      "source_of_wealth": "쿠팡"
+    },
+    {
+      "rank": 12,
+      "name": "김정민 & 김정윤",
+      "net_worth_usd": "29억",
+      "source_of_wealth": "작고한 아버지 김정주로부터 상속"
+    },
+    {
+      "rank": 13,
+      "name": "이부진",
+      "net_worth_usd": "29억",
+      "source_of_wealth": "호텔신라"
+    },
+    {
+      "rank": 14,
+      "name": "이서현",
+      "net_worth_usd": "27억",
+      "source_of_wealth": "삼성복지재단 이사회 이사 및 다양한 기업 이사회 이사"
+    },
+    {
+      "rank": 15,
+      "name": "유정현",
+      "net_worth_usd": "23억",
+      "source_of_wealth": "넥슨 창업자 김정주의 배우자"
+    },
+    {
+      "rank": 16,
+      "name": "이동채",
+      "net_worth_usd": "22억",
+      "source_of_wealth": "Eco Pro"
+    },
+    {
+      "rank": 17,
+      "name": "방시혁",
+      "net_worth_usd": "21억",
+      "source_of_wealth": "하이브"
+    },
+    {
+      "rank": 18,
+      "name": "김준기",
+      "net_worth_usd": "19억",
+      "source_of_wealth": "DB그룹"
+    },
+    {
+      "rank": 19,
+      "name": "구광모",
+      "net_worth_usd": "18억",
+      "source_of_wealth": "LG"
+    },
+    {
+      "rank": 20,
+      "name": "이호진",
+      "net_worth_usd": "15.5억",
+      "source_of_wealth": "태광산업"
+    },
+    {
+      "rank": 21,
+      "name": "서경배",
+      "net_worth_usd": "15억",
+      "source_of_wealth": "아모레퍼시픽"
+    },
+    {
+      "rank": 22,
+      "name": "이수진",
+      "net_worth_usd": "14.5억",
+      "source_of_wealth": "야놀자"
+    },
+    {
+      "rank": 23,
+      "name": "박순재",
+      "net_worth_usd": "14.3억",
+      "source_of_wealth": "알테오젠"
+    },
+    {
+      "rank": 24,
+      "name": "최태원",
+      "net_worth_usd": "14억",
+      "source_of_wealth": "SK그룹"
+    },
+    {
+      "rank": 25,
+      "name": "이해진",
+      "net_worth_usd": "13.5억",
+      "source_of_wealth": "네이버"
+    },
+    {
+      "rank": 26,
+      "name": "정용진",
+      "net_worth_usd": "12.5억",
+      "source_of_wealth": "신세계"
+    },
+    {
+      "rank": 27,
+      "name": "이재현",
+      "net_worth_usd": "12.4억",
+      "source_of_wealth": "CJ그룹"
+    },
+    {
+      "rank": 28,
+      "name": "류광지",
+      "net_worth_usd": "12.2억",
+      "source_of_wealth": "금양 (기업)"
+    },
+    {
+      "rank": 29,
+      "name": "정몽준",
+      "net_worth_usd": "12억",
+      "source_of_wealth": "HD현대"
+    },
+    {
+      "rank": 30,
+      "name": "구본능",
+      "net_worth_usd": "11.5억",
+      "source_of_wealth": "희성전자"
+    },
+    {
+      "rank": 31,
+      "name": "박현주",
+      "net_worth_usd": "11.2억",
+      "source_of_wealth": "미래에셋그룹"
+    },
+    {
+      "rank": 32,
+      "name": "김택진",
+      "net_worth_usd": "13억",
+      "source_of_wealth": "엔씨소프트"
+    },
+    {
+      "rank": 33,
+      "name": "김정웅",
+      "net_worth_usd": "11억",
+      "source_of_wealth": "지피클럽"
+    },
+    {
+      "rank": 34,
+      "name": "신창재",
+      "net_worth_usd": "10.9억",
+      "source_of_wealth": "교보생명보험"
+    },
+    {
+      "rank": 35,
+      "name": "이채윤",
+      "net_worth_usd": "10.8억",
+      "source_of_wealth": "리노공업"
+    },
+    {
+      "rank": 36,
+      "name": "김재영",
+      "net_worth_usd": "10.7억",
+      "source_of_wealth": "라이온하트 스튜디오"
+    },
+    {
+      "rank": 37,
+      "name": "구본식",
+      "net_worth_usd": "10.6억",
+      "source_of_wealth": "희성전자"
+    },
+    {
+      "rank": 38,
+      "name": "이승건",
+      "net_worth_usd": "10.5억",
+      "source_of_wealth": "비바리퍼블리카"
+    },
+    {
+      "rank": 39,
+      "name": "신동주",
+      "net_worth_usd": "10.3억",
+      "source_of_wealth": "롯데지주"
+    },
+    {
+      "rank": 40,
+      "name": "방준혁",
+      "net_worth_usd": "11억",
+      "source_of_wealth": "넷마블"
+    },
+    {
+      "rank": 41,
+      "name": "장평순",
+      "net_worth_usd": "11억",
+      "source_of_wealth": "교원그룹"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 억만장자 - Free Download",
+    "description": "순자산 기준 대한민국의 억만장자 순위 (이름, 순자산, 재산 출처). Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 억만장자 | ListBase",
+    "seo_description": "Download 대한민국의 억만장자 — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_억만장자_목록"
+    ]
+  }
+}

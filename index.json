@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:42.833Z",
-  "total_datasets": 442,
-  "total_records": 448192,
+  "generated": "2026-10-23T02:10:45.276Z",
+  "total_datasets": 443,
+  "total_records": 448233,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -585,6 +585,31 @@
         "xlsx": {
           "name": "ko-wangneung-gobun_KO.xlsx",
           "size": 19335
+        }
+      }
+    },
+    {
+      "id": "ko-eongmanjangja",
+      "name": "대한민국의 억만장자",
+      "category": "economy",
+      "record_count": 41,
+      "columns": [
+        "rank",
+        "name",
+        "net_worth_usd",
+        "source_of_wealth"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_억만장자_목록",
+      "updated": "2026-10",
+      "size": 7111,
+      "files": {
+        "csv": {
+          "name": "ko-eongmanjangja_KO.csv",
+          "size": 1918
+        },
+        "xlsx": {
+          "name": "ko-eongmanjangja_KO.xlsx",
+          "size": 8603
         }
       }
     },
