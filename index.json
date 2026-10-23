@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:28.836Z",
-  "total_datasets": 436,
-  "total_records": 446013,
+  "generated": "2026-10-23T02:10:31.195Z",
+  "total_datasets": 437,
+  "total_records": 446079,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -6326,6 +6326,33 @@
         "xlsx": {
           "name": "ko-ulsan-haengjeong-guyek-yeoksa_KO.xlsx",
           "size": 24947
+        }
+      }
+    },
+    {
+      "id": "ko-bogeonbokji-janggwan",
+      "name": "대한민국의 역대 보건복지부 장관",
+      "category": "health",
+      "record_count": 66,
+      "columns": [
+        "ministry",
+        "term",
+        "name",
+        "took_office",
+        "left_office",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_보건복지부_장관",
+      "updated": "2026-10",
+      "size": 16661,
+      "files": {
+        "csv": {
+          "name": "ko-bogeonbokji-janggwan_KO.csv",
+          "size": 6573
+        },
+        "xlsx": {
+          "name": "ko-bogeonbokji-janggwan_KO.xlsx",
+          "size": 9814
         }
       }
     },

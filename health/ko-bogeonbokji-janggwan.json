@@ -1,0 +1,584 @@
+{
+  "id": "ko-bogeonbokji-janggwan",
+  "name": "대한민국의 역대 보건복지부 장관",
+  "title": "대한민국의 역대 보건복지부 장관",
+  "description": "사회부·보건부·보건사회부·보건복지부 등 대한민국 보건복지 담당 부처의 역대 장관 목록.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_보건복지부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_보건복지부_장관",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "ministry",
+      "label": "Ministry",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "left_office",
+      "label": "Left Office",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministry": "사회부",
+      "term": "제1대",
+      "name": "전진한",
+      "took_office": "1948년 8월 1일",
+      "left_office": "1948년 12월 24일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "사회부",
+      "term": "제2대",
+      "name": "이윤영",
+      "took_office": "1948년 12월 24일",
+      "left_office": "1950년 11월 23일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "사회부",
+      "term": "제3대",
+      "name": "허정",
+      "took_office": "1950년 11월 23일",
+      "left_office": "1952년 1월 12일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "사회부",
+      "term": "제4대",
+      "name": "최창순",
+      "took_office": "1952년 1월 12일",
+      "left_office": "1952년 10월 9일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "사회부",
+      "term": "제5대",
+      "name": "박술음",
+      "took_office": "1952년 10월 9일",
+      "left_office": "1955년 2월 16일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건부",
+      "term": "제1대",
+      "name": "구영숙",
+      "took_office": "1949년 6월 4일",
+      "left_office": "1950년 11월 26일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건부",
+      "term": "제2대",
+      "name": "오한영",
+      "took_office": "1950년 11월 26일",
+      "left_office": "1952년 2월 5일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건부",
+      "term": "제3대",
+      "name": "최재유",
+      "took_office": "1952년 2월 5일",
+      "left_office": "1955년 2월 16일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제1대",
+      "name": "최재유",
+      "took_office": "1955년 2월 17일",
+      "left_office": "1956년 5월 26일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제2대",
+      "name": "정준모",
+      "took_office": "1956년 5월 26일",
+      "left_office": "1957년 6월 17일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제3대",
+      "name": "손창환",
+      "took_office": "1957년 6월 17일",
+      "left_office": "1960년 4월 28일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제4대",
+      "name": "김성진",
+      "took_office": "1960년 4월 28일",
+      "left_office": "1960년 8월 19일",
+      "government": "제1공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제5대",
+      "name": "신현돈",
+      "took_office": "1960년 8월 23일",
+      "left_office": "1960년 9월 12일",
+      "government": "제2공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제6대",
+      "name": "나용균",
+      "took_office": "1960년 9월 12일",
+      "left_office": "1961년 1월 29일",
+      "government": "제2공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제7대",
+      "name": "김판술",
+      "took_office": "1961년 1월 30일",
+      "left_office": "1961년 5월 18일",
+      "government": "제2공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제8대",
+      "name": "장덕승",
+      "took_office": "1961년 5월 20일",
+      "left_office": "1961년 7월 6일",
+      "government": "제2공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제9대",
+      "name": "정희섭",
+      "took_office": "1961년 7월 7일",
+      "left_office": "1963년 12월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제10대",
+      "name": "박주병",
+      "took_office": "1963년 12월 17일",
+      "left_office": "1964년 5월 11일",
+      "government": "제3공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제11대",
+      "name": "오원선",
+      "took_office": "1964년 5월 11일",
+      "left_office": "1966년 4월 15일",
+      "government": "제3공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제12대",
+      "name": "정희섭",
+      "took_office": "1966년 4월 15일",
+      "left_office": "1969년 10월 21일",
+      "government": "제3공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제13대",
+      "name": "김태동",
+      "took_office": "1969년 10월 21일",
+      "left_office": "1971년 6월 4일",
+      "government": "제3공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제14대",
+      "name": "이경호",
+      "took_office": "1971년 6월 4일",
+      "left_office": "1973년 12월 3일",
+      "government": ""
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제15대",
+      "name": "고재필",
+      "took_office": "1973년 12월 3일",
+      "left_office": "1975년 12월 9일",
+      "government": ""
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제16대",
+      "name": "신현확",
+      "took_office": "1975년 12월 9일",
+      "left_office": "1978년 12월 22일",
+      "government": ""
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제17대",
+      "name": "홍성철",
+      "took_office": "1978년 12월 22일",
+      "left_office": "1979년 12월 14일",
+      "government": ""
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제18대",
+      "name": "진의종",
+      "took_office": "1979년 12월 14일",
+      "left_office": "1980년 9월 2일",
+      "government": ""
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제19대",
+      "name": "천명기",
+      "took_office": "1980년 9월 2일",
+      "left_office": "1982년 5월 21일",
+      "government": "제5공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제20대",
+      "name": "김정례",
+      "took_office": "1982년 5월 21일",
+      "left_office": "1985년 2월 19일",
+      "government": "제5공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제21대",
+      "name": "이해원",
+      "took_office": "1985년 2월 19일",
+      "left_office": "1988년 2월 25일",
+      "government": "제5공화국"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제22대",
+      "name": "권이혁",
+      "took_office": "1988년 2월 25일",
+      "left_office": "1988년 12월 5일",
+      "government": "노태우 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제23대",
+      "name": "문태준",
+      "took_office": "1988년 12월 5일",
+      "left_office": "1989년 7월 19일",
+      "government": "노태우 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제24대",
+      "name": "김종인",
+      "took_office": "1989년 7월 19일",
+      "left_office": "1990년 3월 19일",
+      "government": "노태우 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제25대",
+      "name": "김정수",
+      "took_office": "1990년 3월 19일",
+      "left_office": "1991년 5월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제26대",
+      "name": "안필준",
+      "took_office": "1991년 5월 27일",
+      "left_office": "1993년 2월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제27일",
+      "name": "박양실",
+      "took_office": "1993년 2월 25일",
+      "left_office": "1993년 3월 7일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제28대",
+      "name": "송정숙",
+      "took_office": "1993년 3월 8일",
+      "left_office": "1993년 12월 21일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건사회부",
+      "term": "제29대",
+      "name": "서상목",
+      "took_office": "1993년 12월 22일",
+      "left_office": "1994년 12월 22일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제29대",
+      "name": "서상목",
+      "took_office": "1994년 12월 23일",
+      "left_office": "1995년 5월 15일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제30대",
+      "name": "이성호",
+      "took_office": "1995년 5월 16일",
+      "left_office": "1995년 12월 20일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제31대",
+      "name": "김양배",
+      "took_office": "1995년 12월 21일",
+      "left_office": "1996년 8월 7일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제32대",
+      "name": "이성호",
+      "took_office": "1996년 8월 8일",
+      "left_office": "1996년 11월 12일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제33대",
+      "name": "손학규",
+      "took_office": "1996년 11월 13일",
+      "left_office": "1997년 8월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제34대",
+      "name": "최광",
+      "took_office": "1997년 8월 6일",
+      "left_office": "1998년 3월 2일",
+      "government": "김영삼 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제35대",
+      "name": "주양자",
+      "took_office": "1998년 3월 3일",
+      "left_office": "1998년 4월 30일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제36대",
+      "name": "김모임",
+      "took_office": "1998년 5월 1일",
+      "left_office": "1999년 5월 23일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제37대",
+      "name": "차흥봉",
+      "took_office": "1999년 5월 24일",
+      "left_office": "2000년 8월 6일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제38대",
+      "name": "최선정",
+      "took_office": "2000년 8월 7일",
+      "left_office": "2001년 3월 22일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제39대",
+      "name": "김원길",
+      "took_office": "2001년 3월 23일",
+      "left_office": "2002년 1월 29일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제40대",
+      "name": "이태복",
+      "took_office": "2002년 1월 29일",
+      "left_office": "2002년 7월 11일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제41대",
+      "name": "김성호",
+      "took_office": "2002년 7월 11일",
+      "left_office": "2003년 2월 27일",
+      "government": "김대중 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제42대",
+      "name": "김화중",
+      "took_office": "2003년 2월 27일",
+      "left_office": "2004년 7월 1일",
+      "government": "노무현 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제43대",
+      "name": "김근태",
+      "took_office": "2004년 7월 1일",
+      "left_office": "2006년 2월 10일",
+      "government": "노무현 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제44대",
+      "name": "유시민",
+      "took_office": "2006년 2월 10일",
+      "left_office": "2007년 5월 22일",
+      "government": "노무현 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제45대",
+      "name": "변재진",
+      "took_office": "2007년 5월 22일",
+      "left_office": "2008년 2월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "ministry": "보건복지가족부",
+      "term": "제46대",
+      "name": "김성이",
+      "took_office": "2008년 3월 13일",
+      "left_office": "2008년 8월 5일",
+      "government": "이명박 정부"
+    },
+    {
+      "ministry": "보건복지가족부",
+      "term": "제47대",
+      "name": "전재희",
+      "took_office": "2008년 8월 6일",
+      "left_office": "2010년 3월 18일",
+      "government": "이명박 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제47대",
+      "name": "전재희",
+      "took_office": "2010년 3월 19일",
+      "left_office": "2010년 8월 29일",
+      "government": "이명박 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제48대",
+      "name": "진수희",
+      "took_office": "2010년 8월 30일",
+      "left_office": "2011년 9월 15일",
+      "government": "이명박 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제49대",
+      "name": "임채민",
+      "took_office": "2011년 9월 16일",
+      "left_office": "2013년 3월 11일",
+      "government": "이명박 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제50대",
+      "name": "진영",
+      "took_office": "2013년 3월 11일",
+      "left_office": "2013년 9월 30일",
+      "government": "박근혜 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제51대",
+      "name": "문형표",
+      "took_office": "2013년 12월 2일",
+      "left_office": "2015년 8월 26일",
+      "government": "박근혜 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제52대",
+      "name": "정진엽",
+      "took_office": "2015년 8월 27일",
+      "left_office": "2017년 7월 21일",
+      "government": "박근혜 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제53대",
+      "name": "박능후",
+      "took_office": "2017년 7월 22일",
+      "left_office": "2020년 12월 23일",
+      "government": "문재인 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제54대",
+      "name": "권덕철",
+      "took_office": "2020년 12월 24일",
+      "left_office": "2022년 5월 25일",
+      "government": "문재인 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제55대",
+      "name": "조규홍",
+      "took_office": "2022년 10월 4일",
+      "left_office": "2025년 7월 21일",
+      "government": "윤석열 정부"
+    },
+    {
+      "ministry": "보건복지부",
+      "term": "제56대",
+      "name": "정은경",
+      "took_office": "2025년 7월 22일",
+      "left_office": "현직",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 보건복지부 장관 - Free Download",
+    "description": "사회부·보건부·보건사회부·보건복지부 등 대한민국 보건복지 담당 부처의 역대 장관 목록. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 보건복지부 장관 | ListBase",
+    "seo_description": "Download 대한민국의 역대 보건복지부 장관 — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_보건복지부_장관"
+    ]
+  }
+}
