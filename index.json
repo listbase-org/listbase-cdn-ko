@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:35.936Z",
-  "total_datasets": 439,
-  "total_records": 448103,
+  "generated": "2026-10-23T02:10:38.306Z",
+  "total_datasets": 440,
+  "total_records": 448135,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -2439,6 +2439,33 @@
         "xlsx": {
           "name": "ko-cheukjeong-danwi-temperature_KO.xlsx",
           "size": 7041
+        }
+      }
+    },
+    {
+      "id": "ko-ramsar-seupji",
+      "name": "대한민국의 람사르 등록 습지",
+      "category": "environment",
+      "record_count": 32,
+      "columns": [
+        "ramsar_no",
+        "name",
+        "location",
+        "area_km2",
+        "feature",
+        "designated"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_람사르_등록_습지_목록",
+      "updated": "2026-10",
+      "size": 11769,
+      "files": {
+        "csv": {
+          "name": "ko-ramsar-seupji_KO.csv",
+          "size": 6154
+        },
+        "xlsx": {
+          "name": "ko-ramsar-seupji_KO.xlsx",
+          "size": 10041
         }
       }
     },

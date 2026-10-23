@@ -1,0 +1,312 @@
+{
+  "id": "ko-ramsar-seupji",
+  "name": "대한민국의 람사르 등록 습지",
+  "title": "대한민국의 람사르 등록 습지",
+  "description": "람사르 협약에 등록된 대한민국의 습지 목록 (람사르 번호, 위치, 면적, 특징, 지정일자).",
+  "category": "environment",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_람사르_등록_습지_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_람사르_등록_습지_목록",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "ramsar_no",
+      "label": "Ramsar No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "feature",
+      "label": "Feature",
+      "type": "string"
+    },
+    {
+      "key": "designated",
+      "label": "Designated",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ramsar_no": 898,
+      "name": "대암산용늪",
+      "location": "강원도 인제군 서화면 심적리 대암산 일원",
+      "area_km2": 1.06,
+      "feature": "희귀야생 동·식물이 서식하는 국내 유일의 고층습원",
+      "designated": "1997년 3월 28일"
+    },
+    {
+      "ramsar_no": 934,
+      "name": "우포늪",
+      "location": "경상남도 창녕군 대합면·이방면· 유어면·대지면 일원",
+      "area_km2": 8.54,
+      "feature": "큰부리큰기러기, 가시연꽃 등 다수의 멸종위기 동·식물 서식하는 국내 최대의 자연늪",
+      "designated": "1998년 3월 2일"
+    },
+    {
+      "ramsar_no": 1458,
+      "name": "장도습지",
+      "location": "전라남도 신안군 흑산면 비리 장도 일원",
+      "area_km2": 0.09,
+      "feature": "멸종위기종 서식하고 이탄층이 잘 보전된 도서지역 산지습지",
+      "designated": "2005년 3월 30일"
+    },
+    {
+      "ramsar_no": 1594,
+      "name": "순천만·보성갯벌",
+      "location": "전라남도 순천시 별량면·해룡면· 도사동 일대, 전라남도 보성군 벌교읍 해안가 일대",
+      "area_km2": 35.5,
+      "feature": "멸종위기종 흑두루미의 국내 최대 월동지이며 수산자원 풍부",
+      "designated": "2006년 1월 20일"
+    },
+    {
+      "ramsar_no": 1648,
+      "name": "제주 물영아리오름습지",
+      "location": "제주특별자치도 서귀포시 남원읍 수망리 수령산 일대 분화구",
+      "area_km2": 0.309,
+      "feature": "물장군과 맹꽁이 등 멸종위기종이 서식하고 독특한 식생경관을 지닌 화구호습지",
+      "designated": "2006년 10월 18일"
+    },
+    {
+      "ramsar_no": 1724,
+      "name": "두웅습지",
+      "location": "충청남도 태안군 원동면 신두리",
+      "area_km2": 0.065,
+      "feature": "희귀야생 동·식물 서식하고 해안사구 배후에 형성된 사구습지",
+      "designated": "2007년 12월 20일"
+    },
+    {
+      "ramsar_no": 1725,
+      "name": "무제치늪",
+      "location": "울산광역시 울주군 삼동면 조일리 정족산 일원",
+      "area_km2": 0.04,
+      "feature": "끈끈이주걱, 꼬마잠자리 등 희귀 야생 동·식물 서식하고 이탄층이 잘 발달된 산지습지",
+      "designated": "2007년 12월 20일"
+    },
+    {
+      "ramsar_no": 1732,
+      "name": "무안갯벌",
+      "location": "전라남도 무안군 해제면·현경면 일대",
+      "area_km2": 35.89,
+      "feature": "생물다양성 풍부하고 지질학적 보전가치가 있음",
+      "designated": "2008년 1월 14일"
+    },
+    {
+      "ramsar_no": 1846,
+      "name": "강화 매화마름군락지",
+      "location": "인천광역시 강화군 길상면 초지리",
+      "area_km2": 0.003,
+      "feature": "매화마름, 금개구리 등 멸종위기종이 서식하고 국내 최초로 람사르습지로 지정된 논습지",
+      "designated": "2008년 10월 13일"
+    },
+    {
+      "ramsar_no": 1847,
+      "name": "제주 물장오리오름습지",
+      "location": "제주특별자치도 제주시 봉개동",
+      "area_km2": 0.628,
+      "feature": "팔색조, 삼광조 등 멸종위기종이 서식하고 이탄층 발달한 산정 하구호습지",
+      "designated": "2008년 10월 13일"
+    },
+    {
+      "ramsar_no": 1848,
+      "name": "오대산 국립공원습지",
+      "location": "강원도 평창군 대관령면 횡계리 일대(소황병산늪,질뫼늪), 홍천군 내면 명개리 일대(조개동늪)",
+      "area_km2": 0.017,
+      "feature": "멸종위기종 서식하고 이탄층 잘 발달된 산지습지",
+      "designated": "2008년 10월 13일"
+    },
+    {
+      "ramsar_no": 1893,
+      "name": "제주 1100고지습지",
+      "location": "제주특별자치도 서귀포시 색달동·중문동 ~ 제주시 광령리",
+      "area_km2": 0.126,
+      "feature": "멸기위기종 및 희귀종이 서식하고 독특한 지형에 발달한 고산습지",
+      "designated": "2009년 10월 12일"
+    },
+    {
+      "ramsar_no": 1925,
+      "name": "서천갯벌",
+      "location": "충청남도 서천군 서면, 유부도 일대",
+      "area_km2": 15.3,
+      "feature": "다수의 멸종위기종 조류 및 전 세계 물떼새 개체수의 1%이상이 서식(검은머리물떼새)",
+      "designated": "2009년 12월 2일"
+    },
+    {
+      "ramsar_no": 1937,
+      "name": "고창·부안갯벌",
+      "location": "전라북도 부안군 줄포면·보안면, 고창군 부안면· 심원면 일대",
+      "area_km2": 45.5,
+      "feature": "다수의 멸종위기종 조류 및 전 세계 물떼새 개체수의 1%이상이 서식(흰물떼새)",
+      "designated": "2010년 2월 1일"
+    },
+    {
+      "ramsar_no": 1947,
+      "name": "동백동산습지",
+      "location": "제주특별자치도 제주시 조천읍 선흘리",
+      "area_km2": 0.59,
+      "feature": "지하수함양률이 높고 생물다양성이 풍부한 곶자왈지역",
+      "designated": "2011년 3월 14일"
+    },
+    {
+      "ramsar_no": 1948,
+      "name": "운곡습지",
+      "location": "전라북도 고창군 아산면 운곡리",
+      "area_km2": 1.797,
+      "feature": "생물다양성이 풍부하고 멸종위기종 수달 등 서식",
+      "designated": "2011년 4월 7일"
+    },
+    {
+      "ramsar_no": 1974,
+      "name": "증도갯벌",
+      "location": "전라남도 신안군 증도면 증도 및 병풍도 일대",
+      "area_km2": 31.3,
+      "feature": "국제적인 보호 조류가 서식하는 연안 습지",
+      "designated": "2011년 9월 1일"
+    },
+    {
+      "ramsar_no": 2050,
+      "name": "밤섬",
+      "location": "서울특별시 영등포구 여의도동 밤섬 일대",
+      "area_km2": 0.27,
+      "feature": "대도시 속의 습지로 그 의미가 큼",
+      "designated": "2012년 6월 26일"
+    },
+    {
+      "ramsar_no": 2209,
+      "name": "송도갯벌",
+      "location": "인천광역시 연수구 송도동",
+      "area_km2": 6.11,
+      "feature": "멸종위기종인 저어새, 검은머리갈매기 등 주요 철새 도래지이나 개발의 위험에서 온전히 벗어나지 못함",
+      "designated": "2014년 7월 10일"
+    },
+    {
+      "ramsar_no": 2225,
+      "name": "숨은물뱅듸",
+      "location": "제주특별자치도 제주시 애월읍",
+      "area_km2": 1.175,
+      "feature": "5백여종의 희귀동식물 서식",
+      "designated": "2015년 5월 13일"
+    },
+    {
+      "ramsar_no": 2226,
+      "name": "한반도습지",
+      "location": "강원도 영월군 한반도면 옹정리",
+      "area_km2": 1.915,
+      "feature": "한반도 모양의 특이한 지형적 특성",
+      "designated": "2015년 5월 13일"
+    },
+    {
+      "ramsar_no": 2269,
+      "name": "순천 동천하구",
+      "location": "전라남도 순천시 도사동",
+      "area_km2": 5.398,
+      "feature": "인근 순천만 습지와 주변 농경지를 하나의 생태축으로 연결함",
+      "designated": "2016년 1월 20일"
+    },
+    {
+      "ramsar_no": 2448,
+      "name": "고양 장항습지",
+      "location": "경기도 고양시 일산동구 장항동",
+      "area_km2": 5.96,
+      "feature": "대륙간 이동하는 철새의 중간 경유지이자 서식지, 높은 조수 간만의 차로 인해 형성된 자연형 하구의 특성을 유지",
+      "designated": "2021년 5월 21일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "순천만·보성갯벌",
+      "location": "전남 순천시 별량면·해룡면·도사동 일대, 전남 보성군 벌교읍 해안가 일대",
+      "area_km2": 35.5,
+      "feature": "-",
+      "designated": "2006년 1월 20일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "무안갯벌",
+      "location": "전남 무안군 해제면·현경면 일대",
+      "area_km2": 35.89,
+      "feature": "-",
+      "designated": "2008년 1월 14일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "서천갯벌",
+      "location": "충남 서천군 서면, 유부도 일대",
+      "area_km2": 15.3,
+      "feature": "-",
+      "designated": "2010년 9월 9일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "고창·부안갯벌",
+      "location": "전북 부안군 줄포면·보안면, 고창군 부안면·심원면 일대",
+      "area_km2": 45.5,
+      "feature": "-",
+      "designated": "2010년 12월 13일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "중도갯벌",
+      "location": "전남 신안군 증도면 증도 및 병풍도 일대",
+      "area_km2": 31.3,
+      "feature": "-",
+      "designated": "2011년 9월 1일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "송도갯벌",
+      "location": "인천 연수구 송도",
+      "area_km2": 6.11,
+      "feature": "-",
+      "designated": "2014년 7월 10일"
+    },
+    {
+      "ramsar_no": 2359,
+      "name": "대부도갯벌",
+      "location": "경기도 안산시 단원구 대부동",
+      "area_km2": 4.53,
+      "feature": "수많은 개발 압력 속에서도 다양한 생물의 군락지와 멸종위기 야생생물 다수 서식",
+      "designated": "2018년 10월 25일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "돌리네 습지",
+      "location": "문경시 산북면 우곡리",
+      "area_km2": 0.494,
+      "feature": "습지 바닥에 석회암 풍화토양인 테라로사가 미세하게 쌓여 불투수층을 형성하고 있어 습지수를 유지, 다수 멸종위기종 서식",
+      "designated": "2024년 2월 7일"
+    },
+    {
+      "ramsar_no": "",
+      "name": "평두메 습지",
+      "location": "광주광역시 북구 화암동",
+      "area_km2": 0.023,
+      "feature": "자연 회복된 묵논습지로 멸종위기 야생생물이 다수 서식하며 생물다양성이 풍부",
+      "designated": "2024년 5월 13일"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 람사르 등록 습지 - Free Download",
+    "description": "람사르 협약에 등록된 대한민국의 습지 목록 (람사르 번호, 위치, 면적, 특징, 지정일자). Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 람사르 등록 습지 | ListBase",
+    "seo_description": "Download 대한민국의 람사르 등록 습지 — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_람사르_등록_습지_목록"
+    ]
+  }
+}
