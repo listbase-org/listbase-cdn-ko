@@ -1,0 +1,332 @@
+{
+  "id": "ko-jeolla-hyangto-eumsik",
+  "name": "전라도의 향토 음식",
+  "title": "전라도의 향토 음식",
+  "description": "전라도(전라남도·전라북도)의 향토 음식 목록 (분류, 음식 이름).",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/전라도의_음식_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/전라도의_음식_목록",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "주 요리",
+      "name": "전주비빔밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "콩나물국밥"
+    },
+    {
+      "category": "주 요리",
+      "name": "피문어죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "깨죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "오누이죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "대추죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "합자죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "대합죽"
+    },
+    {
+      "category": "주 요리",
+      "name": "냉국수"
+    },
+    {
+      "category": "주 요리",
+      "name": "고둥칼국수"
+    },
+    {
+      "category": "반찬류",
+      "name": "머우깨국"
+    },
+    {
+      "category": "반찬류",
+      "name": "천어탕"
+    },
+    {
+      "category": "반찬류",
+      "name": "추어탕"
+    },
+    {
+      "category": "반찬류",
+      "name": "죽순찜"
+    },
+    {
+      "category": "반찬류",
+      "name": "홍어어시육"
+    },
+    {
+      "category": "반찬류",
+      "name": "붕어조림"
+    },
+    {
+      "category": "반찬류",
+      "name": "멸치자반"
+    },
+    {
+      "category": "반찬류",
+      "name": "두루치기"
+    },
+    {
+      "category": "반찬류",
+      "name": "장어구이"
+    },
+    {
+      "category": "반찬류",
+      "name": "숯불불고기"
+    },
+    {
+      "category": "반찬류",
+      "name": "생치섭산적"
+    },
+    {
+      "category": "반찬류",
+      "name": "송이산적"
+    },
+    {
+      "category": "반찬류",
+      "name": "산돼지고기구이"
+    },
+    {
+      "category": "반찬류",
+      "name": "애저"
+    },
+    {
+      "category": "반찬류",
+      "name": "육회"
+    },
+    {
+      "category": "반찬류",
+      "name": "홍어회"
+    },
+    {
+      "category": "반찬류",
+      "name": "꼬막회"
+    },
+    {
+      "category": "반찬류",
+      "name": "젓갈류"
+    },
+    {
+      "category": "반찬류",
+      "name": "게장"
+    },
+    {
+      "category": "반찬류",
+      "name": "생산대구아가미젓"
+    },
+    {
+      "category": "건어",
+      "name": "육포"
+    },
+    {
+      "category": "건어",
+      "name": "민어포"
+    },
+    {
+      "category": "건어",
+      "name": "대구포"
+    },
+    {
+      "category": "채소",
+      "name": "산채"
+    },
+    {
+      "category": "채소",
+      "name": "겨자잡채"
+    },
+    {
+      "category": "채소",
+      "name": "톳나물"
+    },
+    {
+      "category": "채소",
+      "name": "파래무침"
+    },
+    {
+      "category": "채소",
+      "name": "꼴뚜기무생채"
+    },
+    {
+      "category": "채소",
+      "name": "갓쌈지"
+    },
+    {
+      "category": "채소",
+      "name": "고들빼기김치"
+    },
+    {
+      "category": "채소",
+      "name": "배추포기김치"
+    },
+    {
+      "category": "채소",
+      "name": "검들김치"
+    },
+    {
+      "category": "채소",
+      "name": "굴깍두기"
+    },
+    {
+      "category": "채소",
+      "name": "백지"
+    },
+    {
+      "category": "채소",
+      "name": "굴비노적"
+    },
+    {
+      "category": "채소",
+      "name": "짠 반찬"
+    },
+    {
+      "category": "채소",
+      "name": "가죽부각"
+    },
+    {
+      "category": "채소",
+      "name": "부각"
+    },
+    {
+      "category": "채소",
+      "name": "황포묵"
+    },
+    {
+      "category": "떡",
+      "name": "감시리떡"
+    },
+    {
+      "category": "떡",
+      "name": "감고지떡"
+    },
+    {
+      "category": "떡",
+      "name": "나복병 (무시루떡)"
+    },
+    {
+      "category": "떡",
+      "name": "호박메시리떡"
+    },
+    {
+      "category": "떡",
+      "name": "복령떡"
+    },
+    {
+      "category": "떡",
+      "name": "수리취개떡 (수리취떡)"
+    },
+    {
+      "category": "떡",
+      "name": "송피떡"
+    },
+    {
+      "category": "떡",
+      "name": "고치떡"
+    },
+    {
+      "category": "떡",
+      "name": "삘기송편"
+    },
+    {
+      "category": "떡",
+      "name": "호박고지차시루떡"
+    },
+    {
+      "category": "떡",
+      "name": "감인절미"
+    },
+    {
+      "category": "떡",
+      "name": "감단자"
+    },
+    {
+      "category": "떡",
+      "name": "전주경단"
+    },
+    {
+      "category": "떡",
+      "name": "해남경단"
+    },
+    {
+      "category": "떡",
+      "name": "우찌지"
+    },
+    {
+      "category": "떡",
+      "name": "차조기떡"
+    },
+    {
+      "category": "떡",
+      "name": "섭전"
+    },
+    {
+      "category": "후식",
+      "name": "산자 (유과)"
+    },
+    {
+      "category": "후식",
+      "name": "유과별법"
+    },
+    {
+      "category": "후식",
+      "name": "고구마엿"
+    },
+    {
+      "category": "후식",
+      "name": "동아정과"
+    },
+    {
+      "category": "후식",
+      "name": "생강정과"
+    },
+    {
+      "category": "후식",
+      "name": "연근정과"
+    },
+    {
+      "category": "후식",
+      "name": "유자화채"
+    },
+    {
+      "category": "후식",
+      "name": "곶감수정과"
+    }
+  ],
+  "meta": {
+    "title": "전라도의 향토 음식 - Free Download",
+    "description": "전라도(전라남도·전라북도)의 향토 음식 목록 (분류, 음식 이름). Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "전라도의 향토 음식 | ListBase",
+    "seo_description": "Download 전라도의 향토 음식 — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/전라도의_음식_목록"
+    ]
+  }
+}

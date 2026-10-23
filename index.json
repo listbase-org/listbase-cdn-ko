@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:21.854Z",
-  "total_datasets": 433,
-  "total_records": 445722,
+  "generated": "2026-10-23T02:10:24.298Z",
+  "total_datasets": 434,
+  "total_records": 445796,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -2912,6 +2912,29 @@
         "xlsx": {
           "name": "ko-yureop-gukga_KO.xlsx",
           "size": 15830
+        }
+      }
+    },
+    {
+      "id": "ko-jeolla-hyangto-eumsik",
+      "name": "전라도의 향토 음식",
+      "category": "food",
+      "record_count": 74,
+      "columns": [
+        "category",
+        "name"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/전라도의_음식_목록",
+      "updated": "2026-10",
+      "size": 6507,
+      "files": {
+        "csv": {
+          "name": "ko-jeolla-hyangto-eumsik_KO.csv",
+          "size": 1840
+        },
+        "xlsx": {
+          "name": "ko-jeolla-hyangto-eumsik_KO.xlsx",
+          "size": 8131
         }
       }
     },
