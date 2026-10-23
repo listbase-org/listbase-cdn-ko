@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:45.276Z",
-  "total_datasets": 443,
-  "total_records": 448233,
+  "generated": "2026-10-23T02:10:47.468Z",
+  "total_datasets": 444,
+  "total_records": 448304,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -6637,6 +6637,33 @@
         "xlsx": {
           "name": "ko-nara-ireum-hanja_KO.xlsx",
           "size": 16883
+        }
+      }
+    },
+    {
+      "id": "ko-beommu-janggwan",
+      "name": "대한민국의 역대 법무부 장관",
+      "category": "law",
+      "record_count": 71,
+      "columns": [
+        "office",
+        "term",
+        "name",
+        "took_office",
+        "left_office",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_법무부_장관",
+      "updated": "2026-10",
+      "size": 17760,
+      "files": {
+        "csv": {
+          "name": "ko-beommu-janggwan_KO.csv",
+          "size": 7242
+        },
+        "xlsx": {
+          "name": "ko-beommu-janggwan_KO.xlsx",
+          "size": 10107
         }
       }
     },

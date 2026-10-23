@@ -1,0 +1,624 @@
+{
+  "id": "ko-beommu-janggwan",
+  "name": "대한민국의 역대 법무부 장관",
+  "title": "대한민국의 역대 법무부 장관",
+  "description": "1948년 정부 수립 이후 대한민국 법무부의 역대 장관 목록 (대수, 이름, 취임일, 퇴임일, 정부).",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_법무부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_법무부_장관",
+  "updated": "2026-10",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "took_office",
+      "label": "Took Office",
+      "type": "string"
+    },
+    {
+      "key": "left_office",
+      "label": "Left Office",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "법무부 장관",
+      "term": "제1대",
+      "name": "이인",
+      "took_office": "1948년 8월 2일",
+      "left_office": "1949년 6월 5일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제2대",
+      "name": "권승렬",
+      "took_office": "1949년 6월 6일",
+      "left_office": "1950년 5월 21일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제3대",
+      "name": "이우익",
+      "took_office": "1950년 5월 22일",
+      "left_office": "1950년 11월 22일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제4대",
+      "name": "김준연",
+      "took_office": "1950년 11월 23일",
+      "left_office": "1951년 5월 6일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제5대",
+      "name": "조진만",
+      "took_office": "1951년 5월 7일",
+      "left_office": "1952년 3월 4일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제6대",
+      "name": "서상환",
+      "took_office": "1952년 3월 5일",
+      "left_office": "1954년 6월 29일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제7대",
+      "name": "조용순",
+      "took_office": "1954년 6월 30일",
+      "left_office": "1955년 9월 15일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제8대",
+      "name": "이호",
+      "took_office": "1955년 9월 16일",
+      "left_office": "1958년 2월 19일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제9대",
+      "name": "홍진기",
+      "took_office": "1958년 2월 20일",
+      "left_office": "1960년 3월 23일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제10대",
+      "name": "권승렬",
+      "took_office": "1960년 4월 25일",
+      "left_office": "1960년 8월 19일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제11대",
+      "name": "조재천",
+      "took_office": "1960년 8월 23일",
+      "left_office": "1961년 5월 2일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제12대",
+      "name": "이병하",
+      "took_office": "1961년 5월 3일",
+      "left_office": "1961년 5월 18일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제13대",
+      "name": "고원증",
+      "took_office": "1961년 5월 19일",
+      "left_office": "1962년 1월 8일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제14대",
+      "name": "조병일",
+      "took_office": "1962년 1월 9일",
+      "left_office": "1963년 1월 31일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제15대",
+      "name": "장영순",
+      "took_office": "1963년 2월 1일",
+      "left_office": "1963년 4월 21일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제16대",
+      "name": "민복기",
+      "took_office": "1963년 4월 22일",
+      "left_office": "1963년 12월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제17대",
+      "name": "민복기",
+      "took_office": "1963년 12월 17일",
+      "left_office": "1964년 5월 10일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제18대",
+      "name": "민복기",
+      "took_office": "1964년 5월 11일",
+      "left_office": "1966년 9월 25일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제19대",
+      "name": "권오병",
+      "took_office": "1966년 9월 26일",
+      "left_office": "1968년 5월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제20대",
+      "name": "이호",
+      "took_office": "1968년 5월 21일",
+      "left_office": "1970년 12월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제21대",
+      "name": "배영호",
+      "took_office": "1970년 12월 21일",
+      "left_office": "1971년 6월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제22대",
+      "name": "신직수",
+      "took_office": "1971년 6월 4일",
+      "left_office": "1973년 12월 2일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제23대",
+      "name": "이봉성",
+      "took_office": "1973년 12월 3일",
+      "left_office": "1974년 9월 17일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제24대",
+      "name": "황산덕",
+      "took_office": "1974년 9월 18일",
+      "left_office": "1975년 12월 18일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제25대",
+      "name": "황산덕",
+      "took_office": "1975년 12월 19일",
+      "left_office": "1976년 12월 3일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제26대",
+      "name": "이선중",
+      "took_office": "1976년 12월 4일",
+      "left_office": "1978년 12월 21일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제27대",
+      "name": "김치열",
+      "took_office": "1978년 12월 22일",
+      "left_office": "1979년 12월 13일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제28대",
+      "name": "백상기",
+      "took_office": "1979년 12월 14일",
+      "left_office": "1980년 5월 21일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제29대",
+      "name": "오탁근",
+      "took_office": "1980년 5월 22일",
+      "left_office": "1980년 9월 1일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제30대",
+      "name": "오탁근",
+      "took_office": "1980년 9월 2일",
+      "left_office": "1981년 4월 9일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제31대",
+      "name": "이종원",
+      "took_office": "1981년 4월 10일",
+      "left_office": "1982년 5월 20일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제32대",
+      "name": "정치근",
+      "took_office": "1982년 5월 21일",
+      "left_office": "1982년 6월 23일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제33대",
+      "name": "배명인",
+      "took_office": "1982년 6월 24일",
+      "left_office": "1985년 2월 18일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제34대",
+      "name": "김석휘",
+      "took_office": "1985년 2월 19일",
+      "left_office": "1985년 7월 15일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제35대",
+      "name": "김성기",
+      "took_office": "1985년 7월 16일",
+      "left_office": "1987년 5월 25일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제36대",
+      "name": "정해창",
+      "took_office": "1987년 5월 26일",
+      "left_office": "1988년 2월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제37대",
+      "name": "정해창",
+      "took_office": "1988년 2월 25일",
+      "left_office": "1988년 12월 4일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제38대",
+      "name": "허형구",
+      "took_office": "1988년 12월 5일",
+      "left_office": "1990년 3월 18일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제39대",
+      "name": "이종남",
+      "took_office": "1990년 3월 19일",
+      "left_office": "1991년 5월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제40대",
+      "name": "김기춘",
+      "took_office": "1991년 5월 27일",
+      "left_office": "1992년 10월 8일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제41대",
+      "name": "이정우",
+      "took_office": "1992년 10월 9일",
+      "left_office": "1993년 2월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제42대",
+      "name": "박희태",
+      "took_office": "1993년 2월 26일",
+      "left_office": "1993년 3월 7일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제43대",
+      "name": "김두희",
+      "took_office": "1993년 3월 8일",
+      "left_office": "1994년 12월 23일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제44대",
+      "name": "안우만",
+      "took_office": "1994년 12월 24일",
+      "left_office": "1997년 3월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제45대",
+      "name": "최상엽",
+      "took_office": "1997년 3월 6일",
+      "left_office": "1997년 8월 4일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제46대",
+      "name": "김종구",
+      "took_office": "1997년 8월 5일",
+      "left_office": "1998년 3월 2일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제47대",
+      "name": "박상천",
+      "took_office": "1998년 3월 3일",
+      "left_office": "1999년 5월 23일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제48대",
+      "name": "김태정",
+      "took_office": "1999년 5월 24일",
+      "left_office": "1999년 6월 7일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제49대",
+      "name": "김정길",
+      "took_office": "1999년 6월 8일",
+      "left_office": "2001년 5월 20일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제50대",
+      "name": "안동수",
+      "took_office": "2001년 5월 21일",
+      "left_office": "2001년 5월 23일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제51대",
+      "name": "최경원",
+      "took_office": "2001년 5월 24일",
+      "left_office": "2002년 1월 28일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제52대",
+      "name": "송정호",
+      "took_office": "2002년 1월 29일",
+      "left_office": "2002년 7월 10일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제53대",
+      "name": "김정길",
+      "took_office": "2002년 7월 11일",
+      "left_office": "2002년 11월 5일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제54대",
+      "name": "심상명",
+      "took_office": "2002년 11월 9일",
+      "left_office": "2003년 2월 26일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제55대",
+      "name": "강금실",
+      "took_office": "2003년 2월 27일",
+      "left_office": "2004년 7월 28일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제56대",
+      "name": "김승규",
+      "took_office": "2004년 7월 29일",
+      "left_office": "2005년 6월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제57대",
+      "name": "천정배",
+      "took_office": "2005년 6월 29일",
+      "left_office": "2006년 7월 26일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제58대",
+      "name": "김성호",
+      "took_office": "2006년 8월 28일",
+      "left_office": "2007년 9월 3일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제59대",
+      "name": "정성진",
+      "took_office": "2007년 9월 4일",
+      "left_office": "2008년 2월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제60대",
+      "name": "김경한",
+      "took_office": "2008년 2월 29일",
+      "left_office": "2009년 9월 29일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제61대",
+      "name": "이귀남",
+      "took_office": "2009년 9월 30일",
+      "left_office": "2011년 8월 10일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제62대",
+      "name": "권재진",
+      "took_office": "2011년 8월 12일",
+      "left_office": "2013년 3월 11일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제63대",
+      "name": "황교안",
+      "took_office": "2013년 3월 11일",
+      "left_office": "2015년 6월 13일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제64대",
+      "name": "김현웅",
+      "took_office": "2015년 7월 9일",
+      "left_office": "2016년 11월 29일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제65대",
+      "name": "박상기",
+      "took_office": "2017년 7월 19일",
+      "left_office": "2019년 9월 8일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제66대",
+      "name": "조국",
+      "took_office": "2019년 9월 9일",
+      "left_office": "2019년 10월 14일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제67대",
+      "name": "추미애",
+      "took_office": "2020년 1월 2일",
+      "left_office": "2021년 1월 27일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제68년",
+      "name": "박범계",
+      "took_office": "2021년 1월 28일",
+      "left_office": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제69대",
+      "name": "한동훈",
+      "took_office": "2022년 5월 17일",
+      "left_office": "2023년 12월 21일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제70대",
+      "name": "박성재",
+      "took_office": "2024년 2월 20일",
+      "left_office": "2025년 6월 4일[내용 1]",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "법무부 장관",
+      "term": "제71대",
+      "name": "정성호",
+      "took_office": "2025년 7월 18일",
+      "left_office": "2026년 8월 24일",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 법무부 장관 - Free Download",
+    "description": "1948년 정부 수립 이후 대한민국 법무부의 역대 장관 목록 (대수, 이름, 취임일, 퇴임일, 정부). Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 법무부 장관 | ListBase",
+    "seo_description": "Download 대한민국의 역대 법무부 장관 — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_법무부_장관"
+    ]
+  }
+}
