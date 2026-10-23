@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:40.575Z",
-  "total_datasets": 441,
-  "total_records": 448170,
+  "generated": "2026-10-23T02:10:42.833Z",
+  "total_datasets": 442,
+  "total_records": 448192,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -9663,6 +9663,36 @@
         "xlsx": {
           "name": "ko-upyeonbeonho_KO.xlsx",
           "size": 1879975
+        }
+      }
+    },
+    {
+      "id": "ko-ingong-wiseong",
+      "name": "대한민국의 인공위성",
+      "category": "science",
+      "record_count": 22,
+      "columns": [
+        "name",
+        "launch_date_utc",
+        "developer",
+        "launch_vehicle",
+        "launch_site",
+        "orbit",
+        "mission",
+        "operator",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_인공위성_목록",
+      "updated": "2026-10",
+      "size": 10102,
+      "files": {
+        "csv": {
+          "name": "ko-ingong-wiseong_KO.csv",
+          "size": 4080
+        },
+        "xlsx": {
+          "name": "ko-ingong-wiseong_KO.xlsx",
+          "size": 8936
         }
       }
     },

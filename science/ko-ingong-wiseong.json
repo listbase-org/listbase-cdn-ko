@@ -1,0 +1,313 @@
+{
+  "id": "ko-ingong-wiseong",
+  "name": "대한민국의 인공위성",
+  "title": "대한민국의 인공위성",
+  "description": "대한민국이 개발·운용한 인공위성 목록 (발사일, 개발기관, 발사체, 궤도, 임무).",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_인공위성_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_인공위성_목록",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "launch_date_utc",
+      "label": "Launch Date Utc",
+      "type": "string"
+    },
+    {
+      "key": "developer",
+      "label": "Developer",
+      "type": "string"
+    },
+    {
+      "key": "launch_vehicle",
+      "label": "Launch Vehicle",
+      "type": "string"
+    },
+    {
+      "key": "launch_site",
+      "label": "Launch Site",
+      "type": "string"
+    },
+    {
+      "key": "orbit",
+      "label": "Orbit",
+      "type": "string"
+    },
+    {
+      "key": "mission",
+      "label": "Mission",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "우리별1호",
+      "launch_date_utc": "1992년 8월11일",
+      "developer": "SaTReC",
+      "launch_vehicle": "아리안 4 (아리안스페이스)",
+      "launch_site": "기아나 우주 센터",
+      "orbit": "저궤도",
+      "mission": "위성제작기술습득",
+      "operator": "SaTReC",
+      "note": "임무종료"
+    },
+    {
+      "name": "우리별2호 (KITSAT-2)",
+      "launch_date_utc": "1993년 9월26일",
+      "developer": "SaTReC",
+      "launch_vehicle": "아리안 4 (아리안스페이스)",
+      "launch_site": "기아나 우주센터",
+      "orbit": "저궤도",
+      "mission": "소형위성기술습득",
+      "operator": "SaTReC",
+      "note": "임무종료"
+    },
+    {
+      "name": "무궁화1호 (KOREASAT-1)",
+      "launch_date_utc": "1995년 8월5일",
+      "developer": "록히드 마틴",
+      "launch_vehicle": "델타 II (맥도넬 더글라스)",
+      "launch_site": "케이프커내버럴 공군기지",
+      "orbit": "정지궤도",
+      "mission": "통신, 방송",
+      "operator": "KT",
+      "note": "임무종료"
+    },
+    {
+      "name": "무궁화2호 (KOREASAT-2)",
+      "launch_date_utc": "1996년 1월14일",
+      "developer": "록히드 마틴",
+      "launch_vehicle": "델타 II (맥도넬 더글라스)",
+      "launch_site": "케이프커내버럴 공군기지",
+      "orbit": "정지궤도",
+      "mission": "통신, 방송",
+      "operator": "KT",
+      "note": "임무종료"
+    },
+    {
+      "name": "우리별3호 (KITSAT-3)",
+      "launch_date_utc": "1999년 5월26일",
+      "developer": "SaTReC",
+      "launch_vehicle": "PSLV-C2 (인도)",
+      "launch_site": "사티시다완 우주센터",
+      "orbit": "저궤도",
+      "mission": "지상 및 과학관측",
+      "operator": "SaTReC",
+      "note": "임무종료"
+    },
+    {
+      "name": "무궁화3호 (KOREASAT-3)",
+      "launch_date_utc": "1999년 9월4일",
+      "developer": "록히드 마틴",
+      "launch_vehicle": "아리안 4 (아리안스페이스)",
+      "launch_site": "기아나 우주센터",
+      "orbit": "정지궤도",
+      "mission": "통신, 방송",
+      "operator": "KT",
+      "note": "운용중(ABS-7)"
+    },
+    {
+      "name": "아리랑1호 (KOMPSAT-1)",
+      "launch_date_utc": "1999년 12월21일",
+      "developer": "KARI",
+      "launch_vehicle": "타우루스 (오비탈 사이언스)",
+      "launch_site": "반덴버그 공군기지",
+      "orbit": "태양동기",
+      "mission": "지상, 해양, 과학관측",
+      "operator": "KARI",
+      "note": "임무종료"
+    },
+    {
+      "name": "과학기술위성1호 (STSAT-1)",
+      "launch_date_utc": "2003년 9월27일",
+      "developer": "SaTReC",
+      "launch_vehicle": "코스모스 3M (팔료트)",
+      "launch_site": "플레세츠크 우주기지",
+      "orbit": "태양동기",
+      "mission": "우주환경 측정",
+      "operator": "SaTReC",
+      "note": "임무종료"
+    },
+    {
+      "name": "한별 (MBSat)",
+      "launch_date_utc": "2004년 3월13일",
+      "developer": "에스에스로랄",
+      "launch_vehicle": "아틀라스 III-A (록히드 마틴)",
+      "launch_site": "케이프커내버럴 공군기지",
+      "orbit": "정지 궤도",
+      "mission": "모바일방송",
+      "operator": "SK텔링크, MBCO",
+      "note": "한일공동운용"
+    },
+    {
+      "name": "아리랑2호 (KOMPSAT-2)",
+      "launch_date_utc": "2006년 7월28일",
+      "developer": "KARI",
+      "launch_vehicle": "로콧 (유로콧)",
+      "launch_site": "플레세츠크 우주 기지",
+      "orbit": "태양동기",
+      "mission": "지상관측",
+      "operator": "KARI",
+      "note": "임무종료"
+    },
+    {
+      "name": "무궁화5호 (KOREASAT-5)",
+      "launch_date_utc": "2006년 8월22일",
+      "developer": "알카텔",
+      "launch_vehicle": "제니트 3SL (씨런치)",
+      "launch_site": "오디세이호(해상발사)",
+      "orbit": "정지궤도",
+      "mission": "통신, 방송",
+      "operator": "KT, 국방과학연구소",
+      "note": "운용중"
+    },
+    {
+      "name": "천리안 (COMS-1)",
+      "launch_date_utc": "2010년 6월 27일",
+      "developer": "KARI",
+      "launch_vehicle": "아리안 5 (아리안스페이스)",
+      "launch_site": "기아나 우주센터",
+      "orbit": "정지궤도",
+      "mission": "통신, 해양, 기상",
+      "operator": "KARI",
+      "note": "운용중"
+    },
+    {
+      "name": "올레1호 (KOREASAT-6)",
+      "launch_date_utc": "2010년 12월28일",
+      "developer": "TAS, 오비탈 사이언스",
+      "launch_vehicle": "아리안 5 ECA (아리안스페이스)",
+      "launch_site": "기아나 우주센터",
+      "orbit": "정지궤도",
+      "mission": "통신, 방송",
+      "operator": "KT",
+      "note": "운용중"
+    },
+    {
+      "name": "아리랑3호 (KOMPSAT-3)",
+      "launch_date_utc": "2012년 5월18일",
+      "developer": "KARI",
+      "launch_vehicle": "H-IIA (미쓰비시 중공업)",
+      "launch_site": "다네가시마 우주 센터",
+      "orbit": "태양동기",
+      "mission": "지상 관측",
+      "operator": "KARI",
+      "note": "운용중"
+    },
+    {
+      "name": "나로과학위성 (STSAT-2C)",
+      "launch_date_utc": "2013년 1월30일",
+      "developer": "SaTReC",
+      "launch_vehicle": "나로호 (KARI)",
+      "launch_site": "나로 우주센터",
+      "orbit": "태양동기",
+      "mission": "저궤도 인공위성 궤도진입기술 습득",
+      "operator": "SaTReC",
+      "note": "임무종료"
+    },
+    {
+      "name": "아리랑5호 (KOMPSAT-5)",
+      "launch_date_utc": "2013년 8월22일",
+      "developer": "KARI",
+      "launch_vehicle": "드네프르 (유즈노예)",
+      "launch_site": "야스니 발사장",
+      "orbit": "태양동기",
+      "mission": "지상관측",
+      "operator": "KARI",
+      "note": "운용중"
+    },
+    {
+      "name": "과학기술위성3호 (STSAT-3)",
+      "launch_date_utc": "2013년 11월21일",
+      "developer": "KARI",
+      "launch_vehicle": "드네프르 (유즈노예)",
+      "launch_site": "야스니 발사장",
+      "orbit": "태양동기",
+      "mission": "우주/지구 과학관측",
+      "operator": "KARI",
+      "note": "운용중"
+    },
+    {
+      "name": "아리랑3A호 (KOMPSAT-3A)",
+      "launch_date_utc": "2015년 3월26일",
+      "developer": "KARI",
+      "launch_vehicle": "드네프르 (유즈노예)",
+      "launch_site": "야스니 발사장",
+      "orbit": "태양동기",
+      "mission": "지상관측",
+      "operator": "KARI",
+      "note": "운용중"
+    },
+    {
+      "name": "성능검증위성 (PVSAU)",
+      "launch_date_utc": "2022년 6월21일",
+      "developer": "AP위성",
+      "launch_vehicle": "누리호 (KSLV-2)",
+      "launch_site": "나로 우주센터",
+      "orbit": "태양동기",
+      "mission": "지상관측",
+      "operator": "KARI",
+      "note": "임무종료"
+    },
+    {
+      "name": "대한민국 항공위성1호",
+      "launch_date_utc": "2022년 6월23일",
+      "developer": "GPS위성",
+      "launch_vehicle": "아리안 5 (아리안스페이스)",
+      "launch_site": "기아나 우주센터",
+      "orbit": "태양동기",
+      "mission": "지상관측",
+      "operator": "KARI",
+      "note": "점검중"
+    },
+    {
+      "name": "차세대중형위성 3호 (CAS500-3)",
+      "launch_date_utc": "2025년 11월 27일",
+      "developer": "KARI",
+      "launch_vehicle": "누리호 (KSLV-4)",
+      "launch_site": "나로 우주센터",
+      "orbit": "우주자기장과 플라즈마 측정",
+      "mission": "우주관측",
+      "operator": "KARI",
+      "note": "운용중"
+    },
+    {
+      "name": "초소형군집위성2~6호 (CAS500-3)",
+      "launch_date_utc": "2026년 10월 7일",
+      "developer": "KARI",
+      "launch_vehicle": "누리호 (KSLV-5)",
+      "launch_site": "나로 우주센터",
+      "orbit": "재난 재해 및 환경관측",
+      "mission": "지상관측",
+      "operator": "한화에어로스페이스",
+      "note": "운용중"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 인공위성 - Free Download",
+    "description": "대한민국이 개발·운용한 인공위성 목록 (발사일, 개발기관, 발사체, 궤도, 임무). Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 인공위성 | ListBase",
+    "seo_description": "Download 대한민국의 인공위성 — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_인공위성_목록"
+    ]
+  }
+}
