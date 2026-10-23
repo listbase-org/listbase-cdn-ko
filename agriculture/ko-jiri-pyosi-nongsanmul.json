@@ -1,0 +1,877 @@
+{
+  "id": "ko-jiri-pyosi-nongsanmul",
+  "name": "대한민국의 지리적 표시 농산물",
+  "title": "대한민국의 지리적 표시 농산물",
+  "description": "대한민국에 등록된 지리적 표시 농산물 목록 (등록 번호, 품명, 등록일, 소재지).",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_지리적_표시",
+  "updated": "2026-10",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "registered",
+      "label": "Registered",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "보성 녹차",
+      "registered": "2002년 1월 25일",
+      "location": "전라남도 보성군",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "하동 녹차",
+      "registered": "2003년 5월 2일",
+      "location": "경상남도 하동군",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "고창 복분자주",
+      "registered": "2004년 1월 15일",
+      "location": "전북특별자치도 고창군",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "name": "서산 6쪽마늘",
+      "registered": "2005년 3월 5일",
+      "location": "충청남도 서산시",
+      "note": "등록 취소"
+    },
+    {
+      "no": 5,
+      "name": "영양 고춧가루",
+      "registered": "2005년 3월 5일",
+      "location": "경상북도 영양군",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "의성 마늘",
+      "registered": "2005년 7월 18일",
+      "location": "경상북도 의성군",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "괴산 고추",
+      "registered": "2005년 8월 25일",
+      "location": "충청북도 괴산군",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "순창 전통고추장",
+      "registered": "2005년 10월 14일",
+      "location": "전북특별자치도 순창군",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "괴산 고춧가루",
+      "registered": "2005년 11월 7일",
+      "location": "충청북도 괴산군",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "성주 참외",
+      "registered": "2005년 12월 1일",
+      "location": "경상북도 성주군",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "해남 겨울배추",
+      "registered": "2005년 12월 26일",
+      "location": "전라남도 해남군",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "이천 쌀",
+      "registered": "2005년 12월 26일",
+      "location": "경기도 이천시",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "철원 쌀",
+      "registered": "2005년 12월 26일",
+      "location": "강원특별자치도 철원군",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "고흥 유자",
+      "registered": "2006년 5월 8일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "홍천 찰옥수수",
+      "registered": "2006년 6월 5일",
+      "location": "강원특별자치도 홍천군",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "강화 약쑥",
+      "registered": "2006년 8월 7일",
+      "location": "인천광역시 강화군",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "name": "횡성 한우고기",
+      "registered": "2006년 9월 11일",
+      "location": "강원특별자치도 횡성군",
+      "note": ""
+    },
+    {
+      "no": 18,
+      "name": "제주 돼지고기",
+      "registered": "2006년 9월 19일",
+      "location": "제주특별자치도",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "name": "고려 홍삼",
+      "registered": "2006년 12월 7일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 20,
+      "name": "고려 백삼",
+      "registered": "2006년 12월 7일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 21,
+      "name": "고려 태극삼",
+      "registered": "2006년 12월 7일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "안동 포",
+      "registered": "2006년 12월 7일",
+      "location": "경상북도 안동시",
+      "note": "2012년 등록 취소"
+    },
+    {
+      "no": 23,
+      "name": "충주 사과",
+      "registered": "2006년 12월 11일",
+      "location": "충청북도 충주시",
+      "note": ""
+    },
+    {
+      "no": 24,
+      "name": "밀양 얼음골사과",
+      "registered": "2006년 12월 29일",
+      "location": "경상남도 밀양시",
+      "note": ""
+    },
+    {
+      "no": 25,
+      "name": "한산 모시",
+      "registered": "2006년 12월 29일",
+      "location": "충청남도 서천군",
+      "note": ""
+    },
+    {
+      "no": 26,
+      "name": "진도 홍주",
+      "registered": "2007년 1월 23일",
+      "location": "전라남도 진도군",
+      "note": ""
+    },
+    {
+      "no": 27,
+      "name": "정선 황기",
+      "registered": "2007년 1월 29일",
+      "location": "강원특별자치도 정선군",
+      "note": ""
+    },
+    {
+      "no": 28,
+      "name": "남해 마늘",
+      "registered": "2007년 5월 1일",
+      "location": "경상남도 남해군",
+      "note": ""
+    },
+    {
+      "no": 29,
+      "name": "단양 마늘",
+      "registered": "2007년 5월 4일",
+      "location": "충청북도 단양군",
+      "note": ""
+    },
+    {
+      "no": 30,
+      "name": "창녕 양파",
+      "registered": "2007년 6월 5일",
+      "location": "경상남도 창녕군",
+      "note": ""
+    },
+    {
+      "no": 31,
+      "name": "무안 양파",
+      "registered": "2007년 7월 2일",
+      "location": "전라남도 무안군",
+      "note": ""
+    },
+    {
+      "no": 32,
+      "name": "여주 쌀",
+      "registered": "2007년 7월 11일",
+      "location": "경기도 여주시",
+      "note": ""
+    },
+    {
+      "no": 33,
+      "name": "무안 백련차",
+      "registered": "2007년 7월 11일",
+      "location": "전라남도 무안군",
+      "note": ""
+    },
+    {
+      "no": 34,
+      "name": "청송 사과",
+      "registered": "2007년 8월 27일",
+      "location": "경상북도 청송군",
+      "note": ""
+    },
+    {
+      "no": 35,
+      "name": "고창 복분자",
+      "registered": "2007년 8월 27일",
+      "location": "전북특별자치도 고창군",
+      "note": ""
+    },
+    {
+      "no": 36,
+      "name": "광양 매실",
+      "registered": "2007년 8월 27일",
+      "location": "전라남도 광양시",
+      "note": ""
+    },
+    {
+      "no": 37,
+      "name": "정선 찰옥수수",
+      "registered": "2007년 8월 27일",
+      "location": "강원특별자치도 정선군",
+      "note": ""
+    },
+    {
+      "no": 38,
+      "name": "진부 당귀",
+      "registered": "2007년 10월 1일",
+      "location": "강원특별자치도 평창군",
+      "note": ""
+    },
+    {
+      "no": 39,
+      "name": "고려 수삼",
+      "registered": "2007년 12월 20일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 40,
+      "name": "청양 고추",
+      "registered": "2007년 12월 20일",
+      "location": "충청남도 청양군",
+      "note": ""
+    },
+    {
+      "no": 41,
+      "name": "청양 고춧가루",
+      "registered": "2007년 12월 20일",
+      "location": "충청남도 청양군",
+      "note": ""
+    },
+    {
+      "no": 42,
+      "name": "해남 고구마",
+      "registered": "2008년 1월 30일",
+      "location": "전라남도 해남군",
+      "note": ""
+    },
+    {
+      "no": 43,
+      "name": "영암 무화과",
+      "registered": "2008년 1월 30일",
+      "location": "전라남도 영암군",
+      "note": ""
+    },
+    {
+      "no": 44,
+      "name": "여주 고구마",
+      "registered": "2008년 3월 5일",
+      "location": "경기도 여주시",
+      "note": "등록 취소"
+    },
+    {
+      "no": 45,
+      "name": "보성 삼베",
+      "registered": "2008년 3월 5일",
+      "location": "전라남도 보성군",
+      "note": ""
+    },
+    {
+      "no": 46,
+      "name": "함안 수박",
+      "registered": "2008년 4월 7일",
+      "location": "경상남도 함안군",
+      "note": ""
+    },
+    {
+      "no": 47,
+      "name": "고려 인삼제품",
+      "registered": "2008년 6월 16일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 48,
+      "name": "고려 홍삼제품",
+      "registered": "2008년 6월 16일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 49,
+      "name": "군산 찰쌀·보리쌀",
+      "registered": "2008년 7월 30일",
+      "location": "전북특별자치도 군산시",
+      "note": ""
+    },
+    {
+      "no": 50,
+      "name": "제주 녹차",
+      "registered": "2008년 10월 16일",
+      "location": "제주특별자치도",
+      "note": ""
+    },
+    {
+      "no": 51,
+      "name": "홍천 한우",
+      "registered": "2008년 10월 16일",
+      "location": "강원특별자치도 홍천군",
+      "note": ""
+    },
+    {
+      "no": 52,
+      "name": "영월 고추",
+      "registered": "2008년 12월 19일",
+      "location": "강원특별자치도 영월군",
+      "note": ""
+    },
+    {
+      "no": 53,
+      "name": "영천 포도",
+      "registered": "2009년 1월 22일",
+      "location": "경상북도 영천시",
+      "note": ""
+    },
+    {
+      "no": 54,
+      "name": "영주 사과",
+      "registered": "2009년 1월 22일",
+      "location": "경상북도 영주시",
+      "note": ""
+    },
+    {
+      "no": 55,
+      "name": "서생 간절곶 배",
+      "registered": "2009년 3월 27일",
+      "location": "울산광역시 울주군",
+      "note": ""
+    },
+    {
+      "no": 56,
+      "name": "무주 사과",
+      "registered": "2009년 4월 3일",
+      "location": "전북특별자치도 무주군",
+      "note": ""
+    },
+    {
+      "no": 57,
+      "name": "함평 한우",
+      "registered": "2009년 9월 14일",
+      "location": "전라남도 함평군",
+      "note": ""
+    },
+    {
+      "no": 58,
+      "name": "삼척 마늘",
+      "registered": "2009년 9월 14일",
+      "location": "강원특별자치도 삼척시",
+      "note": ""
+    },
+    {
+      "no": 59,
+      "name": "김천 자두",
+      "registered": "2009년 12월 17일",
+      "location": "경상북도 김천시",
+      "note": ""
+    },
+    {
+      "no": 60,
+      "name": "영동 포도",
+      "registered": "2009년 12월 17일",
+      "location": "충청북도 영동군",
+      "note": ""
+    },
+    {
+      "no": 61,
+      "name": "진도 대파",
+      "registered": "2010년 3월 2일",
+      "location": "전라남도 진도군",
+      "note": ""
+    },
+    {
+      "no": 62,
+      "name": "김천 포도",
+      "registered": "2010년 3월 2일",
+      "location": "경상북도 김천시",
+      "note": ""
+    },
+    {
+      "no": 63,
+      "name": "원주 치악산 복숭아",
+      "registered": "2010년 3월 25일",
+      "location": "강원특별자치도 원주시",
+      "note": ""
+    },
+    {
+      "no": 64,
+      "name": "영월 고춧가루",
+      "registered": "2010년 3월 25일",
+      "location": "강원특별자치도 영월군",
+      "note": ""
+    },
+    {
+      "no": 65,
+      "name": "영광 찰쌀·보리쌀",
+      "registered": "2010년 3월 25일",
+      "location": "전라남도 영광군",
+      "note": ""
+    },
+    {
+      "no": 66,
+      "name": "예산 사과",
+      "registered": "2010년 3월 25일",
+      "location": "충청남도 예산군",
+      "note": ""
+    },
+    {
+      "no": 67,
+      "name": "여수 돌산 갓",
+      "registered": "2010년 7월 12일",
+      "location": "전라남도 여수시",
+      "note": ""
+    },
+    {
+      "no": 68,
+      "name": "여수 돌산 갓김치",
+      "registered": "2010년 7월 12일",
+      "location": "전라남도 여수시",
+      "note": ""
+    },
+    {
+      "no": 69,
+      "name": "청도 한재미나리",
+      "registered": "2010년 8월 24일",
+      "location": "경상북도 청도군",
+      "note": ""
+    },
+    {
+      "no": 70,
+      "name": "담양 딸기",
+      "registered": "2010년 11월 8일",
+      "location": "전라남도 담양군",
+      "note": ""
+    },
+    {
+      "no": 71,
+      "name": "보성 웅치 올벼쌀",
+      "registered": "2010년 11월 8일",
+      "location": "전라남도 보성군",
+      "note": ""
+    },
+    {
+      "no": 72,
+      "name": "사천 풋마늘",
+      "registered": "2010년 11월 8일",
+      "location": "경상남도 사천시",
+      "note": ""
+    },
+    {
+      "no": 73,
+      "name": "고령 수박",
+      "registered": "2011년 3월 2일",
+      "location": "경상북도 고령군",
+      "note": ""
+    },
+    {
+      "no": 74,
+      "name": "의령 망개떡",
+      "registered": "2011년 3월 2일",
+      "location": "경상남도 의령군",
+      "note": ""
+    },
+    {
+      "no": 75,
+      "name": "강릉 한과",
+      "registered": "2011년 5월 4일",
+      "location": "강원특별자치도 강릉시",
+      "note": ""
+    },
+    {
+      "no": 76,
+      "name": "금산 깻잎",
+      "registered": "2011년 5월 4일",
+      "location": "충청남도 금산군",
+      "note": ""
+    },
+    {
+      "no": 77,
+      "name": "괴산 찰옥수수",
+      "registered": "2011년 5월 4일",
+      "location": "충청북도 괴산군",
+      "note": ""
+    },
+    {
+      "no": 78,
+      "name": "인제 콩",
+      "registered": "2011년 7월 11일",
+      "location": "강원특별자치도 인제군",
+      "note": ""
+    },
+    {
+      "no": 79,
+      "name": "김포 쌀",
+      "registered": "2011년 7월 11일",
+      "location": "경기도 김포시",
+      "note": ""
+    },
+    {
+      "no": 80,
+      "name": "영광 한우",
+      "registered": "2011년 12월 26일",
+      "location": "전라남도 영광군",
+      "note": ""
+    },
+    {
+      "no": 81,
+      "name": "나주 배",
+      "registered": "2012년 3월 5일",
+      "location": "전라남도 나주시",
+      "note": ""
+    },
+    {
+      "no": 82,
+      "name": "창녕 마늘",
+      "registered": "2012년 3월 5일",
+      "location": "경상남도 창녕군",
+      "note": ""
+    },
+    {
+      "no": 83,
+      "name": "고흥 한우",
+      "registered": "2012년 4월 10일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 84,
+      "name": "진도 검정쌀",
+      "registered": "2012년 4월 10일",
+      "location": "전라남도 진도군",
+      "note": ""
+    },
+    {
+      "no": 85,
+      "name": "거문도 쑥",
+      "registered": "2012년 7월 30일",
+      "location": "전라남도 여수시",
+      "note": ""
+    },
+    {
+      "no": 86,
+      "name": "부산 대저 토마토",
+      "registered": "2012년 9월 24일",
+      "location": "부산광역시 강서구",
+      "note": ""
+    },
+    {
+      "no": 87,
+      "name": "안성 배",
+      "registered": "2013년 2월 7일",
+      "location": "경기도 안성시",
+      "note": ""
+    },
+    {
+      "no": 88,
+      "name": "진영 단감",
+      "registered": "2013년 8월 27일",
+      "location": "경상남도 김해시",
+      "note": ""
+    },
+    {
+      "no": 89,
+      "name": "서산 팔봉산 감자",
+      "registered": "2013년 11월 13일",
+      "location": "충청남도 서산시",
+      "note": ""
+    },
+    {
+      "no": 90,
+      "name": "영광 고추",
+      "registered": "2013년 12월 10일",
+      "location": "전라남도 영광군",
+      "note": ""
+    },
+    {
+      "no": 91,
+      "name": "영광 고춧가루",
+      "registered": "2013년 12월 10일",
+      "location": "전라남도 영광군",
+      "note": ""
+    },
+    {
+      "no": 92,
+      "name": "천안 배",
+      "registered": "2013년 12월 10일",
+      "location": "충청남도 천안시",
+      "note": ""
+    },
+    {
+      "no": 93,
+      "name": "고령 감자",
+      "registered": "2013년 12월 10일",
+      "location": "경상북도 고령군",
+      "note": ""
+    },
+    {
+      "no": 94,
+      "name": "고흥 석류",
+      "registered": "2014년 2월 6일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 95,
+      "name": "진도 울금",
+      "registered": "2014년 5월 7일",
+      "location": "전라남도 진도군",
+      "note": ""
+    },
+    {
+      "no": 96,
+      "name": "포항 시금치",
+      "registered": "2014년 12월 30일",
+      "location": "경상북도 포항시",
+      "note": ""
+    },
+    {
+      "no": 97,
+      "name": "군산 쌀",
+      "registered": "2015년 3월 30일",
+      "location": "전북특별자치도 군산시",
+      "note": ""
+    },
+    {
+      "no": 98,
+      "name": "안성 쌀",
+      "registered": "2015년 3월 30일",
+      "location": "경기도 안성시",
+      "note": ""
+    },
+    {
+      "no": 99,
+      "name": "고흥 마늘",
+      "registered": "2015년 3월 30일",
+      "location": "전라남도 고흥군",
+      "note": ""
+    },
+    {
+      "no": 100,
+      "name": "제주 한라봉",
+      "registered": "2015년 7월 8일",
+      "location": "제주특별자치도",
+      "note": ""
+    },
+    {
+      "no": 101,
+      "name": "안성 한우",
+      "registered": "2016년 2월 12일",
+      "location": "경기도 안성시",
+      "note": ""
+    },
+    {
+      "no": 102,
+      "name": "고려 흑삼",
+      "registered": "2016년 2월 12일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 103,
+      "name": "고려 흑삼제품",
+      "registered": "2016년 6월 22일",
+      "location": "전국",
+      "note": ""
+    },
+    {
+      "no": 104,
+      "name": "영광 모싯잎송편",
+      "registered": "2017년 5월 11일",
+      "location": "전라남도 영광군",
+      "note": ""
+    },
+    {
+      "no": 105,
+      "name": "기장 쪽파",
+      "registered": "2018년 3월 19일",
+      "location": "부산광역시 기장군",
+      "note": ""
+    },
+    {
+      "no": 106,
+      "name": "태안 달래",
+      "registered": "2018년 5월 29일",
+      "location": "충청남도 태안군",
+      "note": ""
+    },
+    {
+      "no": 107,
+      "name": "부안 오디",
+      "registered": "2019년 9월 17일",
+      "location": "전북특별자치도 부안군",
+      "note": ""
+    },
+    {
+      "no": 108,
+      "name": "곡성 토란",
+      "registered": "2019년 9월 17일",
+      "location": "전라남도 곡성군",
+      "note": ""
+    },
+    {
+      "no": 109,
+      "name": "양구 시래기",
+      "registered": "2020년 2월 2일",
+      "location": "강원특별자치도 양구군",
+      "note": ""
+    },
+    {
+      "no": 110,
+      "name": "서천 한산 소곡주",
+      "registered": "2021년 9월 13일",
+      "location": "충청남도 서천군",
+      "note": ""
+    },
+    {
+      "no": 111,
+      "name": "보성 키위",
+      "registered": "2022년 11월 7일",
+      "location": "전라남도 보성군",
+      "note": ""
+    },
+    {
+      "no": 112,
+      "name": "곡성 멜론",
+      "registered": "2022년 11월 7일",
+      "location": "전라남도 곡성군",
+      "note": ""
+    },
+    {
+      "no": 113,
+      "name": "청송 사과",
+      "registered": "2023년 5월 15일",
+      "location": "경상북도 청송군",
+      "note": ""
+    },
+    {
+      "no": 114,
+      "name": "예천 참기름",
+      "registered": "2024년 3월 25일",
+      "location": "경상북도 예천군",
+      "note": ""
+    },
+    {
+      "no": 115,
+      "name": "일산 열무",
+      "registered": "2024년 4월 2일",
+      "location": "경기도 고양시",
+      "note": ""
+    },
+    {
+      "no": 116,
+      "name": "고창 수박",
+      "registered": "2024년 9월 20일",
+      "location": "전북특별자치도 고창군",
+      "note": ""
+    },
+    {
+      "no": 117,
+      "name": "창원 단감",
+      "registered": "2025년 6월 17일",
+      "location": "경상남도 창원시",
+      "note": ""
+    },
+    {
+      "no": 118,
+      "name": "밀양 딸기",
+      "registered": "2026년 2월 27일",
+      "location": "경상남도 밀양시",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 지리적 표시 농산물 - Free Download",
+    "description": "대한민국에 등록된 지리적 표시 농산물 목록 (등록 번호, 품명, 등록일, 소재지). Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 지리적 표시 농산물 | ListBase",
+    "seo_description": "Download 대한민국의 지리적 표시 농산물 — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_지리적_표시"
+    ]
+  }
+}
