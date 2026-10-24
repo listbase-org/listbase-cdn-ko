@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:11.068Z",
-  "total_datasets": 448,
-  "total_records": 449060,
+  "generated": "2026-10-24T02:17:19.040Z",
+  "total_datasets": 449,
+  "total_records": 449123,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -3017,6 +3017,30 @@
         "xlsx": {
           "name": "ko-yureop-gukga_KO.xlsx",
           "size": 15830
+        }
+      }
+    },
+    {
+      "id": "ko-gimchi-jongnyu",
+      "name": "김치의 종류",
+      "category": "food",
+      "record_count": 63,
+      "columns": [
+        "name",
+        "type",
+        "description"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/김치",
+      "updated": "2026-10",
+      "size": 12610,
+      "files": {
+        "csv": {
+          "name": "ko-gimchi-jongnyu_KO.csv",
+          "size": 7294
+        },
+        "xlsx": {
+          "name": "ko-gimchi-jongnyu_KO.xlsx",
+          "size": 10024
         }
       }
     },
