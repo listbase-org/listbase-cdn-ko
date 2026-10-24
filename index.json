@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:21.691Z",
-  "total_datasets": 450,
-  "total_records": 449150,
+  "generated": "2026-10-24T02:17:24.363Z",
+  "total_datasets": 451,
+  "total_records": 449190,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -6694,6 +6694,32 @@
         "xlsx": {
           "name": "ko-gicho-hanja_KO.xlsx",
           "size": 40577
+        }
+      }
+    },
+    {
+      "id": "ko-gugeo-romaja-pyogi",
+      "name": "국어의 로마자 표기법 — 한글 자모 대응표",
+      "category": "language",
+      "record_count": 40,
+      "columns": [
+        "jamo",
+        "type",
+        "sound_class",
+        "romanization",
+        "romanization_final"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/국어의_로마자_표기법",
+      "updated": "2026-10",
+      "size": 7972,
+      "files": {
+        "csv": {
+          "name": "ko-gugeo-romaja-pyogi_KO.csv",
+          "size": 1518
+        },
+        "xlsx": {
+          "name": "ko-gugeo-romaja-pyogi_KO.xlsx",
+          "size": 7966
         }
       }
     },

@@ -1,0 +1,331 @@
+{
+  "id": "ko-gugeo-romaja-pyogi",
+  "name": "국어의 로마자 표기법 — 한글 자모 대응표",
+  "title": "국어의 로마자 표기법 — 한글 자모 대응표",
+  "description": "문화체육관광부 고시 국어의 로마자 표기법에 따른 한글 자음·모음의 로마자 대응표입니다 (초성/모음 및 받침 표기).",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/국어의_로마자_표기법",
+  "source_url": "https://ko.wikipedia.org/wiki/국어의_로마자_표기법",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "jamo",
+      "label": "Jamo",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "sound_class",
+      "label": "Sound Class",
+      "type": "string"
+    },
+    {
+      "key": "romanization",
+      "label": "Romanization",
+      "type": "string"
+    },
+    {
+      "key": "romanization_final",
+      "label": "Romanization Final",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jamo": "ㄱ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "g",
+      "romanization_final": "k"
+    },
+    {
+      "jamo": "ㄲ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "kk",
+      "romanization_final": "k"
+    },
+    {
+      "jamo": "ㅋ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "k",
+      "romanization_final": "k"
+    },
+    {
+      "jamo": "ㄷ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "d",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㄸ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "tt",
+      "romanization_final": "(없음)"
+    },
+    {
+      "jamo": "ㅌ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "t",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㅂ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "b",
+      "romanization_final": "p"
+    },
+    {
+      "jamo": "ㅃ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "pp",
+      "romanization_final": "(없음)"
+    },
+    {
+      "jamo": "ㅍ",
+      "type": "자음",
+      "sound_class": "파열음",
+      "romanization": "p",
+      "romanization_final": "p"
+    },
+    {
+      "jamo": "ㅈ",
+      "type": "자음",
+      "sound_class": "파찰음",
+      "romanization": "j",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㅉ",
+      "type": "자음",
+      "sound_class": "파찰음",
+      "romanization": "jj",
+      "romanization_final": "(없음)"
+    },
+    {
+      "jamo": "ㅊ",
+      "type": "자음",
+      "sound_class": "파찰음",
+      "romanization": "ch",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㅅ",
+      "type": "자음",
+      "sound_class": "마찰음",
+      "romanization": "s",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㅆ",
+      "type": "자음",
+      "sound_class": "마찰음",
+      "romanization": "ss",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㅎ",
+      "type": "자음",
+      "sound_class": "마찰음",
+      "romanization": "h",
+      "romanization_final": "t"
+    },
+    {
+      "jamo": "ㄴ",
+      "type": "자음",
+      "sound_class": "비음",
+      "romanization": "n",
+      "romanization_final": "n"
+    },
+    {
+      "jamo": "ㅁ",
+      "type": "자음",
+      "sound_class": "비음",
+      "romanization": "m",
+      "romanization_final": "m"
+    },
+    {
+      "jamo": "ㅇ",
+      "type": "자음",
+      "sound_class": "비음",
+      "romanization": "없음",
+      "romanization_final": "ng"
+    },
+    {
+      "jamo": "ㄹ",
+      "type": "자음",
+      "sound_class": "유음",
+      "romanization": "r",
+      "romanization_final": "l"
+    },
+    {
+      "jamo": "ㅏ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "a",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅓ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "eo",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅗ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "o",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅜ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "u",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅡ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "eu",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅣ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "i",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅐ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "ae",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅔ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "e",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅚ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "oe",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅟ",
+      "type": "모음",
+      "sound_class": "단모음",
+      "romanization": "wi",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅑ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "ya",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅕ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "yeo",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅛ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "yo",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅠ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "yu",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅒ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "yae",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅖ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "ye",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅘ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "wa",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅙ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "wae",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅝ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "wo",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅞ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "we",
+      "romanization_final": ""
+    },
+    {
+      "jamo": "ㅢ",
+      "type": "모음",
+      "sound_class": "이중모음",
+      "romanization": "ui",
+      "romanization_final": ""
+    }
+  ],
+  "meta": {
+    "title": "국어의 로마자 표기법 — 한글 자모 대응표 - Free Download",
+    "description": "문화체육관광부 고시 국어의 로마자 표기법에 따른 한글 자음·모음의 로마자 대응표입니다 (초성/모음 및 받침 표기). Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "국어의 로마자 표기법 — 한글 자모 대응표 | ListBase",
+    "seo_description": "Download 국어의 로마자 표기법 — 한글 자모 대응표 — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/국어의_로마자_표기법"
+    ]
+  }
+}
