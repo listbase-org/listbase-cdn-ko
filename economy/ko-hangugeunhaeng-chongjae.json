@@ -1,0 +1,288 @@
+{
+  "id": "ko-hangugeunhaeng-chongjae",
+  "name": "대한민국 역대 한국은행 총재",
+  "title": "대한민국 역대 한국은행 총재",
+  "description": "한국은행 초대 총재부터 현재까지 역대 총재의 대수, 이름, 임기, 정부 목록입니다.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/한국은행_총재",
+  "source_url": "https://ko.wikipedia.org/wiki/한국은행_총재",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "한국은행 총재",
+      "term_no": "초대",
+      "name": "구용서(具鎔書)",
+      "term": "1950년 6월 5일~1951년 12월 18일",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "2대",
+      "name": "김유택(金裕澤)",
+      "term": "1951년 12월 18일~1956년 12월 12일",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "3대",
+      "name": "김진형(金鎭炯)",
+      "term": "1956년 12월 12일~1960년 5월 21일",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "4대",
+      "name": "배의환(裵義煥)",
+      "term": "1960년 6월 1일~1960년 9월 8일",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "5대",
+      "name": "전예용(全禮鎔)",
+      "term": "1960년 9월 8일~1961년 5월 30일",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "6대",
+      "name": "유창순(劉彰順)",
+      "term": "1961년 5월 30일~1962년 5월 26일",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "7대",
+      "name": "민병도(閔丙燾)",
+      "term": "1962년 5월 26일~1963년 6월 3일",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "8대",
+      "name": "이정환(李廷煥)",
+      "term": "1963년 6월 3일~1963년 12월 26일",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "9대",
+      "name": "김세련(金世鍊)",
+      "term": "1963년 12월 26일~1967년 12월 25일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "10대",
+      "name": "서진수(徐軫銖)",
+      "term": "1967년 12월 29일~1970년 5월 2일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "11대",
+      "name": "김성환(金聖煥)",
+      "term": "1970년 5월 2일~1978년 5월 1일",
+      "government": "제3공화국, 제4공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "12대",
+      "name": "신병현(申秉鉉)",
+      "term": "1978년 5월 2일~1980년 7월 5일",
+      "government": "제4공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "13대",
+      "name": "김준성(金埈成)",
+      "term": "1980년 7월 5일~1982년 1월 4일",
+      "government": "제4공화국, 제5공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "14대",
+      "name": "하영기(河永基)",
+      "term": "1982년 1월 5일~1983년 10월 31일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "15대",
+      "name": "최창락(崔昌洛)",
+      "term": "1983년 10월 31일~1986년 1월 7일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "16대",
+      "name": "박성상(朴聖相)",
+      "term": "1986년 1월 13일~1988년 3월 26일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "17대",
+      "name": "김건(金建)",
+      "term": "1988년 3월 26일~1992년 3월 25일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "18대",
+      "name": "조순(趙淳)",
+      "term": "1992년 3월 26일~1993년 3월 14일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "19대",
+      "name": "김명호(金明浩)",
+      "term": "1993년 3월 15일~1995년 8월 23일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "20대",
+      "name": "이경식(李經植)",
+      "term": "1995년 8월 24일~1998년 3월 5일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "21대",
+      "name": "전철환(全哲煥)",
+      "term": "1998년 3월 6일~2002년 3월 31일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "22대",
+      "name": "박승(朴昇)",
+      "term": "2002년 4월 1일~2006년 3월 31일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "23대",
+      "name": "이성태(李成太)",
+      "term": "2006년 4월 1일~2010년 3월 31일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "24대",
+      "name": "김중수(金仲秀)",
+      "term": "2010년 4월 1일~2014년 3월 31일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "",
+      "name": "",
+      "term": "",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "25대",
+      "name": "이주열(李柱烈)",
+      "term": "2014년 4월 1일~2022년 3월 31일",
+      "government": "박근혜 정부, 문재인 정부",
+      "note": "44년 만에 연임에 성공한 총재"
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "26대",
+      "name": "이주열(李柱烈)",
+      "term": "2014년 4월 1일~2022년 3월 31일",
+      "government": "",
+      "note": "44년 만에 연임에 성공한 총재"
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "27대",
+      "name": "이창용(李昌鏞)",
+      "term": "2022년 4월 22일~2026년 4월 20일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "한국은행 총재",
+      "term_no": "28대",
+      "name": "신현송(申鉉松)",
+      "term": "2026년 4월 21일~",
+      "government": "이재명 정부",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 한국은행 총재 - Free Download",
+    "description": "한국은행 초대 총재부터 현재까지 역대 총재의 대수, 이름, 임기, 정부 목록입니다. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 한국은행 총재 | ListBase",
+    "seo_description": "Download 대한민국 역대 한국은행 총재 — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국은행_총재"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:29.253Z",
-  "total_datasets": 453,
-  "total_records": 449284,
+  "generated": "2026-10-24T02:17:31.649Z",
+  "total_datasets": 454,
+  "total_records": 449313,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -664,6 +664,33 @@
         "xlsx": {
           "name": "ko-gyeongje-jipyo_KO.xlsx",
           "size": 8527
+        }
+      }
+    },
+    {
+      "id": "ko-hangugeunhaeng-chongjae",
+      "name": "대한민국 역대 한국은행 총재",
+      "category": "economy",
+      "record_count": 29,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "term",
+        "government",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국은행_총재",
+      "updated": "2026-10",
+      "size": 8271,
+      "files": {
+        "csv": {
+          "name": "ko-hangugeunhaeng-chongjae_KO.csv",
+          "size": 3335
+        },
+        "xlsx": {
+          "name": "ko-hangugeunhaeng-chongjae_KO.xlsx",
+          "size": 8492
         }
       }
     },
