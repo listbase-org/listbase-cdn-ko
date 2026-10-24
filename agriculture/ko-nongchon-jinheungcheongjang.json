@@ -1,0 +1,328 @@
+{
+  "id": "ko-nongchon-jinheungcheongjang",
+  "name": "대한민국 역대 농촌진흥청장",
+  "title": "대한민국 역대 농촌진흥청장",
+  "description": "농사원장부터 현재까지 대한민국 농촌진흥청의 역대 청장 목록입니다.",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_농촌진흥청장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_농촌진흥청장",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "농사원장",
+      "term_no": "초대",
+      "name": "정남규(鄭南奎)",
+      "term": "1957년 7월 10일~1962년 4월 1일",
+      "government": "제1공화국 제2공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "초대",
+      "name": "정남규(鄭南奎)",
+      "term": "1962년 4월 1일~1963년 7월 1일",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "2대",
+      "name": "현신규(玄信圭)",
+      "term": "1963년 7월 4일~1965년 8월 26일",
+      "government": "제2공화국, 제3공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "3대",
+      "name": "최응상(崔應祥)",
+      "term": "1965년 8월 26일~1966년 3월 26일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "4대",
+      "name": "이태현(李台現)",
+      "term": "1966년 3월 26일~1968년 5월 10일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "5대",
+      "name": "김인환(金寅煥)",
+      "term": "1968년 5월 10일~1980년 5월 31일",
+      "government": "제3공화국, 제4공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "6대",
+      "name": "윤근환(尹勤煥)",
+      "term": "1980년 6월 2일~1982년 6월 17일",
+      "government": "제4공화국, 제5공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "7대",
+      "name": "김문헌(金文憲)",
+      "term": "1982년 6월 17일~1988년 3월 4일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "8대",
+      "name": "박정윤(朴正潤)",
+      "term": "1988년 3월 5일~1990년 12월 28일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "9대",
+      "name": "이동우(李東雨)",
+      "term": "1990년 12월 28일~1993년 3월 3일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "10대",
+      "name": "이판석(李判石)",
+      "term": "1993년 3월 4일~1993년 12월 28일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "11대",
+      "name": "김광희(金光熙)",
+      "term": "1993년 12월 28일~1995년 12월 23일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "12대",
+      "name": "조재연(趙在衍)",
+      "term": "1995년 12월 23일~1996년 12월 24일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "13대",
+      "name": "김동태(金東泰)",
+      "term": "1996년 12월 24일~1998년 3월 8일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "14대",
+      "name": "김강권(金剛權)",
+      "term": "1998년 3월 9일~1999년 5월 26일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "15대",
+      "name": "이은종(李銀鍾)",
+      "term": "1999년 5월 26일~2001년 4월 1일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "16대",
+      "name": "서규용(徐圭龍)",
+      "term": "2001년 4월 1일~2002년 2월 4일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "17대",
+      "name": "정무남(鄭武男)",
+      "term": "2002년 2월 4일~2003년 3월 2일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "18대",
+      "name": "김영욱(金榮旭)",
+      "term": "2003년 3월 3일~2004년 7월 19일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "19대",
+      "name": "손정수(孫貞秀)",
+      "term": "2004년 7월 19일~2006년 1월 31일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "20대",
+      "name": "김인식(金仁植)",
+      "term": "2006년 1월 31일~2008년 3월 7일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "21대",
+      "name": "이수화(李秀華)",
+      "term": "2008년 3월 8일~2009년 1월 22일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "22대",
+      "name": "김재수(金在水)",
+      "term": "2009년 1월 22일~2010년 8월 16일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "23대",
+      "name": "민승규(閔勝奎)",
+      "term": "2010년 8월 16일~2011년 12월 31일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "24대",
+      "name": "박현출(朴玄出)",
+      "term": "2011년 12월 31일~2013년 3월 14일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "25대",
+      "name": "이양호(李良鎬)",
+      "term": "2013년 3월 15일~2016년 8월 16일",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "26대",
+      "name": "정황근(鄭煌根)",
+      "term": "2016년 8월 17일~2017년 7월 16일",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "27대",
+      "name": "라승용(羅昇龍)",
+      "term": "2017년 7월 17일~2018년 12월 13일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "28대",
+      "name": "김경규(金瓊圭)",
+      "term": "2018년 12월 14일~2020년 8월 14일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "29대",
+      "name": "허태웅(許泰雄)",
+      "term": "2020년 8월 17일~2021년 12월 4일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "30대",
+      "name": "박병홍",
+      "term": "2021년 12월 4일~2022년 5월 13일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "31대",
+      "name": "조재호(曺載昊)",
+      "term": "2022년 5월 13일~2024년 7월 7일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "32대",
+      "name": "권재한(權宰漢)",
+      "term": "2024년 7월 8일~2025년 8월 13일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "농촌진흥청장",
+      "term_no": "33대",
+      "name": "이승돈(李承暾)",
+      "term": "2025년 8월 13일~",
+      "government": "이재명 정부",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 농촌진흥청장 - Free Download",
+    "description": "농사원장부터 현재까지 대한민국 농촌진흥청의 역대 청장 목록입니다. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 농촌진흥청장 | ListBase",
+    "seo_description": "Download 대한민국 역대 농촌진흥청장 — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_농촌진흥청장"
+    ]
+  }
+}

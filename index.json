@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:44.304Z",
-  "total_datasets": 459,
-  "total_records": 449645,
+  "generated": "2026-10-24T02:17:46.849Z",
+  "total_datasets": 460,
+  "total_records": 449679,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -204,6 +204,33 @@
         "xlsx": {
           "name": "ko-jiri-pyosi-susanmul_KO.xlsx",
           "size": 7964
+        }
+      }
+    },
+    {
+      "id": "ko-nongchon-jinheungcheongjang",
+      "name": "대한민국 역대 농촌진흥청장",
+      "category": "agriculture",
+      "record_count": 34,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "term",
+        "government",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_농촌진흥청장",
+      "updated": "2026-10",
+      "size": 9424,
+      "files": {
+        "csv": {
+          "name": "ko-nongchon-jinheungcheongjang_KO.csv",
+          "size": 3916
+        },
+        "xlsx": {
+          "name": "ko-nongchon-jinheungcheongjang_KO.xlsx",
+          "size": 8768
         }
       }
     },
