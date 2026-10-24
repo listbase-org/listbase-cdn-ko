@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:36.736Z",
-  "total_datasets": 456,
-  "total_records": 449367,
+  "generated": "2026-10-24T02:17:39.370Z",
+  "total_datasets": 457,
+  "total_records": 449462,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -691,6 +691,33 @@
         "xlsx": {
           "name": "ko-hangugeunhaeng-chongjae_KO.xlsx",
           "size": 8492
+        }
+      }
+    },
+    {
+      "id": "ko-jaejeong-gyeongje-janggwan",
+      "name": "대한민국 역대 경제·재정 부처 장관 (재무부·경제기획원·기획재정부·재정경제부)",
+      "category": "economy",
+      "record_count": 95,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "start_date",
+        "end_date",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_재정경제부_장관",
+      "updated": "2026-10",
+      "size": 25624,
+      "files": {
+        "csv": {
+          "name": "ko-jaejeong-gyeongje-janggwan_KO.csv",
+          "size": 11779
+        },
+        "xlsx": {
+          "name": "ko-jaejeong-gyeongje-janggwan_KO.xlsx",
+          "size": 10749
         }
       }
     },

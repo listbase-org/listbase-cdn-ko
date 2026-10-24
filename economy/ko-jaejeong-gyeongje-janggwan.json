@@ -1,0 +1,816 @@
+{
+  "id": "ko-jaejeong-gyeongje-janggwan",
+  "name": "대한민국 역대 경제·재정 부처 장관 (재무부·경제기획원·기획재정부·재정경제부)",
+  "title": "대한민국 역대 경제·재정 부처 장관 (재무부·경제기획원·기획재정부·재정경제부)",
+  "description": "재무부, 경제기획원, 재정경제원, 재정경제부, 기획재정부 등 대한민국 경제·재정 부처의 역대 장관 목록입니다.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_재정경제부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_재정경제부_장관",
+  "updated": "2026-10",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "Start Date",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "End Date",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제1대",
+      "name": "김도연",
+      "start_date": "1948년 8월 2일",
+      "end_date": "1950년 4월 22일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제2대",
+      "name": "최순주",
+      "start_date": "1950년 4월 25일",
+      "end_date": "1951년 3월 5일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제3대",
+      "name": "백두진",
+      "start_date": "1951년 3월 5일",
+      "end_date": "1953년 9월 9일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제4대",
+      "name": "박희현",
+      "start_date": "1953년 9월 9일",
+      "end_date": "1954년 6월 30일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제5대",
+      "name": "이중재",
+      "start_date": "1954년 6월 30일",
+      "end_date": "1955년 7월 11일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제6대",
+      "name": "김현철",
+      "start_date": "1955년 7월 11일",
+      "end_date": "1956년 5월 26일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제7대",
+      "name": "인태식",
+      "start_date": "1956년 5월 26일",
+      "end_date": "1957년 6월 9일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제8대",
+      "name": "김현철",
+      "start_date": "1957년 6월 9일",
+      "end_date": "1959년 3월 20일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제9대",
+      "name": "송인상",
+      "start_date": "1959년 3월 20일",
+      "end_date": "1960년 4월 28일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제10대",
+      "name": "윤호병",
+      "start_date": "1960년 4월 28일",
+      "end_date": "1960년 8월 19일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제11대",
+      "name": "김영선",
+      "start_date": "1960년 8월 23일",
+      "end_date": "1961년 5월 20일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제12대",
+      "name": "백선진",
+      "start_date": "1961년 5월 20일",
+      "end_date": "1961년 6월 22일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제13대",
+      "name": "김유택",
+      "start_date": "1961년 6월 22일",
+      "end_date": "1961년 7월 22일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제14대",
+      "name": "천병규",
+      "start_date": "1961년 7월 22일",
+      "end_date": "1962년 6월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제15대",
+      "name": "김세련",
+      "start_date": "1962년 6월 18일",
+      "end_date": "1963년 2월 8일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제16대",
+      "name": "황종률",
+      "start_date": "1963년 2월 8일",
+      "end_date": "1963년 12월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제17대",
+      "name": "박동규",
+      "start_date": "1963년 12월 17일",
+      "end_date": "1964년 6월 26일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제18대",
+      "name": "이정환",
+      "start_date": "1964년 6월 26일",
+      "end_date": "1964년 12월 5일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제19대",
+      "name": "홍승희",
+      "start_date": "1964년 12월 5일",
+      "end_date": "1965년 11월 16일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제20대",
+      "name": "서봉균",
+      "start_date": "1965년 11월 16일",
+      "end_date": "1966년 1월 25일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제21대",
+      "name": "김정렴",
+      "start_date": "1966년 1월 25일",
+      "end_date": "1966년 9월 26일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제22대",
+      "name": "김학렬",
+      "start_date": "1966년 9월 26일",
+      "end_date": "1966년 12월 27일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제23대",
+      "name": "서봉균",
+      "start_date": "1966년 12월 27일",
+      "end_date": "1968년 5월 21일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제24대",
+      "name": "황종률",
+      "start_date": "1968년 5월 21일",
+      "end_date": "1969년 10월 21일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제25대",
+      "name": "남덕우",
+      "start_date": "1969년 10월 21일",
+      "end_date": "1974년 9월 18일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제26대",
+      "name": "김용환",
+      "start_date": "1974년 9월 18일",
+      "end_date": "1978년 12월 22일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제27대",
+      "name": "김원기",
+      "start_date": "1978년 12월 22일",
+      "end_date": "1980년 5월 22일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제28대",
+      "name": "이승윤",
+      "start_date": "1980년 5월 22일",
+      "end_date": "1982년 1월 4일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제29대",
+      "name": "나웅배",
+      "start_date": "1982년 1월 4일",
+      "end_date": "1982년 6월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제30대",
+      "name": "강경식",
+      "start_date": "1982년 6월 24일",
+      "end_date": "1983년 10월 15일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제31대",
+      "name": "김만제",
+      "start_date": "1983년 10월 15일",
+      "end_date": "1986년 1월 8일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제32대",
+      "name": "정인용",
+      "start_date": "1986년 1월 8일",
+      "end_date": "1987년 5월 26일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제33대",
+      "name": "사공일",
+      "start_date": "1987년 5월 26일",
+      "end_date": "1988년 12월 4일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제34대",
+      "name": "이규성",
+      "start_date": "1988년 12월 5일",
+      "end_date": "1990년 3월 18일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제35대",
+      "name": "정영의",
+      "start_date": "1990년 3월 19일",
+      "end_date": "1991년 5월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제36대",
+      "name": "이용만",
+      "start_date": "1991년 5월 27일",
+      "end_date": "1993년 2월 24일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제37대",
+      "name": "홍재형",
+      "start_date": "1993년 2월 25일",
+      "end_date": "1994년 10월 4일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "재무부 장관(1948~1994년)",
+      "term_no": "제38대",
+      "name": "박재윤",
+      "start_date": "1994년 10월 5일",
+      "end_date": "1994년 12월 23일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "경제기획원장(1961~1963년)",
+      "term_no": "제1대",
+      "name": "김유택",
+      "start_date": "1961년 7월 22일",
+      "end_date": "1962년 3월 2일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "경제기획원장(1961~1963년)",
+      "term_no": "제2대",
+      "name": "송요찬",
+      "start_date": "1962년 3월 2일",
+      "end_date": "1962년 6월 18일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "경제기획원장(1961~1963년)",
+      "term_no": "제3대",
+      "name": "김현철",
+      "start_date": "1962년 6월 18일",
+      "end_date": "1962년 7월 10일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "경제기획원장(1961~1963년)",
+      "term_no": "제4대",
+      "name": "김유택",
+      "start_date": "1962년 7월 10일",
+      "end_date": "1963년 2월 8일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "경제기획원장(1961~1963년)",
+      "term_no": "제5대",
+      "name": "유창순",
+      "start_date": "1963년 2월 8일",
+      "end_date": "1963년 4월 12일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "경제기획원장(1961~1963년)",
+      "term_no": "제6대",
+      "name": "원용석",
+      "start_date": "1963년 4월 13일",
+      "end_date": "1963년 12월 16일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제7대",
+      "name": "김유택",
+      "start_date": "1963년 12월 17일",
+      "end_date": "1964년 5월 11일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제8대",
+      "name": "장기영",
+      "start_date": "1964년 5월 11일",
+      "end_date": "1967년 10월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제9대",
+      "name": "박충훈",
+      "start_date": "1967년 10월 3일",
+      "end_date": "1969년 6월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제10대",
+      "name": "김학렬",
+      "start_date": "1969년 6월 3일",
+      "end_date": "1972년 1월 4일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제11대",
+      "name": "태완선",
+      "start_date": "1972년 1월 4일",
+      "end_date": "1974년 9월 18일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제12대",
+      "name": "남덕우",
+      "start_date": "1974년 9월 18일",
+      "end_date": "1978년 12월 22일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제13대",
+      "name": "신현확",
+      "start_date": "1978년 12월 22일",
+      "end_date": "1979년 12월 13일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제14대",
+      "name": "이한빈",
+      "start_date": "1979년 12월 13일",
+      "end_date": "1980년 5월 22일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제15대",
+      "name": "김원기",
+      "start_date": "1980년 5월 22일",
+      "end_date": "1980년 9월 2일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제16대",
+      "name": "신병현",
+      "start_date": "1980년 9월 2일",
+      "end_date": "1982년 1월 4일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제17대",
+      "name": "김준성",
+      "start_date": "1982년 1월 4일",
+      "end_date": "1983년 7월 7일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제18대",
+      "name": "서석준",
+      "start_date": "1983년 7월 7일",
+      "end_date": "1983년 10월 9일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제19대",
+      "name": "신병현",
+      "start_date": "1983년 10월 15일",
+      "end_date": "1986년 1월 8일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제20대",
+      "name": "김만제",
+      "start_date": "1986년 1월 8일",
+      "end_date": "1987년 5월 26일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제21대",
+      "name": "정인용",
+      "start_date": "1987년 5월 26일",
+      "end_date": "1988년 2월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제22대",
+      "name": "나웅배",
+      "start_date": "1988년 2월 25일",
+      "end_date": "1988년 12월 5일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제23대",
+      "name": "조순",
+      "start_date": "1988년 12월 5일",
+      "end_date": "1990년 3월 17일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제24대",
+      "name": "이승윤",
+      "start_date": "1990년 3월 17일",
+      "end_date": "1991년 2월 18일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제25대",
+      "name": "최각규",
+      "start_date": "1991년 2월 18일",
+      "end_date": "1993년 2월 24일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제26대",
+      "name": "이경식",
+      "start_date": "1993년 2월 25일",
+      "end_date": "1993년 12월 21일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제27대",
+      "name": "정재석",
+      "start_date": "1993년 12월 21일",
+      "end_date": "1994년 10월 4일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 경제기획원 장관(1963~1994)",
+      "term_no": "제28대",
+      "name": "홍재형",
+      "start_date": "1994년 10월 4일",
+      "end_date": "1994년 12월 23일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제원 장관(1994~1998년)",
+      "term_no": "제1대",
+      "name": "홍재형",
+      "start_date": "1994년 12월 23일",
+      "end_date": "1995년 12월 20일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제원 장관(1994~1998년)",
+      "term_no": "제2대",
+      "name": "나웅배",
+      "start_date": "1995년 12월 20일",
+      "end_date": "1996년 8월 8일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제원 장관(1994~1998년)",
+      "term_no": "제3대",
+      "name": "한승수",
+      "start_date": "1996년 8월 8일",
+      "end_date": "1997년 3월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제원 장관(1994~1998년)",
+      "term_no": "제4대",
+      "name": "강경식",
+      "start_date": "1997년 3월 5일",
+      "end_date": "1997년 11월 19일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제원 장관(1994~1998년)",
+      "term_no": "제5대",
+      "name": "임창열",
+      "start_date": "1997년 11월 19일",
+      "end_date": "1998년 3월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "재정경제부 장관(1999~2001년)",
+      "term_no": "제6대",
+      "name": "이규성",
+      "start_date": "1998년 3월 5일",
+      "end_date": "1999년 5월 24일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "재정경제부 장관(1999~2001년)",
+      "term_no": "제7대",
+      "name": "강봉균",
+      "start_date": "1999년 5월 24일",
+      "end_date": "2000년 1월 14일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "재정경제부 장관(1999~2001년)",
+      "term_no": "제8대",
+      "name": "이헌재",
+      "start_date": "2000년 1월 14일",
+      "end_date": "2000년 8월 7일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "재정경제부 장관(1999~2001년)",
+      "term_no": "제9대",
+      "name": "진념",
+      "start_date": "2000년 8월 7일",
+      "end_date": "2001년 1월 29일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2001~2008년)",
+      "term_no": "제9대",
+      "name": "진념",
+      "start_date": "2001년 1월 29일",
+      "end_date": "2002년 4월 15일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2001~2008년)",
+      "term_no": "제10대",
+      "name": "전윤철",
+      "start_date": "2002년 4월 15일",
+      "end_date": "2003년 2월 27일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2001~2008년)",
+      "term_no": "제11대",
+      "name": "김진표",
+      "start_date": "2003년 2월 27일",
+      "end_date": "2004년 2월 10일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2001~2008년)",
+      "term_no": "제12대",
+      "name": "이헌재",
+      "start_date": "2004년 2월 10일",
+      "end_date": "2005년 3월 7일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2001~2008년)",
+      "term_no": "제13대",
+      "name": "한덕수",
+      "start_date": "2005년 3월 14일",
+      "end_date": "2006년 7월 18일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2001~2008년)",
+      "term_no": "제14대",
+      "name": "권오규",
+      "start_date": "2006년 7월 18일",
+      "end_date": "2008년 2월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "기획재정부 장관(2008~2013년)",
+      "term_no": "제1대",
+      "name": "강만수",
+      "start_date": "2008년 2월 29일",
+      "end_date": "2009년 2월 9일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "기획재정부 장관(2008~2013년)",
+      "term_no": "제2대",
+      "name": "윤증현",
+      "start_date": "2009년 2월 10일",
+      "end_date": "2011년 6월 1일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "기획재정부 장관(2008~2013년)",
+      "term_no": "제3대",
+      "name": "박재완",
+      "start_date": "2011년 6월 2일",
+      "end_date": "2013년 3월 22일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제1대",
+      "name": "현오석",
+      "start_date": "2013년 3월 23일",
+      "end_date": "2014년 7월 14일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제2대",
+      "name": "최경환",
+      "start_date": "2014년 7월 15일",
+      "end_date": "2016년 1월 12일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제3대",
+      "name": "유일호",
+      "start_date": "2016년 1월 13일",
+      "end_date": "2017년 6월 8일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제4대",
+      "name": "김동연",
+      "start_date": "2017년 6월 9일",
+      "end_date": "2018년 12월 10일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제5대",
+      "name": "홍남기",
+      "start_date": "2018년 12월 11일",
+      "end_date": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제6대",
+      "name": "추경호",
+      "start_date": "2022년 5월 10일",
+      "end_date": "2023년 12월 28일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제7대",
+      "name": "최상목",
+      "start_date": "2023년 12월 29일",
+      "end_date": "2025년 5월 2일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "부총리 겸 기획재정부 장관(2013~2026년)",
+      "term_no": "제8대",
+      "name": "구윤철",
+      "start_date": "2025년 7월 18일",
+      "end_date": "2026년 1월 2일",
+      "government": "이재명 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2026년~현재)",
+      "term_no": "제1대",
+      "name": "구윤철",
+      "start_date": "2026년 1월 2일",
+      "end_date": "2026년 9월 22일",
+      "government": "이재명 정부"
+    },
+    {
+      "office": "부총리 겸 재정경제부 장관(2026년~현재)",
+      "term_no": "제2대",
+      "name": "이형일",
+      "start_date": "2026년 9월 22일",
+      "end_date": "",
+      "government": "이재명 정부"
+    },
+    {
+      "office": "기획예산처 장관(2026년~현재)",
+      "term_no": "제1대",
+      "name": "박홍근",
+      "start_date": "2026년 3월 25일",
+      "end_date": "",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 경제·재정 부처 장관 (재무부·경제기획원·기획재정부·재정경제부) - Free Download",
+    "description": "재무부, 경제기획원, 재정경제원, 재정경제부, 기획재정부 등 대한민국 경제·재정 부처의 역대 장관 목록입니다. Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 경제·재정 부처 장관 (재무부·경제기획원·기획재정부·재정경제부) | ListBase",
+    "seo_description": "Download 대한민국 역대 경제·재정 부처 장관 (재무부·경제기획원·기획재정부·재정경제부) — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_재정경제부_장관"
+    ]
+  }
+}
