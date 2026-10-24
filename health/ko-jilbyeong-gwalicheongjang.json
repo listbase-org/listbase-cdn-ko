@@ -1,0 +1,312 @@
+{
+  "id": "ko-jilbyeong-gwalicheongjang",
+  "name": "대한민국 역대 질병관리청장 (중앙보건소장~질병관리청장)",
+  "title": "대한민국 역대 질병관리청장 (중앙보건소장~질병관리청장)",
+  "description": "중앙보건소장, 국립보건원장, 질병관리본부장, 질병관리청장으로 이어지는 대한민국 방역 기관의 역대 기관장 목록입니다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_질병관리청장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_질병관리청장",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "중앙보건소장",
+      "term_no": "초대",
+      "name": "이용승(李容昇)",
+      "term": "1949년 7월~1954년 11월",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙보건소장",
+      "term_no": "2대",
+      "name": "이종학(李鍾鶴)",
+      "term": "1954년 11월~1956년 6월",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙보건소장",
+      "term_no": "3대",
+      "name": "백행인(白行寅)",
+      "term": "1956년 6월~1957년 2월",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙보건소장",
+      "term_no": "4대",
+      "name": "이종학(李鍾鶴)",
+      "term": "1957년 2월~1960년 1월",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙보건소장",
+      "term_no": "5대",
+      "name": "이병학(李炳學)",
+      "term": "1960년 1월~1960년 10월",
+      "government": "제1공화국, 제2공화국",
+      "note": "재임 중 중앙보건원으로 개편"
+    },
+    {
+      "office": "중앙보건소장",
+      "term_no": "6대",
+      "name": "윤유선(尹裕善)",
+      "term": "1960년 10월~1963년 12월",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "초대",
+      "name": "윤유선(尹裕善)",
+      "term": "1963년 12월 27일~1964년 2월 29일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "2대",
+      "name": "김수명(金洙明)",
+      "term": "1964년 3월 9일~1965년 5월 3일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "3대",
+      "name": "윤유선(尹裕善)",
+      "term": "1965년 5월 3일~1966년 12월 28일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "4대",
+      "name": "홍문화(洪文和)",
+      "term": "1966년 12월 28일~1969년 5월 1일",
+      "government": "제3공화국",
+      "note": "재임 중 국립보건연구원으로 개편"
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "5대",
+      "name": "허용(許鎔)",
+      "term": "1969년 5월 1일~1974년 3월 4일",
+      "government": "제3공화국, 제4공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "6대",
+      "name": "한관섭(韓寬燮)",
+      "term": "1974년 3월 4일~1978년 3월 29일",
+      "government": "제4공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "7대",
+      "name": "신양식(申瀁植)",
+      "term": "1978년 3월 29일~1982년 6월 27일",
+      "government": "제4공화국, 제5공화국",
+      "note": "재임 중 국립보건원으로 개편"
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "8대",
+      "name": "지달현(池達顯)",
+      "term": "1982년 6월 28일~1987년 10월 6일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "9대",
+      "name": "백승복(白承福)",
+      "term": "1987년 10월 26일~1989년 3월 8일",
+      "government": "제5공화국, 노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "10대",
+      "name": "이성우(李晟雨)",
+      "term": "1989년 3월 8일~1993년 4월 1일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "11대",
+      "name": "유원하(柳元夏)",
+      "term": "1993년 4월 6일~1993년 10월 26일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "12대",
+      "name": "이강추(李康樞)",
+      "term": "1993년 10월 26일~1995년 12월 11일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "13대",
+      "name": "조병륜(趙炳倫)",
+      "term": "1996년 1월 31일~1999년 5월 14일",
+      "government": "김영삼 정부, 김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "14대",
+      "name": "이준상(李駿商)",
+      "term": "1999년 6월 14일~2001년 12월 3일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "국립보건원장",
+      "term_no": "15대",
+      "name": "김문식(金文湜)",
+      "term": "2002년 3월 13일~2004년 1월 18일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "초대",
+      "name": "김문식(金文湜)",
+      "term": "2004년 1월 19일~2004년 3월 12일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "2대",
+      "name": "오대규(吳大奎)",
+      "term": "2004년 3월 17일~2007년 4월 9일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "3대",
+      "name": "이종구(李鍾求)",
+      "term": "2007년 4월 10일~2011년 5월 31일",
+      "government": "노무현 정부, 이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "4대",
+      "name": "전병율(全柄律)",
+      "term": "2011년 6월 1일~2013년 6월 3일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "5대",
+      "name": "양병국(梁秉國)",
+      "term": "2013년 9월 30일~2016년 1월 15일",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "6대",
+      "name": "정기석(鄭錡碩)",
+      "term": "2016년 2월 2일~2017년 7월 25일",
+      "government": "박근혜 정부",
+      "note": "차관급으로 격상"
+    },
+    {
+      "office": "보건복지부 질병관리본부장",
+      "term_no": "7대",
+      "name": "정은경(鄭銀敬)",
+      "term": "2017년 7월 26일~2020년 9월 11일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "질병관리청장",
+      "term_no": "초대",
+      "name": "정은경(鄭銀敬)",
+      "term": "2020년 9월 12일~2022년 5월 17일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "질병관리청장",
+      "term_no": "2대",
+      "name": "백경란(白敬蘭)",
+      "term": "2022년 5월 17일~2022년 12월 16일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "질병관리청장",
+      "term_no": "3대",
+      "name": "지영미(池榮美)",
+      "term": "2022년 12월 17일~2025년 7월 14일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "질병관리청장",
+      "term_no": "4대",
+      "name": "임승관",
+      "term": "2025년 7월 14일~",
+      "government": "이재명 정부",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 질병관리청장 (중앙보건소장~질병관리청장) - Free Download",
+    "description": "중앙보건소장, 국립보건원장, 질병관리본부장, 질병관리청장으로 이어지는 대한민국 방역 기관의 역대 기관장 목록입니다. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 질병관리청장 (중앙보건소장~질병관리청장) | ListBase",
+    "seo_description": "Download 대한민국 역대 질병관리청장 (중앙보건소장~질병관리청장) — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_질병관리청장"
+    ]
+  }
+}

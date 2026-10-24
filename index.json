@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:39.370Z",
-  "total_datasets": 457,
-  "total_records": 449462,
+  "generated": "2026-10-24T02:17:41.871Z",
+  "total_datasets": 458,
+  "total_records": 449494,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -6664,6 +6664,33 @@
         "xlsx": {
           "name": "ko-gwonyeok-eunggeup-uiryo-senteo_KO.xlsx",
           "size": 8876
+        }
+      }
+    },
+    {
+      "id": "ko-jilbyeong-gwalicheongjang",
+      "name": "대한민국 역대 질병관리청장 (중앙보건소장~질병관리청장)",
+      "category": "health",
+      "record_count": 32,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "term",
+        "government",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_질병관리청장",
+      "updated": "2026-10",
+      "size": 9524,
+      "files": {
+        "csv": {
+          "name": "ko-jilbyeong-gwalicheongjang_KO.csv",
+          "size": 3909
+        },
+        "xlsx": {
+          "name": "ko-jilbyeong-gwalicheongjang_KO.xlsx",
+          "size": 8746
         }
       }
     },
