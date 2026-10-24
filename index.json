@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:31.649Z",
-  "total_datasets": 454,
-  "total_records": 449313,
+  "generated": "2026-10-24T02:17:34.232Z",
+  "total_datasets": 455,
+  "total_records": 449340,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -3095,6 +3095,30 @@
         "xlsx": {
           "name": "ko-gimchi-jongnyu_KO.xlsx",
           "size": 10024
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-guksu",
+      "name": "한국의 국수 종류",
+      "category": "food",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "type",
+        "description"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_국수",
+      "updated": "2026-10",
+      "size": 7816,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-guksu_KO.csv",
+          "size": 4757
+        },
+        "xlsx": {
+          "name": "ko-hanguk-guksu_KO.xlsx",
+          "size": 8981
         }
       }
     },
