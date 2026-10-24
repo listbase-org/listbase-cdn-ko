@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:24.363Z",
-  "total_datasets": 451,
-  "total_records": 449190,
+  "generated": "2026-10-24T02:17:26.797Z",
+  "total_datasets": 452,
+  "total_records": 449220,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -6511,6 +6511,30 @@
         "xlsx": {
           "name": "ko-byeongwon_KO.xlsx",
           "size": 18562
+        }
+      }
+    },
+    {
+      "id": "ko-gwonyeok-eunggeup-uiryo-senteo",
+      "name": "대한민국 권역응급의료센터 목록",
+      "category": "health",
+      "record_count": 30,
+      "columns": [
+        "region_name",
+        "coverage_area",
+        "designated_hospital"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/권역응급의료센터",
+      "updated": "2026-10",
+      "size": 8648,
+      "files": {
+        "csv": {
+          "name": "ko-gwonyeok-eunggeup-uiryo-senteo_KO.csv",
+          "size": 4508
+        },
+        "xlsx": {
+          "name": "ko-gwonyeok-eunggeup-uiryo-senteo_KO.xlsx",
+          "size": 8876
         }
       }
     },

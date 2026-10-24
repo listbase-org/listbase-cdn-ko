@@ -1,0 +1,191 @@
+{
+  "id": "ko-gwonyeok-eunggeup-uiryo-senteo",
+  "name": "대한민국 권역응급의료센터 목록",
+  "title": "대한민국 권역응급의료센터 목록",
+  "description": "보건복지부 지정 권역응급의료센터의 권역명, 관할 지역, 지정 병원 목록입니다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/권역응급의료센터",
+  "source_url": "https://ko.wikipedia.org/wiki/권역응급의료센터",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "coverage_area",
+      "label": "Coverage Area",
+      "type": "string"
+    },
+    {
+      "key": "designated_hospital",
+      "label": "Designated Hospital",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region_name": "중앙",
+      "coverage_area": "대한민국 전역",
+      "designated_hospital": "국립중앙의료원"
+    },
+    {
+      "region_name": "서울서북",
+      "coverage_area": "서울특별시 종로구, 중구, 용산구, 은평구, 마포구, 서대문구",
+      "designated_hospital": "서울대학교병원"
+    },
+    {
+      "region_name": "서울동북",
+      "coverage_area": "서울특별시 노원구, 동대문구, 중랑구, 성북구, 강북구, 도봉구, 경기도 남양주시",
+      "designated_hospital": "고려대학교 안암병원 서울특별시 서울의료원"
+    },
+    {
+      "region_name": "서울서남",
+      "coverage_area": "서울특별시 양천구, 강서구, 구로구, 금천구, 영등포구, 동작구, 관악구, 경기도 광명시",
+      "designated_hospital": "고려대학교 구로병원 이화여자대학교 목동병원"
+    },
+    {
+      "region_name": "서울동남",
+      "coverage_area": "서울특별시 송파구, 성동구, 광진구, 서초구, 강남구, 강동구, 경기도 구리시, 하남시, 양평군",
+      "designated_hospital": "한양대학교의료원강동경희대학교 병원"
+    },
+    {
+      "region_name": "인천",
+      "coverage_area": "인천광역시 중구, 동구, 남구, 연수구, 남동구, 부평구, 계양구, 서구, 옹진군, 경기도 부천시, 시흥시",
+      "designated_hospital": "가천대학교 길병원 순천향대학교 부속 부천병원 인하대학교병원"
+    },
+    {
+      "region_name": "경기서북",
+      "coverage_area": "경기도 고양시, 김포시, 파주시, 인천광역시 강화군",
+      "designated_hospital": "국민건강보험 일산병원 명지병원"
+    },
+    {
+      "region_name": "경기동북",
+      "coverage_area": "경기도 의정부시, 동두천시, 양주시, 포천시, 연천군, 강원특별자치도 철원군",
+      "designated_hospital": "가톨릭대학교 의정부성모병원"
+    },
+    {
+      "region_name": "경기서남",
+      "coverage_area": "경기도 수원시, 안산시, 오산시, 화성시, 안양시, 과천시, 군포시, 의왕시",
+      "designated_hospital": "아주대학교병원 한림대학교 성심병원 고려대학교 안산병원"
+    },
+    {
+      "region_name": "경기동남",
+      "coverage_area": "경기도 성남시, 광주시, 용인시, 이천시",
+      "designated_hospital": "분당서울대학교병원 분당차병원"
+    },
+    {
+      "region_name": "강원영동",
+      "coverage_area": "강원특별자치도 강릉시, 고성군, 동해시, 삼척시, 속초시, 양양군, 정선군, 태백시, 평창군",
+      "designated_hospital": "강릉아산병원"
+    },
+    {
+      "region_name": "강원춘천",
+      "coverage_area": "강원특별자치도 춘천시, 양구군, 인제군, 홍천군, 화천군, 경기도 가평군",
+      "designated_hospital": "한림대학교 춘천성심병원"
+    },
+    {
+      "region_name": "원주충주",
+      "coverage_area": "강원특별자치도 원주시, 영월군, 횡성군, 경기도 여주시, 충청북도 충주시, 단양군, 제천시",
+      "designated_hospital": "연세대학교 원주세브란스기독병원"
+    },
+    {
+      "region_name": "대전",
+      "coverage_area": "대전광역시, 세종특별자치시, 충청남도 계룡시, 공주시, 금산군, 논산시, 부여군, 청양군, 충청북도 영동군, 옥천군, 전북특별자치도 무주군",
+      "designated_hospital": "충남대학교병원 건양대학교병원"
+    },
+    {
+      "region_name": "충북청주",
+      "coverage_area": "충청북도 청주시, 괴산시, 보은군, 음성군, 증평군, 진천군",
+      "designated_hospital": "충북대학교병원"
+    },
+    {
+      "region_name": "충남천안",
+      "coverage_area": "충청남도 천안시, 당진시, 서산시, 아산시, 예산군, 태안군, 홍성군, 경기도 평택시, 안성시",
+      "designated_hospital": "단국대학교병원 순천향대학교 부속 천안병원"
+    },
+    {
+      "region_name": "광주",
+      "coverage_area": "전남광주통합특별시 5구, 강진군, 곡성군, 나주시, 담양군, 보성군, 영광군, 장성군, 장흥군, 함평군, 화순군, 전북특별자치도 고창군, 순창군",
+      "designated_hospital": "전남대학교병원 조선대학교병원"
+    },
+    {
+      "region_name": "전북익산",
+      "coverage_area": "전북특별자치도 익산시, 군산시, 충청남도 서천군, 보령시",
+      "designated_hospital": "원광대학교병원"
+    },
+    {
+      "region_name": "전북전주",
+      "coverage_area": "전북특별자치도 전주시, 김제시, 남원시, 부안군, 완주군, 임실군, 장수군, 정읍시, 진안군",
+      "designated_hospital": "전북대학교병원(조건부)"
+    },
+    {
+      "region_name": "전남목포",
+      "coverage_area": "전남광주통합특별시 목포시, 무안군, 신안군, 영암군, 완도군, 진도군, 해남군",
+      "designated_hospital": "목포한국병원"
+    },
+    {
+      "region_name": "전남순천",
+      "coverage_area": "전남광주통합특별시 순천시, 고흥군, 광양시, 구례군, 여수시",
+      "designated_hospital": "순천성가롤로병원"
+    },
+    {
+      "region_name": "제주",
+      "coverage_area": "제주특별자치도",
+      "designated_hospital": "제주한라병원"
+    },
+    {
+      "region_name": "부산",
+      "coverage_area": "부산광역시, 경상남도 김해시, 양산시, 밀양시, 거제시",
+      "designated_hospital": "동아대학교병원 양산부산대학교병원"
+    },
+    {
+      "region_name": "대구",
+      "coverage_area": "대구광역시, 경상북도 경산시, 고령군, 성주군, 영천시, 청도군, 경상남도 거창군, 합천군",
+      "designated_hospital": "경북대학교병원 영남대학교 의료원"
+    },
+    {
+      "region_name": "울산",
+      "coverage_area": "울산광역시",
+      "designated_hospital": "울산대학교병원"
+    },
+    {
+      "region_name": "경북안동",
+      "coverage_area": "경상북도 안동시, 문경시, 봉화군, 영양군, 영주시, 예천군, 의성군, 청송군",
+      "designated_hospital": "안동병원"
+    },
+    {
+      "region_name": "경북구미",
+      "coverage_area": "경상북도 구미시, 김천시, 칠곡군, 상주시",
+      "designated_hospital": "구미차병원"
+    },
+    {
+      "region_name": "경북포항",
+      "coverage_area": "경상북도 포항시, 경주시, 영덕군, 울진군, 울릉군",
+      "designated_hospital": "포항성모병원"
+    },
+    {
+      "region_name": "경남창원",
+      "coverage_area": "경상남도 창원시, 의령군, 창녕군, 함안군",
+      "designated_hospital": "삼성창원병원"
+    },
+    {
+      "region_name": "경남진주",
+      "coverage_area": "경상남도 진주시, 고성군, 남해군, 사천시, 산청군, 통영시, 하동군, 함양군",
+      "designated_hospital": "경상국립대학교병원"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 권역응급의료센터 목록 - Free Download",
+    "description": "보건복지부 지정 권역응급의료센터의 권역명, 관할 지역, 지정 병원 목록입니다. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 권역응급의료센터 목록 | ListBase",
+    "seo_description": "Download 대한민국 권역응급의료센터 목록 — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/권역응급의료센터"
+    ]
+  }
+}
