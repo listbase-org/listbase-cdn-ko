@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:57.105Z",
-  "total_datasets": 464,
-  "total_records": 449872,
+  "generated": "2026-10-24T02:17:59.768Z",
+  "total_datasets": 465,
+  "total_records": 449919,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -772,6 +772,32 @@
         "xlsx": {
           "name": "ko-saneop-tongsang-janggwan_KO.xlsx",
           "size": 10193
+        }
+      }
+    },
+    {
+      "id": "ko-sangho-chulja-jehan-gieopjipdan",
+      "name": "대한민국 상호출자제한기업집단 (대기업집단) 목록",
+      "category": "economy",
+      "record_count": 47,
+      "columns": [
+        "rank",
+        "group_name",
+        "controlling_person",
+        "affiliates",
+        "total_assets_trillion_krw"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/상호출자제한기업집단",
+      "updated": "2026-10",
+      "size": 10028,
+      "files": {
+        "csv": {
+          "name": "ko-sangho-chulja-jehan-gieopjipdan_KO.csv",
+          "size": 2102
+        },
+        "xlsx": {
+          "name": "ko-sangho-chulja-jehan-gieopjipdan_KO.xlsx",
+          "size": 8801
         }
       }
     },

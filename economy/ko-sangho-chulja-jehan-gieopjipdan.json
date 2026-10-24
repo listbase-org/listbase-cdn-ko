@@ -1,0 +1,380 @@
+{
+  "id": "ko-sangho-chulja-jehan-gieopjipdan",
+  "name": "대한민국 상호출자제한기업집단 (대기업집단) 목록",
+  "title": "대한민국 상호출자제한기업집단 (대기업집단) 목록",
+  "description": "공정거래위원회가 지정한 상호출자제한기업집단의 순위, 기업집단명, 동일인, 소속회사 수, 자산총액(조 원) 목록입니다.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/상호출자제한기업집단",
+  "source_url": "https://ko.wikipedia.org/wiki/상호출자제한기업집단",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "group_name",
+      "label": "Group Name",
+      "type": "string"
+    },
+    {
+      "key": "controlling_person",
+      "label": "Controlling Person",
+      "type": "string"
+    },
+    {
+      "key": "affiliates",
+      "label": "Affiliates",
+      "type": "number"
+    },
+    {
+      "key": "total_assets_trillion_krw",
+      "label": "Total Assets Trillion Krw",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "group_name": "삼성",
+      "controlling_person": "이재용",
+      "affiliates": 67,
+      "total_assets_trillion_krw": 695.7
+    },
+    {
+      "rank": 2,
+      "group_name": "에스케이",
+      "controlling_person": "최태원",
+      "affiliates": 151,
+      "total_assets_trillion_krw": 421.9
+    },
+    {
+      "rank": 3,
+      "group_name": "현대자동차그룹",
+      "controlling_person": "정의선",
+      "affiliates": 74,
+      "total_assets_trillion_krw": 320.8
+    },
+    {
+      "rank": 4,
+      "group_name": "엘지",
+      "controlling_person": "구광모",
+      "affiliates": 63,
+      "total_assets_trillion_krw": 186.2
+    },
+    {
+      "rank": 5,
+      "group_name": "한화",
+      "controlling_person": "김승연",
+      "affiliates": 116,
+      "total_assets_trillion_krw": 149.6
+    },
+    {
+      "rank": 6,
+      "group_name": "롯데",
+      "controlling_person": "신동빈",
+      "affiliates": 98,
+      "total_assets_trillion_krw": 142.4
+    },
+    {
+      "rank": 7,
+      "group_name": "포스코",
+      "controlling_person": "포스코홀딩스(주)",
+      "affiliates": 51,
+      "total_assets_trillion_krw": 140.5
+    },
+    {
+      "rank": 8,
+      "group_name": "HD현대",
+      "controlling_person": "정몽준",
+      "affiliates": 29,
+      "total_assets_trillion_krw": 89.1
+    },
+    {
+      "rank": 9,
+      "group_name": "농협",
+      "controlling_person": "농업협동조합중앙회",
+      "affiliates": 58,
+      "total_assets_trillion_krw": 83.5
+    },
+    {
+      "rank": 10,
+      "group_name": "지에스",
+      "controlling_person": "허창수",
+      "affiliates": 104,
+      "total_assets_trillion_krw": 80.4
+    },
+    {
+      "rank": 11,
+      "group_name": "신세계",
+      "controlling_person": "이명희",
+      "affiliates": 65,
+      "total_assets_trillion_krw": 74.5
+    },
+    {
+      "rank": 12,
+      "group_name": "한진",
+      "controlling_person": "조원태",
+      "affiliates": 44,
+      "total_assets_trillion_krw": 62.4
+    },
+    {
+      "rank": 13,
+      "group_name": "케이티",
+      "controlling_person": "(주)케이티",
+      "affiliates": 49,
+      "total_assets_trillion_krw": 47.2
+    },
+    {
+      "rank": 14,
+      "group_name": "엘에스",
+      "controlling_person": "구자은",
+      "affiliates": 72,
+      "total_assets_trillion_krw": 41.6
+    },
+    {
+      "rank": 15,
+      "group_name": "씨제이",
+      "controlling_person": "이재현",
+      "affiliates": 67,
+      "total_assets_trillion_krw": 39.7
+    },
+    {
+      "rank": 16,
+      "group_name": "카카오",
+      "controlling_person": "김범수",
+      "affiliates": 93,
+      "total_assets_trillion_krw": 36.5
+    },
+    {
+      "rank": 17,
+      "group_name": "에이치엠엠",
+      "controlling_person": "에이치엠엠(주)",
+      "affiliates": 4,
+      "total_assets_trillion_krw": 33
+    },
+    {
+      "rank": 18,
+      "group_name": "두산",
+      "controlling_person": "박정원",
+      "affiliates": 23,
+      "total_assets_trillion_krw": 30.9
+    },
+    {
+      "rank": 19,
+      "group_name": "셀트리온",
+      "controlling_person": "서정진",
+      "affiliates": 10,
+      "total_assets_trillion_krw": 29.2
+    },
+    {
+      "rank": 20,
+      "group_name": "네이버",
+      "controlling_person": "이해진",
+      "affiliates": 50,
+      "total_assets_trillion_krw": 29.1
+    },
+    {
+      "rank": 21,
+      "group_name": "중흥건설",
+      "controlling_person": "정원주",
+      "affiliates": 55,
+      "total_assets_trillion_krw": 28.3
+    },
+    {
+      "rank": 22,
+      "group_name": "쿠팡",
+      "controlling_person": "김범석",
+      "affiliates": 16,
+      "total_assets_trillion_krw": 27.1
+    },
+    {
+      "rank": 23,
+      "group_name": "에쓰-오일",
+      "controlling_person": "에쓰-오일(주)",
+      "affiliates": 2,
+      "total_assets_trillion_krw": 26.6
+    },
+    {
+      "rank": 24,
+      "group_name": "DL",
+      "controlling_person": "이해욱",
+      "affiliates": 41,
+      "total_assets_trillion_krw": 26.3
+    },
+    {
+      "rank": 25,
+      "group_name": "영풍",
+      "controlling_person": "장형진",
+      "affiliates": 30,
+      "total_assets_trillion_krw": 25.9
+    },
+    {
+      "rank": 26,
+      "group_name": "미래에셋",
+      "controlling_person": "박현주",
+      "affiliates": 24,
+      "total_assets_trillion_krw": 25
+    },
+    {
+      "rank": 27,
+      "group_name": "현대백화점",
+      "controlling_person": "정지선",
+      "affiliates": 24,
+      "total_assets_trillion_krw": 23.1
+    },
+    {
+      "rank": 28,
+      "group_name": "효성",
+      "controlling_person": "조현준",
+      "affiliates": 71,
+      "total_assets_trillion_krw": 22.5
+    },
+    {
+      "rank": 29,
+      "group_name": "하림",
+      "controlling_person": "김홍국",
+      "affiliates": 38,
+      "total_assets_trillion_krw": 22.2
+    },
+    {
+      "rank": 30,
+      "group_name": "부영",
+      "controlling_person": "이중근",
+      "affiliates": 21,
+      "total_assets_trillion_krw": 21.6
+    },
+    {
+      "rank": 31,
+      "group_name": "한국앤컴퍼니그룹",
+      "controlling_person": "조양래",
+      "affiliates": 26,
+      "total_assets_trillion_krw": 21.3
+    },
+    {
+      "rank": 32,
+      "group_name": "장금상선",
+      "controlling_person": "정태순",
+      "affiliates": 29,
+      "total_assets_trillion_krw": 21
+    },
+    {
+      "rank": 33,
+      "group_name": "호반",
+      "controlling_person": "김상열",
+      "affiliates": 41,
+      "total_assets_trillion_krw": 20.1
+    },
+    {
+      "rank": 34,
+      "group_name": "케이씨씨",
+      "controlling_person": "정몽진",
+      "affiliates": 14,
+      "total_assets_trillion_krw": 19.9
+    },
+    {
+      "rank": 35,
+      "group_name": "에이치디씨",
+      "controlling_person": "정몽규",
+      "affiliates": 35,
+      "total_assets_trillion_krw": 17.5
+    },
+    {
+      "rank": 36,
+      "group_name": "SM그룹",
+      "controlling_person": "우오현",
+      "affiliates": 54,
+      "total_assets_trillion_krw": 17.4
+    },
+    {
+      "rank": 37,
+      "group_name": "DB",
+      "controlling_person": "김준기",
+      "affiliates": 34,
+      "total_assets_trillion_krw": 17.2
+    },
+    {
+      "rank": 38,
+      "group_name": "케이티앤지",
+      "controlling_person": "(주)케이티앤지",
+      "affiliates": 16,
+      "total_assets_trillion_krw": 15.7
+    },
+    {
+      "rank": 39,
+      "group_name": "코오롱",
+      "controlling_person": "이웅열",
+      "affiliates": 38,
+      "total_assets_trillion_krw": 15.5
+    },
+    {
+      "rank": 40,
+      "group_name": "넥슨",
+      "controlling_person": "유정현",
+      "affiliates": 23,
+      "total_assets_trillion_krw": 15.1
+    },
+    {
+      "rank": 41,
+      "group_name": "두나무",
+      "controlling_person": "두나무(주)",
+      "affiliates": 12,
+      "total_assets_trillion_krw": 13.7
+    },
+    {
+      "rank": 42,
+      "group_name": "교보생명보험",
+      "controlling_person": "신창재",
+      "affiliates": 17,
+      "total_assets_trillion_krw": 13.4
+    },
+    {
+      "rank": 43,
+      "group_name": "엘엑스",
+      "controlling_person": "구본준",
+      "affiliates": 18,
+      "total_assets_trillion_krw": 13.3
+    },
+    {
+      "rank": 44,
+      "group_name": "오씨아이",
+      "controlling_person": "이우현",
+      "affiliates": 22,
+      "total_assets_trillion_krw": 13.8
+    },
+    {
+      "rank": 45,
+      "group_name": "넷마블",
+      "controlling_person": "방준혁",
+      "affiliates": 29,
+      "total_assets_trillion_krw": 13
+    },
+    {
+      "rank": 46,
+      "group_name": "세아",
+      "controlling_person": "이순형",
+      "affiliates": 24,
+      "total_assets_trillion_krw": 12.6
+    },
+    {
+      "rank": 47,
+      "group_name": "다우키움",
+      "controlling_person": "김익래",
+      "affiliates": 46,
+      "total_assets_trillion_krw": 12.2
+    }
+  ],
+  "meta": {
+    "title": "대한민국 상호출자제한기업집단 (대기업집단) 목록 - Free Download",
+    "description": "공정거래위원회가 지정한 상호출자제한기업집단의 순위, 기업집단명, 동일인, 소속회사 수, 자산총액(조 원) 목록입니다. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 상호출자제한기업집단 (대기업집단) 목록 | ListBase",
+    "seo_description": "Download 대한민국 상호출자제한기업집단 (대기업집단) 목록 — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/상호출자제한기업집단"
+    ]
+  }
+}
