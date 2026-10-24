@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:19.040Z",
-  "total_datasets": 449,
-  "total_records": 449123,
+  "generated": "2026-10-24T02:17:21.691Z",
+  "total_datasets": 450,
+  "total_records": 449150,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -9847,6 +9847,33 @@
         "xlsx": {
           "name": "ko-upyeonbeonho_KO.xlsx",
           "size": 1879975
+        }
+      }
+    },
+    {
+      "id": "ko-gisangcheongjang",
+      "name": "대한민국 역대 기상청장",
+      "category": "science",
+      "record_count": 27,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "term",
+        "government",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_기상청장",
+      "updated": "2026-10",
+      "size": 7846,
+      "files": {
+        "csv": {
+          "name": "ko-gisangcheongjang_KO.csv",
+          "size": 3088
+        },
+        "xlsx": {
+          "name": "ko-gisangcheongjang_KO.xlsx",
+          "size": 8475
         }
       }
     },

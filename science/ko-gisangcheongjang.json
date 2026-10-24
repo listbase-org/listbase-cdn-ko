@@ -1,0 +1,272 @@
+{
+  "id": "ko-gisangcheongjang",
+  "name": "대한민국 역대 기상청장",
+  "title": "대한민국 역대 기상청장",
+  "description": "국립중앙관상대장, 중앙관상대장, 중앙기상대장, 기상청장 등 대한민국 기상 기관의 역대 기관장 목록입니다.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_기상청장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_기상청장",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "국립중앙관상대장",
+      "term_no": "초대",
+      "name": "이원철(李源喆)",
+      "term": "1949년 11월 3일~1961년 5월 30일",
+      "government": "제1공화국",
+      "note": "1급 상당"
+    },
+    {
+      "office": "국립중앙관상대장",
+      "term_no": "2대",
+      "name": "국채표(鞠採表)",
+      "term": "1961년 9월 11일~1963년 2월 11일",
+      "government": "제2공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙관상대장",
+      "term_no": "1대",
+      "name": "국채표(鞠採表)",
+      "term": "1963년 2월 12일~1967년 7월 24일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙관상대장",
+      "term_no": "-",
+      "name": "김종구(金鍾求)",
+      "term": "1967년 7월 28일~1968년 2월 28일",
+      "government": "제3공화국",
+      "note": "직무대행"
+    },
+    {
+      "office": "중앙관상대장",
+      "term_no": "2대",
+      "name": "양인기(楊寅祺)",
+      "term": "1968년 10월 10일~1980년 7월 8일",
+      "government": "제3공화국, 제4공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙관상대장",
+      "term_no": "3대",
+      "name": "김진면(金鎭冕)",
+      "term": "1980년 8월 7일~1982년 1월 1일",
+      "government": "제4공화국, 제5공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙기상대장",
+      "term_no": "1대",
+      "name": "김진면(金鎭冕)",
+      "term": "1982년 1월 1일~1983년 3월 10일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙기상대장",
+      "term_no": "2대",
+      "name": "손형진(孫亨珍)",
+      "term": "1983년 3월 11일~1988년 3월 29일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "중앙기상대장",
+      "term_no": "3대",
+      "name": "박용대(朴容大)",
+      "term": "1988년 3월 30일~1990년 12월 26일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "1대",
+      "name": "박용대(朴容大)",
+      "term": "1990년 12월 27일~1993년 3월 11일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "2대",
+      "name": "봉종헌(奉鍾憲)",
+      "term": "1993년 3월 12일~1997년 7월 27일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "3대",
+      "name": "문승의(文勝義)",
+      "term": "1997년 7월 28일~2000년 12월 28일",
+      "government": "김영삼 정부, 김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "4대",
+      "name": "안명환(安明煥)",
+      "term": "2000년 12월 29일~2004년 9월 30일",
+      "government": "김대중 정부, 노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "5대",
+      "name": "신경섭(申慶燮)",
+      "term": "2004년 10월 1일~2006년 1월 31일",
+      "government": "노무현 정부",
+      "note": "차관급으로 격상"
+    },
+    {
+      "office": "기상청장",
+      "term_no": "6대",
+      "name": "이만기(李萬基)",
+      "term": "2006년 2월 1일~2008년 3월 6일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "7대",
+      "name": "정순갑(鄭淳甲)",
+      "term": "2008년 3월 7일~2009년 1월 19일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "8대",
+      "name": "전병성(全炳成)",
+      "term": "2009년 1월 20일~2011년 2월 8일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "9대",
+      "name": "조석준(趙錫俊)",
+      "term": "2011년 2월 9일~2013년 3월 17일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "10대",
+      "name": "이일수(李一秀)",
+      "term": "2013년 3월 18일~2013년 8월 30일",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "-",
+      "name": "조주영(曺珠英)",
+      "term": "2013년 8월 30일~2013년 9월 26일",
+      "government": "박근혜 정부",
+      "note": "직무대행"
+    },
+    {
+      "office": "기상청장",
+      "term_no": "11대",
+      "name": "고윤화(高允和)",
+      "term": "2013년 9월 26일~2017년 7월 17일",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "12대",
+      "name": "남재철(南在哲)",
+      "term": "2017년 7월 18일~2018년 8월 26일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "13대",
+      "name": "김종석(金宗錫)",
+      "term": "2018년 8월 27일~2020년 1월 1일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "14대",
+      "name": "박광석(朴光錫)",
+      "term": "2020년 1월 2일~2022년 6월 21일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "15대",
+      "name": "유희동(兪熺東)",
+      "term": "2022년 6월 22일~2024년 6월 30일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "16대",
+      "name": "장동언(張東彦)",
+      "term": "2024년 7월 1일~2025년 8월 13일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "기상청장",
+      "term_no": "17대",
+      "name": "이미선(李美善)",
+      "term": "2025년 8월 13일~",
+      "government": "이재명 정부",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 기상청장 - Free Download",
+    "description": "국립중앙관상대장, 중앙관상대장, 중앙기상대장, 기상청장 등 대한민국 기상 기관의 역대 기관장 목록입니다. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 기상청장 | ListBase",
+    "seo_description": "Download 대한민국 역대 기상청장 — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_기상청장"
+    ]
+  }
+}
