@@ -1,0 +1,224 @@
+{
+  "id": "ko-sanggeup-jonghap-byeongwon",
+  "name": "대한민국 상급종합병원 목록 (권역별)",
+  "title": "대한민국 상급종합병원 목록 (권역별)",
+  "description": "보건복지부가 지정한 대한민국 상급종합병원을 진료권역별로 정리한 목록입니다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/상급종합병원",
+  "source_url": "https://ko.wikipedia.org/wiki/상급종합병원",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "강북삼성병원",
+      "region": "서울권"
+    },
+    {
+      "name": "건국대학교병원",
+      "region": "서울권"
+    },
+    {
+      "name": "경희대학교병원",
+      "region": "서울권"
+    },
+    {
+      "name": "고려대학교의과대학부속구로병원",
+      "region": "서울권"
+    },
+    {
+      "name": "삼성서울병원",
+      "region": "서울권"
+    },
+    {
+      "name": "서울대학교병원",
+      "region": "서울권"
+    },
+    {
+      "name": "연세대학교의과대학강남세브란스병원",
+      "region": "서울권"
+    },
+    {
+      "name": "이화여자대학교 목동병원",
+      "region": "서울권"
+    },
+    {
+      "name": "재단법인아산사회복지재단서울아산병원",
+      "region": "서울권"
+    },
+    {
+      "name": "중앙대학교병원",
+      "region": "서울권"
+    },
+    {
+      "name": "학교법인고려중앙학원고려대학교의과대학부속병원 (안암병원)",
+      "region": "서울권"
+    },
+    {
+      "name": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "region": "서울권"
+    },
+    {
+      "name": "학교법인연세대학교의과대학세브란스병원",
+      "region": "서울권"
+    },
+    {
+      "name": "한양대학교병원",
+      "region": "서울권"
+    },
+    {
+      "name": "가톨릭대학교인천성모병원",
+      "region": "경기서북부권"
+    },
+    {
+      "name": "가천대 길병원",
+      "region": "경기서북부권"
+    },
+    {
+      "name": "인하대학교의과대학부속병원",
+      "region": "경기서북부권"
+    },
+    {
+      "name": "순천향대학교부속부천병원",
+      "region": "경기서북부권"
+    },
+    {
+      "name": "가톨릭대학교 성빈센트병원",
+      "region": "경기남부권"
+    },
+    {
+      "name": "고려대학교의과대학부속안산병원",
+      "region": "경기남부권"
+    },
+    {
+      "name": "분당서울대학교병원",
+      "region": "경기남부권"
+    },
+    {
+      "name": "아주대학교병원",
+      "region": "경기남부권"
+    },
+    {
+      "name": "한림대성심병원",
+      "region": "경기남부권"
+    },
+    {
+      "name": "연세대학교 원주세브란스기독병원",
+      "region": "강원권"
+    },
+    {
+      "name": "강릉아산병원",
+      "region": "강원권"
+    },
+    {
+      "name": "충북대학교병원",
+      "region": "충북권"
+    },
+    {
+      "name": "건양대학교병원",
+      "region": "대전충남권"
+    },
+    {
+      "name": "단국대학교병원",
+      "region": "대전충남권"
+    },
+    {
+      "name": "충남대학교병원",
+      "region": "대전충남권"
+    },
+    {
+      "name": "원광대학교병원",
+      "region": "전북권"
+    },
+    {
+      "name": "전북대학교병원",
+      "region": "전북권"
+    },
+    {
+      "name": "전남대학교병원",
+      "region": "전남권"
+    },
+    {
+      "name": "조선대학교병원",
+      "region": "전남권"
+    },
+    {
+      "name": "화순전남대학교병원",
+      "region": "전남권"
+    },
+    {
+      "name": "경북대학교병원",
+      "region": "경북권"
+    },
+    {
+      "name": "계명대학교동산병원",
+      "region": "경북권"
+    },
+    {
+      "name": "대구가톨릭대학교병원",
+      "region": "경북권"
+    },
+    {
+      "name": "영남대학교병원",
+      "region": "경북권"
+    },
+    {
+      "name": "칠곡경북대학교병원",
+      "region": "경북권"
+    },
+    {
+      "name": "고신대학교 복음병원",
+      "region": "경남동부권"
+    },
+    {
+      "name": "인제대학교 부산백병원",
+      "region": "경남동부권"
+    },
+    {
+      "name": "동아대학교병원",
+      "region": "경남동부권"
+    },
+    {
+      "name": "부산대학교병원",
+      "region": "경남동부권"
+    },
+    {
+      "name": "양산부산대학교병원",
+      "region": "경남동부권"
+    },
+    {
+      "name": "울산대학교병원",
+      "region": "경남동부권"
+    },
+    {
+      "name": "경상국립대학교병원",
+      "region": "경남서부권"
+    },
+    {
+      "name": "학교법인성균관대학교삼성창원병원",
+      "region": "경남서부권"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 상급종합병원 목록 (권역별) - Free Download",
+    "description": "보건복지부가 지정한 대한민국 상급종합병원을 진료권역별로 정리한 목록입니다. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 상급종합병원 목록 (권역별) | ListBase",
+    "seo_description": "Download 대한민국 상급종합병원 목록 (권역별) — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/상급종합병원"
+    ]
+  }
+}

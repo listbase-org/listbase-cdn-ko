@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:54.544Z",
-  "total_datasets": 463,
-  "total_records": 449825,
+  "generated": "2026-10-24T02:17:57.105Z",
+  "total_datasets": 464,
+  "total_records": 449872,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -6772,6 +6772,29 @@
         "xlsx": {
           "name": "ko-jilbyeong-gwalicheongjang_KO.xlsx",
           "size": 8746
+        }
+      }
+    },
+    {
+      "id": "ko-sanggeup-jonghap-byeongwon",
+      "name": "대한민국 상급종합병원 목록 (권역별)",
+      "category": "health",
+      "record_count": 47,
+      "columns": [
+        "name",
+        "region"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/상급종합병원",
+      "updated": "2026-10",
+      "size": 5752,
+      "files": {
+        "csv": {
+          "name": "ko-sanggeup-jonghap-byeongwon_KO.csv",
+          "size": 2274
+        },
+        "xlsx": {
+          "name": "ko-sanggeup-jonghap-byeongwon_KO.xlsx",
+          "size": 7828
         }
       }
     },
