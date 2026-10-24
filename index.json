@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:41.871Z",
-  "total_datasets": 458,
-  "total_records": 449494,
+  "generated": "2026-10-24T02:17:44.304Z",
+  "total_datasets": 459,
+  "total_records": 449645,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -6900,6 +6900,29 @@
         "xlsx": {
           "name": "ko-gugeo-romaja-pyogi_KO.xlsx",
           "size": 7966
+        }
+      }
+    },
+    {
+      "id": "ko-nambuk-eohwi-chai",
+      "name": "한국어 남북한 어휘 차이 (대표 예시)",
+      "category": "language",
+      "record_count": 151,
+      "columns": [
+        "south_korea",
+        "north_korea"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국어의_남북_간_차이",
+      "updated": "2026-10",
+      "size": 14325,
+      "files": {
+        "csv": {
+          "name": "ko-nambuk-eohwi-chai_KO.csv",
+          "size": 4353
+        },
+        "xlsx": {
+          "name": "ko-nambuk-eohwi-chai_KO.xlsx",
+          "size": 10830
         }
       }
     },

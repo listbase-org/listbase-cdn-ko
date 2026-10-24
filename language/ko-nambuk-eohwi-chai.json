@@ -1,0 +1,640 @@
+{
+  "id": "ko-nambuk-eohwi-chai",
+  "name": "한국어 남북한 어휘 차이 (대표 예시)",
+  "title": "한국어 남북한 어휘 차이 (대표 예시)",
+  "description": "대한민국(남한)과 조선민주주의인민공화국(북한)에서 서로 다르게 쓰이는 대표적인 어휘 대응 목록입니다.",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/한국어의_남북_간_차이",
+  "source_url": "https://ko.wikipedia.org/wiki/한국어의_남북_간_차이",
+  "updated": "2026-10",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "south_korea",
+      "label": "South Korea",
+      "type": "string"
+    },
+    {
+      "key": "north_korea",
+      "label": "North Korea",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "south_korea": "도넛",
+      "north_korea": "가락지빵"
+    },
+    {
+      "south_korea": "공무원",
+      "north_korea": "정무원"
+    },
+    {
+      "south_korea": "내구성",
+      "north_korea": "오래견딜성"
+    },
+    {
+      "south_korea": "농담",
+      "north_korea": "롱담"
+    },
+    {
+      "south_korea": "대중가요",
+      "north_korea": "군중가요"
+    },
+    {
+      "south_korea": "드레스/ 원피스",
+      "north_korea": "나리옷"
+    },
+    {
+      "south_korea": "서명",
+      "north_korea": "수표"
+    },
+    {
+      "south_korea": "셔츠",
+      "north_korea": "샤쯔"
+    },
+    {
+      "south_korea": "스웨터",
+      "north_korea": "세타"
+    },
+    {
+      "south_korea": "스커트",
+      "north_korea": "양복치마"
+    },
+    {
+      "south_korea": "아파트",
+      "north_korea": "고층살림집"
+    },
+    {
+      "south_korea": "원피스",
+      "north_korea": "달린옷"
+    },
+    {
+      "south_korea": "우울증",
+      "north_korea": "슬픔증"
+    },
+    {
+      "south_korea": "미혼모",
+      "north_korea": "해방처녀"
+    },
+    {
+      "south_korea": "벙어리장갑",
+      "north_korea": "통장갑"
+    },
+    {
+      "south_korea": "볶음밥",
+      "north_korea": "기름밥"
+    },
+    {
+      "south_korea": "분유",
+      "north_korea": "젖가루"
+    },
+    {
+      "south_korea": "빙수",
+      "north_korea": "단 얼음"
+    },
+    {
+      "south_korea": "사회인",
+      "north_korea": "사회사랑"
+    },
+    {
+      "south_korea": "새어머니",
+      "north_korea": "후어머니"
+    },
+    {
+      "south_korea": "잡곡밥",
+      "north_korea": "일럭밥"
+    },
+    {
+      "south_korea": "장모",
+      "north_korea": "가시어머니"
+    },
+    {
+      "south_korea": "장인어른",
+      "north_korea": "가시아버지"
+    },
+    {
+      "south_korea": "초등학교",
+      "north_korea": "인민학교 / 소학교"
+    },
+    {
+      "south_korea": "커튼",
+      "north_korea": "창가림막"
+    },
+    {
+      "south_korea": "파마머리",
+      "north_korea": "볶음머리"
+    },
+    {
+      "south_korea": "화장실",
+      "north_korea": "위생실"
+    },
+    {
+      "south_korea": "횡단로",
+      "north_korea": "건늠길"
+    },
+    {
+      "south_korea": "배웅하다",
+      "north_korea": "냄을 내다"
+    },
+    {
+      "south_korea": "괜찮다",
+      "north_korea": "일없다"
+    },
+    {
+      "south_korea": "네티즌",
+      "north_korea": "망시민"
+    },
+    {
+      "south_korea": "라면",
+      "north_korea": "꼬부랑국수/즉석국수"
+    },
+    {
+      "south_korea": "깨끗",
+      "north_korea": "끌끌"
+    },
+    {
+      "south_korea": "삿대질",
+      "north_korea": "손가락총질"
+    },
+    {
+      "south_korea": "PC방",
+      "north_korea": "첨단기술봉사소"
+    },
+    {
+      "south_korea": "튜브",
+      "north_korea": "뜰주머니"
+    },
+    {
+      "south_korea": "터널",
+      "north_korea": "차굴"
+    },
+    {
+      "south_korea": "회전문",
+      "north_korea": "도는문"
+    },
+    {
+      "south_korea": "브래지어",
+      "north_korea": "젖싸개"
+    },
+    {
+      "south_korea": "탈모증",
+      "north_korea": "털빠짐증"
+    },
+    {
+      "south_korea": "전구",
+      "north_korea": "불알"
+    },
+    {
+      "south_korea": "왕따",
+      "north_korea": "모서리주기"
+    },
+    {
+      "south_korea": "멸균",
+      "north_korea": "균 깡그리 죽이기"
+    },
+    {
+      "south_korea": "사귀다",
+      "north_korea": "서로 엇갈려 지나가다"
+    },
+    {
+      "south_korea": "젤리",
+      "north_korea": "단묵"
+    },
+    {
+      "south_korea": "돌고래",
+      "north_korea": "곱등어"
+    },
+    {
+      "south_korea": "빨리",
+      "north_korea": "날래"
+    },
+    {
+      "south_korea": "가르치다",
+      "north_korea": "배워주다"
+    },
+    {
+      "south_korea": "다이어트",
+      "north_korea": "살까기"
+    },
+    {
+      "south_korea": "스타킹",
+      "north_korea": "하루살이 양말"
+    },
+    {
+      "south_korea": "혈액형",
+      "north_korea": "피형"
+    },
+    {
+      "south_korea": "소꿉친구",
+      "north_korea": "송아지동무"
+    },
+    {
+      "south_korea": "단점",
+      "north_korea": "부족점"
+    },
+    {
+      "south_korea": "주차장",
+      "north_korea": "차마당"
+    },
+    {
+      "south_korea": "가발",
+      "north_korea": "덧머리"
+    },
+    {
+      "south_korea": "나이프",
+      "north_korea": "밥상칼"
+    },
+    {
+      "south_korea": "아이스크림",
+      "north_korea": "얼음과자"
+    },
+    {
+      "south_korea": "무지개",
+      "north_korea": "색동다리"
+    },
+    {
+      "south_korea": "샴푸",
+      "north_korea": "머리비누 / 머리물비누"
+    },
+    {
+      "south_korea": "샤워",
+      "north_korea": "몸비누"
+    },
+    {
+      "south_korea": "빨래",
+      "north_korea": "빨래비누"
+    },
+    {
+      "south_korea": "스트레스",
+      "north_korea": "속골이 아프다"
+    },
+    {
+      "south_korea": "철로",
+      "north_korea": "레루"
+    },
+    {
+      "south_korea": "놀이공원",
+      "north_korea": "유희장"
+    },
+    {
+      "south_korea": "후룸라이드",
+      "north_korea": "물미끄럼 배"
+    },
+    {
+      "south_korea": "대기실",
+      "north_korea": "기다림칸"
+    },
+    {
+      "south_korea": "입장권",
+      "north_korea": "나들표"
+    },
+    {
+      "south_korea": "판정승",
+      "north_korea": "점수이김"
+    },
+    {
+      "south_korea": "호우",
+      "north_korea": "무더기비"
+    },
+    {
+      "south_korea": "커피",
+      "north_korea": "흑차"
+    },
+    {
+      "south_korea": "핸드폰",
+      "north_korea": "손전화"
+    },
+    {
+      "south_korea": "팬티스타킹",
+      "north_korea": "양말바지"
+    },
+    {
+      "south_korea": "햄버거",
+      "north_korea": "고기겹빵"
+    },
+    {
+      "south_korea": "떡",
+      "north_korea": "똑"
+    },
+    {
+      "south_korea": "오이",
+      "north_korea": "어이"
+    },
+    {
+      "south_korea": "보초",
+      "north_korea": "버처"
+    },
+    {
+      "south_korea": "야간경기",
+      "north_korea": "등불경기"
+    },
+    {
+      "south_korea": "오프사이드",
+      "north_korea": "공격어김"
+    },
+    {
+      "south_korea": "헤딩",
+      "north_korea": "머리박기"
+    },
+    {
+      "south_korea": "골대",
+      "north_korea": "축구문"
+    },
+    {
+      "south_korea": "샌드위치",
+      "north_korea": "겹빵이"
+    },
+    {
+      "south_korea": "냉면",
+      "north_korea": "찬국수"
+    },
+    {
+      "south_korea": "노크",
+      "north_korea": "손기척"
+    },
+    {
+      "south_korea": "마스크",
+      "north_korea": "얼굴가리개"
+    },
+    {
+      "south_korea": "횡단보도",
+      "north_korea": "건늠길"
+    },
+    {
+      "south_korea": "거짓말",
+      "north_korea": "후라이"
+    },
+    {
+      "south_korea": "밥솥",
+      "north_korea": "밥가마"
+    },
+    {
+      "south_korea": "원거리 무역",
+      "north_korea": "달리기 장사"
+    },
+    {
+      "south_korea": "택시",
+      "north_korea": "발바리차"
+    },
+    {
+      "south_korea": "부딪히다 / 건배하다",
+      "north_korea": "찧다"
+    },
+    {
+      "south_korea": "호랑이",
+      "north_korea": "범"
+    },
+    {
+      "south_korea": "수달",
+      "north_korea": "물족제비"
+    },
+    {
+      "south_korea": "삵",
+      "north_korea": "멧고양이"
+    },
+    {
+      "south_korea": "검독수리",
+      "north_korea": "번대수리"
+    },
+    {
+      "south_korea": "트렉터",
+      "north_korea": "뜨락또르"
+    },
+    {
+      "south_korea": "수레",
+      "north_korea": "구르마"
+    },
+    {
+      "south_korea": "움직이다",
+      "north_korea": "놀리다"
+    },
+    {
+      "south_korea": "독일",
+      "north_korea": "도이칠란드"
+    },
+    {
+      "south_korea": "바이러스",
+      "north_korea": "비루스"
+    },
+    {
+      "south_korea": "목캔디",
+      "north_korea": "귤향 껌"
+    },
+    {
+      "south_korea": "양파링",
+      "north_korea": "양파맛 튀기과자"
+    },
+    {
+      "south_korea": "새우깡",
+      "north_korea": "새우맛 튀기과자"
+    },
+    {
+      "south_korea": "초코파이",
+      "north_korea": "쵸콜레트 단설기"
+    },
+    {
+      "south_korea": "촉촉한 초코칩",
+      "north_korea": "쵸콜레트 과자 / 과일과자"
+    },
+    {
+      "south_korea": "빼빼로",
+      "north_korea": "꼬치과자"
+    },
+    {
+      "south_korea": "롯데샌드/뽀또",
+      "north_korea": "크림겹과자"
+    },
+    {
+      "south_korea": "죠리퐁",
+      "north_korea": "밀쌀튀기"
+    },
+    {
+      "south_korea": "불닭볶음면",
+      "north_korea": "매운닭고기맛 짜장면"
+    },
+    {
+      "south_korea": "계란과자",
+      "north_korea": "닭알과자"
+    },
+    {
+      "south_korea": "와플과자",
+      "north_korea": "바삭과자"
+    },
+    {
+      "south_korea": "ABC 초콜렛",
+      "north_korea": "초콜레트 사탕"
+    },
+    {
+      "south_korea": "환타 (오렌지)",
+      "north_korea": "귤향 탄산 단물"
+    },
+    {
+      "south_korea": "신라면/쇠고기맛",
+      "north_korea": "소고기맛 즉석국수"
+    },
+    {
+      "south_korea": "포스틱",
+      "north_korea": "소고기맛 감자튀기"
+    },
+    {
+      "south_korea": "꼬깔콘",
+      "north_korea": "낙지맛 튀기과자"
+    },
+    {
+      "south_korea": "코카콜라",
+      "north_korea": "코코아야자 탄산단물"
+    },
+    {
+      "south_korea": "포테토칩 / 감자튀김",
+      "north_korea": "감자편튀기"
+    },
+    {
+      "south_korea": "스프라이트",
+      "north_korea": "레몬 사이다"
+    },
+    {
+      "south_korea": "크림 웨하스",
+      "north_korea": "백합과자"
+    },
+    {
+      "south_korea": "확진자",
+      "north_korea": "유열병"
+    },
+    {
+      "south_korea": "KFC",
+      "north_korea": "KHC(금성 건강센터)"
+    },
+    {
+      "south_korea": "담비",
+      "north_korea": "산달"
+    },
+    {
+      "south_korea": "참이슬",
+      "north_korea": "참대술"
+    },
+    {
+      "south_korea": "맥심 커피",
+      "north_korea": "맥카 오리지날"
+    },
+    {
+      "south_korea": "횡단보도",
+      "north_korea": "길 건너가는 사람 주의"
+    },
+    {
+      "south_korea": "어린이 보호",
+      "north_korea": "어린이 주의"
+    },
+    {
+      "south_korea": "자전거",
+      "north_korea": "자전거 주의"
+    },
+    {
+      "south_korea": "철길건널목",
+      "north_korea": "기차 주의"
+    },
+    {
+      "south_korea": "미끄러운 도로",
+      "north_korea": "미끄럼 길 주의"
+    },
+    {
+      "south_korea": "정지",
+      "north_korea": "섯"
+    },
+    {
+      "south_korea": "주차",
+      "north_korea": "둠"
+    },
+    {
+      "south_korea": "표지판",
+      "north_korea": "표식판"
+    },
+    {
+      "south_korea": "고급 아이스크림",
+      "north_korea": "에스키모"
+    },
+    {
+      "south_korea": "헬로키티",
+      "north_korea": "크림 속사탕"
+    },
+    {
+      "south_korea": "콘푸로스트",
+      "north_korea": "강냉이 편튀기"
+    },
+    {
+      "south_korea": "후르트링",
+      "north_korea": "강냉이 고리튀기"
+    },
+    {
+      "south_korea": "뷔페",
+      "north_korea": "부페트"
+    },
+    {
+      "south_korea": "포장마차",
+      "north_korea": "막매대"
+    },
+    {
+      "south_korea": "노점상",
+      "north_korea": "메뚜기 장마당"
+    },
+    {
+      "south_korea": "도시락",
+      "north_korea": "곽밥"
+    },
+    {
+      "south_korea": "치킨",
+      "north_korea": "닭다리살튀기"
+    },
+    {
+      "south_korea": "당나귀",
+      "north_korea": "하늘소"
+    },
+    {
+      "south_korea": "스트라이크",
+      "north_korea": "정확한 공"
+    },
+    {
+      "south_korea": "볼",
+      "north_korea": "부정확한 공"
+    },
+    {
+      "south_korea": "홈런",
+      "north_korea": "본루타 혹은 둥근타구"
+    },
+    {
+      "south_korea": "아웃",
+      "north_korea": "실격"
+    },
+    {
+      "south_korea": "투수",
+      "north_korea": "넣는 사람"
+    },
+    {
+      "south_korea": "타자",
+      "north_korea": "타자수"
+    },
+    {
+      "south_korea": "태그",
+      "north_korea": "공 다치기"
+    },
+    {
+      "south_korea": "번트",
+      "north_korea": "살짝치기"
+    },
+    {
+      "south_korea": "병살타",
+      "north_korea": "2중실격 결합방어기술"
+    }
+  ],
+  "meta": {
+    "title": "한국어 남북한 어휘 차이 (대표 예시) - Free Download",
+    "description": "대한민국(남한)과 조선민주주의인민공화국(북한)에서 서로 다르게 쓰이는 대표적인 어휘 대응 목록입니다. Contains 151 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국어 남북한 어휘 차이 (대표 예시) | ListBase",
+    "seo_description": "Download 한국어 남북한 어휘 차이 (대표 예시) — 151 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 151 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국어의_남북_간_차이"
+    ]
+  }
+}
