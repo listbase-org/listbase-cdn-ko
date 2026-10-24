@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:52.103Z",
-  "total_datasets": 462,
-  "total_records": 449748,
+  "generated": "2026-10-24T02:17:54.544Z",
+  "total_datasets": 463,
+  "total_records": 449825,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -745,6 +745,33 @@
         "xlsx": {
           "name": "ko-jaejeong-gyeongje-janggwan_KO.xlsx",
           "size": 10749
+        }
+      }
+    },
+    {
+      "id": "ko-saneop-tongsang-janggwan",
+      "name": "대한민국 역대 산업·통상 부처 장관 (상공부~산업통상부)",
+      "category": "economy",
+      "record_count": 77,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "start_date",
+        "end_date",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_산업통상부_장관",
+      "updated": "2026-10",
+      "size": 20399,
+      "files": {
+        "csv": {
+          "name": "ko-saneop-tongsang-janggwan_KO.csv",
+          "size": 8933
+        },
+        "xlsx": {
+          "name": "ko-saneop-tongsang-janggwan_KO.xlsx",
+          "size": 10193
         }
       }
     },
