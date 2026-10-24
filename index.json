@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-23T02:10:54.385Z",
-  "total_datasets": 447,
-  "total_records": 448468,
+  "generated": "2026-10-24T02:17:11.068Z",
+  "total_datasets": 448,
+  "total_records": 449060,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -2408,6 +2408,32 @@
         "xlsx": {
           "name": "ko-baljeonso_KO.xlsx",
           "size": 18521
+        }
+      }
+    },
+    {
+      "id": "ko-cheonyeon-ginyeommul",
+      "name": "대한민국의 천연기념물 목록 (제1호~)",
+      "category": "environment",
+      "record_count": 592,
+      "columns": [
+        "number",
+        "name",
+        "location",
+        "custodian",
+        "designation"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_천연기념물",
+      "updated": "2026-10",
+      "size": 180765,
+      "files": {
+        "csv": {
+          "name": "ko-cheonyeon-ginyeommul_KO.csv",
+          "size": 116751
+        },
+        "xlsx": {
+          "name": "ko-cheonyeon-ginyeommul_KO.xlsx",
+          "size": 55453
         }
       }
     },
