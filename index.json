@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:34.232Z",
-  "total_datasets": 455,
-  "total_records": 449340,
+  "generated": "2026-10-24T02:17:36.736Z",
+  "total_datasets": 456,
+  "total_records": 449367,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3119,6 +3119,30 @@
         "xlsx": {
           "name": "ko-hanguk-guksu_KO.xlsx",
           "size": 8981
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-yori",
+      "name": "한국 요리 목록 (유형별)",
+      "category": "food",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "type",
+        "description"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국_요리_목록",
+      "updated": "2026-10",
+      "size": 6959,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-yori_KO.csv",
+          "size": 3820
+        },
+        "xlsx": {
+          "name": "ko-hanguk-yori_KO.xlsx",
+          "size": 8727
         }
       }
     },

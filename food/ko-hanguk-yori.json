@@ -1,0 +1,176 @@
+{
+  "id": "ko-hanguk-yori",
+  "name": "한국 요리 목록 (유형별)",
+  "title": "한국 요리 목록 (유형별)",
+  "description": "구이, 찜, 전, 회, 궁중 음식 등 유형별로 분류한 한국 요리 이름과 간단한 설명 목록입니다.",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/한국_요리_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/한국_요리_목록",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "구절판",
+      "type": "궁중 음식",
+      "description": "둘레의 여덟 칸에 각각 여덟 가지 음식을 담고, 가운데 둥근 칸에는 밀전병을 담아 둘레의 음식을 골고루 조금씩 집어 밀전병에 싸서 먹는 음식이다. 궁실이나 반가에서 특별한 날에 먹었던 음식이다."
+    },
+    {
+      "name": "신선로",
+      "type": "궁중 음식",
+      "description": "신선로라는 탕기에 끓여먹는다 하여 신선로라는 이름이 붙여졌다. 이 탕기는 가운데 화통이 달려 있어 숯 을 넣도록 되어 있고, 쇠고기 와 숭어, 민어, 전복, 해삼 등과 같은 해산물 에 무, 미나리, 은행, 버섯 등의 채소 등을 둘러서 국물을 부어 즉석에서 끓여먹는다. 들어가는 재료에 따라서 해물신선로, 면신선로라 불리기도 하며, 다양한 재료가 필요하고 조리에도 시간과 정성이 들어가 고급스럽고 화려한 음식이다."
+    },
+    {
+      "name": "불고기",
+      "type": "구이",
+      "description": "간장, 참기름, 마늘, 설탕, 파, 후추에 절인 얇게 썬 쇠고기를 구워서 조리하는 음식이다. 재료에 따라, 돼지 불고기, 닭 불고기 또는 오징어 불고기 등의 변형이 가능하다."
+    },
+    {
+      "name": "갈비",
+      "type": "구이",
+      "description": "돼지나 소의 갈비를 갖은 양념에 절여 구워낸 음식이다. 일반적으로 고기는 불고기보다 두껍게 썰어 낸다."
+    },
+    {
+      "name": "닭갈비",
+      "type": "구이",
+      "description": "양념에 절인 닭고기를 고추장 양념에 볶아 내는 음식으로, 양배추, 고구마, 양파, 떡 등과 함께 볶는다."
+    },
+    {
+      "name": "삼겹살 구이",
+      "type": "구이",
+      "description": "돼지 삼겹살 을 구워 내는 음식이다. 일반적으로 불판에 김치, 마늘, 양파 등을 같이 놓고 구워낸다. 상추에 싸서 먹기도 하며, 기호에 따라 참기름이나 소금, 쌈장 등을 겯들인다."
+    },
+    {
+      "name": "곱창구이",
+      "type": "구이",
+      "description": "돼지 또는 소의 곱창을 구워내는 음식이다. 마늘, 고추, 파 등을 다져서 넣은 된장을 같이 낸다."
+    },
+    {
+      "name": "막창구이",
+      "type": "구이",
+      "description": "양념에 절인 막창 을 구워내는 음식이다. 곱창구이와 비슷하지만, 막창을 굽는다는 점만 다르다. 대구 및 경상도 지역에서 매우 인기 있는 음식이다."
+    },
+    {
+      "name": "생선 구이",
+      "type": "구이",
+      "description": ""
+    },
+    {
+      "name": "조개 구이",
+      "type": "구이",
+      "description": ""
+    },
+    {
+      "name": "석화 구이",
+      "type": "구이",
+      "description": ""
+    },
+    {
+      "name": "더덕 구이",
+      "type": "구이",
+      "description": ""
+    },
+    {
+      "name": "버섯 구이",
+      "type": "구이",
+      "description": ""
+    },
+    {
+      "name": "구운 김",
+      "type": "구이",
+      "description": "마른 김 을 구워 낸다."
+    },
+    {
+      "name": "갈비찜",
+      "type": "찜",
+      "description": "양념에 절인 소 갈비 와 감자, 당근 등의 야채를 간장 으로 만드는 양념에 쪄내는 음식이다."
+    },
+    {
+      "name": "안동찜닭",
+      "type": "찜",
+      "description": "닭고기와 야채, 당면 등을 간장 으로 만드는 양념에 쪄내는 음식이다."
+    },
+    {
+      "name": "아귀찜",
+      "type": "찜",
+      "description": "아귀 와 미더덕, 콩나물 과 같은 부재료를 넣고 쪄내는 음식이다."
+    },
+    {
+      "name": "전복찜",
+      "type": "찜",
+      "description": "전복 을 쪄내는 음식으로, 간장 과 청주 로 만든 양념을 쓰기도 한다."
+    },
+    {
+      "name": "계란찜",
+      "type": "찜",
+      "description": "계란을 쪄내는 음식으로, 때로는 날치알 등을 곁들인다."
+    },
+    {
+      "name": "호박전",
+      "type": "전",
+      "description": "애호박 에 밀가루와 달걀물을 뭍힌 다음, 기름에 두른 번철 이나 프라이팬 에 지져서 만드는 음식이다."
+    },
+    {
+      "name": "두부전",
+      "type": "전",
+      "description": "두부, 고기, 야채를 갈아서 전 으로 만들어 내는 요리이다."
+    },
+    {
+      "name": "김치전",
+      "type": "전",
+      "description": "김치를 사용해 전을 만드는 음식이다."
+    },
+    {
+      "name": "오이선",
+      "type": "선",
+      "description": "오이를 재료로 한 선 요리이다."
+    },
+    {
+      "name": "산낙지",
+      "type": "회",
+      "description": "살아 있는 낙지 를 여러 덩어리로 잘게 잘라 깨와 참기름으로 살짝 양념에 곁들여 먹는 음식이다."
+    },
+    {
+      "name": "육회",
+      "type": "회",
+      "description": "채를 친 쇠고기 를 익히지 않고, 갖은 양념으로 버무려 먹는 음식이다. 유사한 외국 음식으로는 타르타르 스테이크 가 있다."
+    },
+    {
+      "name": "숙회",
+      "type": "회",
+      "description": "생선이나, 오징어, 문어 등을 살짝 삶아 만든 음식이다."
+    },
+    {
+      "name": "강회",
+      "type": "회",
+      "description": "해산물이나 당근, 계란 등을 삶아낸 파, 부추 등으로 말아서 만든 음식이다."
+    }
+  ],
+  "meta": {
+    "title": "한국 요리 목록 (유형별) - Free Download",
+    "description": "구이, 찜, 전, 회, 궁중 음식 등 유형별로 분류한 한국 요리 이름과 간단한 설명 목록입니다. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국 요리 목록 (유형별) | ListBase",
+    "seo_description": "Download 한국 요리 목록 (유형별) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국_요리_목록"
+    ]
+  }
+}
