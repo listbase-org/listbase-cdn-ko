@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:59.768Z",
-  "total_datasets": 465,
-  "total_records": 449919,
+  "generated": "2026-10-24T02:18:02.334Z",
+  "total_datasets": 466,
+  "total_records": 449937,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -6821,6 +6821,33 @@
         "xlsx": {
           "name": "ko-sanggeup-jonghap-byeongwon_KO.xlsx",
           "size": 7828
+        }
+      }
+    },
+    {
+      "id": "ko-sikpum-uiyakpum-anjeoncheojang",
+      "name": "대한민국 역대 식품의약품안전처장",
+      "category": "health",
+      "record_count": 18,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "term",
+        "government",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_식품의약품안전처장",
+      "updated": "2026-10",
+      "size": 6077,
+      "files": {
+        "csv": {
+          "name": "ko-sikpum-uiyakpum-anjeoncheojang_KO.csv",
+          "size": 2279
+        },
+        "xlsx": {
+          "name": "ko-sikpum-uiyakpum-anjeoncheojang_KO.xlsx",
+          "size": 7946
         }
       }
     },
