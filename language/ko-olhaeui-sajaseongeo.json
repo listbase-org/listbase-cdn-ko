@@ -1,0 +1,226 @@
+{
+  "id": "ko-olhaeui-sajaseongeo",
+  "name": "교수신문 올해의 사자성어 (2001~)",
+  "title": "교수신문 올해의 사자성어 (2001~)",
+  "description": "교수신문이 매년 선정하는 올해의 사자성어와 그 뜻·풀이를 연도별로 정리한 목록입니다.",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/올해의_사자성어",
+  "source_url": "https://ko.wikipedia.org/wiki/올해의_사자성어",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "idiom_hanja",
+      "label": "Idiom Hanja",
+      "type": "string"
+    },
+    {
+      "key": "idiom_hangul",
+      "label": "Idiom Hangul",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    },
+    {
+      "key": "context",
+      "label": "Context",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2001년",
+      "idiom_hanja": "五里霧中",
+      "idiom_hangul": "오리무중",
+      "meaning": "짙은 안개가 5리나 끼어 있는 속에 있다.",
+      "context": "깊은 안개 속에 들어서게 되면 동서남북도 가리지 못하고 길을 찾기 힘든 것처럼 무슨 일에 대해 알 길이 없음."
+    },
+    {
+      "year": "2002년",
+      "idiom_hanja": "離合集散",
+      "idiom_hangul": "이합집산",
+      "meaning": "헤어졌다 모이고 모였다 다시 흩어짐.",
+      "context": "뭉치고 흩어짐."
+    },
+    {
+      "year": "2003년",
+      "idiom_hanja": "右往左往",
+      "idiom_hangul": "우왕좌왕",
+      "meaning": "이리저리 왔다 갔다 하다.",
+      "context": "일이나 나아가는 방향이 종잡지 못함."
+    },
+    {
+      "year": "2004년",
+      "idiom_hanja": "黨同伐異",
+      "idiom_hangul": "당동벌이",
+      "meaning": "무리가 뭉쳐 다른 무리를 치다.",
+      "context": "옳고 그름의 여하간에 한 무리에 속한 사람들이 다른 무리의 사람을 무조건 배격하는 것."
+    },
+    {
+      "year": "2005년",
+      "idiom_hanja": "上火下澤",
+      "idiom_hangul": "상화하택",
+      "meaning": "위에는 불, 아래에는 못.",
+      "context": "사물들이 서로 이반하고 분열하는 현상"
+    },
+    {
+      "year": "2006년",
+      "idiom_hanja": "密雲不雨",
+      "idiom_hangul": "밀운불우",
+      "meaning": "하늘에 구름만 빽빽하고 비가 되어 내리지 못함.",
+      "context": "주역(周易) 소축괘(小畜卦)의 괘사(卦辭)에 나오는 말로서, 여건은 조성되었으나 일이 성사되지 않아 답답함과 불만이 폭발할 것 같은 상황"
+    },
+    {
+      "year": "2007년",
+      "idiom_hanja": "自欺欺人",
+      "idiom_hangul": "자기기인",
+      "meaning": "자신을 속이고 남을 속인다.",
+      "context": "자신도 믿지 않는 말이나 행동으로 남까지 속이는 사람을 풍자한다."
+    },
+    {
+      "year": "2008년",
+      "idiom_hanja": "護疾忌醫",
+      "idiom_hangul": "호질기의",
+      "meaning": "병을 숨기면서 의사에게 보이지 않음.",
+      "context": "문제가 있는데도 다른 사람의 충고를 듣지 않는다."
+    },
+    {
+      "year": "2009년",
+      "idiom_hanja": "旁岐曲逕",
+      "idiom_hangul": "방기곡경",
+      "meaning": "샛길과 굽은 길로서 많은 사람들이 다니는 큰 길이 아니다.",
+      "context": "일을 바른 길을 좇아서 정당하고 순탄하게 하지 않고 그릇된 수단을 써서 억지로 함."
+    },
+    {
+      "year": "2010년",
+      "idiom_hanja": "藏頭露尾",
+      "idiom_hangul": "장두노미",
+      "meaning": "머리는 겨우 숨겼지만 꼬리가 드러나 보이는 모습.",
+      "context": "진실을 공개하지 않고 숨기려 했지만 거짓의 실마리가 이미 드러나 보인다."
+    },
+    {
+      "year": "2011년",
+      "idiom_hanja": "掩耳盜鐘",
+      "idiom_hangul": "엄이도종",
+      "meaning": "자기 귀를 막고 종을 훔친다.",
+      "context": "자기가 나쁜 일을 하고도 잘못됐다는 생각은 하지 않고 다른 사람의 비난을 듣기 싫어 귀를 막지만 소용이 없음."
+    },
+    {
+      "year": "2012년",
+      "idiom_hanja": "擧世皆濁",
+      "idiom_hangul": "거세개탁",
+      "meaning": "온 세상이 모두 흐리다.",
+      "context": "지위의 높고 낮음을 막론하고 모든 사람이 바르지 않아 홀로 깨어 있기 힘들다는 뜻으로 초나라의 충신 굴원(屈原)이 지은 어부사(漁父辭)에 실린 고사성어다."
+    },
+    {
+      "year": "2013년",
+      "idiom_hanja": "倒行逆施",
+      "idiom_hangul": "도행역시",
+      "meaning": "순리를 거슬러 행동한다.",
+      "context": "잘못된 길을 고집하거나 시대착오적으로 나쁜 일을 꾀하는 것을 비유하는 말. 《사기》(史記) 〈오자서열전〉(伍子胥列傳)에 등장하는 오자서가 그의 벗 신포서에게 한 말로, 어쩔 수 없는 처지 때문에 도리에 어긋나는 줄 알면서도 부득이하게 순리에 거스르는 행동을 했다는 데서 유래."
+    },
+    {
+      "year": "2014년",
+      "idiom_hanja": "指鹿爲馬",
+      "idiom_hangul": "지록위마",
+      "meaning": "사슴을 가리켜 말이라고 일컫는다.",
+      "context": "윗사람을 농락하여 권세를 마음대로 함. 모순된 것을 끝까지 우겨서 남을 속이려 함."
+    },
+    {
+      "year": "2015년",
+      "idiom_hanja": "昏庸無道",
+      "idiom_hangul": "혼용무도",
+      "meaning": "나라 상황이 마치 암흑에 뒤덮인 것처럼 온통 어지럽다.",
+      "context": "혼용은 어리석고 무능한 군주를 가리키는 혼군과 용군이 합쳐져 이뤄진 말로, 각박해진 사회분위기의 책임을 군주, 다시 말해 지도자에게 묻는 말이다."
+    },
+    {
+      "year": "2016년",
+      "idiom_hanja": "君舟民水",
+      "idiom_hangul": "군주민수",
+      "meaning": "임금은 배요, 백성은 물이로다.",
+      "context": "강물의 힘은 배를 뜨게 하지만 강물이 화가 나면 배를 뒤집을 수도 있다."
+    },
+    {
+      "year": "2017년",
+      "idiom_hanja": "破邪顯正",
+      "idiom_hangul": "파사현정",
+      "meaning": "사견(邪見)과 사도(邪道)를 깨고 정법(正法)을 드러내다.",
+      "context": "불교 삼론종(三論宗)의 기본 교의로서 부처님의 가르침에 어긋나는 사악한 도리를 부수고 바른 도리를 드러낸다는 뜻이다."
+    },
+    {
+      "year": "2018년",
+      "idiom_hanja": "任重道遠",
+      "idiom_hangul": "임중도원",
+      "meaning": "짐은 무겁고, 갈 길은 멀다.",
+      "context": "논어의 한 구절. 큰 일을 맡아 책임은 무겁고 할 일도 많음."
+    },
+    {
+      "year": "2019년",
+      "idiom_hanja": "共命之鳥",
+      "idiom_hangul": "공명지조",
+      "meaning": "상대방을 죽이면 결국 함께 죽는다.",
+      "context": "아미타경 · 불봅행집경 · 잡보잡경 등의 많은 불교경전에 등장하는 새로 두 개의 머리가 한 몸을 갖고 공유하는 '운명공동체'를 뜻한다."
+    },
+    {
+      "year": "2020년",
+      "idiom_hanja": "我是他非",
+      "idiom_hangul": "아시타비",
+      "meaning": "나는 옳고 남은 그르다.",
+      "context": "모든 잘못을 남 탓으로 돌리고 서로를 상스럽게 비난하고 헐뜯는 소모적 싸움만 무성할 뿐 협업해서 건설적으로 문제를 해결하려는 노력은 보이지 않는다."
+    },
+    {
+      "year": "2021년",
+      "idiom_hanja": "猫鼠同處",
+      "idiom_hangul": "묘서동처",
+      "meaning": "고양이와 쥐가 함께 있다.",
+      "context": "구당서에서 유래. 위아래에 있는 벼슬아치가 부정하게 결탁하여 나쁜 행동을 한다."
+    },
+    {
+      "year": "2022년",
+      "idiom_hanja": "過而不改",
+      "idiom_hangul": "과이불개",
+      "meaning": "잘못을 하고도 고치지 않는다.",
+      "context": "논어 위령공편에서 유래. 지도층 인사들이 잘못을 저지르고도 고치지 않는 언행을 보여준다."
+    },
+    {
+      "year": "2023년",
+      "idiom_hanja": "見利忘義",
+      "idiom_hangul": "견리망의",
+      "meaning": "이로움을 보면 의로움을 잊는다.",
+      "context": "논어 헌문편에서 유래. 나라 자체가 각자도생인 상황에서 자기 편만의 이익을 추구하여 어지러운 사회를 보여준다."
+    },
+    {
+      "year": "2024년",
+      "idiom_hanja": "跳梁跋扈",
+      "idiom_hangul": "도량발호",
+      "meaning": "제멋대로 권력이나 세력을 부리면서 함부로 날뛴다.",
+      "context": "서거정의 수필 《오원자부》(烏圓子賦, 고양이(烏圓子, 오원자)의 노래)에서 등장. 권력자들 자신이 권력의 원천인 것처럼 행동하는 사회를 보여준다."
+    },
+    {
+      "year": "2025년",
+      "idiom_hanja": "變動不居",
+      "idiom_hangul": "변동불거",
+      "meaning": "세상이 잠시도 멈추지 않고 끊임없이 흘러가면서 변한다.",
+      "context": "거센 변동의 소용돌이 속에 놓여 있는 대한민국 사회는 미래가 불확실한 시대에서 안정과 지속 가능성을 고민해야 한다."
+    }
+  ],
+  "meta": {
+    "title": "교수신문 올해의 사자성어 (2001~) - Free Download",
+    "description": "교수신문이 매년 선정하는 올해의 사자성어와 그 뜻·풀이를 연도별로 정리한 목록입니다. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "교수신문 올해의 사자성어 (2001~) | ListBase",
+    "seo_description": "Download 교수신문 올해의 사자성어 (2001~) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/올해의_사자성어"
+    ]
+  }
+}

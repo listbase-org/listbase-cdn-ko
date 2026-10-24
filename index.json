@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:46.849Z",
-  "total_datasets": 460,
-  "total_records": 449679,
+  "generated": "2026-10-24T02:17:49.623Z",
+  "total_datasets": 461,
+  "total_records": 449704,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6974,6 +6974,32 @@
         "xlsx": {
           "name": "ko-nara-ireum-hanja_KO.xlsx",
           "size": 16883
+        }
+      }
+    },
+    {
+      "id": "ko-olhaeui-sajaseongeo",
+      "name": "교수신문 올해의 사자성어 (2001~)",
+      "category": "language",
+      "record_count": 25,
+      "columns": [
+        "year",
+        "idiom_hanja",
+        "idiom_hangul",
+        "meaning",
+        "context"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/올해의_사자성어",
+      "updated": "2026-10",
+      "size": 10230,
+      "files": {
+        "csv": {
+          "name": "ko-olhaeui-sajaseongeo_KO.csv",
+          "size": 5888
+        },
+        "xlsx": {
+          "name": "ko-olhaeui-sajaseongeo_KO.xlsx",
+          "size": 10389
         }
       }
     },
