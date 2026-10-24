@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:49.623Z",
-  "total_datasets": 461,
-  "total_records": 449704,
+  "generated": "2026-10-24T02:17:52.103Z",
+  "total_datasets": 462,
+  "total_records": 449748,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2652,6 +2652,33 @@
         "xlsx": {
           "name": "ko-ramsar-seupji_KO.xlsx",
           "size": 10041
+        }
+      }
+    },
+    {
+      "id": "ko-sallimcheongjang",
+      "name": "대한민국 역대 산림청장",
+      "category": "environment",
+      "record_count": 44,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "term",
+        "government",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_산림청장",
+      "updated": "2026-10",
+      "size": 11344,
+      "files": {
+        "csv": {
+          "name": "ko-sallimcheongjang_KO.csv",
+          "size": 4757
+        },
+        "xlsx": {
+          "name": "ko-sallimcheongjang_KO.xlsx",
+          "size": 9282
         }
       }
     },

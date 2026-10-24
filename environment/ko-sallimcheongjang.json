@@ -1,0 +1,408 @@
+{
+  "id": "ko-sallimcheongjang",
+  "name": "대한민국 역대 산림청장",
+  "title": "대한민국 역대 산림청장",
+  "description": "농림부 산림국장부터 현재까지 대한민국 산림청의 역대 청장 목록입니다.",
+  "category": "environment",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_산림청장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_산림청장",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "농림부 산림국장",
+      "term_no": "초대",
+      "name": "여도현(呂道鉉)",
+      "term": "1948년 10월 1일~1949년 4월 27일",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "농림부 산림국장",
+      "term_no": "2대",
+      "name": "김병주(金炳周)",
+      "term": "1949년 4월 27일~",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "농림부 산림국장",
+      "term_no": "",
+      "name": "",
+      "term": "",
+      "government": "제1공화국",
+      "note": ""
+    },
+    {
+      "office": "농림부 산림국장",
+      "term_no": "",
+      "name": "김영준(金榮俊)",
+      "term": "1954년 4월 8일~1960년 5월 15일",
+      "government": "제1공화국",
+      "note": "농림부 차관&농림부 장관&임업시험장장"
+    },
+    {
+      "office": "농림부 산림국장",
+      "term_no": "",
+      "name": "심종섭(沈鍾燮)",
+      "term": "1961년 5월 3일~1965년 2월 12일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "농림부 산림국장",
+      "term_no": "",
+      "name": "조한욱(趙漢旭)",
+      "term": "1965년 2월 12일~1966년 12월 31일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "초대",
+      "name": "김영진(金英鎭)",
+      "term": "1967년 1월 1일~1971년 6월 11일",
+      "government": "제3공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "2대",
+      "name": "강봉수(姜鳳秀)",
+      "term": "1971년 6월 12일~1973년 1월 15일",
+      "government": "제3공화국, 제4공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "3대",
+      "name": "손수익(孫守益)",
+      "term": "1973년 1월 16일~1978년 9월 10일",
+      "government": "제4공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "4대",
+      "name": "장일훈(張日勳)",
+      "term": "1978년 9월 11일~1980년 7월 8일",
+      "government": "제4공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "5대",
+      "name": "김준배(金俊培)",
+      "term": "1980년 7월 18일~1981년 6월 17일",
+      "government": "제4공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "6대",
+      "name": "이상희(李相熙)",
+      "term": "1981년 6월 18일~1982년 5월 2일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "7대",
+      "name": "손종호(孫宗鎬)",
+      "term": "1982년 5월 3일~1983년 10월 17일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "8대",
+      "name": "임성재(任成宰)",
+      "term": "1983년 10월 18일~1985년 2월 27일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "9대",
+      "name": "김찬회(金璨會)",
+      "term": "1985년 2월 28일~1986년 8월 28일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "10대",
+      "name": "정채진(鄭埰鎭)",
+      "term": "1986년 8월 29일~1988년 3월 4일",
+      "government": "제5공화국",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "11대",
+      "name": "정채진(鄭埰鎭)",
+      "term": "1988년 3월 5일~1988년 5월 19일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "12대",
+      "name": "노건일(盧健一)",
+      "term": "1988년 5월 20일~1990년 3월 19일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "13대",
+      "name": "이동우(李東雨)",
+      "term": "1990년 3월 20일~1990년 9월 26일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "14대",
+      "name": "최평욱(崔枰旭)",
+      "term": "1990년 9월 27일~1991년 12월 18일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "15대",
+      "name": "류종탁(柳鍾卓)",
+      "term": "1991년 12월 19일~1993년 3월 3일",
+      "government": "노태우 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "16대",
+      "name": "조남조(趙南照)",
+      "term": "1993년 3월 4일~1994년 9월 23일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "17대",
+      "name": "곽만섭(郭滿燮)",
+      "term": "1994년 9월 24일~1995년 12월 25일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "18대",
+      "name": "이영래(李永來)",
+      "term": "1995년 12월 26일~1997년 8월 7일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "19대",
+      "name": "이보식(李輔植)",
+      "term": "1997년 8월 8일~1998년 3월 8일",
+      "government": "김영삼 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "20대",
+      "name": "이보식(李輔植)",
+      "term": "1998년 3월 9일~1999년 5월 25일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "21대",
+      "name": "김동근(金東根)",
+      "term": "1999년 5월 26일~2000년 1월 26일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "22대",
+      "name": "신순우(申洵雨)",
+      "term": "2000년 1월 27일~2002년 2월 4일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "23대",
+      "name": "김범일(金範鎰)",
+      "term": "2002년 2월 5일~2003년 3월 2일",
+      "government": "김대중 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "24대",
+      "name": "최종수(崔鍾秀)",
+      "term": "2003년 3월 3일~2004년 7월 19일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "25대",
+      "name": "조연환(曺連煥)",
+      "term": "2004년 7월 20일~2006년 1월 31일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "26대",
+      "name": "서승진(徐承鎭)",
+      "term": "2006년 2월 1일~2008년 3월 6일",
+      "government": "노무현 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "27대",
+      "name": "하영제(河榮帝)",
+      "term": "2008년 3월 8일~2009년 1월 22일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "28대",
+      "name": "정광수(鄭光秀)",
+      "term": "2009년 1월 23일~2011년 2월 8일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "29대",
+      "name": "이돈구(李敦求)",
+      "term": "2011년 2월 9일~2013년 3월 17일",
+      "government": "이명박 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "30대",
+      "name": "신원섭(申元燮)",
+      "term": "2013년 3월 18일~2017년 7월 17일",
+      "government": "박근혜 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "31대",
+      "name": "김재현(金才賢)",
+      "term": "2017년 7월 18일~2019년 12월 12일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "32대",
+      "name": "박종호(朴種虎)",
+      "term": "2019년 12월 13일~2021년 3월 26일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "33대",
+      "name": "최병암(崔炳巖)",
+      "term": "2021년 3월 26일~2022년 5월 13일",
+      "government": "문재인 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "34대",
+      "name": "남성현(南成鉉)",
+      "term": "2022년 5월 13일~2024년 7월 7일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "35대",
+      "name": "임상섭(林尙燮)",
+      "term": "2024년 7월 8일~2025년 8월 13일",
+      "government": "윤석열 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "36대",
+      "name": "김인호(金仁浩)",
+      "term": "2025년 8월 13일~2026년 2월 21일",
+      "government": "이재명 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "직무대리",
+      "name": "박은식(朴恩植)",
+      "term": "2026년 2월 21일~2026년 2월 27일",
+      "government": "이재명 정부",
+      "note": ""
+    },
+    {
+      "office": "산림청장",
+      "term_no": "37대",
+      "name": "박은식(朴恩植)",
+      "term": "2026년 2월 28일~",
+      "government": "이재명 정부",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 산림청장 - Free Download",
+    "description": "농림부 산림국장부터 현재까지 대한민국 산림청의 역대 청장 목록입니다. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 산림청장 | ListBase",
+    "seo_description": "Download 대한민국 역대 산림청장 — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_산림청장"
+    ]
+  }
+}
