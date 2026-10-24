@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:17:26.797Z",
-  "total_datasets": 452,
-  "total_records": 449220,
+  "generated": "2026-10-24T02:17:29.253Z",
+  "total_datasets": 453,
+  "total_records": 449284,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -102,6 +102,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ko-haeyang-susan-janggwan",
+      "name": "대한민국 역대 해양수산부 장관",
+      "category": "agriculture",
+      "record_count": 64,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "start_date",
+        "end_date",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_해양수산부_장관",
+      "updated": "2026-10",
+      "size": 16975,
+      "files": {
+        "csv": {
+          "name": "ko-haeyang-susan-janggwan_KO.csv",
+          "size": 7336
+        },
+        "xlsx": {
+          "name": "ko-haeyang-susan-janggwan_KO.xlsx",
+          "size": 9786
+        }
+      }
+    },
     {
       "id": "ko-jiri-pyosi-imsanmul",
       "name": "대한민국의 지리적 표시 임산물",
