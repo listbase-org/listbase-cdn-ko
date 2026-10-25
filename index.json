@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:05.059Z",
-  "total_datasets": 473,
-  "total_records": 450332,
+  "generated": "2026-10-25T02:07:07.874Z",
+  "total_datasets": 474,
+  "total_records": 450376,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -10641,6 +10641,35 @@
         "xlsx": {
           "name": "ko-gyeonggijang_KO.xlsx",
           "size": 12982
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-series-useung",
+      "name": "KBO 한국시리즈 역대 우승팀",
+      "category": "sports",
+      "record_count": 44,
+      "columns": [
+        "year",
+        "champion",
+        "champion_manager",
+        "result",
+        "game_log",
+        "runner_up",
+        "runner_up_manager",
+        "mvp"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_한국시리즈",
+      "updated": "2026-10",
+      "size": 14739,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-series-useung_KO.csv",
+          "size": 5391
+        },
+        "xlsx": {
+          "name": "ko-hanguk-series-useung_KO.xlsx",
+          "size": 9606
         }
       }
     },

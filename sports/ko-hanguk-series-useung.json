@@ -1,0 +1,506 @@
+{
+  "id": "ko-hanguk-series-useung",
+  "name": "KBO 한국시리즈 역대 우승팀",
+  "title": "KBO 한국시리즈 역대 우승팀",
+  "description": "1982년부터 KBO 한국시리즈의 연도별 우승팀, 준우승팀, 감독, 경기 결과, MVP 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/KBO_한국시리즈",
+  "source_url": "https://ko.wikipedia.org/wiki/KBO_한국시리즈",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "champion_manager",
+      "label": "Champion Manager",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "game_log",
+      "label": "Game Log",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "runner_up_manager",
+      "label": "Runner Up Manager",
+      "type": "string"
+    },
+    {
+      "key": "mvp",
+      "label": "Mvp",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1982",
+      "champion": "OB 베어스",
+      "champion_manager": "김영덕",
+      "result": "4–1 (1)",
+      "game_log": "△XOOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "서영무",
+      "mvp": "김유동 (OB, 외야수)"
+    },
+    {
+      "year": "1983",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–0 (1)",
+      "game_log": "OOO△O",
+      "runner_up": "MBC 청룡",
+      "runner_up_manager": "김동엽",
+      "mvp": "김봉연 (해태, 내야수)"
+    },
+    {
+      "year": "1984",
+      "champion": "롯데 자이언츠",
+      "champion_manager": "강병철",
+      "result": "4–3",
+      "game_log": "OXOXXOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "김영덕",
+      "mvp": "유두열 (롯데, 외야수)"
+    },
+    {
+      "year": "1985",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "김영덕",
+      "result": "삼성 라이온즈의 전 · 후기 리그 통합우승으로 미개최",
+      "game_log": "삼성 라이온즈의 전 · 후기 리그 통합우승으로 미개최",
+      "runner_up": "롯데 자이언츠",
+      "runner_up_manager": "강병철",
+      "mvp": ""
+    },
+    {
+      "year": "1986",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–1",
+      "game_log": "OXOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "김영덕",
+      "mvp": "김정수 (해태, 투수)"
+    },
+    {
+      "year": "1987",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "박영길",
+      "mvp": "김준환 (해태, 외야수)"
+    },
+    {
+      "year": "1988",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–2",
+      "game_log": "OOOXXO",
+      "runner_up": "빙그레 이글스",
+      "runner_up_manager": "김영덕",
+      "mvp": "문희수 (해태, 투수)"
+    },
+    {
+      "year": "1989",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–1",
+      "game_log": "XOOOO",
+      "runner_up": "빙그레 이글스",
+      "runner_up_manager": "김영덕",
+      "mvp": "박철우 (해태, 내야수)"
+    },
+    {
+      "year": "1990",
+      "champion": "LG 트윈스",
+      "champion_manager": "백인천",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "정동진",
+      "mvp": "김용수 (LG, 투수)"
+    },
+    {
+      "year": "1991",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "빙그레 이글스",
+      "runner_up_manager": "김영덕",
+      "mvp": "장채근 (해태, 포수)"
+    },
+    {
+      "year": "1992",
+      "champion": "롯데 자이언츠",
+      "champion_manager": "강병철",
+      "result": "4–1",
+      "game_log": "OOXOO",
+      "runner_up": "빙그레 이글스",
+      "runner_up_manager": "김영덕",
+      "mvp": "박동희 (롯데, 투수)"
+    },
+    {
+      "year": "1993",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–2 (1)",
+      "game_log": "OX△XOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "우용득",
+      "mvp": "이종범 (해태, 내야수)"
+    },
+    {
+      "year": "1994",
+      "champion": "LG 트윈스",
+      "champion_manager": "이광환",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "태평양 돌핀스",
+      "runner_up_manager": "정동진",
+      "mvp": "김용수 (LG, 투수)"
+    },
+    {
+      "year": "1995",
+      "champion": "OB 베어스",
+      "champion_manager": "김인식",
+      "result": "4–3",
+      "game_log": "XOOXXOO",
+      "runner_up": "롯데 자이언츠",
+      "runner_up_manager": "김용희",
+      "mvp": "김민호 (OB, 내야수)"
+    },
+    {
+      "year": "1996",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–2",
+      "game_log": "OXOXOO",
+      "runner_up": "현대 유니콘스",
+      "runner_up_manager": "김재박",
+      "mvp": "이강철 (해태, 투수)"
+    },
+    {
+      "year": "1997",
+      "champion": "해태 타이거즈",
+      "champion_manager": "김응용",
+      "result": "4–1",
+      "game_log": "OXOOO",
+      "runner_up": "LG 트윈스",
+      "runner_up_manager": "천보성",
+      "mvp": "이종범 (해태, 내야수)"
+    },
+    {
+      "year": "1998",
+      "champion": "현대 유니콘스",
+      "champion_manager": "김재박",
+      "result": "4–2",
+      "game_log": "OOXOXO",
+      "runner_up": "LG 트윈스",
+      "runner_up_manager": "천보성",
+      "mvp": "정민태 (현대, 투수)"
+    },
+    {
+      "year": "1999",
+      "champion": "한화 이글스",
+      "champion_manager": "이희수",
+      "result": "4–1",
+      "game_log": "OOXOO",
+      "runner_up": "롯데 자이언츠",
+      "runner_up_manager": "김명성",
+      "mvp": "구대성 (한화, 투수)"
+    },
+    {
+      "year": "2000",
+      "champion": "현대 유니콘스",
+      "champion_manager": "김재박",
+      "result": "4–3",
+      "game_log": "OOOXXXO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김인식",
+      "mvp": "톰 퀸란 (현대, 내야수)"
+    },
+    {
+      "year": "2001",
+      "champion": "두산 베어스",
+      "champion_manager": "김인식",
+      "result": "4–2",
+      "game_log": "XOOOXO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "김응용",
+      "mvp": "타이론 우즈 (두산, 내야수)"
+    },
+    {
+      "year": "2002",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "김응용",
+      "result": "4–2",
+      "game_log": "OXOOXO",
+      "runner_up": "LG 트윈스",
+      "runner_up_manager": "김성근",
+      "mvp": "마해영 (삼성, 외야수)"
+    },
+    {
+      "year": "2003",
+      "champion": "현대 유니콘스",
+      "champion_manager": "김재박",
+      "result": "4–3",
+      "game_log": "OXXOOXO",
+      "runner_up": "SK 와이번스",
+      "runner_up_manager": "조범현",
+      "mvp": "정민태 (현대, 투수)"
+    },
+    {
+      "year": "2004",
+      "champion": "현대 유니콘스",
+      "champion_manager": "김재박",
+      "result": "4–2 (3)",
+      "game_log": "O△X△OX△OO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "김응용",
+      "mvp": "조용준 (현대, 투수)"
+    },
+    {
+      "year": "2005",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "선동열",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김경문",
+      "mvp": "오승환 (삼성, 투수)"
+    },
+    {
+      "year": "2006",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "선동열",
+      "result": "4–1 (1)",
+      "game_log": "OXOO△O",
+      "runner_up": "한화 이글스",
+      "runner_up_manager": "김인식",
+      "mvp": "박진만 (삼성,내야수)"
+    },
+    {
+      "year": "2007",
+      "champion": "SK 와이번스",
+      "champion_manager": "김성근",
+      "result": "4–2",
+      "game_log": "XXOOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김경문",
+      "mvp": "김재현 (SK, 외야수)"
+    },
+    {
+      "year": "2008",
+      "champion": "SK 와이번스",
+      "champion_manager": "김성근",
+      "result": "4–1",
+      "game_log": "XOOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김경문",
+      "mvp": "최정 (SK, 내야수)"
+    },
+    {
+      "year": "2009",
+      "champion": "KIA 타이거즈",
+      "champion_manager": "조범현",
+      "result": "4–3",
+      "game_log": "OOXXOXO",
+      "runner_up": "SK 와이번스",
+      "runner_up_manager": "김성근",
+      "mvp": "나지완 (KIA, 외야수)"
+    },
+    {
+      "year": "2010",
+      "champion": "SK 와이번스",
+      "champion_manager": "김성근",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "선동열",
+      "mvp": "박정권 (SK, 내야수)"
+    },
+    {
+      "year": "2011",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "류중일",
+      "result": "4–1",
+      "game_log": "OOXOO",
+      "runner_up": "SK 와이번스",
+      "runner_up_manager": "이만수",
+      "mvp": "오승환 (삼성, 투수)"
+    },
+    {
+      "year": "2012",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "류중일",
+      "result": "4–2",
+      "game_log": "OOXXOO",
+      "runner_up": "SK 와이번스",
+      "runner_up_manager": "이만수",
+      "mvp": "이승엽 (삼성, 내야수)"
+    },
+    {
+      "year": "2013",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "류중일",
+      "result": "4–3",
+      "game_log": "XXOXOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김진욱",
+      "mvp": "박한이 (삼성, 외야수)"
+    },
+    {
+      "year": "2014",
+      "champion": "삼성 라이온즈",
+      "champion_manager": "류중일",
+      "result": "4–2",
+      "game_log": "XOOXOO",
+      "runner_up": "넥센 히어로즈",
+      "runner_up_manager": "염경엽",
+      "mvp": "야마이코 나바로 (삼성, 내야수)"
+    },
+    {
+      "year": "2015",
+      "champion": "두산 베어스",
+      "champion_manager": "김태형",
+      "result": "4–1",
+      "game_log": "XOOOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "류중일",
+      "mvp": "정수빈 (두산, 외야수)"
+    },
+    {
+      "year": "2016",
+      "champion": "두산 베어스",
+      "champion_manager": "김태형",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "NC 다이노스",
+      "runner_up_manager": "김경문",
+      "mvp": "양의지 (두산, 포수)"
+    },
+    {
+      "year": "2017",
+      "champion": "KIA 타이거즈",
+      "champion_manager": "김기태",
+      "result": "4–1",
+      "game_log": "XOOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김태형",
+      "mvp": "양현종 (KIA, 투수)"
+    },
+    {
+      "year": "2018",
+      "champion": "SK 와이번스",
+      "champion_manager": "트레이 힐만",
+      "result": "4–2",
+      "game_log": "OXOXOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김태형",
+      "mvp": "한동민 (SK, 외야수)"
+    },
+    {
+      "year": "2019",
+      "champion": "두산 베어스",
+      "champion_manager": "김태형",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "키움 히어로즈",
+      "runner_up_manager": "장정석",
+      "mvp": "오재일 (두산, 내야수)"
+    },
+    {
+      "year": "2020",
+      "champion": "NC 다이노스",
+      "champion_manager": "이동욱",
+      "result": "4–2",
+      "game_log": "OXXOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김태형",
+      "mvp": "양의지 (NC, 포수)"
+    },
+    {
+      "year": "2021",
+      "champion": "KT 위즈",
+      "champion_manager": "이강철",
+      "result": "4–0",
+      "game_log": "OOOO",
+      "runner_up": "두산 베어스",
+      "runner_up_manager": "김태형",
+      "mvp": "박경수 (KT, 내야수)"
+    },
+    {
+      "year": "2022",
+      "champion": "SSG 랜더스",
+      "champion_manager": "김원형",
+      "result": "4–2",
+      "game_log": "XOOXOO",
+      "runner_up": "키움 히어로즈",
+      "runner_up_manager": "홍원기",
+      "mvp": "김강민 (SSG, 외야수)"
+    },
+    {
+      "year": "2023",
+      "champion": "LG 트윈스",
+      "champion_manager": "염경엽",
+      "result": "4–1",
+      "game_log": "XOOOO",
+      "runner_up": "KT 위즈",
+      "runner_up_manager": "이강철",
+      "mvp": "오지환 (LG, 내야수)"
+    },
+    {
+      "year": "2024",
+      "champion": "KIA 타이거즈",
+      "champion_manager": "이범호",
+      "result": "4–1",
+      "game_log": "OOXOO",
+      "runner_up": "삼성 라이온즈",
+      "runner_up_manager": "박진만",
+      "mvp": "김선빈 (KIA, 내야수)"
+    },
+    {
+      "year": "2025",
+      "champion": "LG 트윈스",
+      "champion_manager": "염경엽",
+      "result": "4–1",
+      "game_log": "OOXOO",
+      "runner_up": "한화 이글스",
+      "runner_up_manager": "김경문",
+      "mvp": "김현수 (LG, 외야수)"
+    }
+  ],
+  "meta": {
+    "title": "KBO 한국시리즈 역대 우승팀 - Free Download",
+    "description": "1982년부터 KBO 한국시리즈의 연도별 우승팀, 준우승팀, 감독, 경기 결과, MVP 목록입니다. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBO 한국시리즈 역대 우승팀 | ListBase",
+    "seo_description": "Download KBO 한국시리즈 역대 우승팀 — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBO_한국시리즈"
+    ]
+  }
+}
