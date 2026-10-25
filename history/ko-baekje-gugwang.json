@@ -1,0 +1,328 @@
+{
+  "id": "ko-baekje-gugwang",
+  "name": "백제의 역대 국왕",
+  "title": "백제의 역대 국왕",
+  "description": "온조왕부터 의자왕·풍왕까지 백제 역대 국왕의 대수, 왕호, 시호, 휘, 재위 기간 목록입니다.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/백제_국왕",
+  "source_url": "https://ko.wikipedia.org/wiki/백제_국왕",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "posthumous_name",
+      "label": "Posthumous Name",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "1",
+      "title": "온조왕(溫祚王)",
+      "posthumous_name": "",
+      "personal_name": "온조(溫祚)",
+      "reign": "기원전 18년 ~ 기원후 28년",
+      "note": "아버지는 동명성왕 고주몽. 어머니는 소서노이며, 백제의 시조."
+    },
+    {
+      "order": "2",
+      "title": "다루왕(多婁王)",
+      "posthumous_name": "",
+      "personal_name": "다루(多婁)",
+      "reign": "기원후 28년 ~ 77년",
+      "note": "온조왕의 아들."
+    },
+    {
+      "order": "3",
+      "title": "기루왕(己婁王)",
+      "posthumous_name": "",
+      "personal_name": "기루(己婁)",
+      "reign": "77년 ~ 128년",
+      "note": "다루왕의 아들."
+    },
+    {
+      "order": "4",
+      "title": "개루왕(蓋婁王)",
+      "posthumous_name": "",
+      "personal_name": "개루(蓋婁)",
+      "reign": "128년 ~ 166년",
+      "note": "기루왕의 아들."
+    },
+    {
+      "order": "5",
+      "title": "초고왕(肖古王)",
+      "posthumous_name": "",
+      "personal_name": "초고(肖古)",
+      "reign": "166년 ~ 214년",
+      "note": "소고왕(素古王), 속고왕(速古王). 개루왕의 장남."
+    },
+    {
+      "order": "6",
+      "title": "구수왕(仇首王)",
+      "posthumous_name": "",
+      "personal_name": "구수(仇首)",
+      "reign": "214년 ~ 234년",
+      "note": "귀수왕(貴須王). 초고왕의 아들."
+    },
+    {
+      "order": "7",
+      "title": "사반왕(沙伴王)",
+      "posthumous_name": "",
+      "personal_name": "사반(沙伴)",
+      "reign": "234년",
+      "note": "사비왕(沙沸王), 사이왕(沙伊王). 구수왕의 장남."
+    },
+    {
+      "order": "8",
+      "title": "고이왕(古爾王)",
+      "posthumous_name": "",
+      "personal_name": "고이(古爾), 구이(久爾), 고모(古慕), 구태(仇台)",
+      "reign": "234년 ~ 286년",
+      "note": "개루왕의 차남."
+    },
+    {
+      "order": "9",
+      "title": "책계왕(責稽王)",
+      "posthumous_name": "",
+      "personal_name": "책계(責稽)",
+      "reign": "286년 ~ 298년",
+      "note": "청계왕(靑稽王), 책찬왕(責贊王). 고이왕의 아들."
+    },
+    {
+      "order": "10",
+      "title": "분서왕(汾西王)",
+      "posthumous_name": "",
+      "personal_name": "분서(汾西)",
+      "reign": "298년 ~ 304년",
+      "note": "책계왕의 아들."
+    },
+    {
+      "order": "11",
+      "title": "비류왕(比流王)",
+      "posthumous_name": "",
+      "personal_name": "비류(比流)",
+      "reign": "304년 ~ 344년",
+      "note": "구수왕의 차남, 혹은 후손"
+    },
+    {
+      "order": "12",
+      "title": "계왕(契王)",
+      "posthumous_name": "",
+      "personal_name": "계(契)",
+      "reign": "344년 ~ 346년",
+      "note": "분서왕의 아들."
+    },
+    {
+      "order": "13",
+      "title": "근초고왕(近肖古王)",
+      "posthumous_name": "",
+      "personal_name": "초고(肖古), 구(句)",
+      "reign": "346년 ~ 375년",
+      "note": "조고왕(照古王), 초고왕(肖古王), 속고왕(速古王). 비류왕의 차남."
+    },
+    {
+      "order": "14",
+      "title": "근구수왕(近仇首王)",
+      "posthumous_name": "",
+      "personal_name": "구수(仇首), 수(須)",
+      "reign": "375년 ~ 384년",
+      "note": "근초고왕의 아들."
+    },
+    {
+      "order": "15",
+      "title": "침류왕(枕流王)",
+      "posthumous_name": "",
+      "personal_name": "침류(枕流)",
+      "reign": "384년 ~ 385년",
+      "note": "근구수왕의 장남."
+    },
+    {
+      "order": "16",
+      "title": "진사왕(辰斯王)",
+      "posthumous_name": "",
+      "personal_name": "진사(辰斯)",
+      "reign": "385년 ~ 392년",
+      "note": "근구수왕의 차남."
+    },
+    {
+      "order": "17",
+      "title": "아신왕(阿莘王)",
+      "posthumous_name": "",
+      "personal_name": "아신(阿莘), 아방(阿芳), 아화(阿花), 아미(阿美)",
+      "reign": "392년 ~ 405년",
+      "note": "침류왕의 아들."
+    },
+    {
+      "order": "섭정",
+      "title": "",
+      "posthumous_name": "",
+      "personal_name": "부여훈해(扶餘訓解)",
+      "reign": "405년",
+      "note": "침류왕의 아들, 아신왕의 둘째 아우"
+    },
+    {
+      "order": "찬탈",
+      "title": "",
+      "posthumous_name": "",
+      "personal_name": "부여설례(扶餘碟禮)",
+      "reign": "405년",
+      "note": "부여훈해의 아우"
+    },
+    {
+      "order": "18",
+      "title": "전지왕(腆支王)",
+      "posthumous_name": "",
+      "personal_name": "전지(腆支), 영(映), 전(腆)",
+      "reign": "405년 ~ 420년",
+      "note": "아신왕의 아들."
+    },
+    {
+      "order": "19",
+      "title": "구이신왕(久爾辛王)",
+      "posthumous_name": "",
+      "personal_name": "구이신(久爾辛)",
+      "reign": "420년 ~ 427년",
+      "note": "전지왕의 아들."
+    },
+    {
+      "order": "20",
+      "title": "비유왕(毗有王)",
+      "posthumous_name": "",
+      "personal_name": "비유(毗有), 비(毗)",
+      "reign": "427년 ~ 455년",
+      "note": "구이신왕의 아들 또는 전지왕의 서자. 일설에는 구이신왕의 손자"
+    },
+    {
+      "order": "21",
+      "title": "개로왕(蓋鹵王)",
+      "posthumous_name": "근개루왕",
+      "personal_name": "경사(慶司), 경(慶)",
+      "reign": "455년 ~ 475년",
+      "note": "근개루왕(近蓋婁王). 비유왕의 아들."
+    },
+    {
+      "order": "22",
+      "title": "문주왕(文周王)",
+      "posthumous_name": "",
+      "personal_name": "문주(文周), 문원(文園),모도(牟都), 도(都)",
+      "reign": "475년 ~ 477년",
+      "note": "문주왕(汶洲王). 개로왕의 아들, 혹은 개로왕의 동생."
+    },
+    {
+      "order": "23",
+      "title": "삼근왕(三斤王)",
+      "posthumous_name": "",
+      "personal_name": "삼근(三斤)",
+      "reign": "477년 ~ 479년",
+      "note": "문주왕의 아들."
+    },
+    {
+      "order": "24",
+      "title": "동성왕(東城王)",
+      "posthumous_name": "동성왕",
+      "personal_name": "모대(牟大), 마모(摩牟), 마제(麻帝), 대(大)",
+      "reign": "479년 ~ 501년",
+      "note": "문주왕의 조카 또는 사촌, 좌평 곤지의 아들."
+    },
+    {
+      "order": "25",
+      "title": "무령왕(武寧王)",
+      "posthumous_name": "무령왕",
+      "personal_name": "사마(斯麻), 융(隆)",
+      "reign": "501년 ~ 523년",
+      "note": "곤지의 아들, 혹은 개로왕의 아들."
+    },
+    {
+      "order": "26",
+      "title": "성왕(聖王)",
+      "posthumous_name": "성왕",
+      "personal_name": "명농(明襛), 명(明), 성명(聖明)",
+      "reign": "523년 ~ 554년",
+      "note": "무령왕의 아들."
+    },
+    {
+      "order": "27",
+      "title": "위덕왕(威德王)",
+      "posthumous_name": "위덕왕",
+      "personal_name": "창(昌)",
+      "reign": "554년 ~ 598년",
+      "note": "성왕의 장남."
+    },
+    {
+      "order": "28",
+      "title": "혜왕(惠王)",
+      "posthumous_name": "혜왕",
+      "personal_name": "계(季)",
+      "reign": "598년 ~ 599년",
+      "note": "성왕의 차남."
+    },
+    {
+      "order": "29",
+      "title": "법왕(法王)",
+      "posthumous_name": "법왕",
+      "personal_name": "선(宣), 효순(孝順)",
+      "reign": "599년 ~ 600년",
+      "note": "혜왕의 아들."
+    },
+    {
+      "order": "30",
+      "title": "무왕(武王)",
+      "posthumous_name": "무왕",
+      "personal_name": "장(璋), 서동(薯童)",
+      "reign": "600년 ~ 641년",
+      "note": "법왕의 아들, 혹은 위덕왕의 서자 또는 서손. 일설에는 법왕의 아들 진이왕의 아들"
+    },
+    {
+      "order": "31",
+      "title": "의자왕(義慈王)",
+      "posthumous_name": "",
+      "personal_name": "의자(義慈)",
+      "reign": "641년 ~ 660년",
+      "note": "무왕의 아들."
+    },
+    {
+      "order": "32(비정통)",
+      "title": "풍왕(豊王)",
+      "posthumous_name": "",
+      "personal_name": "풍(豊), 풍장(豊璋)",
+      "reign": "660년 ~ 663년",
+      "note": "의자왕의 아들 혹은 동생"
+    }
+  ],
+  "meta": {
+    "title": "백제의 역대 국왕 - Free Download",
+    "description": "온조왕부터 의자왕·풍왕까지 백제 역대 국왕의 대수, 왕호, 시호, 휘, 재위 기간 목록입니다. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "백제의 역대 국왕 | ListBase",
+    "seo_description": "Download 백제의 역대 국왕 — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/백제_국왕"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:06:57.333Z",
-  "total_datasets": 470,
-  "total_records": 450255,
+  "generated": "2026-10-25T02:06:59.967Z",
+  "total_datasets": 471,
+  "total_records": 450289,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -6848,6 +6848,33 @@
         "xlsx": {
           "name": "ko-sikpum-uiyakpum-anjeoncheojang_KO.xlsx",
           "size": 7946
+        }
+      }
+    },
+    {
+      "id": "ko-baekje-gugwang",
+      "name": "백제의 역대 국왕",
+      "category": "history",
+      "record_count": 34,
+      "columns": [
+        "order",
+        "title",
+        "posthumous_name",
+        "personal_name",
+        "reign",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/백제_국왕",
+      "updated": "2026-10",
+      "size": 9897,
+      "files": {
+        "csv": {
+          "name": "ko-baekje-gugwang_KO.csv",
+          "size": 4057
+        },
+        "xlsx": {
+          "name": "ko-baekje-gugwang_KO.xlsx",
+          "size": 9361
         }
       }
     },
