@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:06:59.967Z",
-  "total_datasets": 471,
-  "total_records": 450289,
+  "generated": "2026-10-25T02:07:02.383Z",
+  "total_datasets": 472,
+  "total_records": 450304,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -6875,6 +6875,32 @@
         "xlsx": {
           "name": "ko-baekje-gugwang_KO.xlsx",
           "size": 9361
+        }
+      }
+    },
+    {
+      "id": "ko-balhae-gugwang",
+      "name": "발해의 역대 국왕",
+      "category": "history",
+      "record_count": 15,
+      "columns": [
+        "order",
+        "posthumous_name",
+        "personal_name",
+        "reign",
+        "relation"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/발해_국왕",
+      "updated": "2026-10",
+      "size": 4299,
+      "files": {
+        "csv": {
+          "name": "ko-balhae-gugwang_KO.csv",
+          "size": 1074
+        },
+        "xlsx": {
+          "name": "ko-balhae-gugwang_KO.xlsx",
+          "size": 7607
         }
       }
     },

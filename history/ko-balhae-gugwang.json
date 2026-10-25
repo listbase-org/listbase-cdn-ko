@@ -1,0 +1,156 @@
+{
+  "id": "ko-balhae-gugwang",
+  "name": "발해의 역대 국왕",
+  "title": "발해의 역대 국왕",
+  "description": "고왕 대조영부터 대인선까지 발해 역대 국왕의 대수, 시호, 휘, 재위 기간, 가족관계 목록입니다.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/발해_국왕",
+  "source_url": "https://ko.wikipedia.org/wiki/발해_국왕",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "posthumous_name",
+      "label": "Posthumous Name",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "relation",
+      "label": "Relation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "1",
+      "posthumous_name": "고왕",
+      "personal_name": "대조영",
+      "reign": "698년 ~ 719년",
+      "relation": "발해 건국 시조"
+    },
+    {
+      "order": "2",
+      "posthumous_name": "무왕",
+      "personal_name": "대무예",
+      "reign": "719년 ~ 737년",
+      "relation": "고왕의 아들"
+    },
+    {
+      "order": "3",
+      "posthumous_name": "문왕",
+      "personal_name": "대흠무",
+      "reign": "737년 ~ 793년",
+      "relation": "무왕의 아들"
+    },
+    {
+      "order": "4",
+      "posthumous_name": "폐왕",
+      "personal_name": "대원의",
+      "reign": "793년",
+      "relation": "문왕의 족제"
+    },
+    {
+      "order": "5",
+      "posthumous_name": "성왕",
+      "personal_name": "대화여",
+      "reign": "793년 ~ 794년",
+      "relation": "문왕의 손자"
+    },
+    {
+      "order": "6",
+      "posthumous_name": "강왕",
+      "personal_name": "대숭린",
+      "reign": "794년 ~ 809년",
+      "relation": "성왕의 숙부"
+    },
+    {
+      "order": "7",
+      "posthumous_name": "정왕",
+      "personal_name": "대원유",
+      "reign": "809년 ~ 812년",
+      "relation": "강왕의 아들"
+    },
+    {
+      "order": "8",
+      "posthumous_name": "희왕",
+      "personal_name": "대언의",
+      "reign": "812년 ~ 817년",
+      "relation": "정왕의 동생"
+    },
+    {
+      "order": "9",
+      "posthumous_name": "간왕",
+      "personal_name": "대명충",
+      "reign": "817년 ~ 818년",
+      "relation": "희왕의 동생"
+    },
+    {
+      "order": "10",
+      "posthumous_name": "선왕",
+      "personal_name": "대인수",
+      "reign": "818년 ~ 830년",
+      "relation": "고왕의 동생인 대야발의 증손, 간왕의 종부(從父)"
+    },
+    {
+      "order": "11",
+      "posthumous_name": "",
+      "personal_name": "대이진",
+      "reign": "830년 ~ 857년",
+      "relation": "선왕의 손자, 대신덕의 아들"
+    },
+    {
+      "order": "12",
+      "posthumous_name": "",
+      "personal_name": "대건황",
+      "reign": "857년 ~ 871년",
+      "relation": "대이진의 동생"
+    },
+    {
+      "order": "13",
+      "posthumous_name": "",
+      "personal_name": "대현석",
+      "reign": "871년 ~ 894년?",
+      "relation": "대건황의 손자"
+    },
+    {
+      "order": "14",
+      "posthumous_name": "",
+      "personal_name": "대위해",
+      "reign": "894년? ~ 906년?",
+      "relation": "김육불에 의해 존재가 드러남"
+    },
+    {
+      "order": "15",
+      "posthumous_name": "",
+      "personal_name": "대인선",
+      "reign": "906년? ~ 926년",
+      "relation": "발해의 마지막 왕"
+    }
+  ],
+  "meta": {
+    "title": "발해의 역대 국왕 - Free Download",
+    "description": "고왕 대조영부터 대인선까지 발해 역대 국왕의 대수, 시호, 휘, 재위 기간, 가족관계 목록입니다. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "발해의 역대 국왕 | ListBase",
+    "seo_description": "Download 발해의 역대 국왕 — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/발해_국왕"
+    ]
+  }
+}
