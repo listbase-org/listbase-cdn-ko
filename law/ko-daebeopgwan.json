@@ -1,0 +1,1520 @@
+{
+  "id": "ko-daebeopgwan",
+  "name": "대한민국의 역대 대법관",
+  "title": "대한민국의 역대 대법관",
+  "description": "1948년 이후 대한민국 대법원의 역대 대법관 이름, 임명권자, 제청권자, 임기, 자격 목록입니다.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_대법관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_대법관",
+  "updated": "2026-10",
+  "record_count": 183,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "appointed_by",
+      "label": "Appointed By",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "qualification",
+      "label": "Qualification",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "김병로",
+      "appointed_by": "이승만",
+      "nominated_by": "이승만",
+      "term": "1948년 9월~1957년 12월",
+      "qualification": "",
+      "note": "초대 대법원장"
+    },
+    {
+      "name": "김익진",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1948년 11월~1949년 6월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "노진설",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1948년 11월~1949년 7월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "최병주",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1948년 11월~1950년 2월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "양대경",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1948년 11월~1950년 4월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "김찬영",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1948년 11월~1954년 6월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "백한성",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1949년 11월~1953년 9월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "한상범",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1950년 6월~1951년 2월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "김두일",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1950년 6월~1960년 4월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "이우식",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1951년 6월~1951년 12월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "한격만",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1952년 2월~1952년 3월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "김동현",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1952년 2월~1957년 7월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "김세완",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1953년 6월~1959년 12월",
+      "qualification": "판사특임시험",
+      "note": ""
+    },
+    {
+      "name": "김갑수",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1953년 6월~1960년 6월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "조용순",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1953년 11월~1954년 6월",
+      "qualification": "판검사특별고시 (25년)",
+      "note": ""
+    },
+    {
+      "name": "허진",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1954년 9월~1959년 9월",
+      "qualification": "판검사특별고시 (21년)",
+      "note": ""
+    },
+    {
+      "name": "고재호",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1954년 9월~1961년 6월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "배정현",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1954년 9월~1961년 6월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "백한성",
+      "appointed_by": "이승만",
+      "nominated_by": "김병로",
+      "term": "1955년 4월~1961년 6월",
+      "qualification": "사법관 시보시험 (30년)",
+      "note": ""
+    },
+    {
+      "name": "조용순",
+      "appointed_by": "이승만",
+      "nominated_by": "이승만",
+      "term": "1958년 6월~1960년 5월",
+      "qualification": "판검사특별고시 (25년)",
+      "note": "2대 대법원장"
+    },
+    {
+      "name": "변옥주",
+      "appointed_by": "이승만",
+      "nominated_by": "조용순",
+      "term": "1958년 10월~1961년 6월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "오필선",
+      "appointed_by": "이승만",
+      "nominated_by": "조용순",
+      "term": "1959년 10월~1961년 6월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "김연수",
+      "appointed_by": "이승만",
+      "nominated_by": "조용순",
+      "term": "1960년 1월~1961년 6월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "조진만",
+      "appointed_by": "윤보선",
+      "nominated_by": "윤보선",
+      "term": "1961년 7월~1964년 1월",
+      "qualification": "고등문관시험",
+      "note": "3대 대법원장"
+    },
+    {
+      "name": "민복기",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1963년 4월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "최윤모",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1968년 8월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "사광욱",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "양회경",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "방순원",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "나항윤",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "홍순엽",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1976년 11월",
+      "qualification": "조선변호사시험 (36년)",
+      "note": ""
+    },
+    {
+      "name": "이영섭",
+      "appointed_by": "윤보선",
+      "nominated_by": "조진만",
+      "term": "1961년 9월~1979년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "조진만",
+      "appointed_by": "박정희",
+      "nominated_by": "박정희",
+      "term": "1964년 2월~1968년 10월",
+      "qualification": "고등문관시험",
+      "note": "4대 대법원장"
+    },
+    {
+      "name": "방준경",
+      "appointed_by": "박정희",
+      "nominated_by": "조진만",
+      "term": "1964년 3월~1966년 12월",
+      "qualification": "판사특임시험 (33년)",
+      "note": ""
+    },
+    {
+      "name": "한성수",
+      "appointed_by": "박정희",
+      "nominated_by": "조진만",
+      "term": "1959년 2월~1968년 10월",
+      "qualification": "",
+      "note": ""
+    },
+    {
+      "name": "주운화",
+      "appointed_by": "박정희",
+      "nominated_by": "조진만",
+      "term": "1964년 3월~1969년 8월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "손동욱",
+      "appointed_by": "박정희",
+      "nominated_by": "조진만",
+      "term": "1964년 3월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "김치걸",
+      "appointed_by": "박정희",
+      "nominated_by": "조진만",
+      "term": "1964년 3월~1973년 3월",
+      "qualification": "판사특임시험 (46년)",
+      "note": ""
+    },
+    {
+      "name": "주재황",
+      "appointed_by": "박정희",
+      "nominated_by": "조진만",
+      "term": "1968년 2월~1981년 4월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "민복기",
+      "appointed_by": "박정희",
+      "nominated_by": "박정희",
+      "term": "1968년 10월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": "5대 대법원장"
+    },
+    {
+      "name": "홍남표",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1968년 12월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "유재방",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1968년 12월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "한봉세",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1969년 9월~1973년 3월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "김영세",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1969년 9월~1979년 9월",
+      "qualification": "조선변호사시험 (45년)",
+      "note": ""
+    },
+    {
+      "name": "민문기",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1969년 9월~1980년 8월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "양병호",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1969년 9월~1980년 8월",
+      "qualification": "조선변호사시험 (42년)",
+      "note": ""
+    },
+    {
+      "name": "민복기",
+      "appointed_by": "박정희",
+      "nominated_by": "박정희",
+      "term": "1973년 3월~1978년 12월",
+      "qualification": "고등문관시험",
+      "note": "6대 대법원장"
+    },
+    {
+      "name": "이병호",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1973년 4월~1976년 9월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "김윤행",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1973년 4월~1980년 8월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "임항준",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1973년 4월~1980년 8월",
+      "qualification": "사법요원시험",
+      "note": ""
+    },
+    {
+      "name": "한환진",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1973년 4월~1981년 2월",
+      "qualification": "고등문관시험",
+      "note": ""
+    },
+    {
+      "name": "안병수",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1973년 4월~1981년 4월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "이일규",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1973년 4월~1985년 12월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "강안희",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1975년 10월~1980년 4월",
+      "qualification": "사법요원시험",
+      "note": ""
+    },
+    {
+      "name": "나길조",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1975년 10월~1981년 3월",
+      "qualification": "조선변호사시험 1회",
+      "note": ""
+    },
+    {
+      "name": "김용철",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1975년 10월~1986년 4월",
+      "qualification": "조선변호사시험 3회",
+      "note": ""
+    },
+    {
+      "name": "유태흥",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1977년 1월~1981년 4월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "정태원",
+      "appointed_by": "박정희",
+      "nominated_by": "민복기",
+      "term": "1977년 1월~1981년 4월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "이영섭",
+      "appointed_by": "박정희",
+      "nominated_by": "박정희",
+      "term": "1979년 3월~1981년 4월",
+      "qualification": "고등문관시험",
+      "note": "7대 대법원장"
+    },
+    {
+      "name": "서윤홍",
+      "appointed_by": "박정희",
+      "nominated_by": "이영섭",
+      "term": "1979년 4월~1980년 8월",
+      "qualification": "고등고시 2회",
+      "note": ""
+    },
+    {
+      "name": "김기홍",
+      "appointed_by": "최규하",
+      "nominated_by": "이영섭",
+      "term": "1980년 6월~1981년 4월",
+      "qualification": "고등고시 2회",
+      "note": ""
+    },
+    {
+      "name": "김태현",
+      "appointed_by": "최규하",
+      "nominated_by": "이영섭",
+      "term": "1980년 6월~1981년 4월",
+      "qualification": "조선변호사시험 3회",
+      "note": ""
+    },
+    {
+      "name": "윤운영",
+      "appointed_by": "전두환",
+      "nominated_by": "이영섭",
+      "term": "1980년 9월~1981년 4월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "김중서",
+      "appointed_by": "전두환",
+      "nominated_by": "이영섭",
+      "term": "1980년 9월~1984년 6월",
+      "qualification": "조선변호사시험 2회",
+      "note": ""
+    },
+    {
+      "name": "유태흥",
+      "appointed_by": "전두환",
+      "nominated_by": "전두환",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "조선변호사시험 2회",
+      "note": "8대 대법원장"
+    },
+    {
+      "name": "서일교",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1981년 8월",
+      "qualification": "조선변호사시험 1회",
+      "note": ""
+    },
+    {
+      "name": "이회창",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "신정철",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "이성렬",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1985년 1월",
+      "qualification": "고등고시 5회",
+      "note": ""
+    },
+    {
+      "name": "정태균",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "고등고시 2회",
+      "note": ""
+    },
+    {
+      "name": "강우영",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "고등고시 1회",
+      "note": ""
+    },
+    {
+      "name": "전상석",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "고등고시 6회",
+      "note": ""
+    },
+    {
+      "name": "이정우",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1988년 7월",
+      "qualification": "고등고시 6회",
+      "note": ""
+    },
+    {
+      "name": "윤일영",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1988년 7월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "김덕주",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1981년 4월~1986년 4월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "오성환",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1982년 3월~1987년 3월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "김형기",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1984년 7월~1988년 7월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "정기승",
+      "appointed_by": "전두환",
+      "nominated_by": "유태흥",
+      "term": "1985년 3월~1988년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "김용철",
+      "appointed_by": "전두환",
+      "nominated_by": "전두환",
+      "term": "1986년 4월~1988년 7월",
+      "qualification": "조선변호사시험 3회",
+      "note": "9대 대법원장"
+    },
+    {
+      "name": "이병후",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1988년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "이명희",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1988년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "이준승",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1988년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "최재호",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1993년 10월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "김달식",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1988년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "박우동",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1993년 10월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "황선당",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1988년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "윤관",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1986년 4월~1993년 9월",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "배석",
+      "appointed_by": "전두환",
+      "nominated_by": "김용철",
+      "term": "1987년 3월~1991년 8월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "이일규",
+      "appointed_by": "노태우",
+      "nominated_by": "노태우",
+      "term": "1988년 7월~1990년 12월",
+      "qualification": "조선변호사사험 2회",
+      "note": "10대 대법원장"
+    },
+    {
+      "name": "김덕주",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1990년 12월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "이회창",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1993년 2월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "이재성",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1992년 4월",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "배만운",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1994년 7월",
+      "qualification": "고등고시 9회",
+      "note": ""
+    },
+    {
+      "name": "안우만",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1994년 7월",
+      "qualification": "고등고시 11회",
+      "note": ""
+    },
+    {
+      "name": "윤영철",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1994년 7월",
+      "qualification": "고등고시 11회",
+      "note": ""
+    },
+    {
+      "name": "김용준",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1994년 7월",
+      "qualification": "고등고시 9회",
+      "note": ""
+    },
+    {
+      "name": "김상원",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1994년 7월",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "김주한",
+      "appointed_by": "노태우",
+      "nominated_by": "이일규",
+      "term": "1988년 7월~1994년 7월",
+      "qualification": "고등고시 11회",
+      "note": ""
+    },
+    {
+      "name": "김덕주",
+      "appointed_by": "노태우",
+      "nominated_by": "노태우",
+      "term": "1990년 12월~1993년 9월",
+      "qualification": "고등고시 7회",
+      "note": "11대 대법원장"
+    },
+    {
+      "name": "김석수",
+      "appointed_by": "노태우",
+      "nominated_by": "김덕주",
+      "term": "1991년 1월~1997년 1월",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "박만호",
+      "appointed_by": "노태우",
+      "nominated_by": "김덕주",
+      "term": "1991년 9월~1997년 9월",
+      "qualification": "고등고시 13회",
+      "note": ""
+    },
+    {
+      "name": "최종영",
+      "appointed_by": "노태우",
+      "nominated_by": "김덕주",
+      "term": "1992년 8월~1998년 8월",
+      "qualification": "고등고시 13회",
+      "note": ""
+    },
+    {
+      "name": "천경송",
+      "appointed_by": "김영삼",
+      "nominated_by": "김덕주",
+      "term": "1993년 3월~1999년 2월",
+      "qualification": "고등고시 13회",
+      "note": ""
+    },
+    {
+      "name": "윤관",
+      "appointed_by": "김영삼",
+      "nominated_by": "김영삼",
+      "term": "1993년 9월~1999년 9월",
+      "qualification": "고등고시 10회",
+      "note": "12대 대법원장"
+    },
+    {
+      "name": "정귀호",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1993년 10월~1999년 10월",
+      "qualification": "고등고시 15회",
+      "note": ""
+    },
+    {
+      "name": "안용득",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1993년 10월~1999년 10월",
+      "qualification": "고등고시 13회",
+      "note": ""
+    },
+    {
+      "name": "박준서",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1993년 10월~1999년 10월",
+      "qualification": "고등고시 15회",
+      "note": ""
+    },
+    {
+      "name": "이돈희",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1994년 7월~2000년 7월",
+      "qualification": "고등고시 13회",
+      "note": ""
+    },
+    {
+      "name": "김형선",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1994년 7월~2000년 7월",
+      "qualification": "고등고시 14회",
+      "note": ""
+    },
+    {
+      "name": "지창권",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1994년 7월~2000년 7월",
+      "qualification": "사법시험 1회",
+      "note": ""
+    },
+    {
+      "name": "신성택",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1994년 7월~2000년 7월",
+      "qualification": "고등고시 16회",
+      "note": ""
+    },
+    {
+      "name": "이용훈",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1994년 7월~2000년 7월",
+      "qualification": "고등고시 15회",
+      "note": ""
+    },
+    {
+      "name": "이임수",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1994년 7월~2000년 7월",
+      "qualification": "사법시험 1회",
+      "note": ""
+    },
+    {
+      "name": "송진훈",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1997년 2월~2003년 2월",
+      "qualification": "고등고시 16회",
+      "note": ""
+    },
+    {
+      "name": "서성",
+      "appointed_by": "김영삼",
+      "nominated_by": "윤관",
+      "term": "1997년 9월~2003년 9월",
+      "qualification": "사법시험 1회",
+      "note": ""
+    },
+    {
+      "name": "조무제",
+      "appointed_by": "김대중",
+      "nominated_by": "윤관",
+      "term": "1998년 8월~2004년 8월",
+      "qualification": "사법시험 4회",
+      "note": ""
+    },
+    {
+      "name": "변재승",
+      "appointed_by": "김대중",
+      "nominated_by": "윤관",
+      "term": "1999년 2월~2005년 2월",
+      "qualification": "사법시험 1회",
+      "note": ""
+    },
+    {
+      "name": "최종영",
+      "appointed_by": "김대중",
+      "nominated_by": "김대중",
+      "term": "1999년 9월~2005년 9월",
+      "qualification": "고등고시 13회",
+      "note": "13대 대법원장"
+    },
+    {
+      "name": "유지담",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "1999년 10월~2005년 10월",
+      "qualification": "사법시험 5회",
+      "note": ""
+    },
+    {
+      "name": "윤재식",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "1999년 10월~2005년 10월",
+      "qualification": "사법시험 2회",
+      "note": ""
+    },
+    {
+      "name": "이용우",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "1999년 10월~2005년 10월",
+      "qualification": "사법시험 4회",
+      "note": ""
+    },
+    {
+      "name": "배기원",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2000년 7월~2005년 11월",
+      "qualification": "사법시험 5회",
+      "note": ""
+    },
+    {
+      "name": "강신욱",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2000년 7월~2006년 7월",
+      "qualification": "사법시험 9회",
+      "note": ""
+    },
+    {
+      "name": "이규홍",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2000년 7월~2006년 7월",
+      "qualification": "사법시험 8회",
+      "note": ""
+    },
+    {
+      "name": "이강국",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2000년 7월~2006년 7월",
+      "qualification": "사법시험 8회",
+      "note": ""
+    },
+    {
+      "name": "손지열",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2000년 7월~2006년 7월",
+      "qualification": "사법시험 9회",
+      "note": ""
+    },
+    {
+      "name": "박재윤",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2000년 7월~2006년 7월",
+      "qualification": "사법시험 9회",
+      "note": ""
+    },
+    {
+      "name": "고현철",
+      "appointed_by": "김대중",
+      "nominated_by": "최종영",
+      "term": "2003년 2월~2009년 2월",
+      "qualification": "사법시험 5회",
+      "note": ""
+    },
+    {
+      "name": "김용담",
+      "appointed_by": "노무현",
+      "nominated_by": "최종영",
+      "term": "2003년 9월~2009년 9월",
+      "qualification": "사법시험 11회",
+      "note": ""
+    },
+    {
+      "name": "김영란",
+      "appointed_by": "노무현",
+      "nominated_by": "최종영",
+      "term": "2004년 8월~2010년 8월",
+      "qualification": "사법시험 20회",
+      "note": ""
+    },
+    {
+      "name": "양승태",
+      "appointed_by": "노무현",
+      "nominated_by": "최종영",
+      "term": "2005년 2월~2011년 2월",
+      "qualification": "사법시험 12회",
+      "note": ""
+    },
+    {
+      "name": "이용훈",
+      "appointed_by": "노무현",
+      "nominated_by": "노무현",
+      "term": "2005년 9월~2011년 9월",
+      "qualification": "고등고시 15회",
+      "note": "14대 대법원장"
+    },
+    {
+      "name": "김황식",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2005년 11월~2008년 7월",
+      "qualification": "사법시험 14회",
+      "note": ""
+    },
+    {
+      "name": "박시환",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2005년 11월~2011년 11월",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "김지형",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2005년 11월~2011년 11월",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "이홍훈",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2006년 7월~2011년 5월",
+      "qualification": "사법시험 14회",
+      "note": ""
+    },
+    {
+      "name": "박일환",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2006년 7월~2012년 7월",
+      "qualification": "사법시험 15회",
+      "note": ""
+    },
+    {
+      "name": "김능환",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2006년 7월~2012년 7월",
+      "qualification": "사법시험 17회",
+      "note": ""
+    },
+    {
+      "name": "전수안",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2006년 7월~2012년 7월",
+      "qualification": "사법시험 18회",
+      "note": ""
+    },
+    {
+      "name": "안대희",
+      "appointed_by": "노무현",
+      "nominated_by": "이용훈",
+      "term": "2006년 7월~2012년 7월",
+      "qualification": "사법시험 17회",
+      "note": ""
+    },
+    {
+      "name": "차한성",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2008년 3월~2014년 3월",
+      "qualification": "사법시험 17회",
+      "note": ""
+    },
+    {
+      "name": "양창수",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2008년 9월~2014년 9월",
+      "qualification": "사법시험 16회",
+      "note": ""
+    },
+    {
+      "name": "신영철",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2009년 2월~2015년 2월",
+      "qualification": "사법시험 18회",
+      "note": ""
+    },
+    {
+      "name": "민일영",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2009년 9월~2015년 9월",
+      "qualification": "사법시험 20회",
+      "note": ""
+    },
+    {
+      "name": "이인복",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2010년 9월~2016년 9월",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "이상훈",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2011년 2월~2017년 2월",
+      "qualification": "사법시험 19회",
+      "note": ""
+    },
+    {
+      "name": "박병대",
+      "appointed_by": "이명박",
+      "nominated_by": "이용훈",
+      "term": "2011년 6월~2017년 6월",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "양승태",
+      "appointed_by": "이명박",
+      "nominated_by": "이명박",
+      "term": "2011년 9월~2017년 9월",
+      "qualification": "사법시험 12회",
+      "note": "15대 대법원장"
+    },
+    {
+      "name": "김용덕",
+      "appointed_by": "이명박",
+      "nominated_by": "양승태",
+      "term": "2012년 1월~2018년 1월",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "박보영",
+      "appointed_by": "이명박",
+      "nominated_by": "양승태",
+      "term": "2012년 1월~2018년 1월",
+      "qualification": "사법시험 26회",
+      "note": ""
+    },
+    {
+      "name": "고영한",
+      "appointed_by": "이명박",
+      "nominated_by": "양승태",
+      "term": "2012년 8월~2018년 8월",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "김창석",
+      "appointed_by": "이명박",
+      "nominated_by": "양승태",
+      "term": "2012년 8월~2018년 8월",
+      "qualification": "사법시험 23회",
+      "note": ""
+    },
+    {
+      "name": "김신",
+      "appointed_by": "이명박",
+      "nominated_by": "양승태",
+      "term": "2012년 8월~2018년 8월",
+      "qualification": "사법시험 22회",
+      "note": ""
+    },
+    {
+      "name": "김소영",
+      "appointed_by": "이명박",
+      "nominated_by": "양승태",
+      "term": "2012년 11월~2018년 11월",
+      "qualification": "사법시험 29회",
+      "note": ""
+    },
+    {
+      "name": "조희대",
+      "appointed_by": "박근혜",
+      "nominated_by": "양승태",
+      "term": "2014년 3월~2020년 3월",
+      "qualification": "사법시험 23회",
+      "note": ""
+    },
+    {
+      "name": "권순일",
+      "appointed_by": "박근혜",
+      "nominated_by": "양승태",
+      "term": "2014년 9월~2020년 9월",
+      "qualification": "사법시험 22회",
+      "note": ""
+    },
+    {
+      "name": "박상옥",
+      "appointed_by": "박근혜",
+      "nominated_by": "양승태",
+      "term": "2015년 5월~2021년 5월",
+      "qualification": "사법시험 20회",
+      "note": ""
+    },
+    {
+      "name": "이기택",
+      "appointed_by": "박근혜",
+      "nominated_by": "양승태",
+      "term": "2015년 9월~2021년 9월",
+      "qualification": "사법시험 23회",
+      "note": ""
+    },
+    {
+      "name": "김재형",
+      "appointed_by": "박근혜",
+      "nominated_by": "양승태",
+      "term": "2016년 9월~2022년 9월",
+      "qualification": "사법시험 28회",
+      "note": ""
+    },
+    {
+      "name": "조재연",
+      "appointed_by": "문재인",
+      "nominated_by": "양승태",
+      "term": "2017년 7월~2023년 7월",
+      "qualification": "사법시험 22회",
+      "note": ""
+    },
+    {
+      "name": "박정화",
+      "appointed_by": "문재인",
+      "nominated_by": "양승태",
+      "term": "2017년 7월~2023년 7월",
+      "qualification": "사법시험 30회",
+      "note": ""
+    },
+    {
+      "name": "김명수",
+      "appointed_by": "문재인",
+      "nominated_by": "문재인",
+      "term": "2017년 9월~2023년 9월",
+      "qualification": "사법시험 25회",
+      "note": "16대 대법원장"
+    },
+    {
+      "name": "안철상",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2018년 1월~2024년 1월",
+      "qualification": "사법시험 24회",
+      "note": ""
+    },
+    {
+      "name": "민유숙",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2018년 1월~2024년 1월",
+      "qualification": "사법시험 28회",
+      "note": ""
+    },
+    {
+      "name": "김선수",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2018년 8월~2024년 8월",
+      "qualification": "사법시험 27회",
+      "note": ""
+    },
+    {
+      "name": "노정희",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2018년 8월~2024년 8월",
+      "qualification": "사법시험 29회",
+      "note": ""
+    },
+    {
+      "name": "이동원",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2018년 8월~2024년 8월",
+      "qualification": "사법시험 27회",
+      "note": ""
+    },
+    {
+      "name": "김상환",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2018년 12월~2024년 12월",
+      "qualification": "사법시험 30회",
+      "note": ""
+    },
+    {
+      "name": "노태악",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2020년 3월~2026년 3월",
+      "qualification": "사법시험 26회",
+      "note": ""
+    },
+    {
+      "name": "이흥구",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2020년 9월~2026년 9월",
+      "qualification": "사법시험 32회",
+      "note": ""
+    },
+    {
+      "name": "천대엽",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2021년 5월~",
+      "qualification": "사법시험 31회",
+      "note": ""
+    },
+    {
+      "name": "오경미",
+      "appointed_by": "문재인",
+      "nominated_by": "김명수",
+      "term": "2021년 9월~",
+      "qualification": "사법시험 35회",
+      "note": ""
+    },
+    {
+      "name": "오석준",
+      "appointed_by": "윤석열",
+      "nominated_by": "김명수",
+      "term": "2022년 11월~",
+      "qualification": "사법시험 29회",
+      "note": ""
+    },
+    {
+      "name": "서경환",
+      "appointed_by": "윤석열",
+      "nominated_by": "김명수",
+      "term": "2023년 7월~",
+      "qualification": "사법시험 30회",
+      "note": ""
+    },
+    {
+      "name": "권영준",
+      "appointed_by": "윤석열",
+      "nominated_by": "김명수",
+      "term": "2023년 7월~",
+      "qualification": "사법시험 35회",
+      "note": ""
+    },
+    {
+      "name": "조희대",
+      "appointed_by": "윤석열",
+      "nominated_by": "윤석열",
+      "term": "2023년 12월~",
+      "qualification": "사법시험 23회",
+      "note": "17대 대법원장"
+    },
+    {
+      "name": "엄상필",
+      "appointed_by": "윤석열",
+      "nominated_by": "조희대",
+      "term": "2024년 2월 ~",
+      "qualification": "사법시험 33회",
+      "note": ""
+    },
+    {
+      "name": "신숙희",
+      "appointed_by": "윤석열",
+      "nominated_by": "조희대",
+      "term": "2024년 2월 ~",
+      "qualification": "사법시험 35회",
+      "note": ""
+    },
+    {
+      "name": "노경필",
+      "appointed_by": "윤석열",
+      "nominated_by": "조희대",
+      "term": "2024년 8월 ~",
+      "qualification": "사법시험 33회",
+      "note": ""
+    },
+    {
+      "name": "박영재",
+      "appointed_by": "윤석열",
+      "nominated_by": "조희대",
+      "term": "2024년 8월 ~",
+      "qualification": "사법시험 32회",
+      "note": ""
+    },
+    {
+      "name": "이숙연",
+      "appointed_by": "윤석열",
+      "nominated_by": "조희대",
+      "term": "2024년 8월 ~",
+      "qualification": "사법시험 36회",
+      "note": ""
+    },
+    {
+      "name": "마용주",
+      "appointed_by": "한덕수",
+      "nominated_by": "조희대",
+      "term": "2025년 4월 ~",
+      "qualification": "사법시험 33회",
+      "note": ""
+    },
+    {
+      "name": "김성수",
+      "appointed_by": "이재명",
+      "nominated_by": "조희대",
+      "term": "2026년 9월 ~",
+      "qualification": "사법시험 34회",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 대법관 - Free Download",
+    "description": "1948년 이후 대한민국 대법원의 역대 대법관 이름, 임명권자, 제청권자, 임기, 자격 목록입니다. Contains 183 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 대법관 | ListBase",
+    "seo_description": "Download 대한민국의 역대 대법관 — 183 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 183 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_대법관"
+    ]
+  }
+}
