@@ -1,0 +1,584 @@
+{
+  "id": "ko-heonbeop-jaepangwan",
+  "name": "대한민국의 역대 헌법재판소 재판관",
+  "title": "대한민국의 역대 헌법재판소 재판관",
+  "description": "1988년 헌법재판소 출범 이후 역대 헌법재판관의 이름, 임기, 임명권자, 선출·지명 기관, 자격 목록입니다.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_헌법재판소_재판관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_헌법재판소_재판관",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "appointed_by",
+      "label": "Appointed By",
+      "type": "string"
+    },
+    {
+      "key": "selected_by",
+      "label": "Selected By",
+      "type": "string"
+    },
+    {
+      "key": "qualification",
+      "label": "Qualification",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "조규광",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "노태우",
+      "qualification": "조선변호사시험 3회",
+      "note": "초대 헌법재판소장"
+    },
+    {
+      "name": "최광률",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "노태우",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "김양균",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "노태우",
+      "qualification": "고등고시 11회",
+      "note": ""
+    },
+    {
+      "name": "한병채",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "국회 (민주정의당)",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "변정수",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "국회 (평화민주당)",
+      "qualification": "고등고시 8회",
+      "note": ""
+    },
+    {
+      "name": "김진우",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "국회 (통일민주당)",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "이성렬",
+      "term": "1988년 9월~1991년 8월",
+      "appointed_by": "노태우",
+      "selected_by": "대법원장 (이일규)",
+      "qualification": "고등고시 5회",
+      "note": ""
+    },
+    {
+      "name": "이시윤",
+      "term": "1988년 9월~1993년 12월",
+      "appointed_by": "노태우",
+      "selected_by": "대법원장 (이일규)",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "김문희",
+      "term": "1988년 9월~1994년 9월",
+      "appointed_by": "노태우",
+      "selected_by": "대법원장 (이일규)",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "황도연",
+      "term": "1991년 8월~1997년 8월",
+      "appointed_by": "노태우",
+      "selected_by": "대법원장 (김덕주)",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "이재화",
+      "term": "1993년 12월~1999년 12월",
+      "appointed_by": "김영삼",
+      "selected_by": "대법원장 (윤관)",
+      "qualification": "고등고시 14회",
+      "note": ""
+    },
+    {
+      "name": "김용준",
+      "term": "1994년 9월~2000년 9월",
+      "appointed_by": "김영삼",
+      "selected_by": "김영삼",
+      "qualification": "고등고시 9회",
+      "note": "2대 헌법재판소장"
+    },
+    {
+      "name": "김진우",
+      "term": "1994년 9월~1997년 1월",
+      "appointed_by": "김영삼",
+      "selected_by": "김영삼",
+      "qualification": "고등고시 7회",
+      "note": ""
+    },
+    {
+      "name": "정경식",
+      "term": "1994년 9월~2000년 9월",
+      "appointed_by": "김영삼",
+      "selected_by": "김영삼",
+      "qualification": "사법시험 1회",
+      "note": ""
+    },
+    {
+      "name": "김문희",
+      "term": "1994년 9월~2000년 9월",
+      "appointed_by": "김영삼",
+      "selected_by": "국회 (민주자유당)",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "조승형",
+      "term": "1994년 9월~1999년 9월",
+      "appointed_by": "김영삼",
+      "selected_by": "국회 (민주당)",
+      "qualification": "고등고시 10회",
+      "note": ""
+    },
+    {
+      "name": "신창언",
+      "term": "1994년 9월~2000년 9월",
+      "appointed_by": "김영삼",
+      "selected_by": "국회 (민주자유당)",
+      "qualification": "사법시험 3회",
+      "note": ""
+    },
+    {
+      "name": "고중석",
+      "term": "1994년 9월~2000년 9월",
+      "appointed_by": "김영삼",
+      "selected_by": "대법원장 (윤관)",
+      "qualification": "고등고시 14회",
+      "note": ""
+    },
+    {
+      "name": "이영모",
+      "term": "1997년 1월~2001년 3월",
+      "appointed_by": "김영삼",
+      "selected_by": "김영삼",
+      "qualification": "고등고시 13회",
+      "note": ""
+    },
+    {
+      "name": "한대현",
+      "term": "1997년 8월~2003년 8월",
+      "appointed_by": "김영삼",
+      "selected_by": "대법원장 (윤관)",
+      "qualification": "고등고시 15회",
+      "note": ""
+    },
+    {
+      "name": "하경철",
+      "term": "1999년 9월~2004년 1월",
+      "appointed_by": "김대중",
+      "selected_by": "국회 (새정치국민회의)",
+      "qualification": "고등고시 12회",
+      "note": ""
+    },
+    {
+      "name": "김영일",
+      "term": "1999년 12월~2005년 3월",
+      "appointed_by": "김대중",
+      "selected_by": "대법원장 (최종영)",
+      "qualification": "사법시험 5회",
+      "note": ""
+    },
+    {
+      "name": "윤영철",
+      "term": "2000년 9월~2006년 9월",
+      "appointed_by": "김대중",
+      "selected_by": "김대중",
+      "qualification": "고등고시 11회",
+      "note": "3대 헌법재판소장"
+    },
+    {
+      "name": "송인준",
+      "term": "2000년 9월~2006년 9월",
+      "appointed_by": "김대중",
+      "selected_by": "김대중",
+      "qualification": "사법시험 10회",
+      "note": ""
+    },
+    {
+      "name": "권성",
+      "term": "2000년 9월~2006년 8월",
+      "appointed_by": "김대중",
+      "selected_by": "국회 (한나라당)",
+      "qualification": "사법시험 8회",
+      "note": ""
+    },
+    {
+      "name": "김효종",
+      "term": "2000년 9월~2006년 9월",
+      "appointed_by": "김대중",
+      "selected_by": "국회 (여야 합의)",
+      "qualification": "사법시험 8회",
+      "note": ""
+    },
+    {
+      "name": "김경일",
+      "term": "2000년 9월~2006년 9월",
+      "appointed_by": "김대중",
+      "selected_by": "대법원장 (최종영)",
+      "qualification": "사법시험 8회",
+      "note": ""
+    },
+    {
+      "name": "주선회",
+      "term": "2001년 3월~2007년 3월",
+      "appointed_by": "김대중",
+      "selected_by": "김대중",
+      "qualification": "사법시험 10회",
+      "note": ""
+    },
+    {
+      "name": "전효숙",
+      "term": "2003년 8월~2003년 8월",
+      "appointed_by": "노무현",
+      "selected_by": "대법원장 (최종영)",
+      "qualification": "사법시험 17회",
+      "note": ""
+    },
+    {
+      "name": "이상경",
+      "term": "2004년 2월~2005년 6월",
+      "appointed_by": "노무현",
+      "selected_by": "국회 (새천년민주당)",
+      "qualification": "사법시험 10회",
+      "note": ""
+    },
+    {
+      "name": "이공현",
+      "term": "2005년 3월~2011년 3월",
+      "appointed_by": "노무현",
+      "selected_by": "대법원장 (최종영)",
+      "qualification": "사법시험 13회",
+      "note": ""
+    },
+    {
+      "name": "조대현",
+      "term": "2005년 7월~2011년 7월",
+      "appointed_by": "노무현",
+      "selected_by": "국회 (열린우리당)",
+      "qualification": "사법시험 17회",
+      "note": ""
+    },
+    {
+      "name": "김희옥",
+      "term": "2006년 9월~2010년 12월",
+      "appointed_by": "노무현",
+      "selected_by": "노무현",
+      "qualification": "사법시험 18회",
+      "note": ""
+    },
+    {
+      "name": "이동흡",
+      "term": "2006년 9월~2012년 9월",
+      "appointed_by": "노무현",
+      "selected_by": "국회 (한나라당)",
+      "qualification": "사법시험 15회",
+      "note": ""
+    },
+    {
+      "name": "목영준",
+      "term": "2006년 9월~2012년 9월",
+      "appointed_by": "노무현",
+      "selected_by": "국회 (여야 합의)",
+      "qualification": "사법시험 19회",
+      "note": ""
+    },
+    {
+      "name": "김종대",
+      "term": "2006년 9월~2012년 9월",
+      "appointed_by": "노무현",
+      "selected_by": "대법원장 (이용훈)",
+      "qualification": "사법시험 17회",
+      "note": ""
+    },
+    {
+      "name": "민형기",
+      "term": "2006년 9월~2012년 9월",
+      "appointed_by": "노무현",
+      "selected_by": "대법원장 (이용훈)",
+      "qualification": "사법시험 16회",
+      "note": ""
+    },
+    {
+      "name": "이강국",
+      "term": "2007년 1월~2013년 1월",
+      "appointed_by": "노무현",
+      "selected_by": "노무현",
+      "qualification": "사법시험 8회",
+      "note": "4대 헌법재판소장"
+    },
+    {
+      "name": "송두환",
+      "term": "2007년 3월~2013년 3월",
+      "appointed_by": "노무현",
+      "selected_by": "노무현",
+      "qualification": "사법시험 22회",
+      "note": ""
+    },
+    {
+      "name": "박한철",
+      "term": "2011년 2월~2017년 1월",
+      "appointed_by": "이명박",
+      "selected_by": "이명박",
+      "qualification": "사법시험 23회",
+      "note": "5대 헌법재판소장"
+    },
+    {
+      "name": "안창호",
+      "term": "2012년 9월~2018년 9월",
+      "appointed_by": "이명박",
+      "selected_by": "국회 (새누리당)",
+      "qualification": "사법시험 23회",
+      "note": ""
+    },
+    {
+      "name": "김이수",
+      "term": "2012년 9월~2018년 9월",
+      "appointed_by": "이명박",
+      "selected_by": "국회 (민주통합당)",
+      "qualification": "사법시험 19회",
+      "note": ""
+    },
+    {
+      "name": "강일원",
+      "term": "2012년 9월~2018년 9월",
+      "appointed_by": "이명박",
+      "selected_by": "국회 (여야 합의)",
+      "qualification": "사법시험 23회",
+      "note": ""
+    },
+    {
+      "name": "이정미",
+      "term": "2011년 3월~2017년 3월",
+      "appointed_by": "이명박",
+      "selected_by": "대법원장 (이용훈)",
+      "qualification": "사법시험 26회",
+      "note": ""
+    },
+    {
+      "name": "이진성",
+      "term": "2012년 9월~2018년 9월",
+      "appointed_by": "이명박",
+      "selected_by": "대법원장 (양승태)",
+      "qualification": "사법시험 19회",
+      "note": "6대 헌법재판소장"
+    },
+    {
+      "name": "김창종",
+      "term": "2012년 9월~2018년 9월",
+      "appointed_by": "이명박",
+      "selected_by": "대법원장 (양승태)",
+      "qualification": "사법시험 22회",
+      "note": ""
+    },
+    {
+      "name": "조용호",
+      "term": "2013년 4월~2019년 4월",
+      "appointed_by": "박근혜",
+      "selected_by": "박근혜",
+      "qualification": "사법시험 20회",
+      "note": ""
+    },
+    {
+      "name": "서기석",
+      "term": "2013년 4월~2019년 4월",
+      "appointed_by": "박근혜",
+      "selected_by": "박근혜",
+      "qualification": "사법시험 21회",
+      "note": ""
+    },
+    {
+      "name": "이선애",
+      "term": "2017년 3월~2023년 3월",
+      "appointed_by": "황교안",
+      "selected_by": "대법원장 (양승태)",
+      "qualification": "사법시험 31회",
+      "note": ""
+    },
+    {
+      "name": "유남석",
+      "term": "2017년 11월~2023년 11월",
+      "appointed_by": "문재인",
+      "selected_by": "문재인",
+      "qualification": "사법시험 23회",
+      "note": "7대 헌법재판소장"
+    },
+    {
+      "name": "이석태",
+      "term": "2018년 9월~2023년 4월",
+      "appointed_by": "문재인",
+      "selected_by": "대법원장 (김명수)",
+      "qualification": "사법시험 24회",
+      "note": ""
+    },
+    {
+      "name": "이은애",
+      "term": "2018년 9월~2024년 9월",
+      "appointed_by": "문재인",
+      "selected_by": "대법원장 (김명수)",
+      "qualification": "사법시험 29회",
+      "note": ""
+    },
+    {
+      "name": "김기영",
+      "term": "2018년 10월~2024년 10월",
+      "appointed_by": "문재인",
+      "selected_by": "국회 (더불어민주당)",
+      "qualification": "사법시험 32회",
+      "note": ""
+    },
+    {
+      "name": "이종석",
+      "term": "2018년 10월~2024년 10월",
+      "appointed_by": "문재인",
+      "selected_by": "국회 (자유한국당)",
+      "qualification": "사법시험 25회",
+      "note": "8대 헌법재판소장"
+    },
+    {
+      "name": "이영진",
+      "term": "2018년 10월~2024년 10월",
+      "appointed_by": "문재인",
+      "selected_by": "국회 (바른미래당)",
+      "qualification": "사법시험 32회",
+      "note": ""
+    },
+    {
+      "name": "문형배",
+      "term": "2019년 4월~2025년 4월",
+      "appointed_by": "문재인",
+      "selected_by": "문재인",
+      "qualification": "사법시험 28회",
+      "note": ""
+    },
+    {
+      "name": "이미선",
+      "term": "2019년 4월~2025년 4월",
+      "appointed_by": "문재인",
+      "selected_by": "문재인",
+      "qualification": "사법시험 36회",
+      "note": ""
+    },
+    {
+      "name": "김형두",
+      "term": "2023년 3월~",
+      "appointed_by": "윤석열",
+      "selected_by": "대법원장 (김명수)",
+      "qualification": "사법시험 29회",
+      "note": ""
+    },
+    {
+      "name": "정정미",
+      "term": "2023년 4월~",
+      "appointed_by": "윤석열",
+      "selected_by": "대법원장 (김명수)",
+      "qualification": "사법시험 35회",
+      "note": ""
+    },
+    {
+      "name": "정형식",
+      "term": "2023년 12월~",
+      "appointed_by": "윤석열",
+      "selected_by": "윤석열",
+      "qualification": "사법시험 27회",
+      "note": ""
+    },
+    {
+      "name": "김복형",
+      "term": "2024년 9월~",
+      "appointed_by": "윤석열",
+      "selected_by": "대법원장 (조희대)",
+      "qualification": "사법시험 34회",
+      "note": ""
+    },
+    {
+      "name": "조한창",
+      "term": "2025년 1월~",
+      "appointed_by": "최상목",
+      "selected_by": "국회 (국민의힘)",
+      "qualification": "사법시험 28회",
+      "note": ""
+    },
+    {
+      "name": "정계선",
+      "term": "2025년 1월~",
+      "appointed_by": "최상목",
+      "selected_by": "국회 (더불어민주당)",
+      "qualification": "사법시험 37회",
+      "note": ""
+    },
+    {
+      "name": "마은혁",
+      "term": "2025년 4월~",
+      "appointed_by": "한덕수",
+      "selected_by": "국회 (더불어민주당)",
+      "qualification": "사법시험 39회",
+      "note": ""
+    },
+    {
+      "name": "김상환",
+      "term": "2025년 7월~",
+      "appointed_by": "이재명",
+      "selected_by": "이재명",
+      "qualification": "사법시험 30회",
+      "note": "9대 헌법재판소장"
+    },
+    {
+      "name": "오영준",
+      "term": "2025년 7월~",
+      "appointed_by": "이재명",
+      "selected_by": "이재명",
+      "qualification": "사법시험 33회",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 역대 헌법재판소 재판관 - Free Download",
+    "description": "1988년 헌법재판소 출범 이후 역대 헌법재판관의 이름, 임기, 임명권자, 선출·지명 기관, 자격 목록입니다. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 역대 헌법재판소 재판관 | ListBase",
+    "seo_description": "Download 대한민국의 역대 헌법재판소 재판관 — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_헌법재판소_재판관"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:06:54.775Z",
-  "total_datasets": 469,
-  "total_records": 450189,
+  "generated": "2026-10-25T02:06:57.333Z",
+  "total_datasets": 470,
+  "total_records": 450255,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -7237,6 +7237,33 @@
         "xlsx": {
           "name": "ko-geomchal-chongjang_KO.xlsx",
           "size": 11685
+        }
+      }
+    },
+    {
+      "id": "ko-heonbeop-jaepangwan",
+      "name": "대한민국의 역대 헌법재판소 재판관",
+      "category": "law",
+      "record_count": 66,
+      "columns": [
+        "name",
+        "term",
+        "appointed_by",
+        "selected_by",
+        "qualification",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_헌법재판소_재판관",
+      "updated": "2026-10",
+      "size": 16771,
+      "files": {
+        "csv": {
+          "name": "ko-heonbeop-jaepangwan_KO.csv",
+          "size": 6629
+        },
+        "xlsx": {
+          "name": "ko-heonbeop-jaepangwan_KO.xlsx",
+          "size": 9867
         }
       }
     },
