@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:16.345Z",
-  "total_datasets": 477,
-  "total_records": 450467,
+  "generated": "2026-10-25T02:07:18.771Z",
+  "total_datasets": 478,
+  "total_records": 450558,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -10502,6 +10502,33 @@
         "xlsx": {
           "name": "ko-gisangcheongjang_KO.xlsx",
           "size": 8475
+        }
+      }
+    },
+    {
+      "id": "ko-gwahak-gisul-janggwan",
+      "name": "대한민국 역대 과학기술·정보통신 부처 장관 (체신부·과학기술처~과학기술정보통신부)",
+      "category": "science",
+      "record_count": 91,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "start_date",
+        "end_date",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_과학기술정보통신부_장관",
+      "updated": "2026-10",
+      "size": 24255,
+      "files": {
+        "csv": {
+          "name": "ko-gwahak-gisul-janggwan_KO.csv",
+          "size": 10701
+        },
+        "xlsx": {
+          "name": "ko-gwahak-gisul-janggwan_KO.xlsx",
+          "size": 10887
         }
       }
     },

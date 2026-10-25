@@ -1,0 +1,784 @@
+{
+  "id": "ko-gwahak-gisul-janggwan",
+  "name": "대한민국 역대 과학기술·정보통신 부처 장관 (체신부·과학기술처~과학기술정보통신부)",
+  "title": "대한민국 역대 과학기술·정보통신 부처 장관 (체신부·과학기술처~과학기술정보통신부)",
+  "description": "체신부, 정보통신부, 과학기술처, 과학기술부, 교육과학기술부, 미래창조과학부, 과학기술정보통신부 등 대한민국 과학기술·정보통신 부처의 역대 장관 목록입니다.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_과학기술정보통신부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_과학기술정보통신부_장관",
+  "updated": "2026-10",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "Start Date",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "End Date",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제1대",
+      "name": "윤석구",
+      "start_date": "1948년 8월 4일",
+      "end_date": "1949년 6월 13일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제2대",
+      "name": "장기영",
+      "start_date": "1949년 6월 14일",
+      "end_date": "1952년 1월 11일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제3대",
+      "name": "이순용",
+      "start_date": "1952년 1월 12일",
+      "end_date": "1952년 3월 20일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제4대",
+      "name": "조주영",
+      "start_date": "1952년 3월 27일",
+      "end_date": "1952년 10월 8일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제5대",
+      "name": "강인택",
+      "start_date": "1952년 10월 9일",
+      "end_date": "1954년 6월 29일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제6대",
+      "name": "이광",
+      "start_date": "1954년 6월 30일",
+      "end_date": "1955년 9월 15일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제7대",
+      "name": "이응준",
+      "start_date": "1955년 9월 16일",
+      "end_date": "1958년 9월 8일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제8대",
+      "name": "곽의영",
+      "start_date": "1958년 9월 9일",
+      "end_date": "1960년 5월 1일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제9대",
+      "name": "오정수",
+      "start_date": "1960년 5월 2일",
+      "end_date": "1960년 6월 1일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제10대",
+      "name": "최용덕",
+      "start_date": "1960년 6월 2일",
+      "end_date": "1960년 8월 22일",
+      "government": "제1공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제11대",
+      "name": "이상철",
+      "start_date": "1960년 8월 23일",
+      "end_date": "1960년 9월 11일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제12대",
+      "name": "조한백",
+      "start_date": "1960년 9월 14일",
+      "end_date": "1961년 1월 29일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제13대",
+      "name": "한통숙",
+      "start_date": "1961년 1월 30일",
+      "end_date": "1961년 5월 19일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제14대",
+      "name": "배덕진",
+      "start_date": "1961년 5월 20일",
+      "end_date": "1963년 1월 1일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제15대",
+      "name": "김장훈",
+      "start_date": "1963년 2월 1일",
+      "end_date": "1963년 12월 15일",
+      "government": "제2공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제16대",
+      "name": "홍헌표",
+      "start_date": "1963년 12월 17일",
+      "end_date": "1964년 7월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제17대",
+      "name": "김홍식",
+      "start_date": "1964년 7월 22일",
+      "end_date": "1965년 5월 15일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제18대",
+      "name": "김병삼",
+      "start_date": "1965년 5월 16일",
+      "end_date": "1966년 12월 26일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제19대",
+      "name": "박경원",
+      "start_date": "1966년 12월 27일",
+      "end_date": "1967년 10월 2일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제20대",
+      "name": "황종률",
+      "start_date": "1967년 10월 3일",
+      "end_date": "1968년 5월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제21대",
+      "name": "김태동",
+      "start_date": "1968년 5월 21일",
+      "end_date": "1969년 10월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제22대",
+      "name": "김보현",
+      "start_date": "1969년 10월 21일",
+      "end_date": "1970년 12월 20일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제23대",
+      "name": "신상철",
+      "start_date": "1970년 12월 21일",
+      "end_date": "1973년 12월 2일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제24대",
+      "name": "문형태",
+      "start_date": "1973년 12월 3일",
+      "end_date": "1974년 9월 17일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제25대",
+      "name": "장승태",
+      "start_date": "1974년 9월 18일",
+      "end_date": "1975년 12월 18일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제26대",
+      "name": "박원근",
+      "start_date": "1975년 12월 19일",
+      "end_date": "1978년 12월 21일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제27대",
+      "name": "이재설",
+      "start_date": "1978년 12월 22일",
+      "end_date": "1979년 12월 13일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제28대",
+      "name": "배상욱",
+      "start_date": "1979년 12월 14일",
+      "end_date": "1980년 5월 21일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제29대",
+      "name": "윤흥정",
+      "start_date": "1980년 5월 22일",
+      "end_date": "1980년 9월 1일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제30대",
+      "name": "김기철",
+      "start_date": "1980년 9월 2일",
+      "end_date": "1981년 3월 8일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제31대",
+      "name": "최광수",
+      "start_date": "1981년 3월 10일",
+      "end_date": "1982년 5월 20일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제32대",
+      "name": "최순달",
+      "start_date": "1982년 5월 21일",
+      "end_date": "1983년 10월 14일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제33대",
+      "name": "김성진",
+      "start_date": "1983년 10월 15일",
+      "end_date": "1985년 2월 18일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제34대",
+      "name": "이자헌",
+      "start_date": "1985년 2월 19일",
+      "end_date": "1986년 8월 26일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제35대",
+      "name": "이대순",
+      "start_date": "1986년 8월 27일",
+      "end_date": "1987년 7월 13일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제36대",
+      "name": "오명",
+      "start_date": "1987년 7월 14일",
+      "end_date": "1988년 12월 4일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제37대",
+      "name": "최영철",
+      "start_date": "1988년 12월 5일",
+      "end_date": "1989년 7월 8일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제38대",
+      "name": "이우재",
+      "start_date": "1989년 7월 19일",
+      "end_date": "1990년 12월 26일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제39대",
+      "name": "송언종",
+      "start_date": "1990년 12월 27일",
+      "end_date": "1993년 2월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "체신부 장관(1948~1994)",
+      "term_no": "제40대",
+      "name": "윤동윤",
+      "start_date": "1993년 2월 26일",
+      "end_date": "1994년 12월 23일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제1대",
+      "name": "경상현",
+      "start_date": "1994년 12월 24일",
+      "end_date": "1995년 12월 20일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제2대",
+      "name": "이석채",
+      "start_date": "1995년 12월 21일",
+      "end_date": "1996년 8월 7일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제3대",
+      "name": "강봉균",
+      "start_date": "1996년 8월 8일",
+      "end_date": "1998년 3월 2일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제4대",
+      "name": "배순훈",
+      "start_date": "1998년 3월 3일",
+      "end_date": "1998년 12월 20일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제5대",
+      "name": "남궁석",
+      "start_date": "1998년 12월 21일",
+      "end_date": "2000년 2월 1일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제6대",
+      "name": "안병엽",
+      "start_date": "2000년 2월 14일",
+      "end_date": "2001년 3월 25일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제7대",
+      "name": "양승택",
+      "start_date": "2001년 3월 26일",
+      "end_date": "2002년 7월 11일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제8대",
+      "name": "이상철",
+      "start_date": "2002년 7월 11일",
+      "end_date": "2003년 2월 27일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제9대",
+      "name": "진대제",
+      "start_date": "2003년 2월 27일",
+      "end_date": "2006년 3월 22일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제10대",
+      "name": "노준형",
+      "start_date": "2006년 3월 22일",
+      "end_date": "2007년 9월 3일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "정보통신부 장관(1994~2008)",
+      "term_no": "제11대",
+      "name": "유영환",
+      "start_date": "2007년 9월 4일",
+      "end_date": "2008년 2월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제1대",
+      "name": "김기형",
+      "start_date": "1967년 4월 12일",
+      "end_date": "1971년 6월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제2대",
+      "name": "최형섭",
+      "start_date": "1971년 6월 15일",
+      "end_date": "1978년 12월 22일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제3대",
+      "name": "최종완",
+      "start_date": "1978년 12월 23일",
+      "end_date": "1979년 12월 13일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제4대",
+      "name": "성좌경",
+      "start_date": "1979년 12월 14일",
+      "end_date": "1980년 8월 31일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제5대",
+      "name": "이정오",
+      "start_date": "1980년 9월 1일",
+      "end_date": "1985년 2월 18일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제6대",
+      "name": "김성진",
+      "start_date": "1985년 2월 19일",
+      "end_date": "1986년 1월 7일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제7대",
+      "name": "전학제",
+      "start_date": "1986년 1월 8일",
+      "end_date": "1986년 8월 26일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제8대",
+      "name": "이태섭",
+      "start_date": "1986년 8월 27일",
+      "end_date": "1987년 7월 13일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제9대",
+      "name": "박긍식",
+      "start_date": "1987년 7월 14일",
+      "end_date": "1988년 2월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제10대",
+      "name": "이관",
+      "start_date": "1988년 2월 25일",
+      "end_date": "1988년 12월 4일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제11대",
+      "name": "이상희",
+      "start_date": "1988년 12월 5일",
+      "end_date": "1990년 3월 18일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제12대",
+      "name": "정근모",
+      "start_date": "1990년 3월 19일",
+      "end_date": "1990년 11월 9일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제13대",
+      "name": "김진현",
+      "start_date": "1990년 11월 10일",
+      "end_date": "1993년 2월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제14대",
+      "name": "김시중",
+      "start_date": "1993년 2월 26일",
+      "end_date": "1994년 12월 23일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제15대",
+      "name": "정근모",
+      "start_date": "1994년 12월 24일",
+      "end_date": "1996년 8월 7일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제16대",
+      "name": "구본영",
+      "start_date": "1996년 8월 8일",
+      "end_date": "1996년 12월 19일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제17대",
+      "name": "김용진",
+      "start_date": "1996년 12월 20일",
+      "end_date": "1997년 3월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "과학기술처 장관(1967~1998)",
+      "term_no": "제18대",
+      "name": "권숙일",
+      "start_date": "1997년 3월 6일",
+      "end_date": "1998년 2월 28일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "과학기술부 장관(1998~2004)",
+      "term_no": "제1대",
+      "name": "강창희",
+      "start_date": "1998년 3월 3일",
+      "end_date": "1999년 3월 22일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "과학기술부 장관(1998~2004)",
+      "term_no": "제2대",
+      "name": "서정욱",
+      "start_date": "1999년 3월 23일",
+      "end_date": "2001년 3월 25일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "과학기술부 장관(1998~2004)",
+      "term_no": "제3대",
+      "name": "김영환",
+      "start_date": "2001년 3월 26일",
+      "end_date": "2002년 1월 28일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "과학기술부 장관(1998~2004)",
+      "term_no": "제4대",
+      "name": "채영복",
+      "start_date": "2002년 1월 29일",
+      "end_date": "2003년 2월 26일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "과학기술부 장관(1998~2004)",
+      "term_no": "제5대",
+      "name": "박호군",
+      "start_date": "2003년 2월 27일",
+      "end_date": "2003년 12월 27일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "과학기술부 장관(1998~2004)",
+      "term_no": "제6대",
+      "name": "오명",
+      "start_date": "2003년 12월 28일",
+      "end_date": "2004년 10월 17일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "부총리 겸 과학기술부 장관(2004~2008)",
+      "term_no": "제7대",
+      "name": "오명",
+      "start_date": "2004년 10월 18일",
+      "end_date": "2006년 2월 9일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "부총리 겸 과학기술부 장관(2004~2008)",
+      "term_no": "제8대",
+      "name": "김우식",
+      "start_date": "2006년 2월 10일",
+      "end_date": "2008년 2월 28일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "교육과학기술부 장관(2008~2013)",
+      "term_no": "제51대",
+      "name": "김도연",
+      "start_date": "2008년 2월 29일",
+      "end_date": "2008년 8월 5일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "교육과학기술부 장관(2008~2013)",
+      "term_no": "제52대",
+      "name": "안병만",
+      "start_date": "2008년 8월 6일",
+      "end_date": "2010년 8월 30일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "교육과학기술부 장관(2008~2013)",
+      "term_no": "제53대",
+      "name": "이주호",
+      "start_date": "2010년 8월 30일",
+      "end_date": "2013년 3월 10일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "교육과학기술부 장관(2008~2013)",
+      "term_no": "제54대",
+      "name": "서남수",
+      "start_date": "2013년 3월 11일",
+      "end_date": "2013년 3월 22일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "미래창조과학부 장관(2013~2017)",
+      "term_no": "제1대",
+      "name": "최문기",
+      "start_date": "2013년 4월 17일",
+      "end_date": "2014년 7월 15일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "미래창조과학부 장관(2013~2017)",
+      "term_no": "제2대",
+      "name": "최양희",
+      "start_date": "2014년 7월 16일",
+      "end_date": "2017년 7월 10일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "미래창조과학부 장관(2013~2017)",
+      "term_no": "제3대",
+      "name": "유영민",
+      "start_date": "2017년 7월 11일",
+      "end_date": "2017년 7월 25일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "과학기술정보통신부 장관(2017~2025)",
+      "term_no": "제1대",
+      "name": "유영민",
+      "start_date": "2017년 7월 26일",
+      "end_date": "2019년 9월 8일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "과학기술정보통신부 장관(2017~2025)",
+      "term_no": "제2대",
+      "name": "최기영",
+      "start_date": "2019년 9월 9일",
+      "end_date": "2021년 5월 13일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "과학기술정보통신부 장관(2017~2025)",
+      "term_no": "제3대",
+      "name": "임혜숙",
+      "start_date": "2021년 5월 14일",
+      "end_date": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "과학기술정보통신부 장관(2017~2025)",
+      "term_no": "제4대",
+      "name": "이종호",
+      "start_date": "2022년 5월 10일",
+      "end_date": "2024년 8월 16일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "과학기술정보통신부 장관(2017~2025)",
+      "term_no": "제5대",
+      "name": "유상임",
+      "start_date": "2024년 8월 16일",
+      "end_date": "2025년 7월 16일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "과학기술정보통신부 장관(2017~2025)",
+      "term_no": "제6대",
+      "name": "배경훈",
+      "start_date": "2025년 7월 16일",
+      "end_date": "2025년 9월 30일",
+      "government": "이재명 정부"
+    },
+    {
+      "office": "부총리 겸 과학기술정보통신부 장관(2025~)",
+      "term_no": "제6대",
+      "name": "배경훈",
+      "start_date": "2025년 10월 1일",
+      "end_date": "",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 과학기술·정보통신 부처 장관 (체신부·과학기술처~과학기술정보통신부) - Free Download",
+    "description": "체신부, 정보통신부, 과학기술처, 과학기술부, 교육과학기술부, 미래창조과학부, 과학기술정보통신부 등 대한민국 과학기술·정보통신 부처의 역대 장관 목록입니다. Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 과학기술·정보통신 부처 장관 (체신부·과학기술처~과학기술정보통신부) | ListBase",
+    "seo_description": "Download 대한민국 역대 과학기술·정보통신 부처 장관 (체신부·과학기술처~과학기술정보통신부) — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_과학기술정보통신부_장관"
+    ]
+  }
+}
