@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:02.383Z",
-  "total_datasets": 472,
-  "total_records": 450304,
+  "generated": "2026-10-25T02:07:05.059Z",
+  "total_datasets": 473,
+  "total_records": 450332,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -6932,6 +6932,34 @@
         "xlsx": {
           "name": "ko-geonguk-hunjang-daehanmingukjang_KO.xlsx",
           "size": 9190
+        }
+      }
+    },
+    {
+      "id": "ko-goguryeo-gugwang",
+      "name": "고구려의 역대 국왕",
+      "category": "history",
+      "record_count": 28,
+      "columns": [
+        "order",
+        "king_name",
+        "king_name_alt",
+        "personal_name",
+        "personal_name_alt",
+        "reign",
+        "burial_place"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/고구려_국왕",
+      "updated": "2026-10",
+      "size": 10211,
+      "files": {
+        "csv": {
+          "name": "ko-goguryeo-gugwang_KO.csv",
+          "size": 3861
+        },
+        "xlsx": {
+          "name": "ko-goguryeo-gugwang_KO.xlsx",
+          "size": 9359
         }
       }
     },

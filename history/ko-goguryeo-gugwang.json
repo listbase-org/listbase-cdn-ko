@@ -1,0 +1,313 @@
+{
+  "id": "ko-goguryeo-gugwang",
+  "name": "고구려의 역대 국왕",
+  "title": "고구려의 역대 국왕",
+  "description": "동명성왕부터 보장왕까지 삼국사기 고구려본기 기준 고구려 역대 국왕의 대수, 왕명, 휘, 재위 기간, 장지명 목록입니다.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/고구려_국왕",
+  "source_url": "https://ko.wikipedia.org/wiki/고구려_국왕",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "king_name",
+      "label": "King Name",
+      "type": "string"
+    },
+    {
+      "key": "king_name_alt",
+      "label": "King Name Alt",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "personal_name_alt",
+      "label": "Personal Name Alt",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Reign",
+      "type": "string"
+    },
+    {
+      "key": "burial_place",
+      "label": "Burial Place",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "1",
+      "king_name": "동명성왕 (東明聖王)",
+      "king_name_alt": "",
+      "personal_name": "주몽 (朱蒙)",
+      "personal_name_alt": "추모 (鄒牟) 중해 (衆解)",
+      "reign": "BC 37년 ~ BC 19년",
+      "burial_place": "용산 (龍山) (삼국사기 고구려본기) 홀본동강 (忽本東岡) (광개토왕릉비)"
+    },
+    {
+      "order": "2",
+      "king_name": "유리명왕 (琉璃明王)",
+      "king_name_alt": "",
+      "personal_name": "유리 (類利)",
+      "personal_name_alt": "유류 (孺留)",
+      "reign": "BC 19년 ~ AD 18년",
+      "burial_place": "두곡 동원 (豆谷 東原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "3",
+      "king_name": "대무신왕 (大武神王)",
+      "king_name_alt": "대해주류왕 (大解朱留王)",
+      "personal_name": "무휼 (無恤)",
+      "personal_name_alt": "",
+      "reign": "18년 ~ 44년",
+      "burial_place": "대수촌[림]원 (大獸村[林]原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "4",
+      "king_name": "민중왕 (閔中王)",
+      "king_name_alt": "",
+      "personal_name": "해색주 (解色朱)",
+      "personal_name_alt": "",
+      "reign": "44년 ~ 48년",
+      "burial_place": "민중원 석굴 (閔中原 石窟) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "5",
+      "king_name": "모본왕 (慕本王)",
+      "king_name_alt": "",
+      "personal_name": "해우 (解憂)",
+      "personal_name_alt": "해애루 (解愛婁)",
+      "reign": "48년 ~ 53년",
+      "burial_place": "모본원 (慕本原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "6",
+      "king_name": "태조대왕 (太祖大王)",
+      "king_name_alt": "국조왕 (國祖王)",
+      "personal_name": "궁 (宮)",
+      "personal_name_alt": "어수 (於漱) (소명)",
+      "reign": "53년 ~ 146년",
+      "burial_place": ""
+    },
+    {
+      "order": "7",
+      "king_name": "차대왕 (次大王)",
+      "king_name_alt": "",
+      "personal_name": "수성 (遂成)",
+      "personal_name_alt": "",
+      "reign": "146년 ~ 165년",
+      "burial_place": ""
+    },
+    {
+      "order": "8",
+      "king_name": "신대왕 (新大王)",
+      "king_name_alt": "",
+      "personal_name": "백고 (伯固)",
+      "personal_name_alt": "백구 (伯句)",
+      "reign": "165년 ~ 179년",
+      "burial_place": "고국곡 (故國谷) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "9",
+      "king_name": "고국천왕 (故國川王)",
+      "king_name_alt": "국양 (國襄)",
+      "personal_name": "남무 (男武)",
+      "personal_name_alt": "이이모 (伊夷謨)",
+      "reign": "179년 ~ 197년",
+      "burial_place": "고국천원 (故國川原) (삼국사기 고구려본기) 국천 (國川), 국양 (國壤) (삼국유사)"
+    },
+    {
+      "order": "10",
+      "king_name": "산상왕 (山上王)",
+      "king_name_alt": "",
+      "personal_name": "연우 (延優)",
+      "personal_name_alt": "위궁 (位宮)",
+      "reign": "197년 ~ 227년",
+      "burial_place": "산상릉 (山上陵) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "11",
+      "king_name": "동천왕 (東川王)",
+      "king_name_alt": "동양 (東襄)",
+      "personal_name": "우위거 (憂位居)",
+      "personal_name_alt": "교체 (郊彘) (소명)",
+      "reign": "227년 ~ 248년",
+      "burial_place": "시원 (柴原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "12",
+      "king_name": "중천왕 (中川王)",
+      "king_name_alt": "중양 (中壤)",
+      "personal_name": "연불 (然弗)",
+      "personal_name_alt": "",
+      "reign": "248년 ~ 270년",
+      "burial_place": "중천지원 (中川之原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "13",
+      "king_name": "서천왕 (西川王)",
+      "king_name_alt": "서양 (西壤)",
+      "personal_name": "약로 (藥盧)",
+      "personal_name_alt": "약우 (若友)",
+      "reign": "270년 ~ 292년",
+      "burial_place": "서천지원 (西川之原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "14",
+      "king_name": "봉상왕 (烽上王)",
+      "king_name_alt": "치갈 (雉葛)",
+      "personal_name": "상부 (相夫)",
+      "personal_name_alt": "삽시루 (歃矢婁)",
+      "reign": "292년 ~ 300년",
+      "burial_place": "봉산지원 (烽山之原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "15",
+      "king_name": "미천왕 (美川王)",
+      "king_name_alt": "호양왕 (好壤王)",
+      "personal_name": "을불 (乙弗)",
+      "personal_name_alt": "우불 (憂弗)",
+      "reign": "300년 ~ 331년",
+      "burial_place": "미천지원 (美川之原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "16",
+      "king_name": "고국원왕 (故國原王)",
+      "king_name_alt": "국강상왕 (國罡上王)",
+      "personal_name": "사유 (斯由)",
+      "personal_name_alt": "유 (劉)",
+      "reign": "331년 ~ 371년",
+      "burial_place": "고국지원 (故國之原) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "17",
+      "king_name": "소수림왕 (小獸林王)",
+      "king_name_alt": "소해주류왕 (小解朱留王)",
+      "personal_name": "구부 (丘夫)",
+      "personal_name_alt": "",
+      "reign": "371년 ~ 384년",
+      "burial_place": "소수림 (小獸林) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "18",
+      "king_name": "고국양왕 (故國壤王)",
+      "king_name_alt": "",
+      "personal_name": "이련 (伊連)",
+      "personal_name_alt": "어지지 (於只支)",
+      "reign": "384년 ~ 391년",
+      "burial_place": "고국양 (故國壤) (삼국사기 고구려본기)"
+    },
+    {
+      "order": "19",
+      "king_name": "광개토대왕 (廣開土王)",
+      "king_name_alt": "",
+      "personal_name": "담덕 (談德)",
+      "personal_name_alt": "",
+      "reign": "391년 ~ 412년",
+      "burial_place": "산릉 (山陵) (광개토대왕릉비)"
+    },
+    {
+      "order": "20",
+      "king_name": "장수왕 (長壽王)",
+      "king_name_alt": "",
+      "personal_name": "거련 (巨連)",
+      "personal_name_alt": "련 (璉)",
+      "reign": "412년 ~ 491년",
+      "burial_place": ""
+    },
+    {
+      "order": "21",
+      "king_name": "문자명왕 (文咨明王)",
+      "king_name_alt": "명치호왕 (明治好王)",
+      "personal_name": "라운 (羅雲)",
+      "personal_name_alt": "",
+      "reign": "491년 ~ 519년",
+      "burial_place": ""
+    },
+    {
+      "order": "22",
+      "king_name": "안장왕 (安藏王)",
+      "king_name_alt": "",
+      "personal_name": "흥안 (興安)",
+      "personal_name_alt": "",
+      "reign": "519년 ~ 531년",
+      "burial_place": ""
+    },
+    {
+      "order": "23",
+      "king_name": "안원왕 (安原王)",
+      "king_name_alt": "",
+      "personal_name": "보연 (寶延)",
+      "personal_name_alt": "",
+      "reign": "531년 ~ 545년",
+      "burial_place": ""
+    },
+    {
+      "order": "24",
+      "king_name": "양원왕 (陽原王)",
+      "king_name_alt": "양강상호왕 (陽崗上好王)",
+      "personal_name": "평성 (平成)",
+      "personal_name_alt": "",
+      "reign": "545년 ~ 559년",
+      "burial_place": ""
+    },
+    {
+      "order": "25",
+      "king_name": "평원왕 (平原王)",
+      "king_name_alt": "평강상호왕 (平崗上好王)",
+      "personal_name": "양성 (陽成)",
+      "personal_name_alt": "",
+      "reign": "559년 ~ 590년",
+      "burial_place": ""
+    },
+    {
+      "order": "26",
+      "king_name": "영양왕 (嬰陽王)",
+      "king_name_alt": "평양 (平陽)",
+      "personal_name": "원 (元)",
+      "personal_name_alt": "대원 (大元)",
+      "reign": "590년 ~ 618년",
+      "burial_place": ""
+    },
+    {
+      "order": "27",
+      "king_name": "영류왕 (榮留王)",
+      "king_name_alt": "",
+      "personal_name": "건무 (建武)",
+      "personal_name_alt": "성 (成)",
+      "reign": "618년 ~ 642년",
+      "burial_place": ""
+    },
+    {
+      "order": "28",
+      "king_name": "보장왕 (寶臧王)",
+      "king_name_alt": "",
+      "personal_name": "장 (臧)",
+      "personal_name_alt": "보장 (寶臧)",
+      "reign": "642년 ~ 668년",
+      "burial_place": ""
+    }
+  ],
+  "meta": {
+    "title": "고구려의 역대 국왕 - Free Download",
+    "description": "동명성왕부터 보장왕까지 삼국사기 고구려본기 기준 고구려 역대 국왕의 대수, 왕명, 휘, 재위 기간, 장지명 목록입니다. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "고구려의 역대 국왕 | ListBase",
+    "seo_description": "Download 고구려의 역대 국왕 — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/고구려_국왕"
+    ]
+  }
+}
