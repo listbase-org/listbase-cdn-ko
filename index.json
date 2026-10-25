@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-24T02:18:02.334Z",
-  "total_datasets": 466,
-  "total_records": 449937,
+  "generated": "2026-10-25T02:06:49.236Z",
+  "total_datasets": 467,
+  "total_records": 449961,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -7313,6 +7313,33 @@
         "xlsx": {
           "name": "ko-seoul-gayo-daesang_KO.xlsx",
           "size": 7813
+        }
+      }
+    },
+    {
+      "id": "ko-daetongnyeong",
+      "name": "대한민국의 역대 대통령",
+      "category": "politics",
+      "record_count": 24,
+      "columns": [
+        "term_no",
+        "name",
+        "term",
+        "election",
+        "government",
+        "party"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_대통령_목록",
+      "updated": "2026-10",
+      "size": 9714,
+      "files": {
+        "csv": {
+          "name": "ko-daetongnyeong_KO.csv",
+          "size": 5214
+        },
+        "xlsx": {
+          "name": "ko-daetongnyeong_KO.xlsx",
+          "size": 8665
         }
       }
     },
