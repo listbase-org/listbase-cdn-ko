@@ -1,0 +1,345 @@
+{
+  "id": "ko-cheonha-jangsa",
+  "name": "천하장사 씨름대회 역대 천하장사",
+  "title": "천하장사 씨름대회 역대 천하장사",
+  "description": "1983년 제1회부터 천하장사 씨름대회의 역대 천하장사, 소속 씨름단, 경기일, 경기장 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/천하장사_씨름대회",
+  "source_url": "https://ko.wikipedia.org/wiki/천하장사_씨름대회",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "1",
+      "champion": "이만기",
+      "team": "경남대학교",
+      "date": "1983년 4월 17일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "2",
+      "champion": "이만기",
+      "team": "경남대학교",
+      "date": "1983년 10월 3일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "3",
+      "champion": "장지영",
+      "team": "인하대학교",
+      "date": "1984년 3월 8일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "4",
+      "champion": "이만기",
+      "team": "경남대학교",
+      "date": "1984년 6월 5일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "5",
+      "champion": "이준희",
+      "team": "일양약품",
+      "date": "1984년 9월 13일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "6",
+      "champion": "이만기",
+      "team": "경남대학교",
+      "date": "1985년 3월 18일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "7",
+      "champion": "이만기",
+      "team": "경남대학교",
+      "date": "1985년 6월 26일",
+      "venue": "전주 실내체육관"
+    },
+    {
+      "edition": "8",
+      "champion": "이준희",
+      "team": "일양약품",
+      "date": "1985년 10월 4일",
+      "venue": "서울 잠실체육관"
+    },
+    {
+      "edition": "9",
+      "champion": "이만기",
+      "team": "현대중공업",
+      "date": "1986년 3월 2일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "10",
+      "champion": "이봉걸",
+      "team": "럭키금성",
+      "date": "1986년 6월 8일",
+      "venue": "대구 실내체육관"
+    },
+    {
+      "edition": "11",
+      "champion": "이만기",
+      "team": "현대중공업",
+      "date": "1986년 9월 11일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "12",
+      "champion": "이봉걸",
+      "team": "럭키금성",
+      "date": "1987년 3월 16일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "13",
+      "champion": "이준희",
+      "team": "일양약품",
+      "date": "1987년 10월 26일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "14",
+      "champion": "이만기",
+      "team": "현대중공업",
+      "date": "1988년 5월 25일",
+      "venue": "부산 KBS부산방송국"
+    },
+    {
+      "edition": "15",
+      "champion": "이만기",
+      "team": "현대중공업",
+      "date": "1988년 10월 10일",
+      "venue": "수원 실내체육관"
+    },
+    {
+      "edition": "16",
+      "champion": "이만기",
+      "team": "현대중공업",
+      "date": "1989년 3월 12일",
+      "venue": "대전 충무체육관"
+    },
+    {
+      "edition": "17",
+      "champion": "김칠규",
+      "team": "현대중공업",
+      "date": "1989년 9월 12일",
+      "venue": "서울 잠실체육관"
+    },
+    {
+      "edition": "18",
+      "champion": "강호동",
+      "team": "일양약품",
+      "date": "1990년 3월 12일",
+      "venue": "성남 실내체육관"
+    },
+    {
+      "edition": "19",
+      "champion": "강호동",
+      "team": "일양약품",
+      "date": "1990년 7월 17일",
+      "venue": "춘천 실내체육관"
+    },
+    {
+      "edition": "20",
+      "champion": "강호동",
+      "team": "일양약품",
+      "date": "1990년 10월 29일",
+      "venue": "인천 실내체육관"
+    },
+    {
+      "edition": "21",
+      "champion": "황대웅",
+      "team": "삼익가구",
+      "date": "1991년 3월 25일",
+      "venue": "부산 구덕체육관"
+    },
+    {
+      "edition": "22",
+      "champion": "황대웅",
+      "team": "삼익가구",
+      "date": "1991년 6월 24일",
+      "venue": "이리 원광대학교체육관"
+    },
+    {
+      "edition": "23",
+      "champion": "강호동",
+      "team": "일양약품",
+      "date": "1991년 9월 24일",
+      "venue": "대구 실내체육관"
+    },
+    {
+      "edition": "24",
+      "champion": "강호동",
+      "team": "일양약품",
+      "date": "1992년 3월 23일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "25",
+      "champion": "임용제",
+      "team": "부산조흥금고",
+      "date": "1992년 6월 29일",
+      "venue": "전주 실내체육관"
+    },
+    {
+      "edition": "26",
+      "champion": "김정필",
+      "team": "부산조흥금고",
+      "date": "1992년 9월 13일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "27",
+      "champion": "김정필",
+      "team": "부산조흥금고",
+      "date": "1993년 3월 21일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "28",
+      "champion": "백승일",
+      "team": "청구",
+      "date": "1993년 7월 5일",
+      "venue": "춘천 실내체육관"
+    },
+    {
+      "edition": "29",
+      "champion": "백승일",
+      "team": "청구",
+      "date": "1993년 10월 3일",
+      "venue": "대구 실내체육관"
+    },
+    {
+      "edition": "30",
+      "champion": "신봉민",
+      "team": "현대중공업",
+      "date": "1994년 3월 14일",
+      "venue": "청주 실내체육관"
+    },
+    {
+      "edition": "31",
+      "champion": "백승일",
+      "team": "청구",
+      "date": "1994년 6월 19일",
+      "venue": "전주 실내체육관"
+    },
+    {
+      "edition": "32",
+      "champion": "이태현",
+      "team": "청구",
+      "date": "1994년 9월 21일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "33",
+      "champion": "김경수",
+      "team": "LG투자증권",
+      "date": "1995년 11월 21일",
+      "venue": "서울 장충체육관"
+    },
+    {
+      "edition": "34",
+      "champion": "김경수",
+      "team": "LG투자증권",
+      "date": "1996년 11월 25일",
+      "venue": "제주 한라체육관"
+    },
+    {
+      "edition": "35",
+      "champion": "신봉민",
+      "team": "현대중공업",
+      "date": "1997년 9월 18일",
+      "venue": "부산 사직실내체육관"
+    },
+    {
+      "edition": "36",
+      "champion": "김영현",
+      "team": "LG투자증권",
+      "date": "1998년 11월 29일",
+      "venue": "영천 실내체육관"
+    },
+    {
+      "edition": "37",
+      "champion": "김영현",
+      "team": "LG투자증권",
+      "date": "1999년 11월 27일",
+      "venue": "인천 인천전문대학교체육관"
+    },
+    {
+      "edition": "38",
+      "champion": "이태현",
+      "team": "현대중공업",
+      "date": "2000년 12월 10일",
+      "venue": "안양 실내체육관"
+    },
+    {
+      "edition": "39",
+      "champion": "황규연",
+      "team": "신창건설",
+      "date": "2001년 12월 16일",
+      "venue": "울산 동천체육관"
+    },
+    {
+      "edition": "40",
+      "champion": "이태현",
+      "team": "현대중공업",
+      "date": "2002년 11월 24일",
+      "venue": "구미 박정희체육관"
+    },
+    {
+      "edition": "41",
+      "champion": "최홍만",
+      "team": "LG투자증권",
+      "date": "2003년 12월 14일",
+      "venue": "인천 도원체육관"
+    },
+    {
+      "edition": "42",
+      "champion": "김영현",
+      "team": "신창건설",
+      "date": "2004년 12월 5일",
+      "venue": "구미 박정희체육관"
+    }
+  ],
+  "meta": {
+    "title": "천하장사 씨름대회 역대 천하장사 - Free Download",
+    "description": "1983년 제1회부터 천하장사 씨름대회의 역대 천하장사, 소속 씨름단, 경기일, 경기장 목록입니다. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "천하장사 씨름대회 역대 천하장사 | ListBase",
+    "seo_description": "Download 천하장사 씨름대회 역대 천하장사 — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/천하장사_씨름대회"
+    ]
+  }
+}

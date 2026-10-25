@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:11.128Z",
-  "total_datasets": 475,
-  "total_records": 450405,
+  "generated": "2026-10-25T02:07:13.826Z",
+  "total_datasets": 476,
+  "total_records": 450447,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -10582,6 +10582,32 @@
         "xlsx": {
           "name": "ko-ingu-donghyang_KO.xlsx",
           "size": 10856
+        }
+      }
+    },
+    {
+      "id": "ko-cheonha-jangsa",
+      "name": "천하장사 씨름대회 역대 천하장사",
+      "category": "sports",
+      "record_count": 42,
+      "columns": [
+        "edition",
+        "champion",
+        "team",
+        "date",
+        "venue"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/천하장사_씨름대회",
+      "updated": "2026-10",
+      "size": 9090,
+      "files": {
+        "csv": {
+          "name": "ko-cheonha-jangsa_KO.csv",
+          "size": 3445
+        },
+        "xlsx": {
+          "name": "ko-cheonha-jangsa_KO.xlsx",
+          "size": 8594
         }
       }
     },
