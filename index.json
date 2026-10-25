@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:06:49.236Z",
-  "total_datasets": 467,
-  "total_records": 449961,
+  "generated": "2026-10-25T02:06:52.156Z",
+  "total_datasets": 468,
+  "total_records": 450006,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -7390,6 +7390,33 @@
         "xlsx": {
           "name": "ko-jeongdang_KO.xlsx",
           "size": 8249
+        }
+      }
+    },
+    {
+      "id": "ko-seoul-teukbyeolsijang",
+      "name": "역대 서울특별시장",
+      "category": "politics",
+      "record_count": 45,
+      "columns": [
+        "selection",
+        "term_no",
+        "name",
+        "term",
+        "party",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/서울특별시장",
+      "updated": "2026-10",
+      "size": 20736,
+      "files": {
+        "csv": {
+          "name": "ko-seoul-teukbyeolsijang_KO.csv",
+          "size": 14108
+        },
+        "xlsx": {
+          "name": "ko-seoul-teukbyeolsijang_KO.xlsx",
+          "size": 12908
         }
       }
     },
