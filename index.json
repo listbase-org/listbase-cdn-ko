@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:21.393Z",
-  "total_datasets": 479,
-  "total_records": 450603,
+  "generated": "2026-10-25T02:07:23.884Z",
+  "total_datasets": 480,
+  "total_records": 450632,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -10663,6 +10663,33 @@
         "xlsx": {
           "name": "ko-ingu-donghyang_KO.xlsx",
           "size": 10856
+        }
+      }
+    },
+    {
+      "id": "ko-seongpyeongdeung-gajok-janggwan",
+      "name": "대한민국 역대 여성·가족 부처 장관 (정무장관(제2)~성평등가족부)",
+      "category": "society",
+      "record_count": 29,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "start_date",
+        "end_date",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_성평등가족부_장관",
+      "updated": "2026-10",
+      "size": 9058,
+      "files": {
+        "csv": {
+          "name": "ko-seongpyeongdeung-gajok-janggwan_KO.csv",
+          "size": 3440
+        },
+        "xlsx": {
+          "name": "ko-seongpyeongdeung-gajok-janggwan_KO.xlsx",
+          "size": 8322
         }
       }
     },
