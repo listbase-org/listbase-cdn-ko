@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:07.874Z",
-  "total_datasets": 474,
-  "total_records": 450376,
+  "generated": "2026-10-25T02:07:11.128Z",
+  "total_datasets": 475,
+  "total_records": 450405,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -10670,6 +10670,35 @@
         "xlsx": {
           "name": "ko-hanguk-series-useung_KO.xlsx",
           "size": 9606
+        }
+      }
+    },
+    {
+      "id": "ko-kbl-chaempieon-gyeoljeongjeon",
+      "name": "KBL 챔피언결정전 역대 우승팀",
+      "category": "sports",
+      "record_count": 29,
+      "columns": [
+        "season",
+        "champion",
+        "champion_coach",
+        "result",
+        "game_log",
+        "runner_up",
+        "runner_up_coach",
+        "mvp"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBL_챔피언결정전",
+      "updated": "2026-10",
+      "size": 10416,
+      "files": {
+        "csv": {
+          "name": "ko-kbl-chaempieon-gyeoljeongjeon_KO.csv",
+          "size": 3614
+        },
+        "xlsx": {
+          "name": "ko-kbl-chaempieon-gyeoljeongjeon_KO.xlsx",
+          "size": 8814
         }
       }
     },

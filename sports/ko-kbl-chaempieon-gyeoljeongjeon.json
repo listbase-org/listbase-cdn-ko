@@ -1,0 +1,356 @@
+{
+  "id": "ko-kbl-chaempieon-gyeoljeongjeon",
+  "name": "KBL 챔피언결정전 역대 우승팀",
+  "title": "KBL 챔피언결정전 역대 우승팀",
+  "description": "1997-98 시즌부터 한국프로농구(KBL) 챔피언결정전의 시즌별 우승팀, 준우승팀, 감독, 결과, MVP 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/KBL_챔피언결정전",
+  "source_url": "https://ko.wikipedia.org/wiki/KBL_챔피언결정전",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "champion_coach",
+      "label": "Champion Coach",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "game_log",
+      "label": "Game Log",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "runner_up_coach",
+      "label": "Runner Up Coach",
+      "type": "string"
+    },
+    {
+      "key": "mvp",
+      "label": "Mvp",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1997-98",
+      "champion": "대전 현대",
+      "champion_coach": "신선우",
+      "result": "4승 3패",
+      "game_log": "XXOOXOO",
+      "runner_up": "부산 기아",
+      "runner_up_coach": "최인선",
+      "mvp": "허재 (기아, 가드)"
+    },
+    {
+      "season": "1998-99",
+      "champion": "대전 현대",
+      "champion_coach": "신선우",
+      "result": "4승 1패",
+      "game_log": "OXOOO",
+      "runner_up": "부산 기아",
+      "runner_up_coach": "박인규",
+      "mvp": "조성원 (현대, 포워드)"
+    },
+    {
+      "season": "1999-00",
+      "champion": "청주 SK",
+      "champion_coach": "최인선",
+      "result": "4승 2패",
+      "game_log": "OXXOOO",
+      "runner_up": "대전 현대",
+      "runner_up_coach": "신선우",
+      "mvp": "서장훈 (SK, 센터)"
+    },
+    {
+      "season": "2000-01",
+      "champion": "수원 삼성",
+      "champion_coach": "김동광",
+      "result": "4승 1패",
+      "game_log": "OXOOO",
+      "runner_up": "창원 LG",
+      "runner_up_coach": "김태환",
+      "mvp": "주희정 (삼성, 가드)"
+    },
+    {
+      "season": "2001-02",
+      "champion": "대구 동양",
+      "champion_coach": "김진",
+      "result": "4승 3패",
+      "game_log": "OXOXXOO",
+      "runner_up": "서울 SK",
+      "runner_up_coach": "최인선",
+      "mvp": "힉스 (동양, 포워드)"
+    },
+    {
+      "season": "2002-03",
+      "champion": "원주 TG",
+      "champion_coach": "전창진",
+      "result": "4승 2패",
+      "game_log": "OOXXOO",
+      "runner_up": "대구 동양",
+      "runner_up_coach": "김진",
+      "mvp": "잭슨(TG, 가드)"
+    },
+    {
+      "season": "2003-04",
+      "champion": "전주 KCC",
+      "champion_coach": "신선우",
+      "result": "4승 3패",
+      "game_log": "OOXXOXO",
+      "runner_up": "원주 TG삼보",
+      "runner_up_coach": "전창진",
+      "mvp": "이상민 (KCC, 가드)"
+    },
+    {
+      "season": "2004-05",
+      "champion": "원주 TG삼보",
+      "champion_coach": "전창진",
+      "result": "4승 2패",
+      "game_log": "OOXXOO",
+      "runner_up": "전주 KCC",
+      "runner_up_coach": "신선우",
+      "mvp": "김주성 (TG삼보, 포워드)"
+    },
+    {
+      "season": "2005-06",
+      "champion": "서울 삼성",
+      "champion_coach": "안준호",
+      "result": "4승",
+      "game_log": "OOOO",
+      "runner_up": "울산 모비스",
+      "runner_up_coach": "유재학",
+      "mvp": "강혁 (삼성, 가드)"
+    },
+    {
+      "season": "2006-07",
+      "champion": "울산 모비스",
+      "champion_coach": "유재학",
+      "result": "4승 3패",
+      "game_log": "OOXOXXO",
+      "runner_up": "부산 KTF",
+      "runner_up_coach": "추일승",
+      "mvp": "양동근 (모비스, 가드)"
+    },
+    {
+      "season": "2007-08",
+      "champion": "원주 동부",
+      "champion_coach": "전창진",
+      "result": "4승 1패",
+      "game_log": "OOXOO",
+      "runner_up": "서울 삼성",
+      "runner_up_coach": "안준호",
+      "mvp": "김주성 (동부, 포워드)"
+    },
+    {
+      "season": "2008-09",
+      "champion": "전주 KCC",
+      "champion_coach": "허재",
+      "result": "4승 3패",
+      "game_log": "XOOOXXO",
+      "runner_up": "서울 삼성",
+      "runner_up_coach": "안준호",
+      "mvp": "추승균 (KCC, 포워드)"
+    },
+    {
+      "season": "2009-10",
+      "champion": "울산 모비스",
+      "champion_coach": "유재학",
+      "result": "4승 2패",
+      "game_log": "OOXOXO",
+      "runner_up": "전주 KCC",
+      "runner_up_coach": "허재",
+      "mvp": "함지훈 (모비스, 포워드)"
+    },
+    {
+      "season": "2010-11",
+      "champion": "전주 KCC",
+      "champion_coach": "허재",
+      "result": "4승 2패",
+      "game_log": "XOXOOO",
+      "runner_up": "원주 동부",
+      "runner_up_coach": "강동희",
+      "mvp": "하승진 (KCC, 센터)"
+    },
+    {
+      "season": "2011-12",
+      "champion": "안양 KGC",
+      "champion_coach": "이상범",
+      "result": "4승 2패",
+      "game_log": "XOXOOO",
+      "runner_up": "원주 동부",
+      "runner_up_coach": "강동희",
+      "mvp": "오세근 (KGC, 센터)"
+    },
+    {
+      "season": "2012-13",
+      "champion": "울산 모비스",
+      "champion_coach": "유재학",
+      "result": "4승",
+      "game_log": "OOOO",
+      "runner_up": "서울 SK",
+      "runner_up_coach": "문경은",
+      "mvp": "양동근 (모비스, 가드)"
+    },
+    {
+      "season": "2013-14",
+      "champion": "울산 모비스",
+      "champion_coach": "유재학",
+      "result": "4승 2패",
+      "game_log": "OXXOOO",
+      "runner_up": "창원 LG",
+      "runner_up_coach": "김진",
+      "mvp": "문태영 (모비스, 포워드)"
+    },
+    {
+      "season": "2014-15",
+      "champion": "울산 모비스",
+      "champion_coach": "유재학",
+      "result": "4승",
+      "game_log": "OOOO",
+      "runner_up": "원주 동부",
+      "runner_up_coach": "김영만",
+      "mvp": "양동근 (모비스, 가드)"
+    },
+    {
+      "season": "2015-16",
+      "champion": "고양 오리온",
+      "champion_coach": "추일승",
+      "result": "4승 2패",
+      "game_log": "XOOOXO",
+      "runner_up": "전주 KCC",
+      "runner_up_coach": "추승균",
+      "mvp": "이승현 (오리온, 포워드)"
+    },
+    {
+      "season": "2016-17",
+      "champion": "안양 KGC",
+      "champion_coach": "김승기",
+      "result": "4승 2패",
+      "game_log": "OXOXOO",
+      "runner_up": "서울 삼성",
+      "runner_up_coach": "이상민",
+      "mvp": "오세근 (KGC, 센터)"
+    },
+    {
+      "season": "2017-18",
+      "champion": "서울 SK",
+      "champion_coach": "문경은",
+      "result": "4승 2패",
+      "game_log": "XXOOOO",
+      "runner_up": "원주 DB",
+      "runner_up_coach": "이상범",
+      "mvp": "화이트 (SK, 가드)"
+    },
+    {
+      "season": "2018-19",
+      "champion": "울산 현대모비스",
+      "champion_coach": "유재학",
+      "result": "4승 1패",
+      "game_log": "OXOOO",
+      "runner_up": "인천 전자랜드",
+      "runner_up_coach": "유도훈",
+      "mvp": "이대성 (현대모비스, 가드)"
+    },
+    {
+      "season": "2019-20",
+      "champion": "코로나바이러스감염증-19 여파로 취소",
+      "champion_coach": "코로나바이러스감염증-19 여파로 취소",
+      "result": "코로나바이러스감염증-19 여파로 취소",
+      "game_log": "코로나바이러스감염증-19 여파로 취소",
+      "runner_up": "코로나바이러스감염증-19 여파로 취소",
+      "runner_up_coach": "코로나바이러스감염증-19 여파로 취소",
+      "mvp": "코로나바이러스감염증-19 여파로 취소"
+    },
+    {
+      "season": "2020-21",
+      "champion": "안양 KGC",
+      "champion_coach": "김승기",
+      "result": "4승",
+      "game_log": "OOOO",
+      "runner_up": "전주 KCC",
+      "runner_up_coach": "전창진",
+      "mvp": "설린저 (KGC, 포워드)"
+    },
+    {
+      "season": "2021-22",
+      "champion": "서울 SK",
+      "champion_coach": "전희철",
+      "result": "4승 1패",
+      "game_log": "OOXOO",
+      "runner_up": "안양 KGC",
+      "runner_up_coach": "김승기",
+      "mvp": "김선형 (SK, 가드)"
+    },
+    {
+      "season": "2022-23",
+      "champion": "안양 KGC",
+      "champion_coach": "김상식",
+      "result": "4승 3패",
+      "game_log": "XOOXXOO",
+      "runner_up": "서울 SK",
+      "runner_up_coach": "전희철",
+      "mvp": "오세근 (KGC, 센터)"
+    },
+    {
+      "season": "2023-24",
+      "champion": "부산 KCC",
+      "champion_coach": "전창진",
+      "result": "4승 1패",
+      "game_log": "OXOOO",
+      "runner_up": "수원 KT",
+      "runner_up_coach": "송영진",
+      "mvp": "허웅 (KCC, 가드)"
+    },
+    {
+      "season": "2024-25",
+      "champion": "창원 LG",
+      "champion_coach": "조상현",
+      "result": "4승 3패",
+      "game_log": "OOOXXXO",
+      "runner_up": "서울 SK",
+      "runner_up_coach": "전희철",
+      "mvp": "허일영 (LG, 포워드)"
+    },
+    {
+      "season": "2025-26",
+      "champion": "부산 KCC",
+      "champion_coach": "이상민",
+      "result": "4승 1패",
+      "game_log": "OOOXO",
+      "runner_up": "고양 소노",
+      "runner_up_coach": "손창환",
+      "mvp": "허훈 (KCC, 가드)"
+    }
+  ],
+  "meta": {
+    "title": "KBL 챔피언결정전 역대 우승팀 - Free Download",
+    "description": "1997-98 시즌부터 한국프로농구(KBL) 챔피언결정전의 시즌별 우승팀, 준우승팀, 감독, 결과, MVP 목록입니다. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBL 챔피언결정전 역대 우승팀 | ListBase",
+    "seo_description": "Download KBL 챔피언결정전 역대 우승팀 — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBL_챔피언결정전"
+    ]
+  }
+}
