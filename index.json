@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:13.826Z",
-  "total_datasets": 476,
-  "total_records": 450447,
+  "generated": "2026-10-25T02:07:16.345Z",
+  "total_datasets": 477,
+  "total_records": 450467,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -7397,6 +7397,33 @@
         "xlsx": {
           "name": "ko-golden-disc-daesang_KO.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "ko-mama-daesang",
+      "name": "MAMA 어워즈 역대 대상 수상자",
+      "category": "music",
+      "record_count": 20,
+      "columns": [
+        "edition",
+        "year",
+        "song_of_the_year",
+        "artist_of_the_year",
+        "album_of_the_year",
+        "worldwide_icon"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드",
+      "updated": "2026-10",
+      "size": 6858,
+      "files": {
+        "csv": {
+          "name": "ko-mama-daesang_KO.csv",
+          "size": 1922
+        },
+        "xlsx": {
+          "name": "ko-mama-daesang_KO.xlsx",
+          "size": 8211
         }
       }
     },

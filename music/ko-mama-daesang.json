@@ -1,0 +1,216 @@
+{
+  "id": "ko-mama-daesang",
+  "name": "MAMA 어워즈 역대 대상 수상자",
+  "title": "MAMA 어워즈 역대 대상 수상자",
+  "description": "엠넷 아시안 뮤직 어워드(MAMA)의 연도별 대상(올해의 노래상, 올해의 가수상, 올해의 앨범상, 월드와이드 아이콘) 수상자 목록입니다.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드",
+  "source_url": "https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "song_of_the_year",
+      "label": "Song Of The Year",
+      "type": "string"
+    },
+    {
+      "key": "artist_of_the_year",
+      "label": "Artist Of The Year",
+      "type": "string"
+    },
+    {
+      "key": "album_of_the_year",
+      "label": "Album Of The Year",
+      "type": "string"
+    },
+    {
+      "key": "worldwide_icon",
+      "label": "Worldwide Icon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "8",
+      "year": "2006년",
+      "song_of_the_year": "SG 워너비 - 내 사람",
+      "artist_of_the_year": "동방신기",
+      "album_of_the_year": "SG 워너비 - The 3rd Masterpiece",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "9",
+      "year": "2007년",
+      "song_of_the_year": "빅뱅 - 거짓말",
+      "artist_of_the_year": "슈퍼주니어",
+      "album_of_the_year": "에픽하이 - Remapping the Human Soul",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "10",
+      "year": "2008년",
+      "song_of_the_year": "원더걸스 - Nobody",
+      "artist_of_the_year": "빅뱅",
+      "album_of_the_year": "동방신기 - MIROTIC",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "11",
+      "year": "2009년",
+      "song_of_the_year": "2NE1 - I Don't Care",
+      "artist_of_the_year": "2PM",
+      "album_of_the_year": "지드래곤 - Heartbreaker",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "12",
+      "year": "2010년",
+      "song_of_the_year": "미쓰에이 - Bad Girl Good Girl",
+      "artist_of_the_year": "2NE1",
+      "album_of_the_year": "2NE1 - To Anyone",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "13",
+      "year": "2011년",
+      "song_of_the_year": "2NE1 - 내가 제일 잘 나가",
+      "artist_of_the_year": "소녀시대",
+      "album_of_the_year": "슈퍼주니어 - Mr. Simple",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "14",
+      "year": "2012년",
+      "song_of_the_year": "싸이 - 강남스타일",
+      "artist_of_the_year": "빅뱅",
+      "album_of_the_year": "슈퍼주니어 - Sexy, Free & Single",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "15",
+      "year": "2013년",
+      "song_of_the_year": "조용필 - Bounce",
+      "artist_of_the_year": "지드래곤",
+      "album_of_the_year": "EXO - XOXO",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "16",
+      "year": "2014년",
+      "song_of_the_year": "태양 - 눈, 코, 입",
+      "artist_of_the_year": "EXO",
+      "album_of_the_year": "EXO - 중독 (Overdose)",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "17",
+      "year": "2015년",
+      "song_of_the_year": "빅뱅 - 뱅뱅뱅",
+      "artist_of_the_year": "빅뱅",
+      "album_of_the_year": "EXO - EXODUS",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "18",
+      "year": "2016년",
+      "song_of_the_year": "트와이스 - CHEER UP",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "EXO - EX'ACT",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "19",
+      "year": "2017년",
+      "song_of_the_year": "트와이스 - SIGNAL",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "EXO - The War",
+      "worldwide_icon": ""
+    },
+    {
+      "edition": "20",
+      "year": "2018년",
+      "song_of_the_year": "트와이스 - What Is Love?",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "방탄소년단 - LOVE YOURSELF 轉 'Tear'",
+      "worldwide_icon": "방탄소년단"
+    },
+    {
+      "edition": "21",
+      "year": "2019년",
+      "song_of_the_year": "방탄소년단 - 작은 것들을 위한 시",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "방탄소년단 - MAP OF THE SOUL : PERSONA",
+      "worldwide_icon": "방탄소년단"
+    },
+    {
+      "edition": "22",
+      "year": "2020년",
+      "song_of_the_year": "방탄소년단 - Dynamite",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "방탄소년단 - MAP OF THE SOUL : 7",
+      "worldwide_icon": "방탄소년단"
+    },
+    {
+      "edition": "23",
+      "year": "2021년",
+      "song_of_the_year": "방탄소년단 - Butter",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "방탄소년단 - BE",
+      "worldwide_icon": "방탄소년단"
+    },
+    {
+      "edition": "24",
+      "year": "2022년",
+      "song_of_the_year": "IVE - LOVE DIVE",
+      "artist_of_the_year": "방탄소년단",
+      "album_of_the_year": "방탄소년단 - Proof",
+      "worldwide_icon": "방탄소년단"
+    },
+    {
+      "edition": "25",
+      "year": "2023년",
+      "song_of_the_year": "NewJeans - Ditto",
+      "artist_of_the_year": "NewJeans",
+      "album_of_the_year": "세븐틴 - FML",
+      "worldwide_icon": "방탄소년단"
+    },
+    {
+      "edition": "26",
+      "year": "2024년",
+      "song_of_the_year": "aespa - Supernova",
+      "artist_of_the_year": "세븐틴",
+      "album_of_the_year": "세븐틴 - SEVENTEENTH HEAVEN",
+      "worldwide_icon": "지민"
+    },
+    {
+      "edition": "27",
+      "year": "2025년",
+      "song_of_the_year": "로제 - \"APT.\"",
+      "artist_of_the_year": "지드래곤",
+      "album_of_the_year": "Stray Kids -《KARMA》",
+      "worldwide_icon": "엔하이픈"
+    }
+  ],
+  "meta": {
+    "title": "MAMA 어워즈 역대 대상 수상자 - Free Download",
+    "description": "엠넷 아시안 뮤직 어워드(MAMA)의 연도별 대상(올해의 노래상, 올해의 가수상, 올해의 앨범상, 월드와이드 아이콘) 수상자 목록입니다. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "MAMA 어워즈 역대 대상 수상자 | ListBase",
+    "seo_description": "Download MAMA 어워즈 역대 대상 수상자 — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드"
+    ]
+  }
+}
