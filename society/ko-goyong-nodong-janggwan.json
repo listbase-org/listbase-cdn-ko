@@ -1,0 +1,416 @@
+{
+  "id": "ko-goyong-nodong-janggwan",
+  "name": "대한민국 역대 노동 부처 장관 (노동청장~고용노동부 장관)",
+  "title": "대한민국 역대 노동 부처 장관 (노동청장~고용노동부 장관)",
+  "description": "노동청, 노동부, 고용노동부 등 대한민국 노동 부처의 역대 기관장·장관 목록입니다.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_고용노동부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_고용노동부_장관",
+  "updated": "2026-10",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "Start Date",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "End Date",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제1대",
+      "name": "정희섭",
+      "start_date": "1963년 9월 2일",
+      "end_date": "1964년 1월 17일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제2대",
+      "name": "이찬우",
+      "start_date": "1964년 1월 18일",
+      "end_date": "1965년 12월 13일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제3대",
+      "name": "이승택",
+      "start_date": "1965년 12월 13일",
+      "end_date": "1971년 6월 11일",
+      "government": "제3공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제4대",
+      "name": "조의창",
+      "start_date": "1971년 6월 11일",
+      "end_date": "1973년 12월 19일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제5대",
+      "name": "최두열",
+      "start_date": "1973년 12월 19일",
+      "end_date": "1975년 6월 30일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제6대",
+      "name": "최석원",
+      "start_date": "1975년 6월 30일",
+      "end_date": "1977년 7월 7일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제7대",
+      "name": "박상렬",
+      "start_date": "1977년 7월 7일",
+      "end_date": "1980년 1월 16일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제8대",
+      "name": "정종택",
+      "start_date": "1980년 1월 17일",
+      "end_date": "1980년 5월 22일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제9대",
+      "name": "박창규",
+      "start_date": "1980년 5월 27일",
+      "end_date": "1980년 7월 9일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동청장(1963~1981)",
+      "term_no": "제10대",
+      "name": "권중동",
+      "start_date": "1980년 7월 19일",
+      "end_date": "1981년 4월 7일",
+      "government": "제4공화국"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제1대",
+      "name": "권중동",
+      "start_date": "1981년 4월 8일",
+      "end_date": "1982년 5월 21일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제2대",
+      "name": "정한주",
+      "start_date": "1982년 5월 21일",
+      "end_date": "1985년 2월 19일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제3대",
+      "name": "조철권",
+      "start_date": "1985년 2월 19일",
+      "end_date": "1986년 8월 27일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제4대",
+      "name": "이헌기",
+      "start_date": "1986년 8월 27일",
+      "end_date": "1988년 2월 24일",
+      "government": "제5공화국"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제5대",
+      "name": "최명헌",
+      "start_date": "1988년 2월 25일",
+      "end_date": "1988년 12월 5일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제6대",
+      "name": "장영철",
+      "start_date": "1988년 12월 5일",
+      "end_date": "1989년 7월 19일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제7대",
+      "name": "최영철",
+      "start_date": "1989년 7월 19일",
+      "end_date": "1990년 12월 27일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제8대",
+      "name": "최병렬",
+      "start_date": "1990년 12월 27일",
+      "end_date": "1992년 6월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제9대",
+      "name": "이연택",
+      "start_date": "1992년 6월 25일",
+      "end_date": "1993년 2월 25일",
+      "government": "노태우 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제10대",
+      "name": "이인제",
+      "start_date": "1993년 2월 26일",
+      "end_date": "1993년 12월 21일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제11대",
+      "name": "남재희",
+      "start_date": "1993년 12월 22일",
+      "end_date": "1994년 12월 23일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제12대",
+      "name": "이형구",
+      "start_date": "1994년 12월 24일",
+      "end_date": "1995년 5월 24일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제13대",
+      "name": "진념",
+      "start_date": "1995년 5월 24일",
+      "end_date": "1997년 8월 5일",
+      "government": "김영삼 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제14대",
+      "name": "이기호",
+      "start_date": "1997년 8월 6일",
+      "end_date": "1999년 5월 25일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제15대",
+      "name": "이상룡",
+      "start_date": "1999년 5월 25일",
+      "end_date": "2000년 2월 12일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제16대",
+      "name": "최선정",
+      "start_date": "2000년 2월 12일",
+      "end_date": "2000년 8월 7일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제17대",
+      "name": "김호진",
+      "start_date": "2000년 8월 7일",
+      "end_date": "2001년 9월 7일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제18대",
+      "name": "유용태",
+      "start_date": "2001년 9월 7일",
+      "end_date": "2002년 1월 29일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제19대",
+      "name": "방용석",
+      "start_date": "2002년 1월 29일",
+      "end_date": "2003년 2월 26일",
+      "government": "김대중 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제20대",
+      "name": "권기홍",
+      "start_date": "2003년 2월 27일",
+      "end_date": "2004년 2월 10일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제21대",
+      "name": "김대환",
+      "start_date": "2004년 2월 10일",
+      "end_date": "2006년 1월 2일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제22대",
+      "name": "이상수",
+      "start_date": "2006년 1월 2일",
+      "end_date": "2008년 2월 29일",
+      "government": "노무현 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제23대",
+      "name": "이영희",
+      "start_date": "2008년 3월 1일",
+      "end_date": "2009년 9월 30일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "노동부 장관(1981~2010)",
+      "term_no": "제24대",
+      "name": "임태희",
+      "start_date": "2009년 10월 1일",
+      "end_date": "2010년 7월 5일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제1대",
+      "name": "임태희",
+      "start_date": "2010년 7월 5일",
+      "end_date": "2010년 8월 30일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제2대",
+      "name": "박재완",
+      "start_date": "2010년 8월 30일",
+      "end_date": "2011년 6월 1일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제3대",
+      "name": "이재필",
+      "start_date": "2011년 6월 2일",
+      "end_date": "2013년 3월 11일",
+      "government": "이명박 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제4대",
+      "name": "방하남",
+      "start_date": "2013년 3월 11일",
+      "end_date": "2014년 7월 15일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제5대",
+      "name": "이기권",
+      "start_date": "2014년 7월 16일",
+      "end_date": "2017년 7월 25일",
+      "government": "박근혜 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제6대",
+      "name": "김영주",
+      "start_date": "2017년 8월 14일",
+      "end_date": "2018년 9월 21일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제7대",
+      "name": "이재갑",
+      "start_date": "2018년 9월 21일",
+      "end_date": "2021년 5월 6일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제8대",
+      "name": "안경덕",
+      "start_date": "2021년 5월 7일",
+      "end_date": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제9대",
+      "name": "이정식",
+      "start_date": "2022년 5월 10일",
+      "end_date": "2024년 8월 29일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제10대",
+      "name": "김문수",
+      "start_date": "2024년 8월 30일",
+      "end_date": "2025년 4월 8일",
+      "government": "윤석열 정부"
+    },
+    {
+      "office": "고용노동부 장관(2010~)",
+      "term_no": "제11대",
+      "name": "김영훈",
+      "start_date": "2025년 7월 22일",
+      "end_date": "현직",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 노동 부처 장관 (노동청장~고용노동부 장관) - Free Download",
+    "description": "노동청, 노동부, 고용노동부 등 대한민국 노동 부처의 역대 기관장·장관 목록입니다. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 노동 부처 장관 (노동청장~고용노동부 장관) | ListBase",
+    "seo_description": "Download 대한민국 역대 노동 부처 장관 (노동청장~고용노동부 장관) — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_고용노동부_장관"
+    ]
+  }
+}

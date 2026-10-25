@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:18.771Z",
-  "total_datasets": 478,
-  "total_records": 450558,
+  "generated": "2026-10-25T02:07:21.393Z",
+  "total_datasets": 479,
+  "total_records": 450603,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -10609,6 +10609,33 @@
         "xlsx": {
           "name": "ko-dosi-ingu-sunwi_KO.xlsx",
           "size": 11750
+        }
+      }
+    },
+    {
+      "id": "ko-goyong-nodong-janggwan",
+      "name": "대한민국 역대 노동 부처 장관 (노동청장~고용노동부 장관)",
+      "category": "society",
+      "record_count": 45,
+      "columns": [
+        "office",
+        "term_no",
+        "name",
+        "start_date",
+        "end_date",
+        "government"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_고용노동부_장관",
+      "updated": "2026-10",
+      "size": 12532,
+      "files": {
+        "csv": {
+          "name": "ko-goyong-nodong-janggwan_KO.csv",
+          "size": 5080
+        },
+        "xlsx": {
+          "name": "ko-goyong-nodong-janggwan_KO.xlsx",
+          "size": 8866
         }
       }
     },
