@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:08.243Z",
-  "total_datasets": 500,
-  "total_records": 452160,
+  "generated": "2026-10-26T02:21:10.731Z",
+  "total_datasets": 501,
+  "total_records": 452170,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3406,6 +3406,29 @@
         "xlsx": {
           "name": "ko-jeolla-hyangto-eumsik_KO.xlsx",
           "size": 8131
+        }
+      }
+    },
+    {
+      "id": "ko-jiyeok-soju",
+      "name": "한국의 지역별 대표 소주",
+      "category": "food",
+      "record_count": 10,
+      "columns": [
+        "region",
+        "description"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_소주",
+      "updated": "2026-10",
+      "size": 3645,
+      "files": {
+        "csv": {
+          "name": "ko-jiyeok-soju_KO.csv",
+          "size": 1786
+        },
+        "xlsx": {
+          "name": "ko-jiyeok-soju_KO.xlsx",
+          "size": 7692
         }
       }
     },
