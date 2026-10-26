@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:26.724Z",
-  "total_datasets": 484,
-  "total_records": 450989,
+  "generated": "2026-10-26T02:20:29.353Z",
+  "total_datasets": 485,
+  "total_records": 451039,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -10554,6 +10554,31 @@
         "xlsx": {
           "name": "ko-upyeonbeonho_KO.xlsx",
           "size": 1879975
+        }
+      }
+    },
+    {
+      "id": "ko-choego-gwahak-gisulin-sang",
+      "name": "대한민국 최고과학기술인상 역대 수상자",
+      "category": "science",
+      "record_count": 50,
+      "columns": [
+        "year",
+        "name",
+        "affiliation",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_최고과학기술인상",
+      "updated": "2026-10",
+      "size": 8950,
+      "files": {
+        "csv": {
+          "name": "ko-choego-gwahak-gisulin-sang_KO.csv",
+          "size": 3325
+        },
+        "xlsx": {
+          "name": "ko-choego-gwahak-gisulin-sang_KO.xlsx",
+          "size": 8687
         }
       }
     },

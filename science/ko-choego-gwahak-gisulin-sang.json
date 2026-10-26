@@ -1,0 +1,346 @@
+{
+  "id": "ko-choego-gwahak-gisulin-sang",
+  "name": "대한민국 최고과학기술인상 역대 수상자",
+  "title": "대한민국 최고과학기술인상 역대 수상자",
+  "description": "2003년 제정된 대한민국 최고과학기술인상의 연도별 수상자와 수상 당시 소속·직위 목록입니다.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_최고과학기술인상",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_최고과학기술인상",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "affiliation",
+      "label": "Affiliation",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "2003년",
+      "name": "김진의",
+      "affiliation": "서울대학교 물리학과 교수",
+      "note": ""
+    },
+    {
+      "year": "2003년",
+      "name": "김규원",
+      "affiliation": "서울대학교 약학대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2004년",
+      "name": "윤덕용",
+      "affiliation": "한국과학기술원 신소재공학과 석좌교수",
+      "note": ""
+    },
+    {
+      "year": "2004년",
+      "name": "황우석",
+      "affiliation": "서울대학교 수의학과 교수 1",
+      "note": "수상 취소"
+    },
+    {
+      "year": "2005년",
+      "name": "신희섭",
+      "affiliation": "한국과학기술연구원 책임연구원",
+      "note": ""
+    },
+    {
+      "year": "2005년",
+      "name": "이재영",
+      "affiliation": "한국과학기술원 신소재공학과 교수",
+      "note": ""
+    },
+    {
+      "year": "2005년",
+      "name": "유룡",
+      "affiliation": "한국과학기술원 화학과 교수",
+      "note": ""
+    },
+    {
+      "year": "2006년",
+      "name": "김성훈",
+      "affiliation": "서울대학교 약학대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2006년",
+      "name": "황준묵",
+      "affiliation": "고등과학원 수학과 교수",
+      "note": ""
+    },
+    {
+      "year": "2006년",
+      "name": "황창규",
+      "affiliation": "삼성전자 반도체 총괄 사장",
+      "note": ""
+    },
+    {
+      "year": "2007년",
+      "name": "권욱현",
+      "affiliation": "서울대학교 공과대학 전기ㆍ컴퓨터공학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2007년",
+      "name": "서진석",
+      "affiliation": "연세대학교 의과대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2007년",
+      "name": "임지순",
+      "affiliation": "서울대학교 물리천문학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2007년",
+      "name": "최진호",
+      "affiliation": "이화여자대학교 나노과학부 석좌교수",
+      "note": ""
+    },
+    {
+      "year": "2008년",
+      "name": "김기문",
+      "affiliation": "포항공과대학교 교수",
+      "note": ""
+    },
+    {
+      "year": "2008년",
+      "name": "민계식",
+      "affiliation": "현대중공업 대표이사 부회장",
+      "note": ""
+    },
+    {
+      "year": "2008년",
+      "name": "송호영",
+      "affiliation": "울산대학교 의과대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2008년",
+      "name": "최양도",
+      "affiliation": "서울대학교 농생명공학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2009년",
+      "name": "강석진",
+      "affiliation": "서울대학교 수리과학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2009년",
+      "name": "서유헌",
+      "affiliation": "서울대학교 의과대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2009년",
+      "name": "이현순",
+      "affiliation": "현대자동차 사장",
+      "note": ""
+    },
+    {
+      "year": "2010년",
+      "name": "김광수",
+      "affiliation": "포항공과대학교 교수",
+      "note": ""
+    },
+    {
+      "year": "2010년",
+      "name": "오우택",
+      "affiliation": "서울대학교 약학대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2010년",
+      "name": "한민구",
+      "affiliation": "서울대학교 공과대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2011년",
+      "name": "노태원",
+      "affiliation": "서울대학교 물리천문학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2011년",
+      "name": "박승정",
+      "affiliation": "울산대학교 의과대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2011년",
+      "name": "백기엽",
+      "affiliation": "충북대학교 원예학과 교수",
+      "note": ""
+    },
+    {
+      "year": "2012년",
+      "name": "신성철",
+      "affiliation": "대구경북과학기술원 총장",
+      "note": ""
+    },
+    {
+      "year": "2012년",
+      "name": "윤보현",
+      "affiliation": "서울대학교 의과대학 교수",
+      "note": ""
+    },
+    {
+      "year": "2013년",
+      "name": "김빛내리",
+      "affiliation": "서울대학교 자연대학 생명과학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2013년",
+      "name": "박종일",
+      "affiliation": "서울대학교 수리과학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2014년",
+      "name": "권오현",
+      "affiliation": "삼성전자 부회장",
+      "note": ""
+    },
+    {
+      "year": "2014년",
+      "name": "이기명",
+      "affiliation": "고등과학원 물리학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2015년",
+      "name": "이용희",
+      "affiliation": "한국과학기술원 자연과학대학 물리학과 특훈교수",
+      "note": ""
+    },
+    {
+      "year": "2015년",
+      "name": "정용환",
+      "affiliation": "한국원자력연구원 원자력재료기술개발단 단장",
+      "note": ""
+    },
+    {
+      "year": "2016년",
+      "name": "권오준",
+      "affiliation": "포스코 회장",
+      "note": ""
+    },
+    {
+      "year": "2016년",
+      "name": "현택환",
+      "affiliation": "서울대학교 공과대학 화학생물공학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2017년",
+      "name": "이상엽",
+      "affiliation": "한국과학기술원 특훈교수",
+      "note": ""
+    },
+    {
+      "year": "2017년",
+      "name": "황규영",
+      "affiliation": "한국과학기술원 특훈교수",
+      "note": ""
+    },
+    {
+      "year": "2018년",
+      "name": "강봉균",
+      "affiliation": "서울대학교 생명과학부 교수",
+      "note": ""
+    },
+    {
+      "year": "2018년",
+      "name": "박진수",
+      "affiliation": "LG화학 부회장",
+      "note": ""
+    },
+    {
+      "year": "2019년",
+      "name": "김기남",
+      "affiliation": "삼성전자 대표이사 부회장",
+      "note": ""
+    },
+    {
+      "year": "2019년",
+      "name": "장석복",
+      "affiliation": "한국과학기술원 특훈교수",
+      "note": ""
+    },
+    {
+      "year": "2020년",
+      "name": "서판길",
+      "affiliation": "한국뇌연구원 원장",
+      "note": ""
+    },
+    {
+      "year": "2021년",
+      "name": "권오경",
+      "affiliation": "한양대학교 석좌교수",
+      "note": ""
+    },
+    {
+      "year": "2022년",
+      "name": "선양국",
+      "affiliation": "한양대학교 교수",
+      "note": ""
+    },
+    {
+      "year": "2023년",
+      "name": "고규영",
+      "affiliation": "한국과학기술원 특훈교수· 기초과학연구원 단장",
+      "note": ""
+    },
+    {
+      "year": "2024년",
+      "name": "박남규",
+      "affiliation": "성균관대학교 석좌교수",
+      "note": ""
+    },
+    {
+      "year": "2025년",
+      "name": "황철성",
+      "affiliation": "서울대학교 석좌교수",
+      "note": ""
+    },
+    {
+      "year": "2026년",
+      "name": "천진우",
+      "affiliation": "연세대학교 언더우드 특훈교수",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 최고과학기술인상 역대 수상자 - Free Download",
+    "description": "2003년 제정된 대한민국 최고과학기술인상의 연도별 수상자와 수상 당시 소속·직위 목록입니다. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 최고과학기술인상 역대 수상자 | ListBase",
+    "seo_description": "Download 대한민국 최고과학기술인상 역대 수상자 — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_최고과학기술인상"
+    ]
+  }
+}
