@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:32.003Z",
-  "total_datasets": 486,
-  "total_records": 451236,
+  "generated": "2026-10-26T02:20:34.564Z",
+  "total_datasets": 487,
+  "total_records": 451578,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -10855,6 +10855,30 @@
         "xlsx": {
           "name": "ko-seongpyeongdeung-gajok-janggwan_KO.xlsx",
           "size": 8322
+        }
+      }
+    },
+    {
+      "id": "ko-sido-hapgye-chulsanyul",
+      "name": "대한민국 시·도별 합계출산율 (2001~2019)",
+      "category": "society",
+      "record_count": 342,
+      "columns": [
+        "region",
+        "year",
+        "total_fertility_rate"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_지역별_합계출산율_목록",
+      "updated": "2026-10",
+      "size": 37316,
+      "files": {
+        "csv": {
+          "name": "ko-sido-hapgye-chulsanyul_KO.csv",
+          "size": 10770
+        },
+        "xlsx": {
+          "name": "ko-sido-hapgye-chulsanyul_KO.xlsx",
+          "size": 12999
         }
       }
     },

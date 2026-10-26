@@ -1,0 +1,1751 @@
+{
+  "id": "ko-sido-hapgye-chulsanyul",
+  "name": "대한민국 시·도별 합계출산율 (2001~2019)",
+  "title": "대한민국 시·도별 합계출산율 (2001~2019)",
+  "description": "2001년부터 2019년까지 전국 및 17개 시·도별 연도별 합계출산율 목록입니다.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_지역별_합계출산율_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_지역별_합계출산율_목록",
+  "updated": "2026-10",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "total_fertility_rate",
+      "label": "Total Fertility Rate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "전국",
+      "year": 2019,
+      "total_fertility_rate": "0.918"
+    },
+    {
+      "region": "전국",
+      "year": 2018,
+      "total_fertility_rate": "0.977"
+    },
+    {
+      "region": "전국",
+      "year": 2017,
+      "total_fertility_rate": "1.052"
+    },
+    {
+      "region": "전국",
+      "year": 2016,
+      "total_fertility_rate": "1.172"
+    },
+    {
+      "region": "전국",
+      "year": 2015,
+      "total_fertility_rate": "1.239"
+    },
+    {
+      "region": "전국",
+      "year": 2014,
+      "total_fertility_rate": "1.205"
+    },
+    {
+      "region": "전국",
+      "year": 2013,
+      "total_fertility_rate": "1.187"
+    },
+    {
+      "region": "전국",
+      "year": 2012,
+      "total_fertility_rate": "1.297"
+    },
+    {
+      "region": "전국",
+      "year": 2011,
+      "total_fertility_rate": "1.244"
+    },
+    {
+      "region": "전국",
+      "year": 2010,
+      "total_fertility_rate": "1.226"
+    },
+    {
+      "region": "전국",
+      "year": 2009,
+      "total_fertility_rate": "1.149"
+    },
+    {
+      "region": "전국",
+      "year": 2008,
+      "total_fertility_rate": "1.192"
+    },
+    {
+      "region": "전국",
+      "year": 2007,
+      "total_fertility_rate": "1.259"
+    },
+    {
+      "region": "전국",
+      "year": 2006,
+      "total_fertility_rate": "1.132"
+    },
+    {
+      "region": "전국",
+      "year": 2005,
+      "total_fertility_rate": "1.085"
+    },
+    {
+      "region": "전국",
+      "year": 2004,
+      "total_fertility_rate": "1.164"
+    },
+    {
+      "region": "전국",
+      "year": 2003,
+      "total_fertility_rate": "1.191"
+    },
+    {
+      "region": "전국",
+      "year": 2002,
+      "total_fertility_rate": "1.178"
+    },
+    {
+      "region": "전국",
+      "year": 2001,
+      "total_fertility_rate": "1.309"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2019,
+      "total_fertility_rate": "0.717"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2018,
+      "total_fertility_rate": "0.761"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2017,
+      "total_fertility_rate": "0.836"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2016,
+      "total_fertility_rate": "0.940"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2015,
+      "total_fertility_rate": "1.001"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2014,
+      "total_fertility_rate": "0.983"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2013,
+      "total_fertility_rate": "0.968"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2012,
+      "total_fertility_rate": "1.059"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2011,
+      "total_fertility_rate": "1.014"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2010,
+      "total_fertility_rate": "1.015"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2009,
+      "total_fertility_rate": "0.962"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2008,
+      "total_fertility_rate": "1.010"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2007,
+      "total_fertility_rate": "1.068"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2006,
+      "total_fertility_rate": "0.980"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2005,
+      "total_fertility_rate": "0.932"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2004,
+      "total_fertility_rate": "1.015"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2003,
+      "total_fertility_rate": "1.014"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2002,
+      "total_fertility_rate": "1.006"
+    },
+    {
+      "region": "서울특별시",
+      "year": 2001,
+      "total_fertility_rate": "1.111"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2019,
+      "total_fertility_rate": "0.827"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2018,
+      "total_fertility_rate": "0.899"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2017,
+      "total_fertility_rate": "0.976"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2016,
+      "total_fertility_rate": "1.095"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2015,
+      "total_fertility_rate": "1.139"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2014,
+      "total_fertility_rate": "1.090"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2013,
+      "total_fertility_rate": "1.049"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2012,
+      "total_fertility_rate": "1.135"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2011,
+      "total_fertility_rate": "1.078"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2010,
+      "total_fertility_rate": "1.045"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2009,
+      "total_fertility_rate": "0.940"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2008,
+      "total_fertility_rate": "0.980"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2007,
+      "total_fertility_rate": "1.024"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2006,
+      "total_fertility_rate": "0.915"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2005,
+      "total_fertility_rate": "0.887"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2004,
+      "total_fertility_rate": "0.953"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2003,
+      "total_fertility_rate": "0.988"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2002,
+      "total_fertility_rate": "0.975"
+    },
+    {
+      "region": "부산광역시",
+      "year": 2001,
+      "total_fertility_rate": "1.103"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2019,
+      "total_fertility_rate": "0.932"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2018,
+      "total_fertility_rate": "0.987"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2017,
+      "total_fertility_rate": "1.067"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2016,
+      "total_fertility_rate": "1.186"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2015,
+      "total_fertility_rate": "1.216"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2014,
+      "total_fertility_rate": "1.169"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2013,
+      "total_fertility_rate": "1.127"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2012,
+      "total_fertility_rate": "1.217"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2011,
+      "total_fertility_rate": "1.146"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2010,
+      "total_fertility_rate": "1.109"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2009,
+      "total_fertility_rate": "1.029"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2008,
+      "total_fertility_rate": "1.072"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2007,
+      "total_fertility_rate": "1.137"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2006,
+      "total_fertility_rate": "1.011"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2005,
+      "total_fertility_rate": "1.001"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2004,
+      "total_fertility_rate": "1.087"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2003,
+      "total_fertility_rate": "1.116"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2002,
+      "total_fertility_rate": "1.076"
+    },
+    {
+      "region": "대구광역시",
+      "year": 2001,
+      "total_fertility_rate": "1.216"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2019,
+      "total_fertility_rate": "0.940"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2018,
+      "total_fertility_rate": "1.006"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2017,
+      "total_fertility_rate": "1.007"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2016,
+      "total_fertility_rate": "1.144"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2015,
+      "total_fertility_rate": "1.216"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2014,
+      "total_fertility_rate": "1.212"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2013,
+      "total_fertility_rate": "1.195"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2012,
+      "total_fertility_rate": "1.301"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2011,
+      "total_fertility_rate": "1.232"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2010,
+      "total_fertility_rate": "1.214"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2009,
+      "total_fertility_rate": "1.143"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2008,
+      "total_fertility_rate": "1.186"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2007,
+      "total_fertility_rate": "1.257"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2006,
+      "total_fertility_rate": "1.116"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2005,
+      "total_fertility_rate": "1.075"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2004,
+      "total_fertility_rate": "1.158"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2003,
+      "total_fertility_rate": "1.213"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2002,
+      "total_fertility_rate": "1.185"
+    },
+    {
+      "region": "인천광역시",
+      "year": 2001,
+      "total_fertility_rate": "1.324"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2019,
+      "total_fertility_rate": "0.913"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2018,
+      "total_fertility_rate": "0.972"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2017,
+      "total_fertility_rate": "1.053"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2016,
+      "total_fertility_rate": "1.168"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2015,
+      "total_fertility_rate": "1.207"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2014,
+      "total_fertility_rate": "1.199"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2013,
+      "total_fertility_rate": "1.170"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2012,
+      "total_fertility_rate": "1.295"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2011,
+      "total_fertility_rate": "1.234"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2010,
+      "total_fertility_rate": "1.223"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2009,
+      "total_fertility_rate": "1.137"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2008,
+      "total_fertility_rate": "1.198"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2007,
+      "total_fertility_rate": "1.262"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2006,
+      "total_fertility_rate": "1.152"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2005,
+      "total_fertility_rate": "1.105"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2004,
+      "total_fertility_rate": "1.203"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2003,
+      "total_fertility_rate": "1.278"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2002,
+      "total_fertility_rate": "1.264"
+    },
+    {
+      "region": "광주광역시",
+      "year": 2001,
+      "total_fertility_rate": "1.421"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2019,
+      "total_fertility_rate": "0.883"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2018,
+      "total_fertility_rate": "0.952"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2017,
+      "total_fertility_rate": "1.075"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2016,
+      "total_fertility_rate": "1.192"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2015,
+      "total_fertility_rate": "1.277"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2014,
+      "total_fertility_rate": "1.250"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2013,
+      "total_fertility_rate": "1.234"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2012,
+      "total_fertility_rate": "1.315"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2011,
+      "total_fertility_rate": "1.261"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2010,
+      "total_fertility_rate": "1.205"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2009,
+      "total_fertility_rate": "1.156"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2008,
+      "total_fertility_rate": "1.215"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2007,
+      "total_fertility_rate": "1.274"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2006,
+      "total_fertility_rate": "1.158"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2005,
+      "total_fertility_rate": "1.107"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2004,
+      "total_fertility_rate": "1.181"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2003,
+      "total_fertility_rate": "1.221"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2002,
+      "total_fertility_rate": "1.207"
+    },
+    {
+      "region": "대전광역시",
+      "year": 2001,
+      "total_fertility_rate": "1.330"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2019,
+      "total_fertility_rate": "1.084"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2018,
+      "total_fertility_rate": "1.131"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2017,
+      "total_fertility_rate": "1.261"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2016,
+      "total_fertility_rate": "1.418"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2015,
+      "total_fertility_rate": "1.486"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2014,
+      "total_fertility_rate": "1.437"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2013,
+      "total_fertility_rate": "1.391"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2012,
+      "total_fertility_rate": "1.481"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2011,
+      "total_fertility_rate": "1.393"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2010,
+      "total_fertility_rate": "1.369"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2009,
+      "total_fertility_rate": "1.308"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2008,
+      "total_fertility_rate": "1.338"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2007,
+      "total_fertility_rate": "1.403"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2006,
+      "total_fertility_rate": "1.242"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2005,
+      "total_fertility_rate": "1.186"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2004,
+      "total_fertility_rate": "1.241"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2003,
+      "total_fertility_rate": "1.280"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2002,
+      "total_fertility_rate": "1.242"
+    },
+    {
+      "region": "울산광역시",
+      "year": 2001,
+      "total_fertility_rate": "1.423"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2019,
+      "total_fertility_rate": "1.472"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2018,
+      "total_fertility_rate": "1.566"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2017,
+      "total_fertility_rate": "1.668"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2016,
+      "total_fertility_rate": "1.821"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2015,
+      "total_fertility_rate": "1.893"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2014,
+      "total_fertility_rate": "1.354"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2013,
+      "total_fertility_rate": "1.435"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2012,
+      "total_fertility_rate": "1.597"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2011,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2010,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2009,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2008,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2007,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2006,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2005,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2004,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2003,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2002,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "세종특별자치시",
+      "year": 2001,
+      "total_fertility_rate": "-"
+    },
+    {
+      "region": "경기도",
+      "year": 2019,
+      "total_fertility_rate": "0.943"
+    },
+    {
+      "region": "경기도",
+      "year": 2018,
+      "total_fertility_rate": "1.002"
+    },
+    {
+      "region": "경기도",
+      "year": 2017,
+      "total_fertility_rate": "1.069"
+    },
+    {
+      "region": "경기도",
+      "year": 2016,
+      "total_fertility_rate": "1.194"
+    },
+    {
+      "region": "경기도",
+      "year": 2015,
+      "total_fertility_rate": "1.272"
+    },
+    {
+      "region": "경기도",
+      "year": 2014,
+      "total_fertility_rate": "1.241"
+    },
+    {
+      "region": "경기도",
+      "year": 2013,
+      "total_fertility_rate": "1.226"
+    },
+    {
+      "region": "경기도",
+      "year": 2012,
+      "total_fertility_rate": "1.355"
+    },
+    {
+      "region": "경기도",
+      "year": 2011,
+      "total_fertility_rate": "1.314"
+    },
+    {
+      "region": "경기도",
+      "year": 2010,
+      "total_fertility_rate": "1.309"
+    },
+    {
+      "region": "경기도",
+      "year": 2009,
+      "total_fertility_rate": "1.226"
+    },
+    {
+      "region": "경기도",
+      "year": 2008,
+      "total_fertility_rate": "1.285"
+    },
+    {
+      "region": "경기도",
+      "year": 2007,
+      "total_fertility_rate": "1.361"
+    },
+    {
+      "region": "경기도",
+      "year": 2006,
+      "total_fertility_rate": "1.239"
+    },
+    {
+      "region": "경기도",
+      "year": 2005,
+      "total_fertility_rate": "1.183"
+    },
+    {
+      "region": "경기도",
+      "year": 2004,
+      "total_fertility_rate": "1.280"
+    },
+    {
+      "region": "경기도",
+      "year": 2003,
+      "total_fertility_rate": "1.321"
+    },
+    {
+      "region": "경기도",
+      "year": 2002,
+      "total_fertility_rate": "1.305"
+    },
+    {
+      "region": "경기도",
+      "year": 2001,
+      "total_fertility_rate": "1.437"
+    },
+    {
+      "region": "강원도",
+      "year": 2019,
+      "total_fertility_rate": "1.082"
+    },
+    {
+      "region": "강원도",
+      "year": 2018,
+      "total_fertility_rate": "1.067"
+    },
+    {
+      "region": "강원도",
+      "year": 2017,
+      "total_fertility_rate": "1.123"
+    },
+    {
+      "region": "강원도",
+      "year": 2016,
+      "total_fertility_rate": "1.237"
+    },
+    {
+      "region": "강원도",
+      "year": 2015,
+      "total_fertility_rate": "1.311"
+    },
+    {
+      "region": "강원도",
+      "year": 2014,
+      "total_fertility_rate": "1.248"
+    },
+    {
+      "region": "강원도",
+      "year": 2013,
+      "total_fertility_rate": "1.249"
+    },
+    {
+      "region": "강원도",
+      "year": 2012,
+      "total_fertility_rate": "1.374"
+    },
+    {
+      "region": "강원도",
+      "year": 2011,
+      "total_fertility_rate": "1.338"
+    },
+    {
+      "region": "강원도",
+      "year": 2010,
+      "total_fertility_rate": "1.313"
+    },
+    {
+      "region": "강원도",
+      "year": 2009,
+      "total_fertility_rate": "1.248"
+    },
+    {
+      "region": "강원도",
+      "year": 2008,
+      "total_fertility_rate": "1.253"
+    },
+    {
+      "region": "강원도",
+      "year": 2007,
+      "total_fertility_rate": "1.356"
+    },
+    {
+      "region": "강원도",
+      "year": 2006,
+      "total_fertility_rate": "1.202"
+    },
+    {
+      "region": "강원도",
+      "year": 2005,
+      "total_fertility_rate": "1.188"
+    },
+    {
+      "region": "강원도",
+      "year": 2004,
+      "total_fertility_rate": "1.261"
+    },
+    {
+      "region": "강원도",
+      "year": 2003,
+      "total_fertility_rate": "1.279"
+    },
+    {
+      "region": "강원도",
+      "year": 2002,
+      "total_fertility_rate": "1.317"
+    },
+    {
+      "region": "강원도",
+      "year": 2001,
+      "total_fertility_rate": "1.413"
+    },
+    {
+      "region": "충청북도",
+      "year": 2019,
+      "total_fertility_rate": "1.050"
+    },
+    {
+      "region": "충청북도",
+      "year": 2018,
+      "total_fertility_rate": "1.172"
+    },
+    {
+      "region": "충청북도",
+      "year": 2017,
+      "total_fertility_rate": "1.235"
+    },
+    {
+      "region": "충청북도",
+      "year": 2016,
+      "total_fertility_rate": "1.358"
+    },
+    {
+      "region": "충청북도",
+      "year": 2015,
+      "total_fertility_rate": "1.414"
+    },
+    {
+      "region": "충청북도",
+      "year": 2014,
+      "total_fertility_rate": "1.363"
+    },
+    {
+      "region": "충청북도",
+      "year": 2013,
+      "total_fertility_rate": "1.365"
+    },
+    {
+      "region": "충청북도",
+      "year": 2012,
+      "total_fertility_rate": "1.485"
+    },
+    {
+      "region": "충청북도",
+      "year": 2011,
+      "total_fertility_rate": "1.428"
+    },
+    {
+      "region": "충청북도",
+      "year": 2010,
+      "total_fertility_rate": "1.402"
+    },
+    {
+      "region": "충청북도",
+      "year": 2009,
+      "total_fertility_rate": "1.317"
+    },
+    {
+      "region": "충청북도",
+      "year": 2008,
+      "total_fertility_rate": "1.319"
+    },
+    {
+      "region": "충청북도",
+      "year": 2007,
+      "total_fertility_rate": "1.398"
+    },
+    {
+      "region": "충청북도",
+      "year": 2006,
+      "total_fertility_rate": "1.233"
+    },
+    {
+      "region": "충청북도",
+      "year": 2005,
+      "total_fertility_rate": "1.195"
+    },
+    {
+      "region": "충청북도",
+      "year": 2004,
+      "total_fertility_rate": "1.272"
+    },
+    {
+      "region": "충청북도",
+      "year": 2003,
+      "total_fertility_rate": "1.270"
+    },
+    {
+      "region": "충청북도",
+      "year": 2002,
+      "total_fertility_rate": "1.294"
+    },
+    {
+      "region": "충청북도",
+      "year": 2001,
+      "total_fertility_rate": "1.426"
+    },
+    {
+      "region": "충청남도",
+      "year": 2019,
+      "total_fertility_rate": "1.112"
+    },
+    {
+      "region": "충청남도",
+      "year": 2018,
+      "total_fertility_rate": "1.186"
+    },
+    {
+      "region": "충청남도",
+      "year": 2017,
+      "total_fertility_rate": "1.276"
+    },
+    {
+      "region": "충청남도",
+      "year": 2016,
+      "total_fertility_rate": "1.395"
+    },
+    {
+      "region": "충청남도",
+      "year": 2015,
+      "total_fertility_rate": "1.480"
+    },
+    {
+      "region": "충청남도",
+      "year": 2014,
+      "total_fertility_rate": "1.421"
+    },
+    {
+      "region": "충청남도",
+      "year": 2013,
+      "total_fertility_rate": "1.442"
+    },
+    {
+      "region": "충청남도",
+      "year": 2012,
+      "total_fertility_rate": "1.571"
+    },
+    {
+      "region": "충청남도",
+      "year": 2011,
+      "total_fertility_rate": "1.496"
+    },
+    {
+      "region": "충청남도",
+      "year": 2010,
+      "total_fertility_rate": "1.479"
+    },
+    {
+      "region": "충청남도",
+      "year": 2009,
+      "total_fertility_rate": "1.408"
+    },
+    {
+      "region": "충청남도",
+      "year": 2008,
+      "total_fertility_rate": "1.444"
+    },
+    {
+      "region": "충청남도",
+      "year": 2007,
+      "total_fertility_rate": "1.506"
+    },
+    {
+      "region": "충청남도",
+      "year": 2006,
+      "total_fertility_rate": "1.356"
+    },
+    {
+      "region": "충청남도",
+      "year": 2005,
+      "total_fertility_rate": "1.267"
+    },
+    {
+      "region": "충청남도",
+      "year": 2004,
+      "total_fertility_rate": "1.357"
+    },
+    {
+      "region": "충청남도",
+      "year": 2003,
+      "total_fertility_rate": "1.358"
+    },
+    {
+      "region": "충청남도",
+      "year": 2002,
+      "total_fertility_rate": "1.361"
+    },
+    {
+      "region": "충청남도",
+      "year": 2001,
+      "total_fertility_rate": "1.532"
+    },
+    {
+      "region": "전라북도",
+      "year": 2019,
+      "total_fertility_rate": "0.971"
+    },
+    {
+      "region": "전라북도",
+      "year": 2018,
+      "total_fertility_rate": "1.044"
+    },
+    {
+      "region": "전라북도",
+      "year": 2017,
+      "total_fertility_rate": "1.151"
+    },
+    {
+      "region": "전라북도",
+      "year": 2016,
+      "total_fertility_rate": "1.251"
+    },
+    {
+      "region": "전라북도",
+      "year": 2015,
+      "total_fertility_rate": "1.352"
+    },
+    {
+      "region": "전라북도",
+      "year": 2014,
+      "total_fertility_rate": "1.329"
+    },
+    {
+      "region": "전라북도",
+      "year": 2013,
+      "total_fertility_rate": "1.320"
+    },
+    {
+      "region": "전라북도",
+      "year": 2012,
+      "total_fertility_rate": "1.440"
+    },
+    {
+      "region": "전라북도",
+      "year": 2011,
+      "total_fertility_rate": "1.405"
+    },
+    {
+      "region": "전라북도",
+      "year": 2010,
+      "total_fertility_rate": "1.374"
+    },
+    {
+      "region": "전라북도",
+      "year": 2009,
+      "total_fertility_rate": "1.279"
+    },
+    {
+      "region": "전라북도",
+      "year": 2008,
+      "total_fertility_rate": "1.305"
+    },
+    {
+      "region": "전라북도",
+      "year": 2007,
+      "total_fertility_rate": "1.380"
+    },
+    {
+      "region": "전라북도",
+      "year": 2006,
+      "total_fertility_rate": "1.213"
+    },
+    {
+      "region": "전라북도",
+      "year": 2005,
+      "total_fertility_rate": "1.184"
+    },
+    {
+      "region": "전라북도",
+      "year": 2004,
+      "total_fertility_rate": "1.239"
+    },
+    {
+      "region": "전라북도",
+      "year": 2003,
+      "total_fertility_rate": "1.274"
+    },
+    {
+      "region": "전라북도",
+      "year": 2002,
+      "total_fertility_rate": "1.275"
+    },
+    {
+      "region": "전라북도",
+      "year": 2001,
+      "total_fertility_rate": "1.426"
+    },
+    {
+      "region": "전라남도",
+      "year": 2019,
+      "total_fertility_rate": "1.234"
+    },
+    {
+      "region": "전라남도",
+      "year": 2018,
+      "total_fertility_rate": "1.240"
+    },
+    {
+      "region": "전라남도",
+      "year": 2017,
+      "total_fertility_rate": "1.325"
+    },
+    {
+      "region": "전라남도",
+      "year": 2016,
+      "total_fertility_rate": "1.466"
+    },
+    {
+      "region": "전라남도",
+      "year": 2015,
+      "total_fertility_rate": "1.549"
+    },
+    {
+      "region": "전라남도",
+      "year": 2014,
+      "total_fertility_rate": "1.497"
+    },
+    {
+      "region": "전라남도",
+      "year": 2013,
+      "total_fertility_rate": "1.518"
+    },
+    {
+      "region": "전라남도",
+      "year": 2012,
+      "total_fertility_rate": "1.642"
+    },
+    {
+      "region": "전라남도",
+      "year": 2011,
+      "total_fertility_rate": "1.568"
+    },
+    {
+      "region": "전라남도",
+      "year": 2010,
+      "total_fertility_rate": "1.537"
+    },
+    {
+      "region": "전라남도",
+      "year": 2009,
+      "total_fertility_rate": "1.445"
+    },
+    {
+      "region": "전라남도",
+      "year": 2008,
+      "total_fertility_rate": "1.449"
+    },
+    {
+      "region": "전라남도",
+      "year": 2007,
+      "total_fertility_rate": "1.542"
+    },
+    {
+      "region": "전라남도",
+      "year": 2006,
+      "total_fertility_rate": "1.337"
+    },
+    {
+      "region": "전라남도",
+      "year": 2005,
+      "total_fertility_rate": "1.290"
+    },
+    {
+      "region": "전라남도",
+      "year": 2004,
+      "total_fertility_rate": "1.360"
+    },
+    {
+      "region": "전라남도",
+      "year": 2003,
+      "total_fertility_rate": "1.389"
+    },
+    {
+      "region": "전라남도",
+      "year": 2002,
+      "total_fertility_rate": "1.391"
+    },
+    {
+      "region": "전라남도",
+      "year": 2001,
+      "total_fertility_rate": "1.566"
+    },
+    {
+      "region": "경상북도",
+      "year": 2019,
+      "total_fertility_rate": "1.089"
+    },
+    {
+      "region": "경상북도",
+      "year": 2018,
+      "total_fertility_rate": "1.167"
+    },
+    {
+      "region": "경상북도",
+      "year": 2017,
+      "total_fertility_rate": "1.256"
+    },
+    {
+      "region": "경상북도",
+      "year": 2016,
+      "total_fertility_rate": "1.396"
+    },
+    {
+      "region": "경상북도",
+      "year": 2015,
+      "total_fertility_rate": "1.464"
+    },
+    {
+      "region": "경상북도",
+      "year": 2014,
+      "total_fertility_rate": "1.408"
+    },
+    {
+      "region": "경상북도",
+      "year": 2013,
+      "total_fertility_rate": "1.379"
+    },
+    {
+      "region": "경상북도",
+      "year": 2012,
+      "total_fertility_rate": "1.489"
+    },
+    {
+      "region": "경상북도",
+      "year": 2011,
+      "total_fertility_rate": "1.434"
+    },
+    {
+      "region": "경상북도",
+      "year": 2010,
+      "total_fertility_rate": "1.377"
+    },
+    {
+      "region": "경상북도",
+      "year": 2009,
+      "total_fertility_rate": "1.274"
+    },
+    {
+      "region": "경상북도",
+      "year": 2008,
+      "total_fertility_rate": "1.313"
+    },
+    {
+      "region": "경상북도",
+      "year": 2007,
+      "total_fertility_rate": "1.369"
+    },
+    {
+      "region": "경상북도",
+      "year": 2006,
+      "total_fertility_rate": "1.208"
+    },
+    {
+      "region": "경상북도",
+      "year": 2005,
+      "total_fertility_rate": "1.173"
+    },
+    {
+      "region": "경상북도",
+      "year": 2004,
+      "total_fertility_rate": "1.203"
+    },
+    {
+      "region": "경상북도",
+      "year": 2003,
+      "total_fertility_rate": "1.253"
+    },
+    {
+      "region": "경상북도",
+      "year": 2002,
+      "total_fertility_rate": "1.232"
+    },
+    {
+      "region": "경상북도",
+      "year": 2001,
+      "total_fertility_rate": "1.402"
+    },
+    {
+      "region": "경상남도",
+      "year": 2019,
+      "total_fertility_rate": "1.046"
+    },
+    {
+      "region": "경상남도",
+      "year": 2018,
+      "total_fertility_rate": "1.122"
+    },
+    {
+      "region": "경상남도",
+      "year": 2017,
+      "total_fertility_rate": "1.227"
+    },
+    {
+      "region": "경상남도",
+      "year": 2016,
+      "total_fertility_rate": "1.358"
+    },
+    {
+      "region": "경상남도",
+      "year": 2015,
+      "total_fertility_rate": "1.437"
+    },
+    {
+      "region": "경상남도",
+      "year": 2014,
+      "total_fertility_rate": "1.409"
+    },
+    {
+      "region": "경상남도",
+      "year": 2013,
+      "total_fertility_rate": "1.367"
+    },
+    {
+      "region": "경상남도",
+      "year": 2012,
+      "total_fertility_rate": "1.503"
+    },
+    {
+      "region": "경상남도",
+      "year": 2011,
+      "total_fertility_rate": "1.446"
+    },
+    {
+      "region": "경상남도",
+      "year": 2010,
+      "total_fertility_rate": "1.413"
+    },
+    {
+      "region": "경상남도",
+      "year": 2009,
+      "total_fertility_rate": "1.323"
+    },
+    {
+      "region": "경상남도",
+      "year": 2008,
+      "total_fertility_rate": "1.368"
+    },
+    {
+      "region": "경상남도",
+      "year": 2007,
+      "total_fertility_rate": "1.434"
+    },
+    {
+      "region": "경상남도",
+      "year": 2006,
+      "total_fertility_rate": "1.254"
+    },
+    {
+      "region": "경상남도",
+      "year": 2005,
+      "total_fertility_rate": "1.189"
+    },
+    {
+      "region": "경상남도",
+      "year": 2004,
+      "total_fertility_rate": "1.266"
+    },
+    {
+      "region": "경상남도",
+      "year": 2003,
+      "total_fertility_rate": "1.290"
+    },
+    {
+      "region": "경상남도",
+      "year": 2002,
+      "total_fertility_rate": "1.272"
+    },
+    {
+      "region": "경상남도",
+      "year": 2001,
+      "total_fertility_rate": "1.417"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2019,
+      "total_fertility_rate": "1.145"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2018,
+      "total_fertility_rate": "1.220"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2017,
+      "total_fertility_rate": "1.305"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2016,
+      "total_fertility_rate": "1.432"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2015,
+      "total_fertility_rate": "1.477"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2014,
+      "total_fertility_rate": "1.481"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2013,
+      "total_fertility_rate": "1.427"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2012,
+      "total_fertility_rate": "1.598"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2011,
+      "total_fertility_rate": "1.487"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2010,
+      "total_fertility_rate": "1.463"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2009,
+      "total_fertility_rate": "1.378"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2008,
+      "total_fertility_rate": "1.386"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2007,
+      "total_fertility_rate": "1.489"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2006,
+      "total_fertility_rate": "1.372"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2005,
+      "total_fertility_rate": "1.310"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2004,
+      "total_fertility_rate": "1.365"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2003,
+      "total_fertility_rate": "1.438"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2002,
+      "total_fertility_rate": "1.394"
+    },
+    {
+      "region": "제주특별자치도",
+      "year": 2001,
+      "total_fertility_rate": "1.564"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 시·도별 합계출산율 (2001~2019) - Free Download",
+    "description": "2001년부터 2019년까지 전국 및 17개 시·도별 연도별 합계출산율 목록입니다. Contains 342 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 시·도별 합계출산율 (2001~2019) | ListBase",
+    "seo_description": "Download 대한민국 시·도별 합계출산율 (2001~2019) — 342 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 342 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_지역별_합계출산율_목록"
+    ]
+  }
+}
