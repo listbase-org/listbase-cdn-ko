@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:23.566Z",
-  "total_datasets": 506,
-  "total_records": 452342,
+  "generated": "2026-10-26T02:21:26.290Z",
+  "total_datasets": 507,
+  "total_records": 452699,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -7450,6 +7450,31 @@
         "xlsx": {
           "name": "ko-gugeo-romaja-pyogi_KO.xlsx",
           "size": 7966
+        }
+      }
+    },
+    {
+      "id": "ko-hangeul-natja",
+      "name": "한글 낱자 순서와 유니코드 (KS X 1026-1)",
+      "category": "language",
+      "record_count": 357,
+      "columns": [
+        "position",
+        "order",
+        "jamo",
+        "unicode"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한글_낱자",
+      "updated": "2026-10",
+      "size": 44792,
+      "files": {
+        "csv": {
+          "name": "ko-hangeul-natja_KO.csv",
+          "size": 15282
+        },
+        "xlsx": {
+          "name": "ko-hangeul-natja_KO.xlsx",
+          "size": 15981
         }
       }
     },

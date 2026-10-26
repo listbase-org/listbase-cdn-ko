@@ -1,0 +1,2188 @@
+{
+  "id": "ko-hangeul-natja",
+  "name": "한글 낱자 순서와 유니코드 (KS X 1026-1)",
+  "title": "한글 낱자 순서와 유니코드 (KS X 1026-1)",
+  "description": "대한민국 산업 표준 KS X 1026-1에 정의된 옛한글을 포함한 한글 초성·중성·종성 낱자의 순서와 유니코드 코드 포인트 목록입니다.",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/한글_낱자",
+  "source_url": "https://ko.wikipedia.org/wiki/한글_낱자",
+  "updated": "2026-10",
+  "record_count": 357,
+  "columns": [
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "jamo",
+      "label": "Jamo",
+      "type": "string"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "position": "초성 (첫소리)",
+      "order": 1,
+      "jamo": "ᄀ",
+      "unicode": "U+1100"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 2,
+      "jamo": "ᄁ",
+      "unicode": "U+1101"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 3,
+      "jamo": "ᅚ",
+      "unicode": "U+115A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 4,
+      "jamo": "ᄂ",
+      "unicode": "U+1102"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 5,
+      "jamo": "ᄓ",
+      "unicode": "U+1113"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 6,
+      "jamo": "ᄔ",
+      "unicode": "U+1114"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 7,
+      "jamo": "ᄕ",
+      "unicode": "U+1115"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 8,
+      "jamo": "ᄖ",
+      "unicode": "U+1116"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 9,
+      "jamo": "ᅛ",
+      "unicode": "U+115B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 10,
+      "jamo": "ᅜ",
+      "unicode": "U+115C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 11,
+      "jamo": "ᅝ",
+      "unicode": "U+115D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 12,
+      "jamo": "ᄃ",
+      "unicode": "U+1103"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 13,
+      "jamo": "ᄗ",
+      "unicode": "U+1117"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 14,
+      "jamo": "ᄄ",
+      "unicode": "U+1104"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 15,
+      "jamo": "ᅞ",
+      "unicode": "U+115E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 16,
+      "jamo": "ꥠ",
+      "unicode": "U+A960"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 17,
+      "jamo": "ꥡ",
+      "unicode": "U+A961"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 18,
+      "jamo": "ꥢ",
+      "unicode": "U+A962"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 19,
+      "jamo": "ꥣ",
+      "unicode": "U+A963"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 20,
+      "jamo": "ᄅ",
+      "unicode": "U+1105"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 21,
+      "jamo": "ꥤ",
+      "unicode": "U+A964"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 22,
+      "jamo": "ꥥ",
+      "unicode": "U+A965"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 23,
+      "jamo": "ᄘ",
+      "unicode": "U+1118"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 24,
+      "jamo": "ꥦ",
+      "unicode": "U+A966"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 25,
+      "jamo": "ꥧ",
+      "unicode": "U+A967"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 26,
+      "jamo": "ᄙ",
+      "unicode": "U+1119"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 27,
+      "jamo": "ꥨ",
+      "unicode": "U+A968"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 28,
+      "jamo": "ꥩ",
+      "unicode": "U+A969"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 29,
+      "jamo": "ꥪ",
+      "unicode": "U+A96A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 30,
+      "jamo": "ꥫ",
+      "unicode": "U+A96B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 31,
+      "jamo": "ꥬ",
+      "unicode": "U+A96C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 32,
+      "jamo": "ꥭ",
+      "unicode": "U+A96D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 33,
+      "jamo": "ꥮ",
+      "unicode": "U+A96E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 34,
+      "jamo": "ᄚ",
+      "unicode": "U+111A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 35,
+      "jamo": "ᄛ",
+      "unicode": "U+111B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 36,
+      "jamo": "ᄆ",
+      "unicode": "U+1106"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 37,
+      "jamo": "ꥯ",
+      "unicode": "U+A96F"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 38,
+      "jamo": "ꥰ",
+      "unicode": "U+A970"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 39,
+      "jamo": "ᄜ",
+      "unicode": "U+111C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 40,
+      "jamo": "ꥱ",
+      "unicode": "U+A971"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 41,
+      "jamo": "ᄝ",
+      "unicode": "U+111D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 42,
+      "jamo": "ᄇ",
+      "unicode": "U+1107"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 43,
+      "jamo": "ᄞ",
+      "unicode": "U+111E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 44,
+      "jamo": "ᄟ",
+      "unicode": "U+111F"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 45,
+      "jamo": "ᄠ",
+      "unicode": "U+1120"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 46,
+      "jamo": "ᄈ",
+      "unicode": "U+1108"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 47,
+      "jamo": "ᄡ",
+      "unicode": "U+1121"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 48,
+      "jamo": "ᄢ",
+      "unicode": "U+1122"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 49,
+      "jamo": "ᄣ",
+      "unicode": "U+1123"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 50,
+      "jamo": "ᄤ",
+      "unicode": "U+1124"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 51,
+      "jamo": "ᄥ",
+      "unicode": "U+1125"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 52,
+      "jamo": "ᄦ",
+      "unicode": "U+1126"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 53,
+      "jamo": "ꥲ",
+      "unicode": "U+A972"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 54,
+      "jamo": "ᄧ",
+      "unicode": "U+1127"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 55,
+      "jamo": "ᄨ",
+      "unicode": "U+1128"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 56,
+      "jamo": "ꥳ",
+      "unicode": "U+A973"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 57,
+      "jamo": "ᄩ",
+      "unicode": "U+1129"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 58,
+      "jamo": "ᄪ",
+      "unicode": "U+112A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 59,
+      "jamo": "ꥴ",
+      "unicode": "U+A974"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 60,
+      "jamo": "ᄫ",
+      "unicode": "U+112B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 61,
+      "jamo": "ᄬ",
+      "unicode": "U+112C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 62,
+      "jamo": "ᄉ",
+      "unicode": "U+1109"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 63,
+      "jamo": "ᄭ",
+      "unicode": "U+112D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 64,
+      "jamo": "ᄮ",
+      "unicode": "U+112E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 65,
+      "jamo": "ᄯ",
+      "unicode": "U+112F"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 66,
+      "jamo": "ᄰ",
+      "unicode": "U+1130"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 67,
+      "jamo": "ᄱ",
+      "unicode": "U+1131"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 68,
+      "jamo": "ᄲ",
+      "unicode": "U+1132"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 69,
+      "jamo": "ᄳ",
+      "unicode": "U+1133"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 70,
+      "jamo": "ᄊ",
+      "unicode": "U+110A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 71,
+      "jamo": "ꥵ",
+      "unicode": "U+A975"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 72,
+      "jamo": "ᄴ",
+      "unicode": "U+1134"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 73,
+      "jamo": "ᄵ",
+      "unicode": "U+1135"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 74,
+      "jamo": "ᄶ",
+      "unicode": "U+1136"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 75,
+      "jamo": "ᄷ",
+      "unicode": "U+1137"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 76,
+      "jamo": "ᄸ",
+      "unicode": "U+1138"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 77,
+      "jamo": "ᄹ",
+      "unicode": "U+1139"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 78,
+      "jamo": "ᄺ",
+      "unicode": "U+113A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 79,
+      "jamo": "ᄻ",
+      "unicode": "U+113B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 80,
+      "jamo": "ᄼ",
+      "unicode": "U+113C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 81,
+      "jamo": "ᄽ",
+      "unicode": "U+113D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 82,
+      "jamo": "ᄾ",
+      "unicode": "U+113E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 83,
+      "jamo": "ᄿ",
+      "unicode": "U+113F"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 84,
+      "jamo": "ᅀ",
+      "unicode": "U+1140"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 85,
+      "jamo": "ᄋ",
+      "unicode": "U+110B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 86,
+      "jamo": "ᅁ",
+      "unicode": "U+1141"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 87,
+      "jamo": "ᅂ",
+      "unicode": "U+1142"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 88,
+      "jamo": "ꥶ",
+      "unicode": "U+A976"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 89,
+      "jamo": "ᅃ",
+      "unicode": "U+1143"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 90,
+      "jamo": "ᅄ",
+      "unicode": "U+1144"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 91,
+      "jamo": "ᅅ",
+      "unicode": "U+1145"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 92,
+      "jamo": "ᅆ",
+      "unicode": "U+1146"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 93,
+      "jamo": "ᅇ",
+      "unicode": "U+1147"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 94,
+      "jamo": "ᅈ",
+      "unicode": "U+1148"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 95,
+      "jamo": "ᅉ",
+      "unicode": "U+1149"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 96,
+      "jamo": "ᅊ",
+      "unicode": "U+114A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 97,
+      "jamo": "ᅋ",
+      "unicode": "U+114B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 98,
+      "jamo": "ꥷ",
+      "unicode": "U+A977"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 99,
+      "jamo": "ᅌ",
+      "unicode": "U+114C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 100,
+      "jamo": "ᄌ",
+      "unicode": "U+110C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 101,
+      "jamo": "ᅍ",
+      "unicode": "U+114D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 102,
+      "jamo": "ᄍ",
+      "unicode": "U+110D"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 103,
+      "jamo": "ꥸ",
+      "unicode": "U+A978"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 104,
+      "jamo": "ᅎ",
+      "unicode": "U+114E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 105,
+      "jamo": "ᅏ",
+      "unicode": "U+114F"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 106,
+      "jamo": "ᅐ",
+      "unicode": "U+1150"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 107,
+      "jamo": "ᅑ",
+      "unicode": "U+1151"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 108,
+      "jamo": "ᄎ",
+      "unicode": "U+110E"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 109,
+      "jamo": "ᅒ",
+      "unicode": "U+1152"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 110,
+      "jamo": "ᅓ",
+      "unicode": "U+1153"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 111,
+      "jamo": "ᅔ",
+      "unicode": "U+1154"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 112,
+      "jamo": "ᅕ",
+      "unicode": "U+1155"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 113,
+      "jamo": "ᄏ",
+      "unicode": "U+110F"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 114,
+      "jamo": "ᄐ",
+      "unicode": "U+1110"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 115,
+      "jamo": "ꥹ",
+      "unicode": "U+A979"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 116,
+      "jamo": "ᄑ",
+      "unicode": "U+1111"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 117,
+      "jamo": "ᅖ",
+      "unicode": "U+1156"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 118,
+      "jamo": "ꥺ",
+      "unicode": "U+A97A"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 119,
+      "jamo": "ᅗ",
+      "unicode": "U+1157"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 120,
+      "jamo": "ᄒ",
+      "unicode": "U+1112"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 121,
+      "jamo": "ꥻ",
+      "unicode": "U+A97B"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 122,
+      "jamo": "ᅘ",
+      "unicode": "U+1158"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 123,
+      "jamo": "ᅙ",
+      "unicode": "U+1159"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 124,
+      "jamo": "ꥼ",
+      "unicode": "U+A97C"
+    },
+    {
+      "position": "초성 (첫소리)",
+      "order": 125,
+      "jamo": "ᅟ",
+      "unicode": "U+115F"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 1,
+      "jamo": "ᅠ",
+      "unicode": "U+1160"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 2,
+      "jamo": "ᅡ",
+      "unicode": "U+1161"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 3,
+      "jamo": "ᅶ",
+      "unicode": "U+1176"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 4,
+      "jamo": "ᅷ",
+      "unicode": "U+1177"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 5,
+      "jamo": "ᆣ",
+      "unicode": "U+11A3"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 6,
+      "jamo": "ᅢ",
+      "unicode": "U+1162"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 7,
+      "jamo": "ᅣ",
+      "unicode": "U+1163"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 8,
+      "jamo": "ᅸ",
+      "unicode": "U+1178"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 9,
+      "jamo": "ᅹ",
+      "unicode": "U+1179"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 10,
+      "jamo": "ᆤ",
+      "unicode": "U+11A4"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 11,
+      "jamo": "ᅤ",
+      "unicode": "U+1164"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 12,
+      "jamo": "ᅥ",
+      "unicode": "U+1165"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 13,
+      "jamo": "ᅺ",
+      "unicode": "U+117A"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 14,
+      "jamo": "ᅻ",
+      "unicode": "U+117B"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 15,
+      "jamo": "ᅼ",
+      "unicode": "U+117C"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 16,
+      "jamo": "ᅦ",
+      "unicode": "U+1166"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 17,
+      "jamo": "ᅧ",
+      "unicode": "U+1167"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 18,
+      "jamo": "ᆥ",
+      "unicode": "U+11A5"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 19,
+      "jamo": "ᅽ",
+      "unicode": "U+117D"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 20,
+      "jamo": "ᅾ",
+      "unicode": "U+117E"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 21,
+      "jamo": "ᅨ",
+      "unicode": "U+1168"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 22,
+      "jamo": "ᅩ",
+      "unicode": "U+1169"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 23,
+      "jamo": "ᅪ",
+      "unicode": "U+116A"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 24,
+      "jamo": "ᅫ",
+      "unicode": "U+116B"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 25,
+      "jamo": "ᆦ",
+      "unicode": "U+11A6"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 26,
+      "jamo": "ᆧ",
+      "unicode": "U+11A7"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 27,
+      "jamo": "ᅿ",
+      "unicode": "U+117F"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 28,
+      "jamo": "ᆀ",
+      "unicode": "U+1180"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 29,
+      "jamo": "ힰ",
+      "unicode": "U+D7B0"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 30,
+      "jamo": "ᆁ",
+      "unicode": "U+1181"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 31,
+      "jamo": "ᆂ",
+      "unicode": "U+1182"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 32,
+      "jamo": "ힱ",
+      "unicode": "U+D7B1"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 33,
+      "jamo": "ᆃ",
+      "unicode": "U+1183"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 34,
+      "jamo": "ᅬ",
+      "unicode": "U+116C"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 35,
+      "jamo": "ᅭ",
+      "unicode": "U+116D"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 36,
+      "jamo": "ힲ",
+      "unicode": "U+D7B2"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 37,
+      "jamo": "ힳ",
+      "unicode": "U+D7B3"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 38,
+      "jamo": "ᆄ",
+      "unicode": "U+1184"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 39,
+      "jamo": "ᆅ",
+      "unicode": "U+1185"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 40,
+      "jamo": "ힴ",
+      "unicode": "U+D7B4"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 41,
+      "jamo": "ᆆ",
+      "unicode": "U+1186"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 42,
+      "jamo": "ᆇ",
+      "unicode": "U+1187"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 43,
+      "jamo": "ᆈ",
+      "unicode": "U+1188"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 44,
+      "jamo": "ᅮ",
+      "unicode": "U+116E"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 45,
+      "jamo": "ᆉ",
+      "unicode": "U+1189"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 46,
+      "jamo": "ᆊ",
+      "unicode": "U+118A"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 47,
+      "jamo": "ᅯ",
+      "unicode": "U+116F"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 48,
+      "jamo": "ᆋ",
+      "unicode": "U+118B"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 49,
+      "jamo": "ᅰ",
+      "unicode": "U+1170"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 50,
+      "jamo": "ힵ",
+      "unicode": "U+D7B5"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 51,
+      "jamo": "ᆌ",
+      "unicode": "U+118C"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 52,
+      "jamo": "ᆍ",
+      "unicode": "U+118D"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 53,
+      "jamo": "ᅱ",
+      "unicode": "U+1171"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 54,
+      "jamo": "ힶ",
+      "unicode": "U+D7B6"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 55,
+      "jamo": "ᅲ",
+      "unicode": "U+1172"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 56,
+      "jamo": "ᆎ",
+      "unicode": "U+118E"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 57,
+      "jamo": "ힷ",
+      "unicode": "U+D7B7"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 58,
+      "jamo": "ᆏ",
+      "unicode": "U+118F"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 59,
+      "jamo": "ᆐ",
+      "unicode": "U+1190"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 60,
+      "jamo": "ᆑ",
+      "unicode": "U+1191"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 61,
+      "jamo": "ᆒ",
+      "unicode": "U+1192"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 62,
+      "jamo": "ힸ",
+      "unicode": "U+D7B8"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 63,
+      "jamo": "ᆓ",
+      "unicode": "U+1193"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 64,
+      "jamo": "ᆔ",
+      "unicode": "U+1194"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 65,
+      "jamo": "ᅳ",
+      "unicode": "U+1173"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 66,
+      "jamo": "ힹ",
+      "unicode": "U+D7B9"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 67,
+      "jamo": "ힺ",
+      "unicode": "U+D7BA"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 68,
+      "jamo": "ힻ",
+      "unicode": "U+D7BB"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 69,
+      "jamo": "ힼ",
+      "unicode": "U+D7BC"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 70,
+      "jamo": "ᆕ",
+      "unicode": "U+1195"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 71,
+      "jamo": "ᆖ",
+      "unicode": "U+1196"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 72,
+      "jamo": "ᅴ",
+      "unicode": "U+1174"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 73,
+      "jamo": "ᆗ",
+      "unicode": "U+1197"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 74,
+      "jamo": "ᅵ",
+      "unicode": "U+1175"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 75,
+      "jamo": "ᆘ",
+      "unicode": "U+1198"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 76,
+      "jamo": "ᆙ",
+      "unicode": "U+1199"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 77,
+      "jamo": "ힽ",
+      "unicode": "U+D7BD"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 78,
+      "jamo": "ힾ",
+      "unicode": "U+D7BE"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 79,
+      "jamo": "ힿ",
+      "unicode": "U+D7BF"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 80,
+      "jamo": "ퟀ",
+      "unicode": "U+D7C0"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 81,
+      "jamo": "ᆚ",
+      "unicode": "U+119A"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 82,
+      "jamo": "ퟁ",
+      "unicode": "U+D7C1"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 83,
+      "jamo": "ퟂ",
+      "unicode": "U+D7C2"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 84,
+      "jamo": "ᆛ",
+      "unicode": "U+119B"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 85,
+      "jamo": "ퟃ",
+      "unicode": "U+D7C3"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 86,
+      "jamo": "ᆜ",
+      "unicode": "U+119C"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 87,
+      "jamo": "ퟄ",
+      "unicode": "U+D7C4"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 88,
+      "jamo": "ᆝ",
+      "unicode": "U+119D"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 89,
+      "jamo": "ᆞ",
+      "unicode": "U+119E"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 90,
+      "jamo": "ퟅ",
+      "unicode": "U+D7C5"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 91,
+      "jamo": "ᆟ",
+      "unicode": "U+119F"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 92,
+      "jamo": "ퟆ",
+      "unicode": "U+D7C6"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 93,
+      "jamo": "ᆠ",
+      "unicode": "U+11A0"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 94,
+      "jamo": "ᆡ",
+      "unicode": "U+11A1"
+    },
+    {
+      "position": "중성 (가운뎃소리)",
+      "order": 95,
+      "jamo": "ᆢ",
+      "unicode": "U+11A2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 1,
+      "jamo": "ᆨ",
+      "unicode": "U+11A8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 2,
+      "jamo": "ᆩ",
+      "unicode": "U+11A9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 3,
+      "jamo": "ᇺ",
+      "unicode": "U+11FA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 4,
+      "jamo": "ᇃ",
+      "unicode": "U+11C3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 5,
+      "jamo": "ᇻ",
+      "unicode": "U+11FB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 6,
+      "jamo": "ᆪ",
+      "unicode": "U+11AA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 7,
+      "jamo": "ᇄ",
+      "unicode": "U+11C4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 8,
+      "jamo": "ᇼ",
+      "unicode": "U+11FC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 9,
+      "jamo": "ᇽ",
+      "unicode": "U+11FD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 10,
+      "jamo": "ᇾ",
+      "unicode": "U+11FE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 11,
+      "jamo": "ᆫ",
+      "unicode": "U+11AB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 12,
+      "jamo": "ᇅ",
+      "unicode": "U+11C5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 13,
+      "jamo": "ᇿ",
+      "unicode": "U+11FF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 14,
+      "jamo": "ᇆ",
+      "unicode": "U+11C6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 15,
+      "jamo": "ퟋ",
+      "unicode": "U+D7CB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 16,
+      "jamo": "ᇇ",
+      "unicode": "U+11C7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 17,
+      "jamo": "ᇈ",
+      "unicode": "U+11C8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 18,
+      "jamo": "ᆬ",
+      "unicode": "U+11AC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 19,
+      "jamo": "ퟌ",
+      "unicode": "U+D7CC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 20,
+      "jamo": "ᇉ",
+      "unicode": "U+11C9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 21,
+      "jamo": "ᆭ",
+      "unicode": "U+11AD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 22,
+      "jamo": "ᆮ",
+      "unicode": "U+11AE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 23,
+      "jamo": "ᇊ",
+      "unicode": "U+11CA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 24,
+      "jamo": "ퟍ",
+      "unicode": "U+D7CD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 25,
+      "jamo": "ퟎ",
+      "unicode": "U+D7CE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 26,
+      "jamo": "ᇋ",
+      "unicode": "U+11CB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 27,
+      "jamo": "ퟏ",
+      "unicode": "U+D7CF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 28,
+      "jamo": "ퟐ",
+      "unicode": "U+D7D0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 29,
+      "jamo": "ퟑ",
+      "unicode": "U+D7D1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 30,
+      "jamo": "ퟒ",
+      "unicode": "U+D7D2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 31,
+      "jamo": "ퟓ",
+      "unicode": "U+D7D3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 32,
+      "jamo": "ퟔ",
+      "unicode": "U+D7D4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 33,
+      "jamo": "ᆯ",
+      "unicode": "U+11AF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 34,
+      "jamo": "ᆰ",
+      "unicode": "U+11B0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 35,
+      "jamo": "ퟕ",
+      "unicode": "U+D7D5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 36,
+      "jamo": "ᇌ",
+      "unicode": "U+11CC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 37,
+      "jamo": "ퟖ",
+      "unicode": "U+D7D6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 38,
+      "jamo": "ᇍ",
+      "unicode": "U+11CD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 39,
+      "jamo": "ᇎ",
+      "unicode": "U+11CE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 40,
+      "jamo": "ᇏ",
+      "unicode": "U+11CF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 41,
+      "jamo": "ᇐ",
+      "unicode": "U+11D0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 42,
+      "jamo": "ퟗ",
+      "unicode": "U+D7D7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 43,
+      "jamo": "ᆱ",
+      "unicode": "U+11B1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 44,
+      "jamo": "ᇑ",
+      "unicode": "U+11D1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 45,
+      "jamo": "ᇒ",
+      "unicode": "U+11D2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 46,
+      "jamo": "ퟘ",
+      "unicode": "U+D7D8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 47,
+      "jamo": "ᆲ",
+      "unicode": "U+11B2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 48,
+      "jamo": "ퟙ",
+      "unicode": "U+D7D9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 49,
+      "jamo": "ᇓ",
+      "unicode": "U+11D3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 50,
+      "jamo": "ퟚ",
+      "unicode": "U+D7DA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 51,
+      "jamo": "ᇔ",
+      "unicode": "U+11D4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 52,
+      "jamo": "ᇕ",
+      "unicode": "U+11D5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 53,
+      "jamo": "ᆳ",
+      "unicode": "U+11B3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 54,
+      "jamo": "ᇖ",
+      "unicode": "U+11D6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 55,
+      "jamo": "ᇗ",
+      "unicode": "U+11D7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 56,
+      "jamo": "ퟛ",
+      "unicode": "U+D7DB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 57,
+      "jamo": "ᇘ",
+      "unicode": "U+11D8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 58,
+      "jamo": "ᆴ",
+      "unicode": "U+11B4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 59,
+      "jamo": "ᆵ",
+      "unicode": "U+11B5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 60,
+      "jamo": "ᆶ",
+      "unicode": "U+11B6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 61,
+      "jamo": "ᇙ",
+      "unicode": "U+11D9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 62,
+      "jamo": "ퟜ",
+      "unicode": "U+D7DC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 63,
+      "jamo": "ퟝ",
+      "unicode": "U+D7DD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 64,
+      "jamo": "ᆷ",
+      "unicode": "U+11B7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 65,
+      "jamo": "ᇚ",
+      "unicode": "U+11DA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 66,
+      "jamo": "ퟞ",
+      "unicode": "U+D7DE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 67,
+      "jamo": "ퟟ",
+      "unicode": "U+D7DF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 68,
+      "jamo": "ᇛ",
+      "unicode": "U+11DB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 69,
+      "jamo": "ퟠ",
+      "unicode": "U+D7E0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 70,
+      "jamo": "ᇜ",
+      "unicode": "U+11DC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 71,
+      "jamo": "ퟡ",
+      "unicode": "U+D7E1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 72,
+      "jamo": "ᇝ",
+      "unicode": "U+11DD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 73,
+      "jamo": "ᇞ",
+      "unicode": "U+11DE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 74,
+      "jamo": "ᇟ",
+      "unicode": "U+11DF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 75,
+      "jamo": "ퟢ",
+      "unicode": "U+D7E2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 76,
+      "jamo": "ᇠ",
+      "unicode": "U+11E0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 77,
+      "jamo": "ᇡ",
+      "unicode": "U+11E1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 78,
+      "jamo": "ᇢ",
+      "unicode": "U+11E2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 79,
+      "jamo": "ᆸ",
+      "unicode": "U+11B8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 80,
+      "jamo": "ퟣ",
+      "unicode": "U+D7E3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 81,
+      "jamo": "ᇣ",
+      "unicode": "U+11E3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 82,
+      "jamo": "ퟤ",
+      "unicode": "U+D7E4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 83,
+      "jamo": "ퟥ",
+      "unicode": "U+D7E5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 84,
+      "jamo": "ퟦ",
+      "unicode": "U+D7E6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 85,
+      "jamo": "ᆹ",
+      "unicode": "U+11B9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 86,
+      "jamo": "ퟧ",
+      "unicode": "U+D7E7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 87,
+      "jamo": "ퟨ",
+      "unicode": "U+D7E8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 88,
+      "jamo": "ퟩ",
+      "unicode": "U+D7E9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 89,
+      "jamo": "ᇤ",
+      "unicode": "U+11E4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 90,
+      "jamo": "ᇥ",
+      "unicode": "U+11E5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 91,
+      "jamo": "ᇦ",
+      "unicode": "U+11E6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 92,
+      "jamo": "ᆺ",
+      "unicode": "U+11BA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 93,
+      "jamo": "ᇧ",
+      "unicode": "U+11E7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 94,
+      "jamo": "ᇨ",
+      "unicode": "U+11E8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 95,
+      "jamo": "ᇩ",
+      "unicode": "U+11E9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 96,
+      "jamo": "ퟪ",
+      "unicode": "U+D7EA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 97,
+      "jamo": "ᇪ",
+      "unicode": "U+11EA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 98,
+      "jamo": "ퟫ",
+      "unicode": "U+D7EB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 99,
+      "jamo": "ᆻ",
+      "unicode": "U+11BB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 100,
+      "jamo": "ퟬ",
+      "unicode": "U+D7EC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 101,
+      "jamo": "ퟭ",
+      "unicode": "U+D7ED"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 102,
+      "jamo": "ퟮ",
+      "unicode": "U+D7EE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 103,
+      "jamo": "ퟯ",
+      "unicode": "U+D7EF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 104,
+      "jamo": "ퟰ",
+      "unicode": "U+D7F0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 105,
+      "jamo": "ퟱ",
+      "unicode": "U+D7F1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 106,
+      "jamo": "ퟲ",
+      "unicode": "U+D7F2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 107,
+      "jamo": "ᇫ",
+      "unicode": "U+11EB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 108,
+      "jamo": "ퟳ",
+      "unicode": "U+D7F3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 109,
+      "jamo": "ퟴ",
+      "unicode": "U+D7F4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 110,
+      "jamo": "ᆼ",
+      "unicode": "U+11BC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 111,
+      "jamo": "ᇰ",
+      "unicode": "U+11F0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 112,
+      "jamo": "ᇬ",
+      "unicode": "U+11EC"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 113,
+      "jamo": "ᇭ",
+      "unicode": "U+11ED"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 114,
+      "jamo": "ퟵ",
+      "unicode": "U+D7F5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 115,
+      "jamo": "ᇱ",
+      "unicode": "U+11F1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 116,
+      "jamo": "ᇲ",
+      "unicode": "U+11F2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 117,
+      "jamo": "ᇮ",
+      "unicode": "U+11EE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 118,
+      "jamo": "ᇯ",
+      "unicode": "U+11EF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 119,
+      "jamo": "ퟶ",
+      "unicode": "U+D7F6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 120,
+      "jamo": "ᆽ",
+      "unicode": "U+11BD"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 121,
+      "jamo": "ퟷ",
+      "unicode": "U+D7F7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 122,
+      "jamo": "ퟸ",
+      "unicode": "U+D7F8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 123,
+      "jamo": "ퟹ",
+      "unicode": "U+D7F9"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 124,
+      "jamo": "ᆾ",
+      "unicode": "U+11BE"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 125,
+      "jamo": "ᆿ",
+      "unicode": "U+11BF"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 126,
+      "jamo": "ᇀ",
+      "unicode": "U+11C0"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 127,
+      "jamo": "ᇁ",
+      "unicode": "U+11C1"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 128,
+      "jamo": "ᇳ",
+      "unicode": "U+11F3"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 129,
+      "jamo": "ퟺ",
+      "unicode": "U+D7FA"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 130,
+      "jamo": "ퟻ",
+      "unicode": "U+D7FB"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 131,
+      "jamo": "ᇴ",
+      "unicode": "U+11F4"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 132,
+      "jamo": "ᇂ",
+      "unicode": "U+11C2"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 133,
+      "jamo": "ᇵ",
+      "unicode": "U+11F5"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 134,
+      "jamo": "ᇶ",
+      "unicode": "U+11F6"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 135,
+      "jamo": "ᇷ",
+      "unicode": "U+11F7"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 136,
+      "jamo": "ᇸ",
+      "unicode": "U+11F8"
+    },
+    {
+      "position": "종성 (끝소리)",
+      "order": 137,
+      "jamo": "ᇹ",
+      "unicode": "U+11F9"
+    }
+  ],
+  "meta": {
+    "title": "한글 낱자 순서와 유니코드 (KS X 1026-1) - Free Download",
+    "description": "대한민국 산업 표준 KS X 1026-1에 정의된 옛한글을 포함한 한글 초성·중성·종성 낱자의 순서와 유니코드 코드 포인트 목록입니다. Contains 357 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한글 낱자 순서와 유니코드 (KS X 1026-1) | ListBase",
+    "seo_description": "Download 한글 낱자 순서와 유니코드 (KS X 1026-1) — 357 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 357 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한글_낱자"
+    ]
+  }
+}
