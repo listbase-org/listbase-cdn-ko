@@ -1,0 +1,368 @@
+{
+  "id": "ko-choejeo-imgeum",
+  "name": "대한민국 연도별 최저임금",
+  "title": "대한민국 연도별 최저임금",
+  "description": "1988년 최저임금제 시행 이후 대한민국의 연도별 최저임금(시간급·일급·월급)과 적용 범위 비고 목록입니다.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_최저임금",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_최저임금",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "hourly",
+      "label": "Hourly",
+      "type": "string"
+    },
+    {
+      "key": "daily",
+      "label": "Daily",
+      "type": "string"
+    },
+    {
+      "key": "weekly",
+      "label": "Weekly",
+      "type": "string"
+    },
+    {
+      "key": "monthly",
+      "label": "Monthly",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1988",
+      "hourly": "(1군)462.5원 (2군)487.5원",
+      "daily": "(1군)3700원 (2군)3900원",
+      "weekly": "",
+      "monthly": "(1군)111000원 (2군)117000원",
+      "note": "제조업 (10인이상)"
+    },
+    {
+      "year": "1989",
+      "hourly": "600원",
+      "daily": "4800원",
+      "weekly": "",
+      "monthly": "144000원",
+      "note": "제조업, 광업, 건설업 (상시근로자 10인이상)"
+    },
+    {
+      "year": "1990",
+      "hourly": "690원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1991",
+      "hourly": "820원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1992",
+      "hourly": "925원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1993",
+      "hourly": "1,005원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1994.1~1994.8",
+      "hourly": "1,085원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1994.9~1995.8",
+      "hourly": "1,170원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1995.9~1996.8",
+      "hourly": "1,275원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1996.9~1997.8",
+      "hourly": "1,400원",
+      "daily": "",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1997.9~1998.8",
+      "hourly": "1,485원",
+      "daily": "11,880원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1998.9~1999.8",
+      "hourly": "1,525원",
+      "daily": "12,200원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "1999.9~2000.8",
+      "hourly": "1,600원",
+      "daily": "12,800원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "2000.9~2001.8",
+      "hourly": "1,865원",
+      "daily": "14,920원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "2001.9~2002.8",
+      "hourly": "2,100원",
+      "daily": "16,800원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "2002.9~2003.8",
+      "hourly": "2,275원",
+      "daily": "18,200원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": "전산업 (모든 사업장)"
+    },
+    {
+      "year": "2003.9~2004.8",
+      "hourly": "2,510원",
+      "daily": "20,080원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "2004.9~2005.8",
+      "hourly": "2,840원",
+      "daily": "22,720원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "2005.9~2006.12",
+      "hourly": "3,100원",
+      "daily": "24,800원(8시간)",
+      "weekly": "",
+      "monthly": "",
+      "note": ""
+    },
+    {
+      "year": "2007",
+      "hourly": "3,480원",
+      "daily": "27,840원(8시간)",
+      "weekly": "",
+      "monthly": "727,320원(40시간 근무제) 786,480원(44시간 근무제)",
+      "note": ""
+    },
+    {
+      "year": "2008",
+      "hourly": "3,770원",
+      "daily": "30,160원(8시간)",
+      "weekly": "150,800원(주40시간) 165,880원(주44시간)",
+      "monthly": "787,930원(40시간 근무제) 852,020원(44시간 근무제)",
+      "note": ""
+    },
+    {
+      "year": "2009",
+      "hourly": "4,000원",
+      "daily": "32,000원(8시간)",
+      "weekly": "160,000원(주40시간) 176,000원(주44시간)",
+      "monthly": "836,000원(주40시간제) 904,000원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2010",
+      "hourly": "4,110원",
+      "daily": "32,880원(8시간)",
+      "weekly": "164,400원(주40시간) 180,840원(주44시간)",
+      "monthly": "858,990원(주40시간제) 928,860원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2011",
+      "hourly": "4,320원",
+      "daily": "34,560원(8시간)",
+      "weekly": "172,800원(주40시간) 190,080원(주44시간)",
+      "monthly": "902,880원(주40시간제) 976,320원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2012",
+      "hourly": "4,580원",
+      "daily": "36,640원(8시간)",
+      "weekly": "183,200원(주40시간) 201,520원(주44시간)",
+      "monthly": "957,220원(주40시간제) 1,035,080원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2013",
+      "hourly": "4,860원",
+      "daily": "38,880원(8시간)",
+      "weekly": "194,400원(주40시간) 213,840원(주44시간)",
+      "monthly": "1,015,740원(주40시간제) 1,098,360원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2014",
+      "hourly": "5,210원",
+      "daily": "41,680원(8시간)",
+      "weekly": "208,400원(주40시간) 229,240원(주44시간)",
+      "monthly": "1,088,890원(주40시간제) 1,177,460원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2015",
+      "hourly": "5,580원",
+      "daily": "44,640원(8시간)",
+      "weekly": "",
+      "monthly": "1,166,220원(주40시간제) 1,261,080원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2016",
+      "hourly": "6,030원",
+      "daily": "48,240원(8시간)",
+      "weekly": "",
+      "monthly": "1,260,270원(주40시간제) 1,362,780원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2017",
+      "hourly": "6,470원",
+      "daily": "51,760원(8시간)",
+      "weekly": "",
+      "monthly": "1,352,230원(주40시간제) 1,462,220원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2018",
+      "hourly": "7,530원",
+      "daily": "60,240원(8시간)",
+      "weekly": "",
+      "monthly": "1,573,770원(주40시간제) 1,701,780원(주44시간제)",
+      "note": ""
+    },
+    {
+      "year": "2019",
+      "hourly": "8,350원",
+      "daily": "66,800원",
+      "weekly": "",
+      "monthly": "1,745,150원(주40시간제)",
+      "note": ""
+    },
+    {
+      "year": "2020",
+      "hourly": "8,590원",
+      "daily": "68,720원",
+      "weekly": "",
+      "monthly": "1,795,310원(주40시간제)",
+      "note": ""
+    },
+    {
+      "year": "2021",
+      "hourly": "8,720원",
+      "daily": "69,760원",
+      "weekly": "",
+      "monthly": "1,822,480원(주40시간제)",
+      "note": ""
+    },
+    {
+      "year": "2022.1.1",
+      "hourly": "9,160원",
+      "daily": "73,280원",
+      "weekly": "",
+      "monthly": "1,914,440원(주40시간제)",
+      "note": ""
+    },
+    {
+      "year": "2023.1.1",
+      "hourly": "9,620원",
+      "daily": "76,960원",
+      "weekly": "",
+      "monthly": "2,010,580원(주40시간제)",
+      "note": ""
+    },
+    {
+      "year": "2024.1.1",
+      "hourly": "9,860원",
+      "daily": "78,880원",
+      "weekly": "",
+      "monthly": "2,060,740원",
+      "note": ""
+    },
+    {
+      "year": "2025.1.1",
+      "hourly": "10,030원",
+      "daily": "80,240원",
+      "weekly": "",
+      "monthly": "2,096,270원",
+      "note": ""
+    },
+    {
+      "year": "2026.1.1",
+      "hourly": "10,320원",
+      "daily": "82,560원",
+      "weekly": "",
+      "monthly": "2,156,880원",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 연도별 최저임금 - Free Download",
+    "description": "1988년 최저임금제 시행 이후 대한민국의 연도별 최저임금(시간급·일급·월급)과 적용 범위 비고 목록입니다. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 연도별 최저임금 | ListBase",
+    "seo_description": "Download 대한민국 연도별 최저임금 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_최저임금"
+    ]
+  }
+}

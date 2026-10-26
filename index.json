@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:21.690Z",
-  "total_datasets": 482,
-  "total_records": 450832,
+  "generated": "2026-10-26T02:20:24.247Z",
+  "total_datasets": 483,
+  "total_records": 450871,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -639,6 +639,33 @@
         "xlsx": {
           "name": "ko-wangneung-gobun_KO.xlsx",
           "size": 19335
+        }
+      }
+    },
+    {
+      "id": "ko-choejeo-imgeum",
+      "name": "대한민국 연도별 최저임금",
+      "category": "economy",
+      "record_count": 39,
+      "columns": [
+        "year",
+        "hourly",
+        "daily",
+        "weekly",
+        "monthly",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_최저임금",
+      "updated": "2026-10",
+      "size": 9203,
+      "files": {
+        "csv": {
+          "name": "ko-choejeo-imgeum_KO.csv",
+          "size": 3191
+        },
+        "xlsx": {
+          "name": "ko-choejeo-imgeum_KO.xlsx",
+          "size": 8663
         }
       }
     },
