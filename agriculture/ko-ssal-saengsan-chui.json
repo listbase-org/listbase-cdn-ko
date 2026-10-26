@@ -1,0 +1,166 @@
+{
+  "id": "ko-ssal-saengsan-chui",
+  "name": "대한민국 쌀 재배 면적 및 생산량 추이 (1970~2012)",
+  "title": "대한민국 쌀 재배 면적 및 생산량 추이 (1970~2012)",
+  "description": "농림축산식품부 통계를 바탕으로 한 1970년부터 2012년까지 대한민국 쌀 재배 면적(천ha), 생산량(천톤), 10a당 생산량(kg) 추이입니다.",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/쌀",
+  "source_url": "https://ko.wikipedia.org/wiki/쌀",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "area_1000ha",
+      "label": "Area 1000ha",
+      "type": "string"
+    },
+    {
+      "key": "production_1000t",
+      "label": "Production 1000t",
+      "type": "string"
+    },
+    {
+      "key": "yield_kg_per_10a",
+      "label": "Yield Kg Per 10a",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1970년",
+      "area_1000ha": "1,203",
+      "production_1000t": "3,939",
+      "yield_kg_per_10a": "330"
+    },
+    {
+      "year": "1975년",
+      "area_1000ha": "1,218",
+      "production_1000t": "4,669",
+      "yield_kg_per_10a": "386"
+    },
+    {
+      "year": "1980년",
+      "area_1000ha": "1,233",
+      "production_1000t": "3,550",
+      "yield_kg_per_10a": "289"
+    },
+    {
+      "year": "1985년",
+      "area_1000ha": "1,237",
+      "production_1000t": "5,626",
+      "yield_kg_per_10a": "456"
+    },
+    {
+      "year": "1990년",
+      "area_1000ha": "1,244",
+      "production_1000t": "5,606",
+      "yield_kg_per_10a": "451"
+    },
+    {
+      "year": "1995년",
+      "area_1000ha": "1,056",
+      "production_1000t": "4,695",
+      "yield_kg_per_10a": "445"
+    },
+    {
+      "year": "1999년",
+      "area_1000ha": "1,066",
+      "production_1000t": "5,263",
+      "yield_kg_per_10a": "494"
+    },
+    {
+      "year": "2000년",
+      "area_1000ha": "1,072",
+      "production_1000t": "5,291",
+      "yield_kg_per_10a": "497"
+    },
+    {
+      "year": "2001년",
+      "area_1000ha": "1,083",
+      "production_1000t": "5,515",
+      "yield_kg_per_10a": "516"
+    },
+    {
+      "year": "2002년",
+      "area_1000ha": "1,053",
+      "production_1000t": "4,927",
+      "yield_kg_per_10a": "471"
+    },
+    {
+      "year": "2003년",
+      "area_1000ha": "1,016",
+      "production_1000t": "4,451",
+      "yield_kg_per_10a": "441"
+    },
+    {
+      "year": "2004년",
+      "area_1000ha": "1,001",
+      "production_1000t": "5,000",
+      "yield_kg_per_10a": "504"
+    },
+    {
+      "year": "2005년",
+      "area_1000ha": "980",
+      "production_1000t": "4,768",
+      "yield_kg_per_10a": "490"
+    },
+    {
+      "year": "2006년",
+      "area_1000ha": "955",
+      "production_1000t": "4,680",
+      "yield_kg_per_10a": "493"
+    },
+    {
+      "year": "2007년",
+      "area_1000ha": "950",
+      "production_1000t": "4,408",
+      "yield_kg_per_10a": "466"
+    },
+    {
+      "year": "2008년",
+      "area_1000ha": "936",
+      "production_1000t": "4,843",
+      "yield_kg_per_10a": "520"
+    },
+    {
+      "year": "2009년",
+      "area_1000ha": "924",
+      "production_1000t": "4,916",
+      "yield_kg_per_10a": "534"
+    },
+    {
+      "year": "2010년",
+      "area_1000ha": "892",
+      "production_1000t": "4,295",
+      "yield_kg_per_10a": "483"
+    },
+    {
+      "year": "2011년",
+      "area_1000ha": "854",
+      "production_1000t": "4,224",
+      "yield_kg_per_10a": "496"
+    },
+    {
+      "year": "2012년",
+      "area_1000ha": "849",
+      "production_1000t": "4,006",
+      "yield_kg_per_10a": "473"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 쌀 재배 면적 및 생산량 추이 (1970~2012) - Free Download",
+    "description": "농림축산식품부 통계를 바탕으로 한 1970년부터 2012년까지 대한민국 쌀 재배 면적(천ha), 생산량(천톤), 10a당 생산량(kg) 추이입니다. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 쌀 재배 면적 및 생산량 추이 (1970~2012) | ListBase",
+    "seo_description": "Download 대한민국 쌀 재배 면적 및 생산량 추이 (1970~2012) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/쌀"
+    ]
+  }
+}

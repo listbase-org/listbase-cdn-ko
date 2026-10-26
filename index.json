@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:15.741Z",
-  "total_datasets": 503,
-  "total_records": 452218,
+  "generated": "2026-10-26T02:21:18.171Z",
+  "total_datasets": 504,
+  "total_records": 452238,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -258,6 +258,31 @@
         "xlsx": {
           "name": "ko-nongnim-janggwan_KO.xlsx",
           "size": 10108
+        }
+      }
+    },
+    {
+      "id": "ko-ssal-saengsan-chui",
+      "name": "대한민국 쌀 재배 면적 및 생산량 추이 (1970~2012)",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "year",
+        "area_1000ha",
+        "production_1000t",
+        "yield_kg_per_10a"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/쌀",
+      "updated": "2026-10",
+      "size": 4473,
+      "files": {
+        "csv": {
+          "name": "ko-ssal-saengsan-chui_KO.csv",
+          "size": 685
+        },
+        "xlsx": {
+          "name": "ko-ssal-saengsan-chui_KO.xlsx",
+          "size": 7417
         }
       }
     },
