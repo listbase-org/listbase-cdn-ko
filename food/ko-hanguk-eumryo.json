@@ -1,0 +1,236 @@
+{
+  "id": "ko-hanguk-eumryo",
+  "name": "한국의 음료 목록",
+  "title": "한국의 음료 목록",
+  "description": "전통주·맥주·차·커피·현대 음료 등 한국의 대표 음료 목록입니다.",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/한국의_음료_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_음료_목록",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "술",
+      "name": "백세주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "벌떡주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "청주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "소곡주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "법주",
+      "description": "경주시 의 전통주"
+    },
+    {
+      "category": "술",
+      "name": "두견주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "계피주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "인삼주",
+      "description": "인삼 으로 만든 술"
+    },
+    {
+      "category": "술",
+      "name": "K-술",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "문배주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "감와인",
+      "description": "대구광역시 의 술"
+    },
+    {
+      "category": "술",
+      "name": "소주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "하이트진로",
+      "description": "소주 브랜드"
+    },
+    {
+      "category": "술",
+      "name": "약주",
+      "description": ""
+    },
+    {
+      "category": "술",
+      "name": "탁주",
+      "description": "막걸리"
+    },
+    {
+      "category": "맥주",
+      "name": "하이트",
+      "description": ""
+    },
+    {
+      "category": "맥주",
+      "name": "OB 맥주",
+      "description": ""
+    },
+    {
+      "category": "맥주",
+      "name": "대동강맥주",
+      "description": "조선민주주의인민공화국의 맥주"
+    },
+    {
+      "category": "차",
+      "name": "보리차",
+      "description": ""
+    },
+    {
+      "category": "차",
+      "name": "녹차",
+      "description": ""
+    },
+    {
+      "category": "차",
+      "name": "옥수수차",
+      "description": ""
+    },
+    {
+      "category": "차",
+      "name": "숭늉",
+      "description": ""
+    },
+    {
+      "category": "차",
+      "name": "율무차",
+      "description": ""
+    },
+    {
+      "category": "커피",
+      "name": "맥심",
+      "description": ""
+    },
+    {
+      "category": "기타",
+      "name": "오감차",
+      "description": ""
+    },
+    {
+      "category": "기타",
+      "name": "식혜",
+      "description": ""
+    },
+    {
+      "category": "기타",
+      "name": "솔의눈",
+      "description": ""
+    },
+    {
+      "category": "기타",
+      "name": "수정과",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "815 콜라",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "식혜",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "아침햇살",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "박카스디",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "바나나맛 우유",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "롯데칠성",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "두유",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "맥콜",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "밀키스",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "쌕쌕",
+      "description": ""
+    },
+    {
+      "category": "현대",
+      "name": "비타 500",
+      "description": ""
+    }
+  ],
+  "meta": {
+    "title": "한국의 음료 목록 - Free Download",
+    "description": "전통주·맥주·차·커피·현대 음료 등 한국의 대표 음료 목록입니다. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국의 음료 목록 | ListBase",
+    "seo_description": "Download 한국의 음료 목록 — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_음료_목록"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:13.203Z",
-  "total_datasets": 502,
-  "total_records": 452179,
+  "generated": "2026-10-26T02:21:15.741Z",
+  "total_datasets": 503,
+  "total_records": 452218,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "geography",
@@ -3312,6 +3312,30 @@
         "xlsx": {
           "name": "ko-gimchi-jongnyu_KO.xlsx",
           "size": 10024
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-eumryo",
+      "name": "한국의 음료 목록",
+      "category": "food",
+      "record_count": 39,
+      "columns": [
+        "category",
+        "name",
+        "description"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_음료_목록",
+      "updated": "2026-10",
+      "size": 5012,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-eumryo_KO.csv",
+          "size": 1041
+        },
+        "xlsx": {
+          "name": "ko-hanguk-eumryo_KO.xlsx",
+          "size": 7677
         }
       }
     },
