@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:24.247Z",
-  "total_datasets": 483,
-  "total_records": 450871,
+  "generated": "2026-10-26T02:20:26.724Z",
+  "total_datasets": 484,
+  "total_records": 450989,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -10608,6 +10608,40 @@
         "xlsx": {
           "name": "ko-gwahak-gisul-janggwan_KO.xlsx",
           "size": 10887
+        }
+      }
+    },
+    {
+      "id": "ko-hwahak-wonso",
+      "name": "화학 원소 목록 (한국어 원소 이름)",
+      "category": "science",
+      "record_count": 118,
+      "columns": [
+        "atomic_number",
+        "symbol",
+        "name_ko",
+        "name_en",
+        "name_latin",
+        "name_origin",
+        "group",
+        "period",
+        "atomic_weight",
+        "density_g_cm3",
+        "melting_point_k",
+        "boiling_point_k",
+        "electronegativity"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/원소_목록",
+      "updated": "2026-10",
+      "size": 54379,
+      "files": {
+        "csv": {
+          "name": "ko-hwahak-wonso_KO.csv",
+          "size": 17391
+        },
+        "xlsx": {
+          "name": "ko-hwahak-wonso_KO.xlsx",
+          "size": 20081
         }
       }
     },
