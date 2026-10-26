@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:02.856Z",
-  "total_datasets": 498,
-  "total_records": 452025,
+  "generated": "2026-10-26T02:21:05.542Z",
+  "total_datasets": 499,
+  "total_records": 452082,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -2788,6 +2788,33 @@
         "xlsx": {
           "name": "ko-sallimcheongjang_KO.xlsx",
           "size": 9282
+        }
+      }
+    },
+    {
+      "id": "ko-seupji-boho-jiyeok",
+      "name": "대한민국의 습지보호지역",
+      "category": "environment",
+      "record_count": 57,
+      "columns": [
+        "type",
+        "name",
+        "location",
+        "area_km2",
+        "features",
+        "designated"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_습지보호지역",
+      "updated": "2026-10",
+      "size": 21490,
+      "files": {
+        "csv": {
+          "name": "ko-seupji-boho-jiyeok_KO.csv",
+          "size": 12821
+        },
+        "xlsx": {
+          "name": "ko-seupji-boho-jiyeok_KO.xlsx",
+          "size": 12505
         }
       }
     },
