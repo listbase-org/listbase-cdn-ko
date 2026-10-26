@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:39.508Z",
-  "total_datasets": 489,
-  "total_records": 451691,
+  "generated": "2026-10-26T02:20:42.336Z",
+  "total_datasets": 490,
+  "total_records": 451764,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -7041,6 +7041,36 @@
         "xlsx": {
           "name": "ko-joseon-gugwang_KO.xlsx",
           "size": 10946
+        }
+      }
+    },
+    {
+      "id": "ko-joseon-wangbi",
+      "name": "조선의 왕비 목록",
+      "category": "history",
+      "record_count": 73,
+      "columns": [
+        "no",
+        "king",
+        "queen",
+        "full_posthumous_name",
+        "alias",
+        "clan",
+        "reign_start",
+        "reign_end",
+        "tomb"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/조선의_왕비_목록",
+      "updated": "2026-10",
+      "size": 34679,
+      "files": {
+        "csv": {
+          "name": "ko-joseon-wangbi_KO.csv",
+          "size": 20023
+        },
+        "xlsx": {
+          "name": "ko-joseon-wangbi_KO.xlsx",
+          "size": 14909
         }
       }
     },
