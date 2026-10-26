@@ -1,0 +1,166 @@
+{
+  "id": "ko-oeraeeo-eowon",
+  "name": "한국어의 외래어 어원 (산스크리트어·몽골어·만주어 차용어)",
+  "title": "한국어의 외래어 어원 (산스크리트어·몽골어·만주어 차용어)",
+  "description": "산스크리트어, 몽골어, 만주어, 일본어에서 한국어로 들어온 차용어와 원어 형태 목록입니다.",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/한국어의_외래어",
+  "source_url": "https://ko.wikipedia.org/wiki/한국어의_외래어",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "source_language",
+      "label": "Source Language",
+      "type": "string"
+    },
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "source_form",
+      "label": "Source Form",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "source_language": "산스크리트어",
+      "word": "가사",
+      "source_form": "काषाय"
+    },
+    {
+      "source_language": "산스크리트어",
+      "word": "나락",
+      "source_form": "नरक"
+    },
+    {
+      "source_language": "산스크리트어",
+      "word": "사리",
+      "source_form": "शरीर"
+    },
+    {
+      "source_language": "산스크리트어",
+      "word": "삼매",
+      "source_form": "समाधि"
+    },
+    {
+      "source_language": "산스크리트어",
+      "word": "바리",
+      "source_form": "< 缽 + -이 < पात्र + -이"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "갈지개",
+      "source_form": "qarciqai"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "더그레",
+      "source_form": "degelei(ᠲ᠋‍ᠠ‍ᠭᠡ᠊ᠯ‍ᠠ‍᠊ᠢ)"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "송골",
+      "source_form": "šongqor(ᠱᠣᠩᠬᠤᠷ)· šingqor"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "수라",
+      "source_form": "šülen"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "악대",
+      "source_form": "aqta"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "업진",
+      "source_form": "ebči’ün(ᠡᠪᠴᠢᠭᠦᠨ)"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "오늬",
+      "source_form": "onu·oni"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "절따",
+      "source_form": "je’erde"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "철릭",
+      "source_form": "terlig(ᠲ᠋‍ᠠ‍᠊ᠷ᠊ᠯ᠊ᠢ᠊᠊ᠢ᠊ᠡ᠋)"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "솔(과녁)",
+      "source_form": "sur"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "고두리",
+      "source_form": "qodoli"
+    },
+    {
+      "source_language": "몽골어",
+      "word": "가리온",
+      "source_form": "qali’un"
+    },
+    {
+      "source_language": "만주어",
+      "word": "야사(눈[眼])",
+      "source_form": "yasa"
+    },
+    {
+      "source_language": "만주어",
+      "word": "얘리(물고기)",
+      "source_form": "yaru"
+    },
+    {
+      "source_language": "만주어",
+      "word": "토하리 또는 톼(불)",
+      "source_form": "tuwa(규범형)/towa(비규범형)"
+    },
+    {
+      "source_language": "만주어",
+      "word": "우케(물)",
+      "source_form": "muke"
+    },
+    {
+      "source_language": "만주어",
+      "word": "썩캐(담비)",
+      "source_form": "seke"
+    },
+    {
+      "source_language": "만주어",
+      "word": "너페 또는 너피 (곰)",
+      "source_form": "lefu"
+    },
+    {
+      "source_language": "만주어",
+      "word": "살피(숟가락)",
+      "source_form": "saifi"
+    },
+    {
+      "source_language": "일본어",
+      "word": "가께수리(금고의 일종)",
+      "source_form": "かけすずり"
+    }
+  ],
+  "meta": {
+    "title": "한국어의 외래어 어원 (산스크리트어·몽골어·만주어 차용어) - Free Download",
+    "description": "산스크리트어, 몽골어, 만주어, 일본어에서 한국어로 들어온 차용어와 원어 형태 목록입니다. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국어의 외래어 어원 (산스크리트어·몽골어·만주어 차용어) | ListBase",
+    "seo_description": "Download 한국어의 외래어 어원 (산스크리트어·몽골어·만주어 차용어) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국어의_외래어"
+    ]
+  }
+}

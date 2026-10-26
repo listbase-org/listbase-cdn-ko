@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:26.290Z",
-  "total_datasets": 507,
-  "total_records": 452699,
+  "generated": "2026-10-26T02:21:28.936Z",
+  "total_datasets": 508,
+  "total_records": 452724,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -7522,6 +7522,30 @@
         "xlsx": {
           "name": "ko-nara-ireum-hanja_KO.xlsx",
           "size": 16883
+        }
+      }
+    },
+    {
+      "id": "ko-oeraeeo-eowon",
+      "name": "한국어의 외래어 어원 (산스크리트어·몽골어·만주어 차용어)",
+      "category": "language",
+      "record_count": 25,
+      "columns": [
+        "source_language",
+        "word",
+        "source_form"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국어의_외래어",
+      "updated": "2026-10",
+      "size": 4775,
+      "files": {
+        "csv": {
+          "name": "ko-oeraeeo-eowon_KO.csv",
+          "size": 1210
+        },
+        "xlsx": {
+          "name": "ko-oeraeeo-eowon_KO.xlsx",
+          "size": 7716
         }
       }
     },
