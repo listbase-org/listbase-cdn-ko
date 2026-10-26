@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:50.021Z",
-  "total_datasets": 493,
-  "total_records": 451883,
+  "generated": "2026-10-26T02:20:52.567Z",
+  "total_datasets": 494,
+  "total_records": 451905,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "tech",
@@ -11251,6 +11251,32 @@
         "xlsx": {
           "name": "ko-tv-chaeneol-sports_KO.xlsx",
           "size": 9210
+        }
+      }
+    },
+    {
+      "id": "ko-vleague-yeoja-useung",
+      "name": "여자 V-리그 역대 우승팀",
+      "category": "sports",
+      "record_count": 22,
+      "columns": [
+        "season",
+        "competition",
+        "teams",
+        "champion",
+        "runner_up"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/여자_V-리그",
+      "updated": "2026-10",
+      "size": 6850,
+      "files": {
+        "csv": {
+          "name": "ko-vleague-yeoja-useung_KO.csv",
+          "size": 2939
+        },
+        "xlsx": {
+          "name": "ko-vleague-yeoja-useung_KO.xlsx",
+          "size": 7873
         }
       }
     },

@@ -1,0 +1,205 @@
+{
+  "id": "ko-vleague-yeoja-useung",
+  "name": "여자 V-리그 역대 우승팀",
+  "title": "여자 V-리그 역대 우승팀",
+  "description": "2005년 출범 이후 프로배구 여자 V-리그 시즌별 대회명, 참가 팀 수, 우승팀, 준우승팀 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/여자_V-리그",
+  "source_url": "https://ko.wikipedia.org/wiki/여자_V-리그",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "competition",
+      "label": "Competition",
+      "type": "string"
+    },
+    {
+      "key": "teams",
+      "label": "Teams",
+      "type": "string"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "2005년",
+      "competition": "KT&G 2005 V-리그",
+      "teams": "5팀",
+      "champion": "구미 한국도로공사 WVC",
+      "runner_up": "대전 KT&G WVT"
+    },
+    {
+      "season": "2005-06년",
+      "competition": "KT&G 2005-2006 V-리그",
+      "teams": "5팀",
+      "champion": "천안 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "구미 한국도로공사 WVC"
+    },
+    {
+      "season": "2006-07년",
+      "competition": "힐스테이트 2006-2007 V-리그",
+      "teams": "5팀",
+      "champion": "천안 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "구미 한국도로공사 WVC"
+    },
+    {
+      "season": "2007-08년",
+      "competition": "NH농협 2007-2008 V-리그",
+      "teams": "5팀",
+      "champion": "천안 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "대전 KT&G 아리엘즈 WPVC"
+    },
+    {
+      "season": "2008-09년",
+      "competition": "NH농협 2008-2009 V-리그",
+      "teams": "5팀",
+      "champion": "인천 GS 칼텍스 WVC",
+      "runner_up": "대전 KT&G 아리엘즈 WPVC"
+    },
+    {
+      "season": "2009-10년",
+      "competition": "NH농협 2009-2010 V-리그",
+      "teams": "5팀",
+      "champion": "수원 현대건설 힐스테이트 WVT",
+      "runner_up": "대전 KT&G 아리엘즈 WPVC"
+    },
+    {
+      "season": "2010-11년",
+      "competition": "NH농협 2010-2011 V-리그",
+      "teams": "5팀",
+      "champion": "수원 현대건설 힐스테이트 WVT",
+      "runner_up": "성남 한국도로공사 하이패스 제니스 WVT"
+    },
+    {
+      "season": "2011-12년",
+      "competition": "NH농협 2011-2012 V-리그",
+      "teams": "6팀",
+      "champion": "대전 KGC 인삼공사 WVC",
+      "runner_up": "성남 한국도로공사 하이패스 제니스 WVT"
+    },
+    {
+      "season": "2012-13년",
+      "competition": "NH농협 2012-2013 V-리그",
+      "teams": "6팀",
+      "champion": "화성 IBK 기업은행 알토스 WVC",
+      "runner_up": "구미 GS 칼텍스 킥스 WVT"
+    },
+    {
+      "season": "2013-14년",
+      "competition": "NH농협 2013-2014 V-리그",
+      "teams": "6팀",
+      "champion": "화성 IBK 기업은행 알토스 WVC",
+      "runner_up": "평택 GS 칼텍스 킥스 WVT"
+    },
+    {
+      "season": "2014-15년",
+      "competition": "NH농협 2014-2015 V-리그",
+      "teams": "6팀",
+      "champion": "성남 한국도로공사 하이패스 WVC",
+      "runner_up": "화성 IBK 기업은행 알토스 WVC"
+    },
+    {
+      "season": "2015-16년",
+      "competition": "NH농협 2015-2016 V-리그",
+      "teams": "6팀",
+      "champion": "화성 IBK 기업은행 알토스 WVC",
+      "runner_up": "수원 현대건설 힐스테이트 WVT"
+    },
+    {
+      "season": "2016-17년",
+      "competition": "NH농협 2016-2017 V-리그",
+      "teams": "6팀",
+      "champion": "인천 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "화성 IBK 기업은행 알토스 WVC"
+    },
+    {
+      "season": "2017-18년",
+      "competition": "도드람 2017-2018 V-리그",
+      "teams": "6팀",
+      "champion": "김천 한국도로공사 하이패스 WVC",
+      "runner_up": "화성 IBK 기업은행 알토스 WVC"
+    },
+    {
+      "season": "2018-19년",
+      "competition": "도드람 2018-2019 V-리그",
+      "teams": "6팀",
+      "champion": "인천 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "김천 한국도로공사 하이패스 WVC"
+    },
+    {
+      "season": "2019-20년",
+      "competition": "도드람 2019-2020 V-리그",
+      "teams": "6팀",
+      "champion": "수원 현대건설 힐스테이트 WVC",
+      "runner_up": "서울 GS 칼텍스 킥스 WVT"
+    },
+    {
+      "season": "2020-21년",
+      "competition": "도드람 2020-2021 V-리그",
+      "teams": "6팀",
+      "champion": "서울 GS 칼텍스 킥스 WVT",
+      "runner_up": "인천 흥국생명 핑크스파이더스 WVC"
+    },
+    {
+      "season": "2021-22년",
+      "competition": "도드람 2021-2022 V-리그",
+      "teams": "7팀",
+      "champion": "수원 현대건설 힐스테이트 WVC",
+      "runner_up": "김천 한국도로공사 하이패스 WVC"
+    },
+    {
+      "season": "2022-23년",
+      "competition": "도드람 2022-2023 V-리그",
+      "teams": "7팀",
+      "champion": "인천 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "수원 현대건설 힐스테이트 WVC"
+    },
+    {
+      "season": "2023-24년",
+      "competition": "도드람 2023-2024 V-리그",
+      "teams": "7팀",
+      "champion": "수원 현대건설 힐스테이트 WVC",
+      "runner_up": "인천 흥국생명 핑크스파이더스 WVC"
+    },
+    {
+      "season": "2024-25년",
+      "competition": "도드람 2024-2025 V-리그",
+      "teams": "7팀",
+      "champion": "인천 흥국생명 핑크스파이더스 WVC",
+      "runner_up": "수원 현대건설 힐스테이트 WVC"
+    },
+    {
+      "season": "2025-26년",
+      "competition": "진에어 2025-2026 V-리그",
+      "teams": "7팀",
+      "champion": "김천 한국도로공사 하이패스 WVC",
+      "runner_up": "수원 현대건설 힐스테이트 WVC"
+    }
+  ],
+  "meta": {
+    "title": "여자 V-리그 역대 우승팀 - Free Download",
+    "description": "2005년 출범 이후 프로배구 여자 V-리그 시즌별 대회명, 참가 팀 수, 우승팀, 준우승팀 목록입니다. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "여자 V-리그 역대 우승팀 | ListBase",
+    "seo_description": "Download 여자 V-리그 역대 우승팀 — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/여자_V-리그"
+    ]
+  }
+}
