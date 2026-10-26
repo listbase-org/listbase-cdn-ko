@@ -1,0 +1,170 @@
+{
+  "id": "ko-vleague-yeoja-mvp",
+  "name": "여자 V-리그 역대 MVP",
+  "title": "여자 V-리그 역대 MVP",
+  "description": "프로배구 여자 V-리그 시즌별 정규리그 MVP와 챔피언결정전 MVP 수상자 및 소속팀 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/V-리그_(대한민국)",
+  "source_url": "https://ko.wikipedia.org/wiki/V-리그_(대한민국)",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "regular_mvp",
+      "label": "Regular Mvp",
+      "type": "string"
+    },
+    {
+      "key": "regular_mvp_team",
+      "label": "Regular Mvp Team",
+      "type": "string"
+    },
+    {
+      "key": "final_mvp",
+      "label": "Final Mvp",
+      "type": "string"
+    },
+    {
+      "key": "final_mvp_team",
+      "label": "Final Mvp Team",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "2005",
+      "regular_mvp": "정대영",
+      "regular_mvp_team": "현대건설",
+      "final_mvp": "최광희",
+      "final_mvp_team": "KT&G"
+    },
+    {
+      "season": "2005-06",
+      "regular_mvp": "김연경",
+      "regular_mvp_team": "흥국생명",
+      "final_mvp": "김연경",
+      "final_mvp_team": "흥국생명"
+    },
+    {
+      "season": "2006-07",
+      "regular_mvp": "김연경",
+      "regular_mvp_team": "흥국생명",
+      "final_mvp": "김연경",
+      "final_mvp_team": "흥국생명"
+    },
+    {
+      "season": "2007-08",
+      "regular_mvp": "김연경",
+      "regular_mvp_team": "흥국생명",
+      "final_mvp": "정대영",
+      "final_mvp_team": "GS칼텍스"
+    },
+    {
+      "season": "2008-09",
+      "regular_mvp": "데라크루즈",
+      "regular_mvp_team": "GS칼텍스",
+      "final_mvp": "김연경",
+      "final_mvp_team": "흥국생명"
+    },
+    {
+      "season": "2009-10",
+      "regular_mvp": "케니",
+      "regular_mvp_team": "현대건설",
+      "final_mvp": "몬타뇨",
+      "final_mvp_team": "KT&G"
+    },
+    {
+      "season": "2010-11",
+      "regular_mvp": "황연주",
+      "regular_mvp_team": "현대건설",
+      "final_mvp": "황연주",
+      "final_mvp_team": "현대건설"
+    },
+    {
+      "season": "2011-12",
+      "regular_mvp": "몬타뇨",
+      "regular_mvp_team": "KGC인삼공사",
+      "final_mvp": "몬타뇨",
+      "final_mvp_team": "KGC인삼공사"
+    },
+    {
+      "season": "2012-13",
+      "regular_mvp": "알레시아",
+      "regular_mvp_team": "IBK기업은행",
+      "final_mvp": "알레시아",
+      "final_mvp_team": "IBK기업은행"
+    },
+    {
+      "season": "2013-14",
+      "regular_mvp": "이효희",
+      "regular_mvp_team": "IBK기업은행",
+      "final_mvp": "베띠",
+      "final_mvp_team": "GS칼텍스"
+    },
+    {
+      "season": "2014-15",
+      "regular_mvp": "이효희 니콜",
+      "regular_mvp_team": "한국도로공사",
+      "final_mvp": "김사니",
+      "final_mvp_team": "IBK기업은행"
+    },
+    {
+      "season": "2015-16",
+      "regular_mvp": "맥마흔",
+      "regular_mvp_team": "IBK기업은행",
+      "final_mvp": "양효진",
+      "final_mvp_team": "현대건설"
+    },
+    {
+      "season": "2016-17",
+      "regular_mvp": "이재영",
+      "regular_mvp_team": "흥국생명",
+      "final_mvp": "리쉘",
+      "final_mvp_team": "IBK기업은행"
+    },
+    {
+      "season": "2017-18",
+      "regular_mvp": "이바나",
+      "regular_mvp_team": "한국도로공사",
+      "final_mvp": "박정아",
+      "final_mvp_team": "한국도로공사"
+    },
+    {
+      "season": "2018-19",
+      "regular_mvp": "이재영",
+      "regular_mvp_team": "흥국생명",
+      "final_mvp": "이재영",
+      "final_mvp_team": "흥국생명"
+    },
+    {
+      "season": "2019-20",
+      "regular_mvp": "양효진",
+      "regular_mvp_team": "현대건설",
+      "final_mvp": "코로나-19 미개최",
+      "final_mvp_team": "코로나-19 미개최"
+    },
+    {
+      "season": "2020-21",
+      "regular_mvp": "김연경",
+      "regular_mvp_team": "흥국생명",
+      "final_mvp": "러츠 이소영",
+      "final_mvp_team": "GS 칼텍스"
+    }
+  ],
+  "meta": {
+    "title": "여자 V-리그 역대 MVP - Free Download",
+    "description": "프로배구 여자 V-리그 시즌별 정규리그 MVP와 챔피언결정전 MVP 수상자 및 소속팀 목록입니다. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "여자 V-리그 역대 MVP | ListBase",
+    "seo_description": "Download 여자 V-리그 역대 MVP — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/V-리그_(대한민국)"
+    ]
+  }
+}

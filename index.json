@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:52.567Z",
-  "total_datasets": 494,
-  "total_records": 451905,
+  "generated": "2026-10-26T02:20:54.976Z",
+  "total_datasets": 495,
+  "total_records": 451922,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "tech",
@@ -11251,6 +11251,32 @@
         "xlsx": {
           "name": "ko-tv-chaeneol-sports_KO.xlsx",
           "size": 9210
+        }
+      }
+    },
+    {
+      "id": "ko-vleague-yeoja-mvp",
+      "name": "여자 V-리그 역대 MVP",
+      "category": "sports",
+      "record_count": 17,
+      "columns": [
+        "season",
+        "regular_mvp",
+        "regular_mvp_team",
+        "final_mvp",
+        "final_mvp_team"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/V-리그_(대한민국)",
+      "updated": "2026-10",
+      "size": 4887,
+      "files": {
+        "csv": {
+          "name": "ko-vleague-yeoja-mvp_KO.csv",
+          "size": 1221
+        },
+        "xlsx": {
+          "name": "ko-vleague-yeoja-mvp_KO.xlsx",
+          "size": 7567
         }
       }
     },
