@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:29.353Z",
-  "total_datasets": 485,
-  "total_records": 451039,
+  "generated": "2026-10-26T02:20:32.003Z",
+  "total_datasets": 486,
+  "total_records": 451236,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -10722,6 +10722,33 @@
         "xlsx": {
           "name": "ko-myeoljong-wigijong_KO.xlsx",
           "size": 11312
+        }
+      }
+    },
+    {
+      "id": "ko-chegu-oegugin-gukjeok",
+      "name": "대한민국 체류 외국인 국적별 현황 (2025년 3월)",
+      "category": "society",
+      "record_count": 197,
+      "columns": [
+        "rank",
+        "nationality",
+        "total",
+        "male",
+        "female",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_내_외국인_현황",
+      "updated": "2026-10",
+      "size": 30922,
+      "files": {
+        "csv": {
+          "name": "ko-chegu-oegugin-gukjeok_KO.csv",
+          "size": 8182
+        },
+        "xlsx": {
+          "name": "ko-chegu-oegugin-gukjeok_KO.xlsx",
+          "size": 14940
         }
       }
     },

@@ -1,0 +1,1632 @@
+{
+  "id": "ko-chegu-oegugin-gukjeok",
+  "name": "대한민국 체류 외국인 국적별 현황 (2025년 3월)",
+  "title": "대한민국 체류 외국인 국적별 현황 (2025년 3월)",
+  "description": "2025년 3월 기준 대한민국에 체류하는 외국인의 국적별 순위와 총계·남성·여성 인구 수 목록입니다.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_내_외국인_현황",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_내_외국인_현황",
+  "updated": "2026-10",
+  "record_count": 197,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "nationality",
+      "label": "Nationality",
+      "type": "string"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    },
+    {
+      "key": "male",
+      "label": "Male",
+      "type": "number"
+    },
+    {
+      "key": "female",
+      "label": "Female",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "nationality": "중국",
+      "total": 973081,
+      "male": 477768,
+      "female": 495313,
+      "note": "조선족 : 645,740 / 비조선족 : 327,341"
+    },
+    {
+      "rank": "2",
+      "nationality": "베트남",
+      "total": 323661,
+      "male": 171224,
+      "female": 152437,
+      "note": ""
+    },
+    {
+      "rank": "3",
+      "nationality": "미국",
+      "total": 184289,
+      "male": 101651,
+      "female": 82627,
+      "note": ""
+    },
+    {
+      "rank": "4",
+      "nationality": "태국",
+      "total": 181842,
+      "male": 84910,
+      "female": 96932,
+      "note": ""
+    },
+    {
+      "rank": "5",
+      "nationality": "우즈베키스탄",
+      "total": 97899,
+      "male": 64622,
+      "female": 33277,
+      "note": ""
+    },
+    {
+      "rank": "6",
+      "nationality": "네팔",
+      "total": 81347,
+      "male": 65642,
+      "female": 15705,
+      "note": ""
+    },
+    {
+      "rank": "7",
+      "nationality": "인도네시아",
+      "total": 75734,
+      "male": 61650,
+      "female": 14084,
+      "note": ""
+    },
+    {
+      "rank": "8",
+      "nationality": "러시아",
+      "total": 71464,
+      "male": 36379,
+      "female": 35085,
+      "note": "고려인 : 35,952 / 비고려인 : 35,512"
+    },
+    {
+      "rank": "9",
+      "nationality": "필리핀",
+      "total": 68911,
+      "male": 38060,
+      "female": 30851,
+      "note": ""
+    },
+    {
+      "rank": "10",
+      "nationality": "캄보디아",
+      "total": 65339,
+      "male": 44870,
+      "female": 20469,
+      "note": ""
+    },
+    {
+      "rank": "11",
+      "nationality": "몽골",
+      "total": 57534,
+      "male": 26192,
+      "female": 31342,
+      "note": ""
+    },
+    {
+      "rank": "12",
+      "nationality": "일본",
+      "total": 55736,
+      "male": 13828,
+      "female": 41908,
+      "note": ""
+    },
+    {
+      "rank": "13",
+      "nationality": "미얀마",
+      "total": 55016,
+      "male": 29816,
+      "female": 3459,
+      "note": ""
+    },
+    {
+      "rank": "14",
+      "nationality": "카자흐스탄",
+      "total": 45083,
+      "male": 24312,
+      "female": 20771,
+      "note": ""
+    },
+    {
+      "rank": "15",
+      "nationality": "타이완",
+      "total": 42356,
+      "male": 15786,
+      "female": 26570,
+      "note": ""
+    },
+    {
+      "rank": "16",
+      "nationality": "스리랑카",
+      "total": 36691,
+      "male": 32775,
+      "female": 3916,
+      "note": ""
+    },
+    {
+      "rank": "17",
+      "nationality": "방글라데시",
+      "total": 32373,
+      "male": 27490,
+      "female": 4883,
+      "note": ""
+    },
+    {
+      "rank": "18",
+      "nationality": "캐나다",
+      "total": 30468,
+      "male": 14012,
+      "female": 16456,
+      "note": ""
+    },
+    {
+      "rank": "19",
+      "nationality": "파키스탄",
+      "total": 18694,
+      "male": 15442,
+      "female": "3.252",
+      "note": ""
+    },
+    {
+      "rank": "20",
+      "nationality": "인도",
+      "total": 18366,
+      "male": 12619,
+      "female": 5747,
+      "note": ""
+    },
+    {
+      "rank": "21",
+      "nationality": "말레이시아",
+      "total": 16731,
+      "male": 8007,
+      "female": 8724,
+      "note": ""
+    },
+    {
+      "rank": "22",
+      "nationality": "오스트레일리아",
+      "total": 15036,
+      "male": 6961,
+      "female": 8075,
+      "note": ""
+    },
+    {
+      "rank": "23",
+      "nationality": "라오스",
+      "total": 12291,
+      "male": 7426,
+      "female": 4865,
+      "note": ""
+    },
+    {
+      "rank": "24",
+      "nationality": "키르기스스탄",
+      "total": 12071,
+      "male": 7150,
+      "female": 4921,
+      "note": ""
+    },
+    {
+      "rank": "25",
+      "nationality": "프랑스",
+      "total": 10666,
+      "male": 4927,
+      "female": 5739,
+      "note": ""
+    },
+    {
+      "rank": "26",
+      "nationality": "싱가포르",
+      "total": 10114,
+      "male": 3717,
+      "female": 6397,
+      "note": ""
+    },
+    {
+      "rank": "27",
+      "nationality": "홍콩",
+      "total": 9028,
+      "male": 2562,
+      "female": 6466,
+      "note": ""
+    },
+    {
+      "rank": "28",
+      "nationality": "독일",
+      "total": 8540,
+      "male": 3917,
+      "female": 4622,
+      "note": ""
+    },
+    {
+      "rank": "29",
+      "nationality": "영국",
+      "total": 8344,
+      "male": 4577,
+      "female": 3767,
+      "note": ""
+    },
+    {
+      "rank": "30",
+      "nationality": "튀르키예",
+      "total": 5661,
+      "male": 3106,
+      "female": 2555,
+      "note": ""
+    },
+    {
+      "rank": "31",
+      "nationality": "우크라이나",
+      "total": 5319,
+      "male": 2271,
+      "female": 3048,
+      "note": ""
+    },
+    {
+      "rank": "32",
+      "nationality": "남아프리카 공화국",
+      "total": 5274,
+      "male": 1671,
+      "female": 3603,
+      "note": ""
+    },
+    {
+      "rank": "33",
+      "nationality": "뉴질랜드",
+      "total": 4904,
+      "male": 2557,
+      "female": 2347,
+      "note": ""
+    },
+    {
+      "rank": "34",
+      "nationality": "동티모르",
+      "total": 4645,
+      "male": 4501,
+      "female": 144,
+      "note": ""
+    },
+    {
+      "rank": "35",
+      "nationality": "브라질",
+      "total": 3426,
+      "male": 1503,
+      "female": 1923,
+      "note": ""
+    },
+    {
+      "rank": "36",
+      "nationality": "이집트",
+      "total": 3202,
+      "male": 2434,
+      "female": 768,
+      "note": ""
+    },
+    {
+      "rank": "37",
+      "nationality": "이탈리아",
+      "total": 3139,
+      "male": 1324,
+      "female": 1815,
+      "note": ""
+    },
+    {
+      "rank": "38",
+      "nationality": "나이지리아",
+      "total": 2988,
+      "male": 2263,
+      "female": 725,
+      "note": ""
+    },
+    {
+      "rank": "39",
+      "nationality": "타지키스탄",
+      "total": 2961,
+      "male": 2248,
+      "female": 713,
+      "note": ""
+    },
+    {
+      "rank": "40",
+      "nationality": "스페인",
+      "total": 2648,
+      "male": 1184,
+      "female": 1464,
+      "note": ""
+    },
+    {
+      "rank": "41",
+      "nationality": "멕시코",
+      "total": 2365,
+      "male": 845,
+      "female": 1520,
+      "note": ""
+    },
+    {
+      "rank": "42",
+      "nationality": "이란",
+      "total": 2177,
+      "male": 1307,
+      "female": 870,
+      "note": ""
+    },
+    {
+      "rank": "43",
+      "nationality": "네덜란드",
+      "total": 2136,
+      "male": 1106,
+      "female": 1030,
+      "note": ""
+    },
+    {
+      "rank": "44",
+      "nationality": "시리아",
+      "total": 1958,
+      "male": 1320,
+      "female": 638,
+      "note": ""
+    },
+    {
+      "rank": "45",
+      "nationality": "모로코",
+      "total": 1929,
+      "male": 798,
+      "female": 1131,
+      "note": ""
+    },
+    {
+      "rank": "46",
+      "nationality": "폴란드",
+      "total": 1866,
+      "male": 721,
+      "female": 1145,
+      "note": ""
+    },
+    {
+      "rank": "47",
+      "nationality": "가나",
+      "total": 1668,
+      "male": 1384,
+      "female": 284,
+      "note": ""
+    },
+    {
+      "rank": "48",
+      "nationality": "사우디아라비아",
+      "total": 1624,
+      "male": 809,
+      "female": 815,
+      "note": ""
+    },
+    {
+      "rank": "49",
+      "nationality": "에티오피아",
+      "total": 1556,
+      "male": 969,
+      "female": 587,
+      "note": ""
+    },
+    {
+      "rank": "50",
+      "nationality": "스웨덴",
+      "total": 1321,
+      "male": 642,
+      "female": 679,
+      "note": ""
+    },
+    {
+      "rank": "51",
+      "nationality": "스위스",
+      "total": 1299,
+      "male": 588,
+      "female": 711,
+      "note": ""
+    },
+    {
+      "rank": "52",
+      "nationality": "예멘",
+      "total": 1256,
+      "male": 947,
+      "female": 309,
+      "note": ""
+    },
+    {
+      "rank": "53",
+      "nationality": "투르크메니스탄",
+      "total": 1239,
+      "male": 730,
+      "female": 509,
+      "note": ""
+    },
+    {
+      "rank": "54",
+      "nationality": "콜롬비아",
+      "total": 1077,
+      "male": 392,
+      "female": 685,
+      "note": ""
+    },
+    {
+      "rank": "55",
+      "nationality": "벨기에",
+      "total": 1074,
+      "male": 511,
+      "female": 563,
+      "note": ""
+    },
+    {
+      "rank": "56",
+      "nationality": "페루",
+      "total": 1031,
+      "male": 467,
+      "female": 564,
+      "note": ""
+    },
+    {
+      "rank": "57",
+      "nationality": "이스라엘",
+      "total": 1022,
+      "male": 467,
+      "female": 555,
+      "note": ""
+    },
+    {
+      "rank": "58",
+      "nationality": "리비아",
+      "total": 962,
+      "male": 731,
+      "female": 231,
+      "note": ""
+    },
+    {
+      "rank": "59",
+      "nationality": "아프가니스탄",
+      "total": 947,
+      "male": 585,
+      "female": 362,
+      "note": ""
+    },
+    {
+      "rank": "60",
+      "nationality": "아일랜드",
+      "total": 925,
+      "male": 552,
+      "female": 373,
+      "note": ""
+    },
+    {
+      "rank": "61",
+      "nationality": "루마니아",
+      "total": 894,
+      "male": 333,
+      "female": 561,
+      "note": ""
+    },
+    {
+      "rank": "62",
+      "nationality": "아르헨티나",
+      "total": 855,
+      "male": 372,
+      "female": 483,
+      "note": ""
+    },
+    {
+      "rank": "63",
+      "nationality": "덴마크",
+      "total": 851,
+      "male": 442,
+      "female": 409,
+      "note": ""
+    },
+    {
+      "rank": "64",
+      "nationality": "카메룬",
+      "total": 813,
+      "male": 510,
+      "female": 303,
+      "note": ""
+    },
+    {
+      "rank": "65",
+      "nationality": "노르웨이",
+      "total": 774,
+      "male": 357,
+      "female": 417,
+      "note": "본토 : 773 / 스발바르 제도 : 1"
+    },
+    {
+      "rank": "66",
+      "nationality": "오스트리아",
+      "total": 765,
+      "male": 347,
+      "female": 418,
+      "note": ""
+    },
+    {
+      "rank": "67",
+      "nationality": "이라크",
+      "total": 743,
+      "male": 531,
+      "female": 212,
+      "note": ""
+    },
+    {
+      "rank": "68",
+      "nationality": "케냐",
+      "total": 730,
+      "male": 423,
+      "female": 307,
+      "note": ""
+    },
+    {
+      "rank": "69",
+      "nationality": "요르단",
+      "total": 702,
+      "male": 460,
+      "female": 242,
+      "note": ""
+    },
+    {
+      "rank": "70",
+      "nationality": "마카오",
+      "total": 693,
+      "male": 180,
+      "female": 513,
+      "note": ""
+    },
+    {
+      "rank": "71",
+      "nationality": "아랍에미리트",
+      "total": 656,
+      "male": 306,
+      "female": 350,
+      "note": ""
+    },
+    {
+      "rank": "72",
+      "nationality": "우간다",
+      "total": 655,
+      "male": 414,
+      "female": 241,
+      "note": ""
+    },
+    {
+      "rank": "73",
+      "nationality": "르완다",
+      "total": 650,
+      "male": 430,
+      "female": 220,
+      "note": ""
+    },
+    {
+      "rank": "74",
+      "nationality": "핀란드",
+      "total": 648,
+      "male": 266,
+      "female": 382,
+      "note": ""
+    },
+    {
+      "rank": "75",
+      "nationality": "탄자니아",
+      "total": 626,
+      "male": 335,
+      "female": 138,
+      "note": ""
+    },
+    {
+      "rank": "76",
+      "nationality": "부룬디",
+      "total": 617,
+      "male": 485,
+      "female": 132,
+      "note": ""
+    },
+    {
+      "rank": "77",
+      "nationality": "칠레",
+      "total": 608,
+      "male": 198,
+      "female": 410,
+      "note": ""
+    },
+    {
+      "rank": "78",
+      "nationality": "그리스",
+      "total": 571,
+      "male": 295,
+      "female": 276,
+      "note": ""
+    },
+    {
+      "rank": "79",
+      "nationality": "알제리",
+      "total": 566,
+      "male": 350,
+      "female": 216,
+      "note": ""
+    },
+    {
+      "rank": "80",
+      "nationality": "포르투갈",
+      "total": 546,
+      "male": 267,
+      "female": 279,
+      "note": ""
+    },
+    {
+      "rank": "81",
+      "nationality": "아제르바이잔",
+      "total": 539,
+      "male": 262,
+      "female": 277,
+      "note": ""
+    },
+    {
+      "rank": "82",
+      "nationality": "라이베리아",
+      "total": 524,
+      "male": 359,
+      "female": 165,
+      "note": ""
+    },
+    {
+      "rank": "83",
+      "nationality": "헝가리",
+      "total": 519,
+      "male": 175,
+      "female": 344,
+      "note": ""
+    },
+    {
+      "rank": "84",
+      "nationality": "벨라루스",
+      "total": 492,
+      "male": 126,
+      "female": 366,
+      "note": ""
+    },
+    {
+      "rank": "85",
+      "nationality": "에콰도르",
+      "total": 486,
+      "male": 239,
+      "female": 247,
+      "note": ""
+    },
+    {
+      "rank": "86",
+      "nationality": "불가리아",
+      "total": 478,
+      "male": 193,
+      "female": 285,
+      "note": ""
+    },
+    {
+      "rank": "87",
+      "nationality": "체코",
+      "total": 462,
+      "male": 204,
+      "female": 258,
+      "note": ""
+    },
+    {
+      "rank": "88",
+      "nationality": "튀니지",
+      "total": 449,
+      "male": 452,
+      "female": 174,
+      "note": ""
+    },
+    {
+      "rank": "89",
+      "nationality": "콩고 민주 공화국",
+      "total": 413,
+      "male": 250,
+      "female": 163,
+      "note": ""
+    },
+    {
+      "rank": "90",
+      "nationality": "수단",
+      "total": 386,
+      "male": 276,
+      "female": 110,
+      "note": ""
+    },
+    {
+      "rank": "91",
+      "nationality": "세네갈",
+      "total": 321,
+      "male": 247,
+      "female": 74,
+      "note": ""
+    },
+    {
+      "rank": "92",
+      "nationality": "리투아니아",
+      "total": 319,
+      "male": 139,
+      "female": 180,
+      "note": ""
+    },
+    {
+      "rank": "93",
+      "nationality": "브루나이",
+      "total": 309,
+      "male": 102,
+      "female": 207,
+      "note": ""
+    },
+    {
+      "rank": "94",
+      "nationality": "베네수엘라",
+      "total": 272,
+      "male": 92,
+      "female": 180,
+      "note": ""
+    },
+    {
+      "rank": "95",
+      "nationality": "말리",
+      "total": 252,
+      "male": 215,
+      "female": 37,
+      "note": ""
+    },
+    {
+      "rank": "95",
+      "nationality": "코트디부아르",
+      "total": 252,
+      "male": 167,
+      "female": 85,
+      "note": ""
+    },
+    {
+      "rank": "97",
+      "nationality": "기니",
+      "total": 248,
+      "male": 192,
+      "female": 56,
+      "note": ""
+    },
+    {
+      "rank": "98",
+      "nationality": "파라과이",
+      "total": 242,
+      "male": 104,
+      "female": 138,
+      "note": ""
+    },
+    {
+      "rank": "99",
+      "nationality": "쿠웨이트",
+      "total": 237,
+      "male": 99,
+      "female": 138,
+      "note": ""
+    },
+    {
+      "rank": "100",
+      "nationality": "코스타리카",
+      "total": 233,
+      "male": 84,
+      "female": 149,
+      "note": ""
+    },
+    {
+      "rank": "101",
+      "nationality": "슬로바키아",
+      "total": 232,
+      "male": 112,
+      "female": 120,
+      "note": ""
+    },
+    {
+      "rank": "102",
+      "nationality": "라트비아",
+      "total": 179,
+      "male": 59,
+      "female": 120,
+      "note": ""
+    },
+    {
+      "rank": "103",
+      "nationality": "볼리비아",
+      "total": 174,
+      "male": 73,
+      "female": 101,
+      "note": ""
+    },
+    {
+      "rank": "104",
+      "nationality": "크로아티아",
+      "total": 171,
+      "male": 104,
+      "female": 67,
+      "note": ""
+    },
+    {
+      "rank": "105",
+      "nationality": "조지아",
+      "total": 163,
+      "male": 46,
+      "female": 117,
+      "note": ""
+    },
+    {
+      "rank": "106",
+      "nationality": "과테말라",
+      "total": 160,
+      "male": 83,
+      "female": 77,
+      "note": ""
+    },
+    {
+      "rank": "107",
+      "nationality": "아이티",
+      "total": 159,
+      "male": 116,
+      "female": 43,
+      "note": ""
+    },
+    {
+      "rank": "108",
+      "nationality": "세르비아",
+      "total": 154,
+      "male": 68,
+      "female": 86,
+      "note": ""
+    },
+    {
+      "rank": "109",
+      "nationality": "짐바브웨",
+      "total": 147,
+      "male": 79,
+      "female": 68,
+      "note": ""
+    },
+    {
+      "rank": "109",
+      "nationality": "도미니카 공화국",
+      "total": 147,
+      "male": 71,
+      "female": 76,
+      "note": ""
+    },
+    {
+      "rank": "109",
+      "nationality": "온두라스",
+      "total": 147,
+      "male": 66,
+      "female": 81,
+      "note": ""
+    },
+    {
+      "rank": "112",
+      "nationality": "카타르",
+      "total": 137,
+      "male": 60,
+      "female": 77,
+      "note": ""
+    },
+    {
+      "rank": "113",
+      "nationality": "파나마",
+      "total": 128,
+      "male": 50,
+      "female": 78,
+      "note": ""
+    },
+    {
+      "rank": "114",
+      "nationality": "가봉",
+      "total": 125,
+      "male": 65,
+      "female": 60,
+      "note": ""
+    },
+    {
+      "rank": "115",
+      "nationality": "슬로베니아",
+      "total": 123,
+      "male": 57,
+      "female": 66,
+      "note": ""
+    },
+    {
+      "rank": "116",
+      "nationality": "감비아",
+      "total": 122,
+      "male": 112,
+      "female": 10,
+      "note": ""
+    },
+    {
+      "rank": "117",
+      "nationality": "시에라리온",
+      "total": 121,
+      "male": 82,
+      "female": 39,
+      "note": ""
+    },
+    {
+      "rank": "117",
+      "nationality": "에스토니아",
+      "total": 121,
+      "male": 39,
+      "female": 82,
+      "note": ""
+    },
+    {
+      "rank": "119",
+      "nationality": "팔레스타인",
+      "total": 119,
+      "male": 75,
+      "female": 44,
+      "note": ""
+    },
+    {
+      "rank": "120",
+      "nationality": "앙골라",
+      "total": 117,
+      "male": 76,
+      "female": 41,
+      "note": ""
+    },
+    {
+      "rank": "121",
+      "nationality": "잠비아",
+      "total": 116,
+      "male": 68,
+      "female": 48,
+      "note": ""
+    },
+    {
+      "rank": "122",
+      "nationality": "오만",
+      "total": 104,
+      "male": 55,
+      "female": 49,
+      "note": ""
+    },
+    {
+      "rank": "123",
+      "nationality": "아르메니아",
+      "total": 98,
+      "male": 24,
+      "female": 74,
+      "note": ""
+    },
+    {
+      "rank": "124",
+      "nationality": "피지",
+      "total": 95,
+      "male": 54,
+      "female": 41,
+      "note": ""
+    },
+    {
+      "rank": "124",
+      "nationality": "룩셈부르크",
+      "total": 95,
+      "male": 44,
+      "female": 51,
+      "note": ""
+    },
+    {
+      "rank": "126",
+      "nationality": "엘살바도르",
+      "total": 94,
+      "male": 32,
+      "female": 62,
+      "note": ""
+    },
+    {
+      "rank": "127",
+      "nationality": "레바논",
+      "total": 92,
+      "male": 45,
+      "female": 47,
+      "note": ""
+    },
+    {
+      "rank": "128",
+      "nationality": "키프로스",
+      "total": 88,
+      "male": 33,
+      "female": 55,
+      "note": ""
+    },
+    {
+      "rank": "129",
+      "nationality": "알바니아",
+      "total": 82,
+      "male": 47,
+      "female": 35,
+      "note": ""
+    },
+    {
+      "rank": "130",
+      "nationality": "몰도바",
+      "total": 78,
+      "male": 28,
+      "female": 50,
+      "note": ""
+    },
+    {
+      "rank": "130",
+      "nationality": "말라위",
+      "total": 78,
+      "male": 40,
+      "female": 38,
+      "note": ""
+    },
+    {
+      "rank": "132",
+      "nationality": "자메이카",
+      "total": 74,
+      "male": 31,
+      "female": 43,
+      "note": ""
+    },
+    {
+      "rank": "133",
+      "nationality": "부르키나파소",
+      "total": 71,
+      "male": 57,
+      "female": 14,
+      "note": ""
+    },
+    {
+      "rank": "134",
+      "nationality": "우루과이",
+      "total": 68,
+      "male": 19,
+      "female": 49,
+      "note": ""
+    },
+    {
+      "rank": "135",
+      "nationality": "몰타",
+      "total": 64,
+      "male": 31,
+      "female": 33,
+      "note": ""
+    },
+    {
+      "rank": "136",
+      "nationality": "마다가스카르",
+      "total": 61,
+      "male": 19,
+      "female": 42,
+      "note": ""
+    },
+    {
+      "rank": "137",
+      "nationality": "쿠바",
+      "total": 58,
+      "male": 28,
+      "female": 30,
+      "note": ""
+    },
+    {
+      "rank": "138",
+      "nationality": "모잠비크",
+      "total": 57,
+      "male": 36,
+      "female": 21,
+      "note": ""
+    },
+    {
+      "rank": "139",
+      "nationality": "니카라과",
+      "total": 55,
+      "male": 20,
+      "female": 35,
+      "note": ""
+    },
+    {
+      "rank": "140",
+      "nationality": "토고",
+      "total": 49,
+      "male": 38,
+      "female": 11,
+      "note": ""
+    },
+    {
+      "rank": "141",
+      "nationality": "트리니다드 토바고",
+      "total": 46,
+      "male": 17,
+      "female": 29,
+      "note": ""
+    },
+    {
+      "rank": "141",
+      "nationality": "도미니카 연방",
+      "total": 46,
+      "male": 23,
+      "female": 23,
+      "note": ""
+    },
+    {
+      "rank": "143",
+      "nationality": "바레인",
+      "total": 44,
+      "male": 15,
+      "female": 29,
+      "note": ""
+    },
+    {
+      "rank": "144",
+      "nationality": "부탄",
+      "total": 43,
+      "male": 17,
+      "female": 26,
+      "note": ""
+    },
+    {
+      "rank": "144",
+      "nationality": "베냉",
+      "total": 43,
+      "male": 29,
+      "female": 14,
+      "note": ""
+    },
+    {
+      "rank": "146",
+      "nationality": "콩고 공화국",
+      "total": 40,
+      "male": 30,
+      "female": 10,
+      "note": ""
+    },
+    {
+      "rank": "147",
+      "nationality": "남수단",
+      "total": 37,
+      "male": 26,
+      "female": 11,
+      "note": ""
+    },
+    {
+      "rank": "147",
+      "nationality": "보츠와나",
+      "total": 37,
+      "male": 8,
+      "female": 29,
+      "note": ""
+    },
+    {
+      "rank": "147",
+      "nationality": "바누아투",
+      "total": 37,
+      "male": 31,
+      "female": 6,
+      "note": ""
+    },
+    {
+      "rank": "150",
+      "nationality": "세인트키츠 네비스",
+      "total": 31,
+      "male": 16,
+      "female": 15,
+      "note": ""
+    },
+    {
+      "rank": "151",
+      "nationality": "아이슬란드",
+      "total": 30,
+      "male": 11,
+      "female": 19,
+      "note": ""
+    },
+    {
+      "rank": "152",
+      "nationality": "파푸아뉴기니",
+      "total": 28,
+      "male": 16,
+      "female": 12,
+      "note": ""
+    },
+    {
+      "rank": "153",
+      "nationality": "모리셔스",
+      "total": 25,
+      "male": 11,
+      "female": 14,
+      "note": ""
+    },
+    {
+      "rank": "153",
+      "nationality": "소말리아",
+      "total": 25,
+      "male": 20,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "155",
+      "nationality": "북마케도니아",
+      "total": 24,
+      "male": 14,
+      "female": 10,
+      "note": ""
+    },
+    {
+      "rank": "156",
+      "nationality": "마셜 제도",
+      "total": 23,
+      "male": 15,
+      "female": 8,
+      "note": ""
+    },
+    {
+      "rank": "156",
+      "nationality": "몬테네그로",
+      "total": 23,
+      "male": 12,
+      "female": 11,
+      "note": ""
+    },
+    {
+      "rank": "156",
+      "nationality": "솔로몬 제도",
+      "total": 23,
+      "male": 11,
+      "female": 12,
+      "note": ""
+    },
+    {
+      "rank": "158",
+      "nationality": "미크로네시아 연방",
+      "total": 22,
+      "male": 5,
+      "female": 17,
+      "note": ""
+    },
+    {
+      "rank": "159",
+      "nationality": "에스와티니",
+      "total": 20,
+      "male": 15,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "159",
+      "nationality": "모리타니",
+      "total": 20,
+      "male": 12,
+      "female": 8,
+      "note": ""
+    },
+    {
+      "rank": "161",
+      "nationality": "보스니아 헤르체고비나",
+      "total": 19,
+      "male": 9,
+      "female": 10,
+      "note": ""
+    },
+    {
+      "rank": "161",
+      "nationality": "중앙아프리카 공화국",
+      "total": 19,
+      "male": 13,
+      "female": 6,
+      "note": ""
+    },
+    {
+      "rank": "163",
+      "nationality": "가이아나",
+      "total": 15,
+      "male": 5,
+      "female": 10,
+      "note": ""
+    },
+    {
+      "rank": "164",
+      "nationality": "기니비사우",
+      "total": 14,
+      "male": 9,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "164",
+      "nationality": "니제르",
+      "total": 14,
+      "male": 10,
+      "female": 4,
+      "note": ""
+    },
+    {
+      "rank": "164",
+      "nationality": "레소토",
+      "total": 14,
+      "male": 8,
+      "female": 6,
+      "note": ""
+    },
+    {
+      "rank": "167",
+      "nationality": "에리트레아",
+      "total": 13,
+      "male": 6,
+      "female": 7,
+      "note": ""
+    },
+    {
+      "rank": "167",
+      "nationality": "바하마",
+      "total": 13,
+      "male": 6,
+      "female": 7,
+      "note": ""
+    },
+    {
+      "rank": "169",
+      "nationality": "통가",
+      "total": 12,
+      "male": 7,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "169",
+      "nationality": "리히텐슈타인",
+      "total": 12,
+      "male": 7,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "171",
+      "nationality": "적도 기니",
+      "total": 11,
+      "male": 8,
+      "female": 3,
+      "note": ""
+    },
+    {
+      "rank": "172",
+      "nationality": "그레나다",
+      "total": 10,
+      "male": 6,
+      "female": 4,
+      "note": ""
+    },
+    {
+      "rank": "172",
+      "nationality": "벨리즈",
+      "total": 10,
+      "male": 5,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "172",
+      "nationality": "팔라우",
+      "total": 10,
+      "male": 4,
+      "female": 6,
+      "note": ""
+    },
+    {
+      "rank": "175",
+      "nationality": "나우루",
+      "total": 9,
+      "male": 4,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "175",
+      "nationality": "코소보",
+      "total": 9,
+      "male": 7,
+      "female": 2,
+      "note": ""
+    },
+    {
+      "rank": "177",
+      "nationality": "수리남",
+      "total": 8,
+      "male": 4,
+      "female": 4,
+      "note": ""
+    },
+    {
+      "rank": "177",
+      "nationality": "앤티가 바부다",
+      "total": 8,
+      "male": 3,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "179",
+      "nationality": "차드",
+      "total": 7,
+      "male": 6,
+      "female": 1,
+      "note": ""
+    },
+    {
+      "rank": "179",
+      "nationality": "바베이도스",
+      "total": 7,
+      "male": 2,
+      "female": 5,
+      "note": ""
+    },
+    {
+      "rank": "179",
+      "nationality": "사모아",
+      "total": 7,
+      "male": 5,
+      "female": 2,
+      "note": ""
+    },
+    {
+      "rank": "179",
+      "nationality": "지부티",
+      "total": 7,
+      "male": 4,
+      "female": 3,
+      "note": ""
+    },
+    {
+      "rank": "183",
+      "nationality": "나미비아",
+      "total": 6,
+      "male": 2,
+      "female": 4,
+      "note": ""
+    },
+    {
+      "rank": "183",
+      "nationality": "안도라",
+      "total": 6,
+      "male": 5,
+      "female": 1,
+      "note": ""
+    },
+    {
+      "rank": "185",
+      "nationality": "세인트루시아",
+      "total": 5,
+      "male": 3,
+      "female": 2,
+      "note": ""
+    },
+    {
+      "rank": "185",
+      "nationality": "몰디브",
+      "total": 5,
+      "male": 4,
+      "female": 1,
+      "note": ""
+    },
+    {
+      "rank": "187",
+      "nationality": "세이셸",
+      "total": 4,
+      "male": 2,
+      "female": 2,
+      "note": ""
+    },
+    {
+      "rank": "188",
+      "nationality": "키리바시",
+      "total": 3,
+      "male": 1,
+      "female": 2,
+      "note": ""
+    },
+    {
+      "rank": "188",
+      "nationality": "코모로",
+      "total": 3,
+      "male": 3,
+      "female": 0,
+      "note": ""
+    },
+    {
+      "rank": "188",
+      "nationality": "세인트빈센트 그레나딘",
+      "total": 3,
+      "male": 1,
+      "female": 2,
+      "note": ""
+    },
+    {
+      "rank": "191",
+      "nationality": "바티칸 시국",
+      "total": 2,
+      "male": 2,
+      "female": 0,
+      "note": ""
+    },
+    {
+      "rank": "191",
+      "nationality": "상투메 프린시페",
+      "total": 2,
+      "male": 2,
+      "female": 0,
+      "note": ""
+    },
+    {
+      "rank": "191",
+      "nationality": "산마리노",
+      "total": 2,
+      "male": 1,
+      "female": 1,
+      "note": ""
+    },
+    {
+      "rank": "194",
+      "nationality": "카보베르데",
+      "total": 1,
+      "male": 0,
+      "female": 1,
+      "note": ""
+    },
+    {
+      "rank": "195",
+      "nationality": "투발루",
+      "total": 0,
+      "male": 0,
+      "female": 0,
+      "note": ""
+    },
+    {
+      "rank": "195",
+      "nationality": "모나코",
+      "total": 0,
+      "male": 0,
+      "female": 0,
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 체류 외국인 국적별 현황 (2025년 3월) - Free Download",
+    "description": "2025년 3월 기준 대한민국에 체류하는 외국인의 국적별 순위와 총계·남성·여성 인구 수 목록입니다. Contains 197 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 체류 외국인 국적별 현황 (2025년 3월) | ListBase",
+    "seo_description": "Download 대한민국 체류 외국인 국적별 현황 (2025년 3월) — 197 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 197 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_내_외국인_현황"
+    ]
+  }
+}
