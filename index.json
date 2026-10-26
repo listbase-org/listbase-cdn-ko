@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:37.051Z",
-  "total_datasets": 488,
-  "total_records": 451602,
+  "generated": "2026-10-26T02:20:39.508Z",
+  "total_datasets": 489,
+  "total_records": 451691,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -7345,6 +7345,33 @@
         "xlsx": {
           "name": "ko-geomchal-chongjang_KO.xlsx",
           "size": 11685
+        }
+      }
+    },
+    {
+      "id": "ko-gyeongchal-cheongjang",
+      "name": "대한민국 역대 경찰 최고책임자 (경무국장~경찰청장)",
+      "category": "law",
+      "record_count": 89,
+      "columns": [
+        "office",
+        "government",
+        "term_no",
+        "name",
+        "term",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_경찰청장",
+      "updated": "2026-10",
+      "size": 22681,
+      "files": {
+        "csv": {
+          "name": "ko-gyeongchal-cheongjang_KO.csv",
+          "size": 10640
+        },
+        "xlsx": {
+          "name": "ko-gyeongchal-cheongjang_KO.xlsx",
+          "size": 11675
         }
       }
     },
