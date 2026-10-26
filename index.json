@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:10.731Z",
-  "total_datasets": 501,
-  "total_records": 452170,
+  "generated": "2026-10-26T02:21:13.203Z",
+  "total_datasets": 502,
+  "total_records": 452179,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -3360,6 +3360,30 @@
         "xlsx": {
           "name": "ko-hanguk-yori_KO.xlsx",
           "size": 8727
+        }
+      }
+    },
+    {
+      "id": "ko-hangwa-jongnyu",
+      "name": "한과의 종류",
+      "category": "food",
+      "record_count": 9,
+      "columns": [
+        "type",
+        "description",
+        "examples"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한과",
+      "updated": "2026-10",
+      "size": 3296,
+      "files": {
+        "csv": {
+          "name": "ko-hangwa-jongnyu_KO.csv",
+          "size": 1338
+        },
+        "xlsx": {
+          "name": "ko-hangwa-jongnyu_KO.xlsx",
+          "size": 7568
         }
       }
     },
