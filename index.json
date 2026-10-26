@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:20.838Z",
-  "total_datasets": 505,
-  "total_records": 452255,
+  "generated": "2026-10-26T02:21:23.566Z",
+  "total_datasets": 506,
+  "total_records": 452342,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -204,6 +204,31 @@
         "xlsx": {
           "name": "ko-jiri-pyosi-susanmul_KO.xlsx",
           "size": 7964
+        }
+      }
+    },
+    {
+      "id": "ko-kamis-pummok-code",
+      "name": "KAMIS 농축수산물 품목 코드",
+      "category": "agriculture",
+      "record_count": 87,
+      "columns": [
+        "item_code",
+        "item_name",
+        "category_code",
+        "category_name"
+      ],
+      "source": "https://github.com/ggplab/whereisplanb/blob/main/refer/category_detail_code.csv",
+      "updated": "2026-10",
+      "size": 13709,
+      "files": {
+        "csv": {
+          "name": "ko-kamis-pummok-code_KO.csv",
+          "size": 3143
+        },
+        "xlsx": {
+          "name": "ko-kamis-pummok-code_KO.xlsx",
+          "size": 9157
         }
       }
     },
