@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:44.994Z",
-  "total_datasets": 491,
-  "total_records": 451783,
+  "generated": "2026-10-26T02:20:47.412Z",
+  "total_datasets": 492,
+  "total_records": 451827,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -11135,6 +11135,33 @@
         "xlsx": {
           "name": "ko-kbo-gudan_KO.xlsx",
           "size": 7432
+        }
+      }
+    },
+    {
+      "id": "ko-kbo-mvp",
+      "name": "KBO 리그 역대 정규시즌 MVP",
+      "category": "sports",
+      "record_count": 44,
+      "columns": [
+        "year",
+        "player",
+        "team",
+        "position",
+        "season_stats",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_MVP",
+      "updated": "2026-10",
+      "size": 12473,
+      "files": {
+        "csv": {
+          "name": "ko-kbo-mvp_KO.csv",
+          "size": 5715
+        },
+        "xlsx": {
+          "name": "ko-kbo-mvp_KO.xlsx",
+          "size": 9424
         }
       }
     },

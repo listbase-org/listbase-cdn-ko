@@ -1,0 +1,408 @@
+{
+  "id": "ko-kbo-mvp",
+  "name": "KBO 리그 역대 정규시즌 MVP",
+  "title": "KBO 리그 역대 정규시즌 MVP",
+  "description": "1982년 출범 이후 KBO 리그 정규시즌 최우수 선수(MVP) 수상자의 연도, 소속 구단, 포지션, 시즌 성적 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/KBO_MVP",
+  "source_url": "https://ko.wikipedia.org/wiki/KBO_MVP",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "player",
+      "label": "Player",
+      "type": "string"
+    },
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "season_stats",
+      "label": "Season Stats",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1982",
+      "player": "박철순",
+      "team": "OB 베어스",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 승률 1위 / 탈삼진, 구원 2위",
+      "note": "16선발승으로 최다 선발승"
+    },
+    {
+      "year": "1983",
+      "player": "이만수",
+      "team": "삼성 라이온즈",
+      "position": "포수",
+      "season_stats": "홈런, 타점 1위 / 출루율, 장타율 6위 / 안타 7위 / 타율 8위",
+      "note": ""
+    },
+    {
+      "year": "1984",
+      "player": "(故)최동원",
+      "team": "롯데 자이언츠",
+      "position": "투수",
+      "season_stats": "다승, 탈삼진 1위 / 평균자책, 승률 4위,구원 2위 2011년 지병인 대장암으로 별세",
+      "note": "9선발승으로 오영일 강만식과 선발승 공동 7위"
+    },
+    {
+      "year": "1985",
+      "player": "김성한",
+      "team": "해태 타이거즈",
+      "position": "1루수",
+      "season_stats": "홈런, 안타 1위 / 타점, 장타율 2위 / 타율, 출루율 3위",
+      "note": ""
+    },
+    {
+      "year": "1986",
+      "player": "선동열",
+      "team": "해태 타이거즈",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 탈삼진 1위 / 승률 2위 / 구원 3위",
+      "note": "17선발승으로 최다 선발승"
+    },
+    {
+      "year": "1987",
+      "player": "장효조",
+      "team": "삼성 라이온즈",
+      "position": "외야수",
+      "season_stats": "타율, 출루율 1위 / 장타율 4위 / 타점 6위 / 안타 10위",
+      "note": ""
+    },
+    {
+      "year": "1988",
+      "player": "김성한",
+      "team": "해태 타이거즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 안타, 장타율 1위 / 타율 3위 / 출루율 9위 / 도루 10위",
+      "note": ""
+    },
+    {
+      "year": "1989",
+      "player": "선동열",
+      "team": "해태 타이거즈",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 탈삼진, 승률 1위 / 구원 3위",
+      "note": "9선발승으로 선발승 9위"
+    },
+    {
+      "year": "1990",
+      "player": "선동열",
+      "team": "해태 타이거즈",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 탈삼진, 승률 1위 / 구원 4위",
+      "note": "11선발승으로 박정현과 선발승 공동 4위"
+    },
+    {
+      "year": "1991",
+      "player": "장종훈",
+      "team": "빙그레 이글스",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 안타, 장타율, 출루율 1위 / 타율 3위 / 도루 8위",
+      "note": ""
+    },
+    {
+      "year": "1992",
+      "player": "장종훈",
+      "team": "빙그레 이글스",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 장타율 1위 / 출루율 3위 / 안타 10위",
+      "note": ""
+    },
+    {
+      "year": "1993",
+      "player": "김성래",
+      "team": "삼성 라이온즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점 1위 / 장타율 2위 / 출루율 3위 / 안타 4위 / 타율 6위",
+      "note": ""
+    },
+    {
+      "year": "1994",
+      "player": "이종범",
+      "team": "해태 타이거즈",
+      "position": "유격수",
+      "season_stats": "타율, 도루, 안타, 득점, 출루율, 장타율 1위 / 홈런 4위 / 타점 5위",
+      "note": ""
+    },
+    {
+      "year": "1995",
+      "player": "김상호",
+      "team": "OB 베어스",
+      "position": "외야수",
+      "season_stats": "홈런, 타점 1위 / 안타 5위 / 장타율 7위",
+      "note": ""
+    },
+    {
+      "year": "1996",
+      "player": "구대성",
+      "team": "한화 이글스",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 승률, 구원 1위 / 탈삼진 3위",
+      "note": "2선발승"
+    },
+    {
+      "year": "1997",
+      "player": "이승엽",
+      "team": "삼성 라이온즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 안타 1위,/ 타율 2위 / 장타율 4위",
+      "note": ""
+    },
+    {
+      "year": "1998",
+      "player": "타이론 우즈",
+      "team": "OB 베어스",
+      "position": "1루수",
+      "season_stats": "홈런, 타점 1위 / 장타율 2위 / 출루율 6위 / 타율 8위 / 안타 9위",
+      "note": ""
+    },
+    {
+      "year": "1999",
+      "player": "이승엽",
+      "team": "삼성 라이온즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 득점, 출루율, 장타율 1위 / 안타 9위",
+      "note": ""
+    },
+    {
+      "year": "2000",
+      "player": "박경완",
+      "team": "현대 유니콘스",
+      "position": "포수",
+      "season_stats": "홈런 1위 / 출루율 3위 / 타점 7위",
+      "note": ""
+    },
+    {
+      "year": "2001",
+      "player": "이승엽",
+      "team": "삼성 라이온즈",
+      "position": "1루수",
+      "season_stats": "홈런 1위 / 장타율, 득점 2위 / 타점 8위 / 출루율 9위",
+      "note": ""
+    },
+    {
+      "year": "2002",
+      "player": "이승엽",
+      "team": "삼성 라이온즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 득점, 장타율 1위 / 안타, 출루율 2위 / 타율 3위",
+      "note": ""
+    },
+    {
+      "year": "2003",
+      "player": "이승엽",
+      "team": "삼성 라이온즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 득점 1위 / 장타율 2위 / 출루율 3위",
+      "note": ""
+    },
+    {
+      "year": "2004",
+      "player": "배영수",
+      "team": "삼성 라이온즈",
+      "position": "투수",
+      "season_stats": "다승, 승률 1위 / 평균자책 3위 / 탈삼진 4위",
+      "note": "16선발승으로 피어리와 선발승 공동 3위"
+    },
+    {
+      "year": "2005",
+      "player": "손민한",
+      "team": "롯데 자이언츠",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 승률 1위",
+      "note": "17선발승"
+    },
+    {
+      "year": "2006",
+      "player": "류현진",
+      "team": "한화 이글스",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 탈삼진 1위 / 승률 2위",
+      "note": "선발로만 18승"
+    },
+    {
+      "year": "2007",
+      "player": "다니엘 리오스",
+      "team": "두산 베어스",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 승률 1위 / 탈삼진 2위",
+      "note": "22선발승으로 역대 정규시즌 MVP 단일시즌 최다 선발승"
+    },
+    {
+      "year": "2008",
+      "player": "김광현",
+      "team": "SK 와이번스",
+      "position": "투수",
+      "season_stats": "다승, 탈삼진 1위 / 평균자책 2위",
+      "note": "선발로만 16승"
+    },
+    {
+      "year": "2009",
+      "player": "김상현",
+      "team": "KIA 타이거즈",
+      "position": "3루수",
+      "season_stats": "홈런, 타점, 장타율 1위",
+      "note": ""
+    },
+    {
+      "year": "2010",
+      "player": "이대호",
+      "team": "롯데 자이언츠",
+      "position": "3루수",
+      "season_stats": "홈런, 타율, 타점, 득점, 안타, 출루율, 장타율 1위",
+      "note": ""
+    },
+    {
+      "year": "2011",
+      "player": "윤석민",
+      "team": "KIA 타이거즈",
+      "position": "투수",
+      "season_stats": "다승, 평균자책, 탈삼진, 승률 1위",
+      "note": "선발로만 17승"
+    },
+    {
+      "year": "2012",
+      "player": "박병호",
+      "team": "넥센 히어로즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 장타율 1위",
+      "note": ""
+    },
+    {
+      "year": "2013",
+      "player": "박병호",
+      "team": "넥센 히어로즈",
+      "position": "1루수",
+      "season_stats": "홈런, 타점, 장타율, 득점 1위",
+      "note": ""
+    },
+    {
+      "year": "2014",
+      "player": "서건창",
+      "team": "넥센 히어로즈",
+      "position": "2루수",
+      "season_stats": "타율, 안타, 득점 1위 / 도루 3위",
+      "note": ""
+    },
+    {
+      "year": "2015",
+      "player": "에릭 테임즈",
+      "team": "NC 다이노스",
+      "position": "1루수",
+      "season_stats": "타율, 출루율, 장타율, 득점 1위 / 홈런 3위 / 도루 5위",
+      "note": ""
+    },
+    {
+      "year": "2016",
+      "player": "더스틴 니퍼트",
+      "team": "두산 베어스",
+      "position": "투수",
+      "season_stats": "다승, 승률, 평균자책 1위",
+      "note": "21선발승"
+    },
+    {
+      "year": "2017",
+      "player": "양현종",
+      "team": "KIA 타이거즈",
+      "position": "투수",
+      "season_stats": "다승 1위 / 승률 2위 / 탈삼진 3위 / 평균자책 5위",
+      "note": "선발로만 20승"
+    },
+    {
+      "year": "2018",
+      "player": "김재환",
+      "team": "두산 베어스",
+      "position": "외야수",
+      "season_stats": "홈런, 타점 1위 / 장타율 2위 / 안타 6위 / 타율 8위 / 득점 10위",
+      "note": ""
+    },
+    {
+      "year": "2019",
+      "player": "조쉬 린드블럼",
+      "team": "두산 베어스",
+      "position": "투수",
+      "season_stats": "다승, 승률 , 탈삼진 1위 / 평균자책 2위",
+      "note": "선발로만 20승"
+    },
+    {
+      "year": "2020",
+      "player": "멜 로하스 주니어",
+      "team": "kt 위즈",
+      "position": "외야수",
+      "season_stats": "홈런, 타점, 장타율, 득점 1위/ 타율 3위",
+      "note": ""
+    },
+    {
+      "year": "2021",
+      "player": "아리엘 미란다",
+      "team": "두산 베어스",
+      "position": "투수",
+      "season_stats": "평균자책, 탈삼진 1위 / 다승, 승률 4위",
+      "note": "14선발승으로 백정현 원태인과 선발승 공동 4위"
+    },
+    {
+      "year": "2022",
+      "player": "이정후",
+      "team": "키움 히어로즈",
+      "position": "외야수",
+      "season_stats": "타율, 타점, 안타, 출루율, 장타율 1위",
+      "note": ""
+    },
+    {
+      "year": "2023",
+      "player": "에릭 페디",
+      "team": "NC 다이노스",
+      "position": "투수",
+      "season_stats": "평균자책, 다승, 탈삼진 1위",
+      "note": ""
+    },
+    {
+      "year": "2024",
+      "player": "김도영",
+      "team": "KIA 타이거즈",
+      "position": "3루수",
+      "season_stats": "득점, 장타율 1위/ 홈런 2위, 타율 3위, 출루율 3위",
+      "note": "야수 최연소 MVP"
+    },
+    {
+      "year": "2025",
+      "player": "코디 폰세",
+      "team": "한화 이글스",
+      "position": "투수",
+      "season_stats": "평균자책, 다승, 탈삼진, 승률 1위",
+      "note": "17선발승(KBO 최초 개막 후 선발 17연승)"
+    }
+  ],
+  "meta": {
+    "title": "KBO 리그 역대 정규시즌 MVP - Free Download",
+    "description": "1982년 출범 이후 KBO 리그 정규시즌 최우수 선수(MVP) 수상자의 연도, 소속 구단, 포지션, 시즌 성적 목록입니다. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBO 리그 역대 정규시즌 MVP | ListBase",
+    "seo_description": "Download KBO 리그 역대 정규시즌 MVP — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBO_MVP"
+    ]
+  }
+}
