@@ -1,0 +1,247 @@
+{
+  "id": "ko-gamsawonjang",
+  "name": "대한민국 역대 감사원장",
+  "title": "대한민국 역대 감사원장",
+  "description": "1963년 감사원 출범 이후 역대 감사원장의 대수, 이름, 취임일, 퇴임일, 정부 목록입니다.",
+  "category": "politics",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_감사원장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_감사원장",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start_date",
+      "label": "Start Date",
+      "type": "string"
+    },
+    {
+      "key": "end_date",
+      "label": "End Date",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_no": "제1대",
+      "name": "이원엽",
+      "start_date": "1963년 3월 20일",
+      "end_date": "1963년 7월 11일",
+      "government": "제2공화국"
+    },
+    {
+      "term_no": "제2대",
+      "name": "한신",
+      "start_date": "1963년 7월 12일",
+      "end_date": "1963년 12월 15일",
+      "government": "제2공화국"
+    },
+    {
+      "term_no": "제3대",
+      "name": "이주일",
+      "start_date": "1964년 2월 19일",
+      "end_date": "1968년 2월 18일",
+      "government": "제3공화국"
+    },
+    {
+      "term_no": "제4대",
+      "name": "이주일",
+      "start_date": "1968년 2월 27일",
+      "end_date": "1971년 6월 3일",
+      "government": "제3공화국"
+    },
+    {
+      "term_no": "제5대",
+      "name": "이석제",
+      "start_date": "1971년 7월 31일",
+      "end_date": "1972년 2월 26일",
+      "government": "제3공화국"
+    },
+    {
+      "term_no": "제6대",
+      "name": "이석제",
+      "start_date": "1972년 8월 1일",
+      "end_date": "1976년 7월 31일",
+      "government": "제4공화국"
+    },
+    {
+      "term_no": "제7대",
+      "name": "신두영",
+      "start_date": "1976년 9월 22일",
+      "end_date": "1980년 9월 1일",
+      "government": "제4공화국"
+    },
+    {
+      "term_no": "제8대",
+      "name": "이한기",
+      "start_date": "1980년 9월 22일",
+      "end_date": "1981년 4월 15일",
+      "government": "제4공화국"
+    },
+    {
+      "term_no": "제9대",
+      "name": "이한기",
+      "start_date": "1981년 4월 16일",
+      "end_date": "1982년 9월 4일",
+      "government": "제5공화국"
+    },
+    {
+      "term_no": "제10대",
+      "name": "정희택",
+      "start_date": "1982년 9월 21일",
+      "end_date": "1984년 4월 7일",
+      "government": "제5공화국"
+    },
+    {
+      "term_no": "제11대",
+      "name": "황영시",
+      "start_date": "1984년 6월 28일",
+      "end_date": "1985년 4월 15일",
+      "government": "제5공화국"
+    },
+    {
+      "term_no": "제12대",
+      "name": "황영시",
+      "start_date": "1985년 5월 16일",
+      "end_date": "1988년 7월 3일",
+      "government": "노태우 정부"
+    },
+    {
+      "term_no": "제13대",
+      "name": "김영준",
+      "start_date": "1988년 7월 4일",
+      "end_date": "1992년 7월 3일",
+      "government": "노태우 정부"
+    },
+    {
+      "term_no": "제14대",
+      "name": "김영준",
+      "start_date": "1992년 8월 13일",
+      "end_date": "1993년 2월 24일",
+      "government": "노태우 정부"
+    },
+    {
+      "term_no": "제15대",
+      "name": "이회창",
+      "start_date": "1993년 2월 25일",
+      "end_date": "1993년 12월 16일",
+      "government": "김영삼 정부"
+    },
+    {
+      "term_no": "제16대",
+      "name": "이시윤",
+      "start_date": "1993년 12월 17일",
+      "end_date": "1997년 12월 16일",
+      "government": "김영삼 정부"
+    },
+    {
+      "term_no": "제17대",
+      "name": "한승헌",
+      "start_date": "1998년 8월 18일",
+      "end_date": "1999년 9월 28일",
+      "government": "김대중 정부"
+    },
+    {
+      "term_no": "제18대",
+      "name": "이종남",
+      "start_date": "1999년 9월 29일",
+      "end_date": "2003년 9월 28일",
+      "government": "김대중 정부"
+    },
+    {
+      "term_no": "제19대",
+      "name": "전윤철",
+      "start_date": "2003년 11월 10일",
+      "end_date": "2007년 11월 9일",
+      "government": "노무현 정부"
+    },
+    {
+      "term_no": "제20대",
+      "name": "전윤철",
+      "start_date": "2007년 11월 10일",
+      "end_date": "2008년 5월 18일",
+      "government": "노무현 정부"
+    },
+    {
+      "term_no": "제21대",
+      "name": "김황식",
+      "start_date": "2008년 9월 8일",
+      "end_date": "2010년 9월 30일",
+      "government": "이명박 정부"
+    },
+    {
+      "term_no": "제22대",
+      "name": "양건",
+      "start_date": "2011년 3월 11일",
+      "end_date": "2013년 8월 26일",
+      "government": "이명박 정부"
+    },
+    {
+      "term_no": "제23대",
+      "name": "황찬현",
+      "start_date": "2013년 12월 2일",
+      "end_date": "2017년 12월 1일",
+      "government": "박근혜 정부"
+    },
+    {
+      "term_no": "제24대",
+      "name": "최재형",
+      "start_date": "2018년 1월 2일",
+      "end_date": "2021년 6월 28일",
+      "government": "문재인 정부"
+    },
+    {
+      "term_no": "제25대",
+      "name": "최재해",
+      "start_date": "2021년 11월 12일",
+      "end_date": "2022년 5월 9일",
+      "government": "문재인 정부"
+    },
+    {
+      "term_no": "제25대",
+      "name": "최재해",
+      "start_date": "2022년 5월 10일",
+      "end_date": "2025년 6월 3일",
+      "government": "윤석열 정부"
+    },
+    {
+      "term_no": "제25대",
+      "name": "최재해",
+      "start_date": "2025년 6월 4일",
+      "end_date": "2025년 11월 11일",
+      "government": "이재명 정부"
+    },
+    {
+      "term_no": "제26대",
+      "name": "김호철",
+      "start_date": "2025년 12월 31일",
+      "end_date": "",
+      "government": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 감사원장 - Free Download",
+    "description": "1963년 감사원 출범 이후 역대 감사원장의 대수, 이름, 취임일, 퇴임일, 정부 목록입니다. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 감사원장 | ListBase",
+    "seo_description": "Download 대한민국 역대 감사원장 — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_감사원장"
+    ]
+  }
+}
