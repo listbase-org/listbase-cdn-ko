@@ -1,0 +1,376 @@
+{
+  "id": "ko-jijin",
+  "name": "한반도의 주요 지진 목록",
+  "title": "한반도의 주요 지진 목록",
+  "description": "한반도와 주변 해역에서 발생한 역사·계기 관측 주요 지진(천발·심발 지진, 기상청 관측 규모 5.0 이상)의 날짜, 진앙, 좌표, 규모 목록입니다.",
+  "category": "environment",
+  "source": "https://ko.wikipedia.org/wiki/한국의_지진_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_지진_목록",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "epicenter",
+      "label": "Epicenter",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "magnitude",
+      "label": "Magnitude",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "depth_km",
+      "label": "Depth Km",
+      "type": "number"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1906-04-06",
+      "epicenter": "한강 하구 부근",
+      "coordinates": "37.700°, 126.200°",
+      "magnitude": "6.0 (목록의 추정값)",
+      "note": "Chiu·Kim(2004)의 지진 목록에 수록된 값이다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1917-05-28",
+      "epicenter": "북중 접경 인접 지역",
+      "coordinates": "40.7°, 124.8°",
+      "magnitude": "5.9 (진폭 자료에 의한 값)",
+      "note": "—",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1917-08-13",
+      "epicenter": "신안 해역",
+      "coordinates": "34.7°, 125.6°",
+      "magnitude": "5.3 (진폭 자료에 의한 값)",
+      "note": "—",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1936-07-04",
+      "epicenter": "지리산·쌍계사 일대",
+      "coordinates": "35.20°, 127.60°",
+      "magnitude": "Mw 5.1",
+      "note": "부상자 4명과 쌍계사 건물 등의 피해가 기록되어 있다. 전명순·전정수(2001)의 진폭 자료에 의한 규모는 5.0이다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1938-11-18",
+      "epicenter": "황해",
+      "coordinates": "38.0°, 123.6°",
+      "magnitude": "5.1 (진폭 자료에 의한 값)",
+      "note": "—",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1941-12-15",
+      "epicenter": "북중 접경 인접 지역",
+      "coordinates": "41.1°, 125.0°",
+      "magnitude": "5.6 (진폭 자료에 의한 값)",
+      "note": "—",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1944-12-19",
+      "epicenter": "압록강 하구 인근",
+      "coordinates": "39.982°, 124.026°",
+      "magnitude": "Mw 6.64",
+      "note": "USGS 목록의 진원 깊이는 35 km이다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1952-03-19",
+      "epicenter": "평양 인근",
+      "coordinates": "—",
+      "magnitude": "Mw 6.3",
+      "note": "Hong 외(2025)는 당시 지진 기록을 재분석하여 진원 깊이를 29±1 km로 추정했다. 연구는 서울에서 보고된 피해를 다룬다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1952-04-24",
+      "epicenter": "안악 북동쪽",
+      "coordinates": "38.596°, 125.589°",
+      "magnitude": "Mw 5.64",
+      "note": "UTC로는 4월 23일 15시 56분, UTC+9로는 4월 24일 0시 56분이다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1960-02-26",
+      "epicenter": "평양 남부 지역",
+      "coordinates": "38.900°, 125.800°",
+      "magnitude": "5.1 (목록의 값)",
+      "note": "Chiu·Kim(2004)의 지진 목록에 수록되어 있다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1963-09-06",
+      "epicenter": "포항 동북동쪽 해역",
+      "coordinates": "36.341°, 130.665°",
+      "magnitude": "Mw 5.8",
+      "note": "전명순·전정수(2010)는 Mw 5.7을 제시한다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1963-09-07",
+      "epicenter": "포항 동북동쪽 해역",
+      "coordinates": "36.383°, 130.538°",
+      "magnitude": "Mw 5.8",
+      "note": "전명순·전정수(2010)에도 Mw 5.8로 수록되어 있다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "초기 관측과 자료의 공백",
+      "date": "1976-10-06",
+      "epicenter": "신안 서쪽 황해",
+      "coordinates": "35.31°, 124.18°",
+      "magnitude": "Mw 5.4",
+      "note": "USGS 목록에는 Ms 5.2로 수록되어 있다.",
+      "depth_km": "",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1905-08-25",
+      "epicenter": "함경북도 남양 남동쪽 부근",
+      "coordinates": "42.921°, 129.907°",
+      "magnitude": "mB 6.6",
+      "note": "ISC-GEM 보충 목록.",
+      "depth_km": "470",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1917-07-31",
+      "epicenter": "나진 서남서쪽 부근",
+      "coordinates": "42.226°, 130.205°",
+      "magnitude": "mB 7.4",
+      "note": "ISC-GEM 보충 목록.",
+      "depth_km": "460",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1960-10-08",
+      "epicenter": "길주 남남동쪽 해역",
+      "coordinates": "40.090°, 129.890°",
+      "magnitude": "Mw 6.8",
+      "note": "",
+      "depth_km": "607.5",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1969-04-10",
+      "epicenter": "러시아 자루비노 남쪽 해역",
+      "coordinates": "42.082°, 131.132°",
+      "magnitude": "Mw 5.85",
+      "note": "",
+      "depth_km": "565",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1973-09-10",
+      "epicenter": "러시아 자루비노 남서쪽 부근",
+      "coordinates": "42.453°, 130.907°",
+      "magnitude": "mb 6.0",
+      "note": "",
+      "depth_km": "532",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1973-09-29",
+      "epicenter": "웅상 남남동쪽 해역",
+      "coordinates": "41.891°, 130.871°",
+      "magnitude": "mb 6.5",
+      "note": "",
+      "depth_km": "575",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1975-06-29",
+      "epicenter": "속초 동북동쪽 해역",
+      "coordinates": "38.759°, 129.990°",
+      "magnitude": "mb 6.2",
+      "note": "",
+      "depth_km": "560",
+      "time": ""
+    },
+    {
+      "type": "한반도와 인접 지역의 주요 심발지진",
+      "date": "1977-03-09",
+      "epicenter": "나진 남동쪽 해역",
+      "coordinates": "41.606°, 130.878°",
+      "magnitude": "mb 5.9",
+      "note": "",
+      "depth_km": "528",
+      "time": ""
+    },
+    {
+      "type": "1978년 이후",
+      "date": "1978-09-16",
+      "epicenter": "속리산 부근, 경북 상주시 북서쪽 32 km",
+      "coordinates": "",
+      "magnitude": "5.2",
+      "note": "속리산 지진",
+      "depth_km": "",
+      "time": "02:07:06"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "1978-10-07",
+      "epicenter": "충남 홍성군 동쪽 3 km",
+      "coordinates": "",
+      "magnitude": "5",
+      "note": "1978년 홍성 지진",
+      "depth_km": "",
+      "time": "18:19:52"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "1980-01-08",
+      "epicenter": "북한 평안북도 삭주 남남서쪽 20 km",
+      "coordinates": "",
+      "magnitude": "5.3",
+      "note": "의주 지진",
+      "depth_km": "",
+      "time": "08:44:13"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2003-03-30",
+      "epicenter": "백령도 서남서쪽 88 km 해역",
+      "coordinates": "",
+      "magnitude": "5",
+      "note": "2003년 백령도 해역 지진",
+      "depth_km": "",
+      "time": "20:10:53"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2004-05-29",
+      "epicenter": "경북 울진군 동남동쪽 74 km 해역",
+      "coordinates": "",
+      "magnitude": "5.2",
+      "note": "2004년 울진 해역 지진",
+      "depth_km": "",
+      "time": "19:14:24"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2014-04-01",
+      "epicenter": "충남 태안군 서격렬비도 서북서쪽 100 km 해역",
+      "coordinates": "",
+      "magnitude": "5.1",
+      "note": "2014년 서격렬비도 해역 지진",
+      "depth_km": "",
+      "time": "04:48:35"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2016-07-05",
+      "epicenter": "울산 동구 동쪽 52 km 해역",
+      "coordinates": "",
+      "magnitude": "5",
+      "note": "2016년 울산 해역 지진",
+      "depth_km": "",
+      "time": "20:33:03"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2016-09-12",
+      "epicenter": "경북 경주시 남남서쪽 8.2 km",
+      "coordinates": "",
+      "magnitude": "5.1",
+      "note": "2016년 경주 지진의 전진",
+      "depth_km": "",
+      "time": "19:44:32"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2016-09-12",
+      "epicenter": "경북 경주시 남남서쪽 8.7 km",
+      "coordinates": "",
+      "magnitude": "5.8",
+      "note": "2016년 경주 지진의 본진",
+      "depth_km": "",
+      "time": "20:32:54"
+    },
+    {
+      "type": "1978년 이후",
+      "date": "2017-11-15",
+      "epicenter": "경북 포항시 북구 북쪽 8 km",
+      "coordinates": "",
+      "magnitude": "5.4",
+      "note": "2017년 포항 지진",
+      "depth_km": "",
+      "time": "14:29:31"
+    }
+  ],
+  "meta": {
+    "title": "한반도의 주요 지진 목록 - Free Download",
+    "description": "한반도와 주변 해역에서 발생한 역사·계기 관측 주요 지진(천발·심발 지진, 기상청 관측 규모 5.0 이상)의 날짜, 진앙, 좌표, 규모 목록입니다. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한반도의 주요 지진 목록 | ListBase",
+    "seo_description": "Download 한반도의 주요 지진 목록 — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_지진_목록"
+    ]
+  }
+}

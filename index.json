@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:00.097Z",
-  "total_datasets": 497,
-  "total_records": 451994,
+  "generated": "2026-10-26T02:21:02.856Z",
+  "total_datasets": 498,
+  "total_records": 452025,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -2705,6 +2705,35 @@
         "xlsx": {
           "name": "ko-hwangyeong-janggwan_KO.xlsx",
           "size": 8479
+        }
+      }
+    },
+    {
+      "id": "ko-jijin",
+      "name": "한반도의 주요 지진 목록",
+      "category": "environment",
+      "record_count": 31,
+      "columns": [
+        "type",
+        "date",
+        "epicenter",
+        "coordinates",
+        "magnitude",
+        "note",
+        "depth_km",
+        "time"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_지진_목록",
+      "updated": "2026-10",
+      "size": 11445,
+      "files": {
+        "csv": {
+          "name": "ko-jijin_KO.csv",
+          "size": 4765
+        },
+        "xlsx": {
+          "name": "ko-jijin_KO.xlsx",
+          "size": 9385
         }
       }
     },
