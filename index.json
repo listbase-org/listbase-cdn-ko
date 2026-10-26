@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-25T02:07:23.884Z",
-  "total_datasets": 480,
-  "total_records": 450632,
+  "generated": "2026-10-26T02:20:19.107Z",
+  "total_datasets": 481,
+  "total_records": 450732,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -7371,6 +7371,34 @@
         "xlsx": {
           "name": "ko-heonjae-sojang_KO.xlsx",
           "size": 7624
+        }
+      }
+    },
+    {
+      "id": "ko-daejung-eumak-100dae-myeongban",
+      "name": "한국 대중음악 100대 명반",
+      "category": "music",
+      "record_count": 100,
+      "columns": [
+        "rank",
+        "artist",
+        "album",
+        "release_year",
+        "label",
+        "score",
+        "recommendations"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국대중음악_100대_명반",
+      "updated": "2026-10",
+      "size": 23653,
+      "files": {
+        "csv": {
+          "name": "ko-daejung-eumak-100dae-myeongban_KO.csv",
+          "size": 7694
+        },
+        "xlsx": {
+          "name": "ko-daejung-eumak-100dae-myeongban_KO.xlsx",
+          "size": 12570
         }
       }
     },

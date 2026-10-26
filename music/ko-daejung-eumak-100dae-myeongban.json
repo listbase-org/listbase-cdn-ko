@@ -1,0 +1,961 @@
+{
+  "id": "ko-daejung-eumak-100dae-myeongban",
+  "name": "한국 대중음악 100대 명반",
+  "title": "한국 대중음악 100대 명반",
+  "description": "2007년 경향신문·가슴네트워크가 선정한 한국 대중음악 100대 명반의 순위, 가수, 앨범명, 발매년도, 음반사 목록입니다.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/한국대중음악_100대_명반",
+  "source_url": "https://ko.wikipedia.org/wiki/한국대중음악_100대_명반",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "release_year",
+      "label": "Release Year",
+      "type": "string"
+    },
+    {
+      "key": "label",
+      "label": "Label",
+      "type": "string"
+    },
+    {
+      "key": "score",
+      "label": "Score",
+      "type": "number"
+    },
+    {
+      "key": "recommendations",
+      "label": "Recommendations",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "artist": "들국화",
+      "album": "행진",
+      "release_year": "1985년",
+      "label": "서라벌레코드",
+      "score": "207",
+      "recommendations": "45"
+    },
+    {
+      "rank": "2",
+      "artist": "유재하",
+      "album": "사랑하기 때문에",
+      "release_year": "1987년",
+      "label": "서울음반",
+      "score": "182",
+      "recommendations": "41"
+    },
+    {
+      "rank": "3",
+      "artist": "김민기",
+      "album": "김민기",
+      "release_year": "1971년",
+      "label": "대도레코드",
+      "score": "154",
+      "recommendations": "35"
+    },
+    {
+      "rank": "4",
+      "artist": "어떤날",
+      "album": "1960. 1965",
+      "release_year": "1986년",
+      "label": "서라벌레코드",
+      "score": "146",
+      "recommendations": "33"
+    },
+    {
+      "rank": "5",
+      "artist": "산울림",
+      "album": "산울림 1집",
+      "release_year": "1977년",
+      "label": "서라벌레코드",
+      "score": "142",
+      "recommendations": "32"
+    },
+    {
+      "rank": "6",
+      "artist": "산울림",
+      "album": "산울림 2집",
+      "release_year": "1978년",
+      "label": "서라벌레코드",
+      "score": "128",
+      "recommendations": "30"
+    },
+    {
+      "rank": "7",
+      "artist": "신중현과 엽전들",
+      "album": "신중현과 엽전들",
+      "release_year": "1974년",
+      "label": "지구레코드",
+      "score": "127",
+      "recommendations": "29"
+    },
+    {
+      "rank": "8",
+      "artist": "한대수",
+      "album": "멀고 먼 길",
+      "release_year": "1974년",
+      "label": "신세계레코드",
+      "score": "120",
+      "recommendations": "26"
+    },
+    {
+      "rank": "9",
+      "artist": "델리 스파이스",
+      "album": "Deli Spice",
+      "release_year": "1997년",
+      "label": "도레미레코드",
+      "score": "117",
+      "recommendations": "34"
+    },
+    {
+      "rank": "10",
+      "artist": "이상은",
+      "album": "공무도하가",
+      "release_year": "1995년",
+      "label": "Polygram",
+      "score": "111",
+      "recommendations": "31"
+    },
+    {
+      "rank": "11",
+      "artist": "어떤날",
+      "album": "어떤날 Ⅱ",
+      "release_year": "1989년",
+      "label": "서울음반",
+      "score": "110",
+      "recommendations": "28"
+    },
+    {
+      "rank": "12",
+      "artist": "사랑과 평화",
+      "album": "한동안 뜸했었지",
+      "release_year": "1978년",
+      "label": "서울음반",
+      "score": "109",
+      "recommendations": "32"
+    },
+    {
+      "rank": "13",
+      "artist": "김현식",
+      "album": "김현식 Ⅲ",
+      "release_year": "1986년",
+      "label": "동아기획",
+      "score": "107",
+      "recommendations": "30"
+    },
+    {
+      "rank": "14",
+      "artist": "시인과 촌장",
+      "album": "푸른 돛",
+      "release_year": "1986년",
+      "label": "서라벌레코드",
+      "score": "101",
+      "recommendations": "23"
+    },
+    {
+      "rank": "15",
+      "artist": "장필순",
+      "album": "나의 외로움이 널 부를 때",
+      "release_year": "1997년",
+      "label": "킹레코드",
+      "score": "99",
+      "recommendations": "29"
+    },
+    {
+      "rank": "16",
+      "artist": "이문세",
+      "album": "이문세4",
+      "release_year": "1987년",
+      "label": "서라벌레코드",
+      "score": "97",
+      "recommendations": "28"
+    },
+    {
+      "rank": "17",
+      "artist": "김현철",
+      "album": "김현철 Vol.1",
+      "release_year": "1989년",
+      "label": "서라벌레코드",
+      "score": "93",
+      "recommendations": "29"
+    },
+    {
+      "rank": "18",
+      "artist": "부활",
+      "album": "Rock will Never Die",
+      "release_year": "1986년",
+      "label": "서울음반",
+      "score": "92",
+      "recommendations": "26"
+    },
+    {
+      "rank": "19",
+      "artist": "한영애",
+      "album": "바라본다",
+      "release_year": "1988년",
+      "label": "동아기획",
+      "score": "91",
+      "recommendations": "28"
+    },
+    {
+      "rank": "20",
+      "artist": "H2O",
+      "album": "오늘 나는",
+      "release_year": "1993년",
+      "label": "로얄 레코드",
+      "score": "91",
+      "recommendations": "26"
+    },
+    {
+      "rank": "21",
+      "artist": "동물원",
+      "album": "동물원",
+      "release_year": "1988년",
+      "label": "서울음반",
+      "score": "89",
+      "recommendations": "24"
+    },
+    {
+      "rank": "22",
+      "artist": "봄여름가을겨울",
+      "album": "봄여름가을겨울",
+      "release_year": "1988년",
+      "label": "서라벌레코드",
+      "score": "88",
+      "recommendations": "26"
+    },
+    {
+      "rank": "23",
+      "artist": "유앤미 블루",
+      "album": "Cry…Our Wanna Be Nation!",
+      "release_year": "1996년",
+      "label": "LG 미디어",
+      "score": "87",
+      "recommendations": "26"
+    },
+    {
+      "rank": "24",
+      "artist": "서태지와 아이들",
+      "album": "서태지와 아이들",
+      "release_year": "1992년",
+      "label": "반도음반",
+      "score": "86",
+      "recommendations": "22"
+    },
+    {
+      "rank": "25",
+      "artist": "김광석",
+      "album": "다시 부르기 2",
+      "release_year": "1995년",
+      "label": "킹레코드",
+      "score": "84",
+      "recommendations": "22"
+    },
+    {
+      "rank": "26",
+      "artist": "노브레인",
+      "album": "청년폭도맹진가",
+      "release_year": "2000년",
+      "label": "문화사기단",
+      "score": "83",
+      "recommendations": "25"
+    },
+    {
+      "rank": "27",
+      "artist": "노이즈가든",
+      "album": "Noizegarden",
+      "release_year": "1996년",
+      "label": "베이프로덕션",
+      "score": "83",
+      "recommendations": "24"
+    },
+    {
+      "rank": "28",
+      "artist": "작은 거인",
+      "album": "작은거인 2집",
+      "release_year": "1981년",
+      "label": "오아시스레코드",
+      "score": "83",
+      "recommendations": "20"
+    },
+    {
+      "rank": "29",
+      "artist": "조용필",
+      "album": "조용필 1집",
+      "release_year": "1980년",
+      "label": "지구레코드",
+      "score": "82",
+      "recommendations": "21"
+    },
+    {
+      "rank": "30",
+      "artist": "서태지와 아이들",
+      "album": "서태지와 아이들Ⅱ",
+      "release_year": "1993년",
+      "label": "반도음반",
+      "score": "81",
+      "recommendations": "21"
+    },
+    {
+      "rank": "31",
+      "artist": "시인과 촌장",
+      "album": "숲",
+      "release_year": "1988년",
+      "label": "동아기획",
+      "score": "79",
+      "recommendations": "21"
+    },
+    {
+      "rank": "32",
+      "artist": "시나위",
+      "album": "Heavy Metal Sinawe",
+      "release_year": "1986년",
+      "label": "서라벌레코드",
+      "score": "78",
+      "recommendations": "26"
+    },
+    {
+      "rank": "33",
+      "artist": "마그마",
+      "album": "Magma",
+      "release_year": "1981년",
+      "label": "힛트레코트",
+      "score": "78",
+      "recommendations": "25"
+    },
+    {
+      "rank": "34",
+      "artist": "언니네이발관",
+      "album": "비둘기는 하늘의 쥐",
+      "release_year": "1996년",
+      "label": "석기시대",
+      "score": "78",
+      "recommendations": "24"
+    },
+    {
+      "rank": "35",
+      "artist": "듀스",
+      "album": "Force Deux",
+      "release_year": "1995년",
+      "label": "월드뮤직",
+      "score": "78",
+      "recommendations": "23"
+    },
+    {
+      "rank": "36",
+      "artist": "서태지와 아이들",
+      "album": "서태지와 아이들 4집",
+      "release_year": "1995년",
+      "label": "반도음반",
+      "score": "77",
+      "recommendations": "20"
+    },
+    {
+      "rank": "37",
+      "artist": "낯선 사람들",
+      "album": "낯선 사람들",
+      "release_year": "1993년",
+      "label": "하나뮤직",
+      "score": "76",
+      "recommendations": "27"
+    },
+    {
+      "rank": "38",
+      "artist": "N.EX.T",
+      "album": "The Return of N.EX.T Part 1: The Being",
+      "release_year": "1994년",
+      "label": "대영AV",
+      "score": "76",
+      "recommendations": "26"
+    },
+    {
+      "rank": "39",
+      "artist": "조동진",
+      "album": "조동진",
+      "release_year": "1979년",
+      "label": "대도레코드",
+      "score": "76",
+      "recommendations": "20"
+    },
+    {
+      "rank": "40",
+      "artist": "전인권, 허성욱",
+      "album": "1979-1987 추억 들국화",
+      "release_year": "1987년",
+      "label": "동아기획",
+      "score": "75",
+      "recommendations": "22"
+    },
+    {
+      "rank": "41",
+      "artist": "유앤미 블루",
+      "album": "Nothing`s Good Enough",
+      "release_year": "1994년",
+      "label": "Nices",
+      "score": "74",
+      "recommendations": "20"
+    },
+    {
+      "rank": "42",
+      "artist": "신촌블루스",
+      "album": "신촌 Blues",
+      "release_year": "1988년",
+      "label": "지구레코드",
+      "score": "71",
+      "recommendations": "21"
+    },
+    {
+      "rank": "43",
+      "artist": "동물원",
+      "album": "두 번째 노래모음",
+      "release_year": "1988년",
+      "label": "서울음반",
+      "score": "70",
+      "recommendations": "20"
+    },
+    {
+      "rank": "44",
+      "artist": "노래를 찾는 사람들",
+      "album": "노래를 찾는 사람들",
+      "release_year": "1984년",
+      "label": "서라벌레코드",
+      "score": "66",
+      "recommendations": "19"
+    },
+    {
+      "rank": "45",
+      "artist": "신촌블루스",
+      "album": "신촌블루스 Ⅱ",
+      "release_year": "1989년",
+      "label": "서라벌레코드",
+      "score": "65",
+      "recommendations": "20"
+    },
+    {
+      "rank": "46",
+      "artist": "조동익",
+      "album": "동경",
+      "release_year": "1994년",
+      "label": "킹레코드",
+      "score": "64",
+      "recommendations": "18"
+    },
+    {
+      "rank": "47",
+      "artist": "마이앤트메리",
+      "album": "JUST POP",
+      "release_year": "2004년",
+      "label": "Fresh Entertainment",
+      "score": "63",
+      "recommendations": "21"
+    },
+    {
+      "rank": "48",
+      "artist": "송골매",
+      "album": "송골매",
+      "release_year": "1982년",
+      "label": "지구레코드",
+      "score": "62",
+      "recommendations": "19"
+    },
+    {
+      "rank": "49",
+      "artist": "루시드 폴",
+      "album": "Lucid Fall",
+      "release_year": "2000년",
+      "label": "라디오뮤직",
+      "score": "61",
+      "recommendations": "20"
+    },
+    {
+      "rank": "50",
+      "artist": "이문세",
+      "album": "이문세5",
+      "release_year": "1988년",
+      "label": "킹레코드",
+      "score": "61",
+      "recommendations": "19"
+    },
+    {
+      "rank": "51",
+      "artist": "삐삐밴드",
+      "album": "문화혁명",
+      "release_year": "1995년",
+      "label": "디지탈미디어",
+      "score": "61",
+      "recommendations": "19"
+    },
+    {
+      "rank": "52",
+      "artist": "부활",
+      "album": "부활 Ⅱ: Remember",
+      "release_year": "1987년",
+      "label": "서울음반",
+      "score": "61",
+      "recommendations": "18"
+    },
+    {
+      "rank": "53",
+      "artist": "노래를 찾는 사람들",
+      "album": "노래를 찾는 사람들 2",
+      "release_year": "1989년",
+      "label": "서울음반",
+      "score": "61",
+      "recommendations": "17"
+    },
+    {
+      "rank": "54",
+      "artist": "봄여름가을겨울",
+      "album": "봄여름가을겨울 2",
+      "release_year": "1989년",
+      "label": "동아기획",
+      "score": "60",
+      "recommendations": "19"
+    },
+    {
+      "rank": "55",
+      "artist": "다섯 손가락",
+      "album": "다섯손가락 I",
+      "release_year": "1985년",
+      "label": "서울음반",
+      "score": "59",
+      "recommendations": "21"
+    },
+    {
+      "rank": "56",
+      "artist": "정태춘",
+      "album": "시인의 마을",
+      "release_year": "1978년",
+      "label": "서라벌레코드",
+      "score": "59",
+      "recommendations": "18"
+    },
+    {
+      "rank": "57",
+      "artist": "서태지와 아이들",
+      "album": "서태지와 아이들 3",
+      "release_year": "1994년",
+      "label": "반도음반",
+      "score": "59",
+      "recommendations": "17"
+    },
+    {
+      "rank": "58",
+      "artist": "김광석",
+      "album": "다시 부르기 1",
+      "release_year": "1993년",
+      "label": "서울음반",
+      "score": "57",
+      "recommendations": "16"
+    },
+    {
+      "rank": "59",
+      "artist": "못",
+      "album": "Non-Linear",
+      "release_year": "2004년",
+      "label": "Bounce",
+      "score": "56",
+      "recommendations": "19"
+    },
+    {
+      "rank": "60",
+      "artist": "아소토 유니온",
+      "album": "Sound Renovates A Structure",
+      "release_year": "2003년",
+      "label": "Omnione",
+      "score": "55",
+      "recommendations": "22"
+    },
+    {
+      "rank": "61",
+      "artist": "김수철",
+      "album": "김수철 1집",
+      "release_year": "1983년",
+      "label": "신세계음향",
+      "score": "55",
+      "recommendations": "16"
+    },
+    {
+      "rank": "62",
+      "artist": "장필순",
+      "album": "SOONY 6",
+      "release_year": "2002년",
+      "label": "하나 뮤직",
+      "score": "55",
+      "recommendations": "15"
+    },
+    {
+      "rank": "63",
+      "artist": "정태춘, 박은옥",
+      "album": "92년 장마, 종로에서",
+      "release_year": "1993년",
+      "label": "삶의문화",
+      "score": "55",
+      "recommendations": "14"
+    },
+    {
+      "rank": "64",
+      "artist": "허클베리 핀",
+      "album": "18일의 수요일",
+      "release_year": "1998년",
+      "label": "강아지문화예술",
+      "score": "54",
+      "recommendations": "18"
+    },
+    {
+      "rank": "65",
+      "artist": "DJ DOC",
+      "album": "The Life... DOC Blues",
+      "release_year": "2000년",
+      "label": "디지털미디어",
+      "score": "54",
+      "recommendations": "17"
+    },
+    {
+      "rank": "66",
+      "artist": "롤러코스터",
+      "album": "일상다반사",
+      "release_year": "2000년",
+      "label": "Cream",
+      "score": "52",
+      "recommendations": "19"
+    },
+    {
+      "rank": "67",
+      "artist": "양희은",
+      "album": "양희은 고운 노래 모음",
+      "release_year": "1971년",
+      "label": "유니버샬 레코드",
+      "score": "52",
+      "recommendations": "18"
+    },
+    {
+      "rank": "68",
+      "artist": "언니네이발관",
+      "album": "후일담",
+      "release_year": "1999년",
+      "label": "석기시대",
+      "score": "52",
+      "recommendations": "15"
+    },
+    {
+      "rank": "69",
+      "artist": "김두수",
+      "album": "자유혼",
+      "release_year": "2002년",
+      "label": "Riverman Music",
+      "score": "51",
+      "recommendations": "15"
+    },
+    {
+      "rank": "69",
+      "artist": "미선이",
+      "album": "Drifting",
+      "release_year": "1998년",
+      "label": "라디오뮤직",
+      "score": "51",
+      "recommendations": "15"
+    },
+    {
+      "rank": "71",
+      "artist": "패닉",
+      "album": "패닉",
+      "release_year": "1995년",
+      "label": "신촌뮤직",
+      "score": "50",
+      "recommendations": "17"
+    },
+    {
+      "rank": "72",
+      "artist": "Various Artists",
+      "album": "우리 노래 전시회",
+      "release_year": "1984년",
+      "label": "서라벌레코드",
+      "score": "49",
+      "recommendations": "15"
+    },
+    {
+      "rank": "73",
+      "artist": "산울림",
+      "album": "산울림 3집",
+      "release_year": "1978년",
+      "label": "서라벌레코드",
+      "score": "49",
+      "recommendations": "14"
+    },
+    {
+      "rank": "74",
+      "artist": "김광석",
+      "album": "김광석 네번째",
+      "release_year": "1994년",
+      "label": "킹 레코드",
+      "score": "48",
+      "recommendations": "16"
+    },
+    {
+      "rank": "75",
+      "artist": "크래쉬",
+      "album": "Endless Supply of Pain",
+      "release_year": "1994년",
+      "label": "Metal Force",
+      "score": "46",
+      "recommendations": "14"
+    },
+    {
+      "rank": "76",
+      "artist": "조용필",
+      "album": "조용필 7집",
+      "release_year": "1985년",
+      "label": "지구레코드",
+      "score": "46",
+      "recommendations": "13"
+    },
+    {
+      "rank": "77",
+      "artist": "DJ 소울스케이프",
+      "album": "180g Beats",
+      "release_year": "2000년",
+      "label": "마스터플랜",
+      "score": "45",
+      "recommendations": "17"
+    },
+    {
+      "rank": "78",
+      "artist": "안치환",
+      "album": "안치환 4집",
+      "release_year": "1995년",
+      "label": "킹 레코드",
+      "score": "45",
+      "recommendations": "15"
+    },
+    {
+      "rank": "79",
+      "artist": "강산에",
+      "album": "강산에 Vol.0",
+      "release_year": "1992년",
+      "label": "킹 레코드",
+      "score": "45",
+      "recommendations": "14"
+    },
+    {
+      "rank": "80",
+      "artist": "정태춘",
+      "album": "아, 대한민국…",
+      "release_year": "1990년",
+      "label": "삶의문화",
+      "score": "45",
+      "recommendations": "12"
+    },
+    {
+      "rank": "81",
+      "artist": "가리온",
+      "album": "Garion",
+      "release_year": "2004년",
+      "label": "Ales Music",
+      "score": "44",
+      "recommendations": "16"
+    },
+    {
+      "rank": "82",
+      "artist": "한대수",
+      "album": "무한대",
+      "release_year": "1989년",
+      "label": "신세계음향",
+      "score": "44",
+      "recommendations": "13"
+    },
+    {
+      "rank": "83",
+      "artist": "이정선",
+      "album": "30대",
+      "release_year": "1985년",
+      "label": "한국음반",
+      "score": "43",
+      "recommendations": "14"
+    },
+    {
+      "rank": "84",
+      "artist": "듀스",
+      "album": "Deuxism",
+      "release_year": "1993년",
+      "label": "지구레코드",
+      "score": "43",
+      "recommendations": "13"
+    },
+    {
+      "rank": "85",
+      "artist": "허클베리 핀",
+      "album": "올랭피오의 별",
+      "release_year": "2004년",
+      "label": "Sha label",
+      "score": "42",
+      "recommendations": "13"
+    },
+    {
+      "rank": "86",
+      "artist": "이승열",
+      "album": "이날, 이때, 이즈음에....",
+      "release_year": "2003년",
+      "label": "플럭서스 뮤직",
+      "score": "41",
+      "recommendations": "16"
+    },
+    {
+      "rank": "87",
+      "artist": "이장혁",
+      "album": "이장혁 Vol.1",
+      "release_year": "2004년",
+      "label": "12 Monkeys",
+      "score": "41",
+      "recommendations": "13"
+    },
+    {
+      "rank": "88",
+      "artist": "빛과 소금",
+      "album": "빛과 소금 Vol.1",
+      "release_year": "1990년",
+      "label": "동아기획",
+      "score": "41",
+      "recommendations": "12"
+    },
+    {
+      "rank": "89",
+      "artist": "패닉",
+      "album": "밑",
+      "release_year": "1996년",
+      "label": "신촌뮤직",
+      "score": "40",
+      "recommendations": "15"
+    },
+    {
+      "rank": "90",
+      "artist": "두번째 달",
+      "album": "두번째 달",
+      "release_year": "2005년",
+      "label": "Triangle",
+      "score": "40",
+      "recommendations": "14"
+    },
+    {
+      "rank": "91",
+      "artist": "양희은",
+      "album": "1991",
+      "release_year": "1991년",
+      "label": "킹레코드",
+      "score": "39",
+      "recommendations": "13"
+    },
+    {
+      "rank": "92",
+      "artist": "클래지콰이 프로젝트",
+      "album": "Instant Pig",
+      "release_year": "2004년",
+      "label": "플럭서스 뮤직",
+      "score": "39",
+      "recommendations": "13"
+    },
+    {
+      "rank": "93",
+      "artist": "강산에",
+      "album": "나는 사춘기",
+      "release_year": "1994년",
+      "label": "킹 레코드",
+      "score": "38",
+      "recommendations": "14"
+    },
+    {
+      "rank": "94",
+      "artist": "이소라",
+      "album": "눈썹달",
+      "release_year": "2005년",
+      "label": "T-Entertainment",
+      "score": "38",
+      "recommendations": "14"
+    },
+    {
+      "rank": "95",
+      "artist": "전인권",
+      "album": "전인권",
+      "release_year": "1988년",
+      "label": "동아기획",
+      "score": "38",
+      "recommendations": "12"
+    },
+    {
+      "rank": "96",
+      "artist": "시나위",
+      "album": "Down and Up",
+      "release_year": "1987년",
+      "label": "오아시스레코드",
+      "score": "37",
+      "recommendations": "12"
+    },
+    {
+      "rank": "97",
+      "artist": "더블유 앤 웨일",
+      "album": "Where the Story Ends",
+      "release_year": "2005년",
+      "label": "오아시스레코드",
+      "score": "37",
+      "recommendations": "11"
+    },
+    {
+      "rank": "98",
+      "artist": "브라운아이즈",
+      "album": "Brown Eyes",
+      "release_year": "2001년",
+      "label": "갑 엔터테인먼트",
+      "score": "35",
+      "recommendations": "15"
+    },
+    {
+      "rank": "99",
+      "artist": "이상은",
+      "album": "외롭고 웃긴 가게",
+      "release_year": "1997년",
+      "label": "킹레코드",
+      "score": "35",
+      "recommendations": "13"
+    },
+    {
+      "rank": "100",
+      "artist": "동서남북",
+      "album": "아주 오래된 기억과의 조우",
+      "release_year": "1988년",
+      "label": "예음",
+      "score": "35",
+      "recommendations": "10"
+    }
+  ],
+  "meta": {
+    "title": "한국 대중음악 100대 명반 - Free Download",
+    "description": "2007년 경향신문·가슴네트워크가 선정한 한국 대중음악 100대 명반의 순위, 가수, 앨범명, 발매년도, 음반사 목록입니다. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국 대중음악 100대 명반 | ListBase",
+    "seo_description": "Download 한국 대중음악 100대 명반 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국대중음악_100대_명반"
+    ]
+  }
+}
