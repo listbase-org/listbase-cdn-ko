@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:34.564Z",
-  "total_datasets": 487,
-  "total_records": 451578,
+  "generated": "2026-10-26T02:20:37.051Z",
+  "total_datasets": 488,
+  "total_records": 451602,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -11453,6 +11453,34 @@
         "xlsx": {
           "name": "ko-sigandae-pacific_KO.xlsx",
           "size": 8417
+        }
+      }
+    },
+    {
+      "id": "ko-24-jeolgi",
+      "name": "24절기",
+      "category": "time",
+      "record_count": 24,
+      "columns": [
+        "name",
+        "solar_longitude",
+        "date_range",
+        "date_kr_2024",
+        "chinese",
+        "japanese",
+        "vietnamese"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/절기",
+      "updated": "2026-10",
+      "size": 9516,
+      "files": {
+        "csv": {
+          "name": "ko-24-jeolgi_KO.csv",
+          "size": 4108
+        },
+        "xlsx": {
+          "name": "ko-24-jeolgi_KO.xlsx",
+          "size": 9351
         }
       }
     },

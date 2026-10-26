@@ -1,0 +1,277 @@
+{
+  "id": "ko-24-jeolgi",
+  "name": "24절기",
+  "title": "24절기",
+  "description": "입춘부터 대한까지 24절기의 이름(한자), 태양 황경, 양력 날짜 범위, 2024년 대한민국 날짜와 중국어·일본어·베트남어 명칭 목록입니다.",
+  "category": "time",
+  "source": "https://ko.wikipedia.org/wiki/절기",
+  "source_url": "https://ko.wikipedia.org/wiki/절기",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "solar_longitude",
+      "label": "Solar Longitude",
+      "type": "string"
+    },
+    {
+      "key": "date_range",
+      "label": "Date Range",
+      "type": "string"
+    },
+    {
+      "key": "date_kr_2024",
+      "label": "Date Kr 2024",
+      "type": "string"
+    },
+    {
+      "key": "chinese",
+      "label": "Chinese",
+      "type": "string"
+    },
+    {
+      "key": "japanese",
+      "label": "Japanese",
+      "type": "string"
+    },
+    {
+      "key": "vietnamese",
+      "label": "Vietnamese",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "입춘(立春)",
+      "solar_longitude": "315°",
+      "date_range": "2월 3일 또는 2월 4일",
+      "date_kr_2024": "2월 4일",
+      "chinese": "중국어: 立春, 병음: lìchūn 리춘",
+      "japanese": "りっしゅん 릿슌",
+      "vietnamese": "Lập xuân 럽쑤언"
+    },
+    {
+      "name": "우수(雨水)",
+      "solar_longitude": "330°",
+      "date_range": "2월 18일 또는 2월 19일",
+      "date_kr_2024": "2월 19일",
+      "chinese": "중국어: 雨水, 병음: yǔshuǐ 위수이",
+      "japanese": "うすい 우스이",
+      "vietnamese": "Vũ thủy 부투이"
+    },
+    {
+      "name": "경칩(驚蟄)",
+      "solar_longitude": "345°",
+      "date_range": "3월 5일 또는 3월 6일",
+      "date_kr_2024": "3월 5일",
+      "chinese": "중국어 간체자: 惊蛰, 정체자: 驚蟄, 병음: jīngzhé 징저",
+      "japanese": "けいちつ 게이치쓰",
+      "vietnamese": "Kinh trập 낀쩝"
+    },
+    {
+      "name": "춘분(春分)",
+      "solar_longitude": "0°",
+      "date_range": "3월 20일 또는 3월 21일",
+      "date_kr_2024": "3월 20일",
+      "chinese": "중국어: 春分, 병음: chūnfēn 춘펀",
+      "japanese": "しゅんぶん 슌분",
+      "vietnamese": "Xuân phân 쑤언펀"
+    },
+    {
+      "name": "청명(淸明)",
+      "solar_longitude": "15°",
+      "date_range": "4월 4일 또는 4월 5일",
+      "date_kr_2024": "4월 4일",
+      "chinese": "중국어: 清明, 병음: qīngmíng 칭밍",
+      "japanese": "せいめい 세이메이",
+      "vietnamese": "Thanh minh 타인민"
+    },
+    {
+      "name": "곡우(穀雨)",
+      "solar_longitude": "30°",
+      "date_range": "4월 19일 또는 4월 20일",
+      "date_kr_2024": "4월 19일",
+      "chinese": "중국어 간체자: 谷雨, 정체자: 穀雨, 병음: gǔyǔ 구위",
+      "japanese": "こくう 고쿠우",
+      "vietnamese": "Cốc vũ 꼭부"
+    },
+    {
+      "name": "입하(立夏)",
+      "solar_longitude": "45°",
+      "date_range": "5월 5일 또는 5월 6일",
+      "date_kr_2024": "5월 5일",
+      "chinese": "중국어: 立夏, 병음: lìxià 리샤",
+      "japanese": "りっか 릿카",
+      "vietnamese": "Lập hạ 럽하"
+    },
+    {
+      "name": "소만(小滿)",
+      "solar_longitude": "60°",
+      "date_range": "5월 20일 또는 5월 21일",
+      "date_kr_2024": "5월 20일",
+      "chinese": "중국어 간체자: 小满, 정체자: 小滿, 병음: xiǎomǎn 샤오만",
+      "japanese": "小満 しょうまん 쇼만",
+      "vietnamese": "Tiểu mãn 띠에우만"
+    },
+    {
+      "name": "망종(芒種)",
+      "solar_longitude": "75°",
+      "date_range": "6월 5일 또는 6월 6일",
+      "date_kr_2024": "6월 5일",
+      "chinese": "중국어 간체자: 芒种, 정체자: 芒種, 병음: mángzhòng 망중",
+      "japanese": "ぼうしゅ 보슈",
+      "vietnamese": "Mang chủng 망쭝"
+    },
+    {
+      "name": "하지(夏至)",
+      "solar_longitude": "90°",
+      "date_range": "6월 21일 또는 6월 22일",
+      "date_kr_2024": "6월 21일",
+      "chinese": "중국어: 夏至, 병음: xiàzhì 샤즈",
+      "japanese": "げし 게시",
+      "vietnamese": "Hạ chí 하찌"
+    },
+    {
+      "name": "소서(小暑)",
+      "solar_longitude": "105°",
+      "date_range": "7월 6일 또는 7월 7일",
+      "date_kr_2024": "7월 6일",
+      "chinese": "중국어: 小暑, 병음: xiǎoshǔ 샤오수",
+      "japanese": "しょうしょ 쇼쇼",
+      "vietnamese": "Tiểu thử 띠에우트"
+    },
+    {
+      "name": "대서(大暑)",
+      "solar_longitude": "120°",
+      "date_range": "7월 22일 또는 7월 23일",
+      "date_kr_2024": "7월 22일",
+      "chinese": "중국어: 大暑, 병음: dàshǔ 다수",
+      "japanese": "たいしょ 다이쇼",
+      "vietnamese": "Đại thử 다이트"
+    },
+    {
+      "name": "입추(立秋)",
+      "solar_longitude": "135°",
+      "date_range": "8월 7일 또는 8월 8일",
+      "date_kr_2024": "8월 7일",
+      "chinese": "중국어: 立秋, 병음: lìqiū 리추",
+      "japanese": "りっしゅう 릿슈",
+      "vietnamese": "Lập thu 럽투"
+    },
+    {
+      "name": "처서(處暑)",
+      "solar_longitude": "150°",
+      "date_range": "8월 22일 또는 8월 23일",
+      "date_kr_2024": "8월 22일",
+      "chinese": "중국어 간체자: 处暑, 정체자: 處暑, 병음: chǔshǔ 추수",
+      "japanese": "処暑 しょしょ 쇼쇼",
+      "vietnamese": "Xử thử 쓰트"
+    },
+    {
+      "name": "백로(白露)",
+      "solar_longitude": "165°",
+      "date_range": "9월 7일 또는 9월 8일",
+      "date_kr_2024": "9월 7일",
+      "chinese": "중국어: 白露, 병음: báilù 바이루",
+      "japanese": "はくろ 하쿠로",
+      "vietnamese": "Bạch lộ 바익로"
+    },
+    {
+      "name": "추분(秋分)",
+      "solar_longitude": "180°",
+      "date_range": "9월 22일 또는 9월 23일",
+      "date_kr_2024": "9월 22일",
+      "chinese": "중국어: 秋分, 병음: qiūfēn 추펀",
+      "japanese": "しゅうぶん 슈분",
+      "vietnamese": "Thu phân 투펀"
+    },
+    {
+      "name": "한로(寒露)",
+      "solar_longitude": "195°",
+      "date_range": "10월 7일 또는 10월 8일",
+      "date_kr_2024": "10월 7일",
+      "chinese": "중국어: 寒露, 병음: hánlù 한루",
+      "japanese": "かんろ 간로",
+      "vietnamese": "Hàn lộ 한로"
+    },
+    {
+      "name": "상강(霜降)",
+      "solar_longitude": "210°",
+      "date_range": "10월 23일 또는 10월 24일",
+      "date_kr_2024": "10월 23일",
+      "chinese": "중국어: 霜降, 병음: shuāngjiàng 솽장",
+      "japanese": "そうこう 소코",
+      "vietnamese": "Sương giáng 스엉장"
+    },
+    {
+      "name": "입동(立冬)",
+      "solar_longitude": "225°",
+      "date_range": "11월 7일 또는 11월 8일",
+      "date_kr_2024": "11월 7일",
+      "chinese": "중국어: 立冬, 병음: lìdōng 리둥",
+      "japanese": "りっとう 릿토",
+      "vietnamese": "Lập đông 럽동"
+    },
+    {
+      "name": "소설(小雪)",
+      "solar_longitude": "240°",
+      "date_range": "11월 21일 또는 11월 22일",
+      "date_kr_2024": "11월 21일",
+      "chinese": "중국어: 小雪, 병음: xiǎoxuě 샤오쉐",
+      "japanese": "しょうせつ 쇼세쓰",
+      "vietnamese": "Tiểu tuyết 띠에우뚜옛"
+    },
+    {
+      "name": "대설(大雪)",
+      "solar_longitude": "255°",
+      "date_range": "12월 6일 또는 12월 7일",
+      "date_kr_2024": "12월 6일",
+      "chinese": "중국어: 大雪, 병음: dàxuě 다쉐",
+      "japanese": "たいせつ 다이세쓰",
+      "vietnamese": "Đại tuyết 다이뚜옛"
+    },
+    {
+      "name": "동지(冬至)",
+      "solar_longitude": "270°",
+      "date_range": "12월 21일 또는 12월 22일",
+      "date_kr_2024": "12월 21일",
+      "chinese": "중국어: 冬至, 병음: dōngzhì 둥즈",
+      "japanese": "とうじ 도지",
+      "vietnamese": "Đông chí 동찌"
+    },
+    {
+      "name": "소한(小寒)",
+      "solar_longitude": "285°",
+      "date_range": "1월 5일 또는 1월 6일",
+      "date_kr_2024": "1월 5일",
+      "chinese": "중국어: 小寒, 병음: xiǎohán 샤오한",
+      "japanese": "しょうかん 쇼칸",
+      "vietnamese": "Tiểu hàn 띠에우한"
+    },
+    {
+      "name": "대한(大寒)",
+      "solar_longitude": "300°",
+      "date_range": "1월 19일 또는 1월 20일",
+      "date_kr_2024": "1월 19일",
+      "chinese": "중국어: 大寒, 병음: dàhán 다한",
+      "japanese": "だいかん 다이칸",
+      "vietnamese": "Đại hàn 다이한"
+    }
+  ],
+  "meta": {
+    "title": "24절기 - Free Download",
+    "description": "입춘부터 대한까지 24절기의 이름(한자), 태양 황경, 양력 날짜 범위, 2024년 대한민국 날짜와 중국어·일본어·베트남어 명칭 목록입니다. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "24절기 | ListBase",
+    "seo_description": "Download 24절기 — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/절기"
+    ]
+  }
+}
