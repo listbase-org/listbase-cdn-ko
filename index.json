@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:05.542Z",
-  "total_datasets": 499,
-  "total_records": 452082,
+  "generated": "2026-10-26T02:21:08.243Z",
+  "total_datasets": 500,
+  "total_records": 452160,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -6774,6 +6774,29 @@
         "xlsx": {
           "name": "ko-ulsan-haengjeong-guyek-yeoksa_KO.xlsx",
           "size": 24947
+        }
+      }
+    },
+    {
+      "id": "ko-beopjeong-gamyeombyeong",
+      "name": "대한민국의 법정 감염병 (제1군~제5군·지정 감염병)",
+      "category": "health",
+      "record_count": 78,
+      "columns": [
+        "group",
+        "disease"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_법정_감염병",
+      "updated": "2026-10",
+      "size": 8684,
+      "files": {
+        "csv": {
+          "name": "ko-beopjeong-gamyeombyeong_KO.csv",
+          "size": 3473
+        },
+        "xlsx": {
+          "name": "ko-beopjeong-gamyeombyeong_KO.xlsx",
+          "size": 8592
         }
       }
     },

@@ -1,0 +1,348 @@
+{
+  "id": "ko-beopjeong-gamyeombyeong",
+  "name": "대한민국의 법정 감염병 (제1군~제5군·지정 감염병)",
+  "title": "대한민국의 법정 감염병 (제1군~제5군·지정 감염병)",
+  "description": "「감염병의 예방 및 관리에 관한 법률」(2015년 개정 기준)의 군별 분류에 따른 대한민국 법정 감염병 목록입니다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_법정_감염병",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_법정_감염병",
+  "updated": "2026-10",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "disease",
+      "label": "Disease",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "group": "제1군 감염병",
+      "disease": "파라티푸스"
+    },
+    {
+      "group": "제1군 감염병",
+      "disease": "장출혈성 대장균감염증"
+    },
+    {
+      "group": "제1군 감염병",
+      "disease": "A형 간염"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "디프테리아"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "백일해 (百日咳)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "파상풍 (破傷風)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "홍역 (紅疫)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "유행성 이하선염 (流行性耳下腺炎)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "풍진 (風疹)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "소아마비"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "B형간염"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "일본뇌염"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "수두 (水痘)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "B형 헤모필루스 인플루엔자 (Hib)"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "폐렴구균"
+    },
+    {
+      "group": "제2군 감염병",
+      "disease": "코로나-19"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "말라리아"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "결핵 (結核)"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "한센병"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "성홍열 (猩紅熱)"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "수막구균성 수막염"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "레지오넬라증"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "비브리오 패혈증"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "발진티푸스"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "발진열"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "쯔쯔가무시증"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "렙토스피라증"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "브루셀라증"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "탄저"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "공수병"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "신증후군출혈열"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "인플루엔자"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "후천성 면역결핍증 (AIDS)"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "매독"
+    },
+    {
+      "group": "제3군 감염병",
+      "disease": "크로이츠펠트 야콥병 및 변종 크로이츠펠트 야콥병 (KNU)"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "흑사병"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "황열"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "뎅기열"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "바이러스성 출혈열 - 에볼라열 , 마버그열 , 라싸열"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "두창"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "보툴리눔독소증"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "중증 급성 호흡기 증후군 (SARS)"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "동물 인플루엔자 인체감염증"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "신종 인플루엔자"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "야토병"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "큐열 (Q熱)"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "웨스트나일열"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "신종감염병증후군"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "라임병"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "진드기매개뇌염"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "유비저 (類鼻疽)"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "치쿤구니야열"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "중증열성혈소판감소증후군 (SFTS)"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "중동호흡기증후군"
+    },
+    {
+      "group": "제4군 감염병",
+      "disease": "지카바이러스 (소두증)"
+    },
+    {
+      "group": "제5군 감염병",
+      "disease": "회충증"
+    },
+    {
+      "group": "제5군 감염병",
+      "disease": "편충 증"
+    },
+    {
+      "group": "제5군 감염병",
+      "disease": "요충 증"
+    },
+    {
+      "group": "제5군 감염병",
+      "disease": "간흡충 증"
+    },
+    {
+      "group": "제5군 감염병",
+      "disease": "폐흡충 증"
+    },
+    {
+      "group": "제5군 감염병",
+      "disease": "장흡충 증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "C형 간염"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "수족구병"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "임질"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "클라미디아"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "연성하감"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "성기단순포진"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "첨규콘딜롬"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "반코마이신내성황색포도알균(VRSA) 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "반코마이신내성장알균(VRE) 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "메티실린내성황색포도알균(MRSA) 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "다제내성녹농균(MRPA) 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "다제내성아시네토박터바우마니균(MRAB) 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "카바페넴내성장내세균속균종(CRE) 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "장관감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "급성호흡기감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "해외유입 기생충 감염증"
+    },
+    {
+      "group": "지정 감염병",
+      "disease": "엔테로바이러스 감염증"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 법정 감염병 (제1군~제5군·지정 감염병) - Free Download",
+    "description": "「감염병의 예방 및 관리에 관한 법률」(2015년 개정 기준)의 군별 분류에 따른 대한민국 법정 감염병 목록입니다. Contains 78 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 법정 감염병 (제1군~제5군·지정 감염병) | ListBase",
+    "seo_description": "Download 대한민국의 법정 감염병 (제1군~제5군·지정 감염병) — 78 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 78 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_법정_감염병"
+    ]
+  }
+}
