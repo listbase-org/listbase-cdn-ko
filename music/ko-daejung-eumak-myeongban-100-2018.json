@@ -1,0 +1,541 @@
+{
+  "id": "ko-daejung-eumak-myeongban-100-2018",
+  "name": "한국 대중음악 명반 100 (2018)",
+  "title": "한국 대중음악 명반 100 (2018)",
+  "description": "2018년 멜론·한겨레·태림스코어가 공동 기획하고 전문가 47명이 선정한 한국 대중음악 명반 100장의 가수와 앨범 목록입니다.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/한국_대중음악_명반_100",
+  "source_url": "https://ko.wikipedia.org/wiki/한국_대중음악_명반_100",
+  "updated": "2026-10",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "artist": "유재하",
+      "album": "사랑하기 때문에"
+    },
+    {
+      "no": 2,
+      "artist": "들국화",
+      "album": "들국화"
+    },
+    {
+      "no": 3,
+      "artist": "신중현과 엽전들",
+      "album": "신중현과 엽전들"
+    },
+    {
+      "no": 4,
+      "artist": "김민기",
+      "album": "김민기"
+    },
+    {
+      "no": 5,
+      "artist": "산울림",
+      "album": "산울림 새노래 모음"
+    },
+    {
+      "no": 6,
+      "artist": "어떤날",
+      "album": "어떤날 I 1960 · 1965"
+    },
+    {
+      "no": 7,
+      "artist": "산울림",
+      "album": "산울림 제2집"
+    },
+    {
+      "no": 8,
+      "artist": "한대수",
+      "album": "멀고 먼 길"
+    },
+    {
+      "no": 9,
+      "artist": "N.EX.T",
+      "album": "The Return of N.EX.T Part 1: The Being"
+    },
+    {
+      "no": 10,
+      "artist": "이상은",
+      "album": "공무도하가"
+    },
+    {
+      "no": 11,
+      "artist": "장필순",
+      "album": "나의 외로움이 널 부를 때"
+    },
+    {
+      "no": 12,
+      "artist": "김현철",
+      "album": "김현철 Vol.1"
+    },
+    {
+      "no": 13,
+      "artist": "이문세",
+      "album": "이문세4"
+    },
+    {
+      "no": 14,
+      "artist": "시인과 촌장",
+      "album": "푸른 돛"
+    },
+    {
+      "no": 15,
+      "artist": "사랑과 평화",
+      "album": "한동안 뜸 했었지"
+    },
+    {
+      "no": 16,
+      "artist": "김현식",
+      "album": "김현식 Ⅲ"
+    },
+    {
+      "no": 17,
+      "artist": "한영애",
+      "album": "바라본다"
+    },
+    {
+      "no": 18,
+      "artist": "델리스파이스",
+      "album": "Deli Spice"
+    },
+    {
+      "no": 19,
+      "artist": "듀스",
+      "album": "Force Deux"
+    },
+    {
+      "no": 20,
+      "artist": "어떤날",
+      "album": "어떤날 II"
+    },
+    {
+      "no": 21,
+      "artist": "노이즈가든",
+      "album": "Noizegarden"
+    },
+    {
+      "no": 22,
+      "artist": "서태지와 아이들",
+      "album": "Seotaiji and Boys 1"
+    },
+    {
+      "no": 23,
+      "artist": "송골매",
+      "album": "송골매 2집"
+    },
+    {
+      "no": 24,
+      "artist": "김광석",
+      "album": "다시 부르기 2"
+    },
+    {
+      "no": 25,
+      "artist": "조동진",
+      "album": "조동진"
+    },
+    {
+      "no": 26,
+      "artist": "노브레인",
+      "album": "怒"
+    },
+    {
+      "no": 27,
+      "artist": "신촌 블루스",
+      "album": "신촌블루스 II"
+    },
+    {
+      "no": 28,
+      "artist": "조용필",
+      "album": "조용필 7집"
+    },
+    {
+      "no": 29,
+      "artist": "정태춘, 박은옥",
+      "album": "92년 장마, 종로에서"
+    },
+    {
+      "no": 30,
+      "artist": "이소라",
+      "album": "눈썹달"
+    },
+    {
+      "no": 31,
+      "artist": "H2O",
+      "album": "오늘 나는"
+    },
+    {
+      "no": 32,
+      "artist": "김수철",
+      "album": "작은거인 김수철"
+    },
+    {
+      "no": 33,
+      "artist": "삐삐밴드",
+      "album": "문화혁명"
+    },
+    {
+      "no": 34,
+      "artist": "시나위",
+      "album": "Heavy Metal Sinawe"
+    },
+    {
+      "no": 35,
+      "artist": "봄여름가을겨울",
+      "album": "봄여름가을겨울"
+    },
+    {
+      "no": 36,
+      "artist": "가리온",
+      "album": "Garion"
+    },
+    {
+      "no": 37,
+      "artist": "마그마",
+      "album": "Magma"
+    },
+    {
+      "no": 38,
+      "artist": "동물원",
+      "album": "동물원"
+    },
+    {
+      "no": 39,
+      "artist": "DJ 소울스케이프",
+      "album": "180g Beats"
+    },
+    {
+      "no": 40,
+      "artist": "유앤미 블루",
+      "album": "Cry...Our Wanna Be Nation!"
+    },
+    {
+      "no": 41,
+      "artist": "낯선 사람들",
+      "album": "낯선 사람들"
+    },
+    {
+      "no": 42,
+      "artist": "이문세",
+      "album": "이문세5"
+    },
+    {
+      "no": 43,
+      "artist": "빛과 소금",
+      "album": "빛과 소금 Vol.1"
+    },
+    {
+      "no": 44,
+      "artist": "노래를 찾는 사람들",
+      "album": "노래를 찾는 사람들 2"
+    },
+    {
+      "no": 45,
+      "artist": "아소토 유니온",
+      "album": "Sound Renovates a Structure"
+    },
+    {
+      "no": 46,
+      "artist": "롤러코스터",
+      "album": "일상다반사"
+    },
+    {
+      "no": 47,
+      "artist": "작은거인",
+      "album": "작은 거인 2집"
+    },
+    {
+      "no": 48,
+      "artist": "조동익",
+      "album": "동경"
+    },
+    {
+      "no": 49,
+      "artist": "동물원",
+      "album": "두 번째 노래 모음"
+    },
+    {
+      "no": 50,
+      "artist": "언니네이발관",
+      "album": "가장 보통의 존재"
+    },
+    {
+      "no": 51,
+      "artist": "크래쉬",
+      "album": "Endless Supply of Pain"
+    },
+    {
+      "no": 52,
+      "artist": "서태지와 아이들",
+      "album": "Seotaiji and Boys 2"
+    },
+    {
+      "no": 53,
+      "artist": "장필순",
+      "album": "SOONY 6"
+    },
+    {
+      "no": 54,
+      "artist": "시인과 촌장",
+      "album": "숲"
+    },
+    {
+      "no": 55,
+      "artist": "조용필",
+      "album": "조용필 1집"
+    },
+    {
+      "no": 56,
+      "artist": "이센스",
+      "album": "The Anecdote"
+    },
+    {
+      "no": 57,
+      "artist": "신해철",
+      "album": "Myself"
+    },
+    {
+      "no": 58,
+      "artist": "김정미",
+      "album": "Now"
+    },
+    {
+      "no": 59,
+      "artist": "부활",
+      "album": "Rock will Never Die"
+    },
+    {
+      "no": 60,
+      "artist": "DJ DOC",
+      "album": "The Life... DOC Blues 5%"
+    },
+    {
+      "no": 61,
+      "artist": "패닉",
+      "album": "밑"
+    },
+    {
+      "no": 62,
+      "artist": "김두수",
+      "album": "자유혼"
+    },
+    {
+      "no": 63,
+      "artist": "이정선",
+      "album": "30대"
+    },
+    {
+      "no": 64,
+      "artist": "015B",
+      "album": "The Third Wave"
+    },
+    {
+      "no": 65,
+      "artist": "루시드 폴",
+      "album": "Lucid Fall"
+    },
+    {
+      "no": 66,
+      "artist": "정태춘",
+      "album": "시인의 마을"
+    },
+    {
+      "no": 67,
+      "artist": "브라운 아이즈",
+      "album": "Brown Eyes"
+    },
+    {
+      "no": 68,
+      "artist": "전인권, 허성욱",
+      "album": "1979-1987 추억 들국화"
+    },
+    {
+      "no": 69,
+      "artist": "서태지와 아이들",
+      "album": "Seotaiji and Boys 3"
+    },
+    {
+      "no": 70,
+      "artist": "못",
+      "album": "비선형"
+    },
+    {
+      "no": 71,
+      "artist": "마이앤트메리",
+      "album": "JUST POP"
+    },
+    {
+      "no": 72,
+      "artist": "신촌블루스",
+      "album": "신촌 Blues"
+    },
+    {
+      "no": 73,
+      "artist": "검정치마",
+      "album": "201"
+    },
+    {
+      "no": 74,
+      "artist": "이장희",
+      "album": "그건 너"
+    },
+    {
+      "no": 75,
+      "artist": "서울전자음악단",
+      "album": "Life is Strange"
+    },
+    {
+      "no": 76,
+      "artist": "Various Artists",
+      "album": "우리 노래 전시회"
+    },
+    {
+      "no": 77,
+      "artist": "3호선 버터플라이",
+      "album": "Dreamtalk"
+    },
+    {
+      "no": 78,
+      "artist": "부활",
+      "album": "Remember"
+    },
+    {
+      "no": 79,
+      "artist": "이장혁",
+      "album": "이장혁 Vol.1"
+    },
+    {
+      "no": 80,
+      "artist": "양희은",
+      "album": "1991"
+    },
+    {
+      "no": 81,
+      "artist": "윤상",
+      "album": "CLICHÈ"
+    },
+    {
+      "no": 82,
+      "artist": "서태지와 아이들",
+      "album": "Seotaiji and Boys 4"
+    },
+    {
+      "no": 83,
+      "artist": "이승환",
+      "album": "Human"
+    },
+    {
+      "no": 84,
+      "artist": "언니네이발관",
+      "album": "비둘기는 하늘의 쥐"
+    },
+    {
+      "no": 85,
+      "artist": "양희은",
+      "album": "고운노래 모음"
+    },
+    {
+      "no": 86,
+      "artist": "봄여름가을겨울",
+      "album": "봄여름가을겨울 2"
+    },
+    {
+      "no": 87,
+      "artist": "김광석",
+      "album": "김광석 네번째"
+    },
+    {
+      "no": 88,
+      "artist": "김건모",
+      "album": "Kim Gun Mo 3"
+    },
+    {
+      "no": 89,
+      "artist": "미선이",
+      "album": "Drifting"
+    },
+    {
+      "no": 90,
+      "artist": "언니네이발관",
+      "album": "후일담"
+    },
+    {
+      "no": 91,
+      "artist": "패닉",
+      "album": "Panic"
+    },
+    {
+      "no": 92,
+      "artist": "전람회",
+      "album": "Exhibition"
+    },
+    {
+      "no": 93,
+      "artist": "할로우 잰",
+      "album": "Rough Draft in Progress"
+    },
+    {
+      "no": 94,
+      "artist": "장기하와 얼굴들",
+      "album": "별일 없이 산다"
+    },
+    {
+      "no": 95,
+      "artist": "안치환",
+      "album": "안치환 4집"
+    },
+    {
+      "no": 96,
+      "artist": "F(x)",
+      "album": "Pink Tape"
+    },
+    {
+      "no": 97,
+      "artist": "버벌진트",
+      "album": "누명"
+    },
+    {
+      "no": 98,
+      "artist": "W",
+      "album": "Where the Story Ends"
+    },
+    {
+      "no": 99,
+      "artist": "윤영배",
+      "album": "위험한 세계"
+    },
+    {
+      "no": 100,
+      "artist": "송창식",
+      "album": "사랑이야 / 토함산"
+    }
+  ],
+  "meta": {
+    "title": "한국 대중음악 명반 100 (2018) - Free Download",
+    "description": "2018년 멜론·한겨레·태림스코어가 공동 기획하고 전문가 47명이 선정한 한국 대중음악 명반 100장의 가수와 앨범 목록입니다. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국 대중음악 명반 100 (2018) | ListBase",
+    "seo_description": "Download 한국 대중음악 명반 100 (2018) — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국_대중음악_명반_100"
+    ]
+  }
+}
