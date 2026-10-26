@@ -1,0 +1,565 @@
+{
+  "id": "ko-kleague-deukjeomsang",
+  "name": "K리그 역대 득점왕",
+  "title": "K리그 역대 득점왕",
+  "description": "1983년 이후 K리그1(최상위 리그)과 2013년 이후 K리그2의 시즌별 득점상 수상 선수, 구단, 득점, 경기 수 목록입니다.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/K리그_득점상",
+  "source_url": "https://ko.wikipedia.org/wiki/K리그_득점상",
+  "updated": "2026-10",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "league",
+      "label": "League",
+      "type": "string"
+    },
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "player",
+      "label": "Player",
+      "type": "string"
+    },
+    {
+      "key": "club",
+      "label": "Club",
+      "type": "string"
+    },
+    {
+      "key": "goals",
+      "label": "Goals",
+      "type": "number"
+    },
+    {
+      "key": "matches",
+      "label": "Matches",
+      "type": "number"
+    },
+    {
+      "key": "goals_per_match",
+      "label": "Goals Per Match",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "league": "K리그1",
+      "season": "1983",
+      "player": "박윤기",
+      "club": "유공 코끼리",
+      "goals": "9",
+      "matches": "14",
+      "goals_per_match": "0.64"
+    },
+    {
+      "league": "K리그1",
+      "season": "1984",
+      "player": "백종철",
+      "club": "현대 호랑이",
+      "goals": "16",
+      "matches": "28",
+      "goals_per_match": "0.57"
+    },
+    {
+      "league": "K리그1",
+      "season": "1985",
+      "player": "피아퐁",
+      "club": "럭키금성 황소",
+      "goals": "12",
+      "matches": "21",
+      "goals_per_match": "0.57"
+    },
+    {
+      "league": "K리그1",
+      "season": "1986",
+      "player": "정해원",
+      "club": "대우 로얄즈",
+      "goals": "10",
+      "matches": "19",
+      "goals_per_match": "0.53"
+    },
+    {
+      "league": "K리그1",
+      "season": "1987",
+      "player": "최상국",
+      "club": "포항제철 아톰즈",
+      "goals": "15",
+      "matches": "30",
+      "goals_per_match": "0.50"
+    },
+    {
+      "league": "K리그1",
+      "season": "1988",
+      "player": "이기근",
+      "club": "포항제철 아톰즈",
+      "goals": "12",
+      "matches": "23",
+      "goals_per_match": "0.52"
+    },
+    {
+      "league": "K리그1",
+      "season": "1989",
+      "player": "조긍연",
+      "club": "포항제철 아톰즈",
+      "goals": "20",
+      "matches": "39",
+      "goals_per_match": "0.51"
+    },
+    {
+      "league": "K리그1",
+      "season": "1990",
+      "player": "윤상철",
+      "club": "럭키금성 황소",
+      "goals": "12",
+      "matches": "30",
+      "goals_per_match": "0.40"
+    },
+    {
+      "league": "K리그1",
+      "season": "1991",
+      "player": "이기근",
+      "club": "포항제철 아톰즈",
+      "goals": "16",
+      "matches": "37",
+      "goals_per_match": "0.43"
+    },
+    {
+      "league": "K리그1",
+      "season": "1992",
+      "player": "임근재",
+      "club": "LG 치타스",
+      "goals": "10",
+      "matches": "30",
+      "goals_per_match": "0.33"
+    },
+    {
+      "league": "K리그1",
+      "season": "1993",
+      "player": "차상해",
+      "club": "포항제철 아톰즈",
+      "goals": "10",
+      "matches": "23",
+      "goals_per_match": "0.43"
+    },
+    {
+      "league": "K리그1",
+      "season": "1994",
+      "player": "윤상철",
+      "club": "LG 치타스",
+      "goals": "21",
+      "matches": "28",
+      "goals_per_match": "0.75"
+    },
+    {
+      "league": "K리그1",
+      "season": "1995",
+      "player": "노상래",
+      "club": "전남 드래곤즈",
+      "goals": "15",
+      "matches": "26",
+      "goals_per_match": "0.58"
+    },
+    {
+      "league": "K리그1",
+      "season": "1996",
+      "player": "신태용",
+      "club": "천안 일화 천마",
+      "goals": "18",
+      "matches": "24",
+      "goals_per_match": "0.75"
+    },
+    {
+      "league": "K리그1",
+      "season": "1997",
+      "player": "김현석",
+      "club": "울산 현대 호랑이",
+      "goals": "9",
+      "matches": "17",
+      "goals_per_match": "0.53"
+    },
+    {
+      "league": "K리그1",
+      "season": "1998",
+      "player": "유상철",
+      "club": "울산 현대 호랑이",
+      "goals": "14",
+      "matches": "20",
+      "goals_per_match": "0.70"
+    },
+    {
+      "league": "K리그1",
+      "season": "1999",
+      "player": "샤샤",
+      "club": "수원 삼성 블루윙즈",
+      "goals": "18",
+      "matches": "26",
+      "goals_per_match": "0.69"
+    },
+    {
+      "league": "K리그1",
+      "season": "2000",
+      "player": "김도훈",
+      "club": "전북 현대 모터스",
+      "goals": "12",
+      "matches": "20",
+      "goals_per_match": "0.60"
+    },
+    {
+      "league": "K리그1",
+      "season": "2001",
+      "player": "산드로",
+      "club": "수원 삼성 블루윙즈",
+      "goals": "13",
+      "matches": "22",
+      "goals_per_match": "0.59"
+    },
+    {
+      "league": "K리그1",
+      "season": "2002",
+      "player": "에드밀손",
+      "club": "전북 현대 모터스",
+      "goals": "14",
+      "matches": "27",
+      "goals_per_match": "0.52"
+    },
+    {
+      "league": "K리그1",
+      "season": "2003",
+      "player": "김도훈",
+      "club": "성남 일화 천마",
+      "goals": "28",
+      "matches": "40",
+      "goals_per_match": "0.70"
+    },
+    {
+      "league": "K리그1",
+      "season": "2004",
+      "player": "모따",
+      "club": "전남 드래곤즈",
+      "goals": "14",
+      "matches": "22",
+      "goals_per_match": "0.64"
+    },
+    {
+      "league": "K리그1",
+      "season": "2005",
+      "player": "마차도",
+      "club": "울산 현대 호랑이",
+      "goals": "13",
+      "matches": "17",
+      "goals_per_match": "0.76"
+    },
+    {
+      "league": "K리그1",
+      "season": "2006",
+      "player": "우성용",
+      "club": "성남 일화 천마",
+      "goals": "16",
+      "matches": "28",
+      "goals_per_match": "0.57"
+    },
+    {
+      "league": "K리그1",
+      "season": "2007",
+      "player": "까보레",
+      "club": "경남 FC",
+      "goals": "17",
+      "matches": "25",
+      "goals_per_match": "0.68"
+    },
+    {
+      "league": "K리그1",
+      "season": "2008",
+      "player": "두두",
+      "club": "성남 일화 천마",
+      "goals": "15",
+      "matches": "26",
+      "goals_per_match": "0.58"
+    },
+    {
+      "league": "K리그1",
+      "season": "2009",
+      "player": "이동국",
+      "club": "전북 현대 모터스",
+      "goals": "20",
+      "matches": "27",
+      "goals_per_match": "0.74"
+    },
+    {
+      "league": "K리그1",
+      "season": "2010",
+      "player": "유병수",
+      "club": "인천 유나이티드",
+      "goals": "22",
+      "matches": "28",
+      "goals_per_match": "0.79"
+    },
+    {
+      "league": "K리그1",
+      "season": "2011",
+      "player": "데얀",
+      "club": "FC 서울",
+      "goals": "23",
+      "matches": "29",
+      "goals_per_match": "0.79"
+    },
+    {
+      "league": "K리그1",
+      "season": "2012",
+      "player": "데얀",
+      "club": "FC 서울",
+      "goals": "31",
+      "matches": "42",
+      "goals_per_match": "0.74"
+    },
+    {
+      "league": "K리그1",
+      "season": "2013",
+      "player": "데얀",
+      "club": "FC 서울",
+      "goals": "19",
+      "matches": "29",
+      "goals_per_match": "0.66"
+    },
+    {
+      "league": "K리그1",
+      "season": "2014",
+      "player": "산토스",
+      "club": "수원 삼성 블루윙즈",
+      "goals": "14",
+      "matches": "35",
+      "goals_per_match": "0.40"
+    },
+    {
+      "league": "K리그1",
+      "season": "2015",
+      "player": "김신욱",
+      "club": "울산 현대",
+      "goals": "18",
+      "matches": "38",
+      "goals_per_match": "0.47"
+    },
+    {
+      "league": "K리그1",
+      "season": "2016",
+      "player": "정조국",
+      "club": "광주 FC",
+      "goals": "20",
+      "matches": "31",
+      "goals_per_match": "0.65"
+    },
+    {
+      "league": "K리그1",
+      "season": "2017",
+      "player": "조나탄",
+      "club": "수원 삼성 블루윙즈",
+      "goals": "22",
+      "matches": "29",
+      "goals_per_match": "0.76"
+    },
+    {
+      "league": "K리그1",
+      "season": "2018",
+      "player": "말컹",
+      "club": "경남 FC",
+      "goals": "26",
+      "matches": "31",
+      "goals_per_match": "0.84"
+    },
+    {
+      "league": "K리그1",
+      "season": "2019",
+      "player": "타가트",
+      "club": "수원 삼성 블루윙즈",
+      "goals": "20",
+      "matches": "33",
+      "goals_per_match": "0.61"
+    },
+    {
+      "league": "K리그1",
+      "season": "2020",
+      "player": "주니오",
+      "club": "울산 현대",
+      "goals": "26",
+      "matches": "27",
+      "goals_per_match": "0.96"
+    },
+    {
+      "league": "K리그1",
+      "season": "2021",
+      "player": "주민규",
+      "club": "제주 유나이티드",
+      "goals": "22",
+      "matches": "34",
+      "goals_per_match": "0.65"
+    },
+    {
+      "league": "K리그1",
+      "season": "2022",
+      "player": "조규성",
+      "club": "김천 상무/전북 현대 모터스",
+      "goals": "17",
+      "matches": "31",
+      "goals_per_match": "0.55"
+    },
+    {
+      "league": "K리그1",
+      "season": "2023",
+      "player": "주민규",
+      "club": "울산 현대",
+      "goals": "17",
+      "matches": "36",
+      "goals_per_match": "0.47"
+    },
+    {
+      "league": "K리그1",
+      "season": "2024",
+      "player": "무고사",
+      "club": "인천 유나이티드",
+      "goals": "15",
+      "matches": "38",
+      "goals_per_match": "0.39"
+    },
+    {
+      "league": "K리그1",
+      "season": "2025",
+      "player": "싸박",
+      "club": "수원 FC",
+      "goals": "17",
+      "matches": "34",
+      "goals_per_match": "0.50"
+    },
+    {
+      "league": "K리그2",
+      "season": "2013",
+      "player": "이근호",
+      "club": "상주 상무",
+      "goals": "15",
+      "matches": "25",
+      "goals_per_match": "0.60"
+    },
+    {
+      "league": "K리그2",
+      "season": "2014",
+      "player": "아드리아노",
+      "club": "대전 시티즌",
+      "goals": "27",
+      "matches": "32",
+      "goals_per_match": "0.84"
+    },
+    {
+      "league": "K리그2",
+      "season": "2015",
+      "player": "조나탄",
+      "club": "대구 FC",
+      "goals": "26",
+      "matches": "39",
+      "goals_per_match": "0.67"
+    },
+    {
+      "league": "K리그2",
+      "season": "2016",
+      "player": "김동찬",
+      "club": "대전 시티즌",
+      "goals": "20",
+      "matches": "39",
+      "goals_per_match": "0.51"
+    },
+    {
+      "league": "K리그2",
+      "season": "2017",
+      "player": "말컹",
+      "club": "경남 FC",
+      "goals": "22",
+      "matches": "32",
+      "goals_per_match": "0.69"
+    },
+    {
+      "league": "K리그2",
+      "season": "2018",
+      "player": "나상호",
+      "club": "광주 FC",
+      "goals": "16",
+      "matches": "31",
+      "goals_per_match": "0.51"
+    },
+    {
+      "league": "K리그2",
+      "season": "2019",
+      "player": "펠리페",
+      "club": "광주 FC",
+      "goals": "19",
+      "matches": "27",
+      "goals_per_match": "0.70"
+    },
+    {
+      "league": "K리그2",
+      "season": "2020",
+      "player": "안병준",
+      "club": "수원 FC",
+      "goals": "21",
+      "matches": "26",
+      "goals_per_match": "0.81"
+    },
+    {
+      "league": "K리그2",
+      "season": "2021",
+      "player": "안병준",
+      "club": "부산 아이파크",
+      "goals": "23",
+      "matches": "27",
+      "goals_per_match": "0.85"
+    },
+    {
+      "league": "K리그2",
+      "season": "2022",
+      "player": "유강현",
+      "club": "충남 아산",
+      "goals": "19",
+      "matches": "40",
+      "goals_per_match": "0.48"
+    },
+    {
+      "league": "K리그2",
+      "season": "2023",
+      "player": "루이스",
+      "club": "김포 FC",
+      "goals": "16",
+      "matches": "34",
+      "goals_per_match": "0.47"
+    },
+    {
+      "league": "K리그2",
+      "season": "2024",
+      "player": "모따",
+      "club": "FC 안양",
+      "goals": "16",
+      "matches": "35",
+      "goals_per_match": "0.47"
+    },
+    {
+      "league": "K리그2",
+      "season": "2025",
+      "player": "무고사",
+      "club": "인천 유나이티드",
+      "goals": "20",
+      "matches": "35",
+      "goals_per_match": "0.57"
+    }
+  ],
+  "meta": {
+    "title": "K리그 역대 득점왕 - Free Download",
+    "description": "1983년 이후 K리그1(최상위 리그)과 2013년 이후 K리그2의 시즌별 득점상 수상 선수, 구단, 득점, 경기 수 목록입니다. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "K리그 역대 득점왕 | ListBase",
+    "seo_description": "Download K리그 역대 득점왕 — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/K리그_득점상"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:47.412Z",
-  "total_datasets": 492,
-  "total_records": 451827,
+  "generated": "2026-10-26T02:20:50.021Z",
+  "total_datasets": 493,
+  "total_records": 451883,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -11162,6 +11162,34 @@
         "xlsx": {
           "name": "ko-kbo-mvp_KO.xlsx",
           "size": 9424
+        }
+      }
+    },
+    {
+      "id": "ko-kleague-deukjeomsang",
+      "name": "K리그 역대 득점왕",
+      "category": "sports",
+      "record_count": 56,
+      "columns": [
+        "league",
+        "season",
+        "player",
+        "club",
+        "goals",
+        "matches",
+        "goals_per_match"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/K리그_득점상",
+      "updated": "2026-10",
+      "size": 13287,
+      "files": {
+        "csv": {
+          "name": "ko-kleague-deukjeomsang_KO.csv",
+          "size": 3822
+        },
+        "xlsx": {
+          "name": "ko-kleague-deukjeomsang_KO.xlsx",
+          "size": 9513
         }
       }
     },
