@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:57.626Z",
-  "total_datasets": 496,
-  "total_records": 451950,
+  "generated": "2026-10-26T02:21:00.097Z",
+  "total_datasets": 497,
+  "total_records": 451994,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -7693,6 +7693,34 @@
         "xlsx": {
           "name": "ko-gamsawonjang_KO.xlsx",
           "size": 8112
+        }
+      }
+    },
+    {
+      "id": "ko-gukhoe-uijang",
+      "name": "대한민국 역대 국회의장",
+      "category": "politics",
+      "record_count": 44,
+      "columns": [
+        "assembly",
+        "term_part",
+        "name",
+        "party",
+        "constituency",
+        "term",
+        "times_elected"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_국회의장",
+      "updated": "2026-10",
+      "size": 13804,
+      "files": {
+        "csv": {
+          "name": "ko-gukhoe-uijang_KO.csv",
+          "size": 5632
+        },
+        "xlsx": {
+          "name": "ko-gukhoe-uijang_KO.xlsx",
+          "size": 9692
         }
       }
     },
