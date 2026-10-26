@@ -1,0 +1,170 @@
+{
+  "id": "ko-ssal-sido-saengsan-2012",
+  "name": "대한민국 시·도별 쌀 생산량 (2012년)",
+  "title": "대한민국 시·도별 쌀 생산량 (2012년)",
+  "description": "농림축산식품부 통계연보 기준 2012년 대한민국 시·도별 쌀 재배 면적과 생산량 및 비율입니다.",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/쌀",
+  "source_url": "https://ko.wikipedia.org/wiki/쌀",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "area_1000ha",
+      "label": "Area 1000ha",
+      "type": "number"
+    },
+    {
+      "key": "area_pct",
+      "label": "Area Pct",
+      "type": "string"
+    },
+    {
+      "key": "production_1000t",
+      "label": "Production 1000t",
+      "type": "string"
+    },
+    {
+      "key": "production_pct",
+      "label": "Production Pct",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "계",
+      "area_1000ha": "849",
+      "area_pct": "100%",
+      "production_1000t": "4,006",
+      "production_pct": "100%"
+    },
+    {
+      "region": "서울",
+      "area_1000ha": "0",
+      "area_pct": "0",
+      "production_1000t": "1",
+      "production_pct": "0"
+    },
+    {
+      "region": "부산",
+      "area_1000ha": "3",
+      "area_pct": "0",
+      "production_1000t": "16",
+      "production_pct": "0"
+    },
+    {
+      "region": "대구",
+      "area_1000ha": "3",
+      "area_pct": "0",
+      "production_1000t": "15",
+      "production_pct": "0"
+    },
+    {
+      "region": "인천",
+      "area_1000ha": "12",
+      "area_pct": "1",
+      "production_1000t": "58",
+      "production_pct": "1"
+    },
+    {
+      "region": "광주",
+      "area_1000ha": "6",
+      "area_pct": "1",
+      "production_1000t": "27",
+      "production_pct": "1"
+    },
+    {
+      "region": "대전",
+      "area_1000ha": "2",
+      "area_pct": "0",
+      "production_1000t": "7",
+      "production_pct": "0"
+    },
+    {
+      "region": "울산",
+      "area_1000ha": "6",
+      "area_pct": "1",
+      "production_1000t": "27",
+      "production_pct": "1"
+    },
+    {
+      "region": "경기",
+      "area_1000ha": "91",
+      "area_pct": "11",
+      "production_1000t": "421",
+      "production_pct": "11"
+    },
+    {
+      "region": "강원",
+      "area_1000ha": "35",
+      "area_pct": "4",
+      "production_1000t": "164",
+      "production_pct": "4"
+    },
+    {
+      "region": "충북",
+      "area_1000ha": "43",
+      "area_pct": "5",
+      "production_1000t": "213",
+      "production_pct": "5"
+    },
+    {
+      "region": "충남",
+      "area_1000ha": "153",
+      "area_pct": "18",
+      "production_1000t": "784",
+      "production_pct": "18"
+    },
+    {
+      "region": "전북",
+      "area_1000ha": "130",
+      "area_pct": "15",
+      "production_1000t": "622",
+      "production_pct": "16"
+    },
+    {
+      "region": "전남",
+      "area_1000ha": "173",
+      "area_pct": "20",
+      "production_1000t": "700",
+      "production_pct": "20"
+    },
+    {
+      "region": "경북",
+      "area_1000ha": "112",
+      "area_pct": "13",
+      "production_1000t": "564",
+      "production_pct": "14"
+    },
+    {
+      "region": "경남",
+      "area_1000ha": "80",
+      "area_pct": "9",
+      "production_1000t": "386",
+      "production_pct": "10"
+    },
+    {
+      "region": "제주",
+      "area_1000ha": "1",
+      "area_pct": "0",
+      "production_1000t": "1",
+      "production_pct": "0"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 시·도별 쌀 생산량 (2012년) - Free Download",
+    "description": "농림축산식품부 통계연보 기준 2012년 대한민국 시·도별 쌀 재배 면적과 생산량 및 비율입니다. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 시·도별 쌀 생산량 (2012년) | ListBase",
+    "seo_description": "Download 대한민국 시·도별 쌀 생산량 (2012년) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/쌀"
+    ]
+  }
+}

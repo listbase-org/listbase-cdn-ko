@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:18.171Z",
-  "total_datasets": 504,
-  "total_records": 452238,
+  "generated": "2026-10-26T02:21:20.838Z",
+  "total_datasets": 505,
+  "total_records": 452255,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -283,6 +283,32 @@
         "xlsx": {
           "name": "ko-ssal-saengsan-chui_KO.xlsx",
           "size": 7417
+        }
+      }
+    },
+    {
+      "id": "ko-ssal-sido-saengsan-2012",
+      "name": "대한민국 시·도별 쌀 생산량 (2012년)",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "region",
+        "area_1000ha",
+        "area_pct",
+        "production_1000t",
+        "production_pct"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/쌀",
+      "updated": "2026-10",
+      "size": 4268,
+      "files": {
+        "csv": {
+          "name": "ko-ssal-sido-saengsan-2012_KO.csv",
+          "size": 551
+        },
+        "xlsx": {
+          "name": "ko-ssal-sido-saengsan-2012_KO.xlsx",
+          "size": 7394
         }
       }
     },
