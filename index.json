@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:20:42.336Z",
-  "total_datasets": 490,
-  "total_records": 451764,
+  "generated": "2026-10-26T02:20:44.994Z",
+  "total_datasets": 491,
+  "total_records": 451783,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -7014,6 +7014,35 @@
         "xlsx": {
           "name": "ko-goryeo-gugwang_KO.xlsx",
           "size": 9991
+        }
+      }
+    },
+    {
+      "id": "ko-imsijeongbu-suban",
+      "name": "대한민국 임시정부의 역대 수반",
+      "category": "history",
+      "record_count": 19,
+      "columns": [
+        "term_no",
+        "name",
+        "term",
+        "party",
+        "deputy",
+        "system",
+        "seat",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_임시정부의_수반_목록",
+      "updated": "2026-10",
+      "size": 7373,
+      "files": {
+        "csv": {
+          "name": "ko-imsijeongbu-suban_KO.csv",
+          "size": 2719
+        },
+        "xlsx": {
+          "name": "ko-imsijeongbu-suban_KO.xlsx",
+          "size": 8171
         }
       }
     },

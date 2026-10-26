@@ -1,0 +1,256 @@
+{
+  "id": "ko-imsijeongbu-suban",
+  "name": "대한민국 임시정부의 역대 수반",
+  "title": "대한민국 임시정부의 역대 수반",
+  "description": "1919년부터 1948년까지 대한민국 임시정부 수반(대통령·국무령·주석)의 대수, 이름, 임기, 정당, 정부 형태, 소재지 목록입니다.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_임시정부의_수반_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_임시정부의_수반_목록",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "deputy",
+      "label": "Deputy",
+      "type": "string"
+    },
+    {
+      "key": "system",
+      "label": "System",
+      "type": "string"
+    },
+    {
+      "key": "seat",
+      "label": "Seat",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_no": "초대",
+      "name": "이승만",
+      "term": "1919년 4월 11일 ~ 9월 11일 (국무총리) 1919년 9월 11일 ~ 1925년 3월 23일 (대통령)",
+      "party": "",
+      "deputy": "안창호 이동휘 신규식 노백린 김구 박은식",
+      "system": "이원집정부제",
+      "seat": "상하이",
+      "note": ""
+    },
+    {
+      "term_no": "2",
+      "name": "박은식",
+      "term": "1925년 3월 23일 ~ 1925년 7월 7일 (대통령)",
+      "party": "",
+      "deputy": "노백린",
+      "system": "이원집정부제",
+      "seat": "상하이",
+      "note": ""
+    },
+    {
+      "term_no": "3",
+      "name": "이상룡",
+      "term": "1925년 7월 7일 ~ 1926년 2월 18일",
+      "party": "",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": ""
+    },
+    {
+      "term_no": "(지명)",
+      "name": "양기탁",
+      "term": "1926년 2월 18일 ~ 1926년 4월 29일",
+      "party": "고려혁명당",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": "취임 거부"
+    },
+    {
+      "term_no": "(대리)",
+      "name": "이동녕",
+      "term": "1926년 4월 29일 ~ 1926년 5월 3일",
+      "party": "",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": "임시의정원 의장"
+    },
+    {
+      "term_no": "(지명)",
+      "name": "안창호",
+      "term": "1926년 5월 3일 ~ 1926년 5월 16일",
+      "party": "",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": "기호파 반발로 낙마"
+    },
+    {
+      "term_no": "(대리)",
+      "name": "이동녕",
+      "term": "1926년 5월 16일 ~ 1926년 7월 7일",
+      "party": "",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": "임시의정원 의장"
+    },
+    {
+      "term_no": "4",
+      "name": "홍진",
+      "term": "1926년 7월 7일 ~ 1926년 12월 9일",
+      "party": "",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": "유일당운동 위해 사퇴"
+    },
+    {
+      "term_no": "5",
+      "name": "김구",
+      "term": "1926년 12월 10일 ~ 1927년 8월 19일",
+      "party": "",
+      "deputy": "-",
+      "system": "국무령제",
+      "seat": "상하이",
+      "note": "집단지도체제 개헌"
+    },
+    {
+      "term_no": "6",
+      "name": "이동녕",
+      "term": "1927년 8월 19일 ~ 1930년 11월 18일",
+      "party": "한국독립당",
+      "deputy": "-",
+      "system": "국무위원 집단지도체제 (위원장: 주석)",
+      "seat": "상하이",
+      "note": ""
+    },
+    {
+      "term_no": "7",
+      "name": "이동녕",
+      "term": "1932년 11월 18일 ~ 1933년 11월",
+      "party": "한국독립당",
+      "deputy": "김구",
+      "system": "국무위원 집단지도체제 (위원장: 주석)",
+      "seat": "상하이",
+      "note": "국무령직 부활"
+    },
+    {
+      "term_no": "8",
+      "name": "양기탁",
+      "term": "1933년 12월 30일 ~ 1935년 9월 1일",
+      "party": "",
+      "deputy": "송병조",
+      "system": "국무위원 집단지도체제 (위원장: 주석)",
+      "seat": "항저우",
+      "note": ""
+    },
+    {
+      "term_no": "9",
+      "name": "이동녕",
+      "term": "1935년 11월 2일 ~ 1939년 10월 23일",
+      "party": "한국국민당",
+      "deputy": "이동녕",
+      "system": "국무위원 집단지도체제 (위원장: 주석)",
+      "seat": "자싱 난징 창사 광저우 치장",
+      "note": ""
+    },
+    {
+      "term_no": "10",
+      "name": "이동녕",
+      "term": "1939년 10월 23일 ~ 1940년 3월 13일",
+      "party": "한국국민당",
+      "deputy": "류동렬",
+      "system": "국무위원 집단지도체제 (위원장: 주석)",
+      "seat": "자싱 난징 창사 광저우 치장",
+      "note": "참모부장직 신설"
+    },
+    {
+      "term_no": "11",
+      "name": "김구",
+      "term": "1940년 3월 13일 ~ 1940년 10월 8일",
+      "party": "한국독립당",
+      "deputy": "류동렬",
+      "system": "국무위원 집단지도체제 (위원장: 주석)",
+      "seat": "충칭",
+      "note": ""
+    },
+    {
+      "term_no": "12",
+      "name": "김구",
+      "term": "1940년 10월 8일 ~ 1944년 4월 6일",
+      "party": "한국독립당",
+      "deputy": "김규식",
+      "system": "주석제",
+      "seat": "충칭",
+      "note": "주석제 개헌"
+    },
+    {
+      "term_no": "13",
+      "name": "김구",
+      "term": "1944년 4월 6일 ~ 1947년 3월 3일",
+      "party": "한국독립당",
+      "deputy": "김규식",
+      "system": "주석제",
+      "seat": "",
+      "note": ""
+    },
+    {
+      "term_no": "14",
+      "name": "이승만",
+      "term": "1947년 3월 3일 ~ 1948년 7월 24일",
+      "party": "대한독립촉성국민회",
+      "deputy": "김구",
+      "system": "주석제",
+      "seat": "서울",
+      "note": ""
+    },
+    {
+      "term_no": "15",
+      "name": "이승만",
+      "term": "1948년 7월 24일 ~ 1948년 8월 15일",
+      "party": "대한독립촉성국민회",
+      "deputy": "김구",
+      "system": "주석제",
+      "seat": "서울",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 임시정부의 역대 수반 - Free Download",
+    "description": "1919년부터 1948년까지 대한민국 임시정부 수반(대통령·국무령·주석)의 대수, 이름, 임기, 정당, 정부 형태, 소재지 목록입니다. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 임시정부의 역대 수반 | ListBase",
+    "seo_description": "Download 대한민국 임시정부의 역대 수반 — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_임시정부의_수반_목록"
+    ]
+  }
+}
