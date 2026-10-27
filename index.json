@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:51.827Z",
-  "total_datasets": 526,
-  "total_records": 454050,
+  "generated": "2026-10-27T02:40:54.159Z",
+  "total_datasets": 527,
+  "total_records": 454090,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "environment",
@@ -2722,6 +2722,32 @@
         "xlsx": {
           "name": "ko-tv-chaeneol-shop_KO.xlsx",
           "size": 8418
+        }
+      }
+    },
+    {
+      "id": "ko-yeondaebyeol-choego-heunghaeng-yeonghwa",
+      "name": "연대별 흥행 기록 영화 (대한민국)",
+      "category": "entertainment",
+      "record_count": 40,
+      "columns": [
+        "decade",
+        "release_date",
+        "title",
+        "admissions",
+        "notes"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+      "updated": "2026-10",
+      "size": 10355,
+      "files": {
+        "csv": {
+          "name": "ko-yeondaebyeol-choego-heunghaeng-yeonghwa_KO.csv",
+          "size": 4355
+        },
+        "xlsx": {
+          "name": "ko-yeondaebyeol-choego-heunghaeng-yeonghwa_KO.xlsx",
+          "size": 9214
         }
       }
     },

@@ -1,0 +1,331 @@
+{
+  "id": "ko-yeondaebyeol-choego-heunghaeng-yeonghwa",
+  "name": "연대별 흥행 기록 영화 (대한민국)",
+  "title": "연대별 흥행 기록 영화 (대한민국)",
+  "description": "1960년대부터 대한민국에서 흥행 기록을 세운 영화의 개봉일, 제목, 관객수.",
+  "category": "entertainment",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "decade",
+      "label": "Decade",
+      "type": "string"
+    },
+    {
+      "key": "release_date",
+      "label": "Release Date",
+      "type": "date"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "admissions",
+      "label": "Admissions",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "decade": "1960년대",
+      "release_date": "1965-04-17",
+      "title": "007 위기일발",
+      "admissions": 538598,
+      "notes": ""
+    },
+    {
+      "decade": "1970년대",
+      "release_date": "1974-04-26",
+      "title": "별들의 고향",
+      "admissions": 464308,
+      "notes": ""
+    },
+    {
+      "decade": "1970년대",
+      "release_date": "1977-09-27",
+      "title": "겨울여자",
+      "admissions": 635693,
+      "notes": "제작사 집계. 흔히 인용되는 수로 585,775명이 있다."
+    },
+    {
+      "decade": "1970년대",
+      "release_date": "1979-09-29",
+      "title": "취권",
+      "admissions": 980000,
+      "notes": "서울 안에서 898,000명 , 국도극장 에서만 525,613명(전국극장연합회 집계)"
+    },
+    {
+      "decade": "1980년대",
+      "release_date": "1985-03-01",
+      "title": "깊고 푸른 밤",
+      "admissions": 602778,
+      "notes": "‘최초 60만 돌파’로 보도됐다. , 다른 관객 수로 495,573명이 있다."
+    },
+    {
+      "decade": "1980년대",
+      "release_date": "1985-06-06",
+      "title": "킬링필드",
+      "admissions": "1,000,000+",
+      "notes": "925,994명이라는 기사도 있다."
+    },
+    {
+      "decade": "1980년대",
+      "release_date": "1986",
+      "title": "창공을 날아라 ( 영어판 )",
+      "admissions": "1,000,000+",
+      "notes": "63빌딩 아이맥스영화관에서 상영한 다큐멘터리"
+    },
+    {
+      "decade": "1980년대",
+      "release_date": "1989",
+      "title": "나이아가라 ( 영어판 )",
+      "admissions": "1,000,000+",
+      "notes": "마를린 몬로 주연의 극영화 '나이아가라(1954)' 가 아닌, 63빌딩 아이맥스 영화관에서 상영한 다큐멘터리, 나이아가라 폭포의 장관을 공중촬영"
+    },
+    {
+      "decade": "1990년대",
+      "release_date": "1990-06-09",
+      "title": "장군의 아들",
+      "admissions": "2,000,000+",
+      "notes": "단성사 ( 서울 )에서는 680,000"
+    },
+    {
+      "decade": "1990년대",
+      "release_date": "1993-04-10",
+      "title": "서편제",
+      "admissions": "2,900,000+",
+      "notes": "서울 기준 1,035,741, 한국 영화상 처음으로 서울 관객 100만 돌파."
+    },
+    {
+      "decade": "1990년대",
+      "release_date": "1997-11-19",
+      "title": "타이타닉",
+      "admissions": 4890000,
+      "notes": "최초의 서울관객 200만명 영화. 재상영관 포함 520만명. 배급사 집계"
+    },
+    {
+      "decade": "1990년대",
+      "release_date": "1999-02-13",
+      "title": "쉬리",
+      "admissions": 6210000,
+      "notes": "서울 기준 2,448,399"
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2001-03-31",
+      "title": "친구",
+      "admissions": 8180000,
+      "notes": "서울 기준 2,678,846"
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2003-12-24",
+      "title": "실미도",
+      "admissions": 11081000,
+      "notes": "대한민국 개봉 영화 사상 최초 1000만 돌파."
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2004-02-05",
+      "title": "태극기 휘날리며",
+      "admissions": 11746135,
+      "notes": ""
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2005-12-29",
+      "title": "왕의 남자",
+      "admissions": 10513947,
+      "notes": "영화진흥위원회 공식통계 기준"
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2006-07-27",
+      "title": "괴물",
+      "admissions": 10917400,
+      "notes": "영화진흥위원회 공식통계 기준"
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2009-07-22",
+      "title": "해운대",
+      "admissions": 11324850,
+      "notes": "영화진흥위원회 공식통계 기준"
+    },
+    {
+      "decade": "2000년대",
+      "release_date": "2009-12-17",
+      "title": "아바타",
+      "admissions": 13338863,
+      "notes": "외화 사상 최초 1000만 관객 돌파"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2012-07-25",
+      "title": "도둑들",
+      "admissions": 12984143,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2012-09-13",
+      "title": "광해 왕이 된 남자",
+      "admissions": 12324002,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2013-01-13",
+      "title": "7번방의 선물",
+      "admissions": 12811488,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2013-12-18",
+      "title": "변호인",
+      "admissions": 11374892,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2014-01-16",
+      "title": "겨울왕국",
+      "admissions": 10296101,
+      "notes": "애니메이션 영화 사상 최초 1000만 관객 돌파."
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2014-07-30",
+      "title": "명량",
+      "admissions": 17615590,
+      "notes": "영화진흥위원회 발권통계 기준 한국영화 사상 10번째로 아바타 꺾고 역대관객수 1위차지"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2014-11-06",
+      "title": "인터스텔라",
+      "admissions": 10309432,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2014-12-17",
+      "title": "국제시장",
+      "admissions": 14263332,
+      "notes": "영화진흥위원회 발권통계 기준 역대관객수 4위차지"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2015-04-23",
+      "title": "어벤져스: 에이지 오브 울트론",
+      "admissions": 10494840,
+      "notes": "슈퍼히어로 영화 사상 최초 1000만 관객 돌파."
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2015-07-22",
+      "title": "암살",
+      "admissions": 12706819,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2015-08-05",
+      "title": "베테랑",
+      "admissions": 13414372,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2016-07-20",
+      "title": "부산행",
+      "admissions": 11567455,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2017-08-02",
+      "title": "택시운전사",
+      "admissions": 12189436,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2017-12-20",
+      "title": "신과함께: 죄와 벌",
+      "admissions": 14411662,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2018-04-25",
+      "title": "어벤져스: 인피니티 워",
+      "admissions": 11212710,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2018-08-01",
+      "title": "신과함께: 인과 연",
+      "admissions": 12276230,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2019-01-23",
+      "title": "극한직업",
+      "admissions": 16264984,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2019-04-24",
+      "title": "어벤져스: 엔드게임",
+      "admissions": 13934592,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2019-05-23",
+      "title": "알라딘",
+      "admissions": 12551371,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2019-05-30",
+      "title": "기생충",
+      "admissions": 10083172,
+      "notes": "영화진흥위원회 발권통계 기준"
+    },
+    {
+      "decade": "2010년대",
+      "release_date": "2019-11-21",
+      "title": "겨울왕국 2",
+      "admissions": 13747792,
+      "notes": "영화진흥위원회 발권통계 기준"
+    }
+  ],
+  "meta": {
+    "title": "연대별 흥행 기록 영화 (대한민국) - Free Download",
+    "description": "1960년대부터 대한민국에서 흥행 기록을 세운 영화의 개봉일, 제목, 관객수. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "연대별 흥행 기록 영화 (대한민국) | ListBase",
+    "seo_description": "Download 연대별 흥행 기록 영화 (대한민국) — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D"
+    ]
+  }
+}
