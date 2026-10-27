@@ -1,0 +1,151 @@
+{
+  "id": "ko-oeguk-yeonghwa-gwangaek-sunwi",
+  "name": "역대 외국 영화 한국 관객수 순위",
+  "title": "역대 외국 영화 한국 관객수 순위",
+  "description": "대한민국에서 개봉한 외국 영화의 역대 관객수 순위: 제목, 감독, 국내 배급사, 개봉일, 관객수.",
+  "category": "entertainment",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "distributor",
+      "label": "Distributor",
+      "type": "string"
+    },
+    {
+      "key": "release_date",
+      "label": "Release Date",
+      "type": "date"
+    },
+    {
+      "key": "admissions",
+      "label": "Admissions",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "title": "어벤져스: 엔드게임",
+      "director": "루소 형제",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2019-04-24",
+      "admissions": 13977602,
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "겨울왕국 2",
+      "director": "크리스 벅 제니퍼 리",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2019-11-21",
+      "admissions": 13768331,
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "아바타",
+      "director": "제임스 캐머런",
+      "distributor": "이십세기폭스코리아",
+      "release_date": "2009-12-17",
+      "admissions": 13624328,
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "알라딘",
+      "director": "가이 리치",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2019-05-23",
+      "admissions": 12797927,
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "title": "오디세이",
+      "director": "크리스토퍼 놀런",
+      "distributor": "유니버설 픽쳐스",
+      "release_date": "2026-08-05",
+      "admissions": 12291025,
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "title": "어벤져스: 인피니티 워",
+      "director": "루소 형제",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2018-04-25",
+      "admissions": 11233176,
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "title": "아바타: 물의 길",
+      "director": "제임스 캐머런",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2022-12-14",
+      "admissions": 10805065,
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "title": "어벤져스: 에이지 오브 울트론",
+      "director": "조스 휘던",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2015-04-23",
+      "admissions": 10504487,
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "인터스텔라",
+      "director": "크리스토퍼 놀런",
+      "distributor": "워너브라더스코리아",
+      "release_date": "2014-11-06",
+      "admissions": 10342523,
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "title": "겨울왕국",
+      "director": "크리스 벅 , 제니퍼 리",
+      "distributor": "월트디즈니컴퍼니코리아",
+      "release_date": "2014-01-16",
+      "admissions": 10328157,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "역대 외국 영화 한국 관객수 순위 - Free Download",
+    "description": "대한민국에서 개봉한 외국 영화의 역대 관객수 순위: 제목, 감독, 국내 배급사, 개봉일, 관객수. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "역대 외국 영화 한국 관객수 순위 | ListBase",
+    "seo_description": "Download 역대 외국 영화 한국 관객수 순위 — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D"
+    ]
+  }
+}

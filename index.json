@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:41.813Z",
-  "total_datasets": 522,
-  "total_records": 453440,
+  "generated": "2026-10-27T02:40:44.356Z",
+  "total_datasets": 523,
+  "total_records": 453450,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "environment",
@@ -2187,6 +2187,34 @@
         "xlsx": {
           "name": "ko-kpop-geurup_KO.xlsx",
           "size": 33101
+        }
+      }
+    },
+    {
+      "id": "ko-oeguk-yeonghwa-gwangaek-sunwi",
+      "name": "역대 외국 영화 한국 관객수 순위",
+      "category": "entertainment",
+      "record_count": 10,
+      "columns": [
+        "rank",
+        "title",
+        "director",
+        "distributor",
+        "release_date",
+        "admissions",
+        "notes"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+      "updated": "2026-10",
+      "size": 4628,
+      "files": {
+        "csv": {
+          "name": "ko-oeguk-yeonghwa-gwangaek-sunwi_KO.csv",
+          "size": 1164
+        },
+        "xlsx": {
+          "name": "ko-oeguk-yeonghwa-gwangaek-sunwi_KO.xlsx",
+          "size": 7551
         }
       }
     },
