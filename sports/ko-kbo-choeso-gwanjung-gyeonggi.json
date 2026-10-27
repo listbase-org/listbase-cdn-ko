@@ -1,0 +1,212 @@
+{
+  "id": "ko-kbo-choeso-gwanjung-gyeonggi",
+  "name": "KBO 리그 역대 최소 관중 경기",
+  "title": "KBO 리그 역대 최소 관중 경기",
+  "description": "KBO 리그 역사상 관중이 가장 적었던 경기의 날짜, 관중 수, 구장, 대진.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D",
+  "source_url": "https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "attendance",
+      "label": "Attendance",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "matchup",
+      "label": "Matchup",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "date": "1999. 10. 07",
+      "attendance": 54,
+      "stadium": "전주",
+      "matchup": "현대 - 쌍방울"
+    },
+    {
+      "rank": 2,
+      "date": "2002. 10. 19",
+      "attendance": 69,
+      "stadium": "사직",
+      "matchup": "한화 - 롯데"
+    },
+    {
+      "rank": 3,
+      "date": "1999. 10. 06",
+      "attendance": 87,
+      "stadium": "전 주",
+      "matchup": "LG - 쌍방울"
+    },
+    {
+      "rank": 4,
+      "date": "2002. 10. 16",
+      "attendance": 96,
+      "stadium": "사직",
+      "matchup": "현대 - 롯데"
+    },
+    {
+      "rank": 5,
+      "date": "1999. 10. 08",
+      "attendance": 107,
+      "stadium": "전주",
+      "matchup": "LG - 쌍방울"
+    },
+    {
+      "rank": 6,
+      "date": "1987. 7. 2",
+      "attendance": 132,
+      "stadium": "광주",
+      "matchup": "빙그레 - 해태"
+    },
+    {
+      "rank": 7,
+      "date": "2000. 10. 12",
+      "attendance": 133,
+      "stadium": "광주",
+      "matchup": "롯데 - 해태"
+    },
+    {
+      "rank": 8,
+      "date": "2000. 10. 5",
+      "attendance": 145,
+      "stadium": "광주",
+      "matchup": "롯데 - 해태"
+    },
+    {
+      "rank": 9,
+      "date": "2002. 10. 15",
+      "attendance": 147,
+      "stadium": "사직",
+      "matchup": "현대 - 롯데"
+    },
+    {
+      "rank": 10,
+      "date": "2000. 10. 1",
+      "attendance": 156,
+      "stadium": "광주",
+      "matchup": "SK - 해태"
+    },
+    {
+      "rank": 11,
+      "date": "1999. 9. 27",
+      "attendance": 175,
+      "stadium": "광주",
+      "matchup": "한화 - 해태"
+    },
+    {
+      "rank": 12,
+      "date": "2000. 10. 11",
+      "attendance": 183,
+      "stadium": "광주",
+      "matchup": "롯 데 - 해 태"
+    },
+    {
+      "rank": 13,
+      "date": "1987. 7. 3",
+      "attendance": 186,
+      "stadium": "광주",
+      "matchup": "빙그레 - 해태"
+    },
+    {
+      "rank": 13,
+      "date": "2002. 6. 19",
+      "attendance": 186,
+      "stadium": "사직",
+      "matchup": "현 대 - 롯 데"
+    },
+    {
+      "rank": 15,
+      "date": "1987. 7. 1",
+      "attendance": 195,
+      "stadium": "광주",
+      "matchup": "청보 - 해태"
+    },
+    {
+      "rank": 16,
+      "date": "1988. 6. 21",
+      "attendance": 196,
+      "stadium": "대구",
+      "matchup": "롯데 - 삼성"
+    },
+    {
+      "rank": 17,
+      "date": "2000. 4. 26",
+      "attendance": 203,
+      "stadium": "대전",
+      "matchup": "SK - 한화"
+    },
+    {
+      "rank": 18,
+      "date": "2000. 10. 7",
+      "attendance": 211,
+      "stadium": "광주",
+      "matchup": "한화 - 해태"
+    },
+    {
+      "rank": 19,
+      "date": "1987. 6. 30",
+      "attendance": 213,
+      "stadium": "광주",
+      "matchup": "롯데 - 해태"
+    },
+    {
+      "rank": 20,
+      "date": "2002. 7. 4",
+      "attendance": 215,
+      "stadium": "사직",
+      "matchup": "SK - 롯데"
+    },
+    {
+      "rank": 20,
+      "date": "2004. 9. 22",
+      "attendance": 215,
+      "stadium": "사직",
+      "matchup": "SK - 롯데"
+    },
+    {
+      "rank": 22,
+      "date": "2002. 9. 15",
+      "attendance": 219,
+      "stadium": "사직",
+      "matchup": "SK - 롯데"
+    },
+    {
+      "rank": 23,
+      "date": "1985. 9. 28",
+      "attendance": 220,
+      "stadium": "잠실",
+      "matchup": "롯데 - MBC"
+    }
+  ],
+  "meta": {
+    "title": "KBO 리그 역대 최소 관중 경기 - Free Download",
+    "description": "KBO 리그 역사상 관중이 가장 적었던 경기의 날짜, 관중 수, 구장, 대진. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBO 리그 역대 최소 관중 경기 | ListBase",
+    "seo_description": "Download KBO 리그 역대 최소 관중 경기 — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D"
+    ]
+  }
+}

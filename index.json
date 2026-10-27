@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:31.782Z",
-  "total_datasets": 518,
-  "total_records": 453329,
+  "generated": "2026-10-27T02:40:34.090Z",
+  "total_datasets": 519,
+  "total_records": 453352,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "tech",
@@ -11603,6 +11603,32 @@
         "xlsx": {
           "name": "ko-kbl-chaempieon-gyeoljeongjeon_KO.xlsx",
           "size": 8814
+        }
+      }
+    },
+    {
+      "id": "ko-kbo-choeso-gwanjung-gyeonggi",
+      "name": "KBO 리그 역대 최소 관중 경기",
+      "category": "sports",
+      "record_count": 23,
+      "columns": [
+        "rank",
+        "date",
+        "attendance",
+        "stadium",
+        "matchup"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D",
+      "updated": "2026-10",
+      "size": 5142,
+      "files": {
+        "csv": {
+          "name": "ko-kbo-choeso-gwanjung-gyeonggi_KO.csv",
+          "size": 1225
+        },
+        "xlsx": {
+          "name": "ko-kbo-choeso-gwanjung-gyeonggi_KO.xlsx",
+          "size": 7661
         }
       }
     },
