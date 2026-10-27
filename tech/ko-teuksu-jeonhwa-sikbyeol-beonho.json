@@ -1,0 +1,231 @@
+{
+  "id": "ko-teuksu-jeonhwa-sikbyeol-beonho",
+  "name": "대한민국 전화 식별번호 (00·01·03 등)",
+  "title": "대한민국 전화 식별번호 (00·01·03 등)",
+  "description": "대한민국 전화번호 체계의 국제전화·이동전화·특수 서비스 식별번호와 용도.",
+  "category": "tech",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "prefix",
+      "label": "Prefix",
+      "type": "string"
+    },
+    {
+      "key": "use",
+      "label": "Use",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefix": "00Y",
+      "use": "국제전화",
+      "notes": ""
+    },
+    {
+      "prefix": "01Y",
+      "use": "무선전화, 무선호출, 부가통신망",
+      "notes": ""
+    },
+    {
+      "prefix": "0N0",
+      "use": "공통 서비스 (각종 지능망 등)",
+      "notes": ""
+    },
+    {
+      "prefix": "02",
+      "use": "지역번호 ( 서울 )",
+      "notes": ""
+    },
+    {
+      "prefix": "03Z ~ 06Z",
+      "use": "지역번호",
+      "notes": ""
+    },
+    {
+      "prefix": "08Y",
+      "use": "시외전화",
+      "notes": ""
+    },
+    {
+      "prefix": "07Y, 09Y",
+      "use": "(예비)",
+      "notes": ""
+    },
+    {
+      "prefix": "10Y",
+      "use": "통신 사업자 민원안내 등",
+      "notes": ""
+    },
+    {
+      "prefix": "11Y·12Y·13Y·18Y",
+      "use": "긴급 민원 신고",
+      "notes": ""
+    },
+    {
+      "prefix": "13YY",
+      "use": "공공기관 생활정보, 안내, 상담",
+      "notes": ""
+    },
+    {
+      "prefix": "14YY",
+      "use": "기간통신사업자 부가서비스 (수신자부담 전국대표번호)",
+      "notes": ""
+    },
+    {
+      "prefix": "15YY·16YY·18YY",
+      "use": "기간통신사업자 공통부가서비스 및 자율부가서비스 (전국대표번호 등)",
+      "notes": ""
+    },
+    {
+      "prefix": "17YY·19YY",
+      "use": "(예비)",
+      "notes": ""
+    },
+    {
+      "prefix": "010",
+      "use": "이동전화",
+      "notes": "이동통신 공동 사용 식별번호 (2004년 1월 1일 이후 신규 가입 및 변경 시 강제 적용)"
+    },
+    {
+      "prefix": "0100",
+      "use": "위성전화",
+      "notes": "글로벌스타"
+    },
+    {
+      "prefix": "011",
+      "use": "2G이동전화",
+      "notes": "SK텔레콤"
+    },
+    {
+      "prefix": "012",
+      "use": "사물통신",
+      "notes": "사물통신 용, 과거 무선호출기 용"
+    },
+    {
+      "prefix": "0130, 0132",
+      "use": "주파수공용통신",
+      "notes": "주파수공용통신"
+    },
+    {
+      "prefix": "0131",
+      "use": "항만전화",
+      "notes": "항만전화"
+    },
+    {
+      "prefix": "0133",
+      "use": "무선데이터통신",
+      "notes": "무선데이터통신"
+    },
+    {
+      "prefix": "01410, 01411, 01412",
+      "use": "코넷",
+      "notes": "코넷"
+    },
+    {
+      "prefix": "01413, 01414",
+      "use": "리빙넷",
+      "notes": "리빙넷"
+    },
+    {
+      "prefix": "01421, 01422",
+      "use": "LG U+(구 LG데이콤)",
+      "notes": "LG U+(구 LG데이콤)"
+    },
+    {
+      "prefix": "01431",
+      "use": "세종텔레콤",
+      "notes": "세종텔레콤"
+    },
+    {
+      "prefix": "01433",
+      "use": "삼성네트웍스",
+      "notes": "삼성네트웍스"
+    },
+    {
+      "prefix": "01441",
+      "use": "SK브로드밴드",
+      "notes": "SK브로드밴드"
+    },
+    {
+      "prefix": "01442",
+      "use": "SK텔레콤",
+      "notes": "SK텔레콤"
+    },
+    {
+      "prefix": "01446",
+      "use": "경기도",
+      "notes": "경기도"
+    },
+    {
+      "prefix": "015",
+      "use": "무선호출",
+      "notes": "서울이동통신, 네띠앙"
+    },
+    {
+      "prefix": "016",
+      "use": "2G이동전화",
+      "notes": "KT (구 KTF )"
+    },
+    {
+      "prefix": "017",
+      "use": "2G이동전화",
+      "notes": "SK텔레콤"
+    },
+    {
+      "prefix": "018",
+      "use": "2G이동전화",
+      "notes": "KT (구 한솔PCS )"
+    },
+    {
+      "prefix": "019",
+      "use": "2G이동전화",
+      "notes": "LG유플러스 모바일 (구 LG텔레콤 )"
+    },
+    {
+      "prefix": "030",
+      "use": "통합 메시징 서비스 (UMS)",
+      "notes": ""
+    },
+    {
+      "prefix": "050",
+      "use": "개인 번호 서비스",
+      "notes": ""
+    },
+    {
+      "prefix": "060",
+      "use": "전화 정보 서비스 (통화 요금 이외에 정보 이용료가 별도로 부과된다.)",
+      "notes": ""
+    },
+    {
+      "prefix": "070",
+      "use": "인터넷 전화 (VolP)",
+      "notes": ""
+    },
+    {
+      "prefix": "080",
+      "use": "착신 과금 서비스 (수신자 부담 전화)",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 전화 식별번호 (00·01·03 등) - Free Download",
+    "description": "대한민국 전화번호 체계의 국제전화·이동전화·특수 서비스 식별번호와 용도. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 전화 식별번호 (00·01·03 등) | ListBase",
+    "seo_description": "Download 대한민국 전화 식별번호 (00·01·03 등) — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84"
+    ]
+  }
+}

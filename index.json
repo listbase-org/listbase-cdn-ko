@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:49.397Z",
-  "total_datasets": 525,
-  "total_records": 454012,
+  "generated": "2026-10-27T02:40:51.827Z",
+  "total_datasets": 526,
+  "total_records": 454050,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "time",
@@ -12409,6 +12409,30 @@
         "xlsx": {
           "name": "ko-sigandae-pacific_KO.xlsx",
           "size": 8417
+        }
+      }
+    },
+    {
+      "id": "ko-teuksu-jeonhwa-sikbyeol-beonho",
+      "name": "대한민국 전화 식별번호 (00·01·03 등)",
+      "category": "tech",
+      "record_count": 38,
+      "columns": [
+        "prefix",
+        "use",
+        "notes"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84",
+      "updated": "2026-10",
+      "size": 5916,
+      "files": {
+        "csv": {
+          "name": "ko-teuksu-jeonhwa-sikbyeol-beonho_KO.csv",
+          "size": 1955
+        },
+        "xlsx": {
+          "name": "ko-teuksu-jeonhwa-sikbyeol-beonho_KO.xlsx",
+          "size": 8179
         }
       }
     },
