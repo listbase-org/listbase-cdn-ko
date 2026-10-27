@@ -1,0 +1,312 @@
+{
+  "id": "ko-kbo-yeondobyeol-gwanjung",
+  "name": "KBO 리그 연도별 관중 수",
+  "title": "KBO 리그 연도별 관중 수",
+  "description": "1982년 출범 이후 KBO 리그의 연도별 경기 수, 총 관중 수, 증감, 경기당 평균 관중, 최다 관중 동원 팀.",
+  "category": "sports",
+  "source": "https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D",
+  "source_url": "https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "games",
+      "label": "Games",
+      "type": "number"
+    },
+    {
+      "key": "attendance",
+      "label": "Attendance",
+      "type": "number"
+    },
+    {
+      "key": "change",
+      "label": "Change",
+      "type": "string"
+    },
+    {
+      "key": "average_per_game",
+      "label": "Average Per Game",
+      "type": "number"
+    },
+    {
+      "key": "top_drawing_team",
+      "label": "Top Drawing Team",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1982,
+      "games": 240,
+      "attendance": 1438768,
+      "change": "-",
+      "average_per_game": 5995,
+      "top_drawing_team": "삼성 : 33만 467(8,262)"
+    },
+    {
+      "year": 1983,
+      "games": 300,
+      "attendance": 2256121,
+      "change": "+817,353",
+      "average_per_game": 7520,
+      "top_drawing_team": "MBC : 63만 814 (12,616)"
+    },
+    {
+      "year": 1984,
+      "games": 300,
+      "attendance": 1664729,
+      "change": "-591,401",
+      "average_per_game": 5549,
+      "top_drawing_team": "롯데 : 42만 9070 (8,581)"
+    },
+    {
+      "year": 1985,
+      "games": 330,
+      "attendance": 1688365,
+      "change": "+23,645",
+      "average_per_game": 5116,
+      "top_drawing_team": "롯데 : 37만 7971 (6,872)"
+    },
+    {
+      "year": 1986,
+      "games": 378,
+      "attendance": 2141112,
+      "change": "+",
+      "average_per_game": 5644,
+      "top_drawing_team": "롯데 : 52만 3082 (9,687)"
+    },
+    {
+      "year": 1987,
+      "games": 378,
+      "attendance": 2019675,
+      "change": "-",
+      "average_per_game": 5343,
+      "top_drawing_team": "롯데 : 58만 3601 (10,807) *관중 1천만 명 돌파"
+    },
+    {
+      "year": 1988,
+      "games": 378,
+      "attendance": 1932145,
+      "change": "-",
+      "average_per_game": 5111,
+      "top_drawing_team": "롯데 : 64만 8661 (12,012)"
+    },
+    {
+      "year": 1989,
+      "games": 420,
+      "attendance": 2883669,
+      "change": "+",
+      "average_per_game": 6866,
+      "top_drawing_team": "롯데 : 58만 4781 (10,807)"
+    },
+    {
+      "year": 1990,
+      "games": 445,
+      "attendance": 3189488,
+      "change": "+262,604",
+      "average_per_game": 7594,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1991,
+      "games": 542,
+      "attendance": 3825409,
+      "change": "+664,793",
+      "average_per_game": 7590,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1992,
+      "games": 563,
+      "attendance": 3912092,
+      "change": "+248,087",
+      "average_per_game": 7762,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1993,
+      "games": 548,
+      "attendance": 4437149,
+      "change": "+548,368",
+      "average_per_game": 8804,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1994,
+      "games": 540,
+      "attendance": 4194428,
+      "change": "-488,975",
+      "average_per_game": 8322,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1995,
+      "games": 543,
+      "attendance": 5406374,
+      "change": "+1,493,142",
+      "average_per_game": 10727,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1996,
+      "games": 543,
+      "attendance": 4498082,
+      "change": "-1,100,409",
+      "average_per_game": 8925,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1997,
+      "games": 556,
+      "attendance": 3902966,
+      "change": "-539,750",
+      "average_per_game": 7744,
+      "top_drawing_team": "관중 5천만 명 돌파"
+    },
+    {
+      "year": 1998,
+      "games": 550,
+      "attendance": 2639119,
+      "change": "-1,305,443",
+      "average_per_game": 5236,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 1999,
+      "games": 566,
+      "attendance": 3220624,
+      "change": "+548,196",
+      "average_per_game": 6100,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2000,
+      "games": 554,
+      "attendance": 2507549,
+      "change": "-700,700",
+      "average_per_game": 4713,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2001,
+      "games": 545,
+      "attendance": 2991064,
+      "change": "+481,562",
+      "average_per_game": 5622,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2002,
+      "games": 546,
+      "attendance": 2394570,
+      "change": "-623,882",
+      "average_per_game": 4501,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2003,
+      "games": 545,
+      "attendance": 2772801,
+      "change": "+315,483",
+      "average_per_game": 5118,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2004,
+      "games": 545,
+      "attendance": 2331978,
+      "change": "-312,672",
+      "average_per_game": 4383,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2005,
+      "games": 517,
+      "attendance": 3387843,
+      "change": "+1,003,131",
+      "average_per_game": 6722,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2006,
+      "games": 518,
+      "attendance": 3040254,
+      "change": "-399,698",
+      "average_per_game": 6932,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2007,
+      "games": 517,
+      "attendance": 4104429,
+      "change": "+1,168,247",
+      "average_per_game": 8144,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2008,
+      "games": 519,
+      "attendance": 5256332,
+      "change": "+1,226,952",
+      "average_per_game": 10429,
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2009,
+      "games": 532,
+      "attendance": 5925285,
+      "change": "+711,356",
+      "average_per_game": 11138,
+      "top_drawing_team": "최다 관중 돌파"
+    },
+    {
+      "year": 2010,
+      "games": 532,
+      "attendance": 5928626,
+      "change": "",
+      "average_per_game": 11144,
+      "top_drawing_team": "최다 관중 돌파, 관중 1억 명 돌파"
+    },
+    {
+      "year": 2011,
+      "games": 532,
+      "attendance": "",
+      "change": "",
+      "average_per_game": "",
+      "top_drawing_team": ""
+    },
+    {
+      "year": 2012,
+      "games": "",
+      "attendance": "",
+      "change": "",
+      "average_per_game": "",
+      "top_drawing_team": ""
+    },
+    {
+      "year": "",
+      "games": 13665,
+      "attendance": 97481392,
+      "change": "97,481,392",
+      "average_per_game": 7134,
+      "top_drawing_team": ""
+    }
+  ],
+  "meta": {
+    "title": "KBO 리그 연도별 관중 수 - Free Download",
+    "description": "1982년 출범 이후 KBO 리그의 연도별 경기 수, 총 관중 수, 증감, 경기당 평균 관중, 최다 관중 동원 팀. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBO 리그 연도별 관중 수 | ListBase",
+    "seo_description": "Download KBO 리그 연도별 관중 수 — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBO_%EB%A6%AC%EA%B7%B8_%EA%B4%80%EC%A4%91_%EA%B4%80%EB%A0%A8_%EA%B8%B0%EB%A1%9D"
+    ]
+  }
+}
