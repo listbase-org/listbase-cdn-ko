@@ -1,0 +1,1766 @@
+{
+  "id": "ko-haeyang-sago",
+  "name": "대한민국의 주요 해양 사고",
+  "title": "대한민국의 주요 해양 사고",
+  "description": "1947년 이후 대한민국에서 발생한 주요 해양 사고(선박 침몰·충돌 등)의 일시, 선박·선주, 톤수, 사고 지점, 승선 인원, 인명 피해, 원인.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%95%B4%EC%96%91_%EC%82%AC%EA%B3%A0",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%95%B4%EC%96%91_%EC%82%AC%EA%B3%A0",
+  "updated": "2026-10",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "vessel_owner",
+      "label": "Vessel Owner",
+      "type": "string"
+    },
+    {
+      "key": "tonnage",
+      "label": "Tonnage",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "on_board",
+      "label": "On Board",
+      "type": "string"
+    },
+    {
+      "key": "rescued_dead_missing",
+      "label": "Rescued Dead Missing",
+      "type": "string"
+    },
+    {
+      "key": "cause",
+      "label": "Cause",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1947년 8월 19일",
+      "time": "15시",
+      "vessel_owner": "태양환호",
+      "tonnage": "36톤",
+      "location": "거제도 밖 6마일",
+      "on_board": "",
+      "rescued_dead_missing": "94명 23명 / 24명",
+      "cause": "경비선과 충돌"
+    },
+    {
+      "date": "1948년 4월 11일",
+      "time": "10시",
+      "vessel_owner": "범선 2척",
+      "tonnage": "",
+      "location": "수원군우정면 해안",
+      "on_board": "",
+      "rescued_dead_missing": "0명 2명 / 81명",
+      "cause": "태풍"
+    },
+    {
+      "date": "1948년 6월 8일",
+      "time": "11시 반경",
+      "vessel_owner": "어선 15척",
+      "tonnage": "",
+      "location": "독도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "0명 9명 / 5명",
+      "cause": "미군기의 폭격"
+    },
+    {
+      "date": "1949년 7월 28일",
+      "time": "16시",
+      "vessel_owner": "밀항선",
+      "tonnage": "",
+      "location": "부산 영도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "19명 20명 실종",
+      "cause": "태풍"
+    },
+    {
+      "date": "1949년 10월 5일",
+      "time": "12시 50분",
+      "vessel_owner": "평해호",
+      "tonnage": "17톤",
+      "location": "작약도 부근 인천항 ↔ 강화도 사기리",
+      "on_board": "50명 200여 명",
+      "rescued_dead_missing": "86명 71명 사망",
+      "cause": "과적"
+    },
+    {
+      "date": "1951년 6월 10일",
+      "time": "15시",
+      "vessel_owner": "제13호(第13湖)호 영암부삼호면사업계",
+      "tonnage": "12톤",
+      "location": "목포항 근해",
+      "on_board": "39명 ?",
+      "rescued_dead_missing": "30여 명 사망",
+      "cause": "과적"
+    },
+    {
+      "date": "1951년 7월 11일",
+      "time": "18시 20분",
+      "vessel_owner": "제5편리호 다대포간순항선조합",
+      "tonnage": "17톤 24년",
+      "location": "부산 송도 앞바다 부산 충무동 ↔ 다대포",
+      "on_board": "91명 170명",
+      "rescued_dead_missing": "55명 74명 이상 사망",
+      "cause": "과적"
+    },
+    {
+      "date": "1951년 11월 18일",
+      "time": "11시 50분",
+      "vessel_owner": "삼해남호 해남운수주식회사",
+      "tonnage": "31톤",
+      "location": "진도항 부근 진도항",
+      "on_board": "57명 130명",
+      "rescued_dead_missing": "55명 45명 / 3명",
+      "cause": "초과승선 운전수 과실"
+    },
+    {
+      "date": "1952년 5월 15일",
+      "time": "14시",
+      "vessel_owner": "조일환호",
+      "tonnage": "",
+      "location": "려호도 제주도 연평항 ↔ 부산",
+      "on_board": "29명",
+      "rescued_dead_missing": "15명 14명 사망",
+      "cause": "운전수 과실"
+    },
+    {
+      "date": "1953년 1월 9일",
+      "time": "14시",
+      "vessel_owner": "창경호 대동상선",
+      "tonnage": "147톤 20년",
+      "location": "거북섬 부근 여수 ↔ 부산",
+      "on_board": "240명 300여 명",
+      "rescued_dead_missing": "8명 266명 이상 사망",
+      "cause": "파도 과적"
+    },
+    {
+      "date": "1953년 1월 25일",
+      "time": "15시 30분",
+      "vessel_owner": "행운호 한국미곡주식회사",
+      "tonnage": "",
+      "location": "충남 완포리 부근 충북 칠산 ↔ 전북 군산",
+      "on_board": "75명 200여 명",
+      "rescued_dead_missing": "10여 명 64명 이상 사망",
+      "cause": "과적"
+    },
+    {
+      "date": "1954년 6월 3일",
+      "time": "21시 8분",
+      "vessel_owner": "태양호",
+      "tonnage": "",
+      "location": "전남 돌산도 앞바다 목포 ↔ 부산",
+      "on_board": "",
+      "rescued_dead_missing": "23명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1954년 8월 16일",
+      "time": "새벽",
+      "vessel_owner": "범선",
+      "tonnage": "",
+      "location": "강화도 앞바다",
+      "on_board": "17명 승선",
+      "rescued_dead_missing": "3명 구조 14명 사망",
+      "cause": "조류와 파도"
+    },
+    {
+      "date": "1955년 4월 3일",
+      "time": "19시",
+      "vessel_owner": "발동화물선",
+      "tonnage": "",
+      "location": "김해 앞바다",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "13명 실종",
+      "cause": "암초에 파선"
+    },
+    {
+      "date": "1955년 4월 23일",
+      "time": "4시",
+      "vessel_owner": "삼영호",
+      "tonnage": "",
+      "location": "하동 앞바다",
+      "on_board": "73명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "암초에 파선"
+    },
+    {
+      "date": "1955년 5월 10일",
+      "time": "17시 전후",
+      "vessel_owner": "연평도 어선단",
+      "tonnage": "",
+      "location": "연평도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "중상 9명 6명 / 12명",
+      "cause": "북한군 포격"
+    },
+    {
+      "date": "1955년 8월 17일",
+      "time": "22시경",
+      "vessel_owner": "괴선박",
+      "tonnage": "",
+      "location": "전남 흑산도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "7명 / 13명",
+      "cause": ""
+    },
+    {
+      "date": "1956년 1월 12일",
+      "time": "3시 30분",
+      "vessel_owner": "태신호 조선기선주식회사",
+      "tonnage": "135톤",
+      "location": "전남 흑산도 부근",
+      "on_board": "122명 / 11명 147명",
+      "rescued_dead_missing": "66명 사망",
+      "cause": "화재"
+    },
+    {
+      "date": "1956년 2월 1일",
+      "time": "7시경",
+      "vessel_owner": "목선",
+      "tonnage": "",
+      "location": "전북 비안도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "3명 18명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1956년 9월 22일",
+      "time": "오후",
+      "vessel_owner": "어선",
+      "tonnage": "",
+      "location": "전남 위도면 부근",
+      "on_board": "",
+      "rescued_dead_missing": "11명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1956년 12월 4일",
+      "time": "6시경",
+      "vessel_owner": "어선",
+      "tonnage": "",
+      "location": "충남 당진 부근",
+      "on_board": "",
+      "rescued_dead_missing": "1명 / 22명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1957년 4월 14일",
+      "time": "9시경",
+      "vessel_owner": "강남호",
+      "tonnage": "",
+      "location": "인천 월미도 서쪽",
+      "on_board": "57명 승선",
+      "rescued_dead_missing": "26명 3명 / 31명",
+      "cause": "충돌 풍랑과 퇴조"
+    },
+    {
+      "date": "1957년 8월 29일",
+      "time": "11시 30분",
+      "vessel_owner": "목선",
+      "tonnage": "",
+      "location": "화성군 서쪽",
+      "on_board": "63명 승선",
+      "rescued_dead_missing": "31명 생존 1명 / 31명",
+      "cause": "과적"
+    },
+    {
+      "date": "1958년 1월 15일",
+      "time": "정오경",
+      "vessel_owner": "제87대양호 한국수산주식회사",
+      "tonnage": "84톤",
+      "location": "전남 흑산도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "11명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1958년 2월 12일",
+      "time": "밤",
+      "vessel_owner": "기범선 4척",
+      "tonnage": "",
+      "location": "강원 거진항 부근",
+      "on_board": "",
+      "rescued_dead_missing": "11명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1959년 1월 16일",
+      "time": "16시 30분",
+      "vessel_owner": "삼성호 해동유류부주식회사",
+      "tonnage": "54톤",
+      "location": "제주 죽도항 부근",
+      "on_board": "",
+      "rescued_dead_missing": "9명 / 4명",
+      "cause": "정박 중 표류 암초에 충돌"
+    },
+    {
+      "date": "1959년 4월 22일",
+      "time": "16시 45분",
+      "vessel_owner": "통도호 순항선조합",
+      "tonnage": "57톤",
+      "location": "전북 고창 부근",
+      "on_board": "36명 승선",
+      "rescued_dead_missing": "4명 7명 / 25명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1959년 9월 17일",
+      "time": "10시경",
+      "vessel_owner": "어선 4척",
+      "tonnage": "",
+      "location": "전남 완도 앞바다",
+      "on_board": "43명 승선",
+      "rescued_dead_missing": "2명 41명 사망",
+      "cause": "태풍"
+    },
+    {
+      "date": "1960년 1월 16일",
+      "time": "11시",
+      "vessel_owner": "직영호",
+      "tonnage": "8톤",
+      "location": "강원 판교리 부근",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "1명 12명 실종",
+      "cause": "안개와 풍랑"
+    },
+    {
+      "date": "1960년 5월 13일",
+      "time": "20시",
+      "vessel_owner": "어선 4척",
+      "tonnage": "",
+      "location": "연평도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "6명 1명 / 13명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1960년 5월 31일",
+      "time": "15시",
+      "vessel_owner": "백구호 남양수산",
+      "tonnage": "74톤",
+      "location": "제주 연평리 부근 성산포 ↔ 부산",
+      "on_board": "39명 승선",
+      "rescued_dead_missing": "26명 13명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1961년 11월 10일",
+      "time": "0시 2분경",
+      "vessel_owner": "광복호",
+      "tonnage": "17톤",
+      "location": "경남 통영 부근",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "1명 12명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1962년 1월 2일",
+      "time": "13시 40분~ 17시 30분",
+      "vessel_owner": "속초항 어선단",
+      "tonnage": "",
+      "location": "속초항 부근",
+      "on_board": "",
+      "rescued_dead_missing": "5명 3명 / 21명",
+      "cause": "해일"
+    },
+    {
+      "date": "1963년 1월 18일",
+      "time": "12시",
+      "vessel_owner": "연호 명진합명회사",
+      "tonnage": "34.5톤 21년",
+      "location": "전남 영암 부근 목포 ↔ 해남",
+      "on_board": "86명 / 8명 141명",
+      "rescued_dead_missing": "1명 120명 이상 사망",
+      "cause": "과적 돌풍"
+    },
+    {
+      "date": "1963년 11월 8일",
+      "time": "새벽",
+      "vessel_owner": "어선 2척",
+      "tonnage": "",
+      "location": "강원 속초 앞",
+      "on_board": "",
+      "rescued_dead_missing": "13명 실종",
+      "cause": "돌풍"
+    },
+    {
+      "date": "1963년 12월 18일",
+      "time": "4시",
+      "vessel_owner": "高砂丸",
+      "tonnage": "83톤",
+      "location": "제주 남쪽",
+      "on_board": "",
+      "rescued_dead_missing": "4명 10명 실종",
+      "cause": "파도"
+    },
+    {
+      "date": "1964년 4월 16일",
+      "time": "11시",
+      "vessel_owner": "보승 2호",
+      "tonnage": "",
+      "location": "소연평도 부근",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "2명 11명 실종",
+      "cause": "안개 속에 암초에 충돌"
+    },
+    {
+      "date": "1964년 7월 29일",
+      "time": "밤",
+      "vessel_owner": "서해 어선단",
+      "tonnage": "",
+      "location": "연평도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "219명 32명 / 62명 추정",
+      "cause": "태풍"
+    },
+    {
+      "date": "1964년 8월 2일",
+      "time": "19시",
+      "vessel_owner": "신성호",
+      "tonnage": "",
+      "location": "전남 완도 부근",
+      "on_board": "20여 명 승선",
+      "rescued_dead_missing": "2명 3명 / 15명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1964년 11월 24일",
+      "time": "8시 5분경",
+      "vessel_owner": "나룻배",
+      "tonnage": "4톤",
+      "location": "충남 서산 부근",
+      "on_board": "32여 명 승선",
+      "rescued_dead_missing": "8명 11명 / 13명",
+      "cause": "과적"
+    },
+    {
+      "date": "1964년 12월 4일",
+      "time": "17시",
+      "vessel_owner": "대성호",
+      "tonnage": "4톤",
+      "location": "충남 서산 부근",
+      "on_board": "승객 10명",
+      "rescued_dead_missing": "13명 실종",
+      "cause": "기관 고장 돌풍"
+    },
+    {
+      "date": "1965년 4월 4일",
+      "time": "8시 30분경",
+      "vessel_owner": "채취선",
+      "tonnage": "",
+      "location": "전남 여천 부근",
+      "on_board": "25명 승선",
+      "rescued_dead_missing": "2명 2명 / 21명",
+      "cause": "돌풍"
+    },
+    {
+      "date": "1965년 12월 30일",
+      "time": "6시 30분",
+      "vessel_owner": "제3영생호",
+      "tonnage": "",
+      "location": "삼척 앞바다",
+      "on_board": "21명 승선",
+      "rescued_dead_missing": "7명 14명 사망",
+      "cause": "풍랑으로 암초에 충돌"
+    },
+    {
+      "date": "1965년 12월 30일",
+      "time": "13시",
+      "vessel_owner": "편리호",
+      "tonnage": "22톤",
+      "location": "묵호 앞바다",
+      "on_board": "25명 승선",
+      "rescued_dead_missing": "2명 2명 / 21명",
+      "cause": "파도와 폭설"
+    },
+    {
+      "date": "1966년 1월 13일",
+      "time": "14시",
+      "vessel_owner": "전마선",
+      "tonnage": "",
+      "location": "충남 삼길포 부근",
+      "on_board": "36명 승선",
+      "rescued_dead_missing": "11명 15명 / 10명",
+      "cause": "파도"
+    },
+    {
+      "date": "1967년 1월 14일",
+      "time": "21시 54분경",
+      "vessel_owner": "한일호 여수천양기선",
+      "tonnage": "140톤 11년",
+      "location": "경남 가덕도 부근 여수 ↔ 부산",
+      "on_board": "165명 / 13명 불명",
+      "rescued_dead_missing": "12명 66명 / 27명 추정",
+      "cause": "함정과 충돌"
+    },
+    {
+      "date": "1967년 1월 19일",
+      "time": "13시 50분 ~ 14시 10분",
+      "vessel_owner": "당포함 동해경비분대",
+      "tonnage": "650톤",
+      "location": "동해어로저지선 부근",
+      "on_board": "79명 승선",
+      "rescued_dead_missing": "40명 11명 / 28명",
+      "cause": "북한의 포격"
+    },
+    {
+      "date": "1968년 1월 3일",
+      "time": "2시",
+      "vessel_owner": "제5삼양호 삼양사",
+      "tonnage": "",
+      "location": "추자도 남쪽",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "1명 / 12명",
+      "cause": "암초에 충돌"
+    },
+    {
+      "date": "1968년 5월 17일",
+      "time": "15시",
+      "vessel_owner": "천지호 대한유조선회사",
+      "tonnage": "5,243톤",
+      "location": "목포 부근",
+      "on_board": "48명 승선",
+      "rescued_dead_missing": "31명 3명 / 13명",
+      "cause": "암초에 충돌"
+    },
+    {
+      "date": "1968년 5월 24일",
+      "time": "11시 30분",
+      "vessel_owner": "서조호",
+      "tonnage": "5톤 12년",
+      "location": "충남 장항 부근",
+      "on_board": "20명 61명",
+      "rescued_dead_missing": "40명 16명 / 5명",
+      "cause": "과적 무허가 운항"
+    },
+    {
+      "date": "1969년 3월 27일",
+      "time": "5시경",
+      "vessel_owner": "어선 3척",
+      "tonnage": "",
+      "location": "제주 근해",
+      "on_board": "",
+      "rescued_dead_missing": "21명 실종",
+      "cause": "돌풍"
+    },
+    {
+      "date": "1969년 9월 24일",
+      "time": "2시경",
+      "vessel_owner": "무장간첩선",
+      "tonnage": "50톤",
+      "location": "흑산도 근해",
+      "on_board": "15~18명 추정",
+      "rescued_dead_missing": "15~18명 사망 추정",
+      "cause": "교전"
+    },
+    {
+      "date": "1969년 10월 14일",
+      "time": "6시 42분",
+      "vessel_owner": "무장간첩선",
+      "tonnage": "75톤",
+      "location": "소흑산도 근해",
+      "on_board": "20여 명 추정",
+      "rescued_dead_missing": "20여 명 사망 추정",
+      "cause": "교전"
+    },
+    {
+      "date": "1970년 1월 30일",
+      "time": "",
+      "vessel_owner": "어선 4척",
+      "tonnage": "",
+      "location": "강원 명주 부근",
+      "on_board": "",
+      "rescued_dead_missing": "18명 사망",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1970년 4월 3일",
+      "time": "23시 49분",
+      "vessel_owner": "무장간첩선",
+      "tonnage": "50톤",
+      "location": "서해 격렬비열도",
+      "on_board": "15~17 명 추정",
+      "rescued_dead_missing": "15~17명 사망 추정",
+      "cause": "교전"
+    },
+    {
+      "date": "1970년 5월 4일",
+      "time": "",
+      "vessel_owner": "명신호 대경해운",
+      "tonnage": "339톤",
+      "location": "부산 동남쪽",
+      "on_board": "16명 승선",
+      "rescued_dead_missing": "5명 / 11명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1970년 12월 15일",
+      "time": "1시 20분",
+      "vessel_owner": "남영호 남영해운",
+      "tonnage": "362톤 2년",
+      "location": "거문도 동쪽 서귀포 ↔ 부산",
+      "on_board": "321명 /19명 338명",
+      "rescued_dead_missing": "12명 326명 이상 사망",
+      "cause": "과적"
+    },
+    {
+      "date": "1971년 1월 4일",
+      "time": "2시",
+      "vessel_owner": "어선 3척",
+      "tonnage": "",
+      "location": "흑산도 부근",
+      "on_board": "22명 승선",
+      "rescued_dead_missing": "22명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1971년 1월 7일",
+      "time": "10시 20분",
+      "vessel_owner": "질자호",
+      "tonnage": "24톤 18년",
+      "location": "전남 여수 부근",
+      "on_board": "64명 / 5명 90여 명",
+      "rescued_dead_missing": "61명 30명 / 2명",
+      "cause": "충돌"
+    },
+    {
+      "date": "1971년 5월 14일",
+      "time": "1시 35분",
+      "vessel_owner": "무장간첩선",
+      "tonnage": "50~60톤",
+      "location": "동해 휴전선 남방",
+      "on_board": "15~17명 추정",
+      "rescued_dead_missing": "15~17명 사망 추정",
+      "cause": "교전"
+    },
+    {
+      "date": "1973년 1월 25일",
+      "time": "14시 30분",
+      "vessel_owner": "한성호 목포한일기선",
+      "tonnage": "12년",
+      "location": "진도 앞바다",
+      "on_board": "95명 109명",
+      "rescued_dead_missing": "48명 19명 / 42명",
+      "cause": "과적"
+    },
+    {
+      "date": "1973년 2월 26일",
+      "time": "10시 35분",
+      "vessel_owner": "성산호",
+      "tonnage": "57.3톤",
+      "location": "통영 부근",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "4명 / 9명",
+      "cause": "돌풍"
+    },
+    {
+      "date": "1974년 2월 22일",
+      "time": "11시 10분경",
+      "vessel_owner": "YTL30정 대한민국 해군",
+      "tonnage": "120톤",
+      "location": "충무 앞바다",
+      "on_board": "316명",
+      "rescued_dead_missing": "152명 158명 / 1명",
+      "cause": "과적 운항부주의"
+    },
+    {
+      "date": "1974년 5월 19일",
+      "time": "3시",
+      "vessel_owner": "칠성호",
+      "tonnage": "58톤",
+      "location": "경남 거제 해안가",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "폭우"
+    },
+    {
+      "date": "1974년 6월 28일",
+      "time": "10시 30분",
+      "vessel_owner": "경비정 863호",
+      "tonnage": "200톤 33년",
+      "location": "동해 분계선 부근",
+      "on_board": "34명 28명",
+      "rescued_dead_missing": "8명 / 20명",
+      "cause": "피격"
+    },
+    {
+      "date": "1974년 8월 29일",
+      "time": "15시 20분",
+      "vessel_owner": "어선 4척",
+      "tonnage": "",
+      "location": "소흑산도 남쪽",
+      "on_board": "",
+      "rescued_dead_missing": "10명 47명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1974년 11월 12일",
+      "time": "15시 20분",
+      "vessel_owner": "광진호",
+      "tonnage": "4.6톤",
+      "location": "전남 완도 앞바다",
+      "on_board": "64명 승선",
+      "rescued_dead_missing": "23명 13명 / 28명",
+      "cause": "과적 풍랑"
+    },
+    {
+      "date": "1976년 1월 17일",
+      "time": "14시 50분",
+      "vessel_owner": "만덕호",
+      "tonnage": "7.2톤",
+      "location": "울릉도 천부항 부근",
+      "on_board": "56명 승선",
+      "rescued_dead_missing": "19명 11명 / 26명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1976년 10월 29일",
+      "time": "",
+      "vessel_owner": "어선 17척",
+      "tonnage": "",
+      "location": "대화퇴 해상",
+      "on_board": "327명",
+      "rescued_dead_missing": "34명 / 293명",
+      "cause": "4일간의 풍랑"
+    },
+    {
+      "date": "1976년 12월 8일",
+      "time": "",
+      "vessel_owner": "610광덕호",
+      "tonnage": "71톤",
+      "location": "제주도 근해",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "0명 1명 / 10명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1977년 12월 2일",
+      "time": "23시경",
+      "vessel_owner": "제11강원호 속초항",
+      "tonnage": "85톤",
+      "location": "울릉도 서쪽 해상",
+      "on_board": "31명 승선",
+      "rescued_dead_missing": "5명 26명 실종",
+      "cause": "강풍 파도"
+    },
+    {
+      "date": "1977년 12월 3일",
+      "time": "",
+      "vessel_owner": "풍성9호 충무항",
+      "tonnage": "28톤",
+      "location": "",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "1명 9명 실종",
+      "cause": "태풍"
+    },
+    {
+      "date": "1978년 1월 21일",
+      "time": "8시",
+      "vessel_owner": "어선 2척 충무항",
+      "tonnage": "각 0.7톤",
+      "location": "",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "7명 6명 실종",
+      "cause": "돌풍"
+    },
+    {
+      "date": "1978년 2월 17일",
+      "time": "",
+      "vessel_owner": "어선 8척",
+      "tonnage": "",
+      "location": "",
+      "on_board": "",
+      "rescued_dead_missing": "29명 사망",
+      "cause": "강풍 눈보라"
+    },
+    {
+      "date": "1978년 11월 29일",
+      "time": "4시",
+      "vessel_owner": "어선 5척",
+      "tonnage": "",
+      "location": "전남 무안 부근",
+      "on_board": "",
+      "rescued_dead_missing": "23명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1979년 1월 29일",
+      "time": "11시경",
+      "vessel_owner": "어선 2척",
+      "tonnage": "",
+      "location": "전남 소흑산도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "2명 20명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1979년 2월 17일",
+      "time": "16시경",
+      "vessel_owner": "제1선북호 부산항",
+      "tonnage": "49톤",
+      "location": "울산 방어진 부근",
+      "on_board": "",
+      "rescued_dead_missing": "13명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1979년 10월 5일",
+      "time": "10시 30분경",
+      "vessel_owner": "제2병묵호 인천항",
+      "tonnage": "100톤",
+      "location": "전남 홍도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1979년 11월 18일",
+      "time": "",
+      "vessel_owner": "제2영풍호 군산안강망어협",
+      "tonnage": "48톤",
+      "location": "제주 남쪽 해상",
+      "on_board": "",
+      "rescued_dead_missing": "10명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1980년 6월 21일",
+      "time": "",
+      "vessel_owner": "무장간첩선 북한",
+      "tonnage": "6~7톤",
+      "location": "서산 앞바다",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "1명 생포 9명 사살",
+      "cause": "교전"
+    },
+    {
+      "date": "1980년 8월 31일",
+      "time": "20시 50분",
+      "vessel_owner": "제5성남호 부산항",
+      "tonnage": "83.7톤",
+      "location": "전남 거문도 부근",
+      "on_board": "14명 승선",
+      "rescued_dead_missing": "14명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1980년 10월 31일",
+      "time": "10시 이후",
+      "vessel_owner": "제5종봉호 여수항",
+      "tonnage": "156톤",
+      "location": "대화퇴 부근",
+      "on_board": "35명 승선",
+      "rescued_dead_missing": "35명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1981년 9월 6일",
+      "time": "3시 30분경",
+      "vessel_owner": "제1명신호",
+      "tonnage": "40.4톤",
+      "location": "통영 앞바다",
+      "on_board": "27명 승선",
+      "rescued_dead_missing": "9명 18명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1981년 11월 24일",
+      "time": "",
+      "vessel_owner": "제36한일호",
+      "tonnage": "291톤",
+      "location": "전남 보길도 부근",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "11명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1982년 10월 24일",
+      "time": "14시",
+      "vessel_owner": "제2동해호",
+      "tonnage": "42톤",
+      "location": "울릉도 동북방",
+      "on_board": "36명 승선",
+      "rescued_dead_missing": "36명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1983년 10월 7일",
+      "time": "오후",
+      "vessel_owner": "거성호",
+      "tonnage": "78톤",
+      "location": "제주 화도 서쪽",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "2명 11명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1984년 1월 12일",
+      "time": "5시 30분",
+      "vessel_owner": "제7삼성호 삼천포항",
+      "tonnage": "35.6톤",
+      "location": "제주 우도 부근",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "1명 / 12명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1984년 4월 18일",
+      "time": "23시 30분",
+      "vessel_owner": "동남점보페리호 동남점보페리",
+      "tonnage": "2,904톤 14년",
+      "location": "전남 거문도 부근",
+      "on_board": "584명 / 32명 183명",
+      "rescued_dead_missing": "203명 12명 사망",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1984년 7월 5일",
+      "time": "23시",
+      "vessel_owner": "제7동아호 경북영일군 수협",
+      "tonnage": "44톤",
+      "location": "전남 신안 부근",
+      "on_board": "20명 승선",
+      "rescued_dead_missing": "3명 17명 실종",
+      "cause": "암초에 충돌"
+    },
+    {
+      "date": "1984년 11월 17일",
+      "time": "17시 30분경",
+      "vessel_owner": "영암호",
+      "tonnage": "3.3톤 4년",
+      "location": "전남 신안 부근",
+      "on_board": "64명 승선",
+      "rescued_dead_missing": "53명 9명 / 2명",
+      "cause": "해태발목에 충돌"
+    },
+    {
+      "date": "1985년 1월 29일",
+      "time": "17시 25분경",
+      "vessel_owner": "화평 에이스호 동화해운",
+      "tonnage": "1,992톤 13년",
+      "location": "제주 남동 해상",
+      "on_board": "20명 승선",
+      "rescued_dead_missing": "3명 3명 / 14명",
+      "cause": "갑자기 기울어짐"
+    },
+    {
+      "date": "1985년 2월 1일",
+      "time": "3시경",
+      "vessel_owner": "제일크리스탈호 정금해운",
+      "tonnage": "1,470톤",
+      "location": "대마도 근해",
+      "on_board": "16명 승선",
+      "rescued_dead_missing": "4명 2명 / 10명",
+      "cause": ""
+    },
+    {
+      "date": "1985년 3월 15일",
+      "time": "11시 19분",
+      "vessel_owner": "세진호 삼호물산",
+      "tonnage": "150톤",
+      "location": "제주 우도 부근",
+      "on_board": "31명 승선",
+      "rescued_dead_missing": "4명 27명 실종",
+      "cause": "풍랑으로 전복"
+    },
+    {
+      "date": "1985년 4월 11일",
+      "time": "12시경",
+      "vessel_owner": "제77신성호 부산시 수협",
+      "tonnage": "41톤",
+      "location": "제주 동쪽 해상",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "11명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1985년 4월 18일",
+      "time": "0시 50분경",
+      "vessel_owner": "제11원근해호 인천 수협",
+      "tonnage": "98.2톤",
+      "location": "소흑산도 서남",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1985년 7월 27일",
+      "time": "19시 50분경",
+      "vessel_owner": "신안2호",
+      "tonnage": "27톤",
+      "location": "신안 홍도리 부근",
+      "on_board": "37명 승선",
+      "rescued_dead_missing": "19명 18명 실종",
+      "cause": "엔진 고장"
+    },
+    {
+      "date": "1985년 8월 14일",
+      "time": "8시경",
+      "vessel_owner": "광일호 옹진항",
+      "tonnage": "42톤",
+      "location": "전남 영광 부근",
+      "on_board": "14명 승선",
+      "rescued_dead_missing": "2명 12명 실종",
+      "cause": "태풍"
+    },
+    {
+      "date": "1986년 3월 16일",
+      "time": "5시 40분경",
+      "vessel_owner": "604상진호 목포항",
+      "tonnage": "67톤",
+      "location": "전남 진도 부근",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "10명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1986년 11월 25일",
+      "time": "20시 30분경",
+      "vessel_owner": "천양호 속초항",
+      "tonnage": "78톤 26년",
+      "location": "속초 동쪽 해상",
+      "on_board": "26명 승선",
+      "rescued_dead_missing": "1명 4명 / 21명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1986년 11월 26일",
+      "time": "10시 30분경",
+      "vessel_owner": "카페리2호 신정해운",
+      "tonnage": "54.8톤",
+      "location": "강화 석포리 부근",
+      "on_board": "70명 승선",
+      "rescued_dead_missing": "43명 13명 / 14명",
+      "cause": "균형상실 급류"
+    },
+    {
+      "date": "1987년 1월 13일",
+      "time": "7시경",
+      "vessel_owner": "제224경인호 인천경인수산",
+      "tonnage": "95톤",
+      "location": "격렬비열도 부근",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "10명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1987년 2월 12일",
+      "time": "7시경",
+      "vessel_owner": "제88지영호 부산항",
+      "tonnage": "39톤",
+      "location": "대마도 동북방 해상",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 10명 사망",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1987년 2월말",
+      "time": "",
+      "vessel_owner": "영지호 목포수협",
+      "tonnage": "109톤",
+      "location": "제주도 남쪽 해상",
+      "on_board": "35명 승선",
+      "rescued_dead_missing": "35명 실종",
+      "cause": "풍랑 추정"
+    },
+    {
+      "date": "1987년 6월 16일",
+      "time": "14시 40분",
+      "vessel_owner": "극동호 충무유람선협회",
+      "tonnage": "24톤 약 7년",
+      "location": "충무 앞바다",
+      "on_board": "87명 / 3명 87명",
+      "rescued_dead_missing": "51명 29명 / 7명",
+      "cause": "엔진 고장 화재"
+    },
+    {
+      "date": "1987년 7월 16일",
+      "time": "",
+      "vessel_owner": "어선 12척",
+      "tonnage": "",
+      "location": "전남 신안 부근",
+      "on_board": "58명 승선",
+      "rescued_dead_missing": "5명 53명 실종",
+      "cause": "태풍 셀마"
+    },
+    {
+      "date": "1987년 8월 31일",
+      "time": "2시",
+      "vessel_owner": "동익호 울릉",
+      "tonnage": "99톤",
+      "location": "울릉도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "8명 1명 / 24명",
+      "cause": "태풍 다이너"
+    },
+    {
+      "date": "1987년 10월 7일",
+      "time": "5시경",
+      "vessel_owner": "제31진영호 동진수산",
+      "tonnage": "45톤",
+      "location": "백령도 서쪽",
+      "on_board": "",
+      "rescued_dead_missing": "1명 11명 실종",
+      "cause": "북한 군함에 피격"
+    },
+    {
+      "date": "1987년 12월 1일",
+      "time": "19시경",
+      "vessel_owner": "제11복성호 울릉도",
+      "tonnage": "35.6톤",
+      "location": "제주항 부근",
+      "on_board": "",
+      "rescued_dead_missing": "1명 13명 실종",
+      "cause": "강풍 파도"
+    },
+    {
+      "date": "1987년 12월 6일",
+      "time": "8시경",
+      "vessel_owner": "제2장영호 부산항",
+      "tonnage": "294톤",
+      "location": "오륙도 동쪽",
+      "on_board": "",
+      "rescued_dead_missing": "1명 10명 실종",
+      "cause": "폭풍 불균형"
+    },
+    {
+      "date": "1987년 12월 30일",
+      "time": "3시 15분경",
+      "vessel_owner": "제101영성호 부산항",
+      "tonnage": "105톤",
+      "location": "홍도 남서쪽",
+      "on_board": "28명 승선",
+      "rescued_dead_missing": "17명 4명 / 7명",
+      "cause": "폭풍"
+    },
+    {
+      "date": "1987년 12월 30일",
+      "time": "5시 40분경",
+      "vessel_owner": "제391동영호 통영",
+      "tonnage": "33.6톤",
+      "location": "마라도 서쪽",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "10명",
+      "cause": "침수"
+    },
+    {
+      "date": "1988년 4월 17일",
+      "time": "12시 50분경",
+      "vessel_owner": "거룻배",
+      "tonnage": "0.5톤",
+      "location": "신안 용섬 부근",
+      "on_board": "5명 이하 19명",
+      "rescued_dead_missing": "5명 12명 / 2명",
+      "cause": "정원초과 파도"
+    },
+    {
+      "date": "1988년 4월 18일",
+      "time": "4시 10분경",
+      "vessel_owner": "제13해림호 부산",
+      "tonnage": "96톤",
+      "location": "마라도 남쪽",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 10명 실종",
+      "cause": "파도"
+    },
+    {
+      "date": "1989년 1월 5일",
+      "time": "5시경",
+      "vessel_owner": "원경호 주문진",
+      "tonnage": "74.7톤",
+      "location": "대마도 부근",
+      "on_board": "21명 승선",
+      "rescued_dead_missing": "21명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1989년 1월 14일",
+      "time": "0시 45분경",
+      "vessel_owner": "제7창명호 창명수산",
+      "tonnage": "95.8톤",
+      "location": "전남 여천 부근",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1989년 2월 26일",
+      "time": "1시경",
+      "vessel_owner": "제3세일호 충무",
+      "tonnage": "37톤",
+      "location": "마라도 남쪽",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "파도"
+    },
+    {
+      "date": "1989년 6월 5일경",
+      "time": "",
+      "vessel_owner": "어선 4척",
+      "tonnage": "",
+      "location": "신안 재원도 부근",
+      "on_board": "17명 승선",
+      "rescued_dead_missing": "17명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1989년 10월 31일",
+      "time": "19시",
+      "vessel_owner": "남성호 부산",
+      "tonnage": "67톤",
+      "location": "전북 어청동 부근",
+      "on_board": "14명 승선",
+      "rescued_dead_missing": "14명 실종",
+      "cause": "풍랑으로 좌초"
+    },
+    {
+      "date": "1989년 11월 1일",
+      "time": "4시 25분",
+      "vessel_owner": "82근성호 주문진",
+      "tonnage": "97톤",
+      "location": "대화퇴 부근",
+      "on_board": "",
+      "rescued_dead_missing": "1명 6명 / 6명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1989년 11월 1일",
+      "time": "15시 20분",
+      "vessel_owner": "제26현진호 경북구룡포",
+      "tonnage": "89톤",
+      "location": "울릉도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "10명 / 12명",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1989년 11월 4일",
+      "time": "4시 30분",
+      "vessel_owner": "제12일성호 속초항",
+      "tonnage": "56.6톤",
+      "location": "대화퇴 부근",
+      "on_board": "16명",
+      "rescued_dead_missing": "6명 4명 / 6명",
+      "cause": "화재"
+    },
+    {
+      "date": "1990년 1월 13일",
+      "time": "4시 20분",
+      "vessel_owner": "화영55호 부산건화수산",
+      "tonnage": "98톤",
+      "location": "서귀포 남쪽",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1990년 4월 12일",
+      "time": "11시 40분",
+      "vessel_owner": "88대성호 동해항",
+      "tonnage": "55.8톤",
+      "location": "울릉도 부근",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "11명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1991년 1월 21일",
+      "time": "13시 10분",
+      "vessel_owner": "88대운호 묵호항",
+      "tonnage": "130톤",
+      "location": "울산 부근",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "12명 실종",
+      "cause": "풍랑"
+    },
+    {
+      "date": "1991년 2월 21일",
+      "time": "6시경",
+      "vessel_owner": "퍼시픽 프렌드 파나마",
+      "tonnage": "4,417톤",
+      "location": "태안군 의항리 부근",
+      "on_board": "20명 승선",
+      "rescued_dead_missing": "6명 14명 실종",
+      "cause": "침수"
+    },
+    {
+      "date": "1991년 6월 5일",
+      "time": "23시 10분경",
+      "vessel_owner": "제21성진호 인천",
+      "tonnage": "90톤",
+      "location": "제주 서쪽",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 10명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1991년 6월 21일",
+      "time": "17시 30분경",
+      "vessel_owner": "제102거경호 부산",
+      "tonnage": "90톤",
+      "location": "오륙도 남방",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 10명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1991년 6월 28일",
+      "time": "20시 50분경",
+      "vessel_owner": "화물선 2척 파나마",
+      "tonnage": "4,000톤 외",
+      "location": "옹진군 울도 부근",
+      "on_board": "47명 승선",
+      "rescued_dead_missing": "15명 32명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1992년 10월 13일",
+      "time": "16시 50분경",
+      "vessel_owner": "제3준양호 포항",
+      "tonnage": "103톤",
+      "location": "영일군 용한리 부근",
+      "on_board": "22명 승선",
+      "rescued_dead_missing": "4명 18명 실종",
+      "cause": "강풍 풍랑"
+    },
+    {
+      "date": "1992년 12월 6일",
+      "time": "18시 5분경",
+      "vessel_owner": "제52덕성호 동경수산",
+      "tonnage": "133톤",
+      "location": "양산 대변리 부근",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "1명 11명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1993년 10월 10일",
+      "time": "10시 10분경",
+      "vessel_owner": "서해훼리호 서해훼리",
+      "tonnage": "110톤 3년",
+      "location": "부안 위도 부근 위도 ↔ 부안",
+      "on_board": "207명 / 14명 362명",
+      "rescued_dead_missing": "70명 292명 사망",
+      "cause": "과적"
+    },
+    {
+      "date": "1994년 3월 29일",
+      "time": "20시 20분경",
+      "vessel_owner": "제5영덕호 남해",
+      "tonnage": "39톤",
+      "location": "전남 여천 부근",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "11명 실종",
+      "cause": "화재"
+    },
+    {
+      "date": "1994년 11월 12일",
+      "time": "6시 30분경",
+      "vessel_owner": "92춘동호 마산",
+      "tonnage": "93톤",
+      "location": "대흑산도 서쪽",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 10명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1995년 6월 22일",
+      "time": "3시 30분경",
+      "vessel_owner": "미네랄뎀피어 라이베리아",
+      "tonnage": "87,000톤",
+      "location": "마라도 남쪽",
+      "on_board": "27명 승선",
+      "rescued_dead_missing": "2명 25명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1995년 7월 23일",
+      "time": "14시 20분경",
+      "vessel_owner": "씨프린스호 키프로스",
+      "tonnage": "144,567톤",
+      "location": "여수 앞바다",
+      "on_board": "20명 승선",
+      "rescued_dead_missing": "19명 1명 실종",
+      "cause": "좌초"
+    },
+    {
+      "date": "1995년 9월 21일",
+      "time": "4시 55분경",
+      "vessel_owner": "제1유일호 유일해운",
+      "tonnage": "1,591톤",
+      "location": "부산 앞바다",
+      "on_board": "",
+      "rescued_dead_missing": "",
+      "cause": "좌초"
+    },
+    {
+      "date": "1995년 11월 17일",
+      "time": "4시 15분경",
+      "vessel_owner": "호남 사파이어호 호유해운",
+      "tonnage": "142,488톤",
+      "location": "여수 앞바다",
+      "on_board": "",
+      "rescued_dead_missing": "",
+      "cause": "부두에 충돌"
+    },
+    {
+      "date": "1996년 2월 2일",
+      "time": "6시경",
+      "vessel_owner": "제7경신호 부산경신수산",
+      "tonnage": "115톤",
+      "location": "마라도 남서쪽",
+      "on_board": "12명 승선",
+      "rescued_dead_missing": "1명 11명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1996년 6월 15일",
+      "time": "23시 10분경",
+      "vessel_owner": "안나스피라토 키프로스",
+      "tonnage": "16,352톤",
+      "location": "통영 남여도 부근",
+      "on_board": "26명 승선",
+      "rescued_dead_missing": "26명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "1997년 1월 7일",
+      "time": "19시경",
+      "vessel_owner": "261남해호 부산",
+      "tonnage": "168톤",
+      "location": "제주 마라도 부근",
+      "on_board": "26명 승선",
+      "rescued_dead_missing": "3명 23명 실종",
+      "cause": ""
+    },
+    {
+      "date": "1997년 4월 3일",
+      "time": "19시경",
+      "vessel_owner": "제3오성호 부산",
+      "tonnage": "786톤",
+      "location": "통영 매몰도 부근",
+      "on_board": "9명 승선",
+      "rescued_dead_missing": "9명 구조",
+      "cause": "좌초"
+    },
+    {
+      "date": "1997년 9월 13일",
+      "time": "17시 40분경",
+      "vessel_owner": "98원양호 부산",
+      "tonnage": "89톤",
+      "location": "제주 마라도 부근",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 1명 / 9명",
+      "cause": "충돌"
+    },
+    {
+      "date": "1998년 1월 15일",
+      "time": "15시경",
+      "vessel_owner": "뉴바론호 파나마",
+      "tonnage": "4,400톤",
+      "location": "울산 울주군 부근",
+      "on_board": "20명 승선",
+      "rescued_dead_missing": "3명 2명 / 15명",
+      "cause": "좌초"
+    },
+    {
+      "date": "1998년 9월 23일경",
+      "time": "",
+      "vessel_owner": "제3대영호 인천",
+      "tonnage": "70톤",
+      "location": "인천 울도 부근",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "1명 / 10명",
+      "cause": ""
+    },
+    {
+      "date": "1999년 6월 15일경",
+      "time": "",
+      "vessel_owner": "신흥급어뢰정 북한",
+      "tonnage": "37톤",
+      "location": "서해 연평도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "",
+      "cause": "교전"
+    },
+    {
+      "date": "2000년 2월 17일",
+      "time": "12시 24분경",
+      "vessel_owner": "제5대성호 속초항",
+      "tonnage": "",
+      "location": "강원 고성군 부근",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "10명 실종",
+      "cause": ""
+    },
+    {
+      "date": "2000년 9월 1일경",
+      "time": "",
+      "vessel_owner": "어선 12척",
+      "tonnage": "",
+      "location": "인천 일대",
+      "on_board": "",
+      "rescued_dead_missing": "1명 / 20명",
+      "cause": "태풍"
+    },
+    {
+      "date": "2000년 9월 23일",
+      "time": "0시 10분경",
+      "vessel_owner": "주원호 목포항",
+      "tonnage": "57톤",
+      "location": "소흑산도 남쪽",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "5명 / 6명",
+      "cause": "충돌 추정"
+    },
+    {
+      "date": "2001년 1월 15일",
+      "time": "9시 55분경",
+      "vessel_owner": "프로하모니호 파나마",
+      "tonnage": "5,544톤",
+      "location": "거제 남여도 부근",
+      "on_board": "16명 승선",
+      "rescued_dead_missing": "7명 3명 / 6명",
+      "cause": "선내 폭발"
+    },
+    {
+      "date": "2002년 6월 29일",
+      "time": "6시 ~ 12시",
+      "vessel_owner": "참수리고속정 대한민국 해군",
+      "tonnage": "170톤",
+      "location": "서해 연평도 부근",
+      "on_board": "",
+      "rescued_dead_missing": "",
+      "cause": "북한군과 교전"
+    },
+    {
+      "date": "2005년 3월 8일",
+      "time": "5시 45분경",
+      "vessel_owner": "썬 크로스호 제주",
+      "tonnage": "3,785톤",
+      "location": "가거도 서쪽 247 km 해상",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "14명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "2005년 4월 2일",
+      "time": "18시 이후",
+      "vessel_owner": "부영호 태안군",
+      "tonnage": "26톤",
+      "location": "격렬비열도 근해",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "10명 실종",
+      "cause": ""
+    },
+    {
+      "date": "2005년 12월 1일",
+      "time": "15시 40분경",
+      "vessel_owner": "한동호 부산",
+      "tonnage": "134톤",
+      "location": "전남 병풍도 남서쪽 33 km 해상",
+      "on_board": "14명 승선",
+      "rescued_dead_missing": "1명 13명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "2005년 12월 30일",
+      "time": "23시 40분경",
+      "vessel_owner": "한일호 목포",
+      "tonnage": "79톤",
+      "location": "전남 보길도 남쪽 9 km 해상",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "2명 / 9명",
+      "cause": "전복"
+    },
+    {
+      "date": "2006년 3월 20일",
+      "time": "4시 5분경",
+      "vessel_owner": "신하이7호 중국",
+      "tonnage": "2,972톤",
+      "location": "인천 무의도 남쪽 4마일 해상",
+      "on_board": "17명 승선",
+      "rescued_dead_missing": "5명 3명 / 9명",
+      "cause": "충돌"
+    },
+    {
+      "date": "2007년 12월 7일",
+      "time": "7시 15분경",
+      "vessel_owner": "허베이 스피릿 홍콩",
+      "tonnage": "147,000톤",
+      "location": "태안 만리포 서북쪽 8 km 해상",
+      "on_board": "",
+      "rescued_dead_missing": "",
+      "cause": "충돌"
+    },
+    {
+      "date": "2007년 12월 25일",
+      "time": "4시 20분경",
+      "vessel_owner": "이스턴 브라이트 인천선적",
+      "tonnage": "1,300톤",
+      "location": "여수 백도 동북쪽 13 km 해상",
+      "on_board": "15명 승선",
+      "rescued_dead_missing": "1명 7명 / 7명",
+      "cause": "과적"
+    },
+    {
+      "date": "2008년 1월 30일",
+      "time": "18시 10분경",
+      "vessel_owner": "102소양호 부산선적",
+      "tonnage": "136톤",
+      "location": "제주 마라도 남서쪽 65 km 해상",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "3명 10명 실종",
+      "cause": "악천후 추정"
+    },
+    {
+      "date": "2010년 1월 27일",
+      "time": "8시 25분경",
+      "vessel_owner": "삼봉 11·12호 부산선적",
+      "tonnage": "166톤",
+      "location": "통영시 국도 남동쪽",
+      "on_board": "10명 승선",
+      "rescued_dead_missing": "1명 / 9명",
+      "cause": ""
+    },
+    {
+      "date": "2010년 3월 26일",
+      "time": "21시 22분경",
+      "vessel_owner": "천안함 대한민국 해군",
+      "tonnage": "1,220톤",
+      "location": "백령도 서쪽 해상",
+      "on_board": "104명 승선",
+      "rescued_dead_missing": "58명 40명 / 6명",
+      "cause": "어뢰에 의한 피격 추정"
+    },
+    {
+      "date": "2011년 2월 9일",
+      "time": "6시경",
+      "vessel_owner": "알렉산드라호 캄보디아 선적",
+      "tonnage": "1,500톤",
+      "location": "울산 동구 앞바다",
+      "on_board": "11명 승선",
+      "rescued_dead_missing": "4명 / 7명",
+      "cause": ""
+    },
+    {
+      "date": "2011년 12월 26일",
+      "time": "2시경",
+      "vessel_owner": "739건아호 부산 선적",
+      "tonnage": "139톤",
+      "location": "울산 간절곶 동쪽 15마일 해상",
+      "on_board": "14명 승선",
+      "rescued_dead_missing": "3명 1명 / 10명",
+      "cause": "복원력 상실 추정"
+    },
+    {
+      "date": "2012년 1월 15일",
+      "time": "8시 5분경",
+      "vessel_owner": "두라3호 부산선적",
+      "tonnage": "4,191톤",
+      "location": "인천 자월도 북쪽 5.6 km 해상",
+      "on_board": "16명 승선",
+      "rescued_dead_missing": "5명 5명 / 6명",
+      "cause": "내부 폭발"
+    },
+    {
+      "date": "2013년 10월 15일",
+      "time": "15시 40분경",
+      "vessel_owner": "쳉루15호 파나마 선적",
+      "tonnage": "8,000톤",
+      "location": "영일만 동북쪽 1 km 해상",
+      "on_board": "19명 승선",
+      "rescued_dead_missing": "8명 9명 / 2명",
+      "cause": "파도와 강풍으로 방파제에 충돌"
+    },
+    {
+      "date": "2014년 4월 4일",
+      "time": "1시 19분경",
+      "vessel_owner": "그랜드 포춘 1호 몽골 선적",
+      "tonnage": "4,300톤",
+      "location": "거문도 남쪽 공해상 청진 → 양저우",
+      "on_board": "16명 승선",
+      "rescued_dead_missing": "3명 2명 / 11명",
+      "cause": "강풍"
+    },
+    {
+      "date": "2014년 4월 16일",
+      "time": "8시 48분경",
+      "vessel_owner": "세월호 청해진해운",
+      "tonnage": "6,835톤",
+      "location": "진도군 병풍도 부근 인천 → 제주",
+      "on_board": "921명 / 33명 476명 승선",
+      "rescued_dead_missing": "172명 295명 / 9명",
+      "cause": "복원력 상실"
+    },
+    {
+      "date": "2015년 1월 23일",
+      "time": "2시 30분경",
+      "vessel_owner": "기임어00791호 중국 선적",
+      "tonnage": "138톤",
+      "location": "제주 차귀도 남서쪽 164 km 공해상",
+      "on_board": "13명 승선",
+      "rescued_dead_missing": "3명 10명 실종",
+      "cause": "충돌"
+    },
+    {
+      "date": "2015년 9월 5일",
+      "time": "19시 30분 이후",
+      "vessel_owner": "돌고래호 해남 선적",
+      "tonnage": "9.7톤",
+      "location": "추자도 인근 해상",
+      "on_board": "21명 추정",
+      "rescued_dead_missing": "3명 14명 / 4명",
+      "cause": "엔진 이상 너울성 파도"
+    },
+    {
+      "date": "2017년 12월 3일",
+      "time": "6시 12분경",
+      "vessel_owner": "선창1호",
+      "tonnage": "9.77톤",
+      "location": "인천 영흥대교 인근 해상",
+      "on_board": "22명",
+      "rescued_dead_missing": "7명 15명 사망",
+      "cause": "급유선과 충돌 파도"
+    },
+    {
+      "date": "2019년 11월 19일",
+      "time": "4시 15분 전후",
+      "vessel_owner": "대성호 통영 선적",
+      "tonnage": "29톤",
+      "location": "제주 차귀도 인근 해상",
+      "on_board": "21명",
+      "rescued_dead_missing": "1명 / 11명",
+      "cause": "화재"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 주요 해양 사고 - Free Download",
+    "description": "1947년 이후 대한민국에서 발생한 주요 해양 사고(선박 침몰·충돌 등)의 일시, 선박·선주, 톤수, 사고 지점, 승선 인원, 인명 피해, 원인. Contains 170 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 주요 해양 사고 | ListBase",
+    "seo_description": "Download 대한민국의 주요 해양 사고 — 170 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 170 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%95%B4%EC%96%91_%EC%82%AC%EA%B3%A0"
+    ]
+  }
+}
