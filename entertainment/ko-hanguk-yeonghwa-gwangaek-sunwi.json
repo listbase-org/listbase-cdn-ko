@@ -1,0 +1,277 @@
+{
+  "id": "ko-hanguk-yeonghwa-gwangaek-sunwi",
+  "name": "역대 한국 영화 관객수 순위",
+  "title": "역대 한국 영화 관객수 순위",
+  "description": "대한민국에서 개봉한 한국 영화의 역대 관객수 순위: 제목, 감독, 배급사, 개봉일, 관객수.",
+  "category": "entertainment",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "distributor",
+      "label": "Distributor",
+      "type": "string"
+    },
+    {
+      "key": "release_date",
+      "label": "Release Date",
+      "type": "date"
+    },
+    {
+      "key": "admissions",
+      "label": "Admissions",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "title": "명량",
+      "director": "김한민",
+      "distributor": "CJ E&M",
+      "release_date": "2014-07-30",
+      "admissions": 17616141,
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "왕과 사는 남자",
+      "director": "장항준",
+      "distributor": "쇼박스",
+      "release_date": "2026-02-04",
+      "admissions": 16926269,
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "극한직업",
+      "director": "이병헌",
+      "distributor": "CJ엔터테인먼트",
+      "release_date": "2019-01-23",
+      "admissions": 16266480,
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "신과함께: 죄와 벌",
+      "director": "김용화",
+      "distributor": "롯데엔터테인먼트",
+      "release_date": "2017-12-20",
+      "admissions": 14414658,
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "title": "국제시장",
+      "director": "윤제균",
+      "distributor": "CJ E&M",
+      "release_date": "2014-12-17",
+      "admissions": 14265222,
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "title": "베테랑",
+      "director": "류승완",
+      "distributor": "CJ E&M",
+      "release_date": "2015-08-05",
+      "admissions": 13414484,
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "title": "서울의 봄",
+      "director": "김성수",
+      "distributor": "플러스엠 엔터테인먼트",
+      "release_date": "2023-11-22",
+      "admissions": 13122895,
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "title": "괴물",
+      "director": "봉준호",
+      "distributor": "쇼박스",
+      "release_date": "2006-07-27",
+      "admissions": 13019740,
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "도둑들",
+      "director": "최동훈",
+      "distributor": "쇼박스",
+      "release_date": "2012-07-25",
+      "admissions": 12984701,
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "title": "7번방의 선물",
+      "director": "이환경",
+      "distributor": "넥스트엔터테인먼트월드",
+      "release_date": "2013-01-23",
+      "admissions": 12812186,
+      "notes": ""
+    },
+    {
+      "rank": 11,
+      "title": "암살",
+      "director": "최동훈",
+      "distributor": "쇼박스",
+      "release_date": "2015-07-22",
+      "admissions": 12707237,
+      "notes": ""
+    },
+    {
+      "rank": 12,
+      "title": "범죄도시2",
+      "director": "이상용",
+      "distributor": "플러스엠 엔터테인먼트",
+      "release_date": "2022-05-18",
+      "admissions": 12693415,
+      "notes": ""
+    },
+    {
+      "rank": 13,
+      "title": "광해, 왕이 된 남자",
+      "director": "추창민",
+      "distributor": "CJ E&M",
+      "release_date": "2012-09-13",
+      "admissions": 12324062,
+      "notes": ""
+    },
+    {
+      "rank": 14,
+      "title": "왕의 남자",
+      "director": "이준익",
+      "distributor": "시네마서비스",
+      "release_date": "2005-12-29",
+      "admissions": 12302831,
+      "notes": ""
+    },
+    {
+      "rank": 15,
+      "title": "신과함께: 인과 연",
+      "director": "김용화",
+      "distributor": "롯데엔터테인먼트",
+      "release_date": "2018-08-01",
+      "admissions": 12278010,
+      "notes": ""
+    },
+    {
+      "rank": 16,
+      "title": "택시운전사",
+      "director": "장훈",
+      "distributor": "쇼박스",
+      "release_date": "2017-08-02",
+      "admissions": 12189706,
+      "notes": ""
+    },
+    {
+      "rank": 17,
+      "title": "파묘",
+      "director": "장재현",
+      "distributor": "쇼박스",
+      "release_date": "2024-02-22",
+      "admissions": 11914798,
+      "notes": ""
+    },
+    {
+      "rank": 18,
+      "title": "태극기 휘날리며",
+      "director": "강제규",
+      "distributor": "쇼박스",
+      "release_date": "2004-02-05",
+      "admissions": 11746135,
+      "notes": ""
+    },
+    {
+      "rank": 19,
+      "title": "부산행",
+      "director": "연상호",
+      "distributor": "넥스트엔터테인먼트월드",
+      "release_date": "2016-07-20",
+      "admissions": 11567816,
+      "notes": ""
+    },
+    {
+      "rank": 20,
+      "title": "해운대",
+      "director": "윤제균",
+      "distributor": "CJ엔터테인먼트",
+      "release_date": "2009-07-22",
+      "admissions": 11453338,
+      "notes": ""
+    },
+    {
+      "rank": 21,
+      "title": "변호인",
+      "director": "양우석",
+      "distributor": "넥스트엔터테인먼트월드",
+      "release_date": "2013-12-18",
+      "admissions": 11375399,
+      "notes": ""
+    },
+    {
+      "rank": 22,
+      "title": "실미도",
+      "director": "강우석",
+      "distributor": "시네마서비스",
+      "release_date": "2003-12-24",
+      "admissions": 11081000,
+      "notes": ""
+    },
+    {
+      "rank": 23,
+      "title": "범죄도시3",
+      "director": "이상용",
+      "distributor": "플러스엠 엔터테인먼트",
+      "release_date": "2023-05-31",
+      "admissions": 10682813,
+      "notes": ""
+    },
+    {
+      "rank": 24,
+      "title": "기생충",
+      "director": "봉준호",
+      "distributor": "CJ엔터테인먼트",
+      "release_date": "2019-05-30",
+      "admissions": 10313735,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "역대 한국 영화 관객수 순위 - Free Download",
+    "description": "대한민국에서 개봉한 한국 영화의 역대 관객수 순위: 제목, 감독, 배급사, 개봉일, 관객수. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "역대 한국 영화 관객수 순위 | ListBase",
+    "seo_description": "Download 역대 한국 영화 관객수 순위 — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%98%81%ED%99%94_%ED%9D%A5%ED%96%89_%EA%B8%B0%EB%A1%9D"
+    ]
+  }
+}
