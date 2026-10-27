@@ -1,0 +1,313 @@
+{
+  "id": "ko-daetongnyeong-seongeo",
+  "name": "대한민국 역대 대통령 선거",
+  "title": "대한민국 역대 대통령 선거",
+  "description": "대한민국 역대 대통령 선거의 대수, 공고일, 선거일, 선거기간, 선출방식(직선·간선), 당선인, 정당, 임기.",
+  "category": "politics",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%84%A0%EA%B1%B0",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%84%A0%EA%B1%B0",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "term_no",
+      "label": "Term No",
+      "type": "number"
+    },
+    {
+      "key": "announced",
+      "label": "Announced",
+      "type": "string"
+    },
+    {
+      "key": "election_date",
+      "label": "Election Date",
+      "type": "string"
+    },
+    {
+      "key": "campaign_days",
+      "label": "Campaign Days",
+      "type": "number"
+    },
+    {
+      "key": "method",
+      "label": "Method",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "statutory_term",
+      "label": "Statutory Term",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "term_no": 1,
+      "announced": "1948년 7월 18일",
+      "election_date": "1948년 7월 20일",
+      "campaign_days": 3,
+      "method": "간선",
+      "winner": "이승만",
+      "party": "대한독립촉성국민회",
+      "term": "1948년 7월 24일 ~ 1952년 8월 14일",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 2,
+      "announced": "1952년 7월 18일",
+      "election_date": "1952년 8월 5일",
+      "campaign_days": 19,
+      "method": "직선",
+      "winner": "이승만",
+      "party": "자유당",
+      "term": "1952년 8월 15일 ~ 1956년 8월 14일",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 3,
+      "announced": "1956년 3월 28일",
+      "election_date": "1956년 5월 15일",
+      "campaign_days": 49,
+      "method": "직선",
+      "winner": "이승만",
+      "party": "자유당",
+      "term": "1956년 8월 15일 ~ 1960년 4월 26일",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 4,
+      "announced": "1960년 2월 3일",
+      "election_date": "1960년 3월 15일",
+      "campaign_days": 42,
+      "method": "직선",
+      "winner": "이승만",
+      "party": "자유당",
+      "term": "",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 4,
+      "announced": "1960년 8월 10일",
+      "election_date": "1960년 8월 12일",
+      "campaign_days": 3,
+      "method": "간선",
+      "winner": "윤보선",
+      "party": "민주당",
+      "term": "1960년 8월 13일 ~ 1962년 3월 23일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 5,
+      "announced": "1963년 9월 5일",
+      "election_date": "1963년 10월 15일",
+      "campaign_days": 41,
+      "method": "직선",
+      "winner": "박정희",
+      "party": "민주공화당",
+      "term": "1963년 12월 17일 ~ 1967년 6월 30일",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 6,
+      "announced": "1967년 3월 24일",
+      "election_date": "1967년 5월 3일",
+      "campaign_days": 11,
+      "method": "직선",
+      "winner": "박정희",
+      "party": "민주공화당",
+      "term": "1967년 7월 1일 ~ 1971년 6월 30일",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 7,
+      "announced": "1971년 3월 23일",
+      "election_date": "1971년 4월 27일",
+      "campaign_days": 36,
+      "method": "직선",
+      "winner": "박정희",
+      "party": "민주공화당",
+      "term": "1971년 7월 1일 ~ 1972년 12월 26일",
+      "statutory_term": "4년"
+    },
+    {
+      "term_no": 8,
+      "announced": "1972년 12월 18일",
+      "election_date": "1972년 12월 23일",
+      "campaign_days": 6,
+      "method": "간선",
+      "winner": "박정희",
+      "party": "민주공화당",
+      "term": "1972년 12월 27일 ~ 1978년 12월 26일",
+      "statutory_term": "6년"
+    },
+    {
+      "term_no": 9,
+      "announced": "1978년 7월 1일",
+      "election_date": "1978년 7월 6일",
+      "campaign_days": 6,
+      "method": "간선",
+      "winner": "박정희",
+      "party": "민주공화당",
+      "term": "1978년 12월 27일 ~ 1979년 10월 26일",
+      "statutory_term": "6년"
+    },
+    {
+      "term_no": 10,
+      "announced": "1979년 12월 1일",
+      "election_date": "1979년 12월 6일",
+      "campaign_days": 6,
+      "method": "간선",
+      "winner": "최규하",
+      "party": "무소속",
+      "term": "1979년 12월 21일 ~ 1980년 8월 16일",
+      "statutory_term": "6년"
+    },
+    {
+      "term_no": 11,
+      "announced": "1980년 8월 22일",
+      "election_date": "1980년 8월 27일",
+      "campaign_days": 6,
+      "method": "간선",
+      "winner": "전두환",
+      "party": "무소속",
+      "term": "1980년 9월 1일 ~ 1981년 2월 28일",
+      "statutory_term": "6년"
+    },
+    {
+      "term_no": 12,
+      "announced": "1981년 1월 24일",
+      "election_date": "1981년 2월 25일",
+      "campaign_days": 33,
+      "method": "간선",
+      "winner": "전두환",
+      "party": "민주정의당",
+      "term": "1981년 3월 3일 ~ 1988년 2월 24일",
+      "statutory_term": "7년"
+    },
+    {
+      "term_no": 13,
+      "announced": "1987년 11월 16일",
+      "election_date": "1987년 12월 16일",
+      "campaign_days": 31,
+      "method": "직선",
+      "winner": "노태우",
+      "party": "민주정의당",
+      "term": "1988년 2월 25일 ~ 1993년 2월 24일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 14,
+      "announced": "1992년 11월 20일",
+      "election_date": "1992년 12월 18일",
+      "campaign_days": 29,
+      "method": "직선",
+      "winner": "김영삼",
+      "party": "민주자유당",
+      "term": "1993년 2월 25일 ~ 1998년 2월 24일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 15,
+      "announced": "법정화",
+      "election_date": "1997년 12월 18일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "김대중",
+      "party": "새정치국민회의",
+      "term": "1998년 2월 25일 ~ 2003년 2월 24일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 16,
+      "announced": "법정화",
+      "election_date": "2002년 12월 19일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "노무현",
+      "party": "새천년민주당",
+      "term": "2003년 2월 25일 ~ 2008년 2월 24일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 17,
+      "announced": "법정화",
+      "election_date": "2007년 12월 19일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "이명박",
+      "party": "한나라당",
+      "term": "2008년 2월 25일 ~ 2013년 2월 24일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 18,
+      "announced": "법정화",
+      "election_date": "2012년 12월 19일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "박근혜",
+      "party": "새누리당",
+      "term": "2013년 2월 25일 ~ 2017년 3월 10일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 19,
+      "announced": "2017년 3월 15일",
+      "election_date": "2017년 5월 9일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "문재인",
+      "party": "더불어민주당",
+      "term": "2017년 5월 10일 ~ 2022년 5월 9일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 20,
+      "announced": "법정화",
+      "election_date": "2022년 3월 9일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "윤석열",
+      "party": "국민의힘",
+      "term": "2022년 5월 10일 ~ 2025년 4월 4일",
+      "statutory_term": "5년"
+    },
+    {
+      "term_no": 21,
+      "announced": "2025년 4월 8일",
+      "election_date": "2025년 6월 3일",
+      "campaign_days": 23,
+      "method": "직선",
+      "winner": "이재명",
+      "party": "더불어민주당",
+      "term": "2025년 6월 4일 ~ 2030년 6월 3일",
+      "statutory_term": "5년"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 대통령 선거 - Free Download",
+    "description": "대한민국 역대 대통령 선거의 대수, 공고일, 선거일, 선거기간, 선출방식(직선·간선), 당선인, 정당, 임기. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 대통령 선거 | ListBase",
+    "seo_description": "Download 대한민국 역대 대통령 선거 — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%84%A0%EA%B1%B0"
+    ]
+  }
+}

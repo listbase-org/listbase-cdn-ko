@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:14.502Z",
-  "total_datasets": 511,
-  "total_records": 452789,
+  "generated": "2026-10-27T02:40:16.898Z",
+  "total_datasets": 512,
+  "total_records": 452811,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -7995,6 +7995,36 @@
         "xlsx": {
           "name": "ko-daetongnyeong_KO.xlsx",
           "size": 8665
+        }
+      }
+    },
+    {
+      "id": "ko-daetongnyeong-seongeo",
+      "name": "대한민국 역대 대통령 선거",
+      "category": "politics",
+      "record_count": 22,
+      "columns": [
+        "term_no",
+        "announced",
+        "election_date",
+        "campaign_days",
+        "method",
+        "winner",
+        "party",
+        "term",
+        "statutory_term"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%84%A0%EA%B1%B0",
+      "updated": "2026-10",
+      "size": 9287,
+      "files": {
+        "csv": {
+          "name": "ko-daetongnyeong-seongeo_KO.csv",
+          "size": 3068
+        },
+        "xlsx": {
+          "name": "ko-daetongnyeong-seongeo_KO.xlsx",
+          "size": 8430
         }
       }
     },
