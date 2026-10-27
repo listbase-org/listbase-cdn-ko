@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:46.724Z",
-  "total_datasets": 524,
-  "total_records": 453492,
+  "generated": "2026-10-27T02:40:49.397Z",
+  "total_datasets": 525,
+  "total_records": 454012,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -11489,6 +11489,33 @@
         "xlsx": {
           "name": "ko-seongpyeongdeung-gajok-janggwan_KO.xlsx",
           "size": 8322
+        }
+      }
+    },
+    {
+      "id": "ko-seongssi-ingu",
+      "name": "한국의 성씨별 인구 (1985·2000·2015년)",
+      "category": "society",
+      "record_count": 520,
+      "columns": [
+        "rank",
+        "surname",
+        "population_2015",
+        "population_2000",
+        "population_1985",
+        "major_bon_gwan"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%9D%98_%EC%84%B1%EC%94%A8",
+      "updated": "2026-10",
+      "size": 101276,
+      "files": {
+        "csv": {
+          "name": "ko-seongssi-ingu_KO.csv",
+          "size": 25760
+        },
+        "xlsx": {
+          "name": "ko-seongssi-ingu_KO.xlsx",
+          "size": 28252
         }
       }
     },
