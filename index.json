@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:16.898Z",
-  "total_datasets": 512,
-  "total_records": 452811,
+  "generated": "2026-10-27T02:40:19.495Z",
+  "total_datasets": 513,
+  "total_records": 452943,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "economy",
@@ -507,6 +507,32 @@
         "xlsx": {
           "name": "ko-ginyeommul_KO.xlsx",
           "size": 9277
+        }
+      }
+    },
+    {
+      "id": "ko-gukbo-1960nyeondae",
+      "name": "대한민국의 국보 (1960년대 지정)",
+      "category": "culture",
+      "record_count": 132,
+      "columns": [
+        "number",
+        "name",
+        "location",
+        "custodian",
+        "designated"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B5%AD%EB%B3%B4_%281960%EB%85%84%EB%8C%80%29",
+      "updated": "2026-10",
+      "size": 50728,
+      "files": {
+        "csv": {
+          "name": "ko-gukbo-1960nyeondae_KO.csv",
+          "size": 35156
+        },
+        "xlsx": {
+          "name": "ko-gukbo-1960nyeondae_KO.xlsx",
+          "size": 19318
         }
       }
     },
