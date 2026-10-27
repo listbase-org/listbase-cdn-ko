@@ -1,0 +1,191 @@
+{
+  "id": "ko-cheokgwanbeop",
+  "name": "척관법 단위 (한국 전통 도량형)",
+  "title": "척관법 단위 (한국 전통 도량형)",
+  "description": "한국의 전통 도량형인 척관법의 길이(자·치·푼), 넓이(평·마지기), 부피(홉·되·말), 무게(돈·근·관) 단위와 미터법 환산값.",
+  "category": "units",
+  "source": "https://ko.wikipedia.org/wiki/%EC%B2%99%EA%B4%80%EB%B2%95",
+  "source_url": "https://ko.wikipedia.org/wiki/%EC%B2%99%EA%B4%80%EB%B2%95",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "value",
+      "label": "Value",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "모(毛)",
+      "quantity": "length",
+      "value": "0.303mm"
+    },
+    {
+      "unit": "평(坪)·보(步)",
+      "quantity": "area",
+      "value": "3.3058㎡로, 6자의 제곱"
+    },
+    {
+      "unit": "작(勺)",
+      "quantity": "volume",
+      "value": "18mL"
+    },
+    {
+      "unit": "푼(分)",
+      "quantity": "weight",
+      "value": "0.375g"
+    },
+    {
+      "unit": "홀(忽)",
+      "quantity": "length",
+      "value": "0.0003mm(30,000분의 1mm)"
+    },
+    {
+      "unit": "묘(畝)",
+      "quantity": "area",
+      "value": "99.174㎡로, 30평"
+    },
+    {
+      "unit": "홉",
+      "quantity": "volume",
+      "value": "180mL"
+    },
+    {
+      "unit": "모(毛)",
+      "quantity": "weight",
+      "value": "3.75mg"
+    },
+    {
+      "unit": "사(絲)",
+      "quantity": "length",
+      "value": "0.003mm(3,000분의 1mm)"
+    },
+    {
+      "unit": "단(段)",
+      "quantity": "area",
+      "value": "991.74㎡, 300평"
+    },
+    {
+      "unit": "되 (승, 升, 또는 되승)",
+      "quantity": "volume",
+      "value": "1.8리터"
+    },
+    {
+      "unit": "돈",
+      "quantity": "weight",
+      "value": "3.75g"
+    },
+    {
+      "unit": "리(厘)",
+      "quantity": "length",
+      "value": "0.03mm(300분의 1mm)"
+    },
+    {
+      "unit": "정(町)",
+      "quantity": "area",
+      "value": "9,917.4㎡, 3,000평"
+    },
+    {
+      "unit": "말(두, 斗)",
+      "quantity": "volume",
+      "value": "18리터"
+    },
+    {
+      "unit": "냥(兩)",
+      "quantity": "weight",
+      "value": "37.5g"
+    },
+    {
+      "unit": "푼(分)",
+      "quantity": "length",
+      "value": "0.3cm(3mm)"
+    },
+    {
+      "unit": "마지기",
+      "quantity": "area",
+      "value": "논 은 150~300, 밭 은 100평"
+    },
+    {
+      "unit": "섬(석, 石)",
+      "quantity": "volume",
+      "value": "180리터"
+    },
+    {
+      "unit": "근(斤)",
+      "quantity": "weight",
+      "value": "고기 나 한약재 는 600그램, 과일 이나 채소 는 375그램에 해당."
+    },
+    {
+      "unit": "치(寸)",
+      "quantity": "length",
+      "value": "3.03cm(30.3mm)"
+    },
+    {
+      "unit": "작(勺)",
+      "quantity": "area",
+      "value": "0.0330579㎡로 한 평의 100분의 1"
+    },
+    {
+      "unit": "곡(斛)·휘·괵(斛)",
+      "quantity": "volume",
+      "value": "스무 말들이하고 열닷 말들이가 있다."
+    },
+    {
+      "unit": "관(貫)",
+      "quantity": "weight",
+      "value": "3.75kg"
+    },
+    {
+      "unit": "자 ·척(尺)",
+      "quantity": "length",
+      "value": "30.3cm(303mm)"
+    },
+    {
+      "unit": "홉",
+      "quantity": "area",
+      "value": "1평의 10분의 1"
+    },
+    {
+      "unit": "장(丈)",
+      "quantity": "length",
+      "value": "3m"
+    },
+    {
+      "unit": "간(間)",
+      "quantity": "length",
+      "value": "1.81818미터로 자(척)의 6배"
+    },
+    {
+      "unit": "정(町)",
+      "quantity": "length",
+      "value": "약 109미터로 1간(間)의 60배"
+    },
+    {
+      "unit": "리(里)",
+      "quantity": "length",
+      "value": "393미터"
+    }
+  ],
+  "meta": {
+    "title": "척관법 단위 (한국 전통 도량형) - Free Download",
+    "description": "한국의 전통 도량형인 척관법의 길이(자·치·푼), 넓이(평·마지기), 부피(홉·되·말), 무게(돈·근·관) 단위와 미터법 환산값. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "척관법 단위 (한국 전통 도량형) | ListBase",
+    "seo_description": "Download 척관법 단위 (한국 전통 도량형) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EC%B2%99%EA%B4%80%EB%B2%95"
+    ]
+  }
+}
