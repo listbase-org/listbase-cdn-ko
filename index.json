@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:29.353Z",
-  "total_datasets": 517,
-  "total_records": 453312,
+  "generated": "2026-10-27T02:40:31.782Z",
+  "total_datasets": 518,
+  "total_records": 453329,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "time",
@@ -11876,6 +11876,29 @@
         "xlsx": {
           "name": "ko-imoji-ireum_KO.xlsx",
           "size": 105574
+        }
+      }
+    },
+    {
+      "id": "ko-jiyeok-beonho",
+      "name": "대한민국 전화 지역번호",
+      "category": "tech",
+      "record_count": 17,
+      "columns": [
+        "area_code",
+        "region"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84",
+      "updated": "2026-10",
+      "size": 2915,
+      "files": {
+        "csv": {
+          "name": "ko-jiyeok-beonho_KO.csv",
+          "size": 585
+        },
+        "xlsx": {
+          "name": "ko-jiyeok-beonho_KO.xlsx",
+          "size": 7163
         }
       }
     },

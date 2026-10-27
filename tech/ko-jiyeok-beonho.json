@@ -1,0 +1,104 @@
+{
+  "id": "ko-jiyeok-beonho",
+  "name": "대한민국 전화 지역번호",
+  "title": "대한민국 전화 지역번호",
+  "description": "대한민국 유선전화 지역번호(02 서울 등)와 해당 광역 지역.",
+  "category": "tech",
+  "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84",
+  "source_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "area_code": "02",
+      "region": "서울특별시"
+    },
+    {
+      "area_code": "031",
+      "region": "경기도"
+    },
+    {
+      "area_code": "032",
+      "region": "인천광역시"
+    },
+    {
+      "area_code": "033",
+      "region": "강원특별자치도"
+    },
+    {
+      "area_code": "041",
+      "region": "충청남도"
+    },
+    {
+      "area_code": "042",
+      "region": "대전광역시"
+    },
+    {
+      "area_code": "043",
+      "region": "충청북도"
+    },
+    {
+      "area_code": "044",
+      "region": "세종특별자치시"
+    },
+    {
+      "area_code": "051",
+      "region": "부산광역시"
+    },
+    {
+      "area_code": "052",
+      "region": "울산광역시 (전지역 200번대)"
+    },
+    {
+      "area_code": "053",
+      "region": "대구광역시"
+    },
+    {
+      "area_code": "054",
+      "region": "경상북도"
+    },
+    {
+      "area_code": "055",
+      "region": "경상남도"
+    },
+    {
+      "area_code": "061",
+      "region": "전남광주통합특별시 시 , 군 지역(구 전라남도 지역)"
+    },
+    {
+      "area_code": "062",
+      "region": "전남광주통합특별시 구 지역(구 광주광역시 지역)"
+    },
+    {
+      "area_code": "063",
+      "region": "전북특별자치도"
+    },
+    {
+      "area_code": "064",
+      "region": "제주특별자치도 (전지역 700번대)"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 전화 지역번호 - Free Download",
+    "description": "대한민국 유선전화 지역번호(02 서울 등)와 해당 광역 지역. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 전화 지역번호 | ListBase",
+    "seo_description": "Download 대한민국 전화 지역번호 — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EC%B2%B4%EA%B3%84"
+    ]
+  }
+}
