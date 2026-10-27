@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:34.090Z",
-  "total_datasets": 519,
-  "total_records": 453352,
+  "generated": "2026-10-27T02:40:36.653Z",
+  "total_datasets": 520,
+  "total_records": 453364,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "tech",
@@ -11629,6 +11629,29 @@
         "xlsx": {
           "name": "ko-kbo-choeso-gwanjung-gyeonggi_KO.xlsx",
           "size": 7661
+        }
+      }
+    },
+    {
+      "id": "ko-kbo-golden-glove-gudanbyeol",
+      "name": "KBO 골든글러브 구단별 수상 횟수",
+      "category": "sports",
+      "record_count": 12,
+      "columns": [
+        "team",
+        "awards"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_%EA%B3%A8%EB%93%A0%EA%B8%80%EB%9F%AC%EB%B8%8C",
+      "updated": "2026-10",
+      "size": 2304,
+      "files": {
+        "csv": {
+          "name": "ko-kbo-golden-glove-gudanbyeol_KO.csv",
+          "size": 447
+        },
+        "xlsx": {
+          "name": "ko-kbo-golden-glove-gudanbyeol_KO.xlsx",
+          "size": 7106
         }
       }
     },
