@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:21.890Z",
-  "total_datasets": 514,
-  "total_records": 452966,
+  "generated": "2026-10-27T02:40:24.250Z",
+  "total_datasets": 515,
+  "total_records": 453118,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "time",
@@ -11764,6 +11764,36 @@
         "xlsx": {
           "name": "ko-gukje-jeonhwa-saeopja-beonho_KO.xlsx",
           "size": 7370
+        }
+      }
+    },
+    {
+      "id": "ko-haegun-hamjeong",
+      "name": "대한민국 해군의 함정 목록",
+      "category": "tech",
+      "record_count": 152,
+      "columns": [
+        "ship",
+        "type",
+        "class",
+        "shipyard",
+        "launched",
+        "delivered",
+        "commissioned",
+        "decommissioned",
+        "notes"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%ED%95%B4%EA%B5%B0%EC%9D%98_%ED%95%A8%EC%A0%95_%EB%AA%A9%EB%A1%9D",
+      "updated": "2026-10",
+      "size": 46455,
+      "files": {
+        "csv": {
+          "name": "ko-haegun-hamjeong_KO.csv",
+          "size": 16854
+        },
+        "xlsx": {
+          "name": "ko-haegun-hamjeong_KO.xlsx",
+          "size": 15086
         }
       }
     },
