@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-26T02:21:28.936Z",
-  "total_datasets": 508,
-  "total_records": 452724,
+  "generated": "2026-10-27T02:40:08.543Z",
+  "total_datasets": 509,
+  "total_records": 452742,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -7915,6 +7915,34 @@
         "xlsx": {
           "name": "ko-seoul-gayo-daesang_KO.xlsx",
           "size": 7813
+        }
+      }
+    },
+    {
+      "id": "ko-22dae-chongseon-jiyeokgu-uiseok",
+      "name": "제22대 국회의원 선거 시·도별 지역구 의석",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "region",
+        "더불어민주당",
+        "국민의힘",
+        "새로운미래",
+        "개혁신당",
+        "진보당",
+        "합계"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%A0%9C22%EB%8C%80_%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90_%EC%84%A0%EA%B1%B0",
+      "updated": "2026-10",
+      "size": 5778,
+      "files": {
+        "csv": {
+          "name": "ko-22dae-chongseon-jiyeokgu-uiseok_KO.csv",
+          "size": 876
+        },
+        "xlsx": {
+          "name": "ko-22dae-chongseon-jiyeokgu-uiseok_KO.xlsx",
+          "size": 7443
         }
       }
     },
