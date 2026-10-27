@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:36.653Z",
-  "total_datasets": 520,
-  "total_records": 453364,
+  "generated": "2026-10-27T02:40:39.099Z",
+  "total_datasets": 521,
+  "total_records": 453408,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "tech",
@@ -11629,6 +11629,42 @@
         "xlsx": {
           "name": "ko-kbo-choeso-gwanjung-gyeonggi_KO.xlsx",
           "size": 7661
+        }
+      }
+    },
+    {
+      "id": "ko-kbo-golden-glove",
+      "name": "KBO 골든글러브 역대 수상자",
+      "category": "sports",
+      "record_count": 44,
+      "columns": [
+        "year",
+        "pitcher",
+        "catcher",
+        "first_base",
+        "second_base",
+        "third_base",
+        "shortstop",
+        "outfield_1",
+        "outfield_2",
+        "outfield_3",
+        "outfield_4",
+        "designated_hitter_1",
+        "designated_hitter_2",
+        "designated_hitter_3",
+        "designated_hitter_4"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_%EA%B3%A8%EB%93%A0%EA%B8%80%EB%9F%AC%EB%B8%8C",
+      "updated": "2026-10",
+      "size": 27744,
+      "files": {
+        "csv": {
+          "name": "ko-kbo-golden-glove_KO.csv",
+          "size": 9867
+        },
+        "xlsx": {
+          "name": "ko-kbo-golden-glove_KO.xlsx",
+          "size": 11175
         }
       }
     },
