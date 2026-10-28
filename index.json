@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-28T02:28:00.758Z",
-  "total_datasets": 529,
-  "total_records": 454901,
+  "generated": "2026-10-28T02:28:03.067Z",
+  "total_datasets": 530,
+  "total_records": 454958,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -12630,6 +12630,33 @@
         "xlsx": {
           "name": "ko-ilbon-yeonho_KO.xlsx",
           "size": 14626
+        }
+      }
+    },
+    {
+      "id": "ko-jeongbu-beopjeong-ginyeomil",
+      "name": "대한민국의 정부 법정기념일 (각종 기념일 등에 관한 규정)",
+      "category": "time",
+      "record_count": 57,
+      "columns": [
+        "no",
+        "name",
+        "date",
+        "ministry",
+        "events",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_기념일",
+      "updated": "2026-10",
+      "size": 21321,
+      "files": {
+        "csv": {
+          "name": "ko-jeongbu-beopjeong-ginyeomil_KO.csv",
+          "size": 13469
+        },
+        "xlsx": {
+          "name": "ko-jeongbu-beopjeong-ginyeomil_KO.xlsx",
+          "size": 12355
         }
       }
     },
