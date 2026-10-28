@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-27T02:40:54.159Z",
-  "total_datasets": 527,
-  "total_records": 454090,
+  "generated": "2026-10-28T02:27:57.881Z",
+  "total_datasets": 528,
+  "total_records": 454222,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -7973,6 +7973,33 @@
         "xlsx": {
           "name": "ko-daejung-eumak-myeongban-100-2018_KO.xlsx",
           "size": 10212
+        }
+      }
+    },
+    {
+      "id": "ko-gaon-aelbeom-chateu-wolgan-1wi",
+      "name": "가온 앨범 차트 월간 1위 목록 (2010~2020)",
+      "category": "music",
+      "record_count": 132,
+      "columns": [
+        "year",
+        "month",
+        "album",
+        "artist",
+        "monthly_sales",
+        "source_page"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록",
+      "updated": "2026-10",
+      "size": 34280,
+      "files": {
+        "csv": {
+          "name": "ko-gaon-aelbeom-chateu-wolgan-1wi_KO.csv",
+          "size": 16908
+        },
+        "xlsx": {
+          "name": "ko-gaon-aelbeom-chateu-wolgan-1wi_KO.xlsx",
+          "size": 12822
         }
       }
     },

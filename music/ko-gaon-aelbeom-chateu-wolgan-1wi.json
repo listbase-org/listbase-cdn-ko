@@ -1,0 +1,1112 @@
+{
+  "id": "ko-gaon-aelbeom-chateu-wolgan-1wi",
+  "name": "가온 앨범 차트 월간 1위 목록 (2010~2020)",
+  "title": "가온 앨범 차트 월간 1위 목록 (2010~2020)",
+  "description": "가온(현 써클) 앨범 차트의 2010~2020년 월간 1위 음반과 가수, 월간 판매량.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록",
+  "updated": "2026-10",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "monthly_sales",
+      "label": "Monthly Sales",
+      "type": "number"
+    },
+    {
+      "key": "source_page",
+      "label": "Source Page",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2010,
+      "month": "1월",
+      "album": "Oh!",
+      "artist": "소녀시대",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "2월",
+      "album": "Oh!",
+      "artist": "소녀시대",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "3월",
+      "album": "Run Devil Run",
+      "artist": "소녀시대",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "4월",
+      "album": "Back To The Basic",
+      "artist": "비",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "5월",
+      "album": "미인아",
+      "artist": "슈퍼주니어",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "6월",
+      "album": "The 4th Album Repackage '미인아'",
+      "artist": "슈퍼주니어",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "7월",
+      "album": "Lucifer",
+      "artist": "샤이니",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "8월",
+      "album": "Hurricane Venus",
+      "artist": "보아",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "9월",
+      "album": "To Anyone",
+      "artist": "2NE1",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "10월",
+      "album": "훗(Hoot)",
+      "artist": "소녀시대",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "11월",
+      "album": "The Beginning",
+      "artist": "JYJ",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "month": "12월",
+      "album": "GD & TOP",
+      "artist": "GD & T.O.P",
+      "monthly_sales": "",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "1월",
+      "album": "Keep Your Head Down",
+      "artist": "동방신기",
+      "monthly_sales": 230227,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "2월",
+      "album": "BIGBANG MINI 4",
+      "artist": "빅뱅",
+      "monthly_sales": 109770,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "3월",
+      "album": "이것만은 알고가",
+      "artist": "동방신기",
+      "monthly_sales": 51354,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "4월",
+      "album": "빅뱅 스페셜에디션",
+      "artist": "빅뱅",
+      "monthly_sales": 72139,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "5월",
+      "album": "Fiction And Fact",
+      "artist": "비스트",
+      "monthly_sales": 90000,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "6월",
+      "album": "Break Down",
+      "artist": "김현중",
+      "monthly_sales": 100433,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "7월",
+      "album": "2NE1 2nd Mini Album",
+      "artist": "2NE1",
+      "monthly_sales": 54900,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "8월",
+      "album": "Mr. Simple",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 287427,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "9월",
+      "album": "In Heaven",
+      "artist": "JYJ",
+      "monthly_sales": 136500,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "10월",
+      "album": "The Boys",
+      "artist": "소녀시대",
+      "monthly_sales": 227994,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "11월",
+      "album": "The Boys",
+      "artist": "소녀시대",
+      "monthly_sales": 65048,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "month": "12월",
+      "album": "The Boys",
+      "artist": "소녀시대",
+      "monthly_sales": 92306,
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "1월",
+      "album": "《 100%Ver. 》",
+      "artist": "엠블랙",
+      "monthly_sales": 51087,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "2월",
+      "album": "《 Alive 》",
+      "artist": "빅뱅",
+      "monthly_sales": 212010,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "3월",
+      "album": "《 Sherlock 》",
+      "artist": "샤이니",
+      "monthly_sales": 135370,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "4월",
+      "album": "《 MAMA 》",
+      "artist": "EXO-K",
+      "monthly_sales": 61333,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "5월",
+      "album": "《 Twinkle 》",
+      "artist": "태티서",
+      "monthly_sales": 139388,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "6월",
+      "album": "《 Still Alive 》",
+      "artist": "빅뱅",
+      "monthly_sales": 117929,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "7월",
+      "album": "《 Sexy, Free & Single 》",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 335744,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "8월",
+      "album": "《 SPY 》",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 107656,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "9월",
+      "album": "《 One Of A Kind 》",
+      "artist": "지드래곤",
+      "monthly_sales": 171512,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "10월",
+      "album": "《 Catch Me 》",
+      "artist": "동방신기",
+      "monthly_sales": 114956,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "11월",
+      "album": "《 Another Me 》",
+      "artist": "김성규",
+      "monthly_sales": 62958,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "month": "12월",
+      "album": "《 Winter Poetry 》",
+      "artist": "신혜성",
+      "monthly_sales": 24102,
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "1월",
+      "album": "I Got A Boy",
+      "artist": "소녀시대",
+      "monthly_sales": 265322,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "2월",
+      "album": "Chapter 1. Dream Girl – The Misconceptions of You",
+      "artist": "샤이니",
+      "monthly_sales": 137444,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "3월",
+      "album": "New Challenge",
+      "artist": "인피니트",
+      "monthly_sales": 138431,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "4월",
+      "album": "Chapter 2. Why So Serious? – The Misconceptions of Me",
+      "artist": "샤이니",
+      "monthly_sales": 106404,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "5월",
+      "album": "Hello",
+      "artist": "조용필",
+      "monthly_sales": 167323,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "6월",
+      "album": "XOXO (Kiss Ver.)",
+      "artist": "EXO",
+      "monthly_sales": 206812,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "7월",
+      "album": "Destiny",
+      "artist": "인피니트",
+      "monthly_sales": 158462,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "8월",
+      "album": "XOXO (Kiss Ver.) 리패키지",
+      "artist": "EXO",
+      "monthly_sales": 186281,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "9월",
+      "album": "COUP D'ETAT",
+      "artist": "지드래곤",
+      "monthly_sales": 198489,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "10월",
+      "album": "Everybody",
+      "artist": "샤이니",
+      "monthly_sales": 122284,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "11월",
+      "album": "Voodoo",
+      "artist": "빅스",
+      "monthly_sales": 43070,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "month": "12월",
+      "album": "12월의 기적 (Miracles In December)",
+      "artist": "EXO",
+      "monthly_sales": 262825,
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "1월",
+      "album": "Tense",
+      "artist": "동방신기",
+      "monthly_sales": 194198,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "2월",
+      "album": "First Sensibility",
+      "artist": "B.A.P",
+      "monthly_sales": 91053,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "3월",
+      "album": "Mr.Mr.",
+      "artist": "소녀시대",
+      "monthly_sales": 70295,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "4월",
+      "album": "The Origin",
+      "artist": "인피니트",
+      "monthly_sales": 29950,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "5월",
+      "album": "중독 (Overdose)",
+      "artist": "EXO-K",
+      "monthly_sales": 390034,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "6월",
+      "album": "Good Luck",
+      "artist": "비스트",
+      "monthly_sales": 88800,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "7월",
+      "album": "JUST US",
+      "artist": "JYJ",
+      "monthly_sales": 126115,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "8월",
+      "album": "The 1st Mini Album `ACE`",
+      "artist": "태민",
+      "monthly_sales": 70632,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "9월",
+      "album": "MAMACITA (아야야)",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 237646,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "10월",
+      "album": "THIS IS LOVE",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 114216,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "11월",
+      "album": "광화문에서",
+      "artist": "규현",
+      "monthly_sales": 56481,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "month": "12월",
+      "album": "EXOLOGY CHAPTER 1: THE LOST PLANET",
+      "artist": "EXO",
+      "monthly_sales": 78946,
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "1월",
+      "album": "어느 멋진 날",
+      "artist": "정용화",
+      "monthly_sales": 75886,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "2월",
+      "album": "Boys` Record",
+      "artist": "VIXX",
+      "monthly_sales": 54997,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "3월",
+      "album": "EXODUS",
+      "artist": "EXO",
+      "monthly_sales": 277087,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "4월",
+      "album": "EXODUS",
+      "artist": "EXO",
+      "monthly_sales": 175782,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "5월",
+      "album": "Odd",
+      "artist": "샤이니",
+      "monthly_sales": 165346,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "6월",
+      "album": "LOVE ME RIGHT",
+      "artist": "EXO",
+      "monthly_sales": 268821,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "7월",
+      "album": "RISE AS GOD",
+      "artist": "동방신기",
+      "monthly_sales": 148155,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "8월",
+      "album": "Lion Heart",
+      "artist": "소녀시대",
+      "monthly_sales": 131228,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "9월",
+      "album": "MAGIC",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 90504,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "10월",
+      "album": "I - The 1st Mini Album",
+      "artist": "태연",
+      "monthly_sales": 100923,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "11월",
+      "album": "화양연화 pt.2",
+      "artist": "방탄소년단",
+      "monthly_sales": 144640,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "month": "12월",
+      "album": "Sing For You (Korean Ver.)",
+      "artist": "EXO",
+      "monthly_sales": 318698,
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "1월",
+      "album": "RED POINT",
+      "artist": "틴탑",
+      "monthly_sales": 78098,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "2월",
+      "album": "NO.X",
+      "artist": "김재중",
+      "monthly_sales": 84868,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "3월",
+      "album": "FLIGHT LOG: DEPARTURE",
+      "artist": "GOT7",
+      "monthly_sales": 99977,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "4월",
+      "album": "LOVE & LETTER",
+      "artist": "세븐틴",
+      "monthly_sales": 132402,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "5월",
+      "album": "화양연화 Young Forever",
+      "artist": "방탄소년단",
+      "monthly_sales": 310243,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "6월",
+      "album": "EX'ACT (Korean Ver.)",
+      "artist": "EXO",
+      "monthly_sales": 524823,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "7월",
+      "album": "LOVE & LETTER Repackage",
+      "artist": "세븐틴",
+      "monthly_sales": 89311,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "8월",
+      "album": "LOTTO (Korean Ver.)",
+      "artist": "EXO",
+      "monthly_sales": 223953,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "9월",
+      "album": "INFINITE ONLY",
+      "artist": "인피니트",
+      "monthly_sales": 109751,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "10월",
+      "album": "WINGS",
+      "artist": "방탄소년단",
+      "monthly_sales": 681924,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "11월",
+      "album": "LOSE CONTROL",
+      "artist": "레이",
+      "monthly_sales": 129140,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "month": "12월",
+      "album": "For Life - 겨울 스페셜 앨범, 2016",
+      "artist": "EXO",
+      "monthly_sales": 438481,
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "1월",
+      "album": "MADE (FULL)",
+      "artist": "빅뱅",
+      "monthly_sales": 142652,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "2월",
+      "album": "YOU NEVER WALK ALONE",
+      "artist": "방탄소년단",
+      "monthly_sales": 713063,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "3월",
+      "album": "FLIGHT LOG: ARRIVAL",
+      "artist": "GOT7",
+      "monthly_sales": 278103,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "4월",
+      "album": "My Voice (Deluxe Edition)",
+      "artist": "태연",
+      "monthly_sales": 67486,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "5월",
+      "album": "Al1",
+      "artist": "세븐틴",
+      "monthly_sales": 259364,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "6월",
+      "album": "Be ordinary",
+      "artist": "황치열",
+      "monthly_sales": 112783,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "7월",
+      "album": "THE WAR (Korean Ver.)",
+      "artist": "EXO",
+      "monthly_sales": 808655,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "8월",
+      "album": "1X1=1(TO BE ONE)",
+      "artist": "워너원",
+      "monthly_sales": 704616,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "9월",
+      "album": "LOVE YOURSELF 承 'Her'",
+      "artist": "방탄소년단",
+      "monthly_sales": 1203533,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "10월",
+      "album": "W, HERE",
+      "artist": "뉴이스트 W",
+      "monthly_sales": 287862,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "11월",
+      "album": "1-1=0 (NOTHING WITHOUT YOU)",
+      "artist": "워너원",
+      "monthly_sales": 603503,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "month": "12월",
+      "album": "Universe",
+      "artist": "EXO",
+      "monthly_sales": 516062,
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "1월",
+      "album": "Poet | Artist",
+      "artist": "종현",
+      "monthly_sales": 151224,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "2월",
+      "album": "SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT'",
+      "artist": "세븐틴",
+      "monthly_sales": 176291,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "3월",
+      "album": "0+1=1 (I PROMISE YOU)",
+      "artist": "워너원",
+      "monthly_sales": 829275,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "4월",
+      "album": "Blooming Days",
+      "artist": "EXO-CBX",
+      "monthly_sales": 352575,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "5월",
+      "album": "LOVE YOURSELF 轉 'Tear'",
+      "artist": "방탄소년단",
+      "monthly_sales": 1664041,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "6월",
+      "album": "1÷x=1 (UNDIVIDED)",
+      "artist": "워너원",
+      "monthly_sales": 639955,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "7월",
+      "album": "SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'",
+      "artist": "세븐틴",
+      "monthly_sales": 351928,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "8월",
+      "album": "LOVE YOURSELF 結 'Answer'",
+      "artist": "방탄소년단",
+      "monthly_sales": 1933450,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "9월",
+      "album": "Present: YOU",
+      "artist": "GOT7",
+      "monthly_sales": 301916,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "10월",
+      "album": "NCT #127 Regular-Irregular",
+      "artist": "NCT 127",
+      "monthly_sales": 273075,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "11월",
+      "album": "DON'T MESS UP MY TEMPO",
+      "artist": "EXO",
+      "monthly_sales": 1195334,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "month": "12월",
+      "album": "LOVE SHOT",
+      "artist": "EXO",
+      "monthly_sales": 499849,
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "1월",
+      "album": "SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'",
+      "artist": "세븐틴",
+      "monthly_sales": 404783,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "2월",
+      "album": "WE ARE HERE",
+      "artist": "몬스타엑스",
+      "monthly_sales": 174371,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "3월",
+      "album": "꿈의 장: STAR",
+      "artist": "투모로우바이투게더",
+      "monthly_sales": 145098,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "4월",
+      "album": "MAP OF THE SOUL: PERSONA",
+      "artist": "방탄소년단",
+      "monthly_sales": 3229032,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "5월",
+      "album": "SPINNING TOP: BETWEEN SECURITY & INSECURITY",
+      "artist": "GOT7",
+      "monthly_sales": 252826,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "6월",
+      "album": "BTS WORLD OST",
+      "artist": "방탄소년단",
+      "monthly_sales": 498455,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "7월",
+      "album": "City Lights",
+      "artist": "백현",
+      "monthly_sales": 508321,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "8월",
+      "album": "비상: QUANTUM LEAP",
+      "artist": "엑스원",
+      "monthly_sales": 405102,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "9월",
+      "album": "SEVENTEEN 3RD ALBUM 'An Ode'",
+      "artist": "세븐틴",
+      "monthly_sales": 796134,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "10월",
+      "album": "Time_Slip",
+      "artist": "슈퍼주니어",
+      "monthly_sales": 365751,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "11월",
+      "album": "OBSESSION",
+      "artist": "EXO",
+      "monthly_sales": 563805,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "month": "12월",
+      "album": "OBSESSION",
+      "artist": "EXO",
+      "monthly_sales": 202489,
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "1월",
+      "album": "TREASURE EPILOGUE: Action To Answer",
+      "artist": "에이티즈",
+      "monthly_sales": 128273,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "2월",
+      "album": "MAP OF THE SOUL: 7",
+      "artist": "방탄소년단",
+      "monthly_sales": 4114843,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "3월",
+      "album": "NCT #127 Neo Zone - The 2nd Album",
+      "artist": "NCT 127",
+      "monthly_sales": 723150,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "4월",
+      "album": "DYE",
+      "artist": "GOT7",
+      "monthly_sales": 339737,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "5월",
+      "album": "Delight - The 2nd Mini Album",
+      "artist": "백현",
+      "monthly_sales": 660826,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "6월",
+      "album": "SEVENTEEN 7th Mini Album `헹가래`",
+      "artist": "세븐틴",
+      "monthly_sales": 1207513,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "7월",
+      "album": "10억뷰 - The 1st Album",
+      "artist": "세훈&찬열",
+      "monthly_sales": 497325,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "8월",
+      "album": "MAGENTA",
+      "artist": "강다니엘",
+      "monthly_sales": 330824,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "9월",
+      "album": "우리家",
+      "artist": "김호중",
+      "monthly_sales": 441201,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "10월",
+      "album": "NCT RESONANCE Pt. 1 - The 2nd Album",
+      "artist": "NCT",
+      "monthly_sales": 1193394,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "11월",
+      "album": "BE (Deluxe Edition)",
+      "artist": "방탄소년단",
+      "monthly_sales": 2655843,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "month": "12월",
+      "album": "NCT RESONANCE Pt. 2 - The 2nd Album",
+      "artist": "NCT",
+      "monthly_sales": 705588,
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    }
+  ],
+  "meta": {
+    "title": "가온 앨범 차트 월간 1위 목록 (2010~2020) - Free Download",
+    "description": "가온(현 써클) 앨범 차트의 2010~2020년 월간 1위 음반과 가수, 월간 판매량. Contains 132 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "가온 앨범 차트 월간 1위 목록 (2010~2020) | ListBase",
+    "seo_description": "Download 가온 앨범 차트 월간 1위 목록 (2010~2020) — 132 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 132 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/2020년_가온_앨범_차트_1위_목록"
+    ]
+  }
+}
