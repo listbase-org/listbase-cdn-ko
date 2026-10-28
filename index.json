@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-28T02:27:57.881Z",
-  "total_datasets": 528,
-  "total_records": 454222,
+  "generated": "2026-10-28T02:28:00.758Z",
+  "total_datasets": 529,
+  "total_records": 454901,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -8000,6 +8000,32 @@
         "xlsx": {
           "name": "ko-gaon-aelbeom-chateu-wolgan-1wi_KO.xlsx",
           "size": 12822
+        }
+      }
+    },
+    {
+      "id": "ko-gaon-dijiteol-chateu-jugan-1wi",
+      "name": "가온 디지털 차트 주간 1위 곡 목록 (2010~2023)",
+      "category": "music",
+      "record_count": 679,
+      "columns": [
+        "year",
+        "week",
+        "song",
+        "artist",
+        "source_page"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록",
+      "updated": "2026-10",
+      "size": 152622,
+      "files": {
+        "csv": {
+          "name": "ko-gaon-dijiteol-chateu-jugan-1wi_KO.csv",
+          "size": 87058
+        },
+        "xlsx": {
+          "name": "ko-gaon-dijiteol-chateu-jugan-1wi_KO.xlsx",
+          "size": 28844
         }
       }
     },

@@ -1,0 +1,4804 @@
+{
+  "id": "ko-gaon-dijiteol-chateu-jugan-1wi",
+  "name": "가온 디지털 차트 주간 1위 곡 목록 (2010~2023)",
+  "title": "가온 디지털 차트 주간 1위 곡 목록 (2010~2023)",
+  "description": "가온(현 써클) 디지털 차트의 연도별 주간 1위 곡과 가수 (2010~2021년, 2023년).",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록",
+  "updated": "2026-10",
+  "record_count": 679,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "week",
+      "label": "Week",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "source_page",
+      "label": "Source Page",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2010,
+      "week": "1주차",
+      "song": "우리 사랑하게 됐어요",
+      "artist": "가인 & 조권",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "2주차",
+      "song": "우리 사랑하게 됐어요",
+      "artist": "가인 & 조권",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "3주차",
+      "song": "우리 사랑하게 됐어요",
+      "artist": "가인 & 조권",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "4주차",
+      "song": "죽어도 못 보내",
+      "artist": "2AM",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "5주차",
+      "song": "죽어도 못 보내",
+      "artist": "2AM",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "6주차",
+      "song": "Oh!",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "7주차",
+      "song": "날 따라 해봐요",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "8주차",
+      "song": "루팡 (Lupin)",
+      "artist": "카라",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "9주차",
+      "song": "루팡 (Lupin)",
+      "artist": "카라",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "10주차",
+      "song": "너 때문에 미쳐",
+      "artist": "티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "11주차",
+      "song": "너 때문에 미쳐",
+      "artist": "티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "12주차",
+      "song": "Run Devil Run",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "13주차",
+      "song": "Run Devil Run",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "14주차",
+      "song": "널 붙잡을 노래",
+      "artist": "비",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "15주차",
+      "song": "그네 (Feat. 개리 Of 리쌍)",
+      "artist": "이효리",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "16주차",
+      "song": "Chitty Chitty Bang Bang (Feat. Ceejay of Freshboyz)",
+      "artist": "이효리",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "17주차",
+      "song": "Without U",
+      "artist": "2PM",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "18주차",
+      "song": "이 거지같은 말 (with 정엽)",
+      "artist": "서영은",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "19주차",
+      "song": "NU ABO",
+      "artist": "f(x)",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "20주차",
+      "song": "시간아 멈춰라",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "21주차",
+      "song": "2 Different Tears",
+      "artist": "원더걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "22주차",
+      "song": "2 Different Tears",
+      "artist": "원더걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "23주차",
+      "song": "2 Different Tears",
+      "artist": "원더걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "24주차",
+      "song": "잔소리 (With. 슬옹)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "25주차",
+      "song": "잔소리 (With. 슬옹)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "26주차",
+      "song": "잔소리 (With. 슬옹)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "27주차",
+      "song": "죽을 만큼 아파서 (Feat. 멜로우)",
+      "artist": "MC몽",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "28주차",
+      "song": "Bad Girl Good Girl",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "29주차",
+      "song": "Bad Girl Good Girl",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "30주차",
+      "song": "Bad Girl Good Girl",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "31주차",
+      "song": "Bad Girl Good Girl",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "32주차",
+      "song": "나 이런 사람이야",
+      "artist": "DJ DOC",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "33주차",
+      "song": "밥만 잘 먹더라",
+      "artist": "옴므",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "34주차",
+      "song": "Madonna",
+      "artist": "시크릿",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "35주차",
+      "song": "밥만 잘 먹더라",
+      "artist": "옴므",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "36주차",
+      "song": "사랑사랑사랑",
+      "artist": "FT아일랜드",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "37주차",
+      "song": "왜",
+      "artist": "슈프림팀 & 영준 (브라운 아이드 소울)",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "38주차",
+      "song": "Go Away",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "39주차",
+      "song": "Go Away",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "40주차",
+      "song": "그대네요",
+      "artist": "성시경 & 아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "41주차",
+      "song": "그땐 그땐 그땐",
+      "artist": "슈프림팀 & 영준 (브라운 아이드 소울)",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "42주차",
+      "song": "돌이킬 수 없는",
+      "artist": "가인",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "43주차",
+      "song": "본능적으로 (Feat. 스윙스)",
+      "artist": "강승윤",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "44주차",
+      "song": "훗 (Hoot)",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "45주차",
+      "song": "전활 받지 않는 너에게",
+      "artist": "2AM",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "46주차",
+      "song": "언제나",
+      "artist": "허각",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "47주차",
+      "song": "언제나",
+      "artist": "허각",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "48주차",
+      "song": "별처럼",
+      "artist": "태연 & 더원",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "49주차",
+      "song": "똑같다면",
+      "artist": "브라운 아이드 소울",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "50주차",
+      "song": "좋은 날",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "51주차",
+      "song": "좋은 날",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2010,
+      "week": "52주차",
+      "song": "좋은 날",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2010년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "1주차",
+      "song": "좋은 날",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "2주차",
+      "song": "좋은 날",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "3주차",
+      "song": "좋은 날",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "4주차",
+      "song": "그남자",
+      "artist": "현빈",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "5주차",
+      "song": "처음 사랑하는 연인들을 위해 (반말송)",
+      "artist": "정용화",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "6주차",
+      "song": "처음 사랑하는 연인들을 위해 (반말송)",
+      "artist": "정용화",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "7주차",
+      "song": "Someday",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "8주차",
+      "song": "Black & White",
+      "artist": "G.NA",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "9주차",
+      "song": "나만 몰랐던 이야기",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "10주차",
+      "song": "나만 몰랐던 이야기",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "11주차",
+      "song": "Tonight",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "12주차",
+      "song": "미친거니 (Feat. 방용국)",
+      "artist": "송지은",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "13주차",
+      "song": "가슴이 뛴다",
+      "artist": "케이윌",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "14주차",
+      "song": "직감",
+      "artist": "씨엔블루",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "15주차",
+      "song": "제발",
+      "artist": "김범수",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "16주차",
+      "song": "제발",
+      "artist": "김범수",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "17주차",
+      "song": "LOVE SONG",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "18주차",
+      "song": "피노키오 (Danger)",
+      "artist": "f(x)",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "19주차",
+      "song": "Don't Cry",
+      "artist": "박봄",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "20주차",
+      "song": "Don't Cry",
+      "artist": "박봄",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "21주차",
+      "song": "이젠 그랬으면 좋겠네",
+      "artist": "박정현",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "22주차",
+      "song": "Lonely",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "23주차",
+      "song": "나와 같다면",
+      "artist": "김연우",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "24주차",
+      "song": "천일동안",
+      "artist": "옥주현",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "25주차",
+      "song": "나를 잊지 말아요",
+      "artist": "허각",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "26주차",
+      "song": "조율",
+      "artist": "JK김동욱",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "27주차",
+      "song": "Hands Up",
+      "artist": "2PM",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "28주차",
+      "song": "내가 제일 잘 나가",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "29주차",
+      "song": "바람났어 (Feat. 박봄)",
+      "artist": "GG (박명수 & 지드래곤)",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "30주차",
+      "song": "바람났어 (Feat. 박봄)",
+      "artist": "GG (박명수 & 지드래곤)",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "31주차",
+      "song": "Good-bye Baby",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "32주차",
+      "song": "Good-bye Baby",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "33주차",
+      "song": "Ugly",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "34주차",
+      "song": "So Cool",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "35주차",
+      "song": "TV를 껐네... (Feat. 윤미래, 권정열)",
+      "artist": "리쌍",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "36주차",
+      "song": "TV를 껐네... (Feat. 윤미래, 권정열)",
+      "artist": "리쌍",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "37주차",
+      "song": "안녕이라고 말하지 마",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "38주차",
+      "song": "안녕이라고 말하지 마",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "39주차",
+      "song": "안녕이라고 말하지 마",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "40주차",
+      "song": "Hello",
+      "artist": "허각",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "41주차",
+      "song": "Sixth Sense",
+      "artist": "브라운 아이드 걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "42주차",
+      "song": "동경소녀",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "43주차",
+      "song": "Open Arms (Journey) (Feat. 크리스티나)",
+      "artist": "울랄라 세션",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "44주차",
+      "song": "The Boys",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "45주차",
+      "song": "The Boys",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "46주차",
+      "song": "서쪽 하늘",
+      "artist": "울랄라 세션",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "47주차",
+      "song": "Be My Baby",
+      "artist": "원더걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "48주차",
+      "song": "Cry Cry",
+      "artist": "티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "49주차",
+      "song": "Cry Cry",
+      "artist": "티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "50주차",
+      "song": "너랑 나",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "51주차",
+      "song": "너랑 나",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "52주차",
+      "song": "너랑 나",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2011,
+      "week": "53주차",
+      "song": "Trouble Maker",
+      "artist": "트러블 메이커",
+      "source_page": "https://ko.wikipedia.org/wiki/2011년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "1주차",
+      "song": "우리 사랑했잖아",
+      "artist": "다비치, 티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "2주차",
+      "song": "Lovey-Dovey",
+      "artist": "티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "3주차",
+      "song": "키 큰 노총각 이야기",
+      "artist": "정준하",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "4주차",
+      "song": "Lovey-Dovey",
+      "artist": "티아라",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "5주차",
+      "song": "이럴 줄 알았어",
+      "artist": "비스트",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "6주차",
+      "song": "내가 노래를 못해도",
+      "artist": "세븐",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "7주차",
+      "song": "시간을 거슬러",
+      "artist": "린",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "8주차",
+      "song": "니가 필요해 (I Need You)",
+      "artist": "케이윌",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "9주차",
+      "song": "BLUE",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "10주차",
+      "song": "FANTASTIC BABY",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "11주차",
+      "song": "FANTASTIC BABY",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "12주차",
+      "song": "너도 나처럼",
+      "artist": "2AM",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "13주차",
+      "song": "Sherlock·셜록",
+      "artist": "샤이니",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "14주차",
+      "song": "Hey You",
+      "artist": "씨엔블루",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "15주차",
+      "song": "벚꽃 엔딩",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "16주차",
+      "song": "벚꽃 엔딩",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "17주차",
+      "song": "나혼자 (Alone)",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "18주차",
+      "song": "나혼자 (Alone)",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "19주차",
+      "song": "Twinkle",
+      "artist": "소녀시대-태티서",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "20주차",
+      "song": "목소리 (Feat. 개리)",
+      "artist": "백지영",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "21주차",
+      "song": "하루 끝",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "22주차",
+      "song": "하루 끝",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "23주차",
+      "song": "Twinkle",
+      "artist": "소녀시대-태티서",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "24주차",
+      "song": "Monster",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "25주차",
+      "song": "Electric Shock",
+      "artist": "f(x)",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "26주차",
+      "song": "정말로 사랑한다면",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "27주차",
+      "song": "정말로 사랑한다면",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "28주차",
+      "song": "Loving U (러빙유)",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "29주차",
+      "song": "I Love You",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "30주차",
+      "song": "강남스타일",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "31주차",
+      "song": "강남스타일",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "32주차",
+      "song": "강남스타일",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "33주차",
+      "song": "강남스타일",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "34주차",
+      "song": "강남스타일",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "35주차",
+      "song": "I Need You",
+      "artist": "허각, 지아",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "36주차",
+      "song": "All For You",
+      "artist": "서인국 & 정은지",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "37주차",
+      "song": "그XX",
+      "artist": "지드래곤",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "38주차",
+      "song": "All For You",
+      "artist": "서인국 & 정은지",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "39주차",
+      "song": "바람기억",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "40주차",
+      "song": "바람기억",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "41주차",
+      "song": "바람기억",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "42주차",
+      "song": "춥다 (Feat. 이하이)",
+      "artist": "에픽하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "43주차",
+      "song": "먼지가 되어",
+      "artist": "로이킴, 정준영",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "44주차",
+      "song": "아이스크림",
+      "artist": "현아",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "45주차",
+      "song": "1,2,3,4 (원,투,쓰리,포)",
+      "artist": "이하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "46주차",
+      "song": "1,2,3,4 (원,투,쓰리,포)",
+      "artist": "이하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "47주차",
+      "song": "1,2,3,4 (원,투,쓰리,포)",
+      "artist": "이하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "48주차",
+      "song": "되돌리다",
+      "artist": "이승기",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "49주차",
+      "song": "되돌리다",
+      "artist": "이승기",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "50주차",
+      "song": "되돌리다",
+      "artist": "이승기",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "51주차",
+      "song": "크리스마스니까",
+      "artist": "성시경, 박효신, 이석훈, 서인국, 빅스",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2012,
+      "week": "52주차",
+      "song": "매력있어",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2012년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "1주차",
+      "song": "Dancing Queen",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "2주차",
+      "song": "I Got A Boy",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "3주차",
+      "song": "강북멋쟁이",
+      "artist": "정형돈",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "4주차",
+      "song": "눈물샤워 (Feat. 에일리)",
+      "artist": "배치기",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "5주차",
+      "song": "눈물샤워 (Feat. 에일리)",
+      "artist": "배치기",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "6주차",
+      "song": "눈물 (Feat. 유진 of 더 씨야)",
+      "artist": "리쌍",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "7주차",
+      "song": "있다 없으니까",
+      "artist": "씨스타19",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "8주차",
+      "song": "있다 없으니까",
+      "artist": "씨스타19",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "9주차",
+      "song": "Dream Girl",
+      "artist": "샤이니",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "10주차",
+      "song": "겨울사랑",
+      "artist": "더 원",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "11주차",
+      "song": "거북이",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "12주차",
+      "song": "Crescendo (크레셴도)",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "13주차",
+      "song": "Crescendo (크레셴도)",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "14주차",
+      "song": "Rose",
+      "artist": "이하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "15주차",
+      "song": "녹는 중 (Feat. 버벌진트)",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "16주차",
+      "song": "GENTLEMAN",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "17주차",
+      "song": "GENTLEMAN",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "18주차",
+      "song": "봄봄봄",
+      "artist": "로이킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "19주차",
+      "song": "봄봄봄",
+      "artist": "로이킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "20주차",
+      "song": "미스코리아",
+      "artist": "이효리",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "21주차",
+      "song": "이름이 뭐예요?",
+      "artist": "4minute",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "22주차",
+      "song": "Bad Girls",
+      "artist": "이효리",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "23주차",
+      "song": "괜찮겠니",
+      "artist": "비스트",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "24주차",
+      "song": "짧은 머리",
+      "artist": "허각, 정은지",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "25주차",
+      "song": "Give It To Me",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "26주차",
+      "song": "Give It To Me",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "27주차",
+      "song": "My Love",
+      "artist": "이승철",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "28주차",
+      "song": "Baaam (Feat. Muzie Of UV)",
+      "artist": "다이나믹 듀오",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "29주차",
+      "song": "Falling In Love",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "30주차",
+      "song": "U & I",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "31주차",
+      "song": "U & I",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "32주차",
+      "song": "첫 사랑니",
+      "artist": "f(x)",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "33주차",
+      "song": "아는사람 얘기",
+      "artist": "산이",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "34주차",
+      "song": "넌 내꺼라는걸 (Feat. 스윙스)",
+      "artist": "허각",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "35주차",
+      "song": "갖고놀래 (Feat. 다이나믹 듀오)",
+      "artist": "범키",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "36주차",
+      "song": "Touch Love",
+      "artist": "윤미래",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "37주차",
+      "song": "니가 뭔데 (Who You?)",
+      "artist": "지드래곤",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "38주차",
+      "song": "착해 빠졌어",
+      "artist": "소유, 매드 클라운",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "39주차",
+      "song": "착해 빠졌어",
+      "artist": "소유, 매드 클라운",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "40주차",
+      "song": "처음엔 사랑이란게",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "41주차",
+      "song": "처음엔 사랑이란게",
+      "artist": "버스커 버스커",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "42주차",
+      "song": "분홍신",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "43주차",
+      "song": "Everybody",
+      "artist": "샤이니",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "44주차",
+      "song": "촌스럽게 왜 이래",
+      "artist": "케이윌",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "45주차",
+      "song": "내일은 없어",
+      "artist": "트러블 메이커",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "46주차",
+      "song": "I Got C (Feat. 개코)",
+      "artist": "거머리 (박명수 & 프라이머리)",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "47주차",
+      "song": "편지",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "48주차",
+      "song": "그리워해요",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "49주차",
+      "song": "너 밖에 몰라",
+      "artist": "효린",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "50주차",
+      "song": "이별남녀",
+      "artist": "서인국, 지아",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "51주차",
+      "song": "겨울 고백",
+      "artist": "성시경, 박효신, 서인국, 빅스, 여동생",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2013,
+      "week": "52주차",
+      "song": "Dali, Van, Picasso",
+      "artist": "빈지노",
+      "source_page": "https://ko.wikipedia.org/wiki/2013년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "1주차",
+      "song": "금요일에 만나요 (Feat. 장이정)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "2주차",
+      "song": "그대가 분다",
+      "artist": "M.C The Max",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "3주차",
+      "song": "노래가 늘었어",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "4주차",
+      "song": "조금 이따 샤워해 (Feat. 크러쉬)",
+      "artist": "개리",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "5주차",
+      "song": "안녕",
+      "artist": "효린",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "6주차",
+      "song": "Let It Go",
+      "artist": "Idina Menzel",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "7주차",
+      "song": "Let It Go",
+      "artist": "Idina Menzel",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "8주차",
+      "song": "썸 (feat. 릴보이 Of 긱스)",
+      "artist": "소유, 정기고",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "9주차",
+      "song": "썸 (feat. 릴보이 Of 긱스)",
+      "artist": "소유, 정기고",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "10주차",
+      "song": "Mr.Mr.",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "11주차",
+      "song": "Come Back Home",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "12주차",
+      "song": "Come Back Home",
+      "artist": "2NE1",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "13주차",
+      "song": "오늘 뭐해",
+      "artist": "4minute",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "14주차",
+      "song": "그런 남자",
+      "artist": "브로",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "15주차",
+      "song": "야생화",
+      "artist": "박효신",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "16주차",
+      "song": "200%",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "17주차",
+      "song": "티가 나나봐",
+      "artist": "15&",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "18주차",
+      "song": "200%",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "19주차",
+      "song": "봄 사랑 벚꽃 말고",
+      "artist": "HIGH4, 아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "20주차",
+      "song": "미운오리새끼",
+      "artist": "god",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "21주차",
+      "song": "너를 원해 (Feat. 빈지노)",
+      "artist": "정기고",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "22주차",
+      "song": "너를 너를 너를",
+      "artist": "플라이 투 더 스카이",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "23주차",
+      "song": "사람냄새",
+      "artist": "개리, 정인",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "24주차",
+      "song": "눈, 코, 입",
+      "artist": "태양",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "25주차",
+      "song": "이젠 아니야",
+      "artist": "비스트",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "26주차",
+      "song": "Good Luck",
+      "artist": "비스트",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "27주차",
+      "song": "한여름밤의 꿀",
+      "artist": "산이, 레이나",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "28주차",
+      "song": "우산",
+      "artist": "윤하",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "29주차",
+      "song": "이제 그만 싸우자",
+      "artist": "허각, 정은지",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "30주차",
+      "song": "Darling",
+      "artist": "걸스데이",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "31주차",
+      "song": "Touch My Body",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "32주차",
+      "song": "Touch My Body",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "33주차",
+      "song": "Body Language (Feat. 범키)",
+      "artist": "산이",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "34주차",
+      "song": "공허해",
+      "artist": "위너",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "35주차",
+      "song": "어려운 여자",
+      "artist": "장범준",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "36주차",
+      "song": "I Swear",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "37주차",
+      "song": "너를 사랑해",
+      "artist": "윤미래",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "38주차",
+      "song": "신촌을 못가",
+      "artist": "포스트맨",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "39주차",
+      "song": "신촌을 못가",
+      "artist": "포스트맨",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "40주차",
+      "song": "당신만이",
+      "artist": "곽진언, 김필, 임도혁",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "41주차",
+      "song": "그게 나야",
+      "artist": "김동률",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "42주차",
+      "song": "그게 나야",
+      "artist": "김동률",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "43주차",
+      "song": "시간과 낙엽",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "44주차",
+      "song": "헤픈엔딩 (Feat. 조원선 Of 롤러코스터)",
+      "artist": "에픽하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "45주차",
+      "song": "헤픈엔딩 (Feat. 조원선 Of 롤러코스터)",
+      "artist": "에픽하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "46주차",
+      "song": "내가 그리웠니 (Feat. 진실 Of Mad Soul Child)",
+      "artist": "MC몽",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "47주차",
+      "song": "나는 달라 (Feat. BOBBY)",
+      "artist": "하이 수현",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "48주차",
+      "song": "세 사람 (With 성시경)",
+      "artist": "토이",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "49주차",
+      "song": "HAPPY TOGETHER",
+      "artist": "박효신",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "50주차",
+      "song": "잊지 말기로 해",
+      "artist": "성시경, 권진아",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "51주차",
+      "song": "사랑에 빠지고 싶다",
+      "artist": "정승환",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2014,
+      "week": "52주차",
+      "song": "사랑에 빠지고 싶다",
+      "artist": "정승환",
+      "source_page": "https://ko.wikipedia.org/wiki/2014년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "1주차",
+      "song": "December, 2014 (The Winter's Tale)",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "2주차",
+      "song": "위아래",
+      "artist": "EXID",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "3주차",
+      "song": "데자-부 (Deja-Boo) (Feat. Zion.T)",
+      "artist": "종현",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "4주차",
+      "song": "화 (Feat. 진실 Of Mad Soul Child)",
+      "artist": "매드 클라운",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "5주차",
+      "song": "슬픔 속에 그댈 지워야만 해",
+      "artist": "정승환, 박윤하",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "6주차",
+      "song": "또 운다 또",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "7주차",
+      "song": "그냥 (Just)",
+      "artist": "Zion.T, 크러쉬",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "8주차",
+      "song": "같은 시간 속의 너",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "9주차",
+      "song": "같은 시간 속의 너",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "10주차",
+      "song": "같은 시간 속의 너",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "11주차",
+      "song": "사랑 범벅 (Feat. 챈슬러 Of The Channels)",
+      "artist": "MC몽",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "12주차",
+      "song": "사랑 범벅 (Feat. 챈슬러 Of The Channels)",
+      "artist": "MC몽",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "13주차",
+      "song": "사월의 눈",
+      "artist": "허각",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "14주차",
+      "song": "Puss",
+      "artist": "지민, 아이언",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "15주차",
+      "song": "다른 남자 말고 너",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "16주차",
+      "song": "다른 남자 말고 너",
+      "artist": "미쓰에이",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "17주차",
+      "song": "어머님이 누구니",
+      "artist": "박진영 (Feat. 제시)",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "18주차",
+      "song": "어머님이 누구니",
+      "artist": "박진영 (Feat. 제시)",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "19주차",
+      "song": "LOSER",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "20주차",
+      "song": "LOSER",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "21주차",
+      "song": "LOSER",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "22주차",
+      "song": "마음",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "23주차",
+      "song": "View",
+      "artist": "샤이니",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "24주차",
+      "song": "뱅뱅뱅 (BANG BANG BANG)",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "25주차",
+      "song": "LOVE ME RIGHT",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "26주차",
+      "song": "이럴거면 그러지말지",
+      "artist": "백아연",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "27주차",
+      "song": "SHAKE IT",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "28주차",
+      "song": "IF YOU",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "29주차",
+      "song": "PARTY",
+      "artist": "소녀시대",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "30주차",
+      "song": "와리가리",
+      "artist": "혁오",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "31주차",
+      "song": "양화대교",
+      "artist": "Zion.T",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "32주차",
+      "song": "위잉위잉",
+      "artist": "혁오",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "33주차",
+      "song": "우리 사랑하지 말아요",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "34주차",
+      "song": "우리 사랑하지 말아요",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "35주차",
+      "song": "오빠차",
+      "artist": "인크레더블, 타블로, 지누션",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "36주차",
+      "song": "레옹",
+      "artist": "이유 갓지(GOD G) 않은 이유(박명수, 아이유)",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "37주차",
+      "song": "레옹",
+      "artist": "이유 갓지(GOD G) 않은 이유(박명수, 아이유)",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "38주차",
+      "song": "레옹",
+      "artist": "이유 갓지(GOD G) 않은 이유(박명수, 아이유)",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "39주차",
+      "song": "취향저격",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "40주차",
+      "song": "바람이나 좀 쐐 (Feat. 우혜미)",
+      "artist": "개리",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "41주차",
+      "song": "또 다시 사랑",
+      "artist": "임창정",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "42주차",
+      "song": "I (Feat. 버벌진트)",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "43주차",
+      "song": "No Make Up",
+      "artist": "Zion.T",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "44주차",
+      "song": "스물셋",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "45주차",
+      "song": "스물셋",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "46주차",
+      "song": "Boys And Girls (Feat. Babylon)",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "47주차",
+      "song": "안아보자",
+      "artist": "포맨",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "48주차",
+      "song": "지못미",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "49주차",
+      "song": "소녀",
+      "artist": "오혁",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "50주차",
+      "song": "DADDY (Feat. CL of 2NE1)",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "51주차",
+      "song": "유레카 (Feat. Zion.T)",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "52주차",
+      "song": "사랑이 맞을꺼야",
+      "artist": "윤미래",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2015,
+      "week": "53주차",
+      "song": "다시 (Feat. 유재석)",
+      "artist": "터보",
+      "source_page": "https://ko.wikipedia.org/wiki/2015년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "1주차",
+      "song": "또 하루 (Feat. 개코)",
+      "artist": "개리",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "2주차",
+      "song": "Dream",
+      "artist": "수지, 백현",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "3주차",
+      "song": "Dream",
+      "artist": "수지, 백현",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "4주차",
+      "song": "Dream",
+      "artist": "수지, 백현",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "5주차",
+      "song": "너는 나 나는 너",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "6주차",
+      "song": "Rain",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "7주차",
+      "song": "시간을 달려서 (Rough)",
+      "artist": "여자친구",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "8주차",
+      "song": "시간을 달려서 (Rough)",
+      "artist": "여자친구",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "9주차",
+      "song": "Everytime",
+      "artist": "첸, 펀치",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "10주차",
+      "song": "넌 is 뭔들",
+      "artist": "마마무",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "11주차",
+      "song": "이 사랑",
+      "artist": "다비치",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "12주차",
+      "song": "You Are My Everything",
+      "artist": "거미",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "13주차",
+      "song": "말해! 뭐해?",
+      "artist": "케이윌",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "14주차",
+      "song": "사랑에 빠졌죠 (당신만이)",
+      "artist": "장범준",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "15주차",
+      "song": "봄이 좋냐??",
+      "artist": "10cm",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "16주차",
+      "song": "How Can I Love You",
+      "artist": "XIA",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "17주차",
+      "song": "하늘바라기 (Feat. 하림)",
+      "artist": "정은지",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "18주차",
+      "song": "CHEER UP",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "19주차",
+      "song": "RE-BYE",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "20주차",
+      "song": "CHEER UP",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "21주차",
+      "song": "CHEER UP",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "22주차",
+      "song": "쏘쏘",
+      "artist": "백아연",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "23주차",
+      "song": "널 사랑하지 않아",
+      "artist": "어반자카파",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "24주차",
+      "song": "Monster",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "25주차",
+      "song": "GOOD (Feat. ELO)",
+      "artist": "로꼬, 그레이",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "26주차",
+      "song": "I Like That",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "27주차",
+      "song": "맘 편히 (Comfortable)",
+      "artist": "사이먼 도미닉, 그레이, 원",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "28주차",
+      "song": "Why So Lonely",
+      "artist": "원더걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "29주차",
+      "song": "너 그리고 나 (NAVILLERA)",
+      "artist": "여자친구",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "30주차",
+      "song": "너 그리고 나 (NAVILLERA)",
+      "artist": "여자친구",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "31주차",
+      "song": "Why So Lonely",
+      "artist": "원더걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "32주차",
+      "song": "여름밤에 우린",
+      "artist": "스탠딩 에그",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "33주차",
+      "song": "휘파람",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "34주차",
+      "song": "휘파람",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "35주차",
+      "song": "If You",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "36주차",
+      "song": "이 소설의 끝을 다시 써보려 해",
+      "artist": "한동근",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "37주차",
+      "song": "내가 저지른 사랑",
+      "artist": "임창정",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "38주차",
+      "song": "내가 저지른 사랑",
+      "artist": "임창정",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "39주차",
+      "song": "내가 저지른 사랑",
+      "artist": "임창정",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "40주차",
+      "song": "숨",
+      "artist": "박효신",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "41주차",
+      "song": "세 단어",
+      "artist": "젝스키스",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "42주차",
+      "song": "피 땀 눈물",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "43주차",
+      "song": "너무너무너무",
+      "artist": "아이오아이",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "44주차",
+      "song": "TT",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "45주차",
+      "song": "TT",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "46주차",
+      "song": "TT",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "47주차",
+      "song": "TT",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "48주차",
+      "song": "나비잠 (Sweet Dream)",
+      "artist": "김희철, 민경훈",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "49주차",
+      "song": "이 바보야",
+      "artist": "정승환",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "50주차",
+      "song": "저 별",
+      "artist": "헤이즈",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "51주차",
+      "song": "에라 모르겠다",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "52주차",
+      "song": "에라 모르겠다",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2016,
+      "week": "53주차",
+      "song": "에라 모르겠다",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2016년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "1주차",
+      "song": "당신의 밤 (Feat. 오혁)",
+      "artist": "황광희 X 개코",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "2주차",
+      "song": "첫눈처럼 너에게 가겠다",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "3주차",
+      "song": "첫눈처럼 너에게 가겠다",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "4주차",
+      "song": "첫눈처럼 너에게 가겠다",
+      "artist": "에일리",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "5주차",
+      "song": "노래",
+      "artist": "Zion.T",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "6주차",
+      "song": "YESTERDAY",
+      "artist": "블락비",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "7주차",
+      "song": "봄날",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "8주차",
+      "song": "KNOCK KNOCK",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "9주차",
+      "song": "Fine",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "10주차",
+      "song": "Fine",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "11주차",
+      "song": "부담이 돼 (Feat. 휘인 of 마마무)",
+      "artist": "정키",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "12주차",
+      "song": "얼굴 찌푸리지 말아요",
+      "artist": "하이라이트",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "13주차",
+      "song": "밤편지",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "14주차",
+      "song": "REALLY REALLY",
+      "artist": "위너",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "15주차",
+      "song": "사랑이 잘 (With 오혁)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "16주차",
+      "song": "팔레트 (Feat. 지드래곤)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "17주차",
+      "song": "팔레트 (Feat. 지드래곤)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "18주차",
+      "song": "아프지 마요",
+      "artist": "젝스키스",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "19주차",
+      "song": "I LUV IT",
+      "artist": "싸이",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "20주차",
+      "song": "SIGNAL",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "21주차",
+      "song": "SIGNAL",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "22주차",
+      "song": "LONELY",
+      "artist": "씨스타",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "23주차",
+      "song": "무제(無題)",
+      "artist": "지드래곤",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "24주차",
+      "song": "남이 될 수 있을까",
+      "artist": "볼빨간사춘기, 스무살",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "25주차",
+      "song": "남이 될 수 있을까",
+      "artist": "볼빨간사춘기, 스무살",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "26주차",
+      "song": "널 너무 모르고",
+      "artist": "헤이즈",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "27주차",
+      "song": "비도 오고 그래서 (Feat. 신용재)",
+      "artist": "헤이즈",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "28주차",
+      "song": "빨간 맛 (Red Flavor)",
+      "artist": "레드벨벳",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "29주차",
+      "song": "Ko Ko Bop",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "30주차",
+      "song": "Ko Ko Bop",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "31주차",
+      "song": "Ko Ko Bop",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "32주차",
+      "song": "에너제틱 (Energetic)",
+      "artist": "워너원",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "33주차",
+      "song": "Ko Ko Bop",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "34주차",
+      "song": "좋니",
+      "artist": "윤종신",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "35주차",
+      "song": "가시나",
+      "artist": "선미",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "36주차",
+      "song": "시차 (We Are) (Feat. 로꼬 & 그레이)",
+      "artist": "우원재",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "37주차",
+      "song": "시차 (We Are) (Feat. 로꼬 & 그레이)",
+      "artist": "우원재",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "38주차",
+      "song": "가을 아침",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "39주차",
+      "song": "특별해",
+      "artist": "젝스키스",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "40주차",
+      "song": "썸 탈꺼야",
+      "artist": "볼빨간사춘기",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "41주차",
+      "song": "WHERE YOU AT",
+      "artist": "뉴이스트W",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "42주차",
+      "song": "특별해",
+      "artist": "젝스키스",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "43주차",
+      "song": "연애소설 (Feat. 아이유)",
+      "artist": "에픽하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "44주차",
+      "song": "LIKEY",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "45주차",
+      "song": "그때의 나, 그때의 우리",
+      "artist": "어반자카파",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "46주차",
+      "song": "Beautiful",
+      "artist": "워너원",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "47주차",
+      "song": "좋아",
+      "artist": "윤종신, 민서",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "48주차",
+      "song": "기억의 빈자리",
+      "artist": "나얼",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "49주차",
+      "song": "눈 (Feat. 이문세)",
+      "artist": "Zion.T",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "50주차",
+      "song": "Heart Shaker",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "51주차",
+      "song": "Lonely (Feat. 태연)",
+      "artist": "종현",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2017,
+      "week": "52주차",
+      "song": "instagram",
+      "artist": "DEAN",
+      "source_page": "https://ko.wikipedia.org/wiki/2017년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "1주차",
+      "song": "겨울소리",
+      "artist": "박효신",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "2주차",
+      "song": "그날처럼",
+      "artist": "장덕철",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "3주차",
+      "song": "그날처럼",
+      "artist": "장덕철",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "4주차",
+      "song": "그날처럼",
+      "artist": "장덕철",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "5주차",
+      "song": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "6주차",
+      "song": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "7주차",
+      "song": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "8주차",
+      "song": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "9주차",
+      "song": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "10주차",
+      "song": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "11주차",
+      "song": "꽃 길",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "12주차",
+      "song": "꽃 길",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "13주차",
+      "song": "꽃 길",
+      "artist": "빅뱅",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "14주차",
+      "song": "바코드 (Prod. GroovyRoom)",
+      "artist": "김하온 (HAON), 이병재 (Vinxen)",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "15주차",
+      "song": "What is Love?",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "16주차",
+      "song": "지나오다",
+      "artist": "닐로",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "17주차",
+      "song": "주지마",
+      "artist": "로꼬, 화사",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "18주차",
+      "song": "주지마",
+      "artist": "로꼬, 화사",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "19주차",
+      "song": "주지마",
+      "artist": "로꼬, 화사",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "20주차",
+      "song": "주지마",
+      "artist": "로꼬, 화사",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "21주차",
+      "song": "FAKE LOVE",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "22주차",
+      "song": "여행",
+      "artist": "볼빨간사춘기",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "23주차",
+      "song": "여행",
+      "artist": "볼빨간사춘기",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "24주차",
+      "song": "여행",
+      "artist": "볼빨간사춘기",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "25주차",
+      "song": "뚜두뚜두 (DDU-DU DDU-DU)",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "26주차",
+      "song": "뚜두뚜두 (DDU-DU DDU-DU)",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "27주차",
+      "song": "뚜두뚜두 (DDU-DU DDU-DU)",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "28주차",
+      "song": "Dance The Night Away",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "29주차",
+      "song": "Way Back Home",
+      "artist": "숀 (SHAUN)",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "30주차",
+      "song": "Way Back Home",
+      "artist": "숀 (SHAUN)",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "31주차",
+      "song": "SoulMate (Feat. 아이유)",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "32주차",
+      "song": "Power Up",
+      "artist": "레드벨벳",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "33주차",
+      "song": "Power Up",
+      "artist": "레드벨벳",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "34주차",
+      "song": "Way Back Home",
+      "artist": "숀 (SHAUN)",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "35주차",
+      "song": "IDOL",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "36주차",
+      "song": "사이렌 (Siren)",
+      "artist": "선미",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "37주차",
+      "song": "사이렌 (Siren)",
+      "artist": "선미",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "38주차",
+      "song": "우리 그만하자",
+      "artist": "로이킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "39주차",
+      "song": "하루도 그대를 사랑하지 않은 적이 없었다",
+      "artist": "임창정",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "40주차",
+      "song": "하루도 그대를 사랑하지 않은 적이 없었다",
+      "artist": "임창정",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "41주차",
+      "song": "삐삐",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "42주차",
+      "song": "삐삐",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "43주차",
+      "song": "삐삐",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "44주차",
+      "song": "너를 만나",
+      "artist": "폴 킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "45주차",
+      "song": "Yes or Yes",
+      "artist": "TWICE",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "46주차",
+      "song": "SOLO",
+      "artist": "제니",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "47주차",
+      "song": "SOLO",
+      "artist": "제니",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "48주차",
+      "song": "아낙네",
+      "artist": "송민호",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "49주차",
+      "song": "아낙네",
+      "artist": "송민호",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "50주차",
+      "song": "180도",
+      "artist": "벤",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "51주차",
+      "song": "180도",
+      "artist": "벤",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2018,
+      "week": "52주차",
+      "song": "180도",
+      "artist": "벤",
+      "source_page": "https://ko.wikipedia.org/wiki/2018년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "1주차",
+      "song": "180도",
+      "artist": "벤",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "2주차",
+      "song": "넘쳐흘러",
+      "artist": "엠씨 더 맥스",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "3주차",
+      "song": "넘쳐흘러",
+      "artist": "엠씨 더 맥스",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "4주차",
+      "song": "넘쳐흘러",
+      "artist": "엠씨 더 맥스",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "5주차",
+      "song": "이 노래가 클럽에서 나온다면",
+      "artist": "우디",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "6주차",
+      "song": "이 노래가 클럽에서 나온다면",
+      "artist": "우디",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "7주차",
+      "song": "이 노래가 클럽에서 나온다면",
+      "artist": "우디",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "8주차",
+      "song": "멍청이(twit)",
+      "artist": "화사",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "9주차",
+      "song": "옥탑방",
+      "artist": "엔플라잉",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "10주차",
+      "song": "옥탑방",
+      "artist": "엔플라잉",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "11주차",
+      "song": "술이 달다 (Feat. 크러쉬)",
+      "artist": "에픽하이",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "12주차",
+      "song": "그건 아마 우리의 잘못은 아닐 거야",
+      "artist": "백예린",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "13주차",
+      "song": "사계 (Four Seasons)",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "14주차",
+      "song": "사계 (Four Seasons)",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "15주차",
+      "song": "나만, 봄",
+      "artist": "볼빨간사춘기",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "16주차",
+      "song": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "17주차",
+      "song": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "18주차",
+      "song": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "19주차",
+      "song": "Goodbye",
+      "artist": "박효신",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "20주차",
+      "song": "주저하는 연인들을 위해",
+      "artist": "잔나비",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "21주차",
+      "song": "사랑에 연습이 있었다면 (Prod. 2soo)",
+      "artist": "임재현",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "22주차",
+      "song": "사랑에 연습이 있었다면 (Prod. 2soo)",
+      "artist": "임재현",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "23주차",
+      "song": "사랑에 연습이 있었다면 (Prod. 2soo)",
+      "artist": "임재현",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "24주차",
+      "song": "솔직하게 말해서 나",
+      "artist": "김나영",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "25주차",
+      "song": "솔직하게 말해서 나",
+      "artist": "김나영",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "26주차",
+      "song": "술이 문제야",
+      "artist": "장혜진, 윤민수",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "27주차",
+      "song": "술이 문제야",
+      "artist": "장혜진, 윤민수",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "28주차",
+      "song": "헤어져줘서 고마워",
+      "artist": "벤",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "29주차",
+      "song": "헤어져줘서 고마워",
+      "artist": "벤",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "30주차",
+      "song": "그대라는 시",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "31주차",
+      "song": "그대라는 시",
+      "artist": "태연",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "32주차",
+      "song": "기억해줘요 내 모든 날과 그때를",
+      "artist": "거미",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "33주차",
+      "song": "안녕",
+      "artist": "폴 킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "34주차",
+      "song": "Done For Me",
+      "artist": "펀치",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "35주차",
+      "song": "안녕",
+      "artist": "폴 킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "36주차",
+      "song": "안녕",
+      "artist": "폴 킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "37주차",
+      "song": "안녕",
+      "artist": "폴 킴",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "38주차",
+      "song": "워커홀릭",
+      "artist": "볼빨간사춘기",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "39주차",
+      "song": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야",
+      "artist": "장범준",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "40주차",
+      "song": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "41주차",
+      "song": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "42주차",
+      "song": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "43주차",
+      "song": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+      "artist": "악동뮤지션",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "44주차",
+      "song": "인기 (Feat. 송가인, 챈슬러)",
+      "artist": "MC몽",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "45주차",
+      "song": "Love poem",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "46주차",
+      "song": "늦은 밤 너의 집 앞 골목길에서",
+      "artist": "노을",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "47주차",
+      "song": "Blueming",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "48주차",
+      "song": "Blueming",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "49주차",
+      "song": "Blueming",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "50주차",
+      "song": "Blueming",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "51주차",
+      "song": "Square (2017)",
+      "artist": "백예린",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2019,
+      "week": "52주차",
+      "song": "METEOR",
+      "artist": "창모",
+      "source_page": "https://ko.wikipedia.org/wiki/2019년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "1주차",
+      "song": "METEOR",
+      "artist": "창모",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "2주차",
+      "song": "METEOR",
+      "artist": "창모",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "3주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "4주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "5주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "6주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "7주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "8주차",
+      "song": "마음을 드려요",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "9주차",
+      "song": "ON",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "10주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "11주차",
+      "song": "아무노래",
+      "artist": "지코",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "12주차",
+      "song": "시작",
+      "artist": "가호",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "13주차",
+      "song": "시작",
+      "artist": "가호",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "14주차",
+      "song": "처음처럼",
+      "artist": "엠씨더맥스",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "15주차",
+      "song": "시작",
+      "artist": "가호",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "16주차",
+      "song": "아로하",
+      "artist": "조정석",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "17주차",
+      "song": "아로하",
+      "artist": "조정석",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "18주차",
+      "song": "아로하",
+      "artist": "조정석",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "19주차",
+      "song": "에잇 (Prod.&Feat. SUGA of BTS)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "20주차",
+      "song": "에잇 (Prod.&Feat. SUGA of BTS)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "21주차",
+      "song": "에잇 (Prod.&Feat. SUGA of BTS)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "22주차",
+      "song": "사랑하게 될 줄 알았어",
+      "artist": "전미도",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "23주차",
+      "song": "사랑하게 될 줄 알았어",
+      "artist": "전미도",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "24주차",
+      "song": "에잇 (Prod.&Feat. SUGA of BTS)",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "25주차",
+      "song": "Downtown Baby",
+      "artist": "블루 (BLOO)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "26주차",
+      "song": "Downtown Baby",
+      "artist": "블루 (BLOO)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "27주차",
+      "song": "How You Like That",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "28주차",
+      "song": "How You Like That",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "29주차",
+      "song": "How You Like That",
+      "artist": "BLACKPINK",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "30주차",
+      "song": "다시 여기 바닷가",
+      "artist": "싹쓰리 (유두래곤, 린다G, 비룡)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "31주차",
+      "song": "다시 여기 바닷가",
+      "artist": "싹쓰리 (유두래곤, 린다G, 비룡)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "32주차",
+      "song": "다시 여기 바닷가",
+      "artist": "싹쓰리 (유두래곤, 린다G, 비룡)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "33주차",
+      "song": "다시 여기 바닷가",
+      "artist": "싹쓰리 (유두래곤, 린다G, 비룡)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "34주차",
+      "song": "다시 여기 바닷가",
+      "artist": "싹쓰리 (유두래곤, 린다G, 비룡)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "35주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "36주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "37주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "38주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "39주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "40주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "41주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "42주차",
+      "song": "DON`T TOUCH ME",
+      "artist": "환불원정대",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "43주차",
+      "song": "DON`T TOUCH ME",
+      "artist": "환불원정대",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "44주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "45주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "46주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "47주차",
+      "song": "Dynamite",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "48주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이 (Mirani), 먼치맨, Khundi Panda, 머쉬베놈 (MUSHVENOM)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "49주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이 (Mirani), 먼치맨, Khundi Panda, 머쉬베놈 (MUSHVENOM)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "50주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이 (Mirani), 먼치맨, Khundi Panda, 머쉬베놈 (MUSHVENOM)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "51주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이 (Mirani), 먼치맨, Khundi Panda, 머쉬베놈 (MUSHVENOM)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2020,
+      "week": "52주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이 (Mirani), 먼치맨, Khundi Panda, 머쉬베놈 (MUSHVENOM)",
+      "source_page": "https://ko.wikipedia.org/wiki/2020년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "1주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이, 먼치맨, Khundi Panda, 머쉬베놈",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "2주차",
+      "song": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "artist": "미란이, 먼치맨, Khundi Panda, 머쉬베놈",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "3주차",
+      "song": "밤하늘의 별을(2020)",
+      "artist": "경서",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "4주차",
+      "song": "밤하늘의 별을(2020)",
+      "artist": "경서",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "5주차",
+      "song": "Celebrity",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "6주차",
+      "song": "Celebrity",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "7주차",
+      "song": "Celebrity",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "8주차",
+      "song": "Celebrity",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "9주차",
+      "song": "Celebrity",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "10주차",
+      "song": "Celebrity",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "11주차",
+      "song": "별빛 같은 나의 사랑아",
+      "artist": "임영웅",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "12주차",
+      "song": "롤린 (Rollin')",
+      "artist": "브레이브걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "13주차",
+      "song": "롤린 (Rollin')",
+      "artist": "브레이브걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "14주차",
+      "song": "라일락",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "15주차",
+      "song": "라일락",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "16주차",
+      "song": "Antidote",
+      "artist": "강다니엘",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "17주차",
+      "song": "롤린 (Rollin')",
+      "artist": "브레이브걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "18주차",
+      "song": "롤린 (Rollin')",
+      "artist": "브레이브걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "19주차",
+      "song": "롤린 (Rollin')",
+      "artist": "브레이브걸스",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "20주차",
+      "song": "맛 (Hot Sauce)",
+      "artist": "NCT DREAM",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "21주차",
+      "song": "Dun Dun Dance",
+      "artist": "오마이걸",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "22주차",
+      "song": "Butter",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "23주차",
+      "song": "Butter",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "24주차",
+      "song": "Butter",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "25주차",
+      "song": "Butter",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "26주차",
+      "song": "Butter",
+      "artist": "방탄소년단",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "27주차",
+      "song": "바라만 본다",
+      "artist": "MSG워너비 (M.O.M)",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "28주차",
+      "song": "바라만 본다",
+      "artist": "MSG워너비 (M.O.M)",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "29주차",
+      "song": "바라만 본다",
+      "artist": "MSG워너비 (M.O.M)",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "30주차",
+      "song": "바라만 본다",
+      "artist": "MSG워너비 (M.O.M)",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "31주차",
+      "song": "바라만 본다",
+      "artist": "MSG워너비 (M.O.M)",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "32주차",
+      "song": "낙하 (with 아이유)",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "33주차",
+      "song": "신호등",
+      "artist": "이무진",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "34주차",
+      "song": "신호등",
+      "artist": "이무진",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "35주차",
+      "song": "신호등",
+      "artist": "이무진",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "36주차",
+      "song": "Stay",
+      "artist": "더 키드 라로이, Justin Bieber",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "37주차",
+      "song": "Stay",
+      "artist": "더 키드 라로이, Justin Bieber",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "38주차",
+      "song": "Stay",
+      "artist": "더 키드 라로이, Justin Bieber",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "39주차",
+      "song": "Stay",
+      "artist": "더 키드 라로이, Justin Bieber",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "40주차",
+      "song": "Stay",
+      "artist": "더 키드 라로이, Justin Bieber",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "41주차",
+      "song": "Stay",
+      "artist": "더 키드 라로이, Justin Bieber",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "42주차",
+      "song": "사랑은 늘 도망가",
+      "artist": "임영웅",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "43주차",
+      "song": "strawberry moon",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "44주차",
+      "song": "strawberry moon",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "45주차",
+      "song": "strawberry moon",
+      "artist": "아이유",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "46주차",
+      "song": "쉬어 (Feat. MINO) (Prod. GRAY)",
+      "artist": "아넌딜라이트, unofficialboyy, 비오, 지구인 (래퍼), 머드 더 스튜던트",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "47주차",
+      "song": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+      "artist": "소코도모",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "48주차",
+      "song": "리무진 (Feat. MINO) (Prod. GRAY)",
+      "artist": "비오",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "49주차",
+      "song": "리무진 (Feat. MINO) (Prod. GRAY)",
+      "artist": "비오",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "50주차",
+      "song": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+      "artist": "소코도모",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "51주차",
+      "song": "Counting Stars (Feat. Beenzino)",
+      "artist": "비오",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2021,
+      "week": "52주차",
+      "song": "Counting Stars (Feat. Beenzino)",
+      "artist": "비오",
+      "source_page": "https://ko.wikipedia.org/wiki/2021년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "1주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "2주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "3주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "4주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "5주차",
+      "song": "Ay-Yo",
+      "artist": "NCT 127",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "6주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "7주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "8주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "9주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "10주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "11주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "12주차",
+      "song": "Ditto",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "13주차",
+      "song": "Kitsch",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "14주차",
+      "song": "Kitsch",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "15주차",
+      "song": "Kitsch",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "16주차",
+      "song": "I AM",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "17주차",
+      "song": "I AM",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "18주차",
+      "song": "I AM",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "19주차",
+      "song": "I AM",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "20주차",
+      "song": "I AM",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "21주차",
+      "song": "I AM",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "22주차",
+      "song": "퀸카 (Queencard)",
+      "artist": "(여자)아이들",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "23주차",
+      "song": "모래 알갱이",
+      "artist": "임영웅",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "24주차",
+      "song": "퀸카 (Queencard)",
+      "artist": "(여자)아이들",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "25주차",
+      "song": "퀸카 (Queencard)",
+      "artist": "(여자)아이들",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "26주차",
+      "song": "퀸카 (Queencard)",
+      "artist": "(여자)아이들",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "27주차",
+      "song": "퀸카 (Queencard)",
+      "artist": "(여자)아이들",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "28주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "29주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "30주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "31주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "32주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "33주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "34주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "35주차",
+      "song": "Super Shy",
+      "artist": "NewJeans",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "36주차",
+      "song": "Love Lee",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "37주차",
+      "song": "Love Lee",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "38주차",
+      "song": "Love Lee",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "39주차",
+      "song": "Love Lee",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "40주차",
+      "song": "Love Lee",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "41주차",
+      "song": "Do or Die",
+      "artist": "임영웅",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "42주차",
+      "song": "Love Lee",
+      "artist": "AKMU",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "43주차",
+      "song": "음악의 신",
+      "artist": "세븐틴",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "44주차",
+      "song": "Baddie",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "45주차",
+      "song": "Baddie",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "46주차",
+      "song": "Baddie",
+      "artist": "IVE",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "47주차",
+      "song": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "48주차",
+      "song": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "49주차",
+      "song": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "50주차",
+      "song": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "51주차",
+      "song": "첫 눈",
+      "artist": "EXO",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    },
+    {
+      "year": 2023,
+      "week": "52주차",
+      "song": "Be There For Me",
+      "artist": "NCT 127",
+      "source_page": "https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    }
+  ],
+  "meta": {
+    "title": "가온 디지털 차트 주간 1위 곡 목록 (2010~2023) - Free Download",
+    "description": "가온(현 써클) 디지털 차트의 연도별 주간 1위 곡과 가수 (2010~2021년, 2023년). Contains 679 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "가온 디지털 차트 주간 1위 곡 목록 (2010~2023) | ListBase",
+    "seo_description": "Download 가온 디지털 차트 주간 1위 곡 목록 (2010~2023) — 679 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 679 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/2023년_가온_디지털_차트_1위_목록"
+    ]
+  }
+}
