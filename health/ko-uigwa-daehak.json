@@ -1,0 +1,376 @@
+{
+  "id": "ko-uigwa-daehak",
+  "name": "대한민국의 의과대학 목록",
+  "title": "대한민국의 의과대학 목록",
+  "description": "대한민국 의과대학의 지역, 설립 유형, 설립 연도, 의학전문대학원 유지 여부와 입학정원.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_의과대학",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_의과대학",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "medical_graduate_school",
+      "label": "Medical Graduate School",
+      "type": "string"
+    },
+    {
+      "key": "admission_quota",
+      "label": "Admission Quota",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1954,
+      "university": "가톨릭대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 93
+    },
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1965,
+      "university": "경희대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 110
+    },
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1928,
+      "university": "고려대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 106
+    },
+    {
+      "region": "서울특별시",
+      "type": "국립",
+      "founded": 1899,
+      "university": "서울대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 135
+    },
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1886,
+      "university": "연세대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 110
+    },
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1945,
+      "university": "이화여자대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 76
+    },
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1971,
+      "university": "중앙대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 86
+    },
+    {
+      "region": "서울특별시",
+      "type": "사립",
+      "founded": 1968,
+      "university": "한양대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 110
+    },
+    {
+      "region": "경기도",
+      "type": "사립",
+      "founded": 1997,
+      "university": "성균관대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 40
+    },
+    {
+      "region": "경기도",
+      "type": "사립",
+      "founded": 1988,
+      "university": "아주대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 40
+    },
+    {
+      "region": "경기도",
+      "type": "사립",
+      "founded": 1997,
+      "university": "차의과학대학교",
+      "medical_graduate_school": "유지",
+      "admission_quota": 40
+    },
+    {
+      "region": "인천광역시",
+      "type": "사립",
+      "founded": 1997,
+      "university": "가천대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 40
+    },
+    {
+      "region": "인천광역시",
+      "type": "사립",
+      "founded": 1985,
+      "university": "인하대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 49
+    },
+    {
+      "region": "강원특별자치도",
+      "type": "사립",
+      "founded": 1995,
+      "university": "가톨릭관동대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 49
+    },
+    {
+      "region": "강원특별자치도",
+      "type": "국립",
+      "founded": 1997,
+      "university": "강원대학교",
+      "medical_graduate_school": "2022년 이후 폐지",
+      "admission_quota": 49
+    },
+    {
+      "region": "강원특별자치도",
+      "type": "사립",
+      "founded": 1977,
+      "university": "연세대학교 미래캠퍼스",
+      "medical_graduate_school": "없음",
+      "admission_quota": 93
+    },
+    {
+      "region": "강원특별자치도",
+      "type": "사립",
+      "founded": 1982,
+      "university": "한림대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 76
+    },
+    {
+      "region": "충청남도",
+      "type": "사립",
+      "founded": 1988,
+      "university": "단국대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 40
+    },
+    {
+      "region": "충청남도",
+      "type": "사립",
+      "founded": 1978,
+      "university": "순천향대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 93
+    },
+    {
+      "region": "대전광역시",
+      "type": "사립",
+      "founded": 1995,
+      "university": "건양대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 49
+    },
+    {
+      "region": "대전광역시",
+      "type": "사립",
+      "founded": 1997,
+      "university": "을지대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 40
+    },
+    {
+      "region": "대전광역시",
+      "type": "국립",
+      "founded": 1968,
+      "university": "충남대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 110
+    },
+    {
+      "region": "충청북도",
+      "type": "사립",
+      "founded": 1986,
+      "university": "건국대학교 글로컬캠퍼스",
+      "medical_graduate_school": "2024년 이후 폐지",
+      "admission_quota": 40
+    },
+    {
+      "region": "충청북도",
+      "type": "국립",
+      "founded": 1987,
+      "university": "충북대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 49
+    },
+    {
+      "region": "부산광역시",
+      "type": "사립",
+      "founded": 1980,
+      "university": "고신대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 76
+    },
+    {
+      "region": "부산광역시",
+      "type": "사립",
+      "founded": 1984,
+      "university": "동아대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 49
+    },
+    {
+      "region": "부산광역시",
+      "type": "국립",
+      "founded": 1953,
+      "university": "부산대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 125
+    },
+    {
+      "region": "울산광역시",
+      "type": "사립",
+      "founded": 1987,
+      "university": "울산대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 40
+    },
+    {
+      "region": "대구광역시",
+      "type": "국립",
+      "founded": 1923,
+      "university": "경북대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 110
+    },
+    {
+      "region": "대구광역시",
+      "type": "사립",
+      "founded": 1979,
+      "university": "계명대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 76
+    },
+    {
+      "region": "대구광역시",
+      "type": "사립",
+      "founded": 1991,
+      "university": "대구가톨릭대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 40
+    },
+    {
+      "region": "대구광역시",
+      "type": "사립",
+      "founded": 1979,
+      "university": "영남대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 76
+    },
+    {
+      "region": "경상북도",
+      "type": "사립",
+      "founded": 1985,
+      "university": "동국대학교 WISE캠퍼스",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 49
+    },
+    {
+      "region": "경상남도",
+      "type": "국립",
+      "founded": 1980,
+      "university": "경상국립대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 76
+    },
+    {
+      "region": "경상남도",
+      "type": "사립",
+      "founded": 1979,
+      "university": "인제대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 93
+    },
+    {
+      "region": "광주광역시",
+      "type": "국립",
+      "founded": 1944,
+      "university": "전남대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 125
+    },
+    {
+      "region": "광주광역시",
+      "type": "사립",
+      "founded": 1966,
+      "university": "조선대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 125
+    },
+    {
+      "region": "전북특별자치도",
+      "type": "사립",
+      "founded": 1981,
+      "university": "원광대학교",
+      "medical_graduate_school": "없음",
+      "admission_quota": 93
+    },
+    {
+      "region": "전북특별자치도",
+      "type": "국립",
+      "founded": 1970,
+      "university": "전북대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 142
+    },
+    {
+      "region": "제주특별자치도",
+      "type": "국립",
+      "founded": 1998,
+      "university": "제주대학교",
+      "medical_graduate_school": "폐지",
+      "admission_quota": 40
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 의과대학 목록 - Free Download",
+    "description": "대한민국 의과대학의 지역, 설립 유형, 설립 연도, 의학전문대학원 유지 여부와 입학정원. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 의과대학 목록 | ListBase",
+    "seo_description": "Download 대한민국의 의과대학 목록 — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_의과대학"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-28T02:28:05.301Z",
-  "total_datasets": 531,
-  "total_records": 455071,
+  "generated": "2026-10-28T02:28:07.879Z",
+  "total_datasets": 532,
+  "total_records": 455111,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -7234,6 +7234,33 @@
         "xlsx": {
           "name": "ko-sikpum-uiyakpum-anjeoncheojang_KO.xlsx",
           "size": 7946
+        }
+      }
+    },
+    {
+      "id": "ko-uigwa-daehak",
+      "name": "대한민국의 의과대학 목록",
+      "category": "health",
+      "record_count": 40,
+      "columns": [
+        "region",
+        "type",
+        "founded",
+        "university",
+        "medical_graduate_school",
+        "admission_quota"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_의과대학",
+      "updated": "2026-10",
+      "size": 10125,
+      "files": {
+        "csv": {
+          "name": "ko-uigwa-daehak_KO.csv",
+          "size": 2863
+        },
+        "xlsx": {
+          "name": "ko-uigwa-daehak_KO.xlsx",
+          "size": 8354
         }
       }
     },
