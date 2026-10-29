@@ -1,0 +1,212 @@
+{
+  "id": "ko-gukga-saneop-danji",
+  "name": "대한민국의 국가산업단지 목록",
+  "title": "대한민국의 국가산업단지 목록",
+  "description": "대한민국의 시·도별 국가산업단지 목록",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_국가산업단지_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_국가산업단지_목록",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "서울디지털국가산업단지",
+      "region": "서울특별시"
+    },
+    {
+      "name": "명지녹산국가산업단지",
+      "region": "부산광역시"
+    },
+    {
+      "name": "대구국가산업단지",
+      "region": "대구광역시"
+    },
+    {
+      "name": "남동인더스파크",
+      "region": "인천광역시"
+    },
+    {
+      "name": "부평주안국가산업단지",
+      "region": "인천광역시"
+    },
+    {
+      "name": "광주첨단과학산업단지",
+      "region": "광주광역시"
+    },
+    {
+      "name": "대덕연구개발특구",
+      "region": "대전광역시"
+    },
+    {
+      "name": "온산국가산업단지",
+      "region": "울산광역시"
+    },
+    {
+      "name": "울산미포국가산업단지",
+      "region": "울산광역시"
+    },
+    {
+      "name": "반월특수지역 (반월지구)",
+      "region": "경기도"
+    },
+    {
+      "name": "반월특수지역 (시화지구)",
+      "region": "경기도"
+    },
+    {
+      "name": "파주출판문화정보산업단지 (파주출판도시)",
+      "region": "경기도"
+    },
+    {
+      "name": "파주탄현중소기업전용국가산업단지",
+      "region": "경기도"
+    },
+    {
+      "name": "북평국가산업단지",
+      "region": "강원도"
+    },
+    {
+      "name": "부론국가산업단지",
+      "region": "강원도"
+    },
+    {
+      "name": "보은국가산업단지",
+      "region": "충청북도"
+    },
+    {
+      "name": "오송생명과학산업단지",
+      "region": "충청북도"
+    },
+    {
+      "name": "고정국가산업단지",
+      "region": "충청남도"
+    },
+    {
+      "name": "대죽자원비축산업단지",
+      "region": "충청남도"
+    },
+    {
+      "name": "석문국가산업단지",
+      "region": "충청남도"
+    },
+    {
+      "name": "아산국가산업단지-고대, 부곡지구",
+      "region": "충청남도"
+    },
+    {
+      "name": "장항국가산업단지",
+      "region": "충청남도"
+    },
+    {
+      "name": "군산국가산업단지",
+      "region": "전북특별자치도"
+    },
+    {
+      "name": "익산국가산업단지",
+      "region": "전북특별자치도"
+    },
+    {
+      "name": "광양국가산업단지",
+      "region": "전라남도"
+    },
+    {
+      "name": "대불국가산업단지",
+      "region": "전라남도"
+    },
+    {
+      "name": "삼일자원비축단지",
+      "region": "전라남도"
+    },
+    {
+      "name": "여수국가산업단지",
+      "region": "전라남도"
+    },
+    {
+      "name": "구미국가산업단지 (구미)",
+      "region": "경상북도"
+    },
+    {
+      "name": "월성전원단지 (경주)",
+      "region": "경상북도"
+    },
+    {
+      "name": "SMR산업단지 (경주)",
+      "region": "경상북도"
+    },
+    {
+      "name": "포항국가산업단지 (포항)",
+      "region": "경상북도"
+    },
+    {
+      "name": "포항블루밸리국가산업단지 (포항)",
+      "region": "경상북도"
+    },
+    {
+      "name": "원전활용수소단지 (울진)",
+      "region": "경상북도"
+    },
+    {
+      "name": "안정국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "옥포국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "죽도국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "지세포자원비축단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "진해국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "창원국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "밀양나노융합국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "명지녹산국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "우주항공국가산업단지",
+      "region": "경상남도"
+    },
+    {
+      "name": "제주첨단과학기술단지",
+      "region": "제주특별자치도"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 국가산업단지 목록 - Free Download",
+    "description": "대한민국의 시·도별 국가산업단지 목록 Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 국가산업단지 목록 | ListBase",
+    "seo_description": "Download 대한민국의 국가산업단지 목록 — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_국가산업단지_목록"
+    ]
+  }
+}

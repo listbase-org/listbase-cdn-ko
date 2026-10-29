@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-28T02:28:07.879Z",
-  "total_datasets": 532,
-  "total_records": 455111,
+  "generated": "2026-10-29T02:16:55.756Z",
+  "total_datasets": 533,
+  "total_records": 455155,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -793,6 +793,29 @@
         "xlsx": {
           "name": "ko-eongmanjangja_KO.xlsx",
           "size": 8603
+        }
+      }
+    },
+    {
+      "id": "ko-gukga-saneop-danji",
+      "name": "대한민국의 국가산업단지 목록",
+      "category": "economy",
+      "record_count": 44,
+      "columns": [
+        "name",
+        "region"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_국가산업단지_목록",
+      "updated": "2026-10",
+      "size": 5375,
+      "files": {
+        "csv": {
+          "name": "ko-gukga-saneop-danji_KO.csv",
+          "size": 2124
+        },
+        "xlsx": {
+          "name": "ko-gukga-saneop-danji_KO.xlsx",
+          "size": 7817
         }
       }
     },
