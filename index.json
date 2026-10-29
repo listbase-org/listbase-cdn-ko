@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-29T02:17:00.684Z",
-  "total_datasets": 535,
-  "total_records": 455372,
+  "generated": "2026-10-29T02:17:03.054Z",
+  "total_datasets": 536,
+  "total_records": 455572,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "food",
@@ -3324,6 +3324,30 @@
         "xlsx": {
           "name": "ko-gukga_KO.xlsx",
           "size": 48149
+        }
+      }
+    },
+    {
+      "id": "ko-kospi-200",
+      "name": "코스피 200 구성 종목",
+      "category": "finance",
+      "record_count": 200,
+      "columns": [
+        "company",
+        "ticker",
+        "gics_sector"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/코스피_200",
+      "updated": "2026-10",
+      "size": 23290,
+      "files": {
+        "csv": {
+          "name": "ko-kospi-200_KO.csv",
+          "size": 8197
+        },
+        "xlsx": {
+          "name": "ko-kospi-200_KO.xlsx",
+          "size": 12449
         }
       }
     },

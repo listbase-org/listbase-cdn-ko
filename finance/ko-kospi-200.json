@@ -1,0 +1,1041 @@
+{
+  "id": "ko-kospi-200",
+  "name": "코스피 200 구성 종목",
+  "title": "코스피 200 구성 종목",
+  "description": "코스피 200 지수 구성 종목 목록 (회사명, 종목코드, GICS 섹터)",
+  "category": "finance",
+  "source": "https://ko.wikipedia.org/wiki/코스피_200",
+  "source_url": "https://ko.wikipedia.org/wiki/코스피_200",
+  "updated": "2026-10",
+  "record_count": 200,
+  "columns": [
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "ticker",
+      "label": "Ticker",
+      "type": "number"
+    },
+    {
+      "key": "gics_sector",
+      "label": "Gics Sector",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "company": "BGF리테일",
+      "ticker": "282330",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "BNK금융지주",
+      "ticker": "138930",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "CJ",
+      "ticker": "001040",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "CJ대한통운",
+      "ticker": "000120",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "CJ제일제당",
+      "ticker": "097950",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "DB손해보험",
+      "ticker": "005830",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "DB하이텍",
+      "ticker": "000990",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "DL",
+      "ticker": "000210",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "DL이앤씨",
+      "ticker": "375500",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "DN오토모티브",
+      "ticker": "007340",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "F&F",
+      "ticker": "383220",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "GS",
+      "ticker": "078930",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "GS리테일",
+      "ticker": "007070",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "HD건설기계",
+      "ticker": "267270",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "HD한국조선해양",
+      "ticker": "009540",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "HD현대",
+      "ticker": "267250",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "HD현대마린솔루션",
+      "ticker": "443060",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "HD현대마린엔진",
+      "ticker": "071970",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "HD현대일렉트릭",
+      "ticker": "267260",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "HD현대중공업",
+      "ticker": "329180",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "HL만도",
+      "ticker": "204320",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "HMM",
+      "ticker": "011200",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "HS효성첨단소재",
+      "ticker": "298050",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "JB금융지주",
+      "ticker": "175330",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "KB금융",
+      "ticker": "105560",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "KCC",
+      "ticker": "002380",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "KT",
+      "ticker": "030200",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "KT&G",
+      "ticker": "033780",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "LG",
+      "ticker": "003550",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "LG디스플레이",
+      "ticker": "034220",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "LG생활건강",
+      "ticker": "051900",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "LG씨엔에스",
+      "ticker": "064400",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "LG에너지솔루션",
+      "ticker": "373220",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "LG유플러스",
+      "ticker": "032640",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "LG이노텍",
+      "ticker": "011070",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "LG전자",
+      "ticker": "066570",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "LG화학",
+      "ticker": "051910",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "LIG디펜스앤에어로스페이스",
+      "ticker": "079550",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "LS",
+      "ticker": "006260",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "LS ELECTRIC",
+      "ticker": "010120",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "NAVER",
+      "ticker": "035420",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "NC",
+      "ticker": "036570",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "NH투자증권",
+      "ticker": "005940",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "OCI",
+      "ticker": "456040",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "OCI홀딩스",
+      "ticker": "010060",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "POSCO홀딩스",
+      "ticker": "005490",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "S-Oil",
+      "ticker": "010950",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "SK",
+      "ticker": "034730",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "SKC",
+      "ticker": "011790",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "SK바이오사이언스",
+      "ticker": "302440",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "SK바이오팜",
+      "ticker": "326030",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "SK스퀘어",
+      "ticker": "402340",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "SK아이이테크놀로지",
+      "ticker": "361610",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "SK이노베이션",
+      "ticker": "096770",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "SK케미칼",
+      "ticker": "285130",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "SK텔레콤",
+      "ticker": "017670",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "SK하이닉스",
+      "ticker": "000660",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "TKG휴켐스",
+      "ticker": "069260",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "iM금융지주",
+      "ticker": "139130",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "강원랜드",
+      "ticker": "035250",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "고려아연",
+      "ticker": "010130",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "금호석유화학",
+      "ticker": "011780",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "금호타이어",
+      "ticker": "073240",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "기아",
+      "ticker": "000270",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "기업은행",
+      "ticker": "024110",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "넷마블",
+      "ticker": "251270",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "녹십자",
+      "ticker": "006280",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "농심",
+      "ticker": "004370",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "달바글로벌",
+      "ticker": "483650",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "대상",
+      "ticker": "001680",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "대우건설",
+      "ticker": "047040",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "대웅",
+      "ticker": "003090",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "대웅제약",
+      "ticker": "069620",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "대한유화",
+      "ticker": "006650",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "대한전선",
+      "ticker": "001440",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "대한항공",
+      "ticker": "003490",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "더블유게임즈",
+      "ticker": "192080",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "동서",
+      "ticker": "026960",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "동원산업",
+      "ticker": "006040",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "동원시스템즈",
+      "ticker": "014820",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "두산",
+      "ticker": "000150",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "두산로보틱스",
+      "ticker": "454910",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "두산밥캣",
+      "ticker": "241560",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "두산에너빌리티",
+      "ticker": "034020",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "롯데쇼핑",
+      "ticker": "023530",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "롯데웰푸드",
+      "ticker": "280360",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "롯데정밀화학",
+      "ticker": "004000",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "롯데지주",
+      "ticker": "004990",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "롯데칠성",
+      "ticker": "005300",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "롯데케미칼",
+      "ticker": "011170",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "메리츠금융지주",
+      "ticker": "138040",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "미래에셋증권",
+      "ticker": "006800",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "미스토홀딩스",
+      "ticker": "081660",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "미원상사",
+      "ticker": "002840",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "미원에스씨",
+      "ticker": "268280",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "산일전기",
+      "ticker": "062040",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "삼성E&A",
+      "ticker": "028050",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "삼성SDI",
+      "ticker": "006400",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "삼성물산",
+      "ticker": "028260",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "삼성바이오로직스",
+      "ticker": "207940",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "삼성생명",
+      "ticker": "032830",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "삼성에스디에스",
+      "ticker": "018260",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "삼성에피스홀딩스",
+      "ticker": "0126Z0",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "삼성전기",
+      "ticker": "009150",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "삼성전자",
+      "ticker": "005930",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "삼성중공업",
+      "ticker": "010140",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "삼성증권",
+      "ticker": "016360",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "삼성카드",
+      "ticker": "029780",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "삼성화재",
+      "ticker": "000810",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "삼양식품",
+      "ticker": "003230",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "세아베스틸지주",
+      "ticker": "001430",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "세아제강지주",
+      "ticker": "003030",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "셀트리온",
+      "ticker": "068270",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "신세계",
+      "ticker": "004170",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "신한지주",
+      "ticker": "055550",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "씨에스윈드",
+      "ticker": "112610",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "아모레퍼시픽",
+      "ticker": "090430",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "아모레퍼시픽홀딩스",
+      "ticker": "002790",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "아세아",
+      "ticker": "002030",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "에스디바이오센서",
+      "ticker": "137310",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "에스엘",
+      "ticker": "005850",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "에스원",
+      "ticker": "012750",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "에이피알",
+      "ticker": "111770",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "에코프로머티",
+      "ticker": "450080",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "엘앤에프",
+      "ticker": "066970",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "영원무역",
+      "ticker": "139480",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "영원무역홀딩스",
+      "ticker": "009970",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "영풍",
+      "ticker": "000670",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "오뚜기",
+      "ticker": "007310",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "오리온",
+      "ticker": "271560",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "오리온홀딩스",
+      "ticker": "001800",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "우리금융지주",
+      "ticker": "316140",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "유한양행",
+      "ticker": "000100",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "율촌화학",
+      "ticker": "008730",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "이마트",
+      "ticker": "139480",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "이수스페셜티케미컬",
+      "ticker": "457190",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "이수페타시스",
+      "ticker": "007660",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "제일기획",
+      "ticker": "030000",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "종근당",
+      "ticker": "185750",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "지역난방공사",
+      "ticker": "071320",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "카카오",
+      "ticker": "035720",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "카카오뱅크",
+      "ticker": "323410",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "카카오페이",
+      "ticker": "377300",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "코스맥스",
+      "ticker": "192820",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "코스모화학",
+      "ticker": "005420",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "코오롱인더",
+      "ticker": "120110",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "코웨이",
+      "ticker": "021240",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "크래프톤",
+      "ticker": "259960",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "키움증권",
+      "ticker": "039490",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "태광산업",
+      "ticker": "003240",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "파라다이스",
+      "ticker": "034230",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "팬오션",
+      "ticker": "028670",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "포스코DX",
+      "ticker": "022100",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "포스코인터내셔널",
+      "ticker": "047050",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "포스코퓨처엠",
+      "ticker": "003670",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "풍산",
+      "ticker": "103140",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "하나금융지주",
+      "ticker": "086790",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "하이브",
+      "ticker": "352820",
+      "gics_sector": "커뮤니케이션서비스"
+    },
+    {
+      "company": "하이트진로",
+      "ticker": "000080",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "한국가스공사",
+      "ticker": "036460",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "한국금융지주",
+      "ticker": "071050",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "한국앤컴퍼니",
+      "ticker": "000240",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "한국전력",
+      "ticker": "015760",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "한국카본",
+      "ticker": "017960",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "한국콜마",
+      "ticker": "161890",
+      "gics_sector": "생활소비재"
+    },
+    {
+      "company": "한국타이어앤테크놀로지",
+      "ticker": "161390",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "한국항공우주",
+      "ticker": "047810",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "한미반도체",
+      "ticker": "042700",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "한미사이언스",
+      "ticker": "008930",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "한미약품",
+      "ticker": "128940",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "한샘",
+      "ticker": "009240",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "한솔케미칼",
+      "ticker": "014680",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "한온시스템",
+      "ticker": "018880",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "한올바이오파마",
+      "ticker": "009420",
+      "gics_sector": "헬스케어"
+    },
+    {
+      "company": "한일시멘트",
+      "ticker": "300720",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "한전KPS",
+      "ticker": "051600",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "한전기술",
+      "ticker": "052690",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "한진칼",
+      "ticker": "180640",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "한화",
+      "ticker": "000880",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "한화생명",
+      "ticker": "088350",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "한화솔루션",
+      "ticker": "009830",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "한화시스템",
+      "ticker": "272210",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "한화에어로스페이스",
+      "ticker": "012450",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "한화엔진",
+      "ticker": "082740",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "한화오션",
+      "ticker": "042660",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "현대건설",
+      "ticker": "000720",
+      "gics_sector": "건설"
+    },
+    {
+      "company": "현대글로비스",
+      "ticker": "086280",
+      "gics_sector": "산업재"
+    },
+    {
+      "company": "현대로템",
+      "ticker": "064350",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "현대모비스",
+      "ticker": "012330",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "현대백화점",
+      "ticker": "069960",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "현대엘리베이터",
+      "ticker": "017800",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "현대오토에버",
+      "ticker": "307950",
+      "gics_sector": "정보기술"
+    },
+    {
+      "company": "현대위아",
+      "ticker": "011210",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "현대제철",
+      "ticker": "004020",
+      "gics_sector": "철강/소재"
+    },
+    {
+      "company": "현대차",
+      "ticker": "005380",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "현대해상",
+      "ticker": "001450",
+      "gics_sector": "금융"
+    },
+    {
+      "company": "호텔신라",
+      "ticker": "008770",
+      "gics_sector": "경기소비재"
+    },
+    {
+      "company": "효성중공업",
+      "ticker": "298040",
+      "gics_sector": "중공업"
+    },
+    {
+      "company": "효성티앤씨",
+      "ticker": "298020",
+      "gics_sector": "에너지/화학"
+    },
+    {
+      "company": "후성",
+      "ticker": "093370",
+      "gics_sector": "에너지/화학"
+    }
+  ],
+  "meta": {
+    "title": "코스피 200 구성 종목 - Free Download",
+    "description": "코스피 200 지수 구성 종목 목록 (회사명, 종목코드, GICS 섹터) Contains 200 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "코스피 200 구성 종목 | ListBase",
+    "seo_description": "Download 코스피 200 구성 종목 — 200 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 200 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/코스피_200"
+    ]
+  }
+}
