@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-29T02:17:03.054Z",
-  "total_datasets": 536,
-  "total_records": 455572,
+  "generated": "2026-10-29T02:22:08.371Z",
+  "total_datasets": 537,
+  "total_records": 455620,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -7966,6 +7966,30 @@
         "xlsx": {
           "name": "ko-gyeongchal-cheongjang_KO.xlsx",
           "size": 11675
+        }
+      }
+    },
+    {
+      "id": "ko-gyodoso-guchiso",
+      "name": "대한민국의 교도소·구치소 목록",
+      "category": "law",
+      "record_count": 48,
+      "columns": [
+        "name",
+        "type",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/교도소",
+      "updated": "2026-10",
+      "size": 5898,
+      "files": {
+        "csv": {
+          "name": "ko-gyodoso-guchiso_KO.csv",
+          "size": 1821
+        },
+        "xlsx": {
+          "name": "ko-gyodoso-guchiso_KO.xlsx",
+          "size": 7815
         }
       }
     },

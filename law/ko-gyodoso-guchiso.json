@@ -1,0 +1,281 @@
+{
+  "id": "ko-gyodoso-guchiso",
+  "name": "대한민국의 교도소·구치소 목록",
+  "title": "대한민국의 교도소·구치소 목록",
+  "description": "대한민국의 교도소, 구치소, 지소 및 직업훈련교도소 목록",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/교도소",
+  "source_url": "https://ko.wikipedia.org/wiki/교도소",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "강릉교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "경북북부교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "경북직업훈련교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "경주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "국군교도소",
+      "type": "교도소",
+      "note": "대한민국 국군 의 군사교도소"
+    },
+    {
+      "name": "공주교도소 논산지소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "광주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "군산교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "김천소년교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "대구교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "대구구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "대전교도소",
+      "type": "교도소",
+      "note": "대체복무요원 교육시설이 있다."
+    },
+    {
+      "name": "목포교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "밀양구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "부산교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "부산구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "상주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "서울구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "서울남부교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "서울남부구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "서울동부구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "소망교도소",
+      "type": "교도소",
+      "note": "최초의 민영교도소"
+    },
+    {
+      "name": "수원구치소 평택지소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "순천교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "안동교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "안양교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "여주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "영월교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "울산구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "원주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "의정부교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "인천구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "장흥교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "전주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "정읍교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "제주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "진주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "창원교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "천안개방교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "청주교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "청주여자교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "춘천교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "충주구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "통영구치소",
+      "type": "구치소",
+      "note": ""
+    },
+    {
+      "name": "포항교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "해남교도소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "홍성교도소 서산지소",
+      "type": "교도소",
+      "note": ""
+    },
+    {
+      "name": "화성직업훈련교도소",
+      "type": "교도소",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 교도소·구치소 목록 - Free Download",
+    "description": "대한민국의 교도소, 구치소, 지소 및 직업훈련교도소 목록 Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 교도소·구치소 목록 | ListBase",
+    "seo_description": "Download 대한민국의 교도소·구치소 목록 — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/교도소"
+    ]
+  }
+}
