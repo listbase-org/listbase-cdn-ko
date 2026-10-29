@@ -1,0 +1,361 @@
+{
+  "id": "ko-jeongbu-chulyeon-yeonguso",
+  "name": "대한민국의 정부출연연구기관 목록",
+  "title": "대한민국의 정부출연연구기관 목록",
+  "description": "경제·인문사회연구회 및 국가과학기술연구회 소관 정부출연연구기관(정출연)과 부설기관 목록",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/정부출연연구기관",
+  "source_url": "https://ko.wikipedia.org/wiki/정부출연연구기관",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "affiliated_institute",
+      "label": "Affiliated Institute",
+      "type": "string"
+    },
+    {
+      "key": "council",
+      "label": "Council",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "한국개발연구원",
+      "affiliated_institute": "부설 KDI국제정책대학원",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "국토연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "건축공간연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "과학기술정책연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "대외경제정책연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "산업연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "에너지경제연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "정보통신정책연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "통일연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국교육개발원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국교육과정평가원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국교통연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국노동연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국농촌경제연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국법제연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국보건사회연구원",
+      "affiliated_institute": "부설 육아정책연구소",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국여성정책연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국조세재정연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국직업능력연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국청소년정책연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국해양수산개발원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국행정연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국형사·법무정책연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국환경연구원",
+      "affiliated_institute": "",
+      "council": "경제·인문사회연구회 소관 정출연"
+    },
+    {
+      "name": "한국과학기술연구원",
+      "affiliated_institute": "부설 녹색기술센터",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국기초과학지원연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국핵융합에너지연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국천문연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국생명공학연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국과학기술정보연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국한의학연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국생산기술연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국전자통신연구원",
+      "affiliated_institute": "부설 국가보안기술연구소",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국건설기술연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국철도기술연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국표준과학연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국식품연구원",
+      "affiliated_institute": "부설 세계김치연구소",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국지질자원연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국기계연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국재료연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국항공우주연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국에너지기술연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국전기연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국화학연구원",
+      "affiliated_institute": "부설 안전성평가연구소",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국원자력연구원",
+      "affiliated_institute": "",
+      "council": "국가과학기술연구회 소관 정출연"
+    },
+    {
+      "name": "한국과학기술원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "광주과학기술원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "대구경북과학기술원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "울산과학기술원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "기초과학연구원",
+      "affiliated_institute": "부설 국가수리과학연구소",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "한국국방연구원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국방과학연구소",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "한국원자력안전기술원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "한국원자력의학원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "한국학중앙연구원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "한국해양과학기술원",
+      "affiliated_institute": "부설 극지연구소 부설 선박해양플랜트연구소",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "고등과학원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국방기술품질원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국립해양생물자원관",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "한국과학재단",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국립암센터",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국립생태원",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국립낙동강생물자원관",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    },
+    {
+      "name": "국립호남권생물자원관",
+      "affiliated_institute": "",
+      "council": "기타 정출연"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 정부출연연구기관 목록 - Free Download",
+    "description": "경제·인문사회연구회 및 국가과학기술연구회 소관 정부출연연구기관(정출연)과 부설기관 목록 Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 정부출연연구기관 목록 | ListBase",
+    "seo_description": "Download 대한민국의 정부출연연구기관 목록 — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/정부출연연구기관"
+    ]
+  }
+}

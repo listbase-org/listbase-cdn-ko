@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-29T02:16:58.213Z",
-  "total_datasets": 534,
-  "total_records": 455308,
+  "generated": "2026-10-29T02:17:00.684Z",
+  "total_datasets": 535,
+  "total_records": 455372,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -11484,6 +11484,30 @@
         "xlsx": {
           "name": "ko-ingong-wiseong_KO.xlsx",
           "size": 8936
+        }
+      }
+    },
+    {
+      "id": "ko-jeongbu-chulyeon-yeonguso",
+      "name": "대한민국의 정부출연연구기관 목록",
+      "category": "science",
+      "record_count": 64,
+      "columns": [
+        "name",
+        "affiliated_institute",
+        "council"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/정부출연연구기관",
+      "updated": "2026-10",
+      "size": 11171,
+      "files": {
+        "csv": {
+          "name": "ko-jeongbu-chulyeon-yeonguso_KO.csv",
+          "size": 4768
+        },
+        "xlsx": {
+          "name": "ko-jeongbu-chulyeon-yeonguso_KO.xlsx",
+          "size": 8389
         }
       }
     },
