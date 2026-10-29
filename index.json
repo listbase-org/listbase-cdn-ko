@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-29T02:16:55.756Z",
-  "total_datasets": 533,
-  "total_records": 455155,
+  "generated": "2026-10-29T02:16:58.213Z",
+  "total_datasets": 534,
+  "total_records": 455308,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -897,6 +897,30 @@
         "xlsx": {
           "name": "ko-jaejeong-gyeongje-janggwan_KO.xlsx",
           "size": 10749
+        }
+      }
+    },
+    {
+      "id": "ko-jibang-gonggieop",
+      "name": "대한민국의 지방공기업 목록",
+      "category": "economy",
+      "record_count": 153,
+      "columns": [
+        "name",
+        "region",
+        "level"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_지방공기업_목록",
+      "updated": "2026-10",
+      "size": 20662,
+      "files": {
+        "csv": {
+          "name": "ko-jibang-gonggieop_KO.csv",
+          "size": 10039
+        },
+        "xlsx": {
+          "name": "ko-jibang-gonggieop_KO.xlsx",
+          "size": 10181
         }
       }
     },
