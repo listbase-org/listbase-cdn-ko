@@ -1,0 +1,344 @@
+{
+  "id": "ko-kbs-changjak-dongyo-daesang",
+  "name": "KBS 창작동요대회 역대 대상곡",
+  "title": "KBS 창작동요대회 역대 대상곡",
+  "description": "1989년부터 이어진 KBS 창작동요대회의 회차별 대상 수상곡과 작사·작곡자, 노래한 어린이",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/KBS_창작동요대회",
+  "source_url": "https://ko.wikipedia.org/wiki/KBS_창작동요대회",
+  "updated": "2026-10",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "lyricist",
+      "label": "Lyricist",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    },
+    {
+      "key": "singer",
+      "label": "Singer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edition": "제1회",
+      "year": "1989년",
+      "song": "팽이치기",
+      "lyricist": "박인영",
+      "composer": "박인영",
+      "singer": "송기욱(서울 상수국민학교)"
+    },
+    {
+      "edition": "제2회",
+      "year": "1990년",
+      "song": "그림 그리고 싶은 날",
+      "lyricist": "이강산",
+      "composer": "오세균",
+      "singer": "박미선 (부산 동성국민학교 5학년)"
+    },
+    {
+      "edition": "제3회",
+      "year": "1991년",
+      "song": "팽이치기",
+      "lyricist": "윤이현",
+      "composer": "이경숙",
+      "singer": "최효연(서울 중평국민학교 6학년)"
+    },
+    {
+      "edition": "제4회",
+      "year": "1992년",
+      "song": "비 오는 오솔길",
+      "lyricist": "신현득",
+      "composer": "김남삼",
+      "singer": "김겨울(광주 봉주국민학교 6학년)"
+    },
+    {
+      "edition": "제5회",
+      "year": "1993년",
+      "song": "아이들이 그리는 세상",
+      "lyricist": "장사경",
+      "composer": "이강산",
+      "singer": "류윤정(부산 동래국민학교 6학년) 강민정(부산 동래국민학교 5학년) 이현정(부산 동성국민학교 6학년)"
+    },
+    {
+      "edition": "제6회( 부산 제1회)",
+      "year": "1994년",
+      "song": "가을 들길",
+      "lyricist": "심상윤",
+      "composer": "박영주",
+      "singer": "정지원(부산 남일국민학교 6학년)"
+    },
+    {
+      "edition": "제7회( 부산 제2회)",
+      "year": "1995년",
+      "song": "잔디밭에는",
+      "lyricist": "선용",
+      "composer": "백현주",
+      "singer": "안지현(부산 광남국민학교 6학년)"
+    },
+    {
+      "edition": "제8회( 부산 제3회)",
+      "year": "1996년",
+      "song": "노래는 빛이야",
+      "lyricist": "윤일광",
+      "composer": "김정철",
+      "singer": "김영지(부산 남성초등학교 5학년)"
+    },
+    {
+      "edition": "제9회( 부산 제4회)",
+      "year": "1997년",
+      "song": "세계에 산다",
+      "lyricist": "문인귀",
+      "composer": "서지혜",
+      "singer": "성경, 이지은, 김수경, 오정민, 이정민, 강경화(서울 상명초등학교)"
+    },
+    {
+      "edition": "제10회( 부산 제5회)",
+      "year": "1998년",
+      "song": "빗방울",
+      "lyricist": "김종영",
+      "composer": "신상춘",
+      "singer": "김영은, 김신아, 문은영, 이연지, 이하림, 김지연, 박지수(중창)"
+    },
+    {
+      "edition": "제11회( 부산 제6회)",
+      "year": "1999년",
+      "song": "숲속 친구 반달곰",
+      "lyricist": "김원겸",
+      "composer": "조원경",
+      "singer": "서민정, 이수진, 엄혜선, 함소라, 이선경, 박하은, 한혜연(작은 평화예술단)"
+    },
+    {
+      "edition": "제12회( 부산 제7회)",
+      "year": "2000년",
+      "song": "흥부처럼 살아요",
+      "lyricist": "김혜자",
+      "composer": "이지영",
+      "singer": "김다은, 김현지, 백예원, 유성진, 윤선영, 이하림, 조효정, 조희경(부산 남성초등학교, 하남초등학교, 연천초등학교)"
+    },
+    {
+      "edition": "제13회( 부산 제8회)",
+      "year": "2001년",
+      "song": "나무가족",
+      "lyricist": "박수진",
+      "composer": "김애경",
+      "singer": "김태연, 구하연, 심명천, 이예승, 최영주, 공소라, 김민지, 장민수, 이나영(서울교육대학교 부설초등학교)"
+    },
+    {
+      "edition": "제14회( 부산 제9회)",
+      "year": "2002년",
+      "song": "푸른바다 돌고래",
+      "lyricist": "김원겸",
+      "composer": "신진수",
+      "singer": "이규임(부산 혜화초등학교 5학년)"
+    },
+    {
+      "edition": "제15회( 부산 제10회)",
+      "year": "2003년",
+      "song": "수수꽃다리",
+      "lyricist": "김원겸",
+      "composer": "최영순",
+      "singer": "조연정(서울 계성초등학교 5학년)"
+    },
+    {
+      "edition": "제16회",
+      "year": "2004년",
+      "song": "꿈이 크는 책가방",
+      "lyricist": "김종영",
+      "composer": "손정우",
+      "singer": "신재은(서울 대곡초등학교 4학년)"
+    },
+    {
+      "edition": "제17회",
+      "year": "2005년",
+      "song": "'넌 할 수 있어'라고 말해 주세요",
+      "lyricist": "곽진영",
+      "composer": "강수현",
+      "singer": "양유나, 전희주, 조호인, 이다운, 홍진영, 송다원, 성민호, 조하윤, 장은비(중창)"
+    },
+    {
+      "edition": "제18회",
+      "year": "2006년",
+      "song": "해님사랑",
+      "lyricist": "안혜자",
+      "composer": "류정식",
+      "singer": "김정현, 이보현, 전화영, 서수민(꿈을 따는 아이들)"
+    },
+    {
+      "edition": "제19회",
+      "year": "2007년",
+      "song": "어린 왕자에게",
+      "lyricist": "박경진",
+      "composer": "조경찬",
+      "singer": "성민호(서울 창일초등학교 6학년)"
+    },
+    {
+      "edition": "제20회",
+      "year": "2008년",
+      "song": "달팽이의 하루",
+      "lyricist": "조원경",
+      "composer": "김진성",
+      "singer": "장주희(울산 삼신초등학교 6학년)"
+    },
+    {
+      "edition": "제21회",
+      "year": "2009년",
+      "song": "아낌없이 주는 나무",
+      "lyricist": "이수영",
+      "composer": "김미은",
+      "singer": "주세은(경북 경주 동천초등학교 6학년)"
+    },
+    {
+      "edition": "제22회",
+      "year": "2010년",
+      "song": "내 손은 바람을 그려요",
+      "lyricist": "박윤희",
+      "composer": "정보형",
+      "singer": "최여완(경기 안산 시곡초등학교 6학년)"
+    },
+    {
+      "edition": "제23회",
+      "year": "2011년",
+      "song": "된장 한 숟가락",
+      "lyricist": "최재혁",
+      "composer": "최재혁",
+      "singer": "최유정, 권수현, 황경아, 황경윤, 진수빈, 김현진, 이수진, 이민서, 홍지윤(태양의 아이들)"
+    },
+    {
+      "edition": "제24회",
+      "year": "2012년",
+      "song": "기지개",
+      "lyricist": "이수영",
+      "composer": "김세은",
+      "singer": "안정호 외 8명(음악 친구들)"
+    },
+    {
+      "edition": "제25회",
+      "year": "2014년",
+      "song": "가을이 오는 소리",
+      "lyricist": "이근호",
+      "composer": "이근호",
+      "singer": "김우주(경기 수원 소화초등학교 5학년), 박소연(경기 수원 신성초등학교 4학년)"
+    },
+    {
+      "edition": "제26회",
+      "year": "2015년",
+      "song": "꼭 안아 줄래요",
+      "lyricist": "한경아",
+      "composer": "윤학준",
+      "singer": "장유나(경기 남양주 도농초등학교 4학년), 이은우(서울 자곡초등학교 3학년)"
+    },
+    {
+      "edition": "제27회",
+      "year": "2016년",
+      "song": "내 마음의 수채화",
+      "lyricist": "김과형",
+      "composer": "서옥선",
+      "singer": "박명인(서울 태강삼육초등학교 6학년)"
+    },
+    {
+      "edition": "제28회",
+      "year": "2017년",
+      "song": "서로의 별이 되어",
+      "lyricist": "오서영",
+      "composer": "오희섭",
+      "singer": "이채은(경인교육대학교 부설초등학교 5학년), 이승리(경기 성남 이매초등학교 5학년)"
+    },
+    {
+      "edition": "제29회",
+      "year": "2018년",
+      "song": "나의 정원",
+      "lyricist": "황지효",
+      "composer": "김영경",
+      "singer": "김다은(경기 화성 예당초등학교 6학년)"
+    },
+    {
+      "edition": "제30회",
+      "year": "2019년",
+      "song": "마라톤",
+      "lyricist": "배은영",
+      "composer": "김정녀",
+      "singer": "김예승, 송예영, 이신비, 박예슬, 박서현, 김희서, 박정윤, 조민채, 김지우(현음 중창단)"
+    },
+    {
+      "edition": "제31회",
+      "year": "2021년",
+      "song": "노래하는 친구들",
+      "lyricist": "박진영",
+      "composer": "박진영",
+      "singer": "김이레, 이지민, 김예호, 황수빈(꿈이 크는 아이들)"
+    },
+    {
+      "edition": "제32회",
+      "year": "2022년",
+      "song": "하쿠나 마타타",
+      "lyricist": "최형심",
+      "composer": "박수연",
+      "singer": "이서빈, 정가온, 조준희, 김민정, 박규림. 배규민, 윤다은, 임연주(러브 엔젤스)"
+    },
+    {
+      "edition": "제33회",
+      "year": "2023년",
+      "song": "뻥뻥 뻥튀기",
+      "lyricist": "황지안",
+      "composer": "김영경",
+      "singer": "강단아, 김주안, 김태이, 김하은, 박시우, 윤세아, 이도헌, 이서현, 전수현(위드 엔젤스)"
+    },
+    {
+      "edition": "제34회",
+      "year": "2024년",
+      "song": "내 시간 어디 갔어",
+      "lyricist": "도희주",
+      "composer": "이호석",
+      "singer": "김소희, 김지우, 반서현, 변예론, 손연서, 이은아(소리별 아이들)"
+    },
+    {
+      "edition": "제35회",
+      "year": "2025년",
+      "song": "깜빡 별의 초대장",
+      "lyricist": "이상인",
+      "composer": "김영경",
+      "singer": "강다희, 김세린, 김소율, 김아진, 오연서, 이수연, 홍예지(우주소년단)"
+    },
+    {
+      "edition": "제36회",
+      "year": "2026년",
+      "song": "오히려 좋아",
+      "lyricist": "남정미",
+      "composer": "전지은",
+      "singer": "김지안, 박서린, 박서이, 송예림, 유설아, 유초아, 이지안, 이하린, 홍유주(이천서희중창단)"
+    }
+  ],
+  "meta": {
+    "title": "KBS 창작동요대회 역대 대상곡 - Free Download",
+    "description": "1989년부터 이어진 KBS 창작동요대회의 회차별 대상 수상곡과 작사·작곡자, 노래한 어린이 Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "KBS 창작동요대회 역대 대상곡 | ListBase",
+    "seo_description": "Download KBS 창작동요대회 역대 대상곡 — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/KBS_창작동요대회"
+    ]
+  }
+}

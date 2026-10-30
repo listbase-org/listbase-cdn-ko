@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-30T02:30:54.679Z",
-  "total_datasets": 539,
-  "total_records": 455659,
+  "generated": "2026-10-30T02:31:01.258Z",
+  "total_datasets": 540,
+  "total_records": 455695,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -8199,6 +8199,33 @@
         "xlsx": {
           "name": "ko-golden-disc-daesang_KO.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "ko-kbs-changjak-dongyo-daesang",
+      "name": "KBS 창작동요대회 역대 대상곡",
+      "category": "music",
+      "record_count": 36,
+      "columns": [
+        "edition",
+        "year",
+        "song",
+        "lyricist",
+        "composer",
+        "singer"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBS_창작동요대회",
+      "updated": "2026-10",
+      "size": 11338,
+      "files": {
+        "csv": {
+          "name": "ko-kbs-changjak-dongyo-daesang_KO.csv",
+          "size": 5510
+        },
+        "xlsx": {
+          "name": "ko-kbs-changjak-dongyo-daesang_KO.xlsx",
+          "size": 10152
         }
       }
     },
