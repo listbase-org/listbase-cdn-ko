@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-29T02:22:08.371Z",
-  "total_datasets": 537,
-  "total_records": 455620,
+  "generated": "2026-10-30T02:30:48.067Z",
+  "total_datasets": 538,
+  "total_records": 455638,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -11741,6 +11741,38 @@
         "xlsx": {
           "name": "ko-seongssi-ingu_KO.xlsx",
           "size": 28252
+        }
+      }
+    },
+    {
+      "id": "ko-sido-goryeong-ingu-biyul",
+      "name": "대한민국 시·도별 65세 이상 고령인구 비율 (2000~2021)",
+      "category": "society",
+      "record_count": 18,
+      "columns": [
+        "region",
+        "ratio_pct_2021-06",
+        "elderly_population_2021-06",
+        "ratio_pct_2015",
+        "elderly_population_2015",
+        "ratio_pct_2010",
+        "elderly_population_2010",
+        "ratio_pct_2005",
+        "elderly_population_2005",
+        "ratio_pct_2000",
+        "elderly_population_2000"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_고령화",
+      "updated": "2026-10",
+      "size": 9861,
+      "files": {
+        "csv": {
+          "name": "ko-sido-goryeong-ingu-biyul_KO.csv",
+          "size": 1889
+        },
+        "xlsx": {
+          "name": "ko-sido-goryeong-ingu-biyul_KO.xlsx",
+          "size": 8270
         }
       }
     },

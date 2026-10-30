@@ -1,0 +1,315 @@
+{
+  "id": "ko-sido-goryeong-ingu-biyul",
+  "name": "대한민국 시·도별 65세 이상 고령인구 비율 (2000~2021)",
+  "title": "대한민국 시·도별 65세 이상 고령인구 비율 (2000~2021)",
+  "description": "전국 및 17개 시·도별 65세 이상 고령인구 수와 전체 인구 대비 비율 (2000·2005·2010·2015년, 2021년 6월)",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_고령화",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_고령화",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "ratio_pct_2021-06",
+      "label": "Ratio Pct 2021 06",
+      "type": "number"
+    },
+    {
+      "key": "elderly_population_2021-06",
+      "label": "Elderly Population 2021 06",
+      "type": "number"
+    },
+    {
+      "key": "ratio_pct_2015",
+      "label": "Ratio Pct 2015",
+      "type": "number"
+    },
+    {
+      "key": "elderly_population_2015",
+      "label": "Elderly Population 2015",
+      "type": "number"
+    },
+    {
+      "key": "ratio_pct_2010",
+      "label": "Ratio Pct 2010",
+      "type": "number"
+    },
+    {
+      "key": "elderly_population_2010",
+      "label": "Elderly Population 2010",
+      "type": "number"
+    },
+    {
+      "key": "ratio_pct_2005",
+      "label": "Ratio Pct 2005",
+      "type": "number"
+    },
+    {
+      "key": "elderly_population_2005",
+      "label": "Elderly Population 2005",
+      "type": "number"
+    },
+    {
+      "key": "ratio_pct_2000",
+      "label": "Ratio Pct 2000",
+      "type": "number"
+    },
+    {
+      "key": "elderly_population_2000",
+      "label": "Elderly Population 2000",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "전국",
+      "ratio_pct_2021-06": 16.7,
+      "elderly_population_2021-06": 8652198,
+      "ratio_pct_2015": 13.1,
+      "elderly_population_2015": 6775101,
+      "ratio_pct_2010": 10.9,
+      "elderly_population_2010": 5506352,
+      "ratio_pct_2005": 8.9,
+      "elderly_population_2005": 4324524,
+      "ratio_pct_2000": 7,
+      "elderly_population_2000": 3355614
+    },
+    {
+      "region": "서울특별시",
+      "ratio_pct_2021-06": 16.4,
+      "elderly_population_2021-06": 1568769,
+      "ratio_pct_2015": 12.6,
+      "elderly_population_2015": 1262436,
+      "ratio_pct_2010": 9.7,
+      "elderly_population_2010": 1002770,
+      "ratio_pct_2005": 7.2,
+      "elderly_population_2005": 731349,
+      "ratio_pct_2000": 5.4,
+      "elderly_population_2000": 558566
+    },
+    {
+      "region": "부산광역시",
+      "ratio_pct_2021-06": 19.8,
+      "elderly_population_2021-06": 666644,
+      "ratio_pct_2015": 14.6,
+      "elderly_population_2015": 514630,
+      "ratio_pct_2010": 11.3,
+      "elderly_population_2010": 401784,
+      "ratio_pct_2005": 8.3,
+      "elderly_population_2005": 302784,
+      "ratio_pct_2000": 6,
+      "elderly_population_2000": 229075
+    },
+    {
+      "region": "대구광역시",
+      "ratio_pct_2021-06": 17,
+      "elderly_population_2021-06": 408235,
+      "ratio_pct_2015": 12.7,
+      "elderly_population_2015": 316122,
+      "ratio_pct_2010": 10,
+      "elderly_population_2010": 252084,
+      "ratio_pct_2005": 7.8,
+      "elderly_population_2005": 195419,
+      "ratio_pct_2000": 5.9,
+      "elderly_population_2000": 149045
+    },
+    {
+      "region": "인천광역시",
+      "ratio_pct_2021-06": 14.4,
+      "elderly_population_2021-06": 422658,
+      "ratio_pct_2015": 10.7,
+      "elderly_population_2015": 312905,
+      "ratio_pct_2010": 8.6,
+      "elderly_population_2010": 237805,
+      "ratio_pct_2005": 6.9,
+      "elderly_population_2005": 178602,
+      "ratio_pct_2000": 5.4,
+      "elderly_population_2000": 138316
+    },
+    {
+      "region": "광주광역시",
+      "ratio_pct_2021-06": 14.5,
+      "elderly_population_2021-06": 208879,
+      "ratio_pct_2015": 11.3,
+      "elderly_population_2015": 166389,
+      "ratio_pct_2010": 9,
+      "elderly_population_2010": 130457,
+      "ratio_pct_2005": 7.1,
+      "elderly_population_2005": 99389,
+      "ratio_pct_2000": 5.6,
+      "elderly_population_2000": 77325
+    },
+    {
+      "region": "대전광역시",
+      "ratio_pct_2021-06": 14.8,
+      "elderly_population_2021-06": 215997,
+      "ratio_pct_2015": 10.9,
+      "elderly_population_2015": 165528,
+      "ratio_pct_2010": 8.7,
+      "elderly_population_2010": 130245,
+      "ratio_pct_2005": 6.9,
+      "elderly_population_2005": 99811,
+      "ratio_pct_2000": 5.5,
+      "elderly_population_2000": 75769
+    },
+    {
+      "region": "울산광역시",
+      "ratio_pct_2021-06": 13.1,
+      "elderly_population_2021-06": 147811,
+      "ratio_pct_2015": 8.8,
+      "elderly_population_2015": 103205,
+      "ratio_pct_2010": 6.8,
+      "elderly_population_2010": 76800,
+      "ratio_pct_2005": 5.3,
+      "elderly_population_2005": 57797,
+      "ratio_pct_2000": 4,
+      "elderly_population_2000": 42119
+    },
+    {
+      "region": "세종특별자치시",
+      "ratio_pct_2021-06": 10,
+      "elderly_population_2021-06": 36194,
+      "ratio_pct_2015": 10.6,
+      "elderly_population_2015": 22399,
+      "ratio_pct_2010": "-",
+      "elderly_population_2010": "-",
+      "ratio_pct_2005": "-",
+      "elderly_population_2005": "-",
+      "ratio_pct_2000": "-",
+      "elderly_population_2000": "-"
+    },
+    {
+      "region": "경기도",
+      "ratio_pct_2021-06": 13.5,
+      "elderly_population_2021-06": 1825846,
+      "ratio_pct_2015": 10.5,
+      "elderly_population_2015": 1318882,
+      "ratio_pct_2010": 8.7,
+      "elderly_population_2010": 1022456,
+      "ratio_pct_2005": 7.1,
+      "elderly_population_2005": 755511,
+      "ratio_pct_2000": 5.7,
+      "elderly_population_2000": 524807
+    },
+    {
+      "region": "강원도",
+      "ratio_pct_2021-06": 21.2,
+      "elderly_population_2021-06": 325579,
+      "ratio_pct_2015": 16.9,
+      "elderly_population_2015": 261671,
+      "ratio_pct_2010": 14.8,
+      "elderly_population_2010": 226505,
+      "ratio_pct_2005": 12.1,
+      "elderly_population_2005": 183471,
+      "ratio_pct_2000": 9.3,
+      "elderly_population_2000": 143945
+    },
+    {
+      "region": "충청북도",
+      "ratio_pct_2021-06": 18.4,
+      "elderly_population_2021-06": 294530,
+      "ratio_pct_2015": 14.8,
+      "elderly_population_2015": 234813,
+      "ratio_pct_2010": 13.2,
+      "elderly_population_2010": 204470,
+      "ratio_pct_2005": 11.3,
+      "elderly_population_2005": 168670,
+      "ratio_pct_2000": 9.1,
+      "elderly_population_2000": 136160
+    },
+    {
+      "region": "충청남도",
+      "ratio_pct_2021-06": 19.5,
+      "elderly_population_2021-06": 412504,
+      "ratio_pct_2015": 16.4,
+      "elderly_population_2015": 341214,
+      "ratio_pct_2010": 14.9,
+      "elderly_population_2010": 308556,
+      "ratio_pct_2005": 13.3,
+      "elderly_population_2005": 261800,
+      "ratio_pct_2000": 11.2,
+      "elderly_population_2000": 215059
+    },
+    {
+      "region": "전라북도",
+      "ratio_pct_2021-06": 21.8,
+      "elderly_population_2021-06": 391178,
+      "ratio_pct_2015": 17.8,
+      "elderly_population_2015": 333524,
+      "ratio_pct_2010": 15.2,
+      "elderly_population_2010": 284373,
+      "ratio_pct_2005": 12.9,
+      "elderly_population_2005": 243721,
+      "ratio_pct_2000": 10.3,
+      "elderly_population_2000": 205807
+    },
+    {
+      "region": "전라남도",
+      "ratio_pct_2021-06": 23.9,
+      "elderly_population_2021-06": 440014,
+      "ratio_pct_2015": 20.5,
+      "elderly_population_2015": 391837,
+      "ratio_pct_2010": 18.3,
+      "elderly_population_2010": 350900,
+      "ratio_pct_2005": 15.6,
+      "elderly_population_2005": 306439,
+      "ratio_pct_2000": 11.9,
+      "elderly_population_2000": 254370
+    },
+    {
+      "region": "경상북도",
+      "ratio_pct_2021-06": 22.2,
+      "elderly_population_2021-06": 585088,
+      "ratio_pct_2015": 17.7,
+      "elderly_population_2015": 479634,
+      "ratio_pct_2010": 15.6,
+      "elderly_population_2010": 418858,
+      "ratio_pct_2005": 13.4,
+      "elderly_population_2005": 360068,
+      "ratio_pct_2000": 10.7,
+      "elderly_population_2000": 300614
+    },
+    {
+      "region": "경상남도",
+      "ratio_pct_2021-06": 17.9,
+      "elderly_population_2021-06": 594154,
+      "ratio_pct_2015": 13.8,
+      "elderly_population_2015": 464019,
+      "ratio_pct_2010": 11.8,
+      "elderly_population_2010": 388648,
+      "ratio_pct_2005": 10.2,
+      "elderly_population_2005": 323898,
+      "ratio_pct_2000": 8.4,
+      "elderly_population_2000": 261303
+    },
+    {
+      "region": "제주특별자치도",
+      "ratio_pct_2021-06": 16,
+      "elderly_population_2021-06": 108118,
+      "ratio_pct_2015": 13.8,
+      "elderly_population_2015": 85893,
+      "ratio_pct_2010": 12.2,
+      "elderly_population_2010": 69641,
+      "ratio_pct_2005": 10,
+      "elderly_population_2005": 55795,
+      "ratio_pct_2000": 8,
+      "elderly_population_2000": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 시·도별 65세 이상 고령인구 비율 (2000~2021) - Free Download",
+    "description": "전국 및 17개 시·도별 65세 이상 고령인구 수와 전체 인구 대비 비율 (2000·2005·2010·2015년, 2021년 6월) Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 시·도별 65세 이상 고령인구 비율 (2000~2021) | ListBase",
+    "seo_description": "Download 대한민국 시·도별 65세 이상 고령인구 비율 (2000~2021) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_고령화"
+    ]
+  }
+}
