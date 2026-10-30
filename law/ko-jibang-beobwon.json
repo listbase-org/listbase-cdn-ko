@@ -1,0 +1,172 @@
+{
+  "id": "ko-jibang-beobwon",
+  "name": "대한민국의 지방법원·가정법원 및 지원 목록",
+  "title": "대한민국의 지방법원·가정법원 및 지원 목록",
+  "description": "고등법원 관할별로 정리한 대한민국의 지방법원·가정법원 등과 소속 지원 목록",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_지방법원",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_지방법원",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "court",
+      "label": "Court",
+      "type": "string"
+    },
+    {
+      "key": "high_court",
+      "label": "High Court",
+      "type": "string"
+    },
+    {
+      "key": "branches",
+      "label": "Branches",
+      "type": "string"
+    },
+    {
+      "key": "branch_count",
+      "label": "Branch Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "court": "서울중앙지방법원",
+      "high_court": "서울고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "서울동부지방법원",
+      "high_court": "서울고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "서울서부지방법원",
+      "high_court": "서울고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "서울남부지방법원",
+      "high_court": "서울고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "서울북부지방법원",
+      "high_court": "서울고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "춘천지방법원",
+      "high_court": "서울고등법원",
+      "branches": "원주지원, 강릉지원, 속초지원, 영월지원",
+      "branch_count": 4
+    },
+    {
+      "court": "인천지방법원",
+      "high_court": "서울고등법원",
+      "branches": "부천지원",
+      "branch_count": 1
+    },
+    {
+      "court": "의정부지방법원",
+      "high_court": "서울고등법원",
+      "branches": "고양지원, 남양주지원",
+      "branch_count": 2
+    },
+    {
+      "court": "수원지방법원",
+      "high_court": "수원고등법원",
+      "branches": "성남지원, 여주지원, 평택지원, 안산지원, 안양지원",
+      "branch_count": 5
+    },
+    {
+      "court": "수원가정법원",
+      "high_court": "수원고등법원",
+      "branches": "성남지원, 여주지원, 평택지원, 안산지원, 안양지원",
+      "branch_count": 5
+    },
+    {
+      "court": "부산지방법원",
+      "high_court": "부산고등법원",
+      "branches": "동부지원, 서부지원",
+      "branch_count": 2
+    },
+    {
+      "court": "창원지방법원",
+      "high_court": "부산고등법원",
+      "branches": "마산지원, 거창지원, 진주지원, 밀양지원, 통영지원",
+      "branch_count": 5
+    },
+    {
+      "court": "울산지방법원",
+      "high_court": "부산고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "광주지방법원",
+      "high_court": "광주고등법원",
+      "branches": "목포지원, 장흥지원, 순천지원, 해남지원",
+      "branch_count": 4
+    },
+    {
+      "court": "광주가정법원",
+      "high_court": "광주고등법원",
+      "branches": "목포지원, 장흥지원, 순천지원, 해남지원",
+      "branch_count": 4
+    },
+    {
+      "court": "전주지방법원",
+      "high_court": "광주고등법원",
+      "branches": "군산지원, 정읍지원, 남원지원",
+      "branch_count": 3
+    },
+    {
+      "court": "제주지방법원",
+      "high_court": "광주고등법원",
+      "branches": "",
+      "branch_count": 0
+    },
+    {
+      "court": "대전지방법원",
+      "high_court": "대전고등법원",
+      "branches": "공주지원, 논산지원, 서산지원, 천안지원, 홍성지원",
+      "branch_count": 5
+    },
+    {
+      "court": "대전가정법원",
+      "high_court": "대전고등법원",
+      "branches": "공주지원, 논산지원, 서산지원, 천안지원, 홍성지원",
+      "branch_count": 5
+    },
+    {
+      "court": "청주지방법원",
+      "high_court": "대전고등법원",
+      "branches": "충주지원, 제천지원, 영동지원",
+      "branch_count": 3
+    },
+    {
+      "court": "대구지방법원",
+      "high_court": "대구고등법원",
+      "branches": "서부지원, 안동지원, 포항지원, 경주지원, 김천지원, 영덕지원, 상주지원, 의성지원",
+      "branch_count": 8
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 지방법원·가정법원 및 지원 목록 - Free Download",
+    "description": "고등법원 관할별로 정리한 대한민국의 지방법원·가정법원 등과 소속 지원 목록 Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 지방법원·가정법원 및 지원 목록 | ListBase",
+    "seo_description": "Download 대한민국의 지방법원·가정법원 및 지원 목록 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_지방법원"
+    ]
+  }
+}

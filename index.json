@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-30T02:30:48.067Z",
-  "total_datasets": 538,
-  "total_records": 455638,
+  "generated": "2026-10-30T02:30:54.679Z",
+  "total_datasets": 539,
+  "total_records": 455659,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -8043,6 +8043,31 @@
         "xlsx": {
           "name": "ko-heonjae-sojang_KO.xlsx",
           "size": 7624
+        }
+      }
+    },
+    {
+      "id": "ko-jibang-beobwon",
+      "name": "대한민국의 지방법원·가정법원 및 지원 목록",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "court",
+        "high_court",
+        "branches",
+        "branch_count"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_지방법원",
+      "updated": "2026-10",
+      "size": 5371,
+      "files": {
+        "csv": {
+          "name": "ko-jibang-beobwon_KO.csv",
+          "size": 1870
+        },
+        "xlsx": {
+          "name": "ko-jibang-beobwon_KO.xlsx",
+          "size": 7552
         }
       }
     },
