@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-30T02:31:01.258Z",
-  "total_datasets": 540,
-  "total_records": 455695,
+  "generated": "2026-10-30T02:31:07.705Z",
+  "total_datasets": 541,
+  "total_records": 455735,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -8173,6 +8173,33 @@
         "xlsx": {
           "name": "ko-gaon-dijiteol-chateu-jugan-1wi_KO.xlsx",
           "size": 28844
+        }
+      }
+    },
+    {
+      "id": "ko-geol-geurup",
+      "name": "대한민국의 걸 그룹 목록 (세대별)",
+      "category": "music",
+      "record_count": 40,
+      "columns": [
+        "group",
+        "active_years",
+        "members",
+        "notable_singles",
+        "best_selling_album",
+        "era"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_걸_그룹_목록",
+      "updated": "2026-10",
+      "size": 20774,
+      "files": {
+        "csv": {
+          "name": "ko-geol-geurup_KO.csv",
+          "size": 13470
+        },
+        "xlsx": {
+          "name": "ko-geol-geurup_KO.xlsx",
+          "size": 13384
         }
       }
     },
