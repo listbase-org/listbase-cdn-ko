@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-02T02:28:06.319Z",
-  "total_datasets": 542,
-  "total_records": 455754,
+  "generated": "2026-11-02T02:28:13.669Z",
+  "total_datasets": 543,
+  "total_records": 455766,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -7254,6 +7254,33 @@
         "xlsx": {
           "name": "ko-gwonyeok-eunggeup-uiryo-senteo_KO.xlsx",
           "size": 8876
+        }
+      }
+    },
+    {
+      "id": "ko-hanui-gwa-daehak",
+      "name": "대한민국의 한의과대학 목록",
+      "category": "health",
+      "record_count": 12,
+      "columns": [
+        "gwonyeok",
+        "sojaeji",
+        "daehakgyo",
+        "seollip_yeondo",
+        "ipak_jeongwon_2022",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한의과대학",
+      "updated": "2026-11",
+      "size": 4537,
+      "files": {
+        "csv": {
+          "name": "ko-hanui-gwa-daehak_KO.csv",
+          "size": 1152
+        },
+        "xlsx": {
+          "name": "ko-hanui-gwa-daehak_KO.xlsx",
+          "size": 7563
         }
       }
     },

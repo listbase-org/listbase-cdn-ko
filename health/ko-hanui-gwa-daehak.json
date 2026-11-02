@@ -1,0 +1,152 @@
+{
+  "id": "ko-hanui-gwa-daehak",
+  "name": "대한민국의 한의과대학 목록",
+  "title": "대한민국의 한의과대학 목록",
+  "description": "대한민국의 한의과대학 및 한의학전문대학원 목록으로, 권역, 소재지, 설립연도, 2022년 입학정원을 포함한다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/한의과대학",
+  "source_url": "https://ko.wikipedia.org/wiki/한의과대학",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "sojaeji",
+      "label": "Sojaeji",
+      "type": "string"
+    },
+    {
+      "key": "daehakgyo",
+      "label": "Daehakgyo",
+      "type": "string"
+    },
+    {
+      "key": "seollip_yeondo",
+      "label": "Seollip Yeondo",
+      "type": "string"
+    },
+    {
+      "key": "ipak_jeongwon_2022",
+      "label": "Ipak Jeongwon 2022",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gwonyeok": "수도권",
+      "sojaeji": "서울특별시",
+      "daehakgyo": "경희대학교",
+      "seollip_yeondo": "1947년",
+      "ipak_jeongwon_2022": "108명",
+      "bigo": "통합 전 동양의과대학 에 설립"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sojaeji": "경기도 성남시",
+      "daehakgyo": "가천대학교",
+      "seollip_yeondo": "1990년",
+      "ipak_jeongwon_2022": "30명",
+      "bigo": "통합 전 경원대학교 에 설립"
+    },
+    {
+      "gwonyeok": "강원권",
+      "sojaeji": "강원특별자치도 원주시",
+      "daehakgyo": "상지대학교",
+      "seollip_yeondo": "1988년",
+      "ipak_jeongwon_2022": "60명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "충북권",
+      "sojaeji": "충청북도 제천시",
+      "daehakgyo": "세명대학교",
+      "seollip_yeondo": "1992년",
+      "ipak_jeongwon_2022": "40명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "충남권",
+      "sojaeji": "대전광역시",
+      "daehakgyo": "대전대학교",
+      "seollip_yeondo": "1982년",
+      "ipak_jeongwon_2022": "75명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "전북권",
+      "sojaeji": "전북특별자치도 익산시",
+      "daehakgyo": "원광대학교",
+      "seollip_yeondo": "1972년",
+      "ipak_jeongwon_2022": "90명",
+      "bigo": "한의학전문대학원과 병행"
+    },
+    {
+      "gwonyeok": "전북권",
+      "sojaeji": "전북특별자치도 완주군",
+      "daehakgyo": "우석대학교",
+      "seollip_yeondo": "1988년",
+      "ipak_jeongwon_2022": "30명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "전남권",
+      "sojaeji": "전라남도 나주시",
+      "daehakgyo": "동신대학교",
+      "seollip_yeondo": "1992년",
+      "ipak_jeongwon_2022": "40명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "경북권",
+      "sojaeji": "경상북도 경주시",
+      "daehakgyo": "동국대학교 WISE캠퍼스",
+      "seollip_yeondo": "1978년",
+      "ipak_jeongwon_2022": "72명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "경북권",
+      "sojaeji": "경상북도 경산시",
+      "daehakgyo": "대구한의대학교",
+      "seollip_yeondo": "1981년",
+      "ipak_jeongwon_2022": "107명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "경남권",
+      "sojaeji": "부산광역시",
+      "daehakgyo": "동의대학교",
+      "seollip_yeondo": "1987년",
+      "ipak_jeongwon_2022": "50명",
+      "bigo": ""
+    },
+    {
+      "gwonyeok": "경남권",
+      "sojaeji": "경상남도 양산시",
+      "daehakgyo": "부산대학교",
+      "seollip_yeondo": "2008년",
+      "ipak_jeongwon_2022": "50명",
+      "bigo": "한의학전문대학원"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 한의과대학 목록 - Free Download",
+    "description": "대한민국의 한의과대학 및 한의학전문대학원 목록으로, 권역, 소재지, 설립연도, 2022년 입학정원을 포함한다. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 한의과대학 목록 | ListBase",
+    "seo_description": "Download 대한민국의 한의과대학 목록 — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한의과대학"
+    ]
+  }
+}
