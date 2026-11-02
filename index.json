@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-10-30T02:31:07.705Z",
-  "total_datasets": 541,
-  "total_records": 455735,
+  "generated": "2026-11-02T02:28:06.319Z",
+  "total_datasets": 542,
+  "total_records": 455754,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -7204,6 +7204,32 @@
         "xlsx": {
           "name": "ko-byeongwon_KO.xlsx",
           "size": 18562
+        }
+      }
+    },
+    {
+      "id": "ko-chigwa-daehak",
+      "name": "대한민국의 치과대학·치의학전문대학원 목록",
+      "category": "health",
+      "record_count": 19,
+      "columns": [
+        "daehak",
+        "sido",
+        "sojaeji",
+        "seollip_yeondo",
+        "unyeong"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_치과대학",
+      "updated": "2026-11",
+      "size": 5427,
+      "files": {
+        "csv": {
+          "name": "ko-chigwa-daehak_KO.csv",
+          "size": 1651
+        },
+        "xlsx": {
+          "name": "ko-chigwa-daehak_KO.xlsx",
+          "size": 7572
         }
       }
     },

@@ -1,0 +1,184 @@
+{
+  "id": "ko-chigwa-daehak",
+  "name": "대한민국의 치과대학·치의학전문대학원 목록",
+  "title": "대한민국의 치과대학·치의학전문대학원 목록",
+  "description": "대한민국의 치과대학과 치의학(전문)대학원 목록으로, 시·도, 소재지, 설립연도 및 폐지 여부를 포함한다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_치과대학",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_치과대학",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "daehak",
+      "label": "Daehak",
+      "type": "string"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "sojaeji",
+      "label": "Sojaeji",
+      "type": "string"
+    },
+    {
+      "key": "seollip_yeondo",
+      "label": "Seollip Yeondo",
+      "type": "number"
+    },
+    {
+      "key": "unyeong",
+      "label": "Unyeong",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "daehak": "경희대학교 치과대학",
+      "sido": "서울특별시",
+      "sojaeji": "동대문구",
+      "seollip_yeondo": "1972",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "서울대학교 치과대학",
+      "sido": "서울특별시",
+      "sojaeji": "관악구",
+      "seollip_yeondo": "1962",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "서울대학교 치의학대학원",
+      "sido": "서울특별시",
+      "sojaeji": "종로구",
+      "seollip_yeondo": "2005",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "연세대학교 치과대학",
+      "sido": "서울특별시",
+      "sojaeji": "서대문구",
+      "seollip_yeondo": "2011",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "경북대학교 치과대학",
+      "sido": "대구광역시",
+      "sojaeji": "북구",
+      "seollip_yeondo": "1979",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "전남대학교 치과대학",
+      "sido": "전남광주통합특별시",
+      "sojaeji": "북구",
+      "seollip_yeondo": "1981",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "전남대학교 치의학전문대학원",
+      "sido": "전남광주통합특별시",
+      "sojaeji": "북구",
+      "seollip_yeondo": "2005",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "조선대학교 치과대학",
+      "sido": "전남광주통합특별시",
+      "sojaeji": "동구",
+      "seollip_yeondo": "1973",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "강원대학교 치과대학",
+      "sido": "강원특별자치도",
+      "sojaeji": "강릉시",
+      "seollip_yeondo": "1992",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "단국대학교 치과대학",
+      "sido": "충청남도",
+      "sojaeji": "천안시",
+      "seollip_yeondo": "1979",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "전북대학교 치과대학",
+      "sido": "전북특별자치도",
+      "sojaeji": "전주시",
+      "seollip_yeondo": "1978",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "원광대학교 치과대학",
+      "sido": "전북특별자치도",
+      "sojaeji": "익산시",
+      "seollip_yeondo": "1980",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "부산대학교 치과대학",
+      "sido": "경상남도",
+      "sojaeji": "양산시",
+      "seollip_yeondo": "1981",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "부산대학교 치의학전문대학원",
+      "sido": "경상남도",
+      "sojaeji": "양산시",
+      "seollip_yeondo": "2005",
+      "unyeong": "운영"
+    },
+    {
+      "daehak": "경북대학교 치의학전문대학원",
+      "sido": "",
+      "sojaeji": "대구광역시",
+      "seollip_yeondo": "2005년~2016년",
+      "unyeong": "폐지"
+    },
+    {
+      "daehak": "경희대학교 치의학전문대학원",
+      "sido": "",
+      "sojaeji": "서울특별시",
+      "seollip_yeondo": "2005년~2016년",
+      "unyeong": "폐지"
+    },
+    {
+      "daehak": "연세대학교 치의학전문대학원",
+      "sido": "",
+      "sojaeji": "서울특별시",
+      "seollip_yeondo": "2005년~2014년",
+      "unyeong": "폐지"
+    },
+    {
+      "daehak": "전북대학교 치의학전문대학원",
+      "sido": "",
+      "sojaeji": "전주시",
+      "seollip_yeondo": "2005년~2016년",
+      "unyeong": "폐지"
+    },
+    {
+      "daehak": "조선대학교 치의학전문대학원",
+      "sido": "",
+      "sojaeji": "광주광역시",
+      "seollip_yeondo": "2009년~2016년",
+      "unyeong": "폐지"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 치과대학·치의학전문대학원 목록 - Free Download",
+    "description": "대한민국의 치과대학과 치의학(전문)대학원 목록으로, 시·도, 소재지, 설립연도 및 폐지 여부를 포함한다. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 치과대학·치의학전문대학원 목록 | ListBase",
+    "seo_description": "Download 대한민국의 치과대학·치의학전문대학원 목록 — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_치과대학"
+    ]
+  }
+}
