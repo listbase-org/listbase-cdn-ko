@@ -1,0 +1,5566 @@
+{
+  "id": "ko-radio-songsinso-jupasu",
+  "name": "대한민국 라디오 방송국 송신소·주파수 목록",
+  "title": "대한민국 라디오 방송국 송신소·주파수 목록",
+  "description": "대한민국 지역별 라디오 방송국(KBS·MBC·SBS·CBS·EBS·TBS 등)의 호출부호, 송신소, AM/FM 주파수, 출력, 송신소 위치 목록.",
+  "category": "tech",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_라디오_방송사_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_라디오_방송사_목록",
+  "updated": "2026-11",
+  "record_count": 550,
+  "columns": [
+    {
+      "key": "bangsongguk",
+      "label": "Bangsongguk",
+      "type": "string"
+    },
+    {
+      "key": "hochul_buho",
+      "label": "Hochul Buho",
+      "type": "string"
+    },
+    {
+      "key": "songsinso",
+      "label": "Songsinso",
+      "type": "string"
+    },
+    {
+      "key": "jupasu",
+      "label": "Jupasu",
+      "type": "string"
+    },
+    {
+      "key": "chullyeok",
+      "label": "Chullyeok",
+      "type": "string"
+    },
+    {
+      "key": "songsinso_wichi",
+      "label": "Songsinso Wichi",
+      "type": "string"
+    },
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA",
+      "songsinso": "소래 송신소",
+      "jupasu": "AM 711㎑",
+      "chullyeok": "500㎾",
+      "songsinso_wichi": "경기 시흥시 미산동 26",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 97.3㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA-SFM",
+      "songsinso": "진촌 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "인천 옹진군 백령면 북포리",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA-SFM",
+      "songsinso": "용문산 중계소",
+      "jupasu": "FM 90.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경기 양평군 옥천면 용천리 산2-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역, 춘천지역 99.5MHz 수신 진주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA-SFM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 91.5㎒",
+      "chullyeok": "0.05㎾",
+      "songsinso_wichi": "경기 파주시 적성면 객현리 산182",
+      "gwonyeok": "수도권",
+      "bigo": "파주시 적성면 일원"
+    },
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA-SFM",
+      "songsinso": "성남 중계소",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "경기 성남시 중원구 은행2동 산2-2 검단산",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS 제1라디오",
+      "hochul_buho": "HLKA-SFM",
+      "songsinso": "용인 중계소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "0.02㎾",
+      "songsinso_wichi": "경기 용인시 처인구 역북동 산3-1",
+      "gwonyeok": "수도권",
+      "bigo": "서산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS 제2라디오 (해피FM)",
+      "hochul_buho": "HLSA",
+      "songsinso": "남양 송신소",
+      "jupasu": "AM 603kHz",
+      "chullyeok": "250kW(주간) 500kW(야간)",
+      "songsinso_wichi": "경기 화성시 송산면 고정리 24",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS 제2라디오 (해피FM)",
+      "hochul_buho": "HLSA-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 106.1㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역, 춘천지역 98.7MHz 수신 창원과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS 제3라디오 (사랑의 소리방송)",
+      "hochul_buho": "HLKC",
+      "songsinso": "화성 송신소",
+      "jupasu": "AM 1134㎑",
+      "chullyeok": "500㎾",
+      "songsinso_wichi": "경기 화성시 마도면 두곡리 113",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS 제3라디오 (사랑의 소리방송)",
+      "hochul_buho": "HLKC-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역, 스테레오 신호수신"
+    },
+    {
+      "bangsongguk": "KBS 제1FM (클래식FM)",
+      "hochul_buho": "HLKA-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 93.1㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역, 춘천지역 91.1MHz 수신"
+    },
+    {
+      "bangsongguk": "KBS 제2FM (쿨FM)",
+      "hochul_buho": "HLSA-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 89.1㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "KBS 제2FM (쿨FM)",
+      "hochul_buho": "HLSA-FM",
+      "songsinso": "진촌 중계소",
+      "jupasu": "FM 90.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "인천 옹진군 백령면 북포리",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS 제2FM (쿨FM)",
+      "hochul_buho": "HLSA-FM",
+      "songsinso": "성남 중계소",
+      "jupasu": "FM 97.7㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "경기 성남시 중원구 은행2동 산2-2",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역, 춘천지역 106.5MHz 수신"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "파주 중계소",
+      "jupasu": "FM 105.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경기 파주시 파평면 눌노리 산23 파평산",
+      "gwonyeok": "수도권",
+      "bigo": "파주시 파평면 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "백령 중계소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "인천 옹진군 백령면 진촌리 산75-1",
+      "gwonyeok": "수도권",
+      "bigo": "인천 옹진군 백령면 일원"
+    },
+    {
+      "bangsongguk": "MBC 표준FM",
+      "hochul_buho": "HLKV-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 95.9㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역 부산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "MBC 표준FM",
+      "hochul_buho": "HLKV-SFM",
+      "songsinso": "동두천 중계소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "경기 동두천시 생연동 산43-4",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC FM4U",
+      "hochul_buho": "HLKV-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "SBS 러브FM (SBS 본사)",
+      "hochul_buho": "HLSQ-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 103.5㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "SBS 러브FM (SBS 본사)",
+      "hochul_buho": "HLSQ-SFM",
+      "songsinso": "이천 중계소",
+      "jupasu": "FM 98.3㎒",
+      "chullyeok": "-",
+      "songsinso_wichi": "경기 이천시",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "SBS 파워FM (SBS 본사)",
+      "hochul_buho": "HLSQ-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 107.7㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "SBS 파워FM (SBS 본사)",
+      "hochul_buho": "HLSQ-FM",
+      "songsinso": "동두천 중계소",
+      "jupasu": "FM 100.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경기도 동두천시 생연1동 산43-4",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "CBS 표준FM (기독교)",
+      "hochul_buho": "HLKY-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 98.1㎒",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "CBS 표준FM (기독교)",
+      "hochul_buho": "HLKY-SFM",
+      "songsinso": "수원 중계소",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "경기도 수원시",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "CBS 음악FM (기독교)",
+      "hochul_buho": "HLKY-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "7㎾",
+      "songsinso_wichi": "경기도 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역 문산·강화과 같은 주파수"
+    },
+    {
+      "bangsongguk": "CBS 음악FM (기독교)",
+      "hochul_buho": "HLKY-FM",
+      "songsinso": "문산 중계소",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경기도 파주시 문산읍 선유리 산72",
+      "gwonyeok": "수도권",
+      "bigo": "서울·강화과 같은 주파수"
+    },
+    {
+      "bangsongguk": "CBS 음악FM (기독교)",
+      "hochul_buho": "HLKY-FM",
+      "songsinso": "강화 중계소",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "인천 강화군 하점면 부근리 252",
+      "gwonyeok": "수도권",
+      "bigo": "서울·문산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "FEBC FM (기독교복음)",
+      "hochul_buho": "HLKX",
+      "songsinso": "대부도 송신소",
+      "jupasu": "AM 1188㎑",
+      "chullyeok": "100㎾",
+      "songsinso_wichi": "경기 안산시 단원구 대부남동 1126-130",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "FEBC FM (기독교복음)",
+      "hochul_buho": "HLKX-SFM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 106.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "Cpbc FM (천주교)",
+      "hochul_buho": "HLQP-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 105.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "BBS FM (불교)",
+      "hochul_buho": "HLSG-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 101.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "BBS FM (불교)",
+      "hochul_buho": "HLSG-FM",
+      "songsinso": "인천 중계소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "인천 미추홀구 주안2동 산21-1",
+      "gwonyeok": "수도권",
+      "bigo": "인천지역 일원 진주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "WBS FM (원불교)",
+      "hochul_buho": "HLQK-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 89.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "Gugak FM",
+      "hochul_buho": "",
+      "songsinso": "남산 송신소",
+      "jupasu": "FM 99.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "서울 용산구 용산동2가 산1-3",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "남산 송신소",
+      "jupasu": "FM 96.7㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "서울 용산구 용산동2가 산1-3",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역 춘천과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경기 파주시 적성면 객현리 산182",
+      "gwonyeok": "수도권",
+      "bigo": "파주시 적성면 일원"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "용문산 중계소",
+      "jupasu": "FM 101.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경기 양평군 옥천면 용천리 산2-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역 바로 옆 주파수 TBS eFM 101.3MHz 수신이 곤란함"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "백령 간이중계소",
+      "jupasu": "FM 89.5㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "인천 옹진군 백령면 진촌리 산75-1",
+      "gwonyeok": "수도권",
+      "bigo": "인천 옹진군 백령면 일원"
+    },
+    {
+      "bangsongguk": "TBS FM",
+      "hochul_buho": "HLST-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 95.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "TBS eFM",
+      "hochul_buho": "HLSW-FM",
+      "songsinso": "관악산 송신소",
+      "jupasu": "FM 101.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경기 과천시 중앙동 산12-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "TBN 경인교통방송",
+      "hochul_buho": "HLSU-FM",
+      "songsinso": "수봉산 송신소",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "인천 미추홀구 주안2동 산21-1 (경인방송 iFM)",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "TBN 경인교통방송",
+      "hochul_buho": "HLSU-FM",
+      "songsinso": "영종 중계소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "인천 중구 을왕도 773 (영종스카이리조트)",
+      "gwonyeok": "수도권",
+      "bigo": "강릉·제주·광해와 같은 주파수"
+    },
+    {
+      "bangsongguk": "YTN라디오",
+      "hochul_buho": "HLQV-FM",
+      "songsinso": "청계산 송신소",
+      "jupasu": "FM 94.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경기 성남시 수정구 상적동 산73-2",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "경인방송 (iFM)",
+      "hochul_buho": "HLDO-FM",
+      "songsinso": "수봉산 송신소",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "인천 미추홀구 주안2동 산21-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "OBS경인FM",
+      "hochul_buho": "HLMD-FM",
+      "songsinso": "광교산 송신소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 용인시 수지구 고기동 산52",
+      "gwonyeok": "수도권",
+      "bigo": "수도권지역 일원 SBS 네트워크 지역민영방송 부산와 같은 주파수"
+    },
+    {
+      "bangsongguk": "OBS경인FM",
+      "hochul_buho": "HLMD-FM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경기 파주시 적성면 객현리 산182",
+      "gwonyeok": "수도권",
+      "bigo": "파주시 적성면 일원"
+    },
+    {
+      "bangsongguk": "OBS경인FM",
+      "hochul_buho": "HLMD-FM",
+      "songsinso": "용문산 중계소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경기 양평군 옥천면 용천리 산2-1",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "동두천 중계소",
+      "jupasu": "AM 1197㎑",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경기도 동두천시 보산동 (캠프 케이시)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "의정부 송신소",
+      "jupasu": "AM 1161㎑",
+      "chullyeok": "250W",
+      "songsinso_wichi": "경기도 의정부시 가능1동 (캠프 레드 클라우드)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "송탄 송신소",
+      "jupasu": "AM 1359㎑",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경기도 평택시 신장동 (오산공항)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "평택 중계소",
+      "jupasu": "AM 1440㎑",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경기도 평택시 팽성읍 대추리 (캠프 험프리스)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "HLUS-FM",
+      "songsinso": "남산 송신소",
+      "jupasu": "FM 102.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "서울특별시 용산구 용산동2가 산1-3",
+      "gwonyeok": "수도권",
+      "bigo": "수도권 전지역"
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "HLUS-FM",
+      "songsinso": "동두천 중계소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경기도 동두천시 보산동 (캠프 케이시)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "HLUS-FM",
+      "songsinso": "의정부 송신소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경기도 의정부시 가능1동 (캠프 레드 클라우드)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "HLUS-FM",
+      "songsinso": "송탄 송신소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "30W",
+      "songsinso_wichi": "경기도 평택시 신장동 (오산공항)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "HLUS-FM",
+      "songsinso": "평택 중계소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "경기도 평택시 팽성읍 대추리 (캠프 험프리스)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "관악공동체라디오",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 100.3㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "서울특별시 관악구 양녕로 31 두산아파트",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "마포공동체라디오 (마포FM)",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "서울특별시 마포구 서강로9길 45 (태영데시앙아파트)",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "성남FM (FM분당)",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경기도 성남시 분당구",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "연수공동체FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "인천 연수구",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "인천FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 98.5㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "인천 서구",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "화성FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경기도 화성시",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "수원FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경기도 수원시",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "서대문마을공동체라디오",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "서울특별시 서대문구",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "단원FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 88.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경기도 안산시",
+      "gwonyeok": "수도권",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS광주 제1라디오 표준FM",
+      "hochul_buho": "HLKH",
+      "songsinso": "비아 송신소",
+      "jupasu": "AM 747㎑",
+      "chullyeok": "100㎾",
+      "songsinso_wichi": "광주 광산구 수완동 451",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS광주 제1라디오 표준FM",
+      "hochul_buho": "HLKH-SFM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 90.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주 동구 용연동 산354-4",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 전남 일원, 전북 일부 전북CBS 표준FM 주파수와 혼신, 안동과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS광주 제1라디오 표준FM",
+      "hochul_buho": "HLKH-SFM",
+      "songsinso": "영광 중계소",
+      "jupasu": "FM 94.9㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "전남 영광군 영광읍 도동리 산3-6 물퇴봉",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS광주 제1라디오 표준FM",
+      "hochul_buho": "HLKH-SFM",
+      "songsinso": "장흥 중계소",
+      "jupasu": "FM 96.1㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "전남 장흥군 장흥읍 행원리 산8",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS광주 제2라디오 해피FM",
+      "hochul_buho": "HLAA-SFM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 95.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "광주 동구 용연동 산354-4",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "KBS광주 클래식FM",
+      "hochul_buho": "HLKH-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 92.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주 동구 용연동 산354-4",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 전남지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 105.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "광주 동구 용연동 산354-4",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 전남지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "이서 중계소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전남 화순군 이서면 영평리",
+      "gwonyeok": "전남광주",
+      "bigo": "화순군 이서면 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "영광 중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "전남 영광군 영광읍 도동리 산1-1 물퇴봉",
+      "gwonyeok": "전남광주",
+      "bigo": "영광지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "장흥 중계소",
+      "jupasu": "FM 106.9㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "전남 장흥군 장흥읍 행원리 산8",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 전남지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "벌교 중계소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전남 보성군 벌교읍 벌교리 산3-1",
+      "gwonyeok": "전남광주",
+      "bigo": "보성군 벌교읍, 여순광지역 일원 목포와 같은 주파수"
+    },
+    {
+      "bangsongguk": "광주MBC 표준FM",
+      "hochul_buho": "HLCN",
+      "songsinso": "비아 송신소",
+      "jupasu": "AM 819㎑",
+      "chullyeok": "20㎾",
+      "songsinso_wichi": "광주 광산구 월계동 286",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "광주MBC 표준FM",
+      "hochul_buho": "HLCN-SFM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "광주MBC 표준FM",
+      "hochul_buho": "HLCN-SFM",
+      "songsinso": "영광 중계소",
+      "jupasu": "FM 101.9㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "전남 영광군 영광읍 도동리 산1-1 물퇴봉",
+      "gwonyeok": "전남광주",
+      "bigo": "영광지역 일원"
+    },
+    {
+      "bangsongguk": "광주MBC FM4U",
+      "hochul_buho": "HLCN-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 91.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주광역시 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "kbc MyFM (SBS 파워FM)",
+      "hochul_buho": "HLDH-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 101.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "kbc MyFM (SBS 파워FM)",
+      "hochul_buho": "HLDH-FM",
+      "songsinso": "영광 중계소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "전남 영광군 영광읍 도동리 산1-1 물퇴봉",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "광주CBS 표준FM (기독교)",
+      "hochul_buho": "HLCL-SFM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 103.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "대구와 같은 주파수 광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "광주CBS 음악FM (기독교)",
+      "hochul_buho": "HLEM-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 98.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부 WBS 전북원음방송/목포KBS 클래식FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "광주극동방송 (기독교복음)",
+      "hochul_buho": "HLED-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 93.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 전남, 전북 일부 전주KBS 해피FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "광주가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDL-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "광주불교방송 (불교)",
+      "hochul_buho": "HLDB-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 89.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "광주원음방송 (원불교)",
+      "hochul_buho": "HLQN-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 107.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "광주 동구 용연동 산354-4",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "광주국악방송",
+      "hochul_buho": "HLEG-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 99.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부 전주MBC FM4U 주파수와 혼신, 영동과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "-",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 96.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "광주 동구 용연동 산354-4 무등산",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부 전북CBS 표준FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "광주영어방송 (GFN)",
+      "hochul_buho": "HLSY-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 전남, 전북 일부"
+    },
+    {
+      "bangsongguk": "TBN 전남광주교통방송",
+      "hochul_buho": "HLDM-FM",
+      "songsinso": "무등산 송신소",
+      "jupasu": "FM 97.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "광주 북구 금곡동 산1-1 (광주방송)",
+      "gwonyeok": "전남광주",
+      "bigo": "광주, 목포, 해남, 구례지역 일원, 전북 일부"
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "-",
+      "songsinso": "광주 중계소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "광주광역시 광산구 신촌동 (광주공항)",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "광주시민방송",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 88.9㎒",
+      "chullyeok": "3W",
+      "songsinso_wichi": "",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "GBS 고려방송",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "",
+      "gwonyeok": "전남광주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS목포 제1라디오 표준FM",
+      "hochul_buho": "HLKN",
+      "songsinso": "영암 송신소",
+      "jupasu": "AM 1467㎑",
+      "chullyeok": "50㎾",
+      "songsinso_wichi": "전남 영암군 삼호읍 난전리 558-2",
+      "gwonyeok": "목포",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS목포 제1라디오 표준FM",
+      "hochul_buho": "HLKN-SFM",
+      "songsinso": "대둔산 송신소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "전남 해남군 현산면 조산리 산84-1",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원"
+    },
+    {
+      "bangsongguk": "KBS광주 제2라디오 해피FM",
+      "hochul_buho": "HLAA-SFM",
+      "songsinso": "대둔산 송신소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전남 해남군 현산면 조산리 산84-1",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원"
+    },
+    {
+      "bangsongguk": "KBS목포 클래식FM",
+      "hochul_buho": "HLKN-FM",
+      "songsinso": "양을산 송신소",
+      "jupasu": "FM 98.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 목포시 상동 산55-12",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원 WBS 전북원음방송/광주CBS 음악FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "대둔산 송신소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "전남 해남군 현산면 황산리 산1-16",
+      "gwonyeok": "목포",
+      "bigo": "광주, 전남지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "양을산 송신소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전남 목포시 상동 산55-2",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원"
+    },
+    {
+      "bangsongguk": "목포MBC 표준FM",
+      "hochul_buho": "HLAM-SFM",
+      "songsinso": "대둔산 송신소",
+      "jupasu": "FM 89.1㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "전남 해남군 현산면 황산리 산1-16",
+      "gwonyeok": "목포",
+      "bigo": "광주, 전남지역 일원"
+    },
+    {
+      "bangsongguk": "목포MBC FM4U",
+      "hochul_buho": "HLAM-FM",
+      "songsinso": "양을산 송신소",
+      "jupasu": "FM 102.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전라남도 목포시 상동 산55-2",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원"
+    },
+    {
+      "bangsongguk": "목포극동방송 (기독교복음)",
+      "hochul_buho": "HLKW-FM",
+      "songsinso": "양을산 송신소",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 목포시 용해동 산34-1",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원"
+    },
+    {
+      "bangsongguk": "남도국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "대둔산 송신소",
+      "jupasu": "FM 94.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "전남 해남군 현산면 황산리 산1-16",
+      "gwonyeok": "목포",
+      "bigo": "광주, 목포, 해남지역 일원"
+    },
+    {
+      "bangsongguk": "KBS순천 제1라디오 표준FM",
+      "hochul_buho": "HLCY",
+      "songsinso": "신월 송신소",
+      "jupasu": "AM 630㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "전남 여수시 신월동 213-1",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS순천 제1라디오 표준FM",
+      "hochul_buho": "HLCY-SFM",
+      "songsinso": "망운산 송신소",
+      "jupasu": "FM 95.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 남해군 서면 연죽리 산38",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "KBS순천 제1라디오 표준FM",
+      "hochul_buho": "HLCY-SFM",
+      "songsinso": "남산 중계소",
+      "jupasu": "FM 88.7㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "전남 순천시 덕월동 산115-2",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "KBS광주 제2라디오 해피FM",
+      "hochul_buho": "HLKZ-SFM",
+      "songsinso": "남산 송신소",
+      "jupasu": "FM 102.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 순천시 덕월동 산115-2",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "KBS광주 제2라디오 해피FM",
+      "hochul_buho": "HLKZ-SFM",
+      "songsinso": "구봉산 중계소",
+      "jupasu": "FM 100.9㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역 대전과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS광주 제2라디오 해피FM",
+      "hochul_buho": "HLKZ-SFM",
+      "songsinso": "고흥 중계소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "전남 고흥군 고흥읍 남계리 산58-1",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "고흥지역 일원 (여순광 제외) 속초와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS순천 제3라디오",
+      "hochul_buho": "HLKZ",
+      "songsinso": "해룡 송신소",
+      "jupasu": "AM 576㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "전남 순천시 해룡면 대안리 974-2",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS광주 클래식FM",
+      "hochul_buho": "HLCY-FM",
+      "songsinso": "망운산 송신소",
+      "jupasu": "FM 94.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 남해군 연죽면 망운리 산4-1",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "심장 중계소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "전남 여수시 남면 심장리 산198",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여수시 남면 지역 일원 (여순광 제외)"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "도화 중계소",
+      "jupasu": "FM 105.7㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "전남 고흥군 도화면 당오리 산113 시루봉",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "고흥권 도화면 일원 (여순광 제외)"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "망운산 송신소",
+      "jupasu": "FM 106.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 남해군 서면 연죽리 산38",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "여수MBC 표준FM",
+      "hochul_buho": "HLAT-SFM",
+      "songsinso": "남산 송신소",
+      "jupasu": "FM 100.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 순천시 인제동 산42-2",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역 대구와 같은 주파수"
+    },
+    {
+      "bangsongguk": "여수MBC 표준FM",
+      "hochul_buho": "HLAT-SFM",
+      "songsinso": "구봉산 중계소",
+      "jupasu": "FM 107.1㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "여수MBC 표준FM",
+      "hochul_buho": "HLAT-SFM",
+      "songsinso": "망운산 중계소",
+      "jupasu": "FM 101.3㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "경남 남해군 서면 연죽리 산38",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "여수MBC FM4U",
+      "hochul_buho": "HLAT-FM",
+      "songsinso": "구봉산 송신소",
+      "jupasu": "FM 98.3㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "전라남도 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "kbc MyFM (SBS 파워FM)",
+      "hochul_buho": "HLDH-FM",
+      "songsinso": "구봉산 중계소",
+      "jupasu": "FM 96.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산160-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "kbc MyFM (SBS 파워FM)",
+      "hochul_buho": "HLDH-FM",
+      "songsinso": "구봉화산 중계소",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "0.1kW",
+      "songsinso_wichi": "전남 광양시 성황동 산228",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "전남CBS 표준FM (기독교)",
+      "hochul_buho": "HLCL-FM",
+      "songsinso": "구봉산 송신소",
+      "jupasu": "FM 102.1㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "전남CBS 표준FM (기독교)",
+      "hochul_buho": "HLCL-FM",
+      "songsinso": "남산 중계소",
+      "jupasu": "FM 89.5㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "전남 순천시 인제동 산42-2",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "전남동부극동방송 (기독교복음)",
+      "hochul_buho": "HLEI-FM",
+      "songsinso": "구봉화산 송신소",
+      "jupasu": "FM 97.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 광양시 성황동 산228",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "전남동부극동방송 (기독교복음)",
+      "hochul_buho": "HLEI-FM",
+      "songsinso": "구봉산 중계소",
+      "jupasu": "FM 92.9㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여수 전지역, 순천, 광양 전지역 춘천와 같은 주파수"
+    },
+    {
+      "bangsongguk": "광주가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDL-FM",
+      "songsinso": "구봉산 중계소",
+      "jupasu": "FM 99.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "글로벌광주방송 (GGN)",
+      "hochul_buho": "HLSY-FM",
+      "songsinso": "구봉산 중계소",
+      "jupasu": "FM 93.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 여수시 여서동 산163-3",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "광주불교방송 (불교)",
+      "hochul_buho": "HLDB-FM",
+      "songsinso": "구봉화산 중계소",
+      "jupasu": "FM 105.7㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "전남 광양시 성황동 산228",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "광주불교방송 (불교)",
+      "hochul_buho": "HLDB-FM",
+      "songsinso": "장군산 중계소",
+      "jupasu": "FM 105.1㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "전남 여수시 광무동 산24",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여수 전지역"
+    },
+    {
+      "bangsongguk": "TBN 전남광주교통방송",
+      "hochul_buho": "HLDM-FM",
+      "songsinso": "광양간이 중계소",
+      "jupasu": "FM 103.5㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "전남 광양시 성황동 산228",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": "여순광 전지역"
+    },
+    {
+      "bangsongguk": "순천미디어네트워크",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 92.5㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "전남광주통합특별시 순천시",
+      "gwonyeok": "여수·순천·광양",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS청주 제1라디오",
+      "hochul_buho": "HLKQ",
+      "songsinso": "청원 송신소",
+      "jupasu": "AM 1062㎑",
+      "chullyeok": "50㎾",
+      "songsinso_wichi": "충북 청주시 청원구 오창읍 가곡리 443",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS청주 제1라디오",
+      "hochul_buho": "HLKQ-SFM",
+      "songsinso": "우암산 송신소",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 청주시 상당구 수동 산2-3",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS청주 제1라디오",
+      "hochul_buho": "HLKQ-SFM",
+      "songsinso": "금적산 중계소",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "0.09㎾",
+      "songsinso_wichi": "충북 보은군 보은읍 풍취리 산11-5",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS청주 제1라디오",
+      "hochul_buho": "HLKQ-SFM",
+      "songsinso": "영동 중계소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충북 영동군 영동읍 주곡리 산32-3",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS청주 제2라디오",
+      "hochul_buho": "HLAC-SFM",
+      "songsinso": "우암산 송신소",
+      "jupasu": "FM 90.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충북 청주시 상당구 수동 산2-3",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS청주 FM",
+      "hochul_buho": "HLKQ-FM",
+      "songsinso": "우암산 송신소",
+      "jupasu": "FM 94.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 청주시 상당구 수동 산2-1",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "청주 중계소",
+      "jupasu": "FM 105.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충북 청주시 서원구 성화동 456",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "보은 중계소",
+      "jupasu": "FM 107.3㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "충북 보은군 보은읍 풍취리 산11-5",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "영동 중계소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충북 영동군 영동읍 회동리 산10",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC충북 청주 표준FM",
+      "hochul_buho": "HLAX-SFM",
+      "songsinso": "우암산 송신소",
+      "jupasu": "FM 107.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 청주시 청원구 수동 산2-5",
+      "gwonyeok": "청주",
+      "bigo": "여수와 같은 주파수"
+    },
+    {
+      "bangsongguk": "MBC충북 청주 표준FM",
+      "hochul_buho": "HLAX-SFM",
+      "songsinso": "금적산 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충북 옥천군 안내면 오덕리 산1-1",
+      "gwonyeok": "청주",
+      "bigo": "강릉과 같은 주파수"
+    },
+    {
+      "bangsongguk": "MBC충북 청주 FM4U",
+      "hochul_buho": "HLAX-FM",
+      "songsinso": "우암산 송신소",
+      "jupasu": "FM 99.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충청북도 청주시 상당구 수동 산2-5",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "CJB JOY FM (SBS 파워FM)",
+      "hochul_buho": "HLDR-FM",
+      "songsinso": "우암산 송신소",
+      "jupasu": "FM 101.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충북 청주시 상당구 수동 산2-4",
+      "gwonyeok": "청주",
+      "bigo": "제주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "청주불교방송 (불교)",
+      "hochul_buho": "HLDJ-FM",
+      "songsinso": "부모산 송신소",
+      "jupasu": "FM 96.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충북 청주시 흥덕구 지동동 산7-3",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "충북CBS 표준FM (기독교)",
+      "hochul_buho": "HLAC-FM",
+      "songsinso": "부모산 송신소",
+      "jupasu": "FM 91.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충북 청주시 흥덕구 지동동 산7-3",
+      "gwonyeok": "청주",
+      "bigo": "강릉·포항과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대전극동방송 (기독교복음)",
+      "hochul_buho": "-",
+      "songsinso": "부모산 중계소",
+      "jupasu": "FM 104.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충북 청주시 흥덕구 지동동 산7-3",
+      "gwonyeok": "청주",
+      "bigo": "제주, 충주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "청주국악방송",
+      "hochul_buho": "-",
+      "songsinso": "청주 송신소",
+      "jupasu": "FM 107.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 청주시",
+      "gwonyeok": "청주",
+      "bigo": "대구와 같은 주파수"
+    },
+    {
+      "bangsongguk": "영동국악방송",
+      "hochul_buho": "-",
+      "songsinso": "영동 송신소",
+      "jupasu": "FM 99.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 영동군 영동읍 화동리 산10",
+      "gwonyeok": "청주",
+      "bigo": "광주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 충북교통방송",
+      "hochul_buho": "HLEO-FM",
+      "songsinso": "부모산 송신소",
+      "jupasu": "FM 103.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 청주시 흥덕구 지동동 산7-3",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "옥천FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "충청북도 옥천군",
+      "gwonyeok": "청주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS충주 제1라디오",
+      "hochul_buho": "HLCH-SFM",
+      "songsinso": "가엽산 송신소",
+      "jupasu": "FM 92.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS충주 제1라디오",
+      "hochul_buho": "HLCH-SFM",
+      "songsinso": "용두산 중계소",
+      "jupasu": "FM 103.3㎒",
+      "chullyeok": "0.25㎾",
+      "songsinso_wichi": "충북 제천시 신월동 산39-30 용두산",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS충주 제1라디오",
+      "hochul_buho": "HLCH-SFM",
+      "songsinso": "단양 중계소",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "0.25㎾",
+      "songsinso_wichi": "충북 단양군 적성면 하리 산86-2 금수산",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS충주 FM",
+      "hochul_buho": "HLCH-FM",
+      "songsinso": "가엽산 송신소",
+      "jupasu": "FM 100.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "가엽산 송신소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "금수산 중계소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충북 단양군 적성면 상리 산86",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC충북 충주 표준FM",
+      "hochul_buho": "HLAO-SFM",
+      "songsinso": "가엽산 송신소",
+      "jupasu": "FM 96.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC충북 충주 표준FM",
+      "hochul_buho": "HLAO-SFM",
+      "songsinso": "제천간이FM중계소",
+      "jupasu": "FM 94.7㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "충북 제천시 신월동 산39-30 용두산",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC충북 충주 표준FM",
+      "hochul_buho": "HLAO-SFM",
+      "songsinso": "단양간이FM중계소",
+      "jupasu": "FM 94.1㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "충북 단양군 적성면 상리 산86-2 금수산",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC충북 충주 FM4U",
+      "hochul_buho": "HLAO-FM",
+      "songsinso": "가엽산 송신소",
+      "jupasu": "FM 88.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충청북도 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "CJB JOY FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "가엽산 중계소",
+      "jupasu": "FM 97.9㎒",
+      "chullyeok": "2㎾",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "CJB JOY FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "용두산 중계소",
+      "jupasu": "FM 102.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충북 제천시 신월동 산39-30",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "청주불교방송 (불교)",
+      "hochul_buho": "-",
+      "songsinso": "가엽산 중계소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "충북CBS 표준FM (기독교)",
+      "hochul_buho": "-",
+      "songsinso": "충주남산 중계소",
+      "jupasu": "FM 99.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충북 충주시 목벌동 산58-3",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대전극동방송 (기독교복음)",
+      "hochul_buho": "-",
+      "songsinso": "가엽산 중계소",
+      "jupasu": "FM 104.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충북 음성군 음성읍 용산리 산11-4",
+      "gwonyeok": "충주",
+      "bigo": "제주, 청주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "충주국악방송",
+      "hochul_buho": "-",
+      "songsinso": "충주남산 중계소",
+      "jupasu": "FM 101.7㎒",
+      "chullyeok": "300W",
+      "songsinso_wichi": "충북 충주시 목벌동 산58-3",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "제천국악방송",
+      "hochul_buho": "-",
+      "songsinso": "용두산 중계소",
+      "jupasu": "FM 90.1㎒",
+      "chullyeok": "1kW",
+      "songsinso_wichi": "충북 제천시 신월동 산39-30",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 충북교통방송",
+      "hochul_buho": "-",
+      "songsinso": "남산 중계소",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충북 충주시 목벌동 산58-3 (리얼텔레콤)",
+      "gwonyeok": "충주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대전 제1라디오",
+      "hochul_buho": "HLKI",
+      "songsinso": "대덕 송신소",
+      "jupasu": "AM 882㎑",
+      "chullyeok": "20㎾",
+      "songsinso_wichi": "대전 대덕구 와동 291-2",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대전 제1라디오",
+      "hochul_buho": "HLKI-SFM",
+      "songsinso": "계룡산 송신소",
+      "jupasu": "FM 94.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "충남 계룡시 신도안면 부남리 산11-5",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 계룡"
+    },
+    {
+      "bangsongguk": "KBS대전 제1라디오",
+      "hochul_buho": "HLKI-SFM",
+      "songsinso": "흑성산 중계소",
+      "jupasu": "FM 89.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충남 천안시 동남구 목천읍 지산리 산11-3",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "천안"
+    },
+    {
+      "bangsongguk": "KBS대전 제1라디오",
+      "hochul_buho": "HLKI-SFM",
+      "songsinso": "원효봉 중계소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "250W",
+      "songsinso_wichi": "충남 서산시 해미면 산수리 산25-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "서산 용인과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS대전 제1라디오",
+      "hochul_buho": "HLKI-SFM",
+      "songsinso": "옥마산 중계소",
+      "jupasu": "FM 107.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 보령시 성주면 개화리 산23-4",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대전 제1라디오",
+      "hochul_buho": "HLKI-SFM",
+      "songsinso": "서천 중계소",
+      "jupasu": "FM 88.9㎒",
+      "chullyeok": "90W",
+      "songsinso_wichi": "충남 서천군 서천읍 남산리 산34 남산",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대전 제2라디오",
+      "hochul_buho": "HLQT-SFM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 100.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대전 동구 대성동 산2-7",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "여수와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS대전 제2라디오",
+      "hochul_buho": "HLQT-SFM",
+      "songsinso": "옥마산 중계소",
+      "jupasu": "FM 89.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 보령시 성주면 개화리 산23-4",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대전 FM",
+      "hochul_buho": "HLKI-FM",
+      "songsinso": "계룡산 송신소",
+      "jupasu": "FM 98.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "충남 계룡시 신도안면 부남리 산11-5",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 계룡"
+    },
+    {
+      "bangsongguk": "KBS대전 FM",
+      "hochul_buho": "",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 102.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대전 동구 대성동 산 2-7",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 충북지역"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "계룡산 송신소",
+      "jupasu": "FM 105.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "충남 계룡시 신도안면 부남리 산11-5",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 계룡"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 107.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대전 동구 대성동 산2-7",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 충북"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "옥마산 중계소",
+      "jupasu": "FM 104.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 보령시 성주면 개화리 산23-4",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "보령지역"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "원효봉 중계소",
+      "jupasu": "FM 102.3㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충남 서산시 해미면 산수리 산25-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "서산"
+    },
+    {
+      "bangsongguk": "대전MBC 표준FM",
+      "hochul_buho": "HLCQ-SFM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 92.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대전 동구 세천동 603-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 계룡지역 일원 천안과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대전MBC 표준FM",
+      "hochul_buho": "HLCQ-SFM",
+      "songsinso": "천안 중계소",
+      "jupasu": "FM 92.5㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "충남 천안시 서북구 성정2동 1486",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대전MBC 표준FM",
+      "hochul_buho": "HLCQ-SFM",
+      "songsinso": "원효봉 중계소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충남 서산시 해미면 산수리 산25-1 가야산",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "서산지역 일원"
+    },
+    {
+      "bangsongguk": "대전MBC 표준FM",
+      "hochul_buho": "HLCQ-SFM",
+      "songsinso": "옥마산 중계소",
+      "jupasu": "FM 93.7㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "충남 보령시 성주면 개화리 산23-4",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대전MBC FM4U",
+      "hochul_buho": "HLCQ-FM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 97.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대전광역시 동구 세천동 603-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TJB Power FM (SBS 파워FM)",
+      "hochul_buho": "HLDF-FM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 95.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대전 동구 낭월동 300",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TJB Power FM (SBS 파워FM)",
+      "hochul_buho": "HLDF-FM",
+      "songsinso": "원효봉 중계소",
+      "jupasu": "FM 96.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "충남 서산시 해미면 산수리 산25-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TJB Power FM (SBS 파워FM)",
+      "hochul_buho": "HLDF-FM",
+      "songsinso": "흑성산 중계소",
+      "jupasu": "FM 95.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 천안시 동남구 목천읍 지산리 산11-3",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TJB Power FM (SBS 파워FM)",
+      "hochul_buho": "HLDF-FM",
+      "songsinso": "옥마산 중계소",
+      "jupasu": "FM 96.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 보령시 성주면 개화리 산23-4",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TJB Power FM (SBS 파워FM)",
+      "hochul_buho": "HLDF-FM",
+      "songsinso": "설화산 중계소",
+      "jupasu": "FM 96.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 아산시 좌부동",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대전CBS 표준FM (기독교)",
+      "hochul_buho": "HLDX-SFM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 91.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대전 동구 낭월동 300",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 계룡지역 일원"
+    },
+    {
+      "bangsongguk": "대전CBS 표준FM (기독교)",
+      "hochul_buho": "HLDX-SFM",
+      "songsinso": "홍성 중계소",
+      "jupasu": "FM 99.3㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "충남 예산군 음봉면 전계리",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "예산지역 일원"
+    },
+    {
+      "bangsongguk": "대전극동방송 (기독교복음)",
+      "hochul_buho": "HLAD-FM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 93.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대전 동구 낭월동 300",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "부산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대전극동방송 (기독교복음)",
+      "hochul_buho": "HLAD-FM",
+      "songsinso": "공주 중계소",
+      "jupasu": "FM 93.3㎒",
+      "chullyeok": "90W",
+      "songsinso_wichi": "충남 공주시 반죽동 산2-1 봉황산",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "부산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대전가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLQO-FM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 106.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대전 동구 낭월동 300",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대전국악방송",
+      "hochul_buho": "HLEK-FM",
+      "songsinso": "대전 송신소",
+      "jupasu": "FM 90.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "대전 동구 효동 122-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "-",
+      "songsinso": "계룡산 송신소",
+      "jupasu": "FM 100.1㎒",
+      "chullyeok": "200W",
+      "songsinso_wichi": "충남 계룡시 신도안면 부남리 1063-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 대전교통방송",
+      "hochul_buho": "HLDT-FM",
+      "songsinso": "식장산 송신소",
+      "jupasu": "FM 102.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대전 동구 낭월동 300 (대전방송)",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전, 계룡 공주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 대전교통방송",
+      "hochul_buho": "HLDT-FM",
+      "songsinso": "공주 중계소",
+      "jupasu": "FM 102.9㎒",
+      "chullyeok": "30W",
+      "songsinso_wichi": "충남 공주시 옥룡동 22-18 (공주시 상수도시설관리소)",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대전과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 충남교통방송",
+      "hochul_buho": "HLEP-FM",
+      "songsinso": "원효봉 송신소",
+      "jupasu": "FM 103.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "충남 서산시 해미면 산수리 산25-1 (대전방송)",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대구, 공주, 금산, 보령과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 충남교통방송",
+      "hochul_buho": "HLEP-FM",
+      "songsinso": "계룡산 중계소",
+      "jupasu": "FM 103.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "충남 계룡시 신도안면 부남리 1063-1",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대구, 서산, 금산, 보령과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 충남교통방송",
+      "hochul_buho": "HLEP-FM",
+      "songsinso": "금산 중계소",
+      "jupasu": "FM 103.9㎒",
+      "chullyeok": "0.2㎾",
+      "songsinso_wichi": "충남 금산군 금산읍 중도리 204-8 (청산회관)",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대구, 서산, 공주, 보령과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 충남교통방송",
+      "hochul_buho": "HLEP-FM",
+      "songsinso": "옥마산 중계소",
+      "jupasu": "FM 103.9㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "충남 보령시 성주면 개화리 산23-4",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": "대구, 서산, 공주, 금산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 충남교통방송",
+      "hochul_buho": "HLEP-FM",
+      "songsinso": "흑성산 중계소",
+      "jupasu": "103.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "충남 천안시 동남구 목천읍 지산리 산11-3",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "금강FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "충청남도 공주시 무령로 332-1 공주상수도시설관리소",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "한밭생활문화방송",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 93.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "대전 서구",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "세종FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 98.9㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "세종특별자치시",
+      "gwonyeok": "대전·세종·충남",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대구 제1라디오",
+      "hochul_buho": "HLKG",
+      "songsinso": "경산 송신소",
+      "jupasu": "AM 738㎑",
+      "chullyeok": "100㎾",
+      "songsinso_wichi": "경북 경산시 진량읍 부기리 130",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대구 제1라디오",
+      "hochul_buho": "HLKG-SFM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 101.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대구 동구 용수동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "KBS대구 제1라디오",
+      "hochul_buho": "HLKG-SFM",
+      "songsinso": "김천 중계소",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 김천시 신음동 산92 달봉산",
+      "gwonyeok": "대구",
+      "bigo": "김천지역 일원 울산와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS대구 제2라디오",
+      "hochul_buho": "HLQH",
+      "songsinso": "영일 송신소",
+      "jupasu": "AM 558㎑",
+      "chullyeok": "250㎾",
+      "songsinso_wichi": "경북 포항시 남구 호미곶면 해맞이로 252",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대구 제2라디오",
+      "hochul_buho": "HLQH-SFM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 102.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대구 동구 용수동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "KBS대구 제2라디오",
+      "hochul_buho": "HLQH-SFM",
+      "songsinso": "김천 중계소",
+      "jupasu": "FM 88.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 김천시 신음동 산92 달봉산",
+      "gwonyeok": "대구",
+      "bigo": "김천지역 일원"
+    },
+    {
+      "bangsongguk": "KBS대구 FM",
+      "hochul_buho": "HLKG-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 89.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대구 동구 용수동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 105.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대구 동구 용수동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "HLQL-FM",
+      "songsinso": "금오산 중계소",
+      "jupasu": "FM 107.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 구미시 남통동 산94",
+      "gwonyeok": "대구",
+      "bigo": "구미지역 일원"
+    },
+    {
+      "bangsongguk": "대구MBC 표준FM",
+      "hochul_buho": "HLCT-SFM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 96.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경북 영천시 신녕면 치산리 산141-5",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "대구MBC 표준FM",
+      "hochul_buho": "HLCT-SFM",
+      "songsinso": "김천 중계소",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 김천시 신음동 101-8 달봉산",
+      "gwonyeok": "대구",
+      "bigo": "김천지역 일원"
+    },
+    {
+      "bangsongguk": "대구MBC 표준FM",
+      "hochul_buho": "HLCT-SFM",
+      "songsinso": "와룡산 중계소",
+      "jupasu": "FM 100.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "대구 달서구 이곡동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구 달서구 지역 일원 순천과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대구MBC FM4U",
+      "hochul_buho": "HLCT-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 95.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경상북도 영천시 신녕면 치산리 산141-5",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBC Dream FM",
+      "hochul_buho": "HLDE-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 99.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경북 영천시 신녕면 치산리 산141-5",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원 태백과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBC Dream FM",
+      "hochul_buho": "HLDE-FM",
+      "songsinso": "와룡산 중계소",
+      "jupasu": "FM 106.5MHz",
+      "chullyeok": "20W",
+      "songsinso_wichi": "대구 달서구 이곡동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구 달서구 지역 일원 안동과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대구CBS 표준FM (기독교)",
+      "hochul_buho": "HLKT-SFM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 103.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경북 영천시 신녕면 치산리 산141-5",
+      "gwonyeok": "대구",
+      "bigo": "광주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "대구CBS 음악FM (기독교)",
+      "hochul_buho": "HLKT-FM",
+      "songsinso": "와룡산 송신소",
+      "jupasu": "FM 97.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "대구 남구 대명9동 산277-1",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대구극동방송 (기독교복음)",
+      "hochul_buho": "HLKK-FM",
+      "songsinso": "와룡산 송신소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "대구 달서구 이곡동 산1",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "대구극동방송 (기독교복음)",
+      "hochul_buho": "HLKK-FM",
+      "songsinso": "구미 중계소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "200W",
+      "songsinso_wichi": "경북 구미시 옥계동 산20 KT옥계",
+      "gwonyeok": "대구",
+      "bigo": "구미지역 일원"
+    },
+    {
+      "bangsongguk": "대구가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDK-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 93.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 영천시 신녕면 치산리 산141-5",
+      "gwonyeok": "대구",
+      "bigo": "대구, 영천지역 일원"
+    },
+    {
+      "bangsongguk": "대구가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDK-FM",
+      "songsinso": "김천 중계소",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "경북 김천시 평화동 406-1",
+      "gwonyeok": "대구",
+      "bigo": "김천지역 일원"
+    },
+    {
+      "bangsongguk": "대구불교방송 (불교)",
+      "hochul_buho": "HLDI-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 94.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "대구광역시 군위군 부계면 동산리 산73",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대구원음방송 (원불교)",
+      "hochul_buho": "HLCS-FM",
+      "songsinso": "앞산 송신소",
+      "jupasu": "FM 98.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "대구 남구 대명9동 산227-1",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대구국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "앞산 중계소",
+      "jupasu": "FM 107.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "대구 남구 대명9동 산227-1",
+      "gwonyeok": "대구",
+      "bigo": "청주과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 대구교통방송",
+      "hochul_buho": "HLDU-FM",
+      "songsinso": "팔공산 송신소",
+      "jupasu": "FM 103.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 영천시 신녕면 치산리 산141-5 (TBC)",
+      "gwonyeok": "대구",
+      "bigo": "서산, 공주, 금산, 보령과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 대구교통방송",
+      "hochul_buho": "HLDU-FM",
+      "songsinso": "김천 중계소",
+      "jupasu": "FM 95.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 김천시 신음동 산101-8 달봉산 (대구문화방송)",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "왜관 송신소",
+      "jupasu": "AM 1440㎑",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "대구광역시 남구 대명5동 (캠프 워커)",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "-",
+      "songsinso": "대구 송신소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "대구광역시 남구 대명5동 (캠프 워커)",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "-",
+      "songsinso": "왜관 중계소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "경상북도 칠곡군 왜관읍 왜관리 (캠프 캐럴)",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "성서공동체FM",
+      "hochul_buho": "HLMA-LFM-6002",
+      "songsinso": "",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "대구광역시 달서구 달구벌대로 1208",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "성주FM",
+      "hochul_buho": "HLMA-LFM-6003",
+      "songsinso": "",
+      "jupasu": "FM 92.7㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경상북도 성주군",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "와글사회적협동조합",
+      "hochul_buho": "HLMA-LFM-6005",
+      "songsinso": "",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "대구 동구",
+      "gwonyeok": "대구",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS포항 제1라디오 표준FM",
+      "hochul_buho": "HLCP",
+      "songsinso": "영일 송신소",
+      "jupasu": "AM 1035㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경북 포항시 남구 호미곶면 구만리 380",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS포항 제1라디오 표준FM",
+      "hochul_buho": "HLCP-SFM",
+      "songsinso": "조항산 송신소",
+      "jupasu": "FM 95.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 포항시 남구 동해면 석리 산94-1",
+      "gwonyeok": "포항",
+      "bigo": "포항, 경주지역 일원"
+    },
+    {
+      "bangsongguk": "KBS포항 제1라디오 표준FM",
+      "hochul_buho": "HLCP-SFM",
+      "songsinso": "울진FM 중계소",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "경북 울진군 원남면 덕신리 산10 현종산",
+      "gwonyeok": "포항",
+      "bigo": "울진군지역 일원"
+    },
+    {
+      "bangsongguk": "KBS포항 제1라디오 표준FM",
+      "hochul_buho": "HLCP-SFM",
+      "songsinso": "울릉FM 중계소",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "0.25㎾",
+      "songsinso_wichi": "경북 울릉군 울릉읍 사동리 산29-1 삼각산",
+      "gwonyeok": "포항",
+      "bigo": "울릉군지역 일원"
+    },
+    {
+      "bangsongguk": "KBS포항 제1라디오 표준FM",
+      "hochul_buho": "HLCP-SFM",
+      "songsinso": "독도FM 중계소",
+      "jupasu": "FM 102.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 울릉군 울릉읍 독도리 산30",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대구 제1라디오 표준FM",
+      "hochul_buho": "",
+      "songsinso": "경주 중계소",
+      "jupasu": "FM 88.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경북 경주시 건천읍 화천리 산14-1 벽도산",
+      "gwonyeok": "포항",
+      "bigo": "경주지역 일원"
+    },
+    {
+      "bangsongguk": "KBS대구 제2라디오 해피FM",
+      "hochul_buho": "-",
+      "songsinso": "울릉 중계소",
+      "jupasu": "FM 92.1㎒",
+      "chullyeok": "250W",
+      "songsinso_wichi": "경북 울릉군 울릉읍 사동리 산29-1 삼각산",
+      "gwonyeok": "포항",
+      "bigo": "울릉군지역 일원"
+    },
+    {
+      "bangsongguk": "KBS대구 클래식FM",
+      "hochul_buho": "HLCP-FM",
+      "songsinso": "조항산 송신소",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 포항시 동해면 석리 산94-1",
+      "gwonyeok": "포항",
+      "bigo": "포항, 경주지역 일원"
+    },
+    {
+      "bangsongguk": "KBS대구 클래식FM",
+      "hochul_buho": "",
+      "songsinso": "울릉 중계소",
+      "jupasu": "FM 94.1MHz",
+      "chullyeok": "250W",
+      "songsinso_wichi": "경북 울릉군 울릉읍 사동리 산29-1",
+      "gwonyeok": "포항",
+      "bigo": "울릉군지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "조항산 송신소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "3kW",
+      "songsinso_wichi": "경북 포항시 남구 동해면 석동리 산94",
+      "gwonyeok": "포항",
+      "bigo": "포항, 경주지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "경주 중계소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 경주시 건천읍 화천리 산14 벽도산",
+      "gwonyeok": "포항",
+      "bigo": "경주지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "울진 중계소",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 울진군 원남면 덕신리 산10",
+      "gwonyeok": "포항",
+      "bigo": "울진군지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "울릉 중계소",
+      "jupasu": "FM 107.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 울릉군 울릉읍 사동리 산29-1 삼각산",
+      "gwonyeok": "포항",
+      "bigo": "울릉군지역 일원"
+    },
+    {
+      "bangsongguk": "포항MBC 표준FM",
+      "hochul_buho": "HLAV-SFM",
+      "songsinso": "도음산 송신소",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 포항시 북구 흥해읍 대련리 1104-1",
+      "gwonyeok": "포항",
+      "bigo": "포항, 경주지역 일원"
+    },
+    {
+      "bangsongguk": "포항MBC 표준FM",
+      "hochul_buho": "HLAV-SFM",
+      "songsinso": "울릉간이FM중계소",
+      "jupasu": "FM 98.5㎒",
+      "chullyeok": "0.25㎾",
+      "songsinso_wichi": "경북 울릉군 울릉읍 사동리 산29-1 삼각산",
+      "gwonyeok": "포항",
+      "bigo": "울릉군지역 일원"
+    },
+    {
+      "bangsongguk": "포항MBC 표준FM",
+      "hochul_buho": "HLAV-SFM",
+      "songsinso": "울진간이FM중계소",
+      "jupasu": "FM 102.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 울진군 원남면 덕신리 산64-4 현종산",
+      "gwonyeok": "포항",
+      "bigo": "울진군지역 일원"
+    },
+    {
+      "bangsongguk": "포항MBC FM4U",
+      "hochul_buho": "HLAV-FM",
+      "songsinso": "도음산 송신소",
+      "jupasu": "FM 97.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경상북도 포항시 북구 흥해읍 대련리 1104-1",
+      "gwonyeok": "포항",
+      "bigo": "포항, 경주지역 일원"
+    },
+    {
+      "bangsongguk": "포항MBC FM4U",
+      "hochul_buho": "HLAV-FM",
+      "songsinso": "울릉간이FM중계소",
+      "jupasu": "FM 90.9㎒",
+      "chullyeok": "0.25㎾",
+      "songsinso_wichi": "경상북도 울릉군 울릉읍 사동리 산29-1 삼각산",
+      "gwonyeok": "포항",
+      "bigo": "울릉군지역 일원"
+    },
+    {
+      "bangsongguk": "포항MBC FM4U",
+      "hochul_buho": "HLAV-FM",
+      "songsinso": "울진간이FM중계소",
+      "jupasu": "FM 94.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경상북도 울진군 원남면 덕신리 산64-4 현종산",
+      "gwonyeok": "포항",
+      "bigo": "울진군지역 일원"
+    },
+    {
+      "bangsongguk": "TBC Dream FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "조항산 중계소",
+      "jupasu": "FM 99.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 포항시 남구 장기면 죽정리 산94-1",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "포항CBS 표준FM (기독교)",
+      "hochul_buho": "HLCB-FM",
+      "songsinso": "도음산 송신소",
+      "jupasu": "FM 91.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 포항시 북구 흥해읍 대련리 1104-1 (포항MBC)",
+      "gwonyeok": "포항",
+      "bigo": "강릉·청주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "포항극동방송 (기독교복음)",
+      "hochul_buho": "HLDZ-FM",
+      "songsinso": "도음산 송신소",
+      "jupasu": "FM 90.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 포항시 북구 흥해읍 대련리 1104-1",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대구가톨릭평화방송 (천주교)",
+      "hochul_buho": "-",
+      "songsinso": "조항산 중계소",
+      "jupasu": "FM 96.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경북 포항시 남구 동해면 금광리 산28-3",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대구불교방송 (불교)",
+      "hochul_buho": "-",
+      "songsinso": "도음산 중계소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경북 포항시 남구 동해면 금광리 1-2",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "경주국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "도음산 중계소",
+      "jupasu": "FM 107.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 포항시 북구 흥해읍 대련리 1104-1",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "-",
+      "songsinso": "조항산 송신소",
+      "jupasu": "FM 92.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 포항시 남구 동해면 석리 산94-1",
+      "gwonyeok": "포항",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 경북교통방송",
+      "hochul_buho": "HLEF-FM",
+      "songsinso": "경주 송신소",
+      "jupasu": "FM 103.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 경주시 강동면 단구리 산11-3 (세림이동통신)",
+      "gwonyeok": "포항",
+      "bigo": "광양과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 경북교통방송",
+      "hochul_buho": "HLEF-FM",
+      "songsinso": "현종산 중계소",
+      "jupasu": "FM 103.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 울진군 원남면 덕산리 산10 (KT)",
+      "gwonyeok": "포항",
+      "bigo": "울진군지역 일원"
+    },
+    {
+      "bangsongguk": "KBS안동 제1라디오 표준FM",
+      "hochul_buho": "HLCR",
+      "songsinso": "안동 송신소",
+      "jupasu": "AM 963㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경북 안동시 수상동 621-4",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS안동 제1라디오 표준FM",
+      "hochul_buho": "HLCR-SFM",
+      "songsinso": "일월산 송신소",
+      "jupasu": "FM 90.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 영양군 청기면 당리 산118",
+      "gwonyeok": "안동",
+      "bigo": "광주와 같은 주파수 안동, 영양지역 일원"
+    },
+    {
+      "bangsongguk": "KBS안동 제1라디오 표준FM",
+      "hochul_buho": "HLCR-SFM",
+      "songsinso": "강남 중계소",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "경북 안동시 남선면 구미리 723-1",
+      "gwonyeok": "안동",
+      "bigo": "안동시 남선면 일원"
+    },
+    {
+      "bangsongguk": "KBS안동 제1라디오 표준FM",
+      "hochul_buho": "HLCR-SFM",
+      "songsinso": "영주 중계소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경북 영주시",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS안동 제1라디오 표준FM",
+      "hochul_buho": "HLCR-SFM",
+      "songsinso": "청송 중계소",
+      "jupasu": "FM 92.5㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "경북 청송군 청송읍 덕리 산36",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS대구 클래식FM",
+      "hochul_buho": "HLCR-FM",
+      "songsinso": "학가산 송신소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 안동시 북후면 신전리 산69",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "가은 중계소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "경북 문경시 가은읍 왕릉리 산18",
+      "gwonyeok": "안동",
+      "bigo": "문경시 가은읍 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "문경 중계소",
+      "jupasu": "FM 107.9㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "경북 문경시 문경읍 하리 산1-5 잣밭산",
+      "gwonyeok": "안동",
+      "bigo": "문경지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "일월산 송신소",
+      "jupasu": "FM 107.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경북 영양군 청기면 당리 산118",
+      "gwonyeok": "안동",
+      "bigo": "안동, 영양지역 일원"
+    },
+    {
+      "bangsongguk": "안동MBC 표준FM",
+      "hochul_buho": "HLAW-SFM",
+      "songsinso": "학가산 송신소",
+      "jupasu": "FM 100.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경북 안동시 북후면 신전리 산69",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "안동MBC FM4U",
+      "hochul_buho": "HLAW-FM",
+      "songsinso": "학가산 송신소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경상북도 안동시 북후면 신전리 산69",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBC Dream FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "학가산 중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경북 안동시 북후면 신전리 산69",
+      "gwonyeok": "안동",
+      "bigo": "와룡과 같은 주파수"
+    },
+    {
+      "bangsongguk": "대구CBS 표준FM (기독교)",
+      "hochul_buho": "-",
+      "songsinso": "안동 중계소",
+      "jupasu": "FM 92.3㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "경북 안동시 남선면 현내리 1-5",
+      "gwonyeok": "안동",
+      "bigo": "안동시 남선면 일원"
+    },
+    {
+      "bangsongguk": "대구가톨릭평화방송 (천주교)",
+      "hochul_buho": "-",
+      "songsinso": "안동 중계소",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경북 안동시 북후면 신전리 산69",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "대구불교방송 (불교)",
+      "hochul_buho": "-",
+      "songsinso": "학가산 중계소",
+      "jupasu": "FM 97.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경북 안동시 북후면 신전리 산69",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "영주FM",
+      "hochul_buho": "HLMA-LFM-6001",
+      "songsinso": "",
+      "jupasu": "FM 89.1㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경상북도 영주시 구성로 269 (KT영주지사)",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "한국문화나눔사회적협동조합",
+      "hochul_buho": "HLMA-LFM-6004",
+      "songsinso": "",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "경상북도 상주시",
+      "gwonyeok": "안동",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS부산 제1라디오 표준FM",
+      "hochul_buho": "HLKB",
+      "songsinso": "김해 송신소",
+      "jupasu": "AM 891㎑",
+      "chullyeok": "250㎾",
+      "songsinso_wichi": "경남 김해시 부원동 339",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS부산 제1라디오 표준FM",
+      "hochul_buho": "HLKB-SFM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 103.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 부산진구 전포1동 산50-1",
+      "gwonyeok": "부산",
+      "bigo": "부산, 김해지역 일원"
+    },
+    {
+      "bangsongguk": "KBS부산 제1라디오 표준FM",
+      "hochul_buho": "HLKB-SFM",
+      "songsinso": "정관 중계소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "0.02㎾",
+      "songsinso_wichi": "부산 기장군 정관읍 달산리 산32-2",
+      "gwonyeok": "부산",
+      "bigo": "기장·양산·녹산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제1라디오 표준FM",
+      "hochul_buho": "HLKB-SFM",
+      "songsinso": "기장 중계소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "0.03㎾",
+      "songsinso_wichi": "부산 기장군 일광읍 횡계리 산28-1",
+      "gwonyeok": "부산",
+      "bigo": "정관·양산·녹산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제1라디오 표준FM",
+      "hochul_buho": "HLKB-SFM",
+      "songsinso": "양산 중계소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "0.02㎾",
+      "songsinso_wichi": "경남 양산시 북정동 산39-2",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원 정관·기장·녹산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제1라디오 표준FM",
+      "hochul_buho": "HLKB-SFM",
+      "songsinso": "녹산 중계소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "0.03㎾",
+      "songsinso_wichi": "부산 강서구 생곡동 산 10-3",
+      "gwonyeok": "부산",
+      "bigo": "정관·기장·양산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제2라디오 해피FM",
+      "hochul_buho": "HLKE-SFM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 97.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 부산진구 전포1동 산50-1",
+      "gwonyeok": "부산",
+      "bigo": "부산, 김해지역 일원"
+    },
+    {
+      "bangsongguk": "KBS부산 제2라디오 해피FM",
+      "hochul_buho": "HLKE-SFM",
+      "songsinso": "양산 중계소",
+      "jupasu": "FM 99.5㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "경남 양산시 북정동 산39-2",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원 기장·정관·녹산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제2라디오 해피FM",
+      "hochul_buho": "HLKE-SFM",
+      "songsinso": "기장 중계소",
+      "jupasu": "FM 99.5㎒",
+      "chullyeok": "15W",
+      "songsinso_wichi": "부산 기장군 일광면 횡계리 산28-1",
+      "gwonyeok": "부산",
+      "bigo": "양산·정관·녹산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제2라디오 해피FM",
+      "hochul_buho": "HLKE-SFM",
+      "songsinso": "정관 중계소",
+      "jupasu": "FM 99.5㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 기장군 정관읍 달산리 산32-2",
+      "gwonyeok": "부산",
+      "bigo": "양산·기장·녹산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 제2라디오 해피FM",
+      "hochul_buho": "HLKE-SFM",
+      "songsinso": "녹산 중계소",
+      "jupasu": "FM 99.5㎒",
+      "chullyeok": "30W",
+      "songsinso_wichi": "부산 강서구 생곡동 산 10-3",
+      "gwonyeok": "부산",
+      "bigo": "양산·기장·정관과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS부산 클래식FM",
+      "hochul_buho": "HLKB-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 92.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "부산 부산진구 전포1동 산50-1",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 107.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 부산진구 전포1동 산50-1",
+      "gwonyeok": "부산",
+      "bigo": "부산, 김해지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "양산 중계소",
+      "jupasu": "FM 105.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경남 양산시 북정동 산39-2",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원"
+    },
+    {
+      "bangsongguk": "부산MBC 표준FM",
+      "hochul_buho": "HLKU-SFM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 95.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 부산진구 전포1동 산50-1",
+      "gwonyeok": "부산",
+      "bigo": "수도권과 같은 주파수, 부산, 김해지역 일원"
+    },
+    {
+      "bangsongguk": "부산MBC 표준FM",
+      "hochul_buho": "HLKU-SFM",
+      "songsinso": "양산타워 중계소",
+      "jupasu": "FM 97.7㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "경남 양산시 동면 석산리 656-30",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원"
+    },
+    {
+      "bangsongguk": "부산MBC 표준FM",
+      "hochul_buho": "HLKU-SFM",
+      "songsinso": "녹산간이FM중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "0.02㎾",
+      "songsinso_wichi": "부산 강서구 녹산동 산2-27 봉화산",
+      "gwonyeok": "부산",
+      "bigo": "기장·정관과 같은 주파수 양산지역 일원"
+    },
+    {
+      "bangsongguk": "부산MBC 표준FM",
+      "hochul_buho": "HLKU-SFM",
+      "songsinso": "기장간이FM중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "0.02㎾",
+      "songsinso_wichi": "부산 기장군 기장읍 신천리 1 기장군청",
+      "gwonyeok": "부산",
+      "bigo": "녹산·정관과 같은 주파수"
+    },
+    {
+      "bangsongguk": "부산MBC 표준FM",
+      "hochul_buho": "HLKU-SFM",
+      "songsinso": "정관간이FM중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "0.02㎾",
+      "songsinso_wichi": "부산 기장군 정관읍 달산리 산146-14",
+      "gwonyeok": "부산",
+      "bigo": "녹산·기장과 같은 주파수"
+    },
+    {
+      "bangsongguk": "부산MBC FM4U",
+      "hochul_buho": "HLKU-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 88.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "부산광역시 부산진구 전포1동 산50-1",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KNN 러브FM (SBS 러브FM)",
+      "hochul_buho": "HLDG-2FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 105.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3",
+      "gwonyeok": "부산",
+      "bigo": "부산, 김해지역 일원 EBS 라디오 양산중계소 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "KNN 러브FM (SBS 러브FM)",
+      "hochul_buho": "HLDG-2FM",
+      "songsinso": "정관 중계소",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 기장군 정관읍 달산리 산146-14",
+      "gwonyeok": "부산",
+      "bigo": "기장과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KNN 러브FM (SBS 러브FM)",
+      "hochul_buho": "HLDG-2FM",
+      "songsinso": "기장 중계소",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 기장군 일광면 삼성리 산41",
+      "gwonyeok": "부산",
+      "bigo": "정관과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KNN 러브FM (SBS 러브FM)",
+      "hochul_buho": "HLDG-2FM",
+      "songsinso": "양산타워 중계소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "경남 양산시 동면 석산리 656-30",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "HLDG-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3",
+      "gwonyeok": "부산",
+      "bigo": "부산, 김해지역 일원 SBS 미제휴 독립민영방송 수도권와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "HLDG-FM",
+      "songsinso": "정관 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 기장군 정관읍 달산리 산146-14",
+      "gwonyeok": "부산",
+      "bigo": "기장·양산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "HLDG-FM",
+      "songsinso": "기장 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 기장군 일광면 삼성리 산41",
+      "gwonyeok": "부산",
+      "bigo": "정관.양산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "HLDG-FM",
+      "songsinso": "양산타워 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "경남 양산시 동면 석산리 656-30",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원 기장·정관과 같은 주파수"
+    },
+    {
+      "bangsongguk": "부산CBS 표준FM (기독교)",
+      "hochul_buho": "HLKP-SFM(표준)",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 102.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "부산CBS 음악FM (기독교)",
+      "hochul_buho": "HLKP-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 102.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "부산광역시 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "부산CBS 음악FM (기독교)",
+      "hochul_buho": "HLKP-FM",
+      "songsinso": "녹산 중계소",
+      "jupasu": "FM 105.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 강서구 녹산동 산2-27 봉화산",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원"
+    },
+    {
+      "bangsongguk": "부산극동방송 (기독교복음)",
+      "hochul_buho": "HLQQ-FM",
+      "songsinso": "봉래산 송신소",
+      "jupasu": "FM 93.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "부산 영도구 신선동3가 산1-3 봉래산",
+      "gwonyeok": "부산",
+      "bigo": "대전과 같은 주파수 [부산, 김해지역 일원]"
+    },
+    {
+      "bangsongguk": "부산극동방송 (기독교복음)",
+      "hochul_buho": "HLQQ-FM",
+      "songsinso": "녹산 중계소",
+      "jupasu": "FM 96.7㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 강서구 생곡동 산10-3 봉화산",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원"
+    },
+    {
+      "bangsongguk": "부산가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDW-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 101.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": "부산, 김해지역 일원"
+    },
+    {
+      "bangsongguk": "부산가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDW-FM",
+      "songsinso": "녹산 중계소",
+      "jupasu": "FM 101.5㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "부산 강서구 녹산동 산2-27 봉화산",
+      "gwonyeok": "부산",
+      "bigo": "양산지역 일원"
+    },
+    {
+      "bangsongguk": "부산불교방송 (불교)",
+      "hochul_buho": "HLDA-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 89.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "부산원음방송 (원불교)",
+      "hochul_buho": "HLQJ-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "부산국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 98.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "-",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 92.1㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "부산영어방송 (Busan e-FM)",
+      "hochul_buho": "HLSX-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 90.5㎒ (주) FM 103.3㎒ (보조)",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "부산광역시 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": "보조 중계소는 녹산, 기장, 정관 일원"
+    },
+    {
+      "bangsongguk": "TBN 부산교통방송",
+      "hochul_buho": "HLDN-FM",
+      "songsinso": "황령산 송신소",
+      "jupasu": "FM 94.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "부산 연제구 연산2동 산181-3 (KNN)",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "연제FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 106.3㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "부산 연제구",
+      "gwonyeok": "부산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS울산 제1라디오 표준FM",
+      "hochul_buho": "HLQB",
+      "songsinso": "울산 송신소",
+      "jupasu": "AM 1449㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "울산 남구 여천동 1224",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS울산 제1라디오 표준FM",
+      "hochul_buho": "HLQB-SFM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "울산 북구 화봉동 산1-3",
+      "gwonyeok": "울산",
+      "bigo": "김천와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS울산 클래식FM",
+      "hochul_buho": "HLQB-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 101.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 화봉동 산1-3",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 화봉동 산1-3",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "울산MBC 표준FM",
+      "hochul_buho": "HLAU-SFM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 97.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "울산 북구 연암동 산1-5",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "울산MBC FM4U",
+      "hochul_buho": "HLAU-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 연암동 산1-5",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "ubc Green FM (SBS 파워FM)",
+      "hochul_buho": "HLDP-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 92.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 화봉동 20-1",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "울산CBS 표준FM (기독교)",
+      "hochul_buho": "HLCD-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 100.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 어물동 산195-3 (KT)",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "울산극동방송 (기독교복음)",
+      "hochul_buho": "HLQR-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 107.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 어물동 산195-3",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "부산가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDW-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 93.7㎒",
+      "chullyeok": "0.5㎾",
+      "songsinso_wichi": "울산 북구 화봉동 20-1",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "울산불교방송 (불교)",
+      "hochul_buho": "HLQU-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "울산 북구 화봉동 20-1",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 울산교통방송",
+      "hochul_buho": "HLCV-FM",
+      "songsinso": "무룡산 송신소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "울산 북구 화봉동 20-1",
+      "gwonyeok": "울산",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS창원 제1라디오 표준FM",
+      "hochul_buho": "HLAI-SFM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 91.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "KBS창원 제1라디오 표준FM",
+      "hochul_buho": "HLAI-SFM",
+      "songsinso": "내서 중계소",
+      "jupasu": "FM 90.1㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "경남 창원시 마산회원구 내서읍 상곡리 산163",
+      "gwonyeok": "경남 창원",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS창원 제2라디오 해피FM",
+      "hochul_buho": "HLKD-SFM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 106.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원 수도권과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS창원 제3라디오",
+      "hochul_buho": "HLKD",
+      "songsinso": "가포 송신소",
+      "jupasu": "AM 936㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "경남 창원시 마산합포구 가포동 산96",
+      "gwonyeok": "경남 창원",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS창원 클래식FM",
+      "hochul_buho": "HLAI-FM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 93.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "통영 중계소",
+      "jupasu": "FM 103.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경남 통영시 산양읍 남평리 산90 미륵산",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 통영지역 일원"
+    },
+    {
+      "bangsongguk": "MBC경남 창원 표준FM",
+      "hochul_buho": "HLAP-SFM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 98.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "MBC경남 창원 표준FM",
+      "hochul_buho": "HLAP-SFM",
+      "songsinso": "내서 중계소",
+      "jupasu": "FM 96.7㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "경남 창원시 마산회원구 내서읍 상곡리 산163",
+      "gwonyeok": "경남 창원",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC경남 창원 FM4U",
+      "hochul_buho": "HLAP-FM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "KNN 러브FM (SBS 러브FM)",
+      "hochul_buho": "HLDG-2FM",
+      "songsinso": "불모산 중계소",
+      "jupasu": "FM 90.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "HLDG-FM",
+      "songsinso": "불모산 중계소",
+      "jupasu": "FM 102.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "경남CBS 표준FM (기독교)",
+      "hochul_buho": "HLCC-FM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 106.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "창원극동방송 (기독교복음)",
+      "hochul_buho": "HLDD-FM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 98.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "부산가톨릭평화방송 (천주교)",
+      "hochul_buho": "HLDW-FM",
+      "songsinso": "천주산 중계소",
+      "jupasu": "FM 101.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 창원시 의창구 동정동 163-3",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "부산불교방송 (불교)",
+      "hochul_buho": "HLDA-FM",
+      "songsinso": "천주산 중계소",
+      "jupasu": "FM 89.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경남 창원시 의창구 동정동 163-3",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "TBN 경남교통방송",
+      "hochul_buho": "HLEE-FM",
+      "songsinso": "불모산 송신소",
+      "jupasu": "FM 95.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 창원시 성산구 천선동 산213-8",
+      "gwonyeok": "경남 창원",
+      "bigo": "경남 창원지역 일원"
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "진해 중계소",
+      "jupasu": "AM 1512㎑",
+      "chullyeok": "250W",
+      "songsinso_wichi": "경상남도 창원시 진해구 현동 (진해기지사령부)",
+      "gwonyeok": "경남 창원",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "-",
+      "songsinso": "진해 중계소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "경상남도 창원시 진해구 현동 (진해기지사령부)",
+      "gwonyeok": "경남 창원",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS진주 제1라디오 표준FM",
+      "hochul_buho": "HLCJ",
+      "songsinso": "진주 송신소",
+      "jupasu": "AM 1098㎑",
+      "chullyeok": "20㎾",
+      "songsinso_wichi": "경남 진주시 평거동 695-203",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS진주 제1라디오 표준FM",
+      "hochul_buho": "HLCJ-SFM",
+      "songsinso": "망진산 송신소",
+      "jupasu": "FM 90.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 진주시 망경동 631",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 진주, 하동, 남해, 사천, 거창지역 일원, 전남 여순광 전지역 일부 수도권과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS진주 제1라디오 표준FM",
+      "hochul_buho": "HLCJ-SFM",
+      "songsinso": "금오산 송신소",
+      "jupasu": "FM 97.1㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경남 하동군 금남면 덕천리 산2-1",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 진주, 하동, 남해지역 일원 원주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS진주 제1라디오 표준FM",
+      "hochul_buho": "HLCJ-SFM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 103.3㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경남 거창군 남상면 구사리 산12-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 거창, 진주, 하동, 남해, 사천지역 일원"
+    },
+    {
+      "bangsongguk": "KBS창원 제2라디오 해피FM",
+      "hochul_buho": "-",
+      "songsinso": "생초 중계소",
+      "jupasu": "FM 99.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경남 산청군 금서면 특리 산24-3",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남지역 일원"
+    },
+    {
+      "bangsongguk": "KBS창원 클래식FM",
+      "hochul_buho": "HLCJ-FM",
+      "songsinso": "망진산 송신소",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 진주시 망경동 631",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 진주, 하동, 남해, 사천, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "KBS창원 클래식FM",
+      "hochul_buho": "HLCJ-FM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 92.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 거창군 남상면 구사리 산12-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 거창, 진주, 하동, 남해, 사천지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "망진산 송신소",
+      "jupasu": "FM 101.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경남 진주시 망경동 631",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 진주, 하동, 남해, 사천, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 104.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 거창군 남상면 구사리 산12-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 거창, 진주, 하동, 남해, 사천지역 일원"
+    },
+    {
+      "bangsongguk": "MBC경남 진주 표준FM",
+      "hochul_buho": "HLAK-SFM",
+      "songsinso": "금오산 송신소",
+      "jupasu": "FM 91.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 하동군 금남면 중평리 산100-2",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 하동, 진주, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "MBC경남 진주 표준FM",
+      "hochul_buho": "HLAK-SFM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 거창군 남상면 구사리 산12-7",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 하동, 진주, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "MBC경남 진주 FM4U",
+      "hochul_buho": "HLAK-FM",
+      "songsinso": "망진산 송신소",
+      "jupasu": "FM 97.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 진주시 망경동 631",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 하동, 진주, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "MBC경남 진주 FM4U",
+      "hochul_buho": "HLAK-FM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 96.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경남 거창군 남상면 구사리 산12-7",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 하동, 진주, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "KNN 러브FM (SBS 러브FM)",
+      "hochul_buho": "HLDG-2FM",
+      "songsinso": "장군대산 중계소",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 진주시 문산읍 상문리 325-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 진주, 하동, 남해지역 일원"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "HLDG-FM",
+      "songsinso": "장군대산 중계소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 진주시 문산읍 상문리 325-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 진주, 하동, 남해지역 일원"
+    },
+    {
+      "bangsongguk": "KNN 파워FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경남 거창군 남상면 구사리 산12-1",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 거창지역 일원"
+    },
+    {
+      "bangsongguk": "경남CBS 표준FM (기독교)",
+      "hochul_buho": "HLCC-FM",
+      "songsinso": "망진산 중계소",
+      "jupasu": "FM 94.1㎒",
+      "chullyeok": "250W",
+      "songsinso_wichi": "경남 진주시 망경동 631",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 진주, 하동, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "창원극동방송 (기독교복음)",
+      "hochul_buho": "HLDD-FM",
+      "songsinso": "장군대산 중계소",
+      "jupasu": "FM 92.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "경남 진주시 문산읍 상문리 325-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 진주, 하동, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "부산불교방송 (불교)",
+      "hochul_buho": "HLDA-FM",
+      "songsinso": "장군대산 중계소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "경남 진주시 문산읍 상문리 325-5",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 진주, 하동, 남해, 거창지역 일원 인천과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 경남교통방송",
+      "hochul_buho": "HLEE-FM",
+      "songsinso": "장군대산 중계소",
+      "jupasu": "FM 100.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경남 진주시 문산읍 상문리 325-5 (MBC경남)",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "전남 여순광 전지역, 경남 하동, 진주, 남해, 거창지역 일원"
+    },
+    {
+      "bangsongguk": "TBN 경남교통방송",
+      "hochul_buho": "HLEE-FM",
+      "songsinso": "감악산 중계소",
+      "jupasu": "FM 107.3㎒",
+      "chullyeok": "200W",
+      "songsinso_wichi": "경남 거창군 신원면 구사리 산12-1",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": "경남 거창지역 일원"
+    },
+    {
+      "bangsongguk": "남해FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "경상남도 남해군",
+      "gwonyeok": "경남 진주·거창",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS춘천 제1라디오",
+      "hochul_buho": "HLKM",
+      "songsinso": "사농 송신소",
+      "jupasu": "AM 657㎑",
+      "chullyeok": "50㎾",
+      "songsinso_wichi": "강원 춘천시 사농동 648",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS춘천 제1라디오",
+      "hochul_buho": "HLKM-SFM",
+      "songsinso": "화악산 중계소",
+      "jupasu": "FM 99.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "경기 가평군 북면 화악2리 산218-2",
+      "gwonyeok": "춘천",
+      "bigo": "춘천지역 일원, 수도권지역 일부"
+    },
+    {
+      "bangsongguk": "KBS춘천 제1라디오",
+      "hochul_buho": "HLKM-SFM",
+      "songsinso": "대암산 중계소",
+      "jupasu": "FM 97.5㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "강원 인제군 서화면 서흥리 산170",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS춘천 제2라디오",
+      "hochul_buho": "HLCE-SFM",
+      "songsinso": "화악산 송신소",
+      "jupasu": "FM 98.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "경기 가평군 북면 화악2리 산218-2",
+      "gwonyeok": "춘천",
+      "bigo": "춘천지역 일원, 수도권지역 일부"
+    },
+    {
+      "bangsongguk": "KBS춘천 제2라디오",
+      "hochul_buho": "HLCE-SFM",
+      "songsinso": "대암산 중계소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "강원 인제군 서화면 서흥리 산170",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS춘천 FM",
+      "hochul_buho": "HLKM-FM",
+      "songsinso": "화악산 송신소",
+      "jupasu": "FM 91.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 가평군 북면 화악2리 산218-2",
+      "gwonyeok": "춘천",
+      "bigo": "춘천지역 일원, 수도권지역 일부"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "화악산 송신소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 가평군 북면 화악2리 산218-2",
+      "gwonyeok": "춘천",
+      "bigo": "춘천지역 일원, 수도권지역 일부"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "대암산 중계소",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원 인제군 서화면 서흥리 산170",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천문화방송 표준FM",
+      "hochul_buho": "HLAN-SFM",
+      "songsinso": "대룡산 송신소",
+      "jupasu": "FM 92.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 춘천시 동내면 고은리 산1-2",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천문화방송 표준FM",
+      "hochul_buho": "HLAN-SFM",
+      "songsinso": "대암산 중계소",
+      "jupasu": "FM 88.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원 인제군 서화면 서흥리 산170",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천문화방송 FM4U",
+      "hochul_buho": "HLAN-FM",
+      "songsinso": "대룡산 송신소",
+      "jupasu": "FM 94.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원도 춘천시 동내면 고은리 산1-2",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천문화방송 FM4U",
+      "hochul_buho": "HLAN-FM",
+      "songsinso": "대암산 중계소",
+      "jupasu": "FM 98.3㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원도 인제군 서화면 서흥리 산170",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "G1 Fresh-FM (SBS 파워FM)",
+      "hochul_buho": "HLCG-FM",
+      "songsinso": "대룡산 송신소",
+      "jupasu": "FM 105.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 춘천시 동내면 고은리 산1-2",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원CBS 표준FM",
+      "hochul_buho": "HLDC-FM",
+      "songsinso": "춘천 송신소",
+      "jupasu": "FM 93.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 춘천시 동면 평촌리 산46-4",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원극동방송",
+      "hochul_buho": "-",
+      "songsinso": "대룡산 중계소",
+      "jupasu": "FM 92.9㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원 춘천시 동내면 고은리 산1-2",
+      "gwonyeok": "춘천",
+      "bigo": "여수과 같은 주파수"
+    },
+    {
+      "bangsongguk": "춘천불교방송",
+      "hochul_buho": "HLQM-FM",
+      "songsinso": "대룡산 송신소",
+      "jupasu": "FM 100.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 춘천시 동내면 고은리 산1-2",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "화악산 송신소",
+      "jupasu": "FM 96.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "경기 가평군 북면 화악2리 산218-2",
+      "gwonyeok": "춘천",
+      "bigo": "춘천지역 일원, 수도권지역 일부"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "대암산 중계소",
+      "jupasu": "FM 101.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 인제군 서화면 서흥리 산170",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "HLSE-FM",
+      "songsinso": "기린 간이중계소",
+      "jupasu": "FM 93.3㎒",
+      "chullyeok": "200W",
+      "songsinso_wichi": "강원 인제군 상남면 하남리 산2",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 강원교통방송",
+      "hochul_buho": "-",
+      "songsinso": "대룡산 중계소",
+      "jupasu": "FM 103.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 춘천시 동내면 고은리 산1-2 (춘천문화방송)",
+      "gwonyeok": "춘천",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS원주 제1라디오",
+      "hochul_buho": "HLCW",
+      "songsinso": "원주 송신소",
+      "jupasu": "AM 1152㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "강원 원주시 태장1동 809",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS원주 제1라디오",
+      "hochul_buho": "HLCW-SFM",
+      "songsinso": "백운산 송신소",
+      "jupasu": "FM 97.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS원주 제1라디오",
+      "hochul_buho": "HLCW-SFM",
+      "songsinso": "태기산 중계소",
+      "jupasu": "FM 95.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 횡성군 둔내면 태기리 산1-4",
+      "gwonyeok": "원주",
+      "bigo": "영월과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS원주 제1라디오",
+      "hochul_buho": "HLCW-SFM",
+      "songsinso": "영월 중계소",
+      "jupasu": "FM 95.5㎒",
+      "chullyeok": "0.09㎾",
+      "songsinso_wichi": "강원 영월군 영월읍 팔괘리 산247 국지산",
+      "gwonyeok": "원주",
+      "bigo": "횡성과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS원주 제1라디오",
+      "hochul_buho": "HLCW-SFM",
+      "songsinso": "평창 중계소",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "0.05㎾",
+      "songsinso_wichi": "강원 평창군 평창읍 노론리 산27-1 장암산",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS춘천 제2라디오",
+      "hochul_buho": "",
+      "songsinso": "윗도골 중계소",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "300W",
+      "songsinso_wichi": "강원 원주시 소초면 판암리 산202-4",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS원주 FM",
+      "hochul_buho": "HLCW-FM",
+      "songsinso": "백운산 송신소",
+      "jupasu": "FM 89.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS원주 FM",
+      "hochul_buho": "",
+      "songsinso": "영월 중계소",
+      "jupasu": "FM 97.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 영월군 영월읍 팔괘리 산237 국지산",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "백운산 송신소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "태기산 중계소",
+      "jupasu": "FM 107.5㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원 횡성군 둔내면 태기리 산1-4",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "영월 중계소",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "강원 영월군 영월읍 팔괘리 산247 국지산",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "원주MBC 표준FM",
+      "hochul_buho": "HLSB-SFM",
+      "songsinso": "백운산 송신소",
+      "jupasu": "FM 92.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": "영월과 같은 주파수"
+    },
+    {
+      "bangsongguk": "원주MBC 표준FM",
+      "hochul_buho": "HLSB-SFM",
+      "songsinso": "영월간이FM중계소",
+      "jupasu": "FM 92.7㎒",
+      "chullyeok": "0.09㎾",
+      "songsinso_wichi": "강원 영월군 영월읍 팔괴리 산237",
+      "gwonyeok": "원주",
+      "bigo": "원주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "원주MBC 표준FM",
+      "hochul_buho": "HLSB-SFM",
+      "songsinso": "태기산 송신소",
+      "jupasu": "FM 102.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 횡성군 둔내면 태기리 산1-4",
+      "gwonyeok": "원주",
+      "bigo": "평창과 같은 주파수"
+    },
+    {
+      "bangsongguk": "원주MBC 표준FM",
+      "hochul_buho": "HLSB-SFM",
+      "songsinso": "평창간이FM중계소",
+      "jupasu": "FM 102.5㎒",
+      "chullyeok": "0.05㎾",
+      "songsinso_wichi": "강원 평창군 평창읍 하리 산 3-5",
+      "gwonyeok": "원주",
+      "bigo": "횡성과 같은 주파수"
+    },
+    {
+      "bangsongguk": "원주MBC FM4U",
+      "hochul_buho": "HLSB-FM",
+      "songsinso": "백운산 송신소",
+      "jupasu": "FM 98.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "G1 Fresh-FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "윗도골 중계소",
+      "jupasu": "FM 103.1㎒",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원 원주시 소초면 장양리 산76-39",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "G1 Fresh-FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "태기산 중계소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 횡성군 둔내면 태기리 산1-4",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원CBS 표준FM",
+      "hochul_buho": "-",
+      "songsinso": "원주 중계소",
+      "jupasu": "FM 94.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원극동방송",
+      "hochul_buho": "-",
+      "songsinso": "백운산 중계소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "300W",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 강원교통방송",
+      "hochul_buho": "HLSV-FM",
+      "songsinso": "백운산 송신소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 원주시 판부면 서곡리 산166 (KT)",
+      "gwonyeok": "원주",
+      "bigo": "서귀포와 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 강원교통방송",
+      "hochul_buho": "HLSV-FM",
+      "songsinso": "장암산 중계소 (평창)",
+      "jupasu": "FM 89.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 평창군 평창읍 여만리 산46 (KBS원주)",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "원주 중계소",
+      "jupasu": "AM 1440㎑",
+      "chullyeok": "250W",
+      "songsinso_wichi": "강원도 원주시 태장2동 (캠프 롱)",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "-",
+      "songsinso": "원주 중계소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "50W",
+      "songsinso_wichi": "강원도 원주시 태장2동 (캠프 롱)",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "영월FM공동체라디오",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 99.1㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "강원 영월군",
+      "gwonyeok": "원주",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR",
+      "songsinso": "경포 송신소",
+      "jupasu": "AM 864㎑",
+      "chullyeok": "100㎾",
+      "songsinso_wichi": "강원 강릉시 초당동 443",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 98.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 97.9㎑",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 양양군 양양읍 월리 산3",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "속초 중계소",
+      "jupasu": "FM 88.1㎑",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 속초시 설악동 산3-1 목우재",
+      "gwonyeok": "강릉·속초",
+      "bigo": "서산과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "오봉산 중계소",
+      "jupasu": "FM 95.7㎑",
+      "chullyeok": "500W",
+      "songsinso_wichi": "강원 고성군 죽왕면 오봉리 산56-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": "순천과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS강릉 제2라디오",
+      "hochul_buho": "HLAH-SFM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 102.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제2라디오",
+      "hochul_buho": "HLAH-SFM",
+      "songsinso": "속초 중계소",
+      "jupasu": "FM 106.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 속초시 설악동 산3-1 목우재",
+      "gwonyeok": "강릉·속초",
+      "bigo": "고흥과 같은 주파수"
+    },
+    {
+      "bangsongguk": "KBS강릉 제2라디오",
+      "hochul_buho": "HLAH-SFM",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 103.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 양양군 양양읍 월리 산3",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 FM",
+      "hochul_buho": "HLKR-FM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 89.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "속초 중계소",
+      "jupasu": "FM 107.7㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "강원 속초시 설악동 산3-1 목우재",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 양양군 양양읍 월리 산3",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "옥계 중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "강원 강릉시 옥계면 주수리 산25-4 밥봉",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 표준FM",
+      "hochul_buho": "HLAF",
+      "songsinso": "경포 송신소",
+      "jupasu": "AM 1287㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "강원 강릉시 운정동 585",
+      "gwonyeok": "강릉·속초",
+      "bigo": "청주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 표준FM",
+      "hochul_buho": "HLAF-SFM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": "보은과 같은 주파수"
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 표준FM",
+      "hochul_buho": "HLAF-SFM",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "90W",
+      "songsinso_wichi": "강원 양양군 손양면 상왕도리 산158-4",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 표준FM",
+      "hochul_buho": "HLAF-SFM",
+      "songsinso": "오봉산 중계소",
+      "jupasu": "FM 99.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 고성군 죽왕면 오봉리 산56-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 FM4U",
+      "hochul_buho": "HLAF-FM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 94.3㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "강원도 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 FM4U",
+      "hochul_buho": "HLAF-FM",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "90W",
+      "songsinso_wichi": "강원도 양양군 손양면 상왕도리 산158-4",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 강릉 FM4U",
+      "hochul_buho": "HLAF-FM",
+      "songsinso": "오봉산 중계소",
+      "jupasu": "FM 96.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 고성군 죽왕면 오봉리 산56-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "G1 Fresh-FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 106.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "G1 Fresh-FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "청대산 중계소",
+      "jupasu": "FM 101.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 속초시 도문동 산151",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원영동CBS 표준FM",
+      "hochul_buho": "HLCO-FM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 91.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1 (MBC강원영동)",
+      "gwonyeok": "강릉·속초",
+      "bigo": "청주·포항과 같은 주파수"
+    },
+    {
+      "bangsongguk": "강원영동CBS 표준FM",
+      "hochul_buho": "HLCO-FM",
+      "songsinso": "속초 중계소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 속초시 설악동 산3-1 목우재",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원극동방송",
+      "hochul_buho": "HLDY-FM",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 90.1㎒",
+      "chullyeok": "3kW",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원극동방송",
+      "hochul_buho": "HLDY-FM",
+      "songsinso": "속초 중계소",
+      "jupasu": "FM 102.9㎒",
+      "chullyeok": "70W",
+      "songsinso_wichi": "강원 속초시 설악동 산3-1 목우재",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천불교방송",
+      "hochul_buho": "-",
+      "songsinso": "속초 중계소",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 속초시 도문동 산321",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천불교방송",
+      "hochul_buho": "-",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 97.1㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "강원 양양군 손양면 상황도리 산 158-4",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "춘천불교방송",
+      "hochul_buho": "-",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 104.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진의 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강릉국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 103.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "-",
+      "songsinso": "괘방산 송신소",
+      "jupasu": "FM 92.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 강릉시 강동면 정동진리 산19-1",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 강원교통방송",
+      "hochul_buho": "-",
+      "songsinso": "대관령 중계소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 평창군 대관령면 횡계리 산1 (KT)",
+      "gwonyeok": "강릉·속초",
+      "bigo": "제주·광해·영종과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 강원교통방송",
+      "hochul_buho": "-",
+      "songsinso": "양양 중계소",
+      "jupasu": "FM 95.1㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 양양군 손양면 상황도리 산 158-4",
+      "gwonyeok": "강릉·속초",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "함백산 중계소",
+      "jupasu": "FM 93.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 태백시 황지동 산176-1",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "정선 중계소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "강원 정선군 정선읍 봉양리 산5-1",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 제1라디오",
+      "hochul_buho": "HLKR-SFM",
+      "songsinso": "초록봉 중계소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "강원 동해시 비천동 산243-2",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS강릉 FM",
+      "hochul_buho": "",
+      "songsinso": "함백산 중계소",
+      "jupasu": "FM 97.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 태백시 황지동 산176-1",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "함백산 중계소",
+      "jupasu": "FM 107.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 태백시 상장동 산176-1",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 삼척 표준FM",
+      "hochul_buho": "HLAQ-SFM",
+      "songsinso": "함백산 송신소",
+      "jupasu": "FM 101.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 태백시 상장동 산176-4",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 삼척 표준FM",
+      "hochul_buho": "HLAQ-SFM",
+      "songsinso": "초록봉 중계소",
+      "jupasu": "FM 93.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 동해시 비천동 산243-2",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 삼척 표준FM",
+      "hochul_buho": "HLAQ-SFM",
+      "songsinso": "호산 중계소",
+      "jupasu": "FM 93.1㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "강원 삼척시 원덕읍 호산리 산49-1",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 삼척 FM4U",
+      "hochul_buho": "HLAQ-FM",
+      "songsinso": "함백산 송신소",
+      "jupasu": "FM 98.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "강원 태백시 상장동 산176-4",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 삼척 FM4U",
+      "hochul_buho": "HLAQ-FM",
+      "songsinso": "초록봉 중계소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 동해시 비천동 산243-2",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "MBC강원영동 삼척 FM4U",
+      "hochul_buho": "HLAQ-FM",
+      "songsinso": "호산 중계소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "강원 삼척시 원덕읍 호산리 산49-1",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "G1 Fresh-FM (SBS 파워FM)",
+      "hochul_buho": "-",
+      "songsinso": "함백산 중계소",
+      "jupasu": "FM 99.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 태백시 황지동 660",
+      "gwonyeok": "삼척·태백",
+      "bigo": "대구와 같은 주파수"
+    },
+    {
+      "bangsongguk": "강원영동CBS 표준FM",
+      "hochul_buho": "-",
+      "songsinso": "초록봉 중계소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "강원 동해시 비천동 산243-2",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "강원극동방송",
+      "hochul_buho": "-",
+      "songsinso": "초록봉 중계소",
+      "jupasu": "FM 100.9㎒",
+      "chullyeok": "90W",
+      "songsinso_wichi": "강원 동해시 비천동 산243-2",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "TBN 강원교통방송",
+      "hochul_buho": "-",
+      "songsinso": "초록봉 중계소",
+      "jupasu": "FM 95.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "강원 동해시 비전동 5-1 (MBC강원영동)",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "공동체라디오태백FM",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "강원 태백시",
+      "gwonyeok": "삼척·태백",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS전주 제1라디오",
+      "hochul_buho": "HLKF",
+      "songsinso": "김제 송신소",
+      "jupasu": "AM 567㎑",
+      "chullyeok": "100㎾",
+      "songsinso_wichi": "전북 김제시 신곡동 338-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS전주 제1라디오",
+      "hochul_buho": "HLKF-SFM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 96.9㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "KBS전주 제1라디오",
+      "hochul_buho": "HLKF-SFM",
+      "songsinso": "노고단 중계소",
+      "jupasu": "FM 88.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전남 구례군 산동면 좌사리 산110-2",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "광주, 전남, 전북지역 일원 목포KBS 해피FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "KBS전주 제1라디오",
+      "hochul_buho": "HLKF-SFM",
+      "songsinso": "무주 중계소",
+      "jupasu": "FM 88.7㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "전북 무주군 무주읍 가옥리 산21",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS전주 제1라디오",
+      "hochul_buho": "HLKF-SFM",
+      "songsinso": "계남 중계소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전북 장수군 계남면 신천리 산83-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 장수군 계남면 일원"
+    },
+    {
+      "bangsongguk": "KBS전주 제2라디오",
+      "hochul_buho": "HLAS-SFM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 92.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부 광주극동방송 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "KBS전주 제3라디오",
+      "hochul_buho": "HLAS",
+      "songsinso": "대야 송신소",
+      "jupasu": "AM 675kHz",
+      "chullyeok": "㎾",
+      "songsinso_wichi": "전북 군산시 대야면 죽산리 360-4",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS전주 FM",
+      "hochul_buho": "HLKF-FM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 100.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부 목포극동방송 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "KBS전주 FM",
+      "hochul_buho": "HLKL-FM",
+      "songsinso": "노고단 중계소",
+      "jupasu": "FM 104.5㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "전남 구례군 산동면 좌사리 산110-2",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "광주, 전남, 전북지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 106.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "고창 중계소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전북 고창군 고창읍 교촌리 산5",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 고창지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "무주 중계소",
+      "jupasu": "FM 104.1㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "전북 무주군 무주읍 읍내리 산26-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 무주군 무주읍 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "설천 중계소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "10W",
+      "songsinso_wichi": "전북 무주군 설천면 소천리",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 무주군 설천면 소천리 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "삼공 중계소",
+      "jupasu": "FM 105.3㎒",
+      "chullyeok": "",
+      "songsinso_wichi": "전북 무주군 설천면 삼공리 산79-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 무주군 설천면 삼공리 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "계남 중계소",
+      "jupasu": "FM 105.3㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "전북 장수군 계남면 신전리 산83",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 장수군 계남면 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "노고단 중계소",
+      "jupasu": "FM 107.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "전남 구례군 산동면 좌사리 산110-2",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "광주, 전남, 전북지역 일원"
+    },
+    {
+      "bangsongguk": "전주MBC 표준FM",
+      "hochul_buho": "HLCX",
+      "songsinso": "이서 송신소",
+      "jupasu": "AM 855㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "전북 완주군 이서면 은교리 산204-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "전주MBC 표준FM",
+      "hochul_buho": "HLCX-SFM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 94.3㎒",
+      "chullyeok": "4㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "전주MBC 표준FM",
+      "hochul_buho": "HLCX-SFM",
+      "songsinso": "노고단 송신소",
+      "jupasu": "FM 101.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "전남 구례군 산동면 좌사리 산110-2",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "전주MBC FM4U",
+      "hochul_buho": "HLCX-FM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 99.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "전북특별자치도 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부 광주국악방송 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "광주MBC FM4U",
+      "hochul_buho": "HLCN-FM",
+      "songsinso": "노고단 송신소",
+      "jupasu": "FM 95.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전라남도 구례군 산동면 좌사리 산110-2",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북, 전남 구례, 광주, 목포, 해남지역 일원 전주국악방송/광주KBS 해피FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "JTV Magic FM",
+      "hochul_buho": "HLDQ-FM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 90.1㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "전북CBS 표준FM (기독교)",
+      "hochul_buho": "HLCM-SFM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 103.7㎒",
+      "chullyeok": "5㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "전북CBS 표준FM (기독교)",
+      "hochul_buho": "HLCM-SFM",
+      "songsinso": "교룡산 중계소 1",
+      "jupasu": "FM 90.7㎒",
+      "chullyeok": "0.1㎾",
+      "songsinso_wichi": "전북 남원시 산곡동 산25-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 남원지역 일원"
+    },
+    {
+      "bangsongguk": "전북CBS 표준FM (기독교)",
+      "hochul_buho": "HLCM-SFM",
+      "songsinso": "고창 중계소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "20W",
+      "songsinso_wichi": "전북 고창군 고창읍 교촌리 산5",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 고창지역 일원"
+    },
+    {
+      "bangsongguk": "전북극동방송 (기독교복음)",
+      "hochul_buho": "HLEN-FM",
+      "songsinso": "미륵산 송신소",
+      "jupasu": "FM 91.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전북 익산시 삼기면 연동리 산6 미륵산",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원"
+    },
+    {
+      "bangsongguk": "전북원음방송 (원불교)",
+      "hochul_buho": "HLDV-FM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 97.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부 광주CBS 음악FM 주파수와 혼신/목포KBS 클래식FM 주파수와 혼신"
+    },
+    {
+      "bangsongguk": "전주국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "미륵산 송신소",
+      "jupasu": "FM 95.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전북 익산시 삼기면 연동리 산69-2",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 전주, 익산, 군산지역 일원"
+    },
+    {
+      "bangsongguk": "남원국악방송 (보조국)",
+      "hochul_buho": "",
+      "songsinso": "교룡산 중계소",
+      "jupasu": "FM 95.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전북 남원시 산곡동 산25-1",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 남원지역 일원"
+    },
+    {
+      "bangsongguk": "TBN 전북교통방송",
+      "hochul_buho": "HLCM-FM",
+      "songsinso": "모악산 송신소",
+      "jupasu": "FM 102.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "전북 김제시 금산면 금산리 산1 (KT)",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북지역 일원, 전남 구례, 광주, 목포, 해남지역 일부"
+    },
+    {
+      "bangsongguk": "TBN 전북교통방송",
+      "hochul_buho": "HLCM-FM",
+      "songsinso": "팔공산 중계소",
+      "jupasu": "FM 106.1㎒",
+      "chullyeok": "-",
+      "songsinso_wichi": "전북 장수군 장수읍 용계리 산110-28",
+      "gwonyeok": "전북특별자치도",
+      "bigo": "전북 남원지역 일원"
+    },
+    {
+      "bangsongguk": "AFN Korea#Thunder AM",
+      "hochul_buho": "-",
+      "songsinso": "군산 송신소",
+      "jupasu": "AM 1440㎑",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "전북특별자치도 군산시 옥서면 선연리 (군산공항)",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "AFN Korea#Eagle FM",
+      "hochul_buho": "-",
+      "songsinso": "군산 송신소",
+      "jupasu": "FM 88.5㎒",
+      "chullyeok": "250W",
+      "songsinso_wichi": "전북특별자치도 군산시 옥서면 선연리 (군산공항)",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "전주공동체라디오",
+      "hochul_buho": "HLMA-FM",
+      "songsinso": "",
+      "jupasu": "FM 93.5㎒",
+      "chullyeok": "1W",
+      "songsinso_wichi": "전북특별자치도 전주시",
+      "gwonyeok": "전북특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS제주 제1라디오 표준FM",
+      "hochul_buho": "HLKS",
+      "songsinso": "아라 송신소",
+      "jupasu": "AM 963㎑",
+      "chullyeok": "10㎾",
+      "songsinso_wichi": "제주 제주시 아라1동 3-8",
+      "gwonyeok": "제주특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "KBS제주 제1라디오 표준FM",
+      "hochul_buho": "HLKS-SFM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 99.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 제1라디오 표준FM",
+      "hochul_buho": "HLKS-SFM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 95.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 제1라디오 표준FM",
+      "hochul_buho": "HLKS-SFM",
+      "songsinso": "금악 중계소",
+      "jupasu": "FM 103.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "제주 제주시 한림읍 금악리 산1-2",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 한림읍 금악리지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 제2라디오 해피FM",
+      "hochul_buho": "HLQC-SFM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 91.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 제2라디오 해피FM",
+      "hochul_buho": "HLQC-SFM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 89.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 제2라디오 해피FM",
+      "hochul_buho": "HLQC-SFM",
+      "songsinso": "금악 중계소",
+      "jupasu": "FM 92.7㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "제주 제주시 한림읍 금악리 산1-2",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 한림읍 금악리지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 클래식FM",
+      "hochul_buho": "HLKS-FM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 96.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "KBS제주 클래식FM",
+      "hochul_buho": "HLKS-FM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 99.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 107.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "EBS FM",
+      "hochul_buho": "-",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 104.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "제주MBC 표준FM",
+      "hochul_buho": "HLAJ-SFM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 97.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "제주MBC 표준FM",
+      "hochul_buho": "HLAJ-SFM",
+      "songsinso": "금악간이FM중계소",
+      "jupasu": "FM 106.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 제주시 한림읍 금악리 산1-2",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "녹산과 같은 주파수 제주 한림읍 금악리지역 일원"
+    },
+    {
+      "bangsongguk": "제주MBC 표준FM",
+      "hochul_buho": "HLAJ-SFM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 97.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "제주MBC FM4U",
+      "hochul_buho": "HLAJ-FM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 90.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주특별자치도 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "제주MBC FM4U",
+      "hochul_buho": "HLAJ-FM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 102.9㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주특별자치도 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "제주MBC FM4U",
+      "hochul_buho": "HLAJ-FM",
+      "songsinso": "금악간이FM중계소",
+      "jupasu": "FM 102.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "제주 제주시 한림읍 금악리 산1-2",
+      "gwonyeok": "제주특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "JIBS New Power FM (SBS 파워FM)",
+      "hochul_buho": "HLQC-FM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 101.5㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원 청주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "JIBS New Power FM (SBS 파워FM)",
+      "hochul_buho": "HLQC-FM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 98.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "JIBS New Power FM (SBS 파워FM)",
+      "hochul_buho": "HLQC-FM",
+      "songsinso": "금악 중계소",
+      "jupasu": "FM 97.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "제주 제주시 한림읍 금악리 산1-2",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 한림읍 금악리지역 일원"
+    },
+    {
+      "bangsongguk": "제주CBS 표준FM (기독교)",
+      "hochul_buho": "HLKO-FM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 93.3㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "제주CBS 표준FM (기독교)",
+      "hochul_buho": "HLKO-FM",
+      "songsinso": "서귀포 중계소",
+      "jupasu": "FM 90.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 강정동 1525-1 (한국이동통신)",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "제주극동방송 (기독교복음)",
+      "hochul_buho": "HLAZ",
+      "songsinso": "애월 송신소",
+      "jupasu": "AM 1566㎑",
+      "chullyeok": "250㎾",
+      "songsinso_wichi": "제주 제주시 애월읍 구엄리 444",
+      "gwonyeok": "제주특별자치도",
+      "bigo": ""
+    },
+    {
+      "bangsongguk": "제주극동방송 (기독교복음)",
+      "hochul_buho": "HLAZ-SFM",
+      "songsinso": "연동 송신소",
+      "jupasu": "FM 104.7㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 제주시 연동",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원 청주, 충주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "제주극동방송 (기독교복음)",
+      "hochul_buho": "HLAZ-SFM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 101.1㎒",
+      "chullyeok": "1kW",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "제주불교방송 (불교)",
+      "hochul_buho": "HLEL-FM",
+      "songsinso": "한라산 송신소",
+      "jupasu": "FM 94.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1 (JIBS 제주방송)",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "제주불교방송 (불교)",
+      "hochul_buho": "HLEL-FM",
+      "songsinso": "미악산 중계소",
+      "jupasu": "FM 100.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 동흥동 산7",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "제주국악방송",
+      "hochul_buho": "-",
+      "songsinso": "한라산 송신소",
+      "jupasu": "FM 91.3㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 제주시 아라1동 산62-3",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "제주국악방송",
+      "hochul_buho": "-",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 106.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "KFN 라디오",
+      "hochul_buho": "-",
+      "songsinso": "제주 송신소",
+      "jupasu": "FM 94.1㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 서귀포시 동흥동 산7 미악산",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "TBN 제주교통방송",
+      "hochul_buho": "HLEH-FM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원 강릉·광해·영종과 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 제주교통방송",
+      "hochul_buho": "HLEH-FM",
+      "songsinso": "미악산 중계소",
+      "jupasu": "FM 105.9㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 동흥동 산7",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원 원주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "TBN 제주교통방송",
+      "hochul_buho": "HLEH-FM",
+      "songsinso": "광해악 중계소",
+      "jupasu": "FM 105.5㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "제주 서귀포시 안덕면 서광리 937 광해악(KBS 제주)",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "강릉·영종·제주와 같은 주파수"
+    },
+    {
+      "bangsongguk": "아리랑 라디오 (영어 라디오)",
+      "hochul_buho": "HLQE-FM",
+      "songsinso": "견월악 송신소",
+      "jupasu": "FM 88.7㎒",
+      "chullyeok": "3㎾",
+      "songsinso_wichi": "제주 제주시 봉개동 산78-1 (제주MBC)",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주지역 일원"
+    },
+    {
+      "bangsongguk": "아리랑 라디오 (영어 라디오)",
+      "hochul_buho": "HLQE-FM",
+      "songsinso": "삼매봉 중계소",
+      "jupasu": "FM 88.1㎒",
+      "chullyeok": "1㎾",
+      "songsinso_wichi": "제주 서귀포시 서홍동 822-1 (KBS 제주)",
+      "gwonyeok": "제주특별자치도",
+      "bigo": "제주 서귀포지역 일원"
+    },
+    {
+      "bangsongguk": "아리랑 라디오 (영어 라디오)",
+      "hochul_buho": "HLQE-FM",
+      "songsinso": "광해악 중계소",
+      "jupasu": "FM 101.9㎒",
+      "chullyeok": "100W",
+      "songsinso_wichi": "제주 서귀포시 안덕면 서광리 937 광해악(KBS 제주)",
+      "gwonyeok": "제주특별자치도",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 라디오 방송국 송신소·주파수 목록 - Free Download",
+    "description": "대한민국 지역별 라디오 방송국(KBS·MBC·SBS·CBS·EBS·TBS 등)의 호출부호, 송신소, AM/FM 주파수, 출력, 송신소 위치 목록. Contains 550 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 라디오 방송국 송신소·주파수 목록 | ListBase",
+    "seo_description": "Download 대한민국 라디오 방송국 송신소·주파수 목록 — 550 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 550 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_라디오_방송사_목록"
+    ]
+  }
+}

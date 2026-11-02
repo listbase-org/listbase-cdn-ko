@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-02T02:28:13.669Z",
-  "total_datasets": 543,
-  "total_records": 455766,
+  "generated": "2026-11-02T02:28:20.836Z",
+  "total_datasets": 544,
+  "total_records": 456316,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "time",
@@ -12528,6 +12528,35 @@
         "xlsx": {
           "name": "ko-munja-chegye_KO.xlsx",
           "size": 11875
+        }
+      }
+    },
+    {
+      "id": "ko-radio-songsinso-jupasu",
+      "name": "대한민국 라디오 방송국 송신소·주파수 목록",
+      "category": "tech",
+      "record_count": 550,
+      "columns": [
+        "bangsongguk",
+        "hochul_buho",
+        "songsinso",
+        "jupasu",
+        "chullyeok",
+        "songsinso_wichi",
+        "gwonyeok",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_라디오_방송사_목록",
+      "updated": "2026-11",
+      "size": 184645,
+      "files": {
+        "csv": {
+          "name": "ko-radio-songsinso-jupasu_KO.csv",
+          "size": 87398
+        },
+        "xlsx": {
+          "name": "ko-radio-songsinso-jupasu_KO.xlsx",
+          "size": 36096
         }
       }
     },
