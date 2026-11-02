@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-02T02:28:20.836Z",
-  "total_datasets": 544,
-  "total_records": 456316,
+  "generated": "2026-11-02T02:28:27.354Z",
+  "total_datasets": 545,
+  "total_records": 456508,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "economy",
@@ -712,6 +712,32 @@
         "xlsx": {
           "name": "ko-seowon_KO.xlsx",
           "size": 17189
+        }
+      }
+    },
+    {
+      "id": "ko-sinmun",
+      "name": "대한민국의 신문 목록",
+      "category": "culture",
+      "record_count": 192,
+      "columns": [
+        "sinmun",
+        "bunryu",
+        "changgan",
+        "balhaeng_hyeongtae",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_신문_목록",
+      "updated": "2026-11",
+      "size": 34547,
+      "files": {
+        "csv": {
+          "name": "ko-sinmun_KO.csv",
+          "size": 11969
+        },
+        "xlsx": {
+          "name": "ko-sinmun_KO.xlsx",
+          "size": 13582
         }
       }
     },

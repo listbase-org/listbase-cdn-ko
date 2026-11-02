@@ -1,0 +1,1395 @@
+{
+  "id": "ko-sinmun",
+  "name": "대한민국의 신문 목록",
+  "title": "대한민국의 신문 목록",
+  "description": "대한민국의 종합 일간지, 경제지, 스포츠·연예지, 지역 신문(권역별), 무료 신문, 인터넷 신문 및 폐간된 신문 목록.",
+  "category": "culture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_신문_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_신문_목록",
+  "updated": "2026-11",
+  "record_count": 192,
+  "columns": [
+    {
+      "key": "sinmun",
+      "label": "Sinmun",
+      "type": "string"
+    },
+    {
+      "key": "bunryu",
+      "label": "Bunryu",
+      "type": "string"
+    },
+    {
+      "key": "changgan",
+      "label": "Changgan",
+      "type": "string"
+    },
+    {
+      "key": "balhaeng_hyeongtae",
+      "label": "Balhaeng Hyeongtae",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sinmun": "조선일보",
+      "bunryu": "종합지",
+      "changgan": "1920년 3월 5일 창간 (1945년 11월 23일 복간)",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "자매지: 스포츠조선, 소년조선일보"
+    },
+    {
+      "sinmun": "동아일보",
+      "bunryu": "종합지",
+      "changgan": "1920년 4월 1일 창간 (1945년 12월 1일 복간)",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "자매지: 스포츠동아, 어린이동아"
+    },
+    {
+      "sinmun": "중앙일보",
+      "bunryu": "종합지",
+      "changgan": "1965년 9월 22일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "창간 시기부터 삼성그룹 의 소유였으나 99년 계열 분리 자매지: 중앙 SUNDAY, 중앙데일리"
+    },
+    {
+      "sinmun": "한국일보",
+      "bunryu": "종합지",
+      "changgan": "1954년 6월 9일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "2014년 부터 동화그룹 이 소유 자매지: 코리아 타임즈, 소년한국일보"
+    },
+    {
+      "sinmun": "경향신문",
+      "bunryu": "종합지",
+      "changgan": "1946년 10월 6일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "1990년 부터 한화그룹 의 소유였으나 98년 계열 분리"
+    },
+    {
+      "sinmun": "서울신문",
+      "bunryu": "종합지",
+      "changgan": "1946년 11월 23일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "1904년 7월 18일: 대한매일신보 로 탄생되었다가 1946년에 서울신문으로 제호를 변경. 그 후 1998년 11월 11일 다시 대한매일로 환원했다가 2004년 1월 1일 다시 현 이름인 서울신문으로 복귀 정부지분이 60%인 기획재정부 소유의 국가공영신문사 자매지: 스포츠서울"
+    },
+    {
+      "sinmun": "한겨레",
+      "bunryu": "종합지",
+      "changgan": "1988년 5월 15일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "1970년 자유언론수호투쟁과정에서 해직된 기자 등으로 구성된 투쟁위원회 회원들의 창간 준비와 국민 모금으로 창간"
+    },
+    {
+      "sinmun": "국민일보",
+      "bunryu": "종합지",
+      "changgan": "1988년 12월 10일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "여의도순복음교회 자본으로 만든 신문"
+    },
+    {
+      "sinmun": "세계일보",
+      "bunryu": "종합지",
+      "changgan": "1989년 2월 1일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "창간 시기부터 통일그룹 소유 자매지: 스포츠월드"
+    },
+    {
+      "sinmun": "문화일보",
+      "bunryu": "종합지",
+      "changgan": "1991년 11월 1일",
+      "balhaeng_hyeongtae": "석간",
+      "bigo": "창간 시기부터 현대그룹 의 소유였으나 98년 계열 분리 자매지: 디지털타임즈"
+    },
+    {
+      "sinmun": "내일신문",
+      "bunryu": "종합지",
+      "changgan": "1993년 10월 9일",
+      "balhaeng_hyeongtae": "석간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "아시아투데이",
+      "bunryu": "종합지",
+      "changgan": "2005년",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대한경제신문",
+      "bunryu": "종합지",
+      "changgan": "1964년 3월 2일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "매일경제신문",
+      "bunryu": "종합지",
+      "changgan": "1966년 3월 24일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "머니투데이",
+      "bunryu": "종합지",
+      "changgan": "2001년 6월 19일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "서울경제신문",
+      "bunryu": "종합지",
+      "changgan": "1960년 8월 1일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "아시아경제",
+      "bunryu": "종합지",
+      "changgan": "1988년 6월 15일",
+      "balhaeng_hyeongtae": "석간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "파이낸셜뉴스",
+      "bunryu": "종합지",
+      "changgan": "2000년 6월 23일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "한국경제신문",
+      "bunryu": "종합지",
+      "changgan": "1964년 10월 12일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "헤럴드경제",
+      "bunryu": "종합지",
+      "changgan": "1953년 8월 13일",
+      "balhaeng_hyeongtae": "석간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "아주경제",
+      "bunryu": "종합지",
+      "changgan": "2007년",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "스포츠조선",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "1990년 3월 21일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "스포츠동아",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "2008년 3월 24일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "일간스포츠",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "1969년 9월 26일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "창간 시기부터 한국일보 의 소유였으나 2003년 7월 14일 부로 중앙일보 소유로 바뀌었고 2022년 6월 부터 KG그룹 으로 넘어갔다."
+    },
+    {
+      "sinmun": "스포츠서울",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "1985년 6월 22일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "스포츠경향",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "2004년 11월 30일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": "2001년 9월 21일 굿데이 를 창간했지만 재정상의 이유로 2004년 11월 13일 부로 폐간했다. 그 후 11월 30일 에 세트 판매 독자들 위한 스포츠.연예 전문지 스포츠 칸을 창간했고 2005년 5월 16일 가판대 판매를 통한 판매 범위를 확대했다."
+    },
+    {
+      "sinmun": "스포츠월드",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "2005년 11월 11일",
+      "balhaeng_hyeongtae": "조간",
+      "bigo": ""
+    },
+    {
+      "sinmun": "컬처타임즈",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "2019년",
+      "balhaeng_hyeongtae": "",
+      "bigo": "대한민국 문화 언론사"
+    },
+    {
+      "sinmun": "톱스타뉴스",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "2010년 9월 6일",
+      "balhaeng_hyeongtae": "인터넷 신문",
+      "bigo": "톱스타뉴스 (TOPSTARNEWS)는 대한민국의 인터넷 종합 신문으로, 2010년 9월 창간되었다. 연예 및 엔터테인먼트 분야를 중심으로 정치, 경제, 사회, 스포츠 등 다양한 분야의 뉴스를 보도한다."
+    },
+    {
+      "sinmun": "뉴스크라이브",
+      "bunryu": "문화, 스포츠.연예",
+      "changgan": "2019년",
+      "balhaeng_hyeongtae": "",
+      "bigo": "대한민국의 인터넷 신문사"
+    },
+    {
+      "sinmun": "중부일보",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "인천일보",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "기호일보",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경인일보",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경인매일신문",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경기일보",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경기신문",
+      "bunryu": "경인권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충청일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충청투데이 - 1990년 창간 (창간 당시 제호는 《대전매일》, 2005년 제호변경)",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충청매일 - 1999년 창간 (창간 당시 제호는 《한빛일보》, 2007년 제호변경)",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "중도일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "중부매일",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대전일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "동양일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "금강일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충남일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충북일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충청타임즈",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충민일보",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충청신문",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "충청도민신문",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대전타임즈",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대전투데이",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "모두서치",
+      "bunryu": "충청권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경남신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경남일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경북일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경남매일",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경남도민일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경북도민일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경북매일신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대구연합일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "한남일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경산신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경상일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경안일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "창원일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "국제신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대구신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "부산일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "매일신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "영남일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "영남신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "울산매일",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "울산신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "일간뉴스경남",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "울산제일일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "신울산일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "TK신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "대경일보",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "부산파이낸셜뉴스",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경남도민신문",
+      "bunryu": "영남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "광남일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "광주일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "광주타임스",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "광주매일신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전주일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전북일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전남일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전북중앙신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전북도민일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "호남신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "무등일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전남매일",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "호남매일",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전민일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "새전북신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전라매일",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "남도일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "서남일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "호남제일신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "조간호남일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "광주드림",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "광주전남아침신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전북연합신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전광일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전북타임스",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "일간광주신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전남도민일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전북매일신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "매일광주신문",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "남도투데이",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "새만금일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "희망일보",
+      "bunryu": "호남권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "강원일보",
+      "bunryu": "강원권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "강원도민일보",
+      "bunryu": "강원권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "제주일보",
+      "bunryu": "제주권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "제주신문 - 2007년 4월 창간 (창간 당시 제호는 《제주우먼타임스》,2007년《제주프레스》,2013년《제주신문》제호변경)",
+      "bunryu": "제주권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "제민일보",
+      "bunryu": "제주권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "한라일보",
+      "bunryu": "제주권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "제주매일",
+      "bunryu": "제주권",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "코리아타임스 - 1950년 창간",
+      "bunryu": "영자신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "코리아헤럴드 - 1953년 창간",
+      "bunryu": "영자신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "중앙데일리 - 2000년 창간",
+      "bunryu": "영자신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "전자신문 - 1982년 창간",
+      "bunryu": "IT.전자",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "디지털타임스 - 2000년 창간",
+      "bunryu": "IT.전자",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "국방일보 - 1964년 창간",
+      "bunryu": "정책",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "에너지경제신문 - 1989년 창간",
+      "bunryu": "환경",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "환경일보 - 2000년 창간",
+      "bunryu": "환경",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "뉴스펭귄 - 2017년 창간",
+      "bunryu": "환경",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "한국에너지신문 - 1994년 창간",
+      "bunryu": "에너지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "투데이에너지 - 1998년 창간",
+      "bunryu": "에너지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "에너지신문 - 2010년 창간",
+      "bunryu": "에너지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "법률신문 - 1950년 창간",
+      "bunryu": "법률",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "파이낸셜경제신문",
+      "bunryu": "경제지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "미디어오늘",
+      "bunryu": "미디어.방송지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "기자협회보",
+      "bunryu": "미디어.방송지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "여성신문 - 1988년 창간",
+      "bunryu": "여성",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "여성소비자신문 - 2012년 창간",
+      "bunryu": "여성",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "여성경제신문 - 2014년 창간",
+      "bunryu": "여성",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "철도신문",
+      "bunryu": "국토·교통",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "국토매일",
+      "bunryu": "국토·교통",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "교통신문",
+      "bunryu": "국토·교통",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "노동자연대",
+      "bunryu": "격주간지",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "메트로 (신문) <종합>",
+      "bunryu": "종이신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "이데일리 <경제>",
+      "bunryu": "종이신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "AsiaN",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경제투데이",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "노컷뉴스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "뉴데일리",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "뉴스핌",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "데일리NK",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "데일리안",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "딴지일보",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "레디앙",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "마이데일리",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "미디어스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "민중의소리",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "views&news",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "브레이크뉴스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "새파란뉴스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "아이비타임즈 코리아",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "OhmyNews",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "PD저널",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "문자와문화",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "아태경제저널",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "이데일리",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "JPNews",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "주얼리 코리아",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "참세상",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "코나스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "코리아옵저버",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "쿠키뉴스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "프레시안",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "GO발뉴스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "신문고뉴스",
+      "bunryu": "인터넷 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "한성순보 - 1883년 창간, 1884년 발행중단",
+      "bunryu": "폐간·휴간된 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "독립신문 - 1896년 창간, 1899년 폐간",
+      "bunryu": "폐간·휴간된 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "황성신문 - 1898년 창간, 1910년 폐간",
+      "bunryu": "폐간·휴간된 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "경성일보 - 1905년 창간, 1945년 폐간",
+      "bunryu": "폐간·휴간된 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "조선중앙일보 - 1924년 창간, 1939년 폐간",
+      "bunryu": "폐간·휴간된 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "민족일보 - 1961년 2월 창간, 1961년 5월 폐간",
+      "bunryu": "폐간·휴간된 신문",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "스포츠투데이 - 1999년 창간, 2006년 폐간 (2007년부터 인터넷 신문으로 전환)",
+      "bunryu": "스포츠.연예",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "굿데이 (신문) - 2001년 창간, 2004년 폐간 (2004년부터 스포츠칸으로 변경)",
+      "bunryu": "스포츠.연예",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "스포츠 한국 - 2004년 창간, 2013년 폐간 (2013년부터 인터넷 신문은 한국아이닷컴에서 종이신문은 한국일보가 한국스포츠경제로 이름을 바꾸고 운영)",
+      "bunryu": "스포츠.연예",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "포커스신문 (조간) - 2003년 창간, 2014년 폐간",
+      "bunryu": "무료 신문 (종이신문)",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "AM7 (조간) - 2003년 창간, 2013년 폐간",
+      "bunryu": "무료 신문 (종이신문)",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "데일리 줌 (조간) - 2004년 창간, 2009년 폐간",
+      "bunryu": "무료 신문 (종이신문)",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "노컷 뉴스 (조간) - 2006년 창간, 2014년 폐간 (경영난으로 파산)",
+      "bunryu": "무료 신문 (종이신문)",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "시티신문 (석간) - 2007년 창간, 2013년 폐간",
+      "bunryu": "무료 신문 (종이신문)",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    },
+    {
+      "sinmun": "Evening (석간) - 2008년 창간, 2011년 폐간 (이데일리 가 인수)",
+      "bunryu": "무료 신문 (종이신문)",
+      "changgan": "",
+      "balhaeng_hyeongtae": "",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 신문 목록 - Free Download",
+    "description": "대한민국의 종합 일간지, 경제지, 스포츠·연예지, 지역 신문(권역별), 무료 신문, 인터넷 신문 및 폐간된 신문 목록. Contains 192 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 신문 목록 | ListBase",
+    "seo_description": "Download 대한민국의 신문 목록 — 192 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 192 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_신문_목록"
+    ]
+  }
+}
