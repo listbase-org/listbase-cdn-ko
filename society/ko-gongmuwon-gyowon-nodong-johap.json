@@ -1,0 +1,556 @@
+{
+  "id": "ko-gongmuwon-gyowon-nodong-johap",
+  "name": "대한민국의 공무원·교원 노동조합",
+  "title": "대한민국의 공무원·교원 노동조합",
+  "description": "대한민국의 공무원 노동조합과 교원 노동조합 목록으로, 설립일·상급 단체(한국노총·민주노총·공노총 등)·조합원 수를 정리했다.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_공무원_노동조합",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_공무원_노동조합",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "myeongching",
+      "label": "Myeongching",
+      "type": "string"
+    },
+    {
+      "key": "bunya",
+      "label": "Bunya",
+      "type": "string"
+    },
+    {
+      "key": "gubun",
+      "label": "Gubun",
+      "type": "string"
+    },
+    {
+      "key": "bumun",
+      "label": "Bumun",
+      "type": "string"
+    },
+    {
+      "key": "seollibil",
+      "label": "Seollibil",
+      "type": "string"
+    },
+    {
+      "key": "sanggeup_danche",
+      "label": "Sanggeup Danche",
+      "type": "string"
+    },
+    {
+      "key": "johabwon_su",
+      "label": "Johabwon Su",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "myeongching": "대한민국공무원노동조합총연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2012.07.17",
+      "sanggeup_danche": "없음(자체가 총연합단체)",
+      "johabwon_su": 94304
+    },
+    {
+      "myeongching": "공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2012.10.18",
+      "sanggeup_danche": "한국노총",
+      "johabwon_su": 63787
+    },
+    {
+      "myeongching": "전국시군구공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2013.03.25",
+      "sanggeup_danche": "공노총",
+      "johabwon_su": 40324
+    },
+    {
+      "myeongching": "교육청노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2007.11.16",
+      "sanggeup_danche": "한국노총",
+      "johabwon_su": 12566
+    },
+    {
+      "myeongching": "전국시·도교육청공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2006.05.16",
+      "sanggeup_danche": "공노총",
+      "johabwon_su": 9806
+    },
+    {
+      "myeongching": "경상북도공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2022.02.08",
+      "sanggeup_danche": "공노총",
+      "johabwon_su": 10309
+    },
+    {
+      "myeongching": "경기지역공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2015.10.16",
+      "sanggeup_danche": "",
+      "johabwon_su": 9399
+    },
+    {
+      "myeongching": "서울지역공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2009.08.05",
+      "sanggeup_danche": "한국노총(공무원연맹 계열)",
+      "johabwon_su": 10134
+    },
+    {
+      "myeongching": "전북시군공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2006.09.01",
+      "sanggeup_danche": "",
+      "johabwon_su": 6667
+    },
+    {
+      "myeongching": "공무원노동조합전남연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2007.08.06",
+      "sanggeup_danche": "공노총",
+      "johabwon_su": 6007
+    },
+    {
+      "myeongching": "충청지역공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2015.05.26",
+      "sanggeup_danche": "",
+      "johabwon_su": 6105
+    },
+    {
+      "myeongching": "대전공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2008.01.14",
+      "sanggeup_danche": "",
+      "johabwon_su": 3497
+    },
+    {
+      "myeongching": "울산지역공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2018.12.11",
+      "sanggeup_danche": "",
+      "johabwon_su": 103
+    },
+    {
+      "myeongching": "전국행정기관공무원노동조합연맹",
+      "bunya": "공무원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "",
+      "seollibil": "2018.05.18",
+      "sanggeup_danche": "",
+      "johabwon_su": 103
+    },
+    {
+      "myeongching": "전국공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2018.03.26",
+      "sanggeup_danche": "민주노총",
+      "johabwon_su": 142170
+    },
+    {
+      "myeongching": "전국국·공립대학교조교노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2021.07.06",
+      "sanggeup_danche": "한국노총(전국공공노동조합연맹)",
+      "johabwon_su": 1443
+    },
+    {
+      "myeongching": "전국시간선택제공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2021.12.07",
+      "sanggeup_danche": "한국노총(공무원연맹)",
+      "johabwon_su": 1020
+    },
+    {
+      "myeongching": "한국공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2006.02.02",
+      "sanggeup_danche": "",
+      "johabwon_su": 205
+    },
+    {
+      "myeongching": "전국시도교육청일반직공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2011.12.28",
+      "sanggeup_danche": "",
+      "johabwon_su": 88
+    },
+    {
+      "myeongching": "전국직종개편공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2015.04.01",
+      "sanggeup_danche": "",
+      "johabwon_su": 26
+    },
+    {
+      "myeongching": "자유공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2023.10.17",
+      "sanggeup_danche": "",
+      "johabwon_su": 4
+    },
+    {
+      "myeongching": "대한공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2023.06.20",
+      "sanggeup_danche": "",
+      "johabwon_su": 3
+    },
+    {
+      "myeongching": "한국국가공무원연합노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "전국단위",
+      "bumun": "",
+      "seollibil": "2024.12.19",
+      "sanggeup_danche": "",
+      "johabwon_su": 7
+    },
+    {
+      "myeongching": "국가공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "행정부",
+      "bumun": "",
+      "seollibil": "2006.09.06",
+      "sanggeup_danche": "공노총",
+      "johabwon_su": 36269
+    },
+    {
+      "myeongching": "소방을사랑하는공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "행정부",
+      "bumun": "",
+      "seollibil": "2021.07.06",
+      "sanggeup_danche": "독자(무소속)",
+      "johabwon_su": 5478
+    },
+    {
+      "myeongching": "전국소방안전공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "행정부",
+      "bumun": "",
+      "seollibil": "2021.07.06",
+      "sanggeup_danche": "한국노총(공무원연맹)",
+      "johabwon_su": 3856
+    },
+    {
+      "myeongching": "소방통합공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "행정부",
+      "bumun": "",
+      "seollibil": "2023.03.27",
+      "sanggeup_danche": "독자(무소속)",
+      "johabwon_su": 764
+    },
+    {
+      "myeongching": "자유소방연합노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "행정부",
+      "bumun": "",
+      "seollibil": "2024.08.21",
+      "sanggeup_danche": "",
+      "johabwon_su": 43
+    },
+    {
+      "myeongching": "선거관리위원회공무원노동조합",
+      "bunya": "공무원 노동조합",
+      "gubun": "선거관리위원회",
+      "bumun": "",
+      "seollibil": "2024.06.26",
+      "sanggeup_danche": "미가맹(독자)",
+      "johabwon_su": 584
+    },
+    {
+      "myeongching": "교사노동조합연맹",
+      "bunya": "교원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "유초중",
+      "seollibil": "2017.12.20",
+      "sanggeup_danche": "한국노총",
+      "johabwon_su": 120156
+    },
+    {
+      "myeongching": "한국교수노동조합연맹",
+      "bunya": "교원 노동조합",
+      "gubun": "연합단체",
+      "bumun": "고등",
+      "seollibil": "2020.08.10",
+      "sanggeup_danche": "",
+      "johabwon_su": 408
+    },
+    {
+      "myeongching": "전국교직원노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "1999.07.01",
+      "sanggeup_danche": "민주노총",
+      "johabwon_su": 40118
+    },
+    {
+      "myeongching": "한국교원노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "1999.07.01",
+      "sanggeup_danche": "",
+      "johabwon_su": 698
+    },
+    {
+      "myeongching": "대한민국교원조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2008.12.05",
+      "sanggeup_danche": "",
+      "johabwon_su": 597
+    },
+    {
+      "myeongching": "전국중등교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2017.11.30",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 3402
+    },
+    {
+      "myeongching": "전국사서교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2017.12.29",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 733
+    },
+    {
+      "myeongching": "전국전문상담교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2019.02.20",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 1050
+    },
+    {
+      "myeongching": "함께하는장애인교원노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2019.07.15",
+      "sanggeup_danche": "",
+      "johabwon_su": 196
+    },
+    {
+      "myeongching": "전국보건교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2019.12.02",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 2079
+    },
+    {
+      "myeongching": "전국영양교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2020.03.04",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 487
+    },
+    {
+      "myeongching": "전국국공립유치원교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2020.03.25",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 1606
+    },
+    {
+      "myeongching": "전국초등교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2020.03.25",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 34878
+    },
+    {
+      "myeongching": "전국특수교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2020.03.27",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 3536
+    },
+    {
+      "myeongching": "전국기간제교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2021.07.06",
+      "sanggeup_danche": "",
+      "johabwon_su": 323
+    },
+    {
+      "myeongching": "평생교사노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2021.07.07",
+      "sanggeup_danche": "한국노총(교사노조연맹)",
+      "johabwon_su": 22
+    },
+    {
+      "myeongching": "K-EDU교원연합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2021.12.03",
+      "sanggeup_danche": "",
+      "johabwon_su": 381
+    },
+    {
+      "myeongching": "인성교육실천교원연합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2023.05.11",
+      "sanggeup_danche": "",
+      "johabwon_su": 78
+    },
+    {
+      "myeongching": "대한초등교사협회",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2023.10.30",
+      "sanggeup_danche": "",
+      "johabwon_su": 6164
+    },
+    {
+      "myeongching": "과수정교원노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (유·초·중등)",
+      "bumun": "",
+      "seollibil": "2024.10.24",
+      "sanggeup_danche": "",
+      "johabwon_su": 33
+    },
+    {
+      "myeongching": "한국사립대학교수노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (고등)",
+      "bumun": "",
+      "seollibil": "2020.06.18",
+      "sanggeup_danche": "",
+      "johabwon_su": 271
+    },
+    {
+      "myeongching": "전국국공립대학교수노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (고등)",
+      "bumun": "",
+      "seollibil": "2020.08.12",
+      "sanggeup_danche": "",
+      "johabwon_su": 999
+    },
+    {
+      "myeongching": "전국의과대학교수노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (고등)",
+      "bumun": "",
+      "seollibil": "2021.04.30",
+      "sanggeup_danche": "",
+      "johabwon_su": 13
+    },
+    {
+      "myeongching": "한국대학교수연대",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (고등)",
+      "bumun": "",
+      "seollibil": "2021.05.27",
+      "sanggeup_danche": "",
+      "johabwon_su": 288
+    },
+    {
+      "myeongching": "전국교수노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (고등)",
+      "bumun": "",
+      "seollibil": "2021.07.15",
+      "sanggeup_danche": "민주노총",
+      "johabwon_su": 1274
+    },
+    {
+      "myeongching": "전국사학민주화교수노동조합",
+      "bunya": "교원 노동조합",
+      "gubun": "전국단위 (고등)",
+      "bumun": "",
+      "seollibil": "2021.09.03",
+      "sanggeup_danche": "",
+      "johabwon_su": 115
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 공무원·교원 노동조합 - Free Download",
+    "description": "대한민국의 공무원 노동조합과 교원 노동조합 목록으로, 설립일·상급 단체(한국노총·민주노총·공노총 등)·조합원 수를 정리했다. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 공무원·교원 노동조합 | ListBase",
+    "seo_description": "Download 대한민국의 공무원·교원 노동조합 — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_공무원_노동조합"
+    ]
+  }
+}

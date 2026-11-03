@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-03T02:27:08.937Z",
-  "total_datasets": 546,
-  "total_records": 456587,
+  "generated": "2026-11-03T02:27:16.674Z",
+  "total_datasets": 547,
+  "total_records": 456642,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -11821,6 +11821,34 @@
         "xlsx": {
           "name": "ko-dosi-ingu-sunwi_KO.xlsx",
           "size": 11750
+        }
+      }
+    },
+    {
+      "id": "ko-gongmuwon-gyowon-nodong-johap",
+      "name": "대한민국의 공무원·교원 노동조합",
+      "category": "society",
+      "record_count": 55,
+      "columns": [
+        "myeongching",
+        "bunya",
+        "gubun",
+        "bumun",
+        "seollibil",
+        "sanggeup_danche",
+        "johabwon_su"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_공무원_노동조합",
+      "updated": "2026-11",
+      "size": 16770,
+      "files": {
+        "csv": {
+          "name": "ko-gongmuwon-gyowon-nodong-johap_KO.csv",
+          "size": 6648
+        },
+        "xlsx": {
+          "name": "ko-gongmuwon-gyowon-nodong-johap_KO.xlsx",
+          "size": 9588
         }
       }
     },
