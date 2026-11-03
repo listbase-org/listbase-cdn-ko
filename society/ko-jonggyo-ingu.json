@@ -1,0 +1,226 @@
+{
+  "id": "ko-jonggyo-ingu",
+  "name": "대한민국의 종교 인구 추이 (1950~2015)",
+  "title": "대한민국의 종교 인구 추이 (1950~2015)",
+  "description": "대한민국의 종교별(개신교·천주교·불교·기타·무종교) 인구와 비율의 연도별 추이.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_종교",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_종교",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "jonggyo",
+      "label": "Jonggyo",
+      "type": "string"
+    },
+    {
+      "key": "yeondo",
+      "label": "Yeondo",
+      "type": "string"
+    },
+    {
+      "key": "ingu",
+      "label": "Ingu",
+      "type": "number"
+    },
+    {
+      "key": "biyul",
+      "label": "Biyul",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jonggyo": "크리스도교",
+      "yeondo": "1950~1962년",
+      "ingu": "",
+      "biyul": "5.8%"
+    },
+    {
+      "jonggyo": "크리스도교",
+      "yeondo": "1985년",
+      "ingu": 8320000,
+      "biyul": "20.7%"
+    },
+    {
+      "jonggyo": "크리스도교",
+      "yeondo": "1995년",
+      "ingu": 11720000,
+      "biyul": "26.0%"
+    },
+    {
+      "jonggyo": "크리스도교",
+      "yeondo": "2005년",
+      "ingu": 13810000,
+      "biyul": "29.2%"
+    },
+    {
+      "jonggyo": "크리스도교",
+      "yeondo": "2015년",
+      "ingu": 14090000,
+      "biyul": "27.6%"
+    },
+    {
+      "jonggyo": "(개신교)",
+      "yeondo": "1950~1962년",
+      "ingu": "",
+      "biyul": "2.8%"
+    },
+    {
+      "jonggyo": "(개신교)",
+      "yeondo": "1985년",
+      "ingu": 6460000,
+      "biyul": "16.0%"
+    },
+    {
+      "jonggyo": "(개신교)",
+      "yeondo": "1995년",
+      "ingu": 8780000,
+      "biyul": "19.7%"
+    },
+    {
+      "jonggyo": "(개신교)",
+      "yeondo": "2005년",
+      "ingu": 8660000,
+      "biyul": "18.3%"
+    },
+    {
+      "jonggyo": "(개신교)",
+      "yeondo": "2015년",
+      "ingu": 10060000,
+      "biyul": "19.7%"
+    },
+    {
+      "jonggyo": "(천주교)",
+      "yeondo": "1950~1962년",
+      "ingu": "",
+      "biyul": "2.2%"
+    },
+    {
+      "jonggyo": "(천주교)",
+      "yeondo": "1985년",
+      "ingu": 1860000,
+      "biyul": "4.6%"
+    },
+    {
+      "jonggyo": "(천주교)",
+      "yeondo": "1995년",
+      "ingu": 2940000,
+      "biyul": "6.6%"
+    },
+    {
+      "jonggyo": "(천주교)",
+      "yeondo": "2005년",
+      "ingu": 5150000,
+      "biyul": "10.9%"
+    },
+    {
+      "jonggyo": "(천주교)",
+      "yeondo": "2015년",
+      "ingu": 4030000,
+      "biyul": "7.9%"
+    },
+    {
+      "jonggyo": "불교",
+      "yeondo": "1950~1962년",
+      "ingu": "",
+      "biyul": "2.6%"
+    },
+    {
+      "jonggyo": "불교",
+      "yeondo": "1985년",
+      "ingu": 8040000,
+      "biyul": "16.0%"
+    },
+    {
+      "jonggyo": "불교",
+      "yeondo": "1995년",
+      "ingu": 10350000,
+      "biyul": "23.2%"
+    },
+    {
+      "jonggyo": "불교",
+      "yeondo": "2005년",
+      "ingu": 10780000,
+      "biyul": "22.8%"
+    },
+    {
+      "jonggyo": "불교",
+      "yeondo": "2015년",
+      "ingu": 7920000,
+      "biyul": "15.5%"
+    },
+    {
+      "jonggyo": "기타 종교",
+      "yeondo": "1950~1962년",
+      "ingu": "",
+      "biyul": ""
+    },
+    {
+      "jonggyo": "기타 종교",
+      "yeondo": "1985년",
+      "ingu": 850000,
+      "biyul": "0.5%"
+    },
+    {
+      "jonggyo": "기타 종교",
+      "yeondo": "1995년",
+      "ingu": 2000000,
+      "biyul": "0.5%"
+    },
+    {
+      "jonggyo": "기타 종교",
+      "yeondo": "2005년",
+      "ingu": 1800000,
+      "biyul": "0.5%"
+    },
+    {
+      "jonggyo": "기타 종교",
+      "yeondo": "2015년",
+      "ingu": 2400000,
+      "biyul": "0.3%"
+    },
+    {
+      "jonggyo": "무종교",
+      "yeondo": "1950~1962년",
+      "ingu": "",
+      "biyul": "92.4%"
+    },
+    {
+      "jonggyo": "무종교",
+      "yeondo": "1985년",
+      "ingu": 23200000,
+      "biyul": "57.4%"
+    },
+    {
+      "jonggyo": "무종교",
+      "yeondo": "1995년",
+      "ingu": 22000000,
+      "biyul": "49.3%"
+    },
+    {
+      "jonggyo": "무종교",
+      "yeondo": "2005년",
+      "ingu": 22200000,
+      "biyul": "46.3%"
+    },
+    {
+      "jonggyo": "무종교",
+      "yeondo": "2015년",
+      "ingu": 28650000,
+      "biyul": "56.1%"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 종교 인구 추이 (1950~2015) - Free Download",
+    "description": "대한민국의 종교별(개신교·천주교·불교·기타·무종교) 인구와 비율의 연도별 추이. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 종교 인구 추이 (1950~2015) | ListBase",
+    "seo_description": "Download 대한민국의 종교 인구 추이 (1950~2015) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_종교"
+    ]
+  }
+}

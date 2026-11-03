@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-03T02:27:30.993Z",
-  "total_datasets": 549,
-  "total_records": 456767,
+  "generated": "2026-11-03T02:27:36.889Z",
+  "total_datasets": 550,
+  "total_records": 456797,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -11955,6 +11955,31 @@
         "xlsx": {
           "name": "ko-ingu-donghyang_KO.xlsx",
           "size": 10856
+        }
+      }
+    },
+    {
+      "id": "ko-jonggyo-ingu",
+      "name": "대한민국의 종교 인구 추이 (1950~2015)",
+      "category": "society",
+      "record_count": 30,
+      "columns": [
+        "jonggyo",
+        "yeondo",
+        "ingu",
+        "biyul"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_종교",
+      "updated": "2026-11",
+      "size": 5119,
+      "files": {
+        "csv": {
+          "name": "ko-jonggyo-ingu_KO.csv",
+          "size": 1272
+        },
+        "xlsx": {
+          "name": "ko-jonggyo-ingu_KO.xlsx",
+          "size": 7498
         }
       }
     },
