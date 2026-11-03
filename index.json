@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-03T02:27:23.982Z",
-  "total_datasets": 548,
-  "total_records": 456707,
+  "generated": "2026-11-03T02:27:30.993Z",
+  "total_datasets": 549,
+  "total_records": 456767,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -11678,6 +11678,36 @@
         "xlsx": {
           "name": "ko-gwahakja_KO.xlsx",
           "size": 7727
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-poyu-dongmul",
+      "name": "한국의 포유동물 (고슴도치목·땃쥐목·박쥐목·토끼목·식육목·우제목)",
+      "category": "science",
+      "record_count": 60,
+      "columns": [
+        "mok",
+        "gwa",
+        "sok",
+        "ilbanmyeong",
+        "hangmyeong",
+        "seosikji",
+        "bunpo",
+        "sangtae",
+        "gita"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_포유동물",
+      "updated": "2026-11",
+      "size": 25540,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-poyu-dongmul_KO.csv",
+          "size": 13340
+        },
+        "xlsx": {
+          "name": "ko-hanguk-poyu-dongmul_KO.xlsx",
+          "size": 12840
         }
       }
     },
