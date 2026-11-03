@@ -1,0 +1,226 @@
+{
+  "id": "ko-gwahakja",
+  "name": "대한민국의 대표적인 과학자",
+  "title": "대한민국의 대표적인 과학자",
+  "description": "한국어 위키백과에 수록된 대한민국의 대표적인 과학자 목록.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_과학자_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_과학자_목록",
+  "updated": "2026-11",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ireum": "강성종 (과학자)"
+    },
+    {
+      "ireum": "권오길"
+    },
+    {
+      "ireum": "김광수 (교수)"
+    },
+    {
+      "ireum": "김빛내리"
+    },
+    {
+      "ireum": "김삼순"
+    },
+    {
+      "ireum": "김선종"
+    },
+    {
+      "ireum": "김성훈 (과학자)"
+    },
+    {
+      "ireum": "김순권"
+    },
+    {
+      "ireum": "김영민 (생물학자)"
+    },
+    {
+      "ireum": "김익수"
+    },
+    {
+      "ireum": "남홍길"
+    },
+    {
+      "ireum": "라정찬"
+    },
+    {
+      "ireum": "박기영 (1958년)"
+    },
+    {
+      "ireum": "변순규"
+    },
+    {
+      "ireum": "석주명"
+    },
+    {
+      "ireum": "우장춘"
+    },
+    {
+      "ireum": "원병오"
+    },
+    {
+      "ireum": "윤치영 (1954년)"
+    },
+    {
+      "ireum": "이기령"
+    },
+    {
+      "ireum": "이호왕"
+    },
+    {
+      "ireum": "장진 (1927년)"
+    },
+    {
+      "ireum": "조복성"
+    },
+    {
+      "ireum": "조완규"
+    },
+    {
+      "ireum": "조진원 (생물학자)"
+    },
+    {
+      "ireum": "최강열"
+    },
+    {
+      "ireum": "최양도"
+    },
+    {
+      "ireum": "최영 (생물학자)"
+    },
+    {
+      "ireum": "황우석"
+    },
+    {
+      "ireum": "경상현"
+    },
+    {
+      "ireum": "김규원"
+    },
+    {
+      "ireum": "김동만 (1955년)"
+    },
+    {
+      "ireum": "김성훈 (과학자)"
+    },
+    {
+      "ireum": "마호섭"
+    },
+    {
+      "ireum": "맹성현"
+    },
+    {
+      "ireum": "맹승렬"
+    },
+    {
+      "ireum": "민병주"
+    },
+    {
+      "ireum": "박성회"
+    },
+    {
+      "ireum": "박영우"
+    },
+    {
+      "ireum": "박원규"
+    },
+    {
+      "ireum": "박호군"
+    },
+    {
+      "ireum": "방건웅"
+    },
+    {
+      "ireum": "방효충"
+    },
+    {
+      "ireum": "백성희 (과학자)"
+    },
+    {
+      "ireum": "송호영 (교수)"
+    },
+    {
+      "ireum": "신용현"
+    },
+    {
+      "ireum": "안인영"
+    },
+    {
+      "ireum": "위상규"
+    },
+    {
+      "ireum": "윤경병"
+    },
+    {
+      "ireum": "이광희"
+    },
+    {
+      "ireum": "이만재 (1948년)"
+    },
+    {
+      "ireum": "이영무 (교육인)"
+    },
+    {
+      "ireum": "이우주"
+    },
+    {
+      "ireum": "이인선 (1959년)"
+    },
+    {
+      "ireum": "이준식 (공학자)"
+    },
+    {
+      "ireum": "이진하"
+    },
+    {
+      "ireum": "이태규 (화학자)"
+    },
+    {
+      "ireum": "조백현"
+    },
+    {
+      "ireum": "조복성"
+    },
+    {
+      "ireum": "지광훈"
+    },
+    {
+      "ireum": "최순자"
+    },
+    {
+      "ireum": "최형섭"
+    },
+    {
+      "ireum": "추호렬"
+    },
+    {
+      "ireum": "탁민제"
+    },
+    {
+      "ireum": "함돈희"
+    },
+    {
+      "ireum": "이건재"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 대표적인 과학자 - Free Download",
+    "description": "한국어 위키백과에 수록된 대한민국의 대표적인 과학자 목록. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 대표적인 과학자 | ListBase",
+    "seo_description": "Download 대한민국의 대표적인 과학자 — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_과학자_목록"
+    ]
+  }
+}

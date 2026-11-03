@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-03T02:27:16.674Z",
-  "total_datasets": 547,
-  "total_records": 456642,
+  "generated": "2026-11-03T02:27:23.982Z",
+  "total_datasets": 548,
+  "total_records": 456707,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -11656,6 +11656,28 @@
         "xlsx": {
           "name": "ko-gwahak-gisul-janggwan_KO.xlsx",
           "size": 10887
+        }
+      }
+    },
+    {
+      "id": "ko-gwahakja",
+      "name": "대한민국의 대표적인 과학자",
+      "category": "science",
+      "record_count": 65,
+      "columns": [
+        "ireum"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_과학자_목록",
+      "updated": "2026-11",
+      "size": 4061,
+      "files": {
+        "csv": {
+          "name": "ko-gwahakja_KO.csv",
+          "size": 994
+        },
+        "xlsx": {
+          "name": "ko-gwahakja_KO.xlsx",
+          "size": 7727
         }
       }
     },
