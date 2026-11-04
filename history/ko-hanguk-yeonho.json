@@ -1,0 +1,322 @@
+{
+  "id": "ko-hanguk-yeonho",
+  "name": "한국의 연호 목록",
+  "title": "한국의 연호 목록",
+  "description": "고구려·신라·발해·태봉·고려·조선·대한제국 등 한국사에서 사용된 독자 연호와 한자 표기, 사용 군주와 시기.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/한국의_연호",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_연호",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "yeonho",
+      "label": "Yeonho",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "sayong",
+      "label": "Sayong",
+      "type": "string"
+    },
+    {
+      "key": "gukga",
+      "label": "Gukga",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yeonho": "영락",
+      "hanja": "永樂",
+      "sayong": "광개토왕 연간에 사용, 391 ~ 412",
+      "gukga": "고구려"
+    },
+    {
+      "yeonho": "영강",
+      "hanja": "永康",
+      "sayong": "396년, 418년, 470년, 483년 또는 551년 에 개원한 것으로 추정. 영강7년명주형광배 에 보이는 고구려의 연호",
+      "gukga": "고구려"
+    },
+    {
+      "yeonho": "연수",
+      "hanja": "延壽",
+      "sayong": "451년 또는 511년 에 개원한 것으로 추정. 연수원년명금석문 에 보이는 고구려의 연호",
+      "gukga": "고구려"
+    },
+    {
+      "yeonho": "건흥",
+      "hanja": "建興",
+      "sayong": "476년, 536년 또는 596년 에 개원한 것으로 추정. 건흥5년명금동석가삼존불 에 보이는 고구려의 연호",
+      "gukga": "고구려"
+    },
+    {
+      "yeonho": "연가",
+      "hanja": "延嘉",
+      "sayong": "479년 또는 539년 에 개원한 것으로 추정. 금동연가7년명여래입상 에 보이는 고구려의 연호",
+      "gukga": "고구려"
+    },
+    {
+      "yeonho": "건원",
+      "hanja": "建元",
+      "sayong": "법흥왕, 진흥왕 연간에 사용, 536~550",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "개국",
+      "hanja": "開國",
+      "sayong": "진흥왕 연간에 사용, 551~567",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "대창",
+      "hanja": "大昌",
+      "sayong": "진흥왕 연간에 사용, 568~571",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "홍제",
+      "hanja": "鴻濟",
+      "sayong": "진흥왕, 진지왕, 진평왕 연간에 사용, 572~584",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "건복",
+      "hanja": "建福",
+      "sayong": "진평왕, 선덕여왕 연간에 사용, 584~633",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "인평",
+      "hanja": "仁平",
+      "sayong": "선덕여왕 연간에 사용, 634~647",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "태화",
+      "hanja": "太和",
+      "sayong": "진덕여왕 연간에 사용, 647~650",
+      "gukga": "신라"
+    },
+    {
+      "yeonho": "경운",
+      "hanja": "慶雲",
+      "sayong": "김헌창, 822~825",
+      "gukga": "장안국"
+    },
+    {
+      "yeonho": "경원",
+      "hanja": "慶元",
+      "sayong": "이라 기록된 사료도 있다.",
+      "gukga": "장안국"
+    },
+    {
+      "yeonho": "인안",
+      "hanja": "仁安",
+      "sayong": "무왕 연간에 사용, 719~736",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "대흥",
+      "hanja": "大興",
+      "sayong": "문왕 연간에 사용, 737~793",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "보력",
+      "hanja": "寶曆",
+      "sayong": "문왕 연간에 사용, 774~781?",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "중흥",
+      "hanja": "中興",
+      "sayong": "성왕 연간에 사용, 794~795",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "정력",
+      "hanja": "正曆",
+      "sayong": "강왕 연간에 사용, 796~808",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "영덕",
+      "hanja": "永德",
+      "sayong": "정왕 연간에 사용, 809~812",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "주작",
+      "hanja": "朱雀",
+      "sayong": "희왕 연간에 사용, 813~817",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "태시",
+      "hanja": "太始",
+      "sayong": "간왕 연간에 사용, 817~818",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "건흥",
+      "hanja": "建興",
+      "sayong": "선왕 연간에 사용, 819~830",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "함화",
+      "hanja": "咸和",
+      "sayong": "대이진 연간에 사용, 831~858",
+      "gukga": "발해"
+    },
+    {
+      "yeonho": "원흥",
+      "hanja": "元興",
+      "sayong": "오현명, 938 ~ 986",
+      "gukga": "정안국"
+    },
+    {
+      "yeonho": "천경",
+      "hanja": "天慶",
+      "sayong": "대연림, 1029~1030",
+      "gukga": "흥료국"
+    },
+    {
+      "yeonho": "융기",
+      "hanja": "隆基",
+      "sayong": "고영창, 1115~1116",
+      "gukga": "대발해"
+    },
+    {
+      "yeonho": "정개",
+      "hanja": "正開",
+      "sayong": "견훤, 900~935",
+      "gukga": "후백제"
+    },
+    {
+      "yeonho": "정개",
+      "hanja": "正開",
+      "sayong": "신검, 935~936",
+      "gukga": "후백제"
+    },
+    {
+      "yeonho": "무태",
+      "hanja": "武泰",
+      "sayong": "궁예, 904",
+      "gukga": "태봉"
+    },
+    {
+      "yeonho": "성책",
+      "hanja": "聖冊",
+      "sayong": "궁예, 905~910",
+      "gukga": "태봉"
+    },
+    {
+      "yeonho": "수덕만세",
+      "hanja": "水德萬歲",
+      "sayong": "궁예, 911~914",
+      "gukga": "태봉"
+    },
+    {
+      "yeonho": "정개",
+      "hanja": "政開",
+      "sayong": "궁예, 915~918",
+      "gukga": "태봉"
+    },
+    {
+      "yeonho": "천수",
+      "hanja": "天授",
+      "sayong": "고려 태조, 918 - 933",
+      "gukga": "고려"
+    },
+    {
+      "yeonho": "광덕",
+      "hanja": "光德",
+      "sayong": "고려 광종, 950 - 951",
+      "gukga": "고려"
+    },
+    {
+      "yeonho": "준풍",
+      "hanja": "峻豊",
+      "sayong": "고려 광종, 960 - 963",
+      "gukga": "고려"
+    },
+    {
+      "yeonho": "천개",
+      "hanja": "天開",
+      "sayong": "묘청, 1135~1136",
+      "gukga": "대위국"
+    },
+    {
+      "yeonho": "개국 기년",
+      "hanja": "開國紀年",
+      "sayong": "고종 연간에 사용, 1894~1895",
+      "gukga": "조선"
+    },
+    {
+      "yeonho": "건양",
+      "hanja": "建陽",
+      "sayong": "고종 연간에 사용, 1896~1897",
+      "gukga": "조선"
+    },
+    {
+      "yeonho": "광무",
+      "hanja": "光武",
+      "sayong": "고종 연간에 사용, 1897~1907",
+      "gukga": "대한제국"
+    },
+    {
+      "yeonho": "융희",
+      "hanja": "隆熙",
+      "sayong": "순종 연간에 사용, 1907~1910",
+      "gukga": "대한제국"
+    },
+    {
+      "yeonho": "대한민국",
+      "hanja": "大韓民國",
+      "sayong": "1948. 8. 16.~1948. 9. 24.): 1919년(3·1 운동)을 원년으로 사용.",
+      "gukga": "대한민국"
+    },
+    {
+      "yeonho": "단군기원",
+      "hanja": "檀君紀元",
+      "sayong": "1948. 9. 25.~1961. 12. 31.): 1948년을 단기 4281년으로 사용.",
+      "gukga": "대한민국"
+    },
+    {
+      "yeonho": "서력기원",
+      "hanja": "西曆紀元",
+      "sayong": "1962. 1. 1.~",
+      "gukga": "대한민국"
+    },
+    {
+      "yeonho": "주체",
+      "hanja": "主體",
+      "sayong": "1997년 ~): 1912년(김일성 출생일)을 원년으로 지정하여 1997년부터 사용하고 있다.",
+      "gukga": "조선민주주의인민공화국"
+    },
+    {
+      "yeonho": "태□",
+      "hanja": "泰□",
+      "sayong": ": 칠지도 의 명문에 등장하는 연호로, 대한민국 학계에서는 대개 동진 의 연호 태화 (太和)로 추정하고 있으나 일각에서는 백제 근초고왕 혹은 전지왕 의 독자적인 연호라고 주장하기도 한다.",
+      "gukga": "기타"
+    }
+  ],
+  "meta": {
+    "title": "한국의 연호 목록 - Free Download",
+    "description": "고구려·신라·발해·태봉·고려·조선·대한제국 등 한국사에서 사용된 독자 연호와 한자 표기, 사용 군주와 시기. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국의 연호 목록 | ListBase",
+    "seo_description": "Download 한국의 연호 목록 — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_연호"
+    ]
+  }
+}

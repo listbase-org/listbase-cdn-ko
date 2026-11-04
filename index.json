@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-04T02:26:36.287Z",
-  "total_datasets": 551,
-  "total_records": 456820,
+  "generated": "2026-11-04T02:26:44.089Z",
+  "total_datasets": 552,
+  "total_records": 456866,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "language",
@@ -7609,6 +7609,31 @@
         "xlsx": {
           "name": "ko-haeyang-sago_KO.xlsx",
           "size": 19595
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-yeonho",
+      "name": "한국의 연호 목록",
+      "category": "history",
+      "record_count": 46,
+      "columns": [
+        "yeonho",
+        "hanja",
+        "sayong",
+        "gukga"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_연호",
+      "updated": "2026-11",
+      "size": 8737,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-yeonho_KO.csv",
+          "size": 3660
+        },
+        "xlsx": {
+          "name": "ko-hanguk-yeonho_KO.xlsx",
+          "size": 9210
         }
       }
     },
