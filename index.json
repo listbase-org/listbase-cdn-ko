@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-03T02:27:36.889Z",
-  "total_datasets": 550,
-  "total_records": 456797,
+  "generated": "2026-11-04T02:26:36.287Z",
+  "total_datasets": 551,
+  "total_records": 456820,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tourism",
@@ -13133,6 +13133,30 @@
         "xlsx": {
           "name": "ko-gongyuil-completos_KO.xlsx",
           "size": 90848
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-myeongjeol",
+      "name": "한국의 명절과 세시 목록",
+      "category": "time",
+      "record_count": 23,
+      "columns": [
+        "myeongjeol",
+        "nalijja_mit_seolmyeong",
+        "gubun"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_명절",
+      "updated": "2026-11",
+      "size": 5515,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-myeongjeol_KO.csv",
+          "size": 2199
+        },
+        "xlsx": {
+          "name": "ko-hanguk-myeongjeol_KO.xlsx",
+          "size": 8069
         }
       }
     },
