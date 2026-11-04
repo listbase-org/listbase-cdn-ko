@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-04T02:26:51.516Z",
-  "total_datasets": 553,
-  "total_records": 456872,
+  "generated": "2026-11-04T02:26:57.911Z",
+  "total_datasets": 554,
+  "total_records": 456960,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -8702,6 +8702,39 @@
         "xlsx": {
           "name": "ko-jeongdang_KO.xlsx",
           "size": 8249
+        }
+      }
+    },
+    {
+      "id": "ko-jungang-haengjeong-gigwan-yeonhyeok",
+      "name": "대한민국 중앙행정기관 개편 연혁",
+      "category": "politics",
+      "record_count": 88,
+      "columns": [
+        "jeongbu",
+        "yeondo",
+        "wolil",
+        "won",
+        "bu",
+        "cheo",
+        "cheong",
+        "sil",
+        "wiwonhoe",
+        "byeongyeong_naeyong",
+        "geungeo_beomnyeong",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_중앙행정기관",
+      "updated": "2026-11",
+      "size": 38374,
+      "files": {
+        "csv": {
+          "name": "ko-jungang-haengjeong-gigwan-yeonhyeok_KO.csv",
+          "size": 16582
+        },
+        "xlsx": {
+          "name": "ko-jungang-haengjeong-gigwan-yeonhyeok_KO.xlsx",
+          "size": 14566
         }
       }
     },
