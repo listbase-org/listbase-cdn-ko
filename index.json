@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-04T02:26:44.089Z",
-  "total_datasets": 552,
-  "total_records": 456866,
+  "generated": "2026-11-04T02:26:51.516Z",
+  "total_datasets": 553,
+  "total_records": 456872,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -7869,6 +7869,29 @@
         "xlsx": {
           "name": "ko-hangeul-natja_KO.xlsx",
           "size": 15981
+        }
+      }
+    },
+    {
+      "id": "ko-hangugeo-bangeon",
+      "name": "한국어의 방언 구획",
+      "category": "language",
+      "record_count": 6,
+      "columns": [
+        "bangeon",
+        "seolmyeong"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국어의_방언",
+      "updated": "2026-11",
+      "size": 4211,
+      "files": {
+        "csv": {
+          "name": "ko-hangugeo-bangeon_KO.csv",
+          "size": 2587
+        },
+        "xlsx": {
+          "name": "ko-hangugeo-bangeon_KO.xlsx",
+          "size": 7757
         }
       }
     },
