@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-05T02:25:54.909Z",
-  "total_datasets": 555,
-  "total_records": 456966,
+  "generated": "2026-11-05T02:26:04.291Z",
+  "total_datasets": 556,
+  "total_records": 456978,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -12032,6 +12032,33 @@
         "xlsx": {
           "name": "ko-goyong-nodong-janggwan_KO.xlsx",
           "size": 8866
+        }
+      }
+    },
+    {
+      "id": "ko-gukga-ingwon-wiwonjang",
+      "name": "대한민국 역대 국가인권위원회 위원장",
+      "category": "society",
+      "record_count": 12,
+      "columns": [
+        "jeongbu",
+        "daesu",
+        "ireum",
+        "hanja",
+        "imgi",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_국가인권위원회_위원장",
+      "updated": "2026-11",
+      "size": 4280,
+      "files": {
+        "csv": {
+          "name": "ko-gukga-ingwon-wiwonjang_KO.csv",
+          "size": 1148
+        },
+        "xlsx": {
+          "name": "ko-gukga-ingwon-wiwonjang_KO.xlsx",
+          "size": 7457
         }
       }
     },
