@@ -1,0 +1,60 @@
+{
+  "id": "ko-godeung-beobwon",
+  "name": "대한민국의 고등법원 목록",
+  "title": "대한민국의 고등법원 목록",
+  "description": "대한민국의 고등법원(서울·수원·대전·대구·부산·광주) 목록과 각 고등법원장.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_고등법원",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_고등법원",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "godeung_beobwon",
+      "label": "Godeung Beobwon",
+      "type": "string"
+    },
+    {
+      "key": "godeung_beobwonjang",
+      "label": "Godeung Beobwonjang",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godeung_beobwon": "서울고등법원",
+      "godeung_beobwonjang": "김대웅"
+    },
+    {
+      "godeung_beobwon": "수원고등법원",
+      "godeung_beobwonjang": "배준현"
+    },
+    {
+      "godeung_beobwon": "대전고등법원",
+      "godeung_beobwonjang": "이원범"
+    },
+    {
+      "godeung_beobwon": "대구고등법원",
+      "godeung_beobwonjang": "진성철"
+    },
+    {
+      "godeung_beobwon": "부산고등법원",
+      "godeung_beobwonjang": "박종훈"
+    },
+    {
+      "godeung_beobwon": "광주고등법원",
+      "godeung_beobwonjang": "설범석"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 고등법원 목록 - Free Download",
+    "description": "대한민국의 고등법원(서울·수원·대전·대구·부산·광주) 목록과 각 고등법원장. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 고등법원 목록 | ListBase",
+    "seo_description": "Download 대한민국의 고등법원 목록 — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_고등법원"
+    ]
+  }
+}

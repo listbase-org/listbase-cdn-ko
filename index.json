@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-04T02:26:57.911Z",
-  "total_datasets": 554,
-  "total_records": 456960,
+  "generated": "2026-11-05T02:25:54.909Z",
+  "total_datasets": 555,
+  "total_records": 456966,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "music",
@@ -8096,6 +8096,29 @@
         "xlsx": {
           "name": "ko-geomchal-chongjang_KO.xlsx",
           "size": 11685
+        }
+      }
+    },
+    {
+      "id": "ko-godeung-beobwon",
+      "name": "대한민국의 고등법원 목록",
+      "category": "law",
+      "record_count": 6,
+      "columns": [
+        "godeung_beobwon",
+        "godeung_beobwonjang"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_고등법원",
+      "updated": "2026-11",
+      "size": 2015,
+      "files": {
+        "csv": {
+          "name": "ko-godeung-beobwon_KO.csv",
+          "size": 240
+        },
+        "xlsx": {
+          "name": "ko-godeung-beobwon_KO.xlsx",
+          "size": 6877
         }
       }
     },
