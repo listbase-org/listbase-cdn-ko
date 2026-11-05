@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-05T02:26:04.291Z",
-  "total_datasets": 556,
-  "total_records": 456978,
+  "generated": "2026-11-05T02:26:12.561Z",
+  "total_datasets": 557,
+  "total_records": 456987,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -842,6 +842,33 @@
         "xlsx": {
           "name": "ko-gukga-saneop-danji_KO.xlsx",
           "size": 7817
+        }
+      }
+    },
+    {
+      "id": "ko-gyeongje-jayu-guyeok",
+      "name": "대한민국의 경제자유구역 목록",
+      "category": "economy",
+      "record_count": 9,
+      "columns": [
+        "gyeongje_jayu_guyeok",
+        "wichi",
+        "myeonjeok",
+        "bijeon",
+        "jijeongil",
+        "guyeokcheong_gaecheongil"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_경제자유구역",
+      "updated": "2026-11",
+      "size": 4731,
+      "files": {
+        "csv": {
+          "name": "ko-gyeongje-jayu-guyeok_KO.csv",
+          "size": 1537
+        },
+        "xlsx": {
+          "name": "ko-gyeongje-jayu-guyeok_KO.xlsx",
+          "size": 7688
         }
       }
     },

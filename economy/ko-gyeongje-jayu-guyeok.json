@@ -1,0 +1,128 @@
+{
+  "id": "ko-gyeongje-jayu-guyeok",
+  "name": "대한민국의 경제자유구역 목록",
+  "title": "대한민국의 경제자유구역 목록",
+  "description": "대한민국의 경제자유구역(인천·부산진해·광양만권 등)의 위치, 면적, 비전, 지정일 및 경제자유구역청 개청일 목록.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_경제자유구역",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_경제자유구역",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "gyeongje_jayu_guyeok",
+      "label": "Gyeongje Jayu Guyeok",
+      "type": "string"
+    },
+    {
+      "key": "wichi",
+      "label": "Wichi",
+      "type": "string"
+    },
+    {
+      "key": "myeonjeok",
+      "label": "Myeonjeok",
+      "type": "string"
+    },
+    {
+      "key": "bijeon",
+      "label": "Bijeon",
+      "type": "string"
+    },
+    {
+      "key": "jijeongil",
+      "label": "Jijeongil",
+      "type": "string"
+    },
+    {
+      "key": "guyeokcheong_gaecheongil",
+      "label": "Guyeokcheong Gaecheongil",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gyeongje_jayu_guyeok": "인천경제자유구역",
+      "wichi": "인천광역시",
+      "myeonjeok": "209.9km²",
+      "bijeon": "환발해권 물류클러스터 추진",
+      "jijeongil": "2003년 8월 6일",
+      "guyeokcheong_gaecheongil": "2003년 10월 15일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "광양만권경제자유구역",
+      "wichi": "전라남도 경상남도",
+      "myeonjeok": "86km²",
+      "bijeon": "동북아시아 비즈니스의 거점으로 육성",
+      "jijeongil": "2003년 10월 27일",
+      "guyeokcheong_gaecheongil": "2004년 3월 24일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "부산진해경제자유구역",
+      "wichi": "부산광역시 경상남도",
+      "myeonjeok": "104km²",
+      "bijeon": "항만중심의 물류거점화 추진",
+      "jijeongil": "2003년 10월 27일",
+      "guyeokcheong_gaecheongil": "2004년 3월 30일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "황해경제자유구역 (당진평택경제자유구역)",
+      "wichi": "충청남도 경기도",
+      "myeonjeok": "55.1km²",
+      "bijeon": "당진항 중심의 환황해권 국제협력거점",
+      "jijeongil": "2008년 4월 25일",
+      "guyeokcheong_gaecheongil": "2008년 7월 22일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "대구경북경제자유구역",
+      "wichi": "대구광역시 경상북도",
+      "myeonjeok": "40.0km²",
+      "bijeon": "지식기반산업중심 내륙형 경제자유구역",
+      "jijeongil": "2008년 4월 25일",
+      "guyeokcheong_gaecheongil": "2008년 8월 13일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "강원경제자유구역",
+      "wichi": "강원도",
+      "myeonjeok": "8.25km²",
+      "bijeon": "첨단녹색소재산업 육성으로 환동해권 경제중심지 건설",
+      "jijeongil": "2013년 2월 4일",
+      "guyeokcheong_gaecheongil": "2013년 7월 9일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "충북경제자유구역",
+      "wichi": "충청북도",
+      "myeonjeok": "9.08km²",
+      "bijeon": "친환경 BIT 융복합 비즈니스 허브",
+      "jijeongil": "2013년 2월 14일",
+      "guyeokcheong_gaecheongil": "2013년 4월 26일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "광주경제자유구역",
+      "wichi": "광주광역시",
+      "myeonjeok": "4.03km²",
+      "bijeon": "인공지능 기반 신산업 거점 도약",
+      "jijeongil": "2020년 6월 3일",
+      "guyeokcheong_gaecheongil": "2021년 1월 27일"
+    },
+    {
+      "gyeongje_jayu_guyeok": "새만금군산경제자유구역",
+      "wichi": "전라북도",
+      "myeonjeok": "67.0km²",
+      "bijeon": "동아시아 미래형 신산업과 관광·레저 허브",
+      "jijeongil": "2008년 4월 25일",
+      "guyeokcheong_gaecheongil": "2008년 8월 28일"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 경제자유구역 목록 - Free Download",
+    "description": "대한민국의 경제자유구역(인천·부산진해·광양만권 등)의 위치, 면적, 비전, 지정일 및 경제자유구역청 개청일 목록. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 경제자유구역 목록 | ListBase",
+    "seo_description": "Download 대한민국의 경제자유구역 목록 — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_경제자유구역"
+    ]
+  }
+}
