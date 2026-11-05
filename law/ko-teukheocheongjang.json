@@ -1,0 +1,511 @@
+{
+  "id": "ko-teukheocheongjang",
+  "name": "대한민국 역대 특허청장 (상공부 특허국장·특허청장·지식재산처)",
+  "title": "대한민국 역대 특허청장 (상공부 특허국장·특허청장·지식재산처)",
+  "description": "상공부 특허국장(1949년~)과 특허청장(1977년~), 2025년 출범한 지식재산처의 역대 기관장 목록. 직책, 정부, 대수, 이름(한자), 임기, 비고를 수록.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_지식재산처장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_지식재산처장",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "jikchaek",
+      "label": "Jikchaek",
+      "type": "string"
+    },
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "imgi",
+      "label": "Imgi",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제1공화국",
+      "daesu": "초대",
+      "ireum": "이채오",
+      "hanja": "李彩五",
+      "imgi": "1949년~1952년",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제1공화국",
+      "daesu": "2대",
+      "ireum": "주이회",
+      "hanja": "朱利會",
+      "imgi": "1952년 5월 30일~1954년",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제1공화국",
+      "daesu": "3대",
+      "ireum": "이웅세",
+      "hanja": "李雄世",
+      "imgi": "1954년 11월 11일~1956년",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제1공화국",
+      "daesu": "4대",
+      "ireum": "이윤모",
+      "hanja": "允模氏",
+      "imgi": "1956년 11월 1일~1959년 2월 15일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제1공화국",
+      "daesu": "5대",
+      "ireum": "김서일",
+      "hanja": "金瑞一",
+      "imgi": "1959년 2월 15일~1960년 11월 12일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제2공화국",
+      "daesu": "6대",
+      "ireum": "이송현",
+      "hanja": "李松賢",
+      "imgi": "1960년 11월 17일~1961년 3월 11일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제2공화국",
+      "daesu": "7대",
+      "ireum": "이기현",
+      "hanja": "李基顯",
+      "imgi": "1961년 9월 5일~1963년 12월 26일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제3공화국",
+      "daesu": "8대",
+      "ireum": "서동운",
+      "hanja": "徐同運",
+      "imgi": "1964년 3월 2일~1965년 3월 29일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제3공화국",
+      "daesu": "9대",
+      "ireum": "전준항",
+      "hanja": "田畯恒",
+      "imgi": "1965년 3월 29일~1969년 2월 22일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제3공화국",
+      "daesu": "10대",
+      "ireum": "이준구",
+      "hanja": "李準九",
+      "imgi": "1969년 2월 22일~1970년 8월 13일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제3공화국",
+      "daesu": "11대",
+      "ireum": "이상섭",
+      "hanja": "李相燮",
+      "imgi": "1970년 8월 13일~1972년 2월 22일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제3공화국",
+      "daesu": "12대",
+      "ireum": "문기상",
+      "hanja": "文基祥",
+      "imgi": "1972년 2월 22일~1976년 2월 24일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제4공화국",
+      "daesu": "12대",
+      "ireum": "문기상",
+      "hanja": "文基祥",
+      "imgi": "1972년 2월 22일~1976년 2월 24일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "상공부 특허국장",
+      "jeongbu": "제4공화국",
+      "daesu": "13대",
+      "ireum": "안영철",
+      "hanja": "安永哲",
+      "imgi": "1976년 2월 24일~1977년 3월 11일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "제4공화국",
+      "daesu": "초대",
+      "ireum": "배상욱",
+      "hanja": "裵相稶",
+      "imgi": "1977년 3월 12일~1977년 12월 23일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "제4공화국",
+      "daesu": "2대",
+      "ireum": "안영철",
+      "hanja": "安永哲",
+      "imgi": "1977년 12월 24일~1978년 12월 30일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "제4공화국",
+      "daesu": "3대",
+      "ireum": "이상섭",
+      "hanja": "李相燮",
+      "imgi": "1978년 12월 31일~1982년 12월 17일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "제5공화국",
+      "daesu": "3대",
+      "ireum": "이상섭",
+      "hanja": "李相燮",
+      "imgi": "1978년 12월 31일~1982년 12월 17일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "제5공화국",
+      "daesu": "4대",
+      "ireum": "홍성좌",
+      "hanja": "洪性佐",
+      "imgi": "1982년 12월 18일~1985년 10월 19일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "제5공화국",
+      "daesu": "5대",
+      "ireum": "차수명",
+      "hanja": "車秀明",
+      "imgi": "1985년 10월 19일~1988년 3월 4일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "6대",
+      "ireum": "박홍식",
+      "hanja": "朴弘植",
+      "imgi": "1988년 3월 5일~1990년 3월 19일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "7대",
+      "ireum": "김철수",
+      "hanja": "金喆壽",
+      "imgi": "1990년 3월 20일~1991년 9월 18일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "8대",
+      "ireum": "김태준",
+      "hanja": "金泰俊",
+      "imgi": "1991년 9월 19일~1993년 3월 3일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "9대",
+      "ireum": "안광구",
+      "hanja": "安光叴",
+      "imgi": "1993년 3월 4일~1995년 12월 25일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "10대",
+      "ireum": "정해주",
+      "hanja": "鄭海週",
+      "imgi": "1995년 12월 26일~1996년 12월 23일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "11대",
+      "ireum": "한덕수",
+      "hanja": "韓悳洙",
+      "imgi": "1996년 12월 24일~1997년 3월 6일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "12대",
+      "ireum": "최홍건",
+      "hanja": "崔弘健",
+      "imgi": "1997년 3월 7일~1998년 3월 8일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "13대",
+      "ireum": "김수동",
+      "hanja": "金守東",
+      "imgi": "1998년 3월 9일~1999년 5월 26일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "14대",
+      "ireum": "오강현",
+      "hanja": "吳剛鉉",
+      "imgi": "1999년 5월 26일~2000년 8월 11일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "15대",
+      "ireum": "임내규",
+      "hanja": "林來圭",
+      "imgi": "2000년 8월 12일~2002년 2월 4일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "16대",
+      "ireum": "김광림",
+      "hanja": "金光琳",
+      "imgi": "2002년 2월 5일~2003년 3월 3일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "17대",
+      "ireum": "하동만",
+      "hanja": "河東萬",
+      "imgi": "2003년 3월 4일~2004년 8월 31일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "18대",
+      "ireum": "김종갑",
+      "hanja": "金鍾甲",
+      "imgi": "2004년 9월 1일~2006년 1월 31일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "19대",
+      "ireum": "전상우",
+      "hanja": "全湘雨",
+      "imgi": "2006년 2월 1일~2008년 4월 30일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "20대",
+      "ireum": "고정식",
+      "hanja": "高廷植",
+      "imgi": "2008년 5월 1일~2010년 4월 30일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "21대",
+      "ireum": "이수원",
+      "hanja": "李秀元",
+      "imgi": "2010년 5월 1일~2012년 4월 26일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "22대",
+      "ireum": "김호원",
+      "hanja": "金昊源",
+      "imgi": "2012년 4월 26일~2013년 3월 17일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "23대",
+      "ireum": "김영민",
+      "hanja": "金榮敏",
+      "imgi": "2013년 3월 18일~2015년 3월 17일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "-",
+      "ireum": "이준석",
+      "hanja": "李焌碩",
+      "imgi": "2015년 3월 18일~2015년 5월 11일",
+      "bigo": "직무대행"
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "24대",
+      "ireum": "최동규",
+      "hanja": "崔東圭",
+      "imgi": "2015년 5월 12일~2017년 5월 12일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "-",
+      "ireum": "이영대",
+      "hanja": "李永大",
+      "imgi": "2017년 5월 13일~2017년 7월 26일",
+      "bigo": "직무대행"
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "25대",
+      "ireum": "성윤모",
+      "hanja": "成允模",
+      "imgi": "2017년 7월 27일~2018년 9월 21일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "-",
+      "ireum": "김태만",
+      "hanja": "金泰晩",
+      "imgi": "2018년 9월 22일~2018년 9월 27일",
+      "bigo": "직무대행"
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "26대",
+      "ireum": "박원주",
+      "hanja": "朴原住",
+      "imgi": "2018년 9월 28일~2020년 8월 14일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "27대",
+      "ireum": "김용래",
+      "hanja": "金龍來",
+      "imgi": "2020년 8월 18일~2022년 5월 30일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "28대",
+      "ireum": "이인실",
+      "hanja": "李仁實",
+      "imgi": "2022년 5월 30일~2024년 1월 10일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "-",
+      "ireum": "김시형",
+      "hanja": "金是亨",
+      "imgi": "2024년 1월 10일~2024년 6월 23일",
+      "bigo": "직무대행"
+    },
+    {
+      "jikchaek": "특허청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "29대",
+      "ireum": "김완기",
+      "hanja": "金完基",
+      "imgi": "2024년 6월 24일~2025년 9월 30일",
+      "bigo": ""
+    },
+    {
+      "jikchaek": "지식재산처 차장",
+      "jeongbu": "이재명 정부",
+      "daesu": "-",
+      "ireum": "목성호",
+      "hanja": "睦盛皓",
+      "imgi": "2025년 10월 1일~2025년 11월 3일",
+      "bigo": "직무대행"
+    },
+    {
+      "jikchaek": "지식재산처 차장",
+      "jeongbu": "이재명 정부",
+      "daesu": "초대",
+      "ireum": "김용선",
+      "hanja": "金容善",
+      "imgi": "2025년 11월 3일~",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 특허청장 (상공부 특허국장·특허청장·지식재산처) - Free Download",
+    "description": "상공부 특허국장(1949년~)과 특허청장(1977년~), 2025년 출범한 지식재산처의 역대 기관장 목록. 직책, 정부, 대수, 이름(한자), 임기, 비고를 수록. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 특허청장 (상공부 특허국장·특허청장·지식재산처) | ListBase",
+    "seo_description": "Download 대한민국 역대 특허청장 (상공부 특허국장·특허청장·지식재산처) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_지식재산처장"
+    ]
+  }
+}
