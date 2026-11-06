@@ -1,0 +1,467 @@
+{
+  "id": "ko-joseon-wangneung",
+  "name": "조선왕릉 목록",
+  "title": "조선왕릉 목록",
+  "description": "조선 왕조의 왕릉·왕비릉 목록(대수, 시호, 능호, 한자명, 매장인, 연도, 위치, 사적번호). 유네스코 세계유산 조선왕릉 관련 참고 자료.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/조선왕릉",
+  "source_url": "https://ko.wikipedia.org/wiki/조선왕릉",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "siho",
+      "label": "Siho",
+      "type": "string"
+    },
+    {
+      "key": "wangneung",
+      "label": "Wangneung",
+      "type": "string"
+    },
+    {
+      "key": "hanjamyeong",
+      "label": "Hanjamyeong",
+      "type": "string"
+    },
+    {
+      "key": "maejangin",
+      "label": "Maejangin",
+      "type": "string"
+    },
+    {
+      "key": "yeondo",
+      "label": "Yeondo",
+      "type": "string"
+    },
+    {
+      "key": "wichi",
+      "label": "Wichi",
+      "type": "string"
+    },
+    {
+      "key": "sajeokbeonho",
+      "label": "Sajeokbeonho",
+      "type": "string"
+    },
+    {
+      "key": "gubun",
+      "label": "Gubun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "daesu": "추존왕",
+      "siho": "목조",
+      "wangneung": "덕릉 안릉",
+      "hanjamyeong": "德陵 安陵",
+      "maejangin": "목조 효공왕후",
+      "yeondo": "1274년 미상",
+      "wichi": "함남 신흥 함남 신흥",
+      "sajeokbeonho": "북한 소재 북한 소재",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "추존왕",
+      "siho": "익조",
+      "wangneung": "지릉 숙릉",
+      "hanjamyeong": "智陵 淑陵",
+      "maejangin": "익조 정숙왕후",
+      "yeondo": "미상 미상",
+      "wichi": "함남 안변 함남 문천",
+      "sajeokbeonho": "북한 소재 북한 소재",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "추존왕",
+      "siho": "도조",
+      "wangneung": "의릉 순릉",
+      "hanjamyeong": "義陵 純陵",
+      "maejangin": "도조 경순왕후",
+      "yeondo": "1342년 미상",
+      "wichi": "함남 함흥 함남 함흥",
+      "sajeokbeonho": "북한 소재 북한 소재",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "추존왕",
+      "siho": "환조",
+      "wangneung": "정릉 화릉",
+      "hanjamyeong": "定陵 和陵",
+      "maejangin": "환조 의혜왕후",
+      "yeondo": "1361년 미상",
+      "wichi": "함남 함흥 함남 함흥",
+      "sajeokbeonho": "북한 소재 북한 소재",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "제1대",
+      "siho": "태조",
+      "wangneung": "건원릉 제릉 정릉",
+      "hanjamyeong": "健元陵 齊陵 貞陵",
+      "maejangin": "태조 신의왕후 신덕왕후",
+      "yeondo": "1408년 1391년 1396년",
+      "wichi": "경기 구리 개성 개풍 서울 성북구",
+      "sajeokbeonho": "193호 북한 소재 208호",
+      "gubun": "동구릉 열외 -"
+    },
+    {
+      "daesu": "제2대",
+      "siho": "정종",
+      "wangneung": "후릉",
+      "hanjamyeong": "厚陵",
+      "maejangin": "정종, 정안왕후",
+      "yeondo": "1419년",
+      "wichi": "개성 개풍",
+      "sajeokbeonho": "북한 소재",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "제3대",
+      "siho": "태종",
+      "wangneung": "헌릉",
+      "hanjamyeong": "獻陵",
+      "maejangin": "태종, 원경왕후",
+      "yeondo": "1422년",
+      "wichi": "서울 서초구",
+      "sajeokbeonho": "194호",
+      "gubun": "헌인릉"
+    },
+    {
+      "daesu": "제4대",
+      "siho": "세종",
+      "wangneung": "영릉",
+      "hanjamyeong": "英陵",
+      "maejangin": "세종, 소헌왕후",
+      "yeondo": "1450년",
+      "wichi": "경기 여주",
+      "sajeokbeonho": "195호",
+      "gubun": "영녕릉"
+    },
+    {
+      "daesu": "제5대",
+      "siho": "문종",
+      "wangneung": "현릉",
+      "hanjamyeong": "顯陵",
+      "maejangin": "문종, 현덕왕후",
+      "yeondo": "1452년",
+      "wichi": "경기 구리",
+      "sajeokbeonho": "193호",
+      "gubun": "동구릉"
+    },
+    {
+      "daesu": "제6대",
+      "siho": "단종",
+      "wangneung": "장릉 사릉",
+      "hanjamyeong": "莊陵 思陵",
+      "maejangin": "단종 정순왕후",
+      "yeondo": "1698년",
+      "wichi": "강원 영월 경기 남양주",
+      "sajeokbeonho": "196호 209호",
+      "gubun": "-"
+    },
+    {
+      "daesu": "제7대",
+      "siho": "세조",
+      "wangneung": "광릉",
+      "hanjamyeong": "光陵",
+      "maejangin": "세조, 정희왕후",
+      "yeondo": "1468년 1483년",
+      "wichi": "경기 남양주",
+      "sajeokbeonho": "197호",
+      "gubun": "-"
+    },
+    {
+      "daesu": "추존왕",
+      "siho": "덕종",
+      "wangneung": "경릉",
+      "hanjamyeong": "敬陵",
+      "maejangin": "덕종, 소혜왕후",
+      "yeondo": "1457년",
+      "wichi": "경기 고양",
+      "sajeokbeonho": "198호",
+      "gubun": "서오릉"
+    },
+    {
+      "daesu": "제8대",
+      "siho": "예종",
+      "wangneung": "창릉 공릉",
+      "hanjamyeong": "昌陵 恭陵",
+      "maejangin": "예종, 안순왕후 장순왕후",
+      "yeondo": "1469년 1462년",
+      "wichi": "경기 고양 경기 파주",
+      "sajeokbeonho": "198호 205호",
+      "gubun": "서오릉 파주삼릉"
+    },
+    {
+      "daesu": "제9대",
+      "siho": "성종",
+      "wangneung": "선릉 순릉",
+      "hanjamyeong": "宣陵 順陵",
+      "maejangin": "성종, 정현왕후 공혜왕후",
+      "yeondo": "1494년 1474년",
+      "wichi": "서울 강남구 경기 파주",
+      "sajeokbeonho": "199호",
+      "gubun": "선정릉 파주삼릉"
+    },
+    {
+      "daesu": "제10대",
+      "siho": "연산군",
+      "wangneung": "연산군묘",
+      "hanjamyeong": "燕山君墓",
+      "maejangin": "연산군, 거창군부인",
+      "yeondo": "1513년",
+      "wichi": "서울 도봉구",
+      "sajeokbeonho": "362호",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "제11대",
+      "siho": "중종",
+      "wangneung": "정릉 온릉 희릉 태릉",
+      "hanjamyeong": "靖陵 溫陵 禧陵 泰陵",
+      "maejangin": "중종 단경왕후 장경왕후 문정왕후",
+      "yeondo": "1544년 1557년 1537년 1565년",
+      "wichi": "서울 강남구 경기 양주 경기 고양 서울 노원구",
+      "sajeokbeonho": "199호 210호 200호 201호",
+      "gubun": "선정릉 - 서삼릉 태강릉"
+    },
+    {
+      "daesu": "제12대",
+      "siho": "인종",
+      "wangneung": "효릉",
+      "hanjamyeong": "孝陵",
+      "maejangin": "인종, 인성왕후",
+      "yeondo": "1545년",
+      "wichi": "경기 고양",
+      "sajeokbeonho": "200호",
+      "gubun": "서삼릉"
+    },
+    {
+      "daesu": "제13대",
+      "siho": "명종",
+      "wangneung": "강릉",
+      "hanjamyeong": "康陵",
+      "maejangin": "명종, 인순왕후",
+      "yeondo": "1567년",
+      "wichi": "서울 노원구",
+      "sajeokbeonho": "201호",
+      "gubun": "태강릉"
+    },
+    {
+      "daesu": "제14대",
+      "siho": "선조",
+      "wangneung": "목릉",
+      "hanjamyeong": "穆陵",
+      "maejangin": "선조, 의인왕후, 인목왕후",
+      "yeondo": "1608년",
+      "wichi": "경기 구리",
+      "sajeokbeonho": "193호",
+      "gubun": "동구릉"
+    },
+    {
+      "daesu": "제15대",
+      "siho": "광해군",
+      "wangneung": "광해군묘",
+      "hanjamyeong": "光海君墓",
+      "maejangin": "광해군, 문성군부인",
+      "yeondo": "1643년",
+      "wichi": "경기 남양주",
+      "sajeokbeonho": "363호",
+      "gubun": "열외"
+    },
+    {
+      "daesu": "추존왕",
+      "siho": "원종",
+      "wangneung": "장릉",
+      "hanjamyeong": "章陵",
+      "maejangin": "원종, 인헌왕후",
+      "yeondo": "1627년",
+      "wichi": "경기 김포",
+      "sajeokbeonho": "202호",
+      "gubun": "-"
+    },
+    {
+      "daesu": "제16대",
+      "siho": "인조",
+      "wangneung": "장릉 휘릉",
+      "hanjamyeong": "長陵 徽陵",
+      "maejangin": "인조, 인렬왕후 장렬왕후",
+      "yeondo": "1731년 1688년",
+      "wichi": "경기 파주 경기 구리",
+      "sajeokbeonho": "203호",
+      "gubun": "- 동구릉"
+    },
+    {
+      "daesu": "제17대",
+      "siho": "효종",
+      "wangneung": "영릉",
+      "hanjamyeong": "寧陵",
+      "maejangin": "효종, 인선왕후",
+      "yeondo": "1673년",
+      "wichi": "경기 여주",
+      "sajeokbeonho": "195호",
+      "gubun": "영녕릉"
+    },
+    {
+      "daesu": "제18대",
+      "siho": "현종",
+      "wangneung": "숭릉",
+      "hanjamyeong": "崇陵",
+      "maejangin": "현종, 명성왕후",
+      "yeondo": "1674년",
+      "wichi": "경기 구리",
+      "sajeokbeonho": "193호",
+      "gubun": "동구릉"
+    },
+    {
+      "daesu": "제19대",
+      "siho": "숙종",
+      "wangneung": "명릉 익릉",
+      "hanjamyeong": "明陵 翼陵",
+      "maejangin": "숙종, 인현왕후, 인원왕후 인경왕후",
+      "yeondo": "1701년 1680년",
+      "wichi": "경기 고양",
+      "sajeokbeonho": "198호",
+      "gubun": "서오릉 서오릉"
+    },
+    {
+      "daesu": "제20대",
+      "siho": "경종",
+      "wangneung": "의릉 혜릉",
+      "hanjamyeong": "懿陵 惠陵",
+      "maejangin": "경종, 선의왕후 단의왕후",
+      "yeondo": "1724년 1718년",
+      "wichi": "서울 성북구 경기 구리",
+      "sajeokbeonho": "204호 193호",
+      "gubun": "- 동구릉"
+    },
+    {
+      "daesu": "제21대",
+      "siho": "영조",
+      "wangneung": "원릉 홍릉",
+      "hanjamyeong": "元陵 弘陵",
+      "maejangin": "영조, 정순왕후 정성왕후",
+      "yeondo": "1776년 1757년",
+      "wichi": "경기 구리 경기 고양",
+      "sajeokbeonho": "193호 198호",
+      "gubun": "동구릉 서오릉"
+    },
+    {
+      "daesu": "추존황제",
+      "siho": "진종",
+      "wangneung": "영릉",
+      "hanjamyeong": "永陵",
+      "maejangin": "진종, 효순왕후",
+      "yeondo": "1728년",
+      "wichi": "경기 파주",
+      "sajeokbeonho": "205호",
+      "gubun": "파주삼릉"
+    },
+    {
+      "daesu": "추존황제",
+      "siho": "장조",
+      "wangneung": "융릉",
+      "hanjamyeong": "隆陵",
+      "maejangin": "장조, 헌경왕후",
+      "yeondo": "1762년",
+      "wichi": "경기 화성",
+      "sajeokbeonho": "206호",
+      "gubun": "융건릉"
+    },
+    {
+      "daesu": "제22대",
+      "siho": "정조",
+      "wangneung": "건릉",
+      "hanjamyeong": "健陵",
+      "maejangin": "정조, 효의왕후",
+      "yeondo": "1800년",
+      "wichi": "경기 화성",
+      "sajeokbeonho": "206호",
+      "gubun": "융건릉"
+    },
+    {
+      "daesu": "제23대",
+      "siho": "순조",
+      "wangneung": "인릉",
+      "hanjamyeong": "仁陵",
+      "maejangin": "순조, 순원왕후",
+      "yeondo": "1834년",
+      "wichi": "서울 서초구",
+      "sajeokbeonho": "194호",
+      "gubun": "헌인릉"
+    },
+    {
+      "daesu": "추존황제",
+      "siho": "문조",
+      "wangneung": "수릉",
+      "hanjamyeong": "綏陵",
+      "maejangin": "문조, 신정왕후",
+      "yeondo": "1830년",
+      "wichi": "경기 구리",
+      "sajeokbeonho": "193호",
+      "gubun": "동구릉"
+    },
+    {
+      "daesu": "제24대",
+      "siho": "헌종",
+      "wangneung": "경릉",
+      "hanjamyeong": "景陵",
+      "maejangin": "헌종, 효현왕후, 효정왕후",
+      "yeondo": "1849년",
+      "wichi": "경기 구리",
+      "sajeokbeonho": "193호",
+      "gubun": "동구릉"
+    },
+    {
+      "daesu": "제25대",
+      "siho": "철종",
+      "wangneung": "예릉",
+      "hanjamyeong": "睿陵",
+      "maejangin": "철종, 철인왕후",
+      "yeondo": "1863년",
+      "wichi": "경기 고양",
+      "sajeokbeonho": "200호",
+      "gubun": "서삼릉"
+    },
+    {
+      "daesu": "제26대 (대한제국 제1대)",
+      "siho": "고종",
+      "wangneung": "홍릉",
+      "hanjamyeong": "洪陵",
+      "maejangin": "고종, 명성황후",
+      "yeondo": "1919년",
+      "wichi": "경기 남양주",
+      "sajeokbeonho": "207호",
+      "gubun": "홍유릉"
+    },
+    {
+      "daesu": "대한제국 제2대",
+      "siho": "순종",
+      "wangneung": "유릉",
+      "hanjamyeong": "裕陵",
+      "maejangin": "순종, 순명효황후, 순정효황후",
+      "yeondo": "1926년",
+      "wichi": "경기 남양주",
+      "sajeokbeonho": "207호",
+      "gubun": "홍유릉"
+    }
+  ],
+  "meta": {
+    "title": "조선왕릉 목록 - Free Download",
+    "description": "조선 왕조의 왕릉·왕비릉 목록(대수, 시호, 능호, 한자명, 매장인, 연도, 위치, 사적번호). 유네스코 세계유산 조선왕릉 관련 참고 자료. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "조선왕릉 목록 | ListBase",
+    "seo_description": "Download 조선왕릉 목록 — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/조선왕릉"
+    ]
+  }
+}

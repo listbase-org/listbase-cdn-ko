@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-06T02:24:43.551Z",
-  "total_datasets": 561,
-  "total_records": 457099,
+  "generated": "2026-11-06T02:24:51.375Z",
+  "total_datasets": 562,
+  "total_records": 457135,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "language",
@@ -7826,6 +7826,36 @@
         "xlsx": {
           "name": "ko-joseon-wangbi_KO.xlsx",
           "size": 14909
+        }
+      }
+    },
+    {
+      "id": "ko-joseon-wangneung",
+      "name": "조선왕릉 목록",
+      "category": "history",
+      "record_count": 36,
+      "columns": [
+        "daesu",
+        "siho",
+        "wangneung",
+        "hanjamyeong",
+        "maejangin",
+        "yeondo",
+        "wichi",
+        "sajeokbeonho",
+        "gubun"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/조선왕릉",
+      "updated": "2026-11",
+      "size": 13325,
+      "files": {
+        "csv": {
+          "name": "ko-joseon-wangneung_KO.csv",
+          "size": 5046
+        },
+        "xlsx": {
+          "name": "ko-joseon-wangneung_KO.xlsx",
+          "size": 9983
         }
       }
     },
