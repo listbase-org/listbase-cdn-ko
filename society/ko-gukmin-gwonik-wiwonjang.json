@@ -1,0 +1,240 @@
+{
+  "id": "ko-gukmin-gwonik-wiwonjang",
+  "name": "대한민국 역대 국민권익위원회 위원장",
+  "title": "대한민국 역대 국민권익위원회 위원장",
+  "description": "국민고충처리위원회·국가청렴위원회를 거쳐 국민권익위원회에 이르는 대한민국 권익·반부패 행정 역대 위원장의 정부, 대수, 이름, 임기 목록.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_국민권익위원회_위원장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_국민권익위원회_위원장",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "imgi",
+      "label": "Imgi",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jeongbu": "김영삼 정부",
+      "daesu": "초대",
+      "ireum": "김광일",
+      "hanja": "金光一",
+      "imgi": "1994년 4월 8일~1995년 9월 20일",
+      "bigo": "차관급"
+    },
+    {
+      "jeongbu": "김영삼 정부",
+      "daesu": "2대",
+      "ireum": "최종백",
+      "hanja": "崔鍾伯",
+      "imgi": "1995년 9월 26일~1997년 4월 7일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "김영삼 정부",
+      "daesu": "3대",
+      "ireum": "강원일",
+      "hanja": "姜原一",
+      "imgi": "1997년 4월 8일~1998년 3월 1일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "김대중 정부",
+      "daesu": "4대",
+      "ireum": "주광일",
+      "hanja": "朱光逸",
+      "imgi": "1998년 3월 19일~2001년 3월 17일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "김대중 정부",
+      "daesu": "5대",
+      "ireum": "이원형",
+      "hanja": "李沅衡",
+      "imgi": "2001년 3월 27일~2004년 3월 26일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "5대",
+      "ireum": "이원형",
+      "hanja": "李沅衡",
+      "imgi": "2001년 3월 27일~2004년 3월 26일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "6대",
+      "ireum": "조영황",
+      "hanja": "趙永晃",
+      "imgi": "2004년 3월 27일~2005년 3월 31일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "7대",
+      "ireum": "송철호",
+      "hanja": "宋哲鎬",
+      "imgi": "2005년 4월 8일~2008년 2월 29일",
+      "bigo": "장관급으로 격상"
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "초대",
+      "ireum": "정성진",
+      "hanja": "鄭城鎭",
+      "imgi": "2004년 8월 30일~2007년 8월 8일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "2대",
+      "ireum": "이종백",
+      "hanja": "李鐘伯",
+      "imgi": "2007년 8월 9일~2008년 2월 29일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "초대",
+      "ireum": "양건",
+      "hanja": "梁建",
+      "imgi": "2008년 3월 17일~2009년 8월 27일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "2대",
+      "ireum": "이재오",
+      "hanja": "李在五",
+      "imgi": "2009년 9월 30일~2010년 6월 30일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "3대",
+      "ireum": "김영란",
+      "hanja": "金英蘭",
+      "imgi": "2011년 1월 1일~2012년 11월 27일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "-",
+      "ireum": "박재영",
+      "hanja": "朴在泳",
+      "imgi": "2012년 11월 28일~2012년 12월 10일",
+      "bigo": "직무 대행"
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "4대",
+      "ireum": "이성보",
+      "hanja": "李晟補",
+      "imgi": "2012년 12월 11일~2015년 12월 10일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "박근혜 정부",
+      "daesu": "4대",
+      "ireum": "이성보",
+      "hanja": "李晟補",
+      "imgi": "2012년 12월 11일~2015년 12월 10일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "박근혜 정부",
+      "daesu": "5대",
+      "ireum": "성영훈",
+      "hanja": "成永薰",
+      "imgi": "2015년 12월 11일~2017년 6월 28일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "문재인 정부",
+      "daesu": "6대",
+      "ireum": "박은정",
+      "hanja": "朴恩正",
+      "imgi": "2017년 6월 29일~2020년 6월 28일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "문재인 정부",
+      "daesu": "7대",
+      "ireum": "전현희",
+      "hanja": "全賢姬",
+      "imgi": "2020년 6월 29일~ 2023년 6월 27일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "-",
+      "ireum": "정승윤",
+      "hanja": "鄭勝允",
+      "imgi": "2023년 6월 27일~2023년 7월 2일",
+      "bigo": "직무 대행"
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "8대",
+      "ireum": "김홍일",
+      "hanja": "金洪一",
+      "imgi": "2023년 7월 3일~2023년 12월 22일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "-",
+      "ireum": "정승윤",
+      "hanja": "鄭勝允",
+      "imgi": "2023년 12월 22일~2024년 1월 10일",
+      "bigo": "직무 대행"
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "9대",
+      "ireum": "유철환",
+      "hanja": "柳哲桓",
+      "imgi": "2024년 1월 10일~2025년 12월 30일",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 국민권익위원회 위원장 - Free Download",
+    "description": "국민고충처리위원회·국가청렴위원회를 거쳐 국민권익위원회에 이르는 대한민국 권익·반부패 행정 역대 위원장의 정부, 대수, 이름, 임기 목록. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 국민권익위원회 위원장 | ListBase",
+    "seo_description": "Download 대한민국 역대 국민권익위원회 위원장 — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_국민권익위원회_위원장"
+    ]
+  }
+}

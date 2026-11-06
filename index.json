@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-06T02:24:51.375Z",
-  "total_datasets": 562,
-  "total_records": 457135,
+  "generated": "2026-11-06T02:25:00.569Z",
+  "total_datasets": 563,
+  "total_records": 457158,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "sports",
@@ -12223,6 +12223,33 @@
         "xlsx": {
           "name": "ko-gukga-ingwon-wiwonjang_KO.xlsx",
           "size": 7457
+        }
+      }
+    },
+    {
+      "id": "ko-gukmin-gwonik-wiwonjang",
+      "name": "대한민국 역대 국민권익위원회 위원장",
+      "category": "society",
+      "record_count": 23,
+      "columns": [
+        "jeongbu",
+        "daesu",
+        "ireum",
+        "hanja",
+        "imgi",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_국민권익위원회_위원장",
+      "updated": "2026-11",
+      "size": 6689,
+      "files": {
+        "csv": {
+          "name": "ko-gukmin-gwonik-wiwonjang_KO.csv",
+          "size": 2252
+        },
+        "xlsx": {
+          "name": "ko-gukmin-gwonik-wiwonjang_KO.xlsx",
+          "size": 8089
         }
       }
     },
