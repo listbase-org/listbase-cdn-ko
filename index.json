@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-05T02:26:21.697Z",
-  "total_datasets": 558,
-  "total_records": 457037,
+  "generated": "2026-11-06T02:24:27.752Z",
+  "total_datasets": 559,
+  "total_records": 457062,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "education",
@@ -819,6 +819,33 @@
         "xlsx": {
           "name": "ko-eongmanjangja_KO.xlsx",
           "size": 8603
+        }
+      }
+    },
+    {
+      "id": "ko-gongjeonggeorae-wiwonjang",
+      "name": "대한민국 역대 공정거래위원회 위원장",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "jeongbu",
+        "daesu",
+        "ireum",
+        "hanja",
+        "imgi",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_공정거래위원회_위원장",
+      "updated": "2026-11",
+      "size": 6871,
+      "files": {
+        "csv": {
+          "name": "ko-gongjeonggeorae-wiwonjang_KO.csv",
+          "size": 2362
+        },
+        "xlsx": {
+          "name": "ko-gongjeonggeorae-wiwonjang_KO.xlsx",
+          "size": 8315
         }
       }
     },
