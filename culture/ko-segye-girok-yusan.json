@@ -1,0 +1,166 @@
+{
+  "id": "ko-segye-girok-yusan",
+  "name": "대한민국의 유네스코 세계기록유산",
+  "title": "대한민국의 유네스코 세계기록유산",
+  "description": "유네스코 세계기록유산(Memory of the World)에 등재된 대한민국 기록유산의 명칭, 등재 연도, 소장 기관 목록.",
+  "category": "culture",
+  "source": "https://ko.wikipedia.org/wiki/유네스코_세계기록유산",
+  "source_url": "https://ko.wikipedia.org/wiki/유네스코_세계기록유산",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "myeongching",
+      "label": "Myeongching",
+      "type": "string"
+    },
+    {
+      "key": "deungjae_yeondo",
+      "label": "Deungjae Yeondo",
+      "type": "number"
+    },
+    {
+      "key": "sojang",
+      "label": "Sojang",
+      "type": "string"
+    },
+    {
+      "key": "chulcheo",
+      "label": "Chulcheo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "myeongching": "훈민정음 (해례본)",
+      "deungjae_yeondo": "1997",
+      "sojang": "대한민국 간송미술관",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "조선왕조실록 [朝鮮王朝實錄]",
+      "deungjae_yeondo": "1997",
+      "sojang": "정족산본, 오대산본·상편: 서울대학교 규장각,태백산본: 국가기록원",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "승정원일기 (承政院日記)",
+      "deungjae_yeondo": "2001",
+      "sojang": "서울대학교 규장각",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "『불조직지심체요절』 하권-佛祖直指心體要節 (下卷)",
+      "deungjae_yeondo": "2001",
+      "sojang": "프랑스 국립도서관(Bibliothèque nationale de France)",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "조선왕조 『의궤(儀軌)』",
+      "deungjae_yeondo": "2007",
+      "sojang": "규장각(奎章閣), 장서각",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "고려대장경판 및 제경판(高麗大藏經板-諸經板)",
+      "deungjae_yeondo": "2007",
+      "sojang": "해인사(海印寺)",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "동의보감 (東醫寶鑑)",
+      "deungjae_yeondo": "2009",
+      "sojang": "국립중앙도서관장 등 4곳",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "일성록 (日省錄)",
+      "deungjae_yeondo": "2011",
+      "sojang": "서울대학교 규장각",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "5·18 광주 민주화운동 기록물",
+      "deungjae_yeondo": "2011",
+      "sojang": "국가기록원, 광주광역시, 육군본부, 5·18기념재단, 국회도서관, 미국 국무성, 국방부국가기관이 생산한 5·18민주화운동 자료：국가기록원, 광주광역시 소장 군사법기관재판자료, 김대중내란음모사건자료：육군본부 소장 시민들이 생산한 성명서, 선언문, 취재수첩, 일기：광주광역시 소장 흑백필름, 사진：광주광역시, 5·18기념재단 소장 시민들의 기록과 증언：5·18기념재단 소장 피해자들의 병원치료기록：광주광역시 소장 국회의 5·18광주민주화운동 진상규명회의록：국회도서관 소장 국가의 피해자 보상자료：광주광역시 소장 미국의 5·18 관련 비밀해제 문서：미국 국무성, 국방부 소장",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "난중일기 (亂中日記)』: 이순신 장군의 진중일기(陣中日記)",
+      "deungjae_yeondo": "2013",
+      "sojang": "현충사(顯忠祠)",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "새마을운동 기록물",
+      "deungjae_yeondo": "2013",
+      "sojang": "국가기록원(國家記錄院), 새마을운동중앙회",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "이산가족을 찾습니다",
+      "deungjae_yeondo": "2015",
+      "sojang": "KBS",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "한국의 유교책판 (儒敎冊版)",
+      "deungjae_yeondo": "2015",
+      "sojang": "한국국학진흥원(韓國國學振興院)",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "조선통신사에 관한 기록 – 17세기~19세기 한일 간 평화구축과 문화교류의 역사",
+      "deungjae_yeondo": "2017",
+      "sojang": "서울대학교 규장각한국학연구원, 국립중앙도서관, 국사편찬위원회 외 25곳",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "조선왕실 어보와 어책",
+      "deungjae_yeondo": "2017",
+      "sojang": "국립고궁박물관",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "국채보상운동 기록물",
+      "deungjae_yeondo": "2017",
+      "sojang": "한국금융사박물관, 국사편찬위원회, 국가기록원, 독립기념관, 국립고궁박물관, 국채보상운동기념사업회, 한국연구원, 서울대학교 중앙도서관, 고려대도서관, 연세대 학술정보원 등",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "4·19혁명 기록물",
+      "deungjae_yeondo": "2023",
+      "sojang": "",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "동학농민혁명 기록물",
+      "deungjae_yeondo": "2023",
+      "sojang": "",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "제주 4·3 기록물",
+      "deungjae_yeondo": "2025",
+      "sojang": "제주특별자치도, 제주4·3평화재단, 국가기록원, 제주4·3연구소, 제주도 민속자연사박물관, 하귀리 마을개발위원회",
+      "chulcheo": ""
+    },
+    {
+      "myeongching": "산림녹화 기록물",
+      "deungjae_yeondo": "2025",
+      "sojang": "",
+      "chulcheo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 유네스코 세계기록유산 - Free Download",
+    "description": "유네스코 세계기록유산(Memory of the World)에 등재된 대한민국 기록유산의 명칭, 등재 연도, 소장 기관 목록. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 유네스코 세계기록유산 | ListBase",
+    "seo_description": "Download 대한민국의 유네스코 세계기록유산 — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/유네스코_세계기록유산"
+    ]
+  }
+}

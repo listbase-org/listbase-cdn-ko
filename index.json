@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-06T02:25:00.569Z",
-  "total_datasets": 563,
-  "total_records": 457158,
+  "generated": "2026-11-06T02:25:07.282Z",
+  "total_datasets": 564,
+  "total_records": 457178,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "economy",
@@ -620,6 +620,31 @@
         "xlsx": {
           "name": "ko-hyanggyo_KO.xlsx",
           "size": 16545
+        }
+      }
+    },
+    {
+      "id": "ko-segye-girok-yusan",
+      "name": "대한민국의 유네스코 세계기록유산",
+      "category": "culture",
+      "record_count": 20,
+      "columns": [
+        "myeongching",
+        "deungjae_yeondo",
+        "sojang",
+        "chulcheo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/유네스코_세계기록유산",
+      "updated": "2026-11",
+      "size": 6453,
+      "files": {
+        "csv": {
+          "name": "ko-segye-girok-yusan_KO.csv",
+          "size": 2879
+        },
+        "xlsx": {
+          "name": "ko-segye-girok-yusan_KO.xlsx",
+          "size": 8520
         }
       }
     },
