@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-06T02:24:36.129Z",
-  "total_datasets": 560,
-  "total_records": 457083,
+  "generated": "2026-11-06T02:24:43.551Z",
+  "total_datasets": 561,
+  "total_records": 457099,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 37
+      "dataset_count": 38
     },
     {
       "id": "entertainment",
@@ -1717,6 +1717,31 @@
         "xlsx": {
           "name": "ko-gyeongsangnam-hakgyo_KO.xlsx",
           "size": 47747
+        }
+      }
+    },
+    {
+      "id": "ko-gyoyukgam",
+      "name": "대한민국의 시·도 교육감 목록",
+      "category": "education",
+      "record_count": 16,
+      "columns": [
+        "gyoyukgam",
+        "seonghyang",
+        "ireum",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/교육감",
+      "updated": "2026-11",
+      "size": 3680,
+      "files": {
+        "csv": {
+          "name": "ko-gyoyukgam_KO.csv",
+          "size": 910
+        },
+        "xlsx": {
+          "name": "ko-gyoyukgam_KO.xlsx",
+          "size": 7375
         }
       }
     },

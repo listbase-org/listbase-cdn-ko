@@ -1,0 +1,142 @@
+{
+  "id": "ko-gyoyukgam",
+  "name": "대한민국의 시·도 교육감 목록",
+  "title": "대한민국의 시·도 교육감 목록",
+  "description": "대한민국 17개 시·도교육청의 현직 교육감과 성향·비고 목록.",
+  "category": "education",
+  "source": "https://ko.wikipedia.org/wiki/교육감",
+  "source_url": "https://ko.wikipedia.org/wiki/교육감",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "gyoyukgam",
+      "label": "Gyoyukgam",
+      "type": "string"
+    },
+    {
+      "key": "seonghyang",
+      "label": "Seonghyang",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gyoyukgam": "서울특별시교육감",
+      "seonghyang": "진보",
+      "ireum": "정근식",
+      "bigo": "재선"
+    },
+    {
+      "gyoyukgam": "전남광주통합특별시교육감",
+      "seonghyang": "진보",
+      "ireum": "김대중",
+      "bigo": "재선"
+    },
+    {
+      "gyoyukgam": "부산광역시교육감",
+      "seonghyang": "진보",
+      "ireum": "김석준",
+      "bigo": "4선"
+    },
+    {
+      "gyoyukgam": "대구광역시교육감",
+      "seonghyang": "보수",
+      "ireum": "강은희",
+      "bigo": "3선"
+    },
+    {
+      "gyoyukgam": "인천광역시교육감",
+      "seonghyang": "진보",
+      "ireum": "도성훈",
+      "bigo": "3선"
+    },
+    {
+      "gyoyukgam": "대전광역시교육감",
+      "seonghyang": "중도",
+      "ireum": "오석진",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "울산광역시교육감",
+      "seonghyang": "진보",
+      "ireum": "조용식",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "세종특별자치시교육감",
+      "seonghyang": "중도",
+      "ireum": "강미애",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "경기도교육감",
+      "seonghyang": "진보",
+      "ireum": "안민석",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "강원특별자치도교육감",
+      "seonghyang": "진보",
+      "ireum": "강삼영",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "충청북도교육감",
+      "seonghyang": "보수",
+      "ireum": "윤건영",
+      "bigo": "재선"
+    },
+    {
+      "gyoyukgam": "충청남도교육감",
+      "seonghyang": "진보",
+      "ireum": "이병도",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "전북특별자치도교육감",
+      "seonghyang": "진보",
+      "ireum": "천호성",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "경상북도교육감",
+      "seonghyang": "보수",
+      "ireum": "임종식",
+      "bigo": "3선"
+    },
+    {
+      "gyoyukgam": "경상남도교육감",
+      "seonghyang": "보수",
+      "ireum": "권순기",
+      "bigo": ""
+    },
+    {
+      "gyoyukgam": "제주특별자치도교육감",
+      "seonghyang": "진보",
+      "ireum": "고의숙",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 시·도 교육감 목록 - Free Download",
+    "description": "대한민국 17개 시·도교육청의 현직 교육감과 성향·비고 목록. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 시·도 교육감 목록 | ListBase",
+    "seo_description": "Download 대한민국의 시·도 교육감 목록 — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/교육감"
+    ]
+  }
+}
