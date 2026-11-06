@@ -1,0 +1,224 @@
+{
+  "id": "ko-geumyung-wiwonjang",
+  "name": "대한민국 역대 금융위원회·금융감독위원회 위원장",
+  "title": "대한민국 역대 금융위원회·금융감독위원회 위원장",
+  "description": "1998년 금융감독위원회부터 2008년 이후 금융위원회까지 대한민국 금융감독 행정 역대 위원장의 정부, 대수, 이름, 임기 목록.",
+  "category": "finance",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_금융위원회_위원장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_금융위원회_위원장",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "imgi",
+      "label": "Imgi",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jeongbu": "김대중 정부",
+      "daesu": "초대",
+      "ireum": "이헌재",
+      "hanja": "李憲宰",
+      "imgi": "1998년 3월 1일~2000년 1월 12일",
+      "bigo": "초대 위원장부터 금융감독원장 겸임"
+    },
+    {
+      "jeongbu": "김대중 정부",
+      "daesu": "-",
+      "ireum": "이용근",
+      "hanja": "李容根",
+      "imgi": "2000년 1월 13일~2000년 1월 18일",
+      "bigo": "직무대리"
+    },
+    {
+      "jeongbu": "김대중 정부",
+      "daesu": "2대",
+      "ireum": "이용근",
+      "hanja": "李容根",
+      "imgi": "2000년 1월 19일~2000년 8월 8일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "김대중 정부",
+      "daesu": "3대",
+      "ireum": "이근영",
+      "hanja": "李瑾榮",
+      "imgi": "2000년 8월 9일~2003년 3월 16일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "4대",
+      "ireum": "이정재",
+      "hanja": "李晶載",
+      "imgi": "2003년 3월 17일~2004년 8월 3일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "5대",
+      "ireum": "윤증현",
+      "hanja": "尹增鉉",
+      "imgi": "2004년 8월 4일~2007년 8월 3일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "노무현 정부",
+      "daesu": "6대",
+      "ireum": "김용덕",
+      "hanja": "金容德",
+      "imgi": "2007년 8월 4일~2008년 3월 5일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "초대",
+      "ireum": "전광우",
+      "hanja": "全光宇",
+      "imgi": "2008년 3월 1일~2009년 1월 20일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "2대",
+      "ireum": "진동수",
+      "hanja": "陳棟洙",
+      "imgi": "2009년 1월 20일~2011년 1월 3일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이명박 정부",
+      "daesu": "3대",
+      "ireum": "김석동",
+      "hanja": "金錫東",
+      "imgi": "2011년 1월 3일~2013년 2월 25일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "박근혜 정부",
+      "daesu": "-",
+      "ireum": "추경호",
+      "hanja": "秋慶鎬",
+      "imgi": "2013년 2월 26일~2013년 3월 21일",
+      "bigo": "직무대리"
+    },
+    {
+      "jeongbu": "박근혜 정부",
+      "daesu": "4대",
+      "ireum": "신제윤",
+      "hanja": "申齊潤",
+      "imgi": "2013년 3월 22일~2015년 3월 13일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "박근혜 정부",
+      "daesu": "-",
+      "ireum": "정찬우",
+      "hanja": "鄭燦宇",
+      "imgi": "2015년 3월 13일~2015년 3월 17일",
+      "bigo": "직무대리"
+    },
+    {
+      "jeongbu": "박근혜 정부",
+      "daesu": "5대",
+      "ireum": "임종룡",
+      "hanja": "任鍾龍",
+      "imgi": "2015년 3월 17일~2017년 7월 18일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "문재인 정부",
+      "daesu": "6대",
+      "ireum": "최종구",
+      "hanja": "崔鍾球",
+      "imgi": "2017년 7월 19일~2019년 9월 8일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "문재인 정부",
+      "daesu": "7대",
+      "ireum": "은성수",
+      "hanja": "殷成洙",
+      "imgi": "2019년 9월 9일~2021년 8월 30일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "문재인 정부",
+      "daesu": "8대",
+      "ireum": "고승범",
+      "hanja": "高承範",
+      "imgi": "2021년 8월 31일~2022년 7월 5일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "-",
+      "ireum": "김소영",
+      "hanja": "金素英",
+      "imgi": "2022년 7월 5일~2022년 7월 11일",
+      "bigo": "직무대리"
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "9대",
+      "ireum": "김주현",
+      "hanja": "金周顯",
+      "imgi": "2022년 7월 11일~2024년 7월 31일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "윤석열 정부",
+      "daesu": "10대",
+      "ireum": "김병환",
+      "hanja": "金秉煥",
+      "imgi": "2024년 7월 31일~2025년 9월 13일",
+      "bigo": ""
+    },
+    {
+      "jeongbu": "이재명 정부",
+      "daesu": "11대",
+      "ireum": "이억원",
+      "hanja": "李億遠",
+      "imgi": "2025년 9월 13일~",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 금융위원회·금융감독위원회 위원장 - Free Download",
+    "description": "1998년 금융감독위원회부터 2008년 이후 금융위원회까지 대한민국 금융감독 행정 역대 위원장의 정부, 대수, 이름, 임기 목록. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 금융위원회·금융감독위원회 위원장 | ListBase",
+    "seo_description": "Download 대한민국 역대 금융위원회·금융감독위원회 위원장 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_금융위원회_위원장"
+    ]
+  }
+}
