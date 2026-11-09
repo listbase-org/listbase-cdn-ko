@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-09T02:33:31.573Z",
-  "total_datasets": 568,
-  "total_records": 457497,
+  "generated": "2026-11-09T02:33:38.390Z",
+  "total_datasets": 569,
+  "total_records": 457549,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "reference",
@@ -8970,6 +8970,35 @@
         "xlsx": {
           "name": "ko-haengjeong-anjeon-janggwan_KO.xlsx",
           "size": 12105
+        }
+      }
+    },
+    {
+      "id": "ko-hapdong-chammo-uijang",
+      "name": "대한민국 역대 합동참모의장",
+      "category": "politics",
+      "record_count": 52,
+      "columns": [
+        "jikchaek",
+        "jeongbu",
+        "daesu",
+        "ireum",
+        "hanja",
+        "imgwan",
+        "imgi",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_합동참모의장",
+      "updated": "2026-11",
+      "size": 17401,
+      "files": {
+        "csv": {
+          "name": "ko-hapdong-chammo-uijang_KO.csv",
+          "size": 7916
+        },
+        "xlsx": {
+          "name": "ko-hapdong-chammo-uijang_KO.xlsx",
+          "size": 10780
         }
       }
     },
