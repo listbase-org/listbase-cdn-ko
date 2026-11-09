@@ -1,0 +1,568 @@
+{
+  "id": "ko-gyoyuk-janggwan",
+  "name": "대한민국 역대 교육부 장관",
+  "title": "대한민국 역대 교육부 장관",
+  "description": "1948년 문교부부터 교육부·교육인적자원부·교육과학기술부까지 대한민국 교육 부처 역대 장관의 대수, 이름, 취임·퇴임일 및 정부 목록.",
+  "category": "education",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_교육부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_교육부_장관",
+  "updated": "2026-11",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "buseo_gigan",
+      "label": "Buseo Gigan",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "chwiimil",
+      "label": "Chwiimil",
+      "type": "string"
+    },
+    {
+      "key": "toeimil",
+      "label": "Toeimil",
+      "type": "string"
+    },
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제1대",
+      "ireum": "안호상",
+      "chwiimil": "1948년 8월 3일",
+      "toeimil": "1950년 5월 3일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제2대",
+      "ireum": "백낙준",
+      "chwiimil": "1950년 5월 4일",
+      "toeimil": "1952년 10월 29일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제3대",
+      "ireum": "김법린",
+      "chwiimil": "1952년 10월 30일",
+      "toeimil": "1954년 4월 20일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제4대",
+      "ireum": "이선근",
+      "chwiimil": "1954년 4월 21일",
+      "toeimil": "1956년 6월 7일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제5대",
+      "ireum": "최규남",
+      "chwiimil": "1956년 6월 8일",
+      "toeimil": "1957년 11월 26일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제6대",
+      "ireum": "최재유",
+      "chwiimil": "1957년 11월 27일",
+      "toeimil": "1960년 4월 27일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제7대",
+      "ireum": "이병도",
+      "chwiimil": "1960년 4월 28일",
+      "toeimil": "1960년 8월 22일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제8대",
+      "ireum": "오천석",
+      "chwiimil": "1960년 8월 23일",
+      "toeimil": "1961년 5월 2일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제9대",
+      "ireum": "윤택중",
+      "chwiimil": "1961년 5월 3일",
+      "toeimil": "1961년 5월 19일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제10대",
+      "ireum": "문희석",
+      "chwiimil": "1961년 5월 20일",
+      "toeimil": "1962년 1월 18일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제11대",
+      "ireum": "김상협",
+      "chwiimil": "1962년 1월 19일",
+      "toeimil": "1962년 10월 14일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제12대",
+      "ireum": "박일경",
+      "chwiimil": "1962년 10월 15일",
+      "toeimil": "1963년 3월 15일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제13대",
+      "ireum": "이종우",
+      "chwiimil": "1963년 3월 16일",
+      "toeimil": "1963년 12월 16일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제14대",
+      "ireum": "고광만",
+      "chwiimil": "1963년 12월 17일",
+      "toeimil": "1964년 5월 10일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제15대",
+      "ireum": "윤천주",
+      "chwiimil": "1964년 5월 11일",
+      "toeimil": "1965년 8월 26일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제16대",
+      "ireum": "권오병",
+      "chwiimil": "1965년 8월 27일",
+      "toeimil": "1966년 9월 25일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제17대",
+      "ireum": "문흥주",
+      "chwiimil": "1966년 9월 26일",
+      "toeimil": "1968년 5월 20일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제18대",
+      "ireum": "권오병",
+      "chwiimil": "1968년 5월 21일",
+      "toeimil": "1969년 4월 10일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제19대",
+      "ireum": "홍종철",
+      "chwiimil": "1969년 4월 11일",
+      "toeimil": "1971년 6월 3일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제20대",
+      "ireum": "민관식",
+      "chwiimil": "1971년 6월 4일",
+      "toeimil": "1974년 9월 17일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제21대",
+      "ireum": "유기춘",
+      "chwiimil": "1974년 9월 18일",
+      "toeimil": "1976년 12월 3일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제22대",
+      "ireum": "황산덕",
+      "chwiimil": "1976년 12월 4일",
+      "toeimil": "1977년 12월 19일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제23대",
+      "ireum": "박찬현",
+      "chwiimil": "1977년 12월 20일",
+      "toeimil": "1979년 12월 13일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제24대",
+      "ireum": "김옥길",
+      "chwiimil": "1979년 12월 14일",
+      "toeimil": "1980년 5월 21일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제25대",
+      "ireum": "이규호",
+      "chwiimil": "1980년 5월 22일",
+      "toeimil": "1983년 10월 14일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제26대",
+      "ireum": "권이혁",
+      "chwiimil": "1983년 10월 15일",
+      "toeimil": "1985년 2월 18일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제27대",
+      "ireum": "손제석",
+      "chwiimil": "1985년 2월 19일",
+      "toeimil": "1987년 7월 13일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제28대",
+      "ireum": "서명원",
+      "chwiimil": "1987년 7월 14일",
+      "toeimil": "1988년 2월 24일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제29대",
+      "ireum": "김영식",
+      "chwiimil": "1988년 2월 25일",
+      "toeimil": "1988년 12월 4일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "문교부 장관(1948~1990)",
+      "daesu": "제30대",
+      "ireum": "정원식",
+      "chwiimil": "1988년 12월 5일",
+      "toeimil": "1990년 12월 26일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제31대",
+      "ireum": "윤형섭",
+      "chwiimil": "1990년 12월 27일",
+      "toeimil": "1992년 1월 22일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제32대",
+      "ireum": "조완규",
+      "chwiimil": "1992년 1월 23일",
+      "toeimil": "1993년 2월 25일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제33대",
+      "ireum": "오병문",
+      "chwiimil": "1993년 2월 26일",
+      "toeimil": "1993년 12월 21일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제34대",
+      "ireum": "김숙희",
+      "chwiimil": "1993년 12월 22일",
+      "toeimil": "1995년 5월 11일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제35대",
+      "ireum": "박영식",
+      "chwiimil": "1995년 5월 16일",
+      "toeimil": "1995년 12월 20일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제36대",
+      "ireum": "안병영",
+      "chwiimil": "1995년 12월 21일",
+      "toeimil": "1997년 8월 5일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제37대",
+      "ireum": "이명현",
+      "chwiimil": "1997년 8월 6일",
+      "toeimil": "1998년 3월 2일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제38대",
+      "ireum": "이해찬",
+      "chwiimil": "1998년 3월 3일",
+      "toeimil": "1999년 5월 23일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제39대",
+      "ireum": "김덕중",
+      "chwiimil": "1999년 5월 24일",
+      "toeimil": "2000년 1월 13일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제40대",
+      "ireum": "문용린",
+      "chwiimil": "2000년 1월 14일",
+      "toeimil": "2000년 8월 5일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제41대",
+      "ireum": "송자",
+      "chwiimil": "2000년 8월 7일",
+      "toeimil": "2000년 8월 29일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(1990~2001)",
+      "daesu": "제42대",
+      "ireum": "이돈희",
+      "chwiimil": "2000년 8월 31일",
+      "toeimil": "2001년 1월 28일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제43대",
+      "ireum": "한완상",
+      "chwiimil": "2001년 1월 29일",
+      "toeimil": "2002년 1월 28일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제44대",
+      "ireum": "이상주",
+      "chwiimil": "2002년 1월 29일",
+      "toeimil": "2003년 3월 5일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제45대",
+      "ireum": "윤덕홍",
+      "chwiimil": "2003년 3월 7일",
+      "toeimil": "2003년 12월 23일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제46대",
+      "ireum": "안병영",
+      "chwiimil": "2003년 12월 24일",
+      "toeimil": "2005년 1월 4일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제47대",
+      "ireum": "이기준",
+      "chwiimil": "2005년 1월 5일",
+      "toeimil": "2005년 1월 10일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제48대",
+      "ireum": "김진표",
+      "chwiimil": "2005년 1월 28일",
+      "toeimil": "2006년 7월 20일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제49대",
+      "ireum": "김병준",
+      "chwiimil": "2006년 7월 21일",
+      "toeimil": "2006년 8월 8일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육인적자원부 장관(2001~2008)",
+      "daesu": "제50대",
+      "ireum": "김신일",
+      "chwiimil": "2006년 8월 9일",
+      "toeimil": "2008년 2월 5일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "교육과학기술부 장관(2008~2013)",
+      "daesu": "제51대",
+      "ireum": "김도연",
+      "chwiimil": "2008년 2월 29일",
+      "toeimil": "2008년 8월 5일",
+      "jeongbu": "이명박 정부"
+    },
+    {
+      "buseo_gigan": "교육과학기술부 장관(2008~2013)",
+      "daesu": "제52대",
+      "ireum": "안병만",
+      "chwiimil": "2008년 8월 6일",
+      "toeimil": "2010년 8월 30일",
+      "jeongbu": "이명박 정부"
+    },
+    {
+      "buseo_gigan": "교육과학기술부 장관(2008~2013)",
+      "daesu": "제53대",
+      "ireum": "이주호",
+      "chwiimil": "2010년 8월 30일",
+      "toeimil": "2013년 3월 10일",
+      "jeongbu": "이명박 정부"
+    },
+    {
+      "buseo_gigan": "교육과학기술부 장관(2008~2013)",
+      "daesu": "제54대",
+      "ireum": "서남수",
+      "chwiimil": "2013년 3월 11일",
+      "toeimil": "2013년 3월 22일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(2013~2014)",
+      "daesu": "제55대",
+      "ireum": "서남수",
+      "chwiimil": "2013년 3월 23일",
+      "toeimil": "2014년 8월 7일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(2013~2014)",
+      "daesu": "제56대",
+      "ireum": "황우여",
+      "chwiimil": "2014년 8월 8일",
+      "toeimil": "2014년 11월 18일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제56대",
+      "ireum": "황우여",
+      "chwiimil": "2014년 11월 19일",
+      "toeimil": "2016년 1월 12일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제57대",
+      "ireum": "이준식",
+      "chwiimil": "2016년 1월 13일",
+      "toeimil": "2017년 7월 4일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제58대",
+      "ireum": "김상곤",
+      "chwiimil": "2017년 7월 5일",
+      "toeimil": "2018년 10월 2일",
+      "jeongbu": "문재인 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제59대",
+      "ireum": "유은혜",
+      "chwiimil": "2018년 10월 2일",
+      "toeimil": "2022년 5월 9일",
+      "jeongbu": "문재인 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제60대",
+      "ireum": "박순애",
+      "chwiimil": "2022년 7월 5일",
+      "toeimil": "2022년 8월 8일",
+      "jeongbu": "윤석열 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제61대",
+      "ireum": "이주호",
+      "chwiimil": "2022년 11월 7일",
+      "toeimil": "2025년 7월 28일",
+      "jeongbu": "윤석열 정부"
+    },
+    {
+      "buseo_gigan": "부총리 겸 교육부 장관(2014~2025)",
+      "daesu": "제62대",
+      "ireum": "최교진",
+      "chwiimil": "2025년 9월 12일",
+      "toeimil": "2025년 9월 30일",
+      "jeongbu": "이재명 정부"
+    },
+    {
+      "buseo_gigan": "교육부 장관(2025~)",
+      "daesu": "제62대",
+      "ireum": "최교진",
+      "chwiimil": "2025년 10월 1일",
+      "toeimil": "",
+      "jeongbu": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 교육부 장관 - Free Download",
+    "description": "1948년 문교부부터 교육부·교육인적자원부·교육과학기술부까지 대한민국 교육 부처 역대 장관의 대수, 이름, 취임·퇴임일 및 정부 목록. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 교육부 장관 | ListBase",
+    "seo_description": "Download 대한민국 역대 교육부 장관 — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_교육부_장관"
+    ]
+  }
+}
