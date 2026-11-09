@@ -1,0 +1,1024 @@
+{
+  "id": "ko-haengjeong-anjeon-janggwan",
+  "name": "대한민국 역대 행정안전부 장관",
+  "title": "대한민국 역대 행정안전부 장관",
+  "description": "내무부·총무처부터 행정자치부·안전행정부·행정안전부까지 대한민국 행정·내무 부처 역대 장관(처장)의 대수, 이름, 취임·퇴임일 및 정부 목록.",
+  "category": "politics",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_행정안전부_장관",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_행정안전부_장관",
+  "updated": "2026-11",
+  "record_count": 121,
+  "columns": [
+    {
+      "key": "buseo_gigan",
+      "label": "Buseo Gigan",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "chwiimil",
+      "label": "Chwiimil",
+      "type": "string"
+    },
+    {
+      "key": "toeimil",
+      "label": "Toeimil",
+      "type": "string"
+    },
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제1대",
+      "ireum": "윤치영",
+      "chwiimil": "1948년 7월 27일",
+      "toeimil": "1948년 12월 24일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제2대",
+      "ireum": "신성모",
+      "chwiimil": "1948년 12월 24일",
+      "toeimil": "1949년 3월 21일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제3대",
+      "ireum": "김효석",
+      "chwiimil": "1949년 3월 21일",
+      "toeimil": "1950년 2월 7일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제4대",
+      "ireum": "백성욱",
+      "chwiimil": "1950년 2월 7일",
+      "toeimil": "1950년 7월 16일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제5대",
+      "ireum": "조병옥",
+      "chwiimil": "1950년 7월 17일",
+      "toeimil": "1951년 4월 24일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제6대",
+      "ireum": "이순용",
+      "chwiimil": "1951년 5월 14일",
+      "toeimil": "1952년 1월 12일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제7대",
+      "ireum": "장석윤",
+      "chwiimil": "1952년 1월 12일",
+      "toeimil": "1952년 5월 24일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제8대",
+      "ireum": "이범석",
+      "chwiimil": "1952년 5월 24일",
+      "toeimil": "1952년 7월 22일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제9대",
+      "ireum": "김태선",
+      "chwiimil": "1952년 7월 24일",
+      "toeimil": "1952년 8월 29일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제10대",
+      "ireum": "진헌식",
+      "chwiimil": "1952년 8월 29일",
+      "toeimil": "1953년 9월 19일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제11대",
+      "ireum": "백한성",
+      "chwiimil": "1953년 9월 20일",
+      "toeimil": "1955년 4월 23일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제12대",
+      "ireum": "김형근",
+      "chwiimil": "1955년 4월 23일",
+      "toeimil": "1956년 5월 21일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제13대",
+      "ireum": "이익흥",
+      "chwiimil": "1956년 5월 21일",
+      "toeimil": "1957년 2월 4일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제14대",
+      "ireum": "장경근",
+      "chwiimil": "1957년 2월 4일",
+      "toeimil": "1957년 9월 26일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제15대",
+      "ireum": "이근직",
+      "chwiimil": "1957년 9월 26일",
+      "toeimil": "1958년 6월 17일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제16대",
+      "ireum": "민병기",
+      "chwiimil": "1968년 6월 17일",
+      "toeimil": "1958년 8월 27일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제17대",
+      "ireum": "김일환",
+      "chwiimil": "1958년 8월 27일",
+      "toeimil": "1959년 3월 20일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제18대",
+      "ireum": "최인규",
+      "chwiimil": "1959년 3월 20일",
+      "toeimil": "1960년 3월 23일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제19대",
+      "ireum": "홍진기",
+      "chwiimil": "1960년 3월 23일",
+      "toeimil": "1960년 4월 24일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제20대",
+      "ireum": "이호",
+      "chwiimil": "1960년 4월 25일",
+      "toeimil": "1960년 8월 19일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제21대",
+      "ireum": "홍익표",
+      "chwiimil": "1960년 8월 23일",
+      "toeimil": "1960년 9월 12일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제22대",
+      "ireum": "이상철",
+      "chwiimil": "1960년 9월 12일",
+      "toeimil": "1960년 10월 13일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제23대",
+      "ireum": "현석호",
+      "chwiimil": "1960년 10월 13일",
+      "toeimil": "1960년 11월 20일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제24대",
+      "ireum": "신현돈",
+      "chwiimil": "1960년 11월 20일",
+      "toeimil": "1961년 5월 3일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제25대",
+      "ireum": "조재천",
+      "chwiimil": "1961년 5월 3일",
+      "toeimil": "1961년 5월 18일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제26대",
+      "ireum": "한신",
+      "chwiimil": "1961년 5월 20일",
+      "toeimil": "1962년 10월 14일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제27대",
+      "ireum": "박경원",
+      "chwiimil": "1962년 10월 15일",
+      "toeimil": "1963년 11월 23일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제28대",
+      "ireum": "엄민영",
+      "chwiimil": "1963년 12월 17일",
+      "toeimil": "1964년 5월 11일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제29대",
+      "ireum": "양찬우",
+      "chwiimil": "1964년 5월 11일",
+      "toeimil": "1966년 4월 15일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제30대",
+      "ireum": "엄민영",
+      "chwiimil": "1966년 4월 15일",
+      "toeimil": "1967년 6월 29일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제31대",
+      "ireum": "이호",
+      "chwiimil": "1967년 6월 30일",
+      "toeimil": "1968년 5월 20일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제32대",
+      "ireum": "박경원",
+      "chwiimil": "1968년 5월 21일",
+      "toeimil": "1971년 6월 3일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제33대",
+      "ireum": "오치성",
+      "chwiimil": "1971년 6월 4일",
+      "toeimil": "1971년 10월 6일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제34대",
+      "ireum": "김현옥",
+      "chwiimil": "1971년 10월 7일",
+      "toeimil": "1973년 12월 2일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제35대",
+      "ireum": "홍성철",
+      "chwiimil": "1973년 12월 3일",
+      "toeimil": "1974년 8월 20일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제36대",
+      "ireum": "박경원",
+      "chwiimil": "1974년 8월 21일",
+      "toeimil": "1975년 12월 18일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제37대",
+      "ireum": "김치열",
+      "chwiimil": "1975년 12월 19일",
+      "toeimil": "1978년 12월 21일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제38대",
+      "ireum": "구자춘",
+      "chwiimil": "1978년 12월 22일",
+      "toeimil": "1979년 12월 14일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제39대",
+      "ireum": "김종환",
+      "chwiimil": "1979년 12월 15일",
+      "toeimil": "1980년 9월 2일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제40대",
+      "ireum": "서정화",
+      "chwiimil": "1980년 9월 3일",
+      "toeimil": "1982년 4월 27일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제41대",
+      "ireum": "노태우",
+      "chwiimil": "1982년 4월 28일",
+      "toeimil": "1983년 7월 6일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제42대",
+      "ireum": "주영복",
+      "chwiimil": "1983년 7월 7일",
+      "toeimil": "1985년 2월 18일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제43대",
+      "ireum": "정석모",
+      "chwiimil": "1985년 2월 18일",
+      "toeimil": "1986년 8월 26일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제44대",
+      "ireum": "김종호",
+      "chwiimil": "1986년 8월 27일",
+      "toeimil": "1987년 1월 20일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제45대",
+      "ireum": "정호용",
+      "chwiimil": "1987년 1월 21일",
+      "toeimil": "1987년 5월 25일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제46대",
+      "ireum": "고건",
+      "chwiimil": "1987년 5월 26일",
+      "toeimil": "1987년 7월 13일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제47대",
+      "ireum": "정관용",
+      "chwiimil": "1987년 7월 14일",
+      "toeimil": "1987년 9월 13일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제48대",
+      "ireum": "이상희",
+      "chwiimil": "1987년 9월 14일",
+      "toeimil": "1988년 2월 24일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제49대",
+      "ireum": "이상희",
+      "chwiimil": "1988년 2월 25일",
+      "toeimil": "1988년 5월 6일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제50대",
+      "ireum": "이춘구",
+      "chwiimil": "1988년 5월 7일",
+      "toeimil": "1988년 12월 4일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제51대",
+      "ireum": "이한동",
+      "chwiimil": "1988년 12월 5일",
+      "toeimil": "1989년 7월 18일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제52대",
+      "ireum": "김태호",
+      "chwiimil": "1989년 7월 19일",
+      "toeimil": "1990년 3월 18일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제53대",
+      "ireum": "안응모",
+      "chwiimil": "1990년 3월 19일",
+      "toeimil": "1991년 4월 28일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제54대",
+      "ireum": "이상연",
+      "chwiimil": "1991년 4월 29일",
+      "toeimil": "1992년 3월 30일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제55대",
+      "ireum": "이동호",
+      "chwiimil": "1992년 3월 31일",
+      "toeimil": "1992년 10월 8일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제56대",
+      "ireum": "백광현",
+      "chwiimil": "1992년 10월 9일",
+      "toeimil": "1993년 2월 26일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제57대",
+      "ireum": "이해구",
+      "chwiimil": "1993년 2월 26일",
+      "toeimil": "1993년 12월 21일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제58대",
+      "ireum": "최형우",
+      "chwiimil": "1993년 12월 22일",
+      "toeimil": "1994년 12월 23일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제59대",
+      "ireum": "김용태",
+      "chwiimil": "1994년 12월 24일",
+      "toeimil": "1995년 12월 20일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제60대",
+      "ireum": "김우석",
+      "chwiimil": "1995년 12월 21일",
+      "toeimil": "1997년 2월 12일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제61대",
+      "ireum": "서정화",
+      "chwiimil": "1997년 2월 13일",
+      "toeimil": "1997년 3월 5일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제62대",
+      "ireum": "강운태",
+      "chwiimil": "1997년 3월 6일",
+      "toeimil": "1997년 8월 5일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "내무부 장관(1948~1998)",
+      "daesu": "제63대",
+      "ireum": "조해녕",
+      "chwiimil": "1997년 8월 6일",
+      "toeimil": "1998년 3월 2일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처장(1948~1955)",
+      "daesu": "제1대",
+      "ireum": "허정",
+      "chwiimil": "1948년 7월 27일",
+      "toeimil": "1948년 8월 25일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "총무처장(1948~1955)",
+      "daesu": "제2대",
+      "ireum": "김병연",
+      "chwiimil": "1948년 8월 26일",
+      "toeimil": "1948년 11월 29일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "총무처장(1948~1955)",
+      "daesu": "제3대",
+      "ireum": "전규홍",
+      "chwiimil": "1948년 11월 30일",
+      "toeimil": "1951년 4월 27일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "총무처장(1948~1955)",
+      "daesu": "제4대",
+      "ireum": "한동석",
+      "chwiimil": "1951년 5월 7일",
+      "toeimil": "1953년 11월 1일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "총무처장(1948~1955)",
+      "daesu": "제5대",
+      "ireum": "정운갑",
+      "chwiimil": "1953년 11월 2일",
+      "toeimil": "1955년 2월 16일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "국무원 사무국장(1955~1960)",
+      "daesu": "제6대",
+      "ireum": "문봉제",
+      "chwiimil": "1955년 2월 17일",
+      "toeimil": "1957년 6월 11일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "국무원 사무국장(1955~1960)",
+      "daesu": "제7대",
+      "ireum": "신두영",
+      "chwiimil": "1957년 6월 28일",
+      "toeimil": "1960년 6월 30일",
+      "jeongbu": "제1공화국"
+    },
+    {
+      "buseo_gigan": "국무원 사무처장(1960~1961)",
+      "daesu": "제8대",
+      "ireum": "이호",
+      "chwiimil": "1960년 7월 4일",
+      "toeimil": "1960년 8월 19일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "국무원 사무처장(1960~1961)",
+      "daesu": "제9대",
+      "ireum": "오위영",
+      "chwiimil": "1960년 8월 20일",
+      "toeimil": "1960년 9월 11일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "국무원 사무처장(1960~1961)",
+      "daesu": "제10대",
+      "ireum": "정헌주",
+      "chwiimil": "1960년 9월 12일",
+      "toeimil": "1961년 5월 18일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내각 사무처장(1961~1963)",
+      "daesu": "제11대",
+      "ireum": "김병삼",
+      "chwiimil": "1961년 5월 20일",
+      "toeimil": "1963년 2월 1일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "내각 사무처장(1961~1963)",
+      "daesu": "제12대",
+      "ireum": "이석제",
+      "chwiimil": "1963년 2월 2일",
+      "toeimil": "1963년 12월 16일",
+      "jeongbu": "제2공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제13대",
+      "ireum": "이석제",
+      "chwiimil": "1963년 12월 17일",
+      "toeimil": "1969년 10월 20일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제14대",
+      "ireum": "서일교",
+      "chwiimil": "1969년 10월 21일",
+      "toeimil": "1973년 12월 2일",
+      "jeongbu": "제3공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제15대",
+      "ireum": "심흥선",
+      "chwiimil": "1973년 12월 3일",
+      "toeimil": "1977년 12월 19일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제16대",
+      "ireum": "심의환",
+      "chwiimil": "1977년 12월 20일",
+      "toeimil": "1979년 10월 22일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제17대",
+      "ireum": "김용휴",
+      "chwiimil": "1979년 12월 14일",
+      "toeimil": "1982년 5월 20일",
+      "jeongbu": "제4공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제18대",
+      "ireum": "박찬긍",
+      "chwiimil": "1982년 5월 21일",
+      "toeimil": "1985년 2월 18일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제19대",
+      "ireum": "박세직",
+      "chwiimil": "1985년 2월 19일",
+      "toeimil": "1986년 1월 7일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제20대",
+      "ireum": "정관용",
+      "chwiimil": "1986년 1월 8일",
+      "toeimil": "1987년 7월 13일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제21대",
+      "ireum": "장기오",
+      "chwiimil": "1987년 7월 14일",
+      "toeimil": "1988년 2월 24일",
+      "jeongbu": "제5공화국"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제22대",
+      "ireum": "김용갑",
+      "chwiimil": "1988년 2월 25일",
+      "toeimil": "1989년 3월 8일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제23대",
+      "ireum": "김용래",
+      "chwiimil": "1989년 3월 17일",
+      "toeimil": "1990년 3월 18일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제24대",
+      "ireum": "이연택",
+      "chwiimil": "1990년 3월 19일",
+      "toeimil": "1991년 12월 19일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제25대",
+      "ireum": "이상배",
+      "chwiimil": "1991년 12월 20일",
+      "toeimil": "1992년 6월 25일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제26대",
+      "ireum": "이문석",
+      "chwiimil": "1992년 6월 26일",
+      "toeimil": "1993년 2월 25일",
+      "jeongbu": "노태우 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제27대",
+      "ireum": "최창윤",
+      "chwiimil": "1993년 2월 26일",
+      "toeimil": "1993년 12월 21일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제28대",
+      "ireum": "황영하",
+      "chwiimil": "1993년 12월 22일",
+      "toeimil": "1994년 12월 23일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제29대",
+      "ireum": "서석재",
+      "chwiimil": "1994년 12월 24일",
+      "toeimil": "1995년 8월 3일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제30대",
+      "ireum": "김기재",
+      "chwiimil": "1995년 8월 7일",
+      "toeimil": "1996년 1월 30일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제31대",
+      "ireum": "조해녕",
+      "chwiimil": "1996년 1월 31일",
+      "toeimil": "1996년 12월 19일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제32대",
+      "ireum": "김한규",
+      "chwiimil": "1996년 12월 20일",
+      "toeimil": "1997년 8월 5일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "총무처 장관(1963~1998)",
+      "daesu": "제33대",
+      "ireum": "심우영",
+      "chwiimil": "1997년 8월 6일",
+      "toeimil": "1998년 3월 3일",
+      "jeongbu": "김영삼 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제1대",
+      "ireum": "김정길",
+      "chwiimil": "1998년 3월 3일",
+      "toeimil": "1999년 2월 5일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제2대",
+      "ireum": "김기재",
+      "chwiimil": "1999년 2월 6일",
+      "toeimil": "2000년 1월 13일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제3대",
+      "ireum": "최인기",
+      "chwiimil": "2000년 1월 14일",
+      "toeimil": "2001년 3월 25일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제4대",
+      "ireum": "이근식",
+      "chwiimil": "2001년 3월 26일",
+      "toeimil": "2003년 2월 26일",
+      "jeongbu": "김대중 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제5대",
+      "ireum": "김두관",
+      "chwiimil": "2003년 2월 27일",
+      "toeimil": "2003년 9월 18일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제6대",
+      "ireum": "허성관",
+      "chwiimil": "2003년 9월 19일",
+      "toeimil": "2005년 1월 4일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제7대",
+      "ireum": "오영교",
+      "chwiimil": "2005년 1월 5일",
+      "toeimil": "2006년 3월 21일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제8대",
+      "ireum": "이용섭",
+      "chwiimil": "2006년 3월 27일",
+      "toeimil": "2006년 12월 4일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(1998~2008)",
+      "daesu": "제9대",
+      "ireum": "박명재",
+      "chwiimil": "2006년 12월 13일",
+      "toeimil": "2008년 2월 28일",
+      "jeongbu": "노무현 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2008~2013)",
+      "daesu": "제1대",
+      "ireum": "원세훈",
+      "chwiimil": "2008년 2월 29일",
+      "toeimil": "2009년 2월 11일",
+      "jeongbu": "이명박 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2008~2013)",
+      "daesu": "제2대",
+      "ireum": "이달곤",
+      "chwiimil": "2009년 2월 20일",
+      "toeimil": "2010년 3월 4일",
+      "jeongbu": "이명박 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2008~2013)",
+      "daesu": "제3대",
+      "ireum": "맹형규",
+      "chwiimil": "2010년 4월 15일",
+      "toeimil": "2013년 3월 11일",
+      "jeongbu": "이명박 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2008~2013)",
+      "daesu": "제4대",
+      "ireum": "유정복",
+      "chwiimil": "2013년 3월 11일",
+      "toeimil": "2013년 3월 22일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "안전행정부 장관(2013~2014)",
+      "daesu": "제1대",
+      "ireum": "유정복",
+      "chwiimil": "2013년 3월 23일",
+      "toeimil": "2014년 3월 5일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "안전행정부 장관(2013~2014)",
+      "daesu": "제2대",
+      "ireum": "강병규",
+      "chwiimil": "2014년 4월 2일",
+      "toeimil": "2014년 7월 15일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "안전행정부 장관(2013~2014)",
+      "daesu": "제3대",
+      "ireum": "정종섭",
+      "chwiimil": "2014년 7월 16일",
+      "toeimil": "2014년 11월 18일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(2014~2017)",
+      "daesu": "제1대",
+      "ireum": "정종섭",
+      "chwiimil": "2014년 11월 19일",
+      "toeimil": "2016년 1월 12일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(2014~2017)",
+      "daesu": "제2대",
+      "ireum": "홍윤식",
+      "chwiimil": "2016년 1월 13일",
+      "toeimil": "2017년 6월 15일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "행정자치부 장관(2014~2017)",
+      "daesu": "제3대",
+      "ireum": "김부겸",
+      "chwiimil": "2017년 6월 16일",
+      "toeimil": "2017년 7월 25일",
+      "jeongbu": "문재인 정부"
+    },
+    {
+      "buseo_gigan": "국민안전처 장관(2014~2017)",
+      "daesu": "제1대",
+      "ireum": "박인용",
+      "chwiimil": "2014년 11월 19일",
+      "toeimil": "2017년 7월 25일",
+      "jeongbu": "박근혜 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2017~)",
+      "daesu": "제1대",
+      "ireum": "김부겸",
+      "chwiimil": "2017년 7월 26일",
+      "toeimil": "2019년 4월 5일",
+      "jeongbu": "문재인 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2017~)",
+      "daesu": "제2대",
+      "ireum": "진영",
+      "chwiimil": "2019년 4월 8일",
+      "toeimil": "2020년 12월 23일",
+      "jeongbu": "문재인 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2017~)",
+      "daesu": "제3대",
+      "ireum": "전해철",
+      "chwiimil": "2020년 12월 24일",
+      "toeimil": "2022년 5월 11일",
+      "jeongbu": "문재인 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2017~)",
+      "daesu": "제4대",
+      "ireum": "이상민",
+      "chwiimil": "2022년 5월 12일",
+      "toeimil": "2024년 12월 8일",
+      "jeongbu": "윤석열 정부"
+    },
+    {
+      "buseo_gigan": "행정안전부 장관(2017~)",
+      "daesu": "제5대",
+      "ireum": "윤호중",
+      "chwiimil": "2025년 7월 20일",
+      "toeimil": "현직",
+      "jeongbu": "이재명 정부"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 행정안전부 장관 - Free Download",
+    "description": "내무부·총무처부터 행정자치부·안전행정부·행정안전부까지 대한민국 행정·내무 부처 역대 장관(처장)의 대수, 이름, 취임·퇴임일 및 정부 목록. Contains 121 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 행정안전부 장관 | ListBase",
+    "seo_description": "Download 대한민국 역대 행정안전부 장관 — 121 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 121 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_행정안전부_장관"
+    ]
+  }
+}

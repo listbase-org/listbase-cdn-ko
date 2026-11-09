@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-09T02:33:25.637Z",
-  "total_datasets": 567,
-  "total_records": 457376,
+  "generated": "2026-11-09T02:33:31.573Z",
+  "total_datasets": 568,
+  "total_records": 457497,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "reference",
@@ -8943,6 +8943,33 @@
         "xlsx": {
           "name": "ko-gungmu-chongni_KO.xlsx",
           "size": 10550
+        }
+      }
+    },
+    {
+      "id": "ko-haengjeong-anjeon-janggwan",
+      "name": "대한민국 역대 행정안전부 장관",
+      "category": "politics",
+      "record_count": 121,
+      "columns": [
+        "buseo_gigan",
+        "daesu",
+        "ireum",
+        "chwiimil",
+        "toeimil",
+        "jeongbu"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_행정안전부_장관",
+      "updated": "2026-11",
+      "size": 30274,
+      "files": {
+        "csv": {
+          "name": "ko-haengjeong-anjeon-janggwan_KO.csv",
+          "size": 13725
+        },
+        "xlsx": {
+          "name": "ko-haengjeong-anjeon-janggwan_KO.xlsx",
+          "size": 12105
         }
       }
     },
