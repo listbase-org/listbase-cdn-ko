@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-09T02:33:11.010Z",
-  "total_datasets": 565,
-  "total_records": 457223,
+  "generated": "2026-11-09T02:33:18.065Z",
+  "total_datasets": 566,
+  "total_records": 457312,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "reference",
@@ -8836,6 +8836,32 @@
         "xlsx": {
           "name": "ko-gamsawonjang_KO.xlsx",
           "size": 8112
+        }
+      }
+    },
+    {
+      "id": "ko-gukhoe-buuijang",
+      "name": "대한민국 역대 국회부의장",
+      "category": "politics",
+      "record_count": 89,
+      "columns": [
+        "hoegi",
+        "ireum",
+        "jaeim_sijak",
+        "jaeim_jongnyo",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_국회부의장",
+      "updated": "2026-11",
+      "size": 15788,
+      "files": {
+        "csv": {
+          "name": "ko-gukhoe-buuijang_KO.csv",
+          "size": 4838
+        },
+        "xlsx": {
+          "name": "ko-gukhoe-buuijang_KO.xlsx",
+          "size": 9965
         }
       }
     },

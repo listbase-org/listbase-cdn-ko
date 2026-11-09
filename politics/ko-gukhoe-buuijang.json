@@ -1,0 +1,674 @@
+{
+  "id": "ko-gukhoe-buuijang",
+  "name": "대한민국 역대 국회부의장",
+  "title": "대한민국 역대 국회부의장",
+  "description": "제헌국회부터 현재까지 대한민국 국회부의장의 회기(대), 이름, 재임기간 및 비고 목록.",
+  "category": "politics",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_국회부의장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_국회부의장",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "hoegi",
+      "label": "Hoegi",
+      "type": "number"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "jaeim_sijak",
+      "label": "Jaeim Sijak",
+      "type": "string"
+    },
+    {
+      "key": "jaeim_jongnyo",
+      "label": "Jaeim Jongnyo",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hoegi": "22",
+      "ireum": "이학영",
+      "jaeim_sijak": "2024. 6. 5.",
+      "jaeim_jongnyo": "2026. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "22",
+      "ireum": "주호영",
+      "jaeim_sijak": "2024. 6. 27.",
+      "jaeim_jongnyo": "2026. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "22",
+      "ireum": "남인순",
+      "jaeim_sijak": "2026 6. 5.",
+      "jaeim_jongnyo": "2028. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "22",
+      "ireum": "박덕흠",
+      "jaeim_sijak": "2026 6. 5.",
+      "jaeim_jongnyo": "2028. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "21",
+      "ireum": "김상희",
+      "jaeim_sijak": "2020. 6. 5.",
+      "jaeim_jongnyo": "2022. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "21",
+      "ireum": "정진석",
+      "jaeim_sijak": "2021. 8. 31.",
+      "jaeim_jongnyo": "2022. 5. 29.",
+      "bigo": "전·후반기 부의장"
+    },
+    {
+      "hoegi": "21",
+      "ireum": "김영주",
+      "jaeim_sijak": "2022. 7. 4.",
+      "jaeim_jongnyo": "2024. 5. 2.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "21",
+      "ireum": "정진석",
+      "jaeim_sijak": "2022. 7. 4.",
+      "jaeim_jongnyo": "2022. 11. 10.",
+      "bigo": "전·후반기 부의장"
+    },
+    {
+      "hoegi": "21",
+      "ireum": "정우택",
+      "jaeim_sijak": "2022. 11. 10.",
+      "jaeim_jongnyo": "2024. 5. 29.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "20",
+      "ireum": "심재철",
+      "jaeim_sijak": "2016. 6. 9.",
+      "jaeim_jongnyo": "2018. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "20",
+      "ireum": "박주선",
+      "jaeim_sijak": "2016. 6. 9.",
+      "jaeim_jongnyo": "2018. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "20",
+      "ireum": "이주영",
+      "jaeim_sijak": "2018. 7. 13.",
+      "jaeim_jongnyo": "2020. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "20",
+      "ireum": "주승용",
+      "jaeim_sijak": "2018. 7. 13.",
+      "jaeim_jongnyo": "2020. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "19",
+      "ireum": "이병석",
+      "jaeim_sijak": "2012. 7. 2.",
+      "jaeim_jongnyo": "2014. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "19",
+      "ireum": "박병석",
+      "jaeim_sijak": "2012. 7. 2. 2014. 5. 29.",
+      "jaeim_jongnyo": "",
+      "bigo": ""
+    },
+    {
+      "hoegi": "19",
+      "ireum": "정갑윤",
+      "jaeim_sijak": "2014. 5. 30.",
+      "jaeim_jongnyo": "2016. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "19",
+      "ireum": "이석현",
+      "jaeim_sijak": "2014. 5. 30.",
+      "jaeim_jongnyo": "2016. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "18",
+      "ireum": "이윤성",
+      "jaeim_sijak": "2008. 7. 16. 2010. 5. 29.",
+      "jaeim_jongnyo": "",
+      "bigo": ""
+    },
+    {
+      "hoegi": "18",
+      "ireum": "문희상",
+      "jaeim_sijak": "2008. 7. 16. 2010. 5. 29.",
+      "jaeim_jongnyo": "",
+      "bigo": ""
+    },
+    {
+      "hoegi": "18",
+      "ireum": "정의화",
+      "jaeim_sijak": "2010. 6. 8.",
+      "jaeim_jongnyo": "2012. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "18",
+      "ireum": "홍재형",
+      "jaeim_sijak": "2010. 6. 8.",
+      "jaeim_jongnyo": "2012. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "17",
+      "ireum": "김덕규",
+      "jaeim_sijak": "2004. 6. 7.",
+      "jaeim_jongnyo": "2006. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "17",
+      "ireum": "박희태",
+      "jaeim_sijak": "2004. 6. 7.",
+      "jaeim_jongnyo": "2006. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "17",
+      "ireum": "이용희",
+      "jaeim_sijak": "2006. 6. 19.",
+      "jaeim_jongnyo": "2008. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "17",
+      "ireum": "이상득",
+      "jaeim_sijak": "2006. 6. 19.",
+      "jaeim_jongnyo": "2008. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "16",
+      "ireum": "홍사덕",
+      "jaeim_sijak": "2000. 6. 5.",
+      "jaeim_jongnyo": "2001. 6. 12.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "16",
+      "ireum": "김종하",
+      "jaeim_sijak": "2001. 6. 12.",
+      "jaeim_jongnyo": "2002. 5. 29.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "16",
+      "ireum": "김종호",
+      "jaeim_sijak": "2004. 6. 7.",
+      "jaeim_jongnyo": "2006. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "16",
+      "ireum": "김태식",
+      "jaeim_sijak": "2002. 7. 8.",
+      "jaeim_jongnyo": "2004. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "16",
+      "ireum": "조부영",
+      "jaeim_sijak": "2002. 7. 8.",
+      "jaeim_jongnyo": "2004. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "15",
+      "ireum": "오세응",
+      "jaeim_sijak": "1996. 7. 4.",
+      "jaeim_jongnyo": "1998. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "15",
+      "ireum": "김영배",
+      "jaeim_sijak": "1996. 7. 4.",
+      "jaeim_jongnyo": "1998. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "15",
+      "ireum": "신상우",
+      "jaeim_sijak": "1998. 8. 17.",
+      "jaeim_jongnyo": "2000. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "15",
+      "ireum": "김봉호",
+      "jaeim_sijak": "1998. 8. 17.",
+      "jaeim_jongnyo": "2000. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "14",
+      "ireum": "황낙주",
+      "jaeim_sijak": "1992. 6. 29.",
+      "jaeim_jongnyo": "1994. 6. 28.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "14",
+      "ireum": "허경만",
+      "jaeim_sijak": "1992. 6. 29.",
+      "jaeim_jongnyo": "1994. 6. 28.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "14",
+      "ireum": "이춘구",
+      "jaeim_sijak": "1994. 6. 29.",
+      "jaeim_jongnyo": "1995. 2. 20.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "14",
+      "ireum": "이한동",
+      "jaeim_sijak": "1995. 2. 20.",
+      "jaeim_jongnyo": "1996. 5. 29.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "14",
+      "ireum": "홍영기",
+      "jaeim_sijak": "1994. 6. 29.",
+      "jaeim_jongnyo": "1996. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "13",
+      "ireum": "노승환",
+      "jaeim_sijak": "1988. 5. 30.",
+      "jaeim_jongnyo": "1990. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "13",
+      "ireum": "김재광",
+      "jaeim_sijak": "1988. 5. 30.",
+      "jaeim_jongnyo": "1990. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "13",
+      "ireum": "김재광",
+      "jaeim_sijak": "1990. 5. 30.",
+      "jaeim_jongnyo": "1992. 5. 29.",
+      "bigo": "연임"
+    },
+    {
+      "hoegi": "13",
+      "ireum": "조윤형",
+      "jaeim_sijak": "1990. 6.19. 1992. 5. 29.",
+      "jaeim_jongnyo": "",
+      "bigo": ""
+    },
+    {
+      "hoegi": "12",
+      "ireum": "최영철",
+      "jaeim_sijak": "1985. 5. 13.",
+      "jaeim_jongnyo": "1987. 5. 12.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "12",
+      "ireum": "김녹영",
+      "jaeim_sijak": "1985. 5. 13.",
+      "jaeim_jongnyo": "1985. 7. 10.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "12",
+      "ireum": "조연하",
+      "jaeim_sijak": "1985. 10. 28.",
+      "jaeim_jongnyo": "1986. 11. 29.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "12",
+      "ireum": "장성만",
+      "jaeim_sijak": "1987. 5. 13.",
+      "jaeim_jongnyo": "1988. 5. 29.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "11",
+      "ireum": "채문식",
+      "jaeim_sijak": "1981. 4. 11.",
+      "jaeim_jongnyo": "1983. 4. 10.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "11",
+      "ireum": "김은하",
+      "jaeim_sijak": "1981. 4. 11.",
+      "jaeim_jongnyo": "1983. 4. 10.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "11",
+      "ireum": "윤길중",
+      "jaeim_sijak": "1983. 4. 11.",
+      "jaeim_jongnyo": "1985. 4. 10.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "11",
+      "ireum": "고재청",
+      "jaeim_sijak": "1983. 4. 11.",
+      "jaeim_jongnyo": "1985. 4. 10.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "10",
+      "ireum": "민관식",
+      "jaeim_sijak": "1979. 3. 17.",
+      "jaeim_jongnyo": "1980. 10. 27.",
+      "bigo": "국가보위입법회의"
+    },
+    {
+      "hoegi": "10",
+      "ireum": "고흥문",
+      "jaeim_sijak": "1979. 3. 17.",
+      "jaeim_jongnyo": "1980. 8. 27.",
+      "bigo": "국가보위입법회의"
+    },
+    {
+      "hoegi": "9",
+      "ireum": "김진만",
+      "jaeim_sijak": "1973. 3. 12.",
+      "jaeim_jongnyo": "1976. 3. 11.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "9",
+      "ireum": "이철승",
+      "jaeim_sijak": "1973. 3. 12.",
+      "jaeim_jongnyo": "1976. 3. 11.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "9",
+      "ireum": "구태회",
+      "jaeim_sijak": "1976. 3. 12.",
+      "jaeim_jongnyo": "1979. 3. 11.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "9",
+      "ireum": "이민우",
+      "jaeim_sijak": "1976. 3. 12.",
+      "jaeim_jongnyo": "1979. 3. 11.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "8",
+      "ireum": "장경순",
+      "jaeim_sijak": "1971. 7. 26.",
+      "jaeim_jongnyo": "1972. 10. 17.",
+      "bigo": "장경순 연임. 비상국무회의"
+    },
+    {
+      "hoegi": "8",
+      "ireum": "정해영",
+      "jaeim_sijak": "1971. 7. 26.",
+      "jaeim_jongnyo": "1972. 10. 17.",
+      "bigo": "장경순 연임. 비상국무회의"
+    },
+    {
+      "hoegi": "7",
+      "ireum": "장경순",
+      "jaeim_sijak": "1967. 7. 10.",
+      "jaeim_jongnyo": "1969. 7. 9.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "7",
+      "ireum": "윤제술",
+      "jaeim_sijak": "1968. 6. 7.",
+      "jaeim_jongnyo": "1970. 6. 6.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "7",
+      "ireum": "장경순",
+      "jaeim_sijak": "1969. 7. 10.",
+      "jaeim_jongnyo": "1971. 6. 30.",
+      "bigo": "연임"
+    },
+    {
+      "hoegi": "7",
+      "ireum": "정성태",
+      "jaeim_sijak": "1970. 9. 7.",
+      "jaeim_jongnyo": "1971. 6. 30.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "6",
+      "ireum": "장경순",
+      "jaeim_sijak": "1963. 12. 17.",
+      "jaeim_jongnyo": "1965. 12. 16.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "6",
+      "ireum": "나용균",
+      "jaeim_sijak": "1963. 12. 17.",
+      "jaeim_jongnyo": "1965. 12. 16.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "6",
+      "ireum": "장경순",
+      "jaeim_sijak": "1965. 12. 17.",
+      "jaeim_jongnyo": "1967. 6. 30.",
+      "bigo": "연임"
+    },
+    {
+      "hoegi": "6",
+      "ireum": "이상철",
+      "jaeim_sijak": "1965. 12. 17.",
+      "jaeim_jongnyo": "1967. 6. 30.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "5",
+      "ireum": "이영준",
+      "jaeim_sijak": "1960. 8. 8.",
+      "jaeim_jongnyo": "1961. 5. 16.",
+      "bigo": "양원제. 국가재건최고회의"
+    },
+    {
+      "hoegi": "5",
+      "ireum": "서민호",
+      "jaeim_sijak": "1960. 8. 8.",
+      "jaeim_jongnyo": "1961. 5. 16.",
+      "bigo": "양원제. 국가재건최고회의"
+    },
+    {
+      "hoegi": "5",
+      "ireum": "소선규",
+      "jaeim_sijak": "1960. 8. 8.",
+      "jaeim_jongnyo": "1961. 5. 16.",
+      "bigo": "양원제. 국가재건최고회의"
+    },
+    {
+      "hoegi": "4",
+      "ireum": "이재학",
+      "jaeim_sijak": "1958. 6. 7.",
+      "jaeim_jongnyo": "1960. 5. 26.",
+      "bigo": "연임"
+    },
+    {
+      "hoegi": "4",
+      "ireum": "한희석",
+      "jaeim_sijak": "1958. 6. 7.",
+      "jaeim_jongnyo": "1959. 9. 2.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "4",
+      "ireum": "임철호",
+      "jaeim_sijak": "1959. 10. 4.",
+      "jaeim_jongnyo": "1960. 5. 26.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "4",
+      "ireum": "김도연",
+      "jaeim_sijak": "1960. 6. 10.",
+      "jaeim_jongnyo": "1960. 7. 28.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "4",
+      "ireum": "이재형",
+      "jaeim_sijak": "1960. 6. 10.",
+      "jaeim_jongnyo": "1960. 7. 28.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "3",
+      "ireum": "최순주",
+      "jaeim_sijak": "1954. 6. 9.",
+      "jaeim_jongnyo": "1954. 12. 2.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "3",
+      "ireum": "조경규",
+      "jaeim_sijak": "1955. 3. 2. 1956. 6. 8.",
+      "jaeim_jongnyo": "",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "3",
+      "ireum": "조경규",
+      "jaeim_sijak": "1956. 6. 9.",
+      "jaeim_jongnyo": "1958. 5. 30.",
+      "bigo": "연임"
+    },
+    {
+      "hoegi": "3",
+      "ireum": "황성수",
+      "jaeim_sijak": "1956. 6. 9.",
+      "jaeim_jongnyo": "1956. 11. 27.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "3",
+      "ireum": "이재학",
+      "jaeim_sijak": "1956. 12. 5.",
+      "jaeim_jongnyo": "1958. 5. 30.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "2",
+      "ireum": "장택상",
+      "jaeim_sijak": "1950. 6. 19.",
+      "jaeim_jongnyo": "1952. 5. 6.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "2",
+      "ireum": "조봉암",
+      "jaeim_sijak": "1950. 6. 19.",
+      "jaeim_jongnyo": "1952. 6. 18.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "2",
+      "ireum": "김동성",
+      "jaeim_sijak": "1952. 5. 8.",
+      "jaeim_jongnyo": "1952. 6. 18.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "2",
+      "ireum": "조봉암",
+      "jaeim_sijak": "1952. 7. 10.",
+      "jaeim_jongnyo": "1954. 5. 30.",
+      "bigo": "연임"
+    },
+    {
+      "hoegi": "2",
+      "ireum": "윤치영",
+      "jaeim_sijak": "1952. 7. 10.",
+      "jaeim_jongnyo": "1954. 5. 30.",
+      "bigo": "중임"
+    },
+    {
+      "hoegi": "제헌",
+      "ireum": "신익희",
+      "jaeim_sijak": "1948. 5. 31.",
+      "jaeim_jongnyo": "1948. 8. 3.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "제헌",
+      "ireum": "김동원",
+      "jaeim_sijak": "1948. 5. 31.",
+      "jaeim_jongnyo": "1950. 5. 30.",
+      "bigo": ""
+    },
+    {
+      "hoegi": "제헌",
+      "ireum": "김약수",
+      "jaeim_sijak": "1948. 8. 4.",
+      "jaeim_jongnyo": "1949. 7. 2.",
+      "bigo": "보선"
+    },
+    {
+      "hoegi": "제헌",
+      "ireum": "윤치영",
+      "jaeim_sijak": "1949. 7. 4.",
+      "jaeim_jongnyo": "1950. 5. 30.",
+      "bigo": "보선"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 국회부의장 - Free Download",
+    "description": "제헌국회부터 현재까지 대한민국 국회부의장의 회기(대), 이름, 재임기간 및 비고 목록. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 국회부의장 | ListBase",
+    "seo_description": "Download 대한민국 역대 국회부의장 — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_국회부의장"
+    ]
+  }
+}
