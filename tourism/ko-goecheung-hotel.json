@@ -1,0 +1,466 @@
+{
+  "id": "ko-goecheung-hotel",
+  "name": "대한민국의 고층 호텔 목록",
+  "title": "대한민국의 고층 호텔 목록",
+  "description": "대한민국에서 가장 높은 호텔의 순위, 이름, 도시, 높이, 층수, 완공 연도 목록.",
+  "category": "tourism",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_호텔_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_호텔_목록",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "sunwi",
+      "label": "Sunwi",
+      "type": "number"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "dosi",
+      "label": "Dosi",
+      "type": "string"
+    },
+    {
+      "key": "nopi_m",
+      "label": "Nopi M",
+      "type": "number"
+    },
+    {
+      "key": "cheungsu",
+      "label": "Cheungsu",
+      "type": "number"
+    },
+    {
+      "key": "wangong_yeondo",
+      "label": "Wangong Yeondo",
+      "type": "number"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sunwi": "1",
+      "ireum": "콘래드 서울 호텔",
+      "dosi": "서울특별시 영등포구",
+      "nopi_m": 200,
+      "cheungsu": 37,
+      "wangong_yeondo": 2012,
+      "bigo": "현재, 대한민국에서 가장 높은 호텔이다. 현재, 서울에서 가장 높은 호텔이다."
+    },
+    {
+      "sunwi": "2=",
+      "ireum": "협성 마리나 G7 A동",
+      "dosi": "부산광역시 동구",
+      "nopi_m": 199,
+      "cheungsu": 61,
+      "wangong_yeondo": 2021,
+      "bigo": ""
+    },
+    {
+      "sunwi": "2=",
+      "ireum": "협성 마리나 G7 B동",
+      "dosi": "부산광역시 동구",
+      "nopi_m": 199,
+      "cheungsu": 61,
+      "wangong_yeondo": 2021,
+      "bigo": ""
+    },
+    {
+      "sunwi": "4",
+      "ireum": "더클래식500 A동",
+      "dosi": "서울특별시 광진구",
+      "nopi_m": 196,
+      "cheungsu": 50,
+      "wangong_yeondo": 2008,
+      "bigo": ""
+    },
+    {
+      "sunwi": "5",
+      "ireum": "더클래식500 B동",
+      "dosi": "서울특별시 광진구",
+      "nopi_m": 177,
+      "cheungsu": 40,
+      "wangong_yeondo": 2008,
+      "bigo": ""
+    },
+    {
+      "sunwi": "6",
+      "ireum": "롯데호텔 부산",
+      "dosi": "부산광역시 부산진구",
+      "nopi_m": 173,
+      "cheungsu": 43,
+      "wangong_yeondo": 1997,
+      "bigo": ""
+    },
+    {
+      "sunwi": "7=",
+      "ireum": "제주 드림타워 A동",
+      "dosi": "제주특별자치도 제주시",
+      "nopi_m": 169,
+      "cheungsu": 38,
+      "wangong_yeondo": 2019,
+      "bigo": ""
+    },
+    {
+      "sunwi": "7=",
+      "ireum": "제주 드림타워 B동",
+      "dosi": "제주특별자치도 제주시",
+      "nopi_m": 169,
+      "cheungsu": 38,
+      "wangong_yeondo": 2019,
+      "bigo": ""
+    },
+    {
+      "sunwi": "9",
+      "ireum": "비아이시티 호텔 & 오피스",
+      "dosi": "부산광역시 남구",
+      "nopi_m": 165,
+      "cheungsu": 49,
+      "wangong_yeondo": 2018,
+      "bigo": ""
+    },
+    {
+      "sunwi": "10",
+      "ireum": "조선팰리스 서울 강남",
+      "dosi": "서울특별시 강남구",
+      "nopi_m": 158,
+      "cheungsu": 39,
+      "wangong_yeondo": 2020,
+      "bigo": ""
+    },
+    {
+      "sunwi": "11",
+      "ireum": "해운대 라뮤에뜨",
+      "dosi": "부산광역시 해운대구",
+      "nopi_m": 155,
+      "cheungsu": 42,
+      "wangong_yeondo": 2014,
+      "bigo": "레지던스 호텔이다."
+    },
+    {
+      "sunwi": "12=",
+      "ireum": "서울드래곤시티 A동",
+      "dosi": "서울특별시 용산구",
+      "nopi_m": 150,
+      "cheungsu": 40,
+      "wangong_yeondo": 2017,
+      "bigo": ""
+    },
+    {
+      "sunwi": "12=",
+      "ireum": "파크 하얏트 부산",
+      "dosi": "부산광역시 해운대구",
+      "nopi_m": 150,
+      "cheungsu": 34,
+      "wangong_yeondo": 2013,
+      "bigo": ""
+    },
+    {
+      "sunwi": "14",
+      "ireum": "JW 메리어트 호텔 서울",
+      "dosi": "서울특별시 서초구",
+      "nopi_m": 144,
+      "cheungsu": 33,
+      "wangong_yeondo": 1999,
+      "bigo": ""
+    },
+    {
+      "sunwi": "15",
+      "ireum": "나인트리 프리미어 로카우스 호텔 서울 용산",
+      "dosi": "서울특별시 용산구",
+      "nopi_m": 142,
+      "cheungsu": 31,
+      "wangong_yeondo": 2023,
+      "bigo": ""
+    },
+    {
+      "sunwi": "16",
+      "ireum": "롯데호텔 서울",
+      "dosi": "서울특별시 중구",
+      "nopi_m": 138,
+      "cheungsu": 38,
+      "wangong_yeondo": 1979,
+      "bigo": ""
+    },
+    {
+      "sunwi": "17",
+      "ireum": "여의도 파크센터 호텔",
+      "dosi": "서울특별시 영등포구",
+      "nopi_m": 134,
+      "cheungsu": 35,
+      "wangong_yeondo": 2007,
+      "bigo": ""
+    },
+    {
+      "sunwi": "18=",
+      "ireum": "KT송파타워 호텔동",
+      "dosi": "서울특별시 송파구",
+      "nopi_m": 130,
+      "cheungsu": 32,
+      "wangong_yeondo": 2021,
+      "bigo": ""
+    },
+    {
+      "sunwi": "18=",
+      "ireum": "한화리조트 해운대",
+      "dosi": "부산광역시 해운대구",
+      "nopi_m": 130,
+      "cheungsu": 32,
+      "wangong_yeondo": 2000,
+      "bigo": ""
+    },
+    {
+      "sunwi": "20",
+      "ireum": "머큐어앰배서더 울산",
+      "dosi": "울산광역시 북구",
+      "nopi_m": 128,
+      "cheungsu": 34,
+      "wangong_yeondo": 2019,
+      "bigo": ""
+    },
+    {
+      "sunwi": "21",
+      "ireum": "여의도 페어몬트 호텔",
+      "dosi": "서울특별시 영등포구",
+      "nopi_m": 126,
+      "cheungsu": 31,
+      "wangong_yeondo": 2020,
+      "bigo": ""
+    },
+    {
+      "sunwi": "22",
+      "ireum": "라비드아틀란호텔",
+      "dosi": "부산광역시 해운대구",
+      "nopi_m": 124,
+      "cheungsu": 32,
+      "wangong_yeondo": 2019,
+      "bigo": ""
+    },
+    {
+      "sunwi": "23=",
+      "ireum": "하워드존슨 청주호텔",
+      "dosi": "충청북도 청주시",
+      "nopi_m": 122,
+      "cheungsu": 32,
+      "wangong_yeondo": 2017,
+      "bigo": ""
+    },
+    {
+      "sunwi": "23=",
+      "ireum": "서울드래곤시티 B동",
+      "dosi": "서울특별시 용산구",
+      "nopi_m": 122,
+      "cheungsu": 31,
+      "wangong_yeondo": 2017,
+      "bigo": ""
+    },
+    {
+      "sunwi": "23=",
+      "ireum": "서울드래곤시티 C동",
+      "dosi": "서울특별시 용산구",
+      "nopi_m": 122,
+      "cheungsu": 31,
+      "wangong_yeondo": 2017,
+      "bigo": ""
+    },
+    {
+      "sunwi": "23=",
+      "ireum": "포포인츠 바이 쉐라톤 서울남산",
+      "dosi": "서울특별시 용산구",
+      "nopi_m": 122,
+      "cheungsu": 31,
+      "wangong_yeondo": 2015,
+      "bigo": ""
+    },
+    {
+      "sunwi": "27",
+      "ireum": "오크우드 프리미어 코엑스센터",
+      "dosi": "서울특별시 강남구",
+      "nopi_m": 118,
+      "cheungsu": 26,
+      "wangong_yeondo": 2000,
+      "bigo": ""
+    },
+    {
+      "sunwi": "28",
+      "ireum": "광명역 U플래닛 테이크호텔",
+      "dosi": "경기도 광명시",
+      "nopi_m": 116,
+      "cheungsu": 27,
+      "wangong_yeondo": 2021,
+      "bigo": ""
+    },
+    {
+      "sunwi": "29=",
+      "ireum": "윈덤 그랜드 부산",
+      "dosi": "부산광역시 서구",
+      "nopi_m": 115,
+      "cheungsu": 27,
+      "wangong_yeondo": 2023,
+      "bigo": ""
+    },
+    {
+      "sunwi": "29=",
+      "ireum": "롯데호텔월드",
+      "dosi": "서울특별시 송파구",
+      "nopi_m": 115,
+      "cheungsu": 32,
+      "wangong_yeondo": 1989,
+      "bigo": ""
+    },
+    {
+      "sunwi": "31",
+      "ireum": "웨스틴 서울 파르나스",
+      "dosi": "서울특별시 강남구",
+      "nopi_m": 112,
+      "cheungsu": 30,
+      "wangong_yeondo": 1999,
+      "bigo": ""
+    },
+    {
+      "sunwi": "32=",
+      "ireum": "롯데호텔 울산",
+      "dosi": "울산광역시 남구",
+      "nopi_m": 110,
+      "cheungsu": 24,
+      "wangong_yeondo": 2002,
+      "bigo": ""
+    },
+    {
+      "sunwi": "32=",
+      "ireum": "보광휘닉스파크 블루동",
+      "dosi": "강원특별자치도 평창군",
+      "nopi_m": 110,
+      "cheungsu": 26,
+      "wangong_yeondo": 1995,
+      "bigo": ""
+    },
+    {
+      "sunwi": "34=",
+      "ireum": "하이원 그랜드 호텔 메인타워",
+      "dosi": "강원특별자치도 정선군",
+      "nopi_m": 107,
+      "cheungsu": 24,
+      "wangong_yeondo": 2003,
+      "bigo": "강원랜드 호텔 & 카지노다."
+    },
+    {
+      "sunwi": "34=",
+      "ireum": "하이원 그랜드 호텔 컨벤션타워",
+      "dosi": "강원특별자치도 정선군",
+      "nopi_m": 107,
+      "cheungsu": 24,
+      "wangong_yeondo": 2003,
+      "bigo": "강원랜드 컨벤션 호텔 & 카지노다."
+    },
+    {
+      "sunwi": "36",
+      "ireum": "그랜드 인터컨티넨탈 서울",
+      "dosi": "서울특별시 강남구",
+      "nopi_m": 105,
+      "cheungsu": 34,
+      "wangong_yeondo": 1989,
+      "bigo": ""
+    },
+    {
+      "sunwi": "37",
+      "ireum": "강원랜드",
+      "dosi": "강원특별자치도 정선군",
+      "nopi_m": 104,
+      "cheungsu": 24,
+      "wangong_yeondo": 2000,
+      "bigo": ""
+    },
+    {
+      "sunwi": "38",
+      "ireum": "쉐라톤 그랜드 인천 호텔",
+      "dosi": "인천광역시 연수구",
+      "nopi_m": 102,
+      "cheungsu": 24,
+      "wangong_yeondo": 2010,
+      "bigo": ""
+    },
+    {
+      "sunwi": "39=",
+      "ireum": "소노캄 여수",
+      "dosi": "전라남도 여수시",
+      "nopi_m": 101,
+      "cheungsu": 26,
+      "wangong_yeondo": 2012,
+      "bigo": ""
+    },
+    {
+      "sunwi": "39=",
+      "ireum": "씨클라우드 호텔",
+      "dosi": "부산광역시 해운대구",
+      "nopi_m": 101,
+      "cheungsu": 30,
+      "wangong_yeondo": 2006,
+      "bigo": ""
+    },
+    {
+      "sunwi": "41=",
+      "ireum": "속초 아이파크 스위트 호텔",
+      "dosi": "강원특별자치도 속초시",
+      "nopi_m": 100,
+      "cheungsu": 27,
+      "wangong_yeondo": 2023,
+      "bigo": ""
+    },
+    {
+      "sunwi": "41=",
+      "ireum": "유탑 부티크호텔 & 레지던스",
+      "dosi": "광주광역시 서구",
+      "nopi_m": 100,
+      "cheungsu": 31,
+      "wangong_yeondo": 2020,
+      "bigo": ""
+    },
+    {
+      "sunwi": "41=",
+      "ireum": "라발스 호텔",
+      "dosi": "부산광역시 영도구",
+      "nopi_m": 100,
+      "cheungsu": 28,
+      "wangong_yeondo": 2019,
+      "bigo": ""
+    },
+    {
+      "sunwi": "41=",
+      "ireum": "포 시즌스 호텔 서울",
+      "dosi": "서울특별시 종로구",
+      "nopi_m": 100,
+      "cheungsu": 26,
+      "wangong_yeondo": 2015,
+      "bigo": ""
+    },
+    {
+      "sunwi": "41=",
+      "ireum": "파크 하얏트 서울",
+      "dosi": "서울특별시 강남구",
+      "nopi_m": 100,
+      "cheungsu": 24,
+      "wangong_yeondo": 2005,
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 고층 호텔 목록 - Free Download",
+    "description": "대한민국에서 가장 높은 호텔의 순위, 이름, 도시, 높이, 층수, 완공 연도 목록. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 고층 호텔 목록 | ListBase",
+    "seo_description": "Download 대한민국의 고층 호텔 목록 — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_호텔_목록"
+    ]
+  }
+}
