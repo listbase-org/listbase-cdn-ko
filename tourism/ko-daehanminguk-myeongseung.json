@@ -1,0 +1,961 @@
+{
+  "id": "ko-daehanminguk-myeongseung",
+  "name": "대한민국의 명승 목록",
+  "title": "대한민국의 명승 목록",
+  "description": "국가지정문화유산 명승의 지정번호, 명칭(한자·영문 병기), 소재지, 관리자 및 지정일 목록.",
+  "category": "tourism",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_명승_(2010년대)",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_명승_(2010년대)",
+  "updated": "2026-11",
+  "record_count": 130,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "manager",
+      "label": "Manager",
+      "type": "string"
+    },
+    {
+      "key": "designated",
+      "label": "Designated",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": "1호",
+      "name": "명주 청학동 소금강 (溟州 靑鶴洞 小金剛) (Sogeumgang Mountain in Cheonghakdong, Myeongju)",
+      "location": "강원 강릉시 연곡면 부연동길 753-13, 등 (삼산리)",
+      "manager": "강원 강릉시장",
+      "designated": "1970년 11월 23일 지정"
+    },
+    {
+      "number": "2호",
+      "name": "거제 해금강 (巨濟 海金剛) (Haegeumgang Islets, Geoje)",
+      "location": "경남 거제시 남부면 갈곶리 산1번지 외 2필",
+      "manager": "경남 거제시장",
+      "designated": "1971년 3월 23일 지정"
+    },
+    {
+      "number": "3호",
+      "name": "완도 정도리 구계등 (莞島 正道里 九階燈) (Gugyedeung Pebble Beach in Jeongdo-ri, Wando)",
+      "location": "전남 완도군 완도읍 정도리 151, 앞해면 일대",
+      "manager": "전남 완도군수",
+      "designated": "1972년 7월 24일 지정"
+    },
+    {
+      "number": "4호",
+      "name": "해남대둔산일원 (海南大屯山一圓)",
+      "location": "전남 해남군 삼산면 구림리 산8-1외 40필",
+      "manager": "해남군수",
+      "designated": "1975년 9월 2일 지정, 1998년 12월 23일 해제, 사적 및 명승 제9호 로 지정"
+    },
+    {
+      "number": "5호",
+      "name": "승주송광사선암사일원 (昇州松廣寺仙岩寺一圓)",
+      "location": "전남 순천시 승주읍 죽학리 산48외 95필",
+      "manager": "순천시장",
+      "designated": "1975년 9월 2일 지정, 1998년 12월 23일 해제, 사적 및 명승 제8호 로 지정"
+    },
+    {
+      "number": "6호",
+      "name": "울진 불영사 계곡일원 (蔚珍 佛影寺 溪谷一圓) (Buryeongsagyegok Valley and Surroundings, Uljin)",
+      "location": "경북 울진군 근남면 수곡리 산121등 585필지",
+      "manager": "경북 울진군수",
+      "designated": "1979년 12월 11일 지정"
+    },
+    {
+      "number": "7호",
+      "name": "여수 상백도·하백도 일원 (麗水 上白島·下白島 一圓) (Sangbaekdo and Habaekdo Islets, Yeosu)",
+      "location": "전남 여수시 삼산면 거문리 산30외 37필",
+      "manager": "전남 여수시장",
+      "designated": "1979년 12월 11일 지정"
+    },
+    {
+      "number": "8호",
+      "name": "옹진 백령도 두무진 (甕津 白翎島 頭武津) (Dumujin Coast on Baengnyeongdo Island, Ongjin)",
+      "location": "인천 옹진군 백령면 연화리 255-1외",
+      "manager": "인천 옹진군수",
+      "designated": "1997년 12월 30일 지정"
+    },
+    {
+      "number": "9호",
+      "name": "진도의 바닷길 (珍島의 바닷길) (Sea-split Path, Jindo)",
+      "location": "전남 진도군 고군면·의신면 일원 해역",
+      "manager": "전남 진도군수",
+      "designated": "2000년 3월 14일 지정"
+    },
+    {
+      "number": "10호",
+      "name": "삼각산 (三角山) (Samgaksan Mountain)",
+      "location": "경기 고양시 덕양구 북한동 산1-1, 서울시 강북구 우이동",
+      "manager": "경기 고양시장, 서울 강북구청장",
+      "designated": "2003년 10월 31일 지정"
+    },
+    {
+      "number": "11호",
+      "name": "청송 주왕산 주왕계곡 일원 (靑松 周王山 周王溪谷 一圓) (Juwanggyegok Valley and Surroundings in Juwangsan Mountain, Cheongsong)",
+      "location": "경북 청송군 주왕산면 상의리 산24등 119필지",
+      "manager": "경북 청송군수",
+      "designated": "2003년 10월 31일 지정"
+    },
+    {
+      "number": "12호",
+      "name": "진안 마이산 (鎭安 馬耳山) (Maisan Mountain, Jinan)",
+      "location": "전북 진안군 진안읍 마이산로 258, 등 2필 (단양리)",
+      "manager": "전북 진안군수",
+      "designated": "2003년 10월 31일 지정"
+    },
+    {
+      "number": "13호",
+      "name": "부안 채석강·적벽강 일원 (扶安 彩石江·赤壁江 一圓) (Chaeseokgang and Jeokbyeokgang Cliffed Coasts, Buan)",
+      "location": "전북 부안군 변산면 격포리 301-1등",
+      "manager": "전북 부안군수",
+      "designated": "2004년 11월 17일 지정"
+    },
+    {
+      "number": "14호",
+      "name": "영월 어라연 일원 (寧越 魚羅淵 一圓) (Eorayeon Meandering Stream and Surroundings, Yeongwol)",
+      "location": "강원 영월군 영월읍 거운리 산40 등",
+      "manager": "강원 영월군수",
+      "designated": "2004년 12월 7일 지정"
+    },
+    {
+      "number": "15호",
+      "name": "남해 가천마을 다랑이 논 (南海 加川마을 다랑이 논) (Terraced Paddy Fields of Gacheon Village, Namhae)",
+      "location": "경남 남해군 남면 홍현리 777번지 등",
+      "manager": "경남 남해군수",
+      "designated": "2005년 1월 3일 지정"
+    },
+    {
+      "number": "16호",
+      "name": "예천 회룡포 (醴泉 回龍浦) (Hoeryongpo Meandering Stream, Yecheon)",
+      "location": "경북 예천군 용궁면 대은리 950",
+      "manager": "경북 예천군수",
+      "designated": "2005년 8월 23일 지정"
+    },
+    {
+      "number": "17호",
+      "name": "부산 영도 태종대 (釜山 影島 太宗臺) (Taejongdae Cliffed Coast, Busan)",
+      "location": "부산 영도구 전망로 118 (동삼동)",
+      "manager": "부산 영도구청장",
+      "designated": "2005년 11월 1일 지정"
+    },
+    {
+      "number": "18호",
+      "name": "소매물도 등대섬 (小每勿島 燈臺섬) (Deungdaeseom Islet of Somaemuldo Island)",
+      "location": "경남 통영시 한산면 매죽리 산65 등",
+      "manager": "경남 통영시장",
+      "designated": "2006년 8월 24일 지정"
+    },
+    {
+      "number": "19호",
+      "name": "예천 선몽대 일원 (醴泉 仙夢臺 一圓) (Seonmongdae Pavilion and Surroundings, Yecheon)",
+      "location": "경북 예천군 호명면 백송리 75외",
+      "manager": "경북 예천군수, 진성이씨백송파종중",
+      "designated": "2006년 11월 16일 지정"
+    },
+    {
+      "number": "20호",
+      "name": "제천 의림지와 제림 (堤川 義林池와 堤林) (Uirimji Reservoir and Jerim Woods, Jecheon)",
+      "location": "충북 제천시 모산동 241번지 외",
+      "manager": "충북 제천시장",
+      "designated": "2006년 12월 4일 지정"
+    },
+    {
+      "number": "21호",
+      "name": "공주 고마나루 (公州 고마나루) (Gomanaru Ferry, Gongju)",
+      "location": "충남 공주시",
+      "manager": "충남 공주시장",
+      "designated": "2006년 12월 4일 지정"
+    },
+    {
+      "number": "22호",
+      "name": "영광법성진숲쟁이 (靈光法聖鎭숲쟁이) (Beopseongjin Wooded Fort, Yeonggwang)",
+      "location": "전남 영광군 법성면 법성리 821-1 등",
+      "manager": "전남 영광군수",
+      "designated": "2007년 2월 1일 지정"
+    },
+    {
+      "number": "23호",
+      "name": "봉화 청량산 (奉化 淸凉山) (Cheongnyangsan Mountain, Bonghwa)",
+      "location": "경북 봉화군 명호면 북곡리 산 74번지 등",
+      "manager": "경북 봉화군수, 진성이씨상계파종중",
+      "designated": "2007년 3월 13일 지정"
+    },
+    {
+      "number": "24호",
+      "name": "부산 오륙도 (釜山 五六島) (Oryukdo Islets, Busan)",
+      "location": "부산 남구 용호동 936번지 등",
+      "manager": "부산 남구청장",
+      "designated": "2007년 10월 1일 지정"
+    },
+    {
+      "number": "25호",
+      "name": "순천 초연정 원림 (順天 超然亭 園林) (Choyeonjeong Garden, Suncheon)",
+      "location": "전남 순천시 송광면 삼청리 766번지 등",
+      "manager": "전남 순천시장",
+      "designated": "2007년 12월 7일 지정"
+    },
+    {
+      "number": "26호",
+      "name": "안동 백운정 및 개호송 숲 일원 (安東 白雲亭 및 開湖松 숲 一圓) (Baegunjeong Pavilion and Gaehosongsup Pine Grove, Andong)",
+      "location": "경북 안동시 임하면 천전리 93-1번지 등",
+      "manager": "경북 안동시장",
+      "designated": "2007년 12월 7일 지정"
+    },
+    {
+      "number": "27호",
+      "name": "양양 낙산사 의상대와 홍련암 (襄陽 洛山寺 義湘臺와 紅蓮庵) (Uisangdae Pavilion and Hongnyeonam Hermitage of Naksansa Temple, Yangyang)",
+      "location": "강원 양양군 강현면 전진리 산5-2번지 등",
+      "manager": "대한불교조계종 낙산사",
+      "designated": "2007년 12월 7일 지정"
+    },
+    {
+      "number": "28호",
+      "name": "삼척 죽서루와 오십천 (三陟 竹西樓와 五十川) (Jukseoru Pavilion and Osipcheon Stream, Samcheok)",
+      "location": "강원 삼척시 성내동 28번지 등",
+      "manager": "강원 삼척시장",
+      "designated": "2007년 12월 7일 지정"
+    },
+    {
+      "number": "29호",
+      "name": "구룡령 옛길 (九龍嶺 옛길) (Old Path of Guryongnyeong Pass)",
+      "location": "강원 양양군 서면 갈천리 산1-1번지",
+      "manager": "강원 양양군수",
+      "designated": "2007년 12월 17일 지정"
+    },
+    {
+      "number": "30호",
+      "name": "죽령 옛길 (竹嶺 옛길) (Old Path of Jungnyeong Pass)",
+      "location": "경북 영주시 풍기읍 수철리 산86-2번지 등",
+      "manager": "경북 영주시장",
+      "designated": "2007년 12월 17일 지정"
+    },
+    {
+      "number": "31호",
+      "name": "문경 토끼비리 (聞慶 토끼비리) (Tokkibiri Cliffside Road, Mungyeong)",
+      "location": "경북 문경시 마성면 신현리 산41번지 등",
+      "manager": "경북 문경시장",
+      "designated": "2007년 12월 17일 지정"
+    },
+    {
+      "number": "32호",
+      "name": "문경새재 (聞慶새재) (Mungyeongsaejae Pass)",
+      "location": "경북 문경시 문경읍 새재로 1156, 등 (상초리)",
+      "manager": "경북 문경시장",
+      "designated": "2007년 12월 17일 지정"
+    },
+    {
+      "number": "33호",
+      "name": "광한루원 (廣寒樓苑) (Gwanghalluwon Garden)",
+      "location": "전북 남원시 요천로 1447, 등 (천거동)",
+      "manager": "전북 남원시장",
+      "designated": "2008년 1월 8일 지정"
+    },
+    {
+      "number": "34호",
+      "name": "보길도 윤선도 원림 (甫吉島 尹善道 園林) (Yun Seon-do's Garden on Bogildo Island)",
+      "location": "전남 완도군 보길면 부황길 57, 등 (부황리)",
+      "manager": "전남 완도군수",
+      "designated": "2008년 1월 8일 지정"
+    },
+    {
+      "number": "35호",
+      "name": "성락원 (城樂園) (Seongnagwon Garden)",
+      "location": "서울 성북구 선잠로2길 47 (성북동)",
+      "manager": "서울 성북구청장",
+      "designated": "2008년 1월 8일 지정 2020년 9월 2일 해제, 명승 제118호 로 재지정"
+    },
+    {
+      "number": "36호",
+      "name": "서울 부암동 백석동천 (서울 付岩洞 白石洞天) (Baekseokdongcheon Garden in Buam-dong, Seoul)",
+      "location": "서울 종로구 부암동 115번지 등",
+      "manager": "서울 종로구청장",
+      "designated": "2008년 1월 8일 지정"
+    },
+    {
+      "number": "37호",
+      "name": "동해 무릉계곡 (東海 武陵溪谷) (Mureunggyegok Valley, Donghae)",
+      "location": "강원 동해시 무릉로 584, 등 (삼화동)",
+      "manager": "강원 동해시장",
+      "designated": "2008년 2월 5일 지정"
+    },
+    {
+      "number": "38호",
+      "name": "장성 백양사 백학봉 (長城 白羊寺 白鶴峰) (Baegyangsa Temple and Baekhakbong Peak, Jangseong)",
+      "location": "전남 장성군 북하면 약수리 산115-1번지 등",
+      "manager": "장성군수, 대한불교조계종 백양사",
+      "designated": "2008년 2월 5일 지정"
+    },
+    {
+      "number": "39호",
+      "name": "남해 금산 (南海 錦山) (Geumsan Mountain, Namhae)",
+      "location": "경남 남해군 상주면 보리암로 691, 등 (상주리)",
+      "manager": "경남 남해군수",
+      "designated": "2008년 5월 2일 지정"
+    },
+    {
+      "number": "40호",
+      "name": "담양 소쇄원 (潭陽 瀟灑園) (Soswaewon Garden, Damyang)",
+      "location": "전남 담양군 남면 소쇄원길 17, 등 (지곡리)",
+      "manager": "전남 담양군수",
+      "designated": "2008년 5월 2일 지정"
+    },
+    {
+      "number": "41호",
+      "name": "순천만 (順天灣) (Suncheonman Bay)",
+      "location": "전남 순천시 안풍동 1176번지 등",
+      "manager": "전남 순천시장",
+      "designated": "2008년 6월 16일 지정"
+    },
+    {
+      "number": "42호",
+      "name": "충주 탄금대 (忠州 彈琴臺) (Tangeumdae Height, Chungju)",
+      "location": "충북 충주시 칠금동 산1-1번지 등",
+      "manager": "충북 충주시장",
+      "designated": "2008년 7월 9일 지정"
+    },
+    {
+      "number": "43호",
+      "name": "제주 서귀포 정방폭포 (濟州 西歸浦 正房瀑布) (Jeongbangpokpo Falls in Seogwipo, Jeju)",
+      "location": "제주 서귀포시 칠십리로 156-8 (서귀동)",
+      "manager": "제주특별자치도지사",
+      "designated": "2008년 8월 8일 지정"
+    },
+    {
+      "number": "44호",
+      "name": "단양 도담삼봉 (丹陽 島潭三峰) (Dodamsambong Peaks, Danyang)",
+      "location": "충북 단양군 단양읍 도담리 195번지 등",
+      "manager": "충북 단양군수",
+      "designated": "2008년 9월 9일 지정"
+    },
+    {
+      "number": "45호",
+      "name": "단양 석문 (丹陽 石門) (Seongmun Natural Arch, Danyang)",
+      "location": "충북 단양군 매포읍 하괴리 산20-35번지 등",
+      "manager": "충북 단양군수",
+      "designated": "2008년 9월 9일 지정"
+    },
+    {
+      "number": "46호",
+      "name": "단양 구담봉 (丹陽 龜潭峰) (Gudambong Peak, Danyang)",
+      "location": "충북 단양군 단성면 장회리 산32번지 등",
+      "manager": "충북 단양군수",
+      "designated": "2008년 9월 9일 지정"
+    },
+    {
+      "number": "47호",
+      "name": "단양 사인암 (丹陽 舍人巖) (Sainam Rock, Danyang)",
+      "location": "충북 단양군 대강면 사인암리 산27번지",
+      "manager": "충북 단양군수",
+      "designated": "2008년 9월 9일 지정"
+    },
+    {
+      "number": "48호",
+      "name": "제천 옥순봉 (堤川 玉筍峰) (Oksunbong Peaks, Jecheon)",
+      "location": "충북 제천시 수산면 괴곡리 산9번지 등",
+      "manager": "충북 제천시장",
+      "designated": "2008년 9월 9일 지정"
+    },
+    {
+      "number": "49호",
+      "name": "충주 계립령로 하늘재 (忠州 鷄立嶺路 하늘재) (Haneuljae Pass on Gyerimnyeongno Path, Chungju)",
+      "location": "충북 충주시 수안보면 미륵리 산 8번지 등",
+      "manager": "충북 충주시장",
+      "designated": "2008년 12월 26일 지정"
+    },
+    {
+      "number": "50호",
+      "name": "영월 청령포 (寧越 淸泠浦) (Cheongnyeongpo Meandering Stream, Yeongwol)",
+      "location": "강원 영월군 남면 광천리 산67-1번지 등",
+      "manager": "강원 영월군수",
+      "designated": "2008년 12월 26일 지정"
+    },
+    {
+      "number": "51호",
+      "name": "예천 초간정 원림 (醴泉 草澗亭 園林) (Choganjeong Garden, Yecheon)",
+      "location": "경북 예천군 용문면 죽림리 350번지 등",
+      "manager": "경북 예천군수",
+      "designated": "2008년 12월 26일 지정"
+    },
+    {
+      "number": "52호",
+      "name": "구미 채미정 (龜尾 採薇亭) (Chaemijeong Pavilion, Gumi)",
+      "location": "경북 구미시 남통동 249번지 등",
+      "manager": "경북 구미시장",
+      "designated": "2008년 12월 26일 지정"
+    },
+    {
+      "number": "53호",
+      "name": "거창 수승대 (居昌 搜勝臺) (Suseungdae Rock, Geochang)",
+      "location": "경남 거창군 위천면 황산리 890번지 일원",
+      "manager": "경남 거창군수",
+      "designated": "2008년 12월 26일 지정"
+    },
+    {
+      "number": "54호",
+      "name": "고창 선운산 도솔계곡 일원 (高敞 禪雲山 兜率溪谷 一圓) (Dosolgyegok Valley and Surroundings in Seonunsan Mountain, Gochang)",
+      "location": "전북 고창군 아산면 도솔길 294, 등 (삼인리)",
+      "manager": "전북 고창군수",
+      "designated": "2009년 9월 18일 지정"
+    },
+    {
+      "number": "55호",
+      "name": "무주 구천동 일사대 일원 (茂朱 九千洞 一士臺 一圓) (Ilsadae Precipice and Surroundings in Gucheon-dong, Muju)",
+      "location": "전북 무주군 설천면 구천동로 1868-30, 등 (두길리)",
+      "manager": "무주군수",
+      "designated": "2009년 9월 18일 지정"
+    },
+    {
+      "number": "56호",
+      "name": "무주 구천동 파회·수심대 일원 (茂朱 九千洞 巴洄·水心臺 一圓) (Pahoe Whirlpool and Susimdae Precipice in Gucheondong, Muju)",
+      "location": "전북 무주군 설천면 심곡리 산13-2번지 등",
+      "manager": "무주군수",
+      "designated": "2009년 9월 18일 지정"
+    },
+    {
+      "number": "57호",
+      "name": "담양 식영정 일원 (潭陽 息影亭 一圓) (Sigyeongjeong Pavilion and Surroundings, Damyang)",
+      "location": "전남 담양군 남면 가사문학로 859, 등 (지곡리)",
+      "manager": "전남 담양군수",
+      "designated": "2009년 9월 18일 지정"
+    },
+    {
+      "number": "58호",
+      "name": "담양 명옥헌 원림 (潭陽 鳴玉軒 苑林) (Myeongokheon Garden, Damyang)",
+      "location": "전남 담양군 고서면 후산길 103, 등 (산덕리)",
+      "manager": "담양군수",
+      "designated": "2009년 9월 18일 지정"
+    },
+    {
+      "number": "59호",
+      "name": "해남 달마산 미황사 일원 (海南 達摩山 美黃寺 一圓) (Mihwangsa Temple and Surroundings in Dalmasan Mountain, Haenam)",
+      "location": "전남 해남군 송지면 서정리 247 등",
+      "manager": "해남군수",
+      "designated": "2009년 9월 18일 지정"
+    },
+    {
+      "number": "60호",
+      "name": "봉화 청암정과 석천계곡 (奉化 靑巖亭과 石泉溪谷) (Cheongamjeong Pavilion and Seokcheongyegok Valley, Bonghwa)",
+      "location": "경북 봉화군 봉화읍 유곡리 산131번지 등",
+      "manager": "경북 봉화군수",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "61호",
+      "name": "속리산 법주사 일원 (俗離山 法住寺 一圓) (Beopjusa Temple and Surroundings in Songnisan Mountain)",
+      "location": "충북 보은군 속리산면 사내리 산1-1번지 등",
+      "manager": "보은군수, 대한불교조계종 법주사",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "62호",
+      "name": "가야산 해인사 일원 (伽倻山 海印寺 一圓) (Haeinsa Temple and Surroundings in Gayasan Mountain)",
+      "location": "경남 합천군 가야면 치인리 산 1-1번지 등",
+      "manager": "합천군수, 대한불교조계종 해인사",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "63호",
+      "name": "부여 구드래 일원 (扶餘 구드래 一圓) (Gudeurae Ferry and Surroundings, Buyeo)",
+      "location": "충남 부여군 부여읍 쌍북리 산1번지 등",
+      "manager": "부여군수",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "64호",
+      "name": "지리산 화엄사 일원 (智異山 華嚴寺 一圓) (Hwaeomsa Temple and Surroundings in Jirisan Mountain)",
+      "location": "전남 구례군 마산면 화엄사로 539, 등 (황전리)",
+      "manager": "구례군수, 대한불교조계종 화엄사",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "65호",
+      "name": "조계산 송광사 · 선암사 일원 (曹溪山 松廣寺·仙岩寺 一圓) (Songgwangsa and Seonamsa Temples in Jogyesan Mountain)",
+      "location": "전남 순천시 승주읍 죽학리 산48번지, 송광면 산평리 1번지 등",
+      "manager": "순천시장, 대한불교조계종 송광사",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "66호",
+      "name": "두륜산 대흥사 일원 (頭輪山 大興寺 一圓) (Daeheungsa Temple and Surroundings in Duryunsan Mountain)",
+      "location": "전남 해남군 삼산면 구림리 산8-1번지 등",
+      "manager": "해남군수, 대한불교조계종 대흥사",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "67호",
+      "name": "서울 백악산 일원 (서울 白岳山 一圓) (Baegaksan Mountain, Seoul)",
+      "location": "서울 종로구 청운동 산2-27, 성북구 성북동 산87-1번지 등",
+      "manager": "서울특별시장",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "68호",
+      "name": "양양 하조대 (襄陽 河趙臺) (Hajodae Rock Beach, Yangyang)",
+      "location": "강원 양양군 현북면 조준길 99, 일원 (하광정리)",
+      "manager": "양양군수",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "69호",
+      "name": "안면도 꽃지 할미 할아비 바위 (安眠島 꽃지 할미 할아비 바위) (Halmibawi and Harabibawi Rocks at Kkotji Beach, Anmyeondo Island)",
+      "location": "충남 태안군 안면읍 승언리 산27번지 등",
+      "manager": "태안군수",
+      "designated": "2009년 12월 9일 지정"
+    },
+    {
+      "number": "70호",
+      "name": "춘천 청평사 고려선원 (春川 淸平寺 高麗禪園) (Goryeoseonwon Buddhist Garden of Cheongpyeongsa Temple, Chuncheon)",
+      "location": "강원 춘천시 북산면 청평리 산189-2번지 등",
+      "manager": "대한불교조계종 청평사",
+      "designated": "2010년 2월 5일 지정"
+    },
+    {
+      "number": "71호",
+      "name": "남해 지족해협 죽방렴 (南海 只族海峽 竹防簾) (Jukbangnyeom Fishing Facility at Jijok Strait, Namhae)",
+      "location": "경남 남해군 창선면 지족해협 일원",
+      "manager": "남해군수",
+      "designated": "2010년 8월 18일 지정"
+    },
+    {
+      "number": "72호",
+      "name": "지리산 한신계곡 일원 (智異山 韓信溪谷 一圓) (Hansingyegok Valley and Surroundings in Jirisan Mountain)",
+      "location": "경남 함양군 마천면 강창리 산100번지",
+      "manager": "함양군수",
+      "designated": "2010년 8월 18일 지정"
+    },
+    {
+      "number": "73호",
+      "name": "태백 검룡소 (太白 儉龍沼) (Geomnyongso Spring, Taebaek)",
+      "location": "강원 태백시 창죽동 산1-1번지 등",
+      "manager": "태백시장",
+      "designated": "2010년 8월 18일 지정"
+    },
+    {
+      "number": "74호",
+      "name": "대관령 옛길 (大關嶺 옛길) (Old Path of Daegwallyeong Pass)",
+      "location": "강원 강릉시 성산면 삼포암길 133, 등 (어흘리)",
+      "manager": "강릉시장",
+      "designated": "2010년 11월 15일 지정"
+    },
+    {
+      "number": "75호",
+      "name": "영월 한반도 지형 (寧越 韓半島 地形) (Miniature Shape of the Korean Peninsula, Yeongwol)",
+      "location": "강원 영월군 한반도면 옹정리 180번지 일원",
+      "manager": "영월군수",
+      "designated": "2011년 6월 10일 지정"
+    },
+    {
+      "number": "76호",
+      "name": "영월 선돌 (寧越 선돌) (Seondol Rock Pillar, Yeongwol)",
+      "location": "강원 영월군 영월읍 하송로 64 (하송리)",
+      "manager": "영월군수",
+      "designated": "2011년 6월 10일 지정"
+    },
+    {
+      "number": "77호",
+      "name": "제주 서귀포 산방산 (濟州 西歸浦 山房山) (Sanbangsan Mountain in Seogwipo, Jeju)",
+      "location": "제주 서귀포시 안덕면 사계리 산16번지 일원",
+      "manager": "제주 서귀포시장",
+      "designated": "2011년 6월 30일 지정"
+    },
+    {
+      "number": "78호",
+      "name": "제주 서귀포 쇠소깍 (濟州 西歸浦 쇠沼깍) (Soesokkak River Pool in Seogwipo, Jeju)",
+      "location": "제주 서귀포시 쇠소깍로 128, 일원 (하효동)",
+      "manager": "제주 서귀포시장",
+      "designated": "2011년 6월 30일 지정"
+    },
+    {
+      "number": "79호",
+      "name": "제주 서귀포 외돌개 (濟州 西歸浦 외돌개) (Oedolgae Sea Stack in Seogwipo, Jeju)",
+      "location": "제주 서귀포시 서흥동 791번지 일원",
+      "manager": "제주 서귀포시장",
+      "designated": "2011년 6월 30일 지정"
+    },
+    {
+      "number": "80호",
+      "name": "진도 운림산방 (珍島 雲林山房) (Ullimsanbang Villa and Garden, Jindo)",
+      "location": "전남 진도군 의신면 운림산방로 315, 등 (사천리)",
+      "manager": "전남 진도군수",
+      "designated": "2011년 8월 8일 지정"
+    },
+    {
+      "number": "81호",
+      "name": "포항 용계정과 덕동숲 (浦項 龍溪亭과 德洞숲) (Yonggyejeong Pavilion and Deokdongsup Grove, Pohang)",
+      "location": "경북 포항시 북구 기북면 덕동문화길 26, 등 (오덕리)",
+      "manager": "경북 포항시장",
+      "designated": "2011년 8월 8일 지정"
+    },
+    {
+      "number": "82호",
+      "name": "안동 만휴정 원림 (安東 晩休亭 園林) (Manhyujeong Garden, Andong)",
+      "location": "경북 안동시 길안면 묵계리 1081번지 등",
+      "manager": "경북 안동시장",
+      "designated": "2011년 8월 8일 지정"
+    },
+    {
+      "number": "83호",
+      "name": "사라오름 (沙羅오름) (Saraoreum Volcanic Cone)",
+      "location": "제주 서귀포시 남원읍 신례리 산2-1번지",
+      "manager": "제주특별자치도지사",
+      "designated": "2011년 10월 13일 지정"
+    },
+    {
+      "number": "84호",
+      "name": "영실기암과 오백나한 (靈室奇岩과 五百羅漢) (Yeongsilgiam Cliff and Obaengnahan Rock Pillars)",
+      "location": "제주 서귀포시 하원동 산1-4번지, 도순동 산1-1번지 일원",
+      "manager": "제주특별자치도지사",
+      "designated": "2011년 10월 13일 지정"
+    },
+    {
+      "number": "85호",
+      "name": "함양 심진동 용추폭포 (咸陽 尋眞洞 龍湫瀑布) (Yongchupokpo Falls in Simjin-dong, Hamyang)",
+      "location": "경남 함양군 안의면 상원리 산16-4번지 등",
+      "manager": "경남 함양군수",
+      "designated": "2012년 2월 8일 지정"
+    },
+    {
+      "number": "86호",
+      "name": "함양 화림동 거연정 일원 (咸陽 花林洞 居然亭 一圓) (Geoyeonjeong Pavilion and Surroundings in Hwarimdong, Hamyang)",
+      "location": "경남 함양군 서하면 봉정리 877번지 등",
+      "manager": "경남 함양군수",
+      "designated": "2012년 2월 8일 지정"
+    },
+    {
+      "number": "87호",
+      "name": "밀양 월연대 일원 (密陽 月淵臺 一圓) (Woryeondae Pavilion and Surroundings, Miryang)",
+      "location": "경남 밀양시 용평동 2-1번지 등",
+      "manager": "경남 밀양시장",
+      "designated": "2012년 2월 8일 지정"
+    },
+    {
+      "number": "88호",
+      "name": "거창 용암정 일원 (居昌 龍岩亭 一圓) (Yongamjeong Pavilion and Surroundings, Geochang)",
+      "location": "경남 거창군 북상면 농산리 63번지 일원",
+      "manager": "경남 거창군수",
+      "designated": "2012년 4월 10일 지정"
+    },
+    {
+      "number": "89호",
+      "name": "화순 임대정 원림 (和順 臨對亭 園林) (Imdaejeong Garden, Hwasun)",
+      "location": "전남 화순군 남면 사평리 601번지 일원",
+      "manager": "전남 화순군수",
+      "designated": "2012년 4월 10일 지정"
+    },
+    {
+      "number": "90호",
+      "name": "한라산 백록담 (漢拏山 白鹿潭) (Baengnokdam Crater Lake on Hallasan Mountain)",
+      "location": "제주 서귀포시 토평동 산15-1",
+      "manager": "제주특별자치도지사",
+      "designated": "2012년 11월 23일 지정"
+    },
+    {
+      "number": "91호",
+      "name": "한라산 선작지왓 (漢拏山 선작지왓) (Seonjakjiwat Plain on Hallasan Mountain)",
+      "location": "제주 서귀포시 영남동 산1-1번지 일원",
+      "manager": "제주특별자치도지사",
+      "designated": "2012년 12월 17일 지정"
+    },
+    {
+      "number": "92호",
+      "name": "제주 방선문 (濟州 訪仙門) (Bangseonmun Natural Arch, Jeju)",
+      "location": "제주 제주시 오등동 1907번지, 오라2동 3819-11",
+      "manager": "제주시",
+      "designated": "2013년 1월 4일 지정"
+    },
+    {
+      "number": "93호",
+      "name": "포천 화적연 (抱川 禾積淵) (Hwajeogyeon Pool, Pocheon)",
+      "location": "경기 포천시 영북면 자일리 산115번지 등",
+      "manager": "포천시",
+      "designated": "2013년 1월 4일 지정"
+    },
+    {
+      "number": "94호",
+      "name": "포천 한탄강 멍우리 협곡 (抱川 漢灘江 멍우리 峽谷) (Meonguri Gorge of Hantangang River, Pocheon)",
+      "location": "경기 포천시 관인면 사정리 산574-1번지 등",
+      "manager": "포천시",
+      "designated": "2013년 2월 6일 지정"
+    },
+    {
+      "number": "95호",
+      "name": "설악산 비룡폭포 계곡 일원 (雪嶽山 飛龍瀑布 溪谷 一圓) (Biryongpokpo Falls and Surroundings in Seoraksan Mountain)",
+      "location": "강원 속초시 설악동 산41",
+      "manager": "속초시",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "96호",
+      "name": "설악산 토왕성폭포 (雪嶽山 土王城瀑布) (Towangseongpokpo Falls in Seoraksan Mountain)",
+      "location": "강원 속초시 설악동 산41",
+      "manager": "속초시",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "97호",
+      "name": "설악산 대승폭포 (雪嶽山 大乘瀑布) (Daeseungpokpo Falls in Seoraksan Mountain)",
+      "location": "강원 인제군 북면 한계리 산1-67",
+      "manager": "인제군",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "98호",
+      "name": "설악산 십이선녀탕 일원 (雪嶽山 十二仙女湯 一圓) (Sibiseonnyeotang Potholes and Surroundings in Seoraksan Mountain)",
+      "location": "강원 인제군 북면 남교리 산12-21",
+      "manager": "인제군",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "99호",
+      "name": "설악산 수렴동·구곡담 계곡 일원 (雪嶽山 水簾洞·九曲潭 溪谷 一圓) (Suryeomdonggyegok and Gugokdamgyegok Valleys in Seoraksan Mountain)",
+      "location": "강원 인제군 북면 용대리 산12-21",
+      "manager": "인제군",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "100호",
+      "name": "설악산 울산바위 (雪嶽山 蔚山바위) (Ulsanbawi Rock in Seoraksan Mountain)",
+      "location": "강원 속초시 설악동 / 강원 고성군 토성면 원암리 산40-0 / 산1-2",
+      "manager": "대한불교조계종 신흥사 외",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "101호",
+      "name": "설악산 비선대와 천불동계곡 일원 (雪嶽山飛仙臺와千佛洞溪谷一圓) (Biseondae Flat Rock and Cheonbuldonggyegok Valley in Seoraksan Mountain)",
+      "location": "강원 속초시 설악동 산41",
+      "manager": "속초시",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "102호",
+      "name": "설악산 용아장성 (雪嶽山 龍牙長城) (Yongajangseong Ridge in Seoraksan Mountain)",
+      "location": "강원 인제군 북면 용대리 산12-21",
+      "manager": "인제군",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "103호",
+      "name": "설악산 공룡능선 (雪嶽山 恐龍稜線) (Gongnyong Ridge in Seoraksan Mountain)",
+      "location": "강원 일원",
+      "manager": "강원도",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "104호",
+      "name": "설악산 내설악 만경대 (雪嶽山 內雪嶽 萬景臺) (Mangyeongdae Cliff in Seoraksan Mountain)",
+      "location": "강원 인제군 북면 용대리 산12-21, 산75",
+      "manager": "인제군",
+      "designated": "2013년 3월 11일 지정"
+    },
+    {
+      "number": "105호",
+      "name": "청송 주산지 일원 (靑松 注山池 一圓) (Jusanji Reservoir and Surroundings in Cheongsong)",
+      "location": "경북 청송군 주왕산면 이전리 산41-1 등 9필지",
+      "manager": "청송군",
+      "designated": "2013년 3월 21일 지정"
+    },
+    {
+      "number": "106호",
+      "name": "강릉 용연계곡 일원 (江陵 龍淵溪谷 一圓) (Yongyeongyegok Valley and Surroundings, Gangneung)",
+      "location": "강원 강릉시 사천면 사기막리 산1번지 일원",
+      "manager": "강릉시",
+      "designated": "2013년 3월 21일 지정"
+    },
+    {
+      "number": "107호",
+      "name": "광주 환벽당 일원 (光州 環碧堂 一圓) (Hwanbyeokdang Pavilion and Surroundings, Gwangju)",
+      "location": "광주 북구 충효동 387번지 18필지 일원",
+      "manager": "광주광역시 북구청",
+      "designated": "2013년 11월 6일 지정"
+    },
+    {
+      "number": "108호",
+      "name": "강릉 경포대 와 경포호 (江陵 鏡浦臺와 鏡浦湖) (Gyeongpodae Pavilion and Gyeongpoho Lagoon, Gangneung)",
+      "location": "강원 강릉시 저동 94번지 일원",
+      "manager": "강원도 강릉시",
+      "designated": "2013년 12월 30일 지정"
+    },
+    {
+      "number": "109호",
+      "name": "남양주 운길산 수종사 일원 (南楊州 雲吉山 水鍾寺 一圓) (Sujongsa Temple in Ungilsan Mountain, Namyangju)",
+      "location": "경기 남양주시 송촌리·시우리·진중리 일원",
+      "manager": "남양주시",
+      "designated": "2014년 3월 12일 지정"
+    },
+    {
+      "number": "110호",
+      "name": "괴산 화양구곡 (槐山 華陽九曲)",
+      "location": "충북 괴산군 청천면 화양리 456",
+      "manager": "괴산군",
+      "designated": "2014년 8월 28일 지정"
+    },
+    {
+      "number": "111호",
+      "name": "구례 오산 사성암 일원 (求禮 鼇山 四聖庵 一圓)",
+      "location": "전남 구례군 문척면 월전리 189",
+      "manager": "구례군",
+      "designated": "2014년 8월 28일 지정"
+    },
+    {
+      "number": "112호",
+      "name": "화순 적벽 (和順 赤壁) (Hwasun Jeokbyeok)",
+      "location": "전남 화순군 이서면 장학리 산14번지 등",
+      "manager": "화순군",
+      "designated": "2017년 2월 9일 지정"
+    },
+    {
+      "number": "113호",
+      "name": "군산 선유도 망주봉 일원 (群山 仙遊島 望主峰 一圓) (MangJubong Peak and Surroundings in Seonyudo Island, Gunsan)",
+      "location": "전북 군산시 옥도면 선유도리 산23-1 등",
+      "manager": "군산시",
+      "designated": "2018년 2월 5일 지정 예고, 2018년 6월 4일 지정"
+    },
+    {
+      "number": "114호",
+      "name": "무등산 규봉 주상절리와 지공너덜 (無等山 圭峯 柱狀節理와 指空너덜) (Gyubong Columnar Joint and Jigong Block Stream in Mudeungsan Mountain)",
+      "location": "전남 화순군 이서면 영평리 산88-1 일원",
+      "manager": "화순군",
+      "designated": "2018년 12월 20일 지정"
+    },
+    {
+      "number": "115호",
+      "name": "강진 백운동 원림 (康津 白雲洞 園林) (Baegundong garden in Gangjin)",
+      "location": "전남 강진군 성전면 월하리 546번지 일원",
+      "manager": "강진군",
+      "designated": "2019년 3월 11일 지정"
+    },
+    {
+      "number": "116호",
+      "name": "부안 직소폭포 일원 (扶安 直沼瀑布 一圓) (Jikso falls and surroundings, Buan)",
+      "location": "전북 부안군 변산면 중계리 산95-1 등",
+      "manager": "부안군",
+      "designated": "2020년 4월 20일 지정"
+    },
+    {
+      "number": "117호",
+      "name": "신안 가거도 섬등반도 (新安 可居島 섬등半島)",
+      "location": "전라남도 신안군 가거도길 585-39 (흑산면)",
+      "manager": "-",
+      "designated": "2020년 9월 2일 지정"
+    },
+    {
+      "number": "118호",
+      "name": "서울 성북동 별서 (서울 城北洞 別墅)",
+      "location": "서울특별시 성북구",
+      "manager": "성북구",
+      "designated": "2020년 9월 2일 지정"
+    },
+    {
+      "number": "119호",
+      "name": "장흥 천관산 (長興 天冠山)",
+      "location": "전라남도 장흥군",
+      "manager": "",
+      "designated": "2021년 3월 8일 지정"
+    },
+    {
+      "number": "120호",
+      "name": "울주 반구천 일원 (蔚州 盤龜川 一圓)",
+      "location": "울산광역시 울주군",
+      "manager": "",
+      "designated": "2021년 5월 4일 지정"
+    },
+    {
+      "number": "121호",
+      "name": "고흥 지죽도 금강죽봉 (高興 支竹島 金剛竹峯)",
+      "location": "전라남도 고흥군",
+      "manager": "",
+      "designated": "2021년 6월 9일 지정"
+    },
+    {
+      "number": "122호",
+      "name": "완주 위봉폭포 일원 (完州 威鳳瀑布 一圓)",
+      "location": "전라북도 완주군",
+      "manager": "",
+      "designated": "2021년 6월 9일 지정"
+    },
+    {
+      "number": "123호",
+      "name": "부안 우금바위 일원 (扶安 禹金바위 一圓)",
+      "location": "전라북도 부안군",
+      "manager": "",
+      "designated": "2021년 6월 9일 지정"
+    },
+    {
+      "number": "124호",
+      "name": "칠곡 가산바위 (漆谷 架巖)",
+      "location": "경상북도 칠곡군",
+      "manager": "",
+      "designated": "2021년 9월 9일 지정"
+    },
+    {
+      "number": "-",
+      "name": "포항 보경사 내연산 폭포 (浦項 寶鏡寺 內延山 瀑布)",
+      "location": "경상북도 포항시",
+      "manager": "",
+      "designated": "2021년 12월 3일 지정"
+    },
+    {
+      "number": "-",
+      "name": "고창 병바위 일원 (高敞 壺巖 一圓)",
+      "location": "전라북도 고창군",
+      "manager": "",
+      "designated": "2021년 12월 7일 지정"
+    },
+    {
+      "number": "-",
+      "name": "삼남대로 갈재 (三南大路 葛岾)",
+      "location": "전라남도 장성군",
+      "manager": "",
+      "designated": "2021년 12월 8일 지정"
+    },
+    {
+      "number": "-",
+      "name": "삼남대로 누릿재 (三南大路 누릿岾)",
+      "location": "전라남도 강진군",
+      "manager": "",
+      "designated": "2021년 12월 8일 지정"
+    },
+    {
+      "number": "-",
+      "name": "백운산 칠족령 (白雲山 漆足嶺)",
+      "location": "강원도 평창군",
+      "manager": "",
+      "designated": "2021년 12월 8일 지정"
+    },
+    {
+      "number": "-",
+      "name": "창녕 남지 개비리 (昌寧 南旨 개비리)",
+      "location": "경상남도 창녕군",
+      "manager": "",
+      "designated": "2021년 12월 8일 지정"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 명승 목록 - Free Download",
+    "description": "국가지정문화유산 명승의 지정번호, 명칭(한자·영문 병기), 소재지, 관리자 및 지정일 목록. Contains 130 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 명승 목록 | ListBase",
+    "seo_description": "Download 대한민국의 명승 목록 — 130 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 130 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_명승_(2010년대)"
+    ]
+  }
+}

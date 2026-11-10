@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-09T02:33:38.390Z",
-  "total_datasets": 569,
-  "total_records": 457549,
+  "generated": "2026-11-10T02:30:30.938Z",
+  "total_datasets": 570,
+  "total_records": 457679,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "transport",
@@ -13918,6 +13918,32 @@
         "xlsx": {
           "name": "ko-daegu-visitkorea_KO.xlsx",
           "size": 30647
+        }
+      }
+    },
+    {
+      "id": "ko-daehanminguk-myeongseung",
+      "name": "대한민국의 명승 목록",
+      "category": "tourism",
+      "record_count": 130,
+      "columns": [
+        "number",
+        "name",
+        "location",
+        "manager",
+        "designated"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_명승_(2010년대)",
+      "updated": "2026-11",
+      "size": 40960,
+      "files": {
+        "csv": {
+          "name": "ko-daehanminguk-myeongseung_KO.csv",
+          "size": 26083
+        },
+        "xlsx": {
+          "name": "ko-daehanminguk-myeongseung_KO.xlsx",
+          "size": 19263
         }
       }
     },
