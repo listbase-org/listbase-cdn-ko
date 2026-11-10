@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-10T02:30:48.384Z",
-  "total_datasets": 572,
-  "total_records": 459004,
+  "generated": "2026-11-10T02:37:14.627Z",
+  "total_datasets": 573,
+  "total_records": 459036,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "tourism",
@@ -13720,6 +13720,31 @@
         "xlsx": {
           "name": "ko-jeongbu-beopjeong-ginyeomil_KO.xlsx",
           "size": 12355
+        }
+      }
+    },
+    {
+      "id": "ko-pyeji-ginyeomil",
+      "name": "대한민국의 폐지·통합된 기념일",
+      "category": "time",
+      "record_count": 32,
+      "columns": [
+        "name",
+        "date",
+        "ministry",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_기념일",
+      "updated": "2026-11",
+      "size": 7264,
+      "files": {
+        "csv": {
+          "name": "ko-pyeji-ginyeomil_KO.csv",
+          "size": 3199
+        },
+        "xlsx": {
+          "name": "ko-pyeji-ginyeomil_KO.xlsx",
+          "size": 8217
         }
       }
     },
