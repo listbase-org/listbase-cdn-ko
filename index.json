@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-10T02:30:39.550Z",
-  "total_datasets": 571,
-  "total_records": 458281,
+  "generated": "2026-11-10T02:30:48.384Z",
+  "total_datasets": 572,
+  "total_records": 459004,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "geography",
@@ -4006,6 +4006,33 @@
         "xlsx": {
           "name": "ko-michelin-restaurant_KO.xlsx",
           "size": 81958
+        }
+      }
+    },
+    {
+      "id": "ko-sul-alkol-dosu",
+      "name": "한국 술 알코올 도수 목록",
+      "category": "food",
+      "record_count": 723,
+      "columns": [
+        "name",
+        "company",
+        "abv",
+        "abv_unit",
+        "volume",
+        "volume_unit"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/술별_알코올_도수_함량_목록",
+      "updated": "2026-11",
+      "size": 129187,
+      "files": {
+        "csv": {
+          "name": "ko-sul-alkol-dosu_KO.csv",
+          "size": 44350
+        },
+        "xlsx": {
+          "name": "ko-sul-alkol-dosu_KO.xlsx",
+          "size": 33751
         }
       }
     },

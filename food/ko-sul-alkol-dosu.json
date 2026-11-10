@@ -1,0 +1,5840 @@
+{
+  "id": "ko-sul-alkol-dosu",
+  "name": "한국 술 알코올 도수 목록",
+  "title": "한국 술 알코올 도수 목록",
+  "description": "국내 양조장·주류업체에서 생산하는 막걸리, 약주, 소주, 과실주 등 술 이름별 제조사와 알코올 도수 목록.",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/술별_알코올_도수_함량_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/술별_알코올_도수_함량_목록",
+  "updated": "2026-11",
+  "record_count": 723,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "abv",
+      "label": "Abv",
+      "type": "number"
+    },
+    {
+      "key": "abv_unit",
+      "label": "Abv Unit",
+      "type": "string"
+    },
+    {
+      "key": "volume",
+      "label": "Volume",
+      "type": "string"
+    },
+    {
+      "key": "volume_unit",
+      "label": "Volume Unit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "금정산성막걸리",
+      "company": "(유)금정산성토산주 본점",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "해그라빠",
+      "company": "(유한)경주체리와인",
+      "abv": 43,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "톡한잔소주",
+      "company": "(유한)대마주조",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "풍정사계 동",
+      "company": "(유한)화양",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "감홍로",
+      "company": "(주)감홍로",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가브리엘",
+      "company": "(주)국순당",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "국순당막걸리 우국생",
+      "company": "(주)국순당",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이십도",
+      "company": "(주)국순당",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가평쌀막걸리",
+      "company": "(주)농업회사법인 가평양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가평잣막걸리",
+      "company": "(주)농업회사법인 가평양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생막걸리곤드레정선명주",
+      "company": "(주)농업회사법인 정선명주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "전가네사십오도",
+      "company": "(주)농업회사법인술빚는전가네",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "부산동백생막걸리",
+      "company": "(주)동백양조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "느린마을복분자과실주",
+      "company": "(주)배상면주가",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오매락",
+      "company": "(주)배상면주가",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "배도가로아19퍼플",
+      "company": "(주)배혜정농업회사법인",
+      "abv": 19,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "배도가바리스타",
+      "company": "(주)배혜정농업회사법인",
+      "abv": 16.9,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "(주)백제명가주조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "안동소주 올소",
+      "company": "(주)버버리찰떡",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "비노페스티바로제",
+      "company": "(주)비노케슬",
+      "abv": 12.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산양산삼주",
+      "company": "(주)산초당",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "삼해포",
+      "company": "(주)삼해소주",
+      "abv": 50,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "서울생막걸리",
+      "company": "(주)서울생주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "서울생살균막걸리",
+      "company": "(주)서울생주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "순옥",
+      "company": "(주)성광주조",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미르54",
+      "company": "(주)술샘",
+      "abv": 54,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "곗돈",
+      "company": "(주)술아원",
+      "abv": 24,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "신례명주",
+      "company": "(주)시트러스",
+      "abv": 50,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "더일품",
+      "company": "(주)알에프",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "해방주",
+      "company": "(주)영덕주조",
+      "abv": 18.8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "군위이강주",
+      "company": "(주)예주",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "여여주",
+      "company": "(주)예주",
+      "abv": 35,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "디엠진",
+      "company": "(주)예진",
+      "abv": 38,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가평잣생막걸리",
+      "company": "(주)우리술",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "대통주",
+      "company": "(주)우리술",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "문경바람",
+      "company": "(주)제이엘",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "푸른밤 긴밤",
+      "company": "(주)제주소주",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "푸른밤 짧은밤",
+      "company": "(주)제주소주",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "시원한청풍 담금주",
+      "company": "(주)충북소주",
+      "abv": 35,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진심홍삼주",
+      "company": "(주)태평주가",
+      "abv": 19,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "녹고의눈물",
+      "company": "(주)토향",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백년초주",
+      "company": "(주)토향",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "더찾을수록애플",
+      "company": "(주)한국애플리즈",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화요17",
+      "company": "(주)화요",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "회곡동동주",
+      "company": "(주)회곡양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "회곡밀막걸리",
+      "company": "(주)회곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "회곡생막걸리",
+      "company": "(주)회곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "회곡순막걸리",
+      "company": "(주)회곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "왕율주",
+      "company": "(합자)사곡양조원",
+      "abv": 33,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "원스위트",
+      "company": "AMS영동미래농업(주)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "두리향",
+      "company": "K소주",
+      "abv": 43,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "jj복분자",
+      "company": "K-소주",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "석탄주약주",
+      "company": "K-소주",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "YJ한산소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "풍악생막걸리",
+      "company": "가람주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아라리우리생탁주",
+      "company": "가야주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가조생막걸리",
+      "company": "가조양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가천쌀생동동주",
+      "company": "가천탁주합동양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가천쌀생막걸리",
+      "company": "가천탁주합동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "재즈아일랜드",
+      "company": "가평특선주영농조합",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "재즈아일랜드레드와인",
+      "company": "가평특선주영농조합",
+      "abv": 13.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "갈기산블루베리30",
+      "company": "갈기산포도농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "갈기산증류",
+      "company": "갈기산포도농원",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "갈숲한산양조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "감천생막걸리",
+      "company": "감천양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "민족강화생막걸리",
+      "company": "강화온수양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "쌀로 빚은 인삼막걸리",
+      "company": "강화온탁주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이화강화전통쌀막걸리",
+      "company": "강화탁주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "거류산생막걸리",
+      "company": "거류산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "거창막걸리",
+      "company": "거창인재술도가",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "경주법주",
+      "company": "경주법주",
+      "abv": 13,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "경주법주 쌀막걸리",
+      "company": "경주법주(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "경주법주쌀청포도",
+      "company": "경주법주(주)",
+      "abv": 4,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생경주막걸리",
+      "company": "경주전통술도가",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "계룡백일주",
+      "company": "계룡백일주",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고니골오디와인",
+      "company": "고니골농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고도리화이트와인",
+      "company": "고도리와이너리",
+      "abv": 10.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고령복분자주",
+      "company": "고령토종복분자영농조합",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고성생막걸리",
+      "company": "고성양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "배다리막걸리",
+      "company": "고양탁주합동제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고전생명주",
+      "company": "고전양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고창복분자주",
+      "company": "고창명산품복분자주영농조합법인",
+      "abv": 16.8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천보",
+      "company": "고창서해안복분자영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "복분자주",
+      "company": "고창서해안복분자주영농조합법인",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청정고창",
+      "company": "고창서해안복분자주영농조합법인",
+      "abv": 17.3,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백주",
+      "company": "고헌정영농조합법인",
+      "abv": 35,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사과먹은아침이슬",
+      "company": "고헌정영농조합법인",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "차례정종",
+      "company": "고헌정영농조합법인",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천등산박달재야관문",
+      "company": "고헌정영농조합법인",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스마일해피",
+      "company": "곡천농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "흥곡주",
+      "company": "골안골전통주",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "광도탁주",
+      "company": "광도양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "광주경안생막걸리",
+      "company": "광주탁주합동제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "구기옛날생쌀막걸리",
+      "company": "구기양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리랑대추막걸리",
+      "company": "구암농산",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "려40",
+      "company": "국순당여주명주(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "귀록",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "그랑꼬또",
+      "company": "그린영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금곡생막걸리",
+      "company": "금곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "New 맛있는 참",
+      "company": "금복주",
+      "abv": 16.7,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금복복분자",
+      "company": "금복주",
+      "abv": 15,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금복주",
+      "company": "금복주",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맛있는 참 오리지널",
+      "company": "금복주",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맛있는참 20.1",
+      "company": "금복주",
+      "abv": 20.1,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "순한참청포도",
+      "company": "금복주",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "엘리지앙",
+      "company": "금복주",
+      "abv": 10,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오크젠",
+      "company": "금복주",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참아일랜드 독도",
+      "company": "금복주",
+      "abv": 16.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금산생막걸리",
+      "company": "금산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진국",
+      "company": "금왕양조영농조합법인",
+      "abv": 18,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미르아토스위트",
+      "company": "금용농산",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금정산성생막걸리",
+      "company": "금정산성전통주",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "cave스토리",
+      "company": "금호포도영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "김천생막걸리",
+      "company": "김천탁주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "김포금쌀 생막걸리",
+      "company": "김포금쌀탁주영농조합",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "선호",
+      "company": "김포금쌀탁주영농조합",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "김포막걸리",
+      "company": "김포양조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "수로생탁주",
+      "company": "김해주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "까치락골레드",
+      "company": "까치락골와이너리",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "레드마운틴프리미엄",
+      "company": "나비골농협레드마운틴",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천지향담금술",
+      "company": "나비골농협레드마운틴",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진주남강생막걸리",
+      "company": "남강주조공사",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "남면생막걸리",
+      "company": "남면탁주합동",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "남지생막걸리",
+      "company": "남지공동탁주제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "쌀막걸리",
+      "company": "남천탁주제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "농부의 꿈",
+      "company": "남한산성소주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리쌀 참살이 생막걸리",
+      "company": "남한산성소주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참살이 꿀막걸리",
+      "company": "남한산성소주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참살이 생막걸리",
+      "company": "남한산성소주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "강주",
+      "company": "내국양조",
+      "abv": 50,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "능이주",
+      "company": "내국양조",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화주",
+      "company": "내국양조",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "부안참뽕주",
+      "company": "내변산",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "내장산복분자",
+      "company": "내장산복분자영농조합법인",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "너와머루와인",
+      "company": "너와마을영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "녹천주조장",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "향온주",
+      "company": "농가월령가",
+      "abv": 17.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리술오늘",
+      "company": "농업회사법인 (유)전주가양주",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "술시",
+      "company": "농업회사법인 (유)한옥마을양조장",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "풍정사계 춘",
+      "company": "농업회사법인 (유)화양",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "팔공산갓바위막걸리",
+      "company": "농업회사법인 (주)갓바위",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금장생막걸리",
+      "company": "농업회사법인 (주)담은",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "해",
+      "company": "농업회사법인 (주)별빛드리운못",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "감사",
+      "company": "농업회사법인 (주)술샘",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "자예랑-해방풍",
+      "company": "농업회사법인 (주)영덕주조",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "정막걸리",
+      "company": "농업회사법인 (주)영덕주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "행복한밤생막걸리",
+      "company": "농업회사법인 (주)예주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고백주",
+      "company": "농업회사법인 (주)화곡양조장",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "계룡산쌀동동주",
+      "company": "농업회사법인 공주반포주조(주)",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "꾸지뽕열매막걸리",
+      "company": "농업회사법인 꾸지팜(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "달홀주",
+      "company": "농업회사법인 달홀주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "늘봄",
+      "company": "농업회사법인 두루주식회사",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "애석",
+      "company": "농업회사법인 두루주식회사",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "삼양춘 약주 청",
+      "company": "농업회사법인 송도향 (유)",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "삼양춘 탁주",
+      "company": "농업회사법인 송도향 유한회사",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "양평생막걸리",
+      "company": "농업회사법인 술마루 주식회사",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "울금막걸리",
+      "company": "농업회사법인 시골할매(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "유자막걸리",
+      "company": "농업회사법인 시골할매(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "원지평생막걸리",
+      "company": "농업회사법인 우너지평양조(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "찹쌀생동동주",
+      "company": "농업회사법인 우리도가 주식회사",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맑은술청",
+      "company": "농업회사법인 유한회사 대마주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "휴동생막걸리",
+      "company": "농업회사법인 주식회사 명주가",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "해",
+      "company": "농업회사법인 주식회사 별빛드리운못",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "삼강주막생막걸리",
+      "company": "농업회사법인 주식회사 삼강주막(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청비성",
+      "company": "농업회사법인 주식회사 인산농장 죽림지점",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "예미주",
+      "company": "농업회사법인 주식회사 회곡양조장",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "술향",
+      "company": "농업회사법인 홍전통도가(주)",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "주몽",
+      "company": "농업회사법인(유)술소리",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아띠아토",
+      "company": "농업회사법인(유한)경주체리와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "톡한잔골드",
+      "company": "농업회사법인(유한)대마주조",
+      "abv": 43,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금산인삼주",
+      "company": "농업회사법인(주)금산인삼주",
+      "abv": 23,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "두레앙브랜디",
+      "company": "농업회사법인(주)두레양조",
+      "abv": 35,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "자생불로주",
+      "company": "농업회사법인(주)두레양조",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "두레앙와인",
+      "company": "농업회사법인(주)두레와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백운복분자",
+      "company": "농업회사법인(주)백운주가",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오늘밤 야관문",
+      "company": "농업회사법인(주)백제도가",
+      "abv": 12.7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "선운산복분자",
+      "company": "농업회사법인(주)선운산복분자주흥진",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "혼디주",
+      "company": "농업회사법인(주)시트러스",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "장수오미자주",
+      "company": "농업회사법인(주)알에프",
+      "abv": 16.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "상떼마루애플아이스와인",
+      "company": "농업회사법인(주)영주와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지니루즈",
+      "company": "농업회사법인(주)예진",
+      "abv": 12.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오미로제",
+      "company": "농업회사법인(주)제이엘",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "보랏빛머루",
+      "company": "농업회사법인(주)하이앙",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "뱅꼬레로제",
+      "company": "농업회사법인(주)한국와인",
+      "abv": 11.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "젤코바스페셜",
+      "company": "농업회사법인(주)홍원",
+      "abv": 11.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "담은복분자주",
+      "company": "농업회사법인(주)흥진담은",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "공주애오디",
+      "company": "농업회사법인(합자)사곡양조원",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "밤꽃향기",
+      "company": "농업회사법인(합자)사곡양조원",
+      "abv": 13.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진쾌남주",
+      "company": "농업회사법인(합자)사곡양조원",
+      "abv": 33,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고창선운산복분자주",
+      "company": "농업회사법인고은(유한)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "고창선운산땡큐복분자",
+      "company": "농업회사법인고창선운산(유한)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "명작복분자",
+      "company": "농업회사법인국순당고창명주(주)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "로컬랜드드라이",
+      "company": "농업회사법인로컬랜드(주)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "느린마을소주",
+      "company": "농업회사법인배상면주가고창LB(주)",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오매락25",
+      "company": "농업회사법인배상면주가고창LB(주)",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "자자연연복분자음",
+      "company": "농업회사법인배상면주가고창LB(주)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사과아락40",
+      "company": "농업회사법인배상면주가청송엘비(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "그라쥬17",
+      "company": "농업회사법인부안강산명주(주)",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "부안강산뽕주",
+      "company": "농업회사법인부안강산명주(주)",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아젤리아",
+      "company": "농업회사법인블루썸",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맑을수록",
+      "company": "농업회사법인산들벗(주)",
+      "abv": 16.8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "머루이야기",
+      "company": "농업회사법인산들벗(주)",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산해딸기드라이",
+      "company": "농업회사법인산딸기닷컴(주)",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산해딸기스위트",
+      "company": "농업회사법인산딸기닷컴(주)",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "바로산삼배양근주",
+      "company": "농업회사법인술마루(주)",
+      "abv": 16.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "추사애플와인",
+      "company": "농업회사법인예산사과와인(주)",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사과씨드르레돔",
+      "company": "농업회사법인작은알자스(주)충주지점",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "괴산세종찰옥수수전통주",
+      "company": "농업회사법인조은술(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "감그린레귤러",
+      "company": "농업회사법인청도감와인(주)",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "솔마루산머루와인",
+      "company": "농업회사법인청량와인(주)",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "인삼주한뿌리",
+      "company": "농업회사법인홍주코리아(주)",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "늘샘",
+      "company": "늘샘농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "둘레와인드라이",
+      "company": "늘푸른농원",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "얼음골쌀생막걸리",
+      "company": "능암양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "다랭이팜생막걸리",
+      "company": "다랭이팜 영농조합법인",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "단성생막걸리",
+      "company": "단성양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "클래식생막걸리",
+      "company": "단장양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "클래식청약주",
+      "company": "단장양조장",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이음주",
+      "company": "담을",
+      "abv": 38,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천년대추생막걸리",
+      "company": "대경양조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "불로생막걸리",
+      "company": "대구탁주합동제1공장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산양산삼가든통주",
+      "company": "대농바이오영농조합법인",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "퇴촌 토마토 생막걸리",
+      "company": "대농바이오영농조합법인",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "호담 남한산성 생막걸리",
+      "company": "대농바이오영농조합법인",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "호담 산양산삼 생막걸리",
+      "company": "대농바이오영농조합법인",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진도홍주",
+      "company": "대대로영농조합법인",
+      "abv": 38,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "놋그릇생막걸리",
+      "company": "대명전통주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "놋그릇옛날동동주",
+      "company": "대명전통주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "팔공산생막걸리",
+      "company": "대명전통주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "팔공산옛날동동주",
+      "company": "대명전통주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "담금시원",
+      "company": "대선주조",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "대선",
+      "company": "대선주조",
+      "abv": 16.9,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "시원",
+      "company": "대선주조",
+      "abv": 19,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "시원프리미엄",
+      "company": "대선주조",
+      "abv": 21,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "셀레온",
+      "company": "대윤가야곡주조(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "서울의밤",
+      "company": "더한",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지리산덕산생막걸리",
+      "company": "덕산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산머루주",
+      "company": "덕유양조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "남촌포도주레드",
+      "company": "덕천포도원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "위너와인",
+      "company": "덩굴농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "샤토미소애플",
+      "company": "도란원",
+      "abv": 9,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "법송탁주",
+      "company": "도산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "레드듀",
+      "company": "동강산머루영농조합법인",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "동곡막걸리",
+      "company": "동곡양조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "동네방네 금오산막걸리",
+      "company": "동네방네 봉곡동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "동네방네의정부막걸리",
+      "company": "동네방네민락동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "동자북마을영농조합법인",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "두견순곡동동주",
+      "company": "두견양조 (주)",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "두레박한산소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "메밀로",
+      "company": "두루(주)",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "용포53",
+      "company": "두루(주)",
+      "abv": 53,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "평강온달마늘주",
+      "company": "두승",
+      "abv": 16.2,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "임페리얼17",
+      "company": "드링크인터내셔널",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "임페리얼19",
+      "company": "드링크인터내셔널",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "임페리얼21",
+      "company": "드링크인터내셔널",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "임페리얼클래식",
+      "company": "드링크인터내셔널",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스미노프아이스그린애플",
+      "company": "디아지오코리아(주)",
+      "abv": 5.2,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "떡메소리소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "국향",
+      "company": "롯데칠성음료",
+      "abv": 13,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "리믹스스파클링 레몬",
+      "company": "롯데칠성음료",
+      "abv": 7,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "리믹스스파클링 베리믹스",
+      "company": "롯데칠성음료",
+      "abv": 7,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "리믹스스파클링 피치",
+      "company": "롯데칠성음료",
+      "abv": 7,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백화수복",
+      "company": "롯데칠성음료",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설중매",
+      "company": "롯데칠성음료",
+      "abv": 14,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설중매골드 플러스",
+      "company": "롯데칠성음료",
+      "abv": 14,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설중매스파클링",
+      "company": "롯데칠성음료",
+      "abv": 10,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설중매플러스",
+      "company": "롯데칠성음료",
+      "abv": 14,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설화",
+      "company": "롯데칠성음료",
+      "abv": 14,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "순하리 처음처럼",
+      "company": "롯데칠성음료",
+      "abv": 14,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 21년",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 30년",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 블랜디드몰트",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 스페셜",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 싱글몰트",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 인터내셔널",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스카치블루 포켓",
+      "company": "롯데칠성음료",
+      "abv": 40,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "처음처럼 담금소주",
+      "company": "롯데칠성음료",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "처음처럼 담금소주",
+      "company": "롯데칠성음료",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "처음처럼 담금소주",
+      "company": "롯데칠성음료",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 3600,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "처음처럼 담금소주",
+      "company": "롯데칠성음료",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 4000,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "처음처럼 담금소주",
+      "company": "롯데칠성음료",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 5000,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "처음처럼 담금소주",
+      "company": "롯데칠성음료",
+      "abv": 35,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "처음처럼 부드러운",
+      "company": "롯데칠성음료",
+      "abv": 19,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "처음처럼 순한",
+      "company": "롯데칠성음료",
+      "abv": 16.8,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "처음처럼 진한",
+      "company": "롯데칠성음료",
+      "abv": 20,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청하",
+      "company": "롯데칠성음료",
+      "abv": 13,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "클라우드",
+      "company": "롯데칠성음료",
+      "abv": 5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "피츠",
+      "company": "롯데칠성음료",
+      "abv": 4.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "경월훈와리유자",
+      "company": "롯데칠성음료(주)강릉공장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "감홍시와인",
+      "company": "림프루츠영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "마고와인베리스위트",
+      "company": "마고신명도가",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "어미실와인스위트",
+      "company": "마미농장와이너리",
+      "abv": 10.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지리산마천골생막걸리",
+      "company": "마천양조장",
+      "abv": 6.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "만나포도주",
+      "company": "만나포도원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영주생탁",
+      "company": "만수주조영농조합법인",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맛조은산서 약재주",
+      "company": "맛조은술민속명주가",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "비노만추드라이",
+      "company": "매곡유통",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이제우린",
+      "company": "맥키스컴퍼니",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": 200,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린",
+      "company": "맥키스컴퍼니",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린",
+      "company": "맥키스컴퍼니",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": 500,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린",
+      "company": "맥키스컴퍼니",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": 640,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린",
+      "company": "맥키스컴퍼니",
+      "abv": 20.2,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린 담금주",
+      "company": "맥키스컴퍼니",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린 담금주",
+      "company": "맥키스컴퍼니",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린 담금주",
+      "company": "맥키스컴퍼니",
+      "abv": 35,
+      "abv_unit": "%",
+      "volume": 1800,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린 담금주",
+      "company": "맥키스컴퍼니",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 3600,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "이제우린 담금주",
+      "company": "맥키스컴퍼니",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": 5000,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "명석생막걸리",
+      "company": "명석양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한시울",
+      "company": "명세주가(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "명인안동소주",
+      "company": "명인안동소주",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "명인안동소주",
+      "company": "명인안동소주",
+      "abv": 22,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "명품소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "명품소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천주산생막걸리",
+      "company": "무곡주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "정선5일장생황기막걸리",
+      "company": "무낼주조",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "정선수출동생쌀막걸리",
+      "company": "무낼주조",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "무릉생막걸리",
+      "company": "무릉양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "루시올뱅",
+      "company": "무주군산림조합산성와인사업부",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천설주",
+      "company": "무주천마생산자영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "딱!좋은데이",
+      "company": "무학",
+      "abv": 16.9,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "국화면 좋으리",
+      "company": "무학",
+      "abv": 12.5,
+      "abv_unit": "%",
+      "volume": 375,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "매실마을",
+      "company": "무학",
+      "abv": 12.5,
+      "abv_unit": "%",
+      "volume": 330,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이",
+      "company": "무학",
+      "abv": 16.9,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "좋은데이 1929",
+      "company": "무학",
+      "abv": 15.9,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 깔라만시",
+      "company": "무학",
+      "abv": 12.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 담금주",
+      "company": "무학",
+      "abv": 30,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "좋은데이 컬러시리즈 복숭아",
+      "company": "무학",
+      "abv": 13.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 컬러시리즈 블루베리",
+      "company": "무학",
+      "abv": 13.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 컬러시리즈 석류",
+      "company": "무학",
+      "abv": 13.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 컬러시리즈 유자",
+      "company": "무학",
+      "abv": 13.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 컬러시리즈 자몽",
+      "company": "무학",
+      "abv": 13.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "좋은데이 컬러시리즈 파인애플",
+      "company": "무학",
+      "abv": 13.5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "진짜 맛있는 국화",
+      "company": "무학",
+      "abv": 12,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "톡소다",
+      "company": "무학",
+      "abv": 5,
+      "abv_unit": "%",
+      "volume": 360,
+      "volume_unit": "mL"
+    },
+    {
+      "name": "화이트",
+      "company": "무학",
+      "abv": 19,
+      "abv_unit": "",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "만복오미자생탁배기",
+      "company": "문경새재양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "문희",
+      "company": "문경주조",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍승희문희주",
+      "company": "문경주조",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "문경호산춘",
+      "company": "문경호산춘",
+      "abv": 18,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "물금생막걸리",
+      "company": "물금주조(명)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미담생탁주",
+      "company": "미담주",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미담연엽주",
+      "company": "미담주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "석탄주",
+      "company": "미담주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "송화생탁주",
+      "company": "미담주",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "송화주",
+      "company": "미담주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "연엽생탁주",
+      "company": "미담주",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "키스레드",
+      "company": "믿소사농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "밀양생막걸리",
+      "company": "밀양양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "반달소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "애플린스위트",
+      "company": "반딧불사과와인영농조합",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "반성생막걸리",
+      "company": "반성양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "호랑이배꼽",
+      "company": "밝은세상녹색농촌체험마을영농조합법인",
+      "abv": 6.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "배둔공룡막걸리",
+      "company": "배둔양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "보리아락21",
+      "company": "배상면주가고창LB(주)",
+      "abv": 21,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백마산드라이",
+      "company": "백마산농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "백제금강소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천년의기",
+      "company": "백제명가영농조합법인",
+      "abv": 21,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청량주",
+      "company": "법전양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "씨엘별길레드",
+      "company": "별길와이너리",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "병곡생막걸리",
+      "company": "병곡합동양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "병영소주",
+      "company": "병영양조장",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "송로주",
+      "company": "보은송로",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "복받은부라더",
+      "company": "보해양조",
+      "abv": 12,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "잎새주",
+      "company": "보해양조",
+      "abv": 19,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "잎새주 브라더",
+      "company": "보해양조",
+      "abv": 17.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "마이산복분자주",
+      "company": "복분제국",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "마이산약주",
+      "company": "복분제국",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "쏠레일뱅",
+      "company": "복사꽃마을영농조합법인",
+      "abv": 12.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봇뜰막걸리",
+      "company": "봇뜰",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봇뜰탁주",
+      "company": "봇뜰",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봉양생막걸리",
+      "company": "봉양탁주합동",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봉화선주",
+      "company": "봉화선주",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봉화생막걸리",
+      "company": "봉화탁주합동",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "부곡생막걸리",
+      "company": "부곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생탁",
+      "company": "부산합동양조 연산제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생탁",
+      "company": "부산합동양조장림제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리쌀생탁",
+      "company": "부산합동양조장림제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "부안참뽕주",
+      "company": "부안주조장",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "북천생막걸리",
+      "company": "북천주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "시나브로드라이",
+      "company": "불휘농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "샤토비가",
+      "company": "비가원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "샤토비아드리",
+      "company": "비아들샤토영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "샤토비아들14",
+      "company": "비아들샤토영농조합법인",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산앤삼주",
+      "company": "비젼농업회사법인(유한)",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "불로구기주",
+      "company": "사곡양조원",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사임당더덕생동동주",
+      "company": "사임당",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사임당생막걸리",
+      "company": "사임당",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소백산산향기스위트와인",
+      "company": "산내들와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산동생막걸리",
+      "company": "산동탁주양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산들벗",
+      "company": "산들벗(주)",
+      "abv": 21,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산막와인 화몽",
+      "company": "산막와이너리",
+      "abv": 51,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "산샘소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산양생막걸리",
+      "company": "산양양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산청막걸리",
+      "company": "산청양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산청맑은술",
+      "company": "산청양조장",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "십전대보주",
+      "company": "산청전통주류제조장",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지리산복분자주",
+      "company": "산청전통주류제조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지리산생막걸리",
+      "company": "산청전통주류제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "삼봉표아리랑생막걸리",
+      "company": "삼봉표아리랑생막걸리",
+      "abv": 6.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참샘",
+      "company": "삼수양조",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백세산삼주",
+      "company": "삼주엘비",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "삼화양조장",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "삼화양조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "상동생탁주",
+      "company": "상동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "상리생탁배기",
+      "company": "상리양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "르보까쥬까멜리아",
+      "company": "상모영농조합법인",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "르보까쥬샤르망",
+      "company": "상모영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산너울와인",
+      "company": "상촌농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생초생막걸리",
+      "company": "생초양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "너브내로제",
+      "company": "샤또나드리",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "무주프리미엄스위트",
+      "company": "샤또무주",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "무아주",
+      "company": "서가원전통술",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "남해서상생막걸리",
+      "company": "서면제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "드슈파인애플",
+      "company": "서울장수(주)",
+      "abv": 4,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "장수생막걸리",
+      "company": "서울탁주도봉연합제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "석로주 순",
+      "company": "석이원 주조",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "석포탁주",
+      "company": "석포양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산매선운산복분자",
+      "company": "선운산복분자주흥진",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설악산더덕생동동주",
+      "company": "설악프로방스배꽃마을농업회사법인(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "속초생탁",
+      "company": "설악프로방스배꽃마을농업회사법인(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "솔향옥수수동동주",
+      "company": "설악프로방스배꽃마을농업회사법인(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아바이생막걸리",
+      "company": "설악프로방스배꽃마을농업회사법인(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진도성원홍주",
+      "company": "성원홍주",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "성주생막걸리",
+      "company": "성주탁주양조장",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "행운막걸리",
+      "company": "성포양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "세종주조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "솔솔생막걸리",
+      "company": "세천솔솔주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소계리595",
+      "company": "소계리와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소백산청동동주",
+      "company": "소백산술도가",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소백산오정주",
+      "company": "소백산오정주",
+      "abv": 35,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소백산오정주",
+      "company": "소백산오정주",
+      "abv": 24,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아침이슬 쌀막걸리",
+      "company": "소보양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소천장생탁주",
+      "company": "소천양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "골드윈",
+      "company": "솔래원",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맑은강원",
+      "company": "솔래원",
+      "abv": 19.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "맑은송이",
+      "company": "솔래원",
+      "abv": 19.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설궁",
+      "company": "솔래원",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "주랑게",
+      "company": "송우종명가",
+      "abv": 19.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "삼대송정 동동주",
+      "company": "송정양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "송화백일주",
+      "company": "송화양조사",
+      "abv": 38,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "수곡생막걸리",
+      "company": "수곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "크라테드라이",
+      "company": "수도산와이너리",
+      "abv": 11.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "수암봉생막걸리",
+      "company": "수암봉막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "신곡수원화성막걸리",
+      "company": "수원양조 주식회사",
+      "abv": 5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아미",
+      "company": "순성왕매실영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "순자할머니소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "국사봉복분자술",
+      "company": "순창복분자영농조합법인",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "순흥선비주",
+      "company": "순흥양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한바당",
+      "company": "술도가제주바당",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "술드림한산소곡주",
+      "company": "술드림소곡주 영농조합법인",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍천생막걸리",
+      "company": "시골양조장소통",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "신경주쌀막걸리",
+      "company": "신라국전통주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "포석정막걸리",
+      "company": "신라주,황금주",
+      "abv": 6.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "신라주",
+      "company": "신라주황금주",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "단상지교",
+      "company": "신탄진주조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사리원사임주",
+      "company": "신탄진주조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "하타",
+      "company": "신탄진주조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진짜탁주",
+      "company": "신항만주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "쌍둥이네주조",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생동강막걸리",
+      "company": "쌍월양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "무화과로제와인",
+      "company": "써니헬프",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "어린꿀술",
+      "company": "쓰리베어스미더리(유한)",
+      "abv": 11.1,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오리지널미드",
+      "company": "쓰리베어스미더리(유한)",
+      "abv": 11.3,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "정감생막걸리",
+      "company": "악양합동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "강강술래",
+      "company": "안강주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "안계생막걸리",
+      "company": "안계양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "느낌",
+      "company": "안동전통명주(주)",
+      "abv": 19.8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "필",
+      "company": "안동전통명주(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "성해생쌀막걸리",
+      "company": "안산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "운문산맥",
+      "company": "안심탁주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "앉은뱅이소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "양보생막걸리",
+      "company": "양보합동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "불곡산막걸리",
+      "company": "양주 탁.약주제조(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "persimmon vodka",
+      "company": "양촌감영농조합법인",
+      "abv": 32,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "추시",
+      "company": "양촌감영농조합법인",
+      "abv": 12.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가지산막걸리",
+      "company": "언양양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "에덴와인드라이",
+      "company": "에덴농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "엠퍼리",
+      "company": "에덴의동쪽",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "에델",
+      "company": "에델농원",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "여포의꿈",
+      "company": "여포와인농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설련",
+      "company": "영농조합법인 석전상온전통주가",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍로",
+      "company": "영농조합법인 석전상온전통주가",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "도문대작",
+      "company": "영농조합법인 자연과사람들",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금이산농원오가피와인",
+      "company": "영농조합법인금이산농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "솔티하우제",
+      "company": "영농조합법인솔티마을",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "7004S",
+      "company": "영농조합법인오름주가",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "베리와인1168CD",
+      "company": "영동블루와인농원",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리와인",
+      "company": "영동우리농산물",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "마운틴슬로프와인",
+      "company": "영동원댕이농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "정주",
+      "company": "영림",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영오생막걸리",
+      "company": "영오양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영월동강생막걸리",
+      "company": "영월탁주제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영월동강생좁쌀동동주",
+      "company": "영월탁주제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영주소백주",
+      "company": "영주탁주합동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍천강생막걸리",
+      "company": "영지양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "함께해서좋은더브러",
+      "company": "영천와인영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영해탁주",
+      "company": "영해탁주합동 제1공장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금장복주머니올로주",
+      "company": "예도",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "예밀와인드라이",
+      "company": "예밀2리영농조합법인",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "추사40",
+      "company": "예산사과와인(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "가을빛",
+      "company": "예인화원",
+      "abv": 13.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "남산애",
+      "company": "예인화원",
+      "abv": 18.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "예향",
+      "company": "예향",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "옛고을한산소곡주",
+      "company": "옛고을한산소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "옛향주조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오계리레드",
+      "company": "오계리와인",
+      "abv": 13.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "오곡양조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "평창서주감자술",
+      "company": "오대서주양조장",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "요리술",
+      "company": "오매장터(주)",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "CASS",
+      "company": "오비맥주",
+      "abv": 4.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "CASS LEMON",
+      "company": "오비맥주",
+      "abv": 3.9,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "CASS RED",
+      "company": "오비맥주",
+      "abv": 6.9,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "CASS 라이트",
+      "company": "오비맥주",
+      "abv": 4,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "FiLGOOD",
+      "company": "오비맥주",
+      "abv": 4.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "OB Premier Pilsner",
+      "company": "오비맥주",
+      "abv": 5.2,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "옥순당모시잎소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "옥종명주쌀막걸리",
+      "company": "옥종양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "온수골양조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "북면온천생탁",
+      "company": "온천주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "옹천생막걸리",
+      "company": "옹천탁주합동",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "샤토마니드라이레드",
+      "company": "와인코리아(주)농업회사법인",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오감만족",
+      "company": "와인피플",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "황금과비파와인",
+      "company": "완도비파영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "외포생막걸리 얼쑤",
+      "company": "외포양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "옹궁생막걸리",
+      "company": "용궁합동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "용덕생막걸리",
+      "company": "용덕주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참조은",
+      "company": "용두산조은술",
+      "abv": 16.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "신선주",
+      "company": "용두산조은술 영농조합법인",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "베네늄",
+      "company": "우리농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우아미",
+      "company": "우아미",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청원생탁주",
+      "company": "우포의아침(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "운지소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "독도사랑쌀생막걸리",
+      "company": "울릉우리술(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "독도사랑호박막걸리",
+      "company": "울릉우리술(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "독도사랑호박생막걸리",
+      "company": "울릉우리술(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금강송18.8",
+      "company": "울진군산림조합명품주류제조사업부",
+      "abv": 18.8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금강송주건승",
+      "company": "울진군산림조합명품주류제조사업부",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "힘찬술",
+      "company": "울진군산림조합명품주류제조사업부",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미소생막걸리",
+      "company": "울진술도가",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "왕피천품은미소막걸리",
+      "company": "울진술도가",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "명주",
+      "company": "웅촌양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "원조소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "원조울릉호박막걸리",
+      "company": "원조울릉호박막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "풍년주",
+      "company": "원주주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "원주치악산생막걸리",
+      "company": "원주탁주합동제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "원주치악산찹쌀동동주",
+      "company": "원주탁주합동제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "베베마루아내를위한",
+      "company": "월류원",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "유어쌀막걸리",
+      "company": "유어주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "모두앙",
+      "company": "유진농원",
+      "abv": 13.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "양반안동소주",
+      "company": "유토피아(주)",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "양식주",
+      "company": "유토피아(주)",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "은순이소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "은순이소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "의병주",
+      "company": "의병제주보존회영농조합법인",
+      "abv": 13.2,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "이상재명가소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주골드",
+      "company": "이상재명가소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "인제쌀막걸리",
+      "company": "인제막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "인천생소성주",
+      "company": "인천탁주제조 제1공장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "일품한산소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "임동생막걸리",
+      "company": "임동양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "자두와인",
+      "company": "자두사랑",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍삼명주",
+      "company": "자연과인삼",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "자향소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "장성탁주",
+      "company": "장성양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미온",
+      "company": "장인정신",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "신도안",
+      "company": "장인정신",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "저구막걸리",
+      "company": "저구양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이강주",
+      "company": "전주이강주",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이강뎐",
+      "company": "전주이강주2공장",
+      "abv": 38,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설봉",
+      "company": "정수와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "예주",
+      "company": "정수와인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "제주고소리술",
+      "company": "제주고소리술익는집",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리생 제주막걸리",
+      "company": "제주막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "전통제주막걸리",
+      "company": "제주막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "세우리술",
+      "company": "제주샘영농조합법인",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오메기맑은술",
+      "company": "제주술익는집",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "제주몬순커피주",
+      "company": "제주커피수목원",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한비소주",
+      "company": "제천한약",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한비오가피술",
+      "company": "제천한약영농조합법인",
+      "abv": 35,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "옛날덕산약주",
+      "company": "조성종합주류",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한국민속촌찹쌀동동주",
+      "company": "조원관광진흥(주)",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이도",
+      "company": "조은술세종(주)",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "조흔레드",
+      "company": "조흔와이너리",
+      "abv": 11.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "종현양조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "모월인",
+      "company": "주담",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지장수생막걸리",
+      "company": "주식회사 낙천",
+      "abv": 5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지장수호박생막걸리",
+      "company": "주식회사 낙천",
+      "abv": 5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍매만개주",
+      "company": "주식회사 농업회사법인 술빚는 전가네",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백년향",
+      "company": "주식회사 농업회사법인 추연당",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "순향주",
+      "company": "주식회사 농업회사법인 추연당",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지평쌀막걸리",
+      "company": "주식회사 지평주조",
+      "abv": 5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "우리쌀막걸리",
+      "company": "주식회사 파주탁주",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "파주생막걸리",
+      "company": "주식회사 파주탁주",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생쌀막걸리 골드",
+      "company": "주식회사 포천막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "사랑할 때",
+      "company": "중원양조",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "쥬네뜨",
+      "company": "쥬네뜨와인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이화춘",
+      "company": "지랜드영농조합법인",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "지수생막걸리",
+      "company": "지수양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진도홍주루비콘",
+      "company": "진도대복영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진도아리랑홍주",
+      "company": "진도아리랑영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진도예향홍주",
+      "company": "진도예향영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한샘홍주",
+      "company": "진도한샘영농조합법인",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진주생막걸리",
+      "company": "진주탁주공동운영회",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "덕산약주골드",
+      "company": "진천덕산양조 (주)",
+      "abv": 11,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생덕산막걸리",
+      "company": "진천덕산양조(주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진해군항주",
+      "company": "진해동공탁주제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "강화인삼막걸리",
+      "company": "찬우물",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "동의보감촌하수오주",
+      "company": "참들애바이오푸드영농조합법인",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참마생막걸리",
+      "company": "참주원",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "창녕화왕산생막걸리",
+      "company": "창녕탁주양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "블루베리와인",
+      "company": "채향원",
+      "abv": 12.5,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천성산생막걸리",
+      "company": "천성산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청강약주",
+      "company": "청강주조 (자)",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참막걸리",
+      "company": "청도양조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청송주왕사과막걸리",
+      "company": "청송양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미소하루",
+      "company": "청정영농조합법인",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "최정자명품소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "최정자명품소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미인주",
+      "company": "최행숙 전통주가",
+      "abv": 15,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "아황주",
+      "company": "최행숙 전통주가",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "인삼미인막걸리",
+      "company": "최행숙 전통주가",
+      "abv": 10,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "르깔롱",
+      "company": "추성고을",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "추성주",
+      "company": "추성고을",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "타미앙스",
+      "company": "추성고을",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "태백산생막걸리",
+      "company": "춘양양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "춘천생막걸리",
+      "company": "춘천양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "춘천왕수생막걸리",
+      "company": "춘천양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "시원한 청풍",
+      "company": "충북소주",
+      "abv": 17.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "쌀막걸리",
+      "company": "칠곡양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "컨츄리캠벨스위트",
+      "company": "컨츄리농원",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "코리아엘리트와인",
+      "company": "코리아엘리트와인co",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "탁이네한산소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "오서주",
+      "company": "태령주조장",
+      "abv": 18,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "토박이소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "필",
+      "company": "토정식품",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "천고톡드라이",
+      "company": "파머스용화",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "허니와인",
+      "company": "파주양봉영농조합법인",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "판교농민영농조합법인",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생쌀막걸리",
+      "company": "팔공산술도가",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "팔봉산생막걸리",
+      "company": "팔봉산양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "장수불로",
+      "company": "팔조령전통술도가 (주)",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생찹쌀동동주",
+      "company": "포항탁주합동제조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "영일만친구",
+      "company": "포항탁주합동제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "포항생막걸리",
+      "company": "포항탁주합동제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "미나리발효액 미인",
+      "company": "푸드팩토리자연애농부",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "산들애풍양생막걸리",
+      "company": "풍양양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "풍천생막걸리",
+      "company": "풍천탁주합동",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "조선막걸리",
+      "company": "하남양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봉황",
+      "company": "하늘아래푸른농장",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "봉황스위트",
+      "company": "하늘아래푸른농장",
+      "abv": 12,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "통도쌀막걸리",
+      "company": "하북통도주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생막걸리",
+      "company": "하양탁주제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "하이생막걸리",
+      "company": "하이양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "하이생청",
+      "company": "하이양조장",
+      "abv": 8,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "FiLite WEIZEN",
+      "company": "하이트진로",
+      "abv": 4.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "MAX",
+      "company": "하이트진로",
+      "abv": 4.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "TERRA",
+      "company": "하이트진로",
+      "abv": 4.6,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "드라이d",
+      "company": "하이트진로",
+      "abv": 4.8,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "매화수",
+      "company": "하이트진로",
+      "abv": 14,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "스타우트",
+      "company": "하이트진로",
+      "abv": 5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "이슬톡톡 파인애플",
+      "company": "하이트진로",
+      "abv": 3,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "일품진로 1924",
+      "company": "하이트진로",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "자두에이슬",
+      "company": "하이트진로",
+      "abv": 13,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "자몽에이슬",
+      "company": "하이트진로",
+      "abv": 13,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진로",
+      "company": "하이트진로",
+      "abv": 16.9,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진로골드",
+      "company": "하이트진로",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "진로와인",
+      "company": "하이트진로",
+      "abv": 10,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참나무통 맑은이슬",
+      "company": "하이트진로",
+      "abv": 16,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참이슬 16.9",
+      "company": "하이트진로",
+      "abv": 16.9,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참이슬 담금주",
+      "company": "하이트진로",
+      "abv": 25,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참이슬 오리지널",
+      "company": "하이트진로",
+      "abv": 20.1,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "참이슬fresh",
+      "company": "하이트진로",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "청포도에이슬",
+      "company": "하이트진로",
+      "abv": 13,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "하이트",
+      "company": "하이트진로",
+      "abv": 4.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "하이트 망고링고",
+      "company": "하이트진로",
+      "abv": 2.5,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "죽력",
+      "company": "한국민속대통주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "계룡산삼주",
+      "company": "한국산삼(주)",
+      "abv": 21,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "금수강산",
+      "company": "한국산삼(주)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "덕고산가",
+      "company": "한국야생산삼연구회영농조합법인",
+      "abv": 23,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한길주",
+      "company": "한길주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한길주좁쌀",
+      "company": "한길주",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한누리주조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한라산",
+      "company": "한라산",
+      "abv": 21,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한라산 순한 17",
+      "company": "한라산",
+      "abv": 17,
+      "abv_unit": "%",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "한산단쟁이소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한산단쟁이소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한산모시소곡주",
+      "abv": 14,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산불소곡주",
+      "company": "한산소곡주",
+      "abv": 43,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한산소곡주 신명주조장",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "한산소곡주호암제조소",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한산소곡주호암제조소",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "한산예담은소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한산예담은소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산참소곡주",
+      "company": "한산참소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "한산항아리소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한시동원소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "한울소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한주",
+      "company": "한주양조",
+      "abv": 35,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한주",
+      "company": "한주양조",
+      "abv": 20,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한주",
+      "company": "한주양조",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "생막걸리",
+      "company": "합자회사 가산주조농업회사법인",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "합천생막걸리",
+      "company": "합천막걸리",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "서산들국화주",
+      "company": "해미읍성주가",
+      "abv": 13,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "해월",
+      "company": "해월도가",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "쌀로빚은 전통주 쌀막걸리",
+      "company": "향가주조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소백산아",
+      "company": "향산산약초작목반영농조합",
+      "abv": 22,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "백년백주",
+      "company": "헬스와이너리(유)",
+      "abv": 30,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "홍천생쌀막걸리",
+      "company": "홍천양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화개장터막걸리",
+      "company": "화개합동양조장",
+      "abv": 7,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "두만강곡주골드",
+      "company": "화룡양조장",
+      "abv": 45,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화목생막걸리",
+      "company": "화목양조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화산찹쌀약주",
+      "company": "화산",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "설생막걸리",
+      "company": "화삼양조",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화성탁주",
+      "company": "화성탁주합동제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화성탁주골드",
+      "company": "화성탁주합동제조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "의령화정막걸리",
+      "company": "화정주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "화천생막걸리",
+      "company": "화천합동주조장",
+      "abv": 6,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "황금보리주",
+      "company": "황금보리(유한)",
+      "abv": 17,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "황금보리주",
+      "company": "황금보리(유한)",
+      "abv": 40,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "황금보리주",
+      "company": "황금보리(유한)",
+      "abv": 25,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "소곡화주",
+      "company": "황제소곡주",
+      "abv": 41,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "한산소곡주",
+      "company": "황제소곡주",
+      "abv": 16,
+      "abv_unit": "도",
+      "volume": "",
+      "volume_unit": ""
+    },
+    {
+      "name": "국세청주류면허지원센터 국내주류소개 국가과학기술정보센터 주류출고제품표",
+      "company": "국세청주류면허지원센터 국내주류소개 국가과학기술정보센터 주류출고제품표",
+      "abv": "국세청주류면허지원센터 국내주류소개 국가과학기술정보센터 주류출고제품표",
+      "abv_unit": "국세청주류면허지원센터 국내주류소개 국가과학기술정보센터 주류출고제품표",
+      "volume": "국세청주류면허지원센터 국내주류소개 국가과학기술정보센터 주류출고제품표",
+      "volume_unit": "국세청주류면허지원센터 국내주류소개 국가과학기술정보센터 주류출고제품표"
+    }
+  ],
+  "meta": {
+    "title": "한국 술 알코올 도수 목록 - Free Download",
+    "description": "국내 양조장·주류업체에서 생산하는 막걸리, 약주, 소주, 과실주 등 술 이름별 제조사와 알코올 도수 목록. Contains 723 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국 술 알코올 도수 목록 | ListBase",
+    "seo_description": "Download 한국 술 알코올 도수 목록 — 723 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 723 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/술별_알코올_도수_함량_목록"
+    ]
+  }
+}
