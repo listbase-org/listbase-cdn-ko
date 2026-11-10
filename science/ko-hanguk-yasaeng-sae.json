@@ -1,0 +1,5479 @@
+{
+  "id": "ko-hanguk-yasaeng-sae",
+  "name": "한국의 야생 조류 목록",
+  "title": "한국의 야생 조류 목록",
+  "description": "한국에서 기록된 야생 새 600여 종의 국명과 학명, 목·과 분류 및 최후 기록 연도 메모.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/한국의_야생_새_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_야생_새_목록",
+  "updated": "2026-11",
+  "record_count": 602,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "order_latin",
+      "label": "Order Latin",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "family_latin",
+      "label": "Family Latin",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "흑기러기",
+      "scientific_name": "Branta bernicla",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴기러기",
+      "scientific_name": "Branta ruficollis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰얼굴기러기",
+      "scientific_name": "Branta leucopsis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "캐나다기러기",
+      "scientific_name": "Branta hutchinsii",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "줄기러기",
+      "scientific_name": "Anser indicus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰머리기러기",
+      "scientific_name": "Anser canagicus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰기러기",
+      "scientific_name": "Anser caerulescens",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "회색기러기",
+      "scientific_name": "Anser anser",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "개리",
+      "scientific_name": "Anser cygnoides",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리큰기러기",
+      "scientific_name": "Anser fabalis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "큰기러기",
+      "scientific_name": "Anser serrirostris",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "쇠기러기",
+      "scientific_name": "Anser albifrons",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰이마기러기",
+      "scientific_name": "Anser erythropus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "혹고니",
+      "scientific_name": "Cygnus olor",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "고니",
+      "scientific_name": "Cygnus columbianus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "큰고니",
+      "scientific_name": "Cygnus cygnus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "혹부리오리",
+      "scientific_name": "Tadorna tadorna",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "황오리",
+      "scientific_name": "Tadorna ferruginea",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "원앙사촌",
+      "scientific_name": "Tadorna cristata",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": "1916년 최후 기록이"
+    },
+    {
+      "name": "원앙",
+      "scientific_name": "Aix galericulata",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰얼굴아기오리 / 쇠솜털오리",
+      "scientific_name": "Nettapus coromandelianus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "가창오리",
+      "scientific_name": "Sibirionetta formosa",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "발구지",
+      "scientific_name": "Spatula querquedula",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "넓적부리 / 넓적부리오리",
+      "scientific_name": "Spatula clypeata",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "알락오리",
+      "scientific_name": "Mareca strepera",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "청머리오리",
+      "scientific_name": "Mareca falcata",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "홍머리오리",
+      "scientific_name": "Mareca penelope",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "아메리카홍머리오리",
+      "scientific_name": "Mareca americana",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰뺨검둥오리",
+      "scientific_name": "Anas zonorhyncha",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "청둥오리",
+      "scientific_name": "Anas platyrhynchos",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "미국오리",
+      "scientific_name": "Anas rubripes",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "고방오리",
+      "scientific_name": "Anas acuta",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "쇠오리",
+      "scientific_name": "Anas crecca",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "미국쇠오리",
+      "scientific_name": "Anas carolinensis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "큰흰죽지",
+      "scientific_name": "Aythya valisineria",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰죽지",
+      "scientific_name": "Aythya ferina",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴흰죽지",
+      "scientific_name": "Aythya baeri",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "적갈색흰죽지",
+      "scientific_name": "Aythya nyroca",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "북미댕기흰죽지 / 줄부리오리",
+      "scientific_name": "Aythya collaris",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "댕기흰죽지",
+      "scientific_name": "Aythya fuligula",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리흰죽지",
+      "scientific_name": "Aythya marila",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "쇠검은머리흰죽지",
+      "scientific_name": "Aythya affinis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "호사북방오리",
+      "scientific_name": "Somateria spectabilis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰줄박이오리",
+      "scientific_name": "Histrionicus histrionicus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰이마검둥오리",
+      "scientific_name": "Mellanitta perspicillata",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "노랑부리검둥오리사촌",
+      "scientific_name": "Melanitta fusca",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "검둥오리사촌",
+      "scientific_name": "Melanitta stejnegeri",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "검둥오리",
+      "scientific_name": "Melanitta americana",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "바다꿩",
+      "scientific_name": "Clangula hyemalis",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "꼬마오리",
+      "scientific_name": "Bucephala albeola",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰뺨오리",
+      "scientific_name": "Bucephala clangula",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "북방흰뺨오리",
+      "scientific_name": "Bucephala islandica",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "흰비오리",
+      "scientific_name": "Mergellus albellus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "비오리",
+      "scientific_name": "Mergus merganser",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "바다비오리",
+      "scientific_name": "Mergus serrator",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "호사비오리",
+      "scientific_name": "Mergus squamatus",
+      "order": "기러기목",
+      "order_latin": "Anseriformes",
+      "family": "오리과",
+      "family_latin": "Anatidae",
+      "note": ""
+    },
+    {
+      "name": "들꿩",
+      "scientific_name": "Tetrastes bonasia",
+      "order": "닭목",
+      "order_latin": "Galliformes",
+      "family": "꿩과",
+      "family_latin": "Phasianidae",
+      "note": ""
+    },
+    {
+      "name": "멧닭",
+      "scientific_name": "Lyrurus tetrix",
+      "order": "닭목",
+      "order_latin": "Galliformes",
+      "family": "꿩과",
+      "family_latin": "Phasianidae",
+      "note": ""
+    },
+    {
+      "name": "꿩",
+      "scientific_name": "Phasianus colchicus",
+      "order": "닭목",
+      "order_latin": "Galliformes",
+      "family": "꿩과",
+      "family_latin": "Phasianidae",
+      "note": ""
+    },
+    {
+      "name": "메추라기",
+      "scientific_name": "Coturnix japonica",
+      "order": "닭목",
+      "order_latin": "Galliformes",
+      "family": "꿩과",
+      "family_latin": "Phasianidae",
+      "note": ""
+    },
+    {
+      "name": "쏙독새",
+      "scientific_name": "Caprimulgus jotaka",
+      "order": "쏙독새목",
+      "order_latin": "Caprimulgiformes",
+      "family": "쏙독새과",
+      "family_latin": "Caprimulgidae",
+      "note": ""
+    },
+    {
+      "name": "작은칼새",
+      "scientific_name": "Aerodramus brevirostris",
+      "order": "칼새목",
+      "order_latin": "Apodiformes",
+      "family": "칼새과",
+      "family_latin": "Apodidae",
+      "note": ""
+    },
+    {
+      "name": "바늘꼬리칼새",
+      "scientific_name": "Hirundapus caudacutus",
+      "order": "칼새목",
+      "order_latin": "Apodiformes",
+      "family": "칼새과",
+      "family_latin": "Apodidae",
+      "note": ""
+    },
+    {
+      "name": "흰배칼새",
+      "scientific_name": "Tachymarptis melba",
+      "order": "칼새목",
+      "order_latin": "Apodiformes",
+      "family": "칼새과",
+      "family_latin": "Apodidae",
+      "note": ""
+    },
+    {
+      "name": "검은등칼새",
+      "scientific_name": "Apus apus",
+      "order": "칼새목",
+      "order_latin": "Apodiformes",
+      "family": "칼새과",
+      "family_latin": "Apodidae",
+      "note": ""
+    },
+    {
+      "name": "칼새",
+      "scientific_name": "Apus pacificus",
+      "order": "칼새목",
+      "order_latin": "Apodiformes",
+      "family": "칼새과",
+      "family_latin": "Apodidae",
+      "note": ""
+    },
+    {
+      "name": "쇠칼새",
+      "scientific_name": "Apus nipalensis",
+      "order": "칼새목",
+      "order_latin": "Apodiformes",
+      "family": "칼새과",
+      "family_latin": "Apodidae",
+      "note": ""
+    },
+    {
+      "name": "느시",
+      "scientific_name": "Otis tarda",
+      "order": "느시목",
+      "order_latin": "Otidiformes",
+      "family": "느시과",
+      "family_latin": "Otididae",
+      "note": ""
+    },
+    {
+      "name": "작은뻐꾸기사촌",
+      "scientific_name": "Centropus bengalensis",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "밤색날개뻐꾸기",
+      "scientific_name": "Clamator coromandus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "검은뻐꾸기",
+      "scientific_name": "Eudynamys scolopaceus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "우는뻐꾸기",
+      "scientific_name": "Cacomantis merulinus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "검은두견이",
+      "scientific_name": "Surniculus dicruroides",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "큰매사촌",
+      "scientific_name": "Hierococcyx sparverioides",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "매사촌",
+      "scientific_name": "Hierococcyx hyperythrus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "작은매사촌",
+      "scientific_name": "Hierococcyx nisicolor",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "두견이",
+      "scientific_name": "Cuculus poliocephalus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "검은등뻐꾸기",
+      "scientific_name": "Cuculus micropterus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "벙어리뻐꾸기",
+      "scientific_name": "Cuculus optatus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "뻐꾸기",
+      "scientific_name": "Cuculus canorus",
+      "order": "두견목",
+      "order_latin": "Cuculiformes",
+      "family": "두견과",
+      "family_latin": "Cuculidae",
+      "note": ""
+    },
+    {
+      "name": "사막꿩",
+      "scientific_name": "Syrrhaptes paradoxus",
+      "order": "사막꿩목",
+      "order_latin": "Pterocliformes",
+      "family": "사막꿩과",
+      "family_latin": "Pteroclididae",
+      "note": ""
+    },
+    {
+      "name": "낭비둘기",
+      "scientific_name": "Columba rupestris",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "분홍가슴비둘기",
+      "scientific_name": "Columba oenas",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "흑비둘기",
+      "scientific_name": "Columba janthina",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "멧비둘기",
+      "scientific_name": "Streptopelia orientalis",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "염주비둘기",
+      "scientific_name": "Streptopelia decaocto",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "홍비둘기",
+      "scientific_name": "Streptopelia tranquebarica",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "목점박이비둘기",
+      "scientific_name": "Spilopelia chinensis",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "녹색비둘기",
+      "scientific_name": "Treron sieboldii",
+      "order": "비둘기목",
+      "order_latin": "Columbiformes",
+      "family": "비둘기과",
+      "family_latin": "Columbidae",
+      "note": ""
+    },
+    {
+      "name": "회색가슴뜸부기",
+      "scientific_name": "Rallus aquaticus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹뜸부기",
+      "scientific_name": "Rallus indicus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "쇠물닭",
+      "scientific_name": "Gallinula chloropus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "물닭",
+      "scientific_name": "Fulica atra",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "알락뜸부기",
+      "scientific_name": "Coturnicops exquisitus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "쇠뜸부기사촌",
+      "scientific_name": "Zapornia fusca",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "한국뜸부기",
+      "scientific_name": "Zapornia paykullii",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "쇠뜸부기",
+      "scientific_name": "Zapornia pusilla",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "뜸부기",
+      "scientific_name": "Gallicrex cinerea",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "흰배뜸부기",
+      "scientific_name": "Amaurornis phoenicurus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "뜸부기과",
+      "family_latin": "Rallidae",
+      "note": ""
+    },
+    {
+      "name": "시베리아흰두루미",
+      "scientific_name": "Leucogeranus leucogeranus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "캐나다두루미",
+      "scientific_name": "Antigone canadensis",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "재두루미",
+      "scientific_name": "Antigone vipio",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "쇠재두루미",
+      "scientific_name": "Grus virgo",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "두루미",
+      "scientific_name": "Grus japonensis",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "흑두루미",
+      "scientific_name": "Grus monacha",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "검은목두루미",
+      "scientific_name": "Grus grus",
+      "order": "두루미목",
+      "order_latin": "Gruiformes",
+      "family": "두루미과",
+      "family_latin": "Gruidae",
+      "note": ""
+    },
+    {
+      "name": "논병아리",
+      "scientific_name": "Tachybaptus ruficollis",
+      "order": "논병아리목",
+      "order_latin": "Podicipediformes",
+      "family": "논병아리과",
+      "family_latin": "Podicipedidae",
+      "note": ""
+    },
+    {
+      "name": "큰논병아리",
+      "scientific_name": "Podiceps grisegena",
+      "order": "논병아리목",
+      "order_latin": "Podicipediformes",
+      "family": "논병아리과",
+      "family_latin": "Podicipedidae",
+      "note": ""
+    },
+    {
+      "name": "뿔논병아리",
+      "scientific_name": "Podiceps cristatus",
+      "order": "논병아리목",
+      "order_latin": "Podicipediformes",
+      "family": "논병아리과",
+      "family_latin": "Podicipedidae",
+      "note": ""
+    },
+    {
+      "name": "귀뿔논병아리",
+      "scientific_name": "Podiceps auritus",
+      "order": "논병아리목",
+      "order_latin": "Podicipediformes",
+      "family": "논병아리과",
+      "family_latin": "Podicipedidae",
+      "note": ""
+    },
+    {
+      "name": "검은목논병아리",
+      "scientific_name": "Podiceps nigricollis",
+      "order": "논병아리목",
+      "order_latin": "Podicipediformes",
+      "family": "논병아리과",
+      "family_latin": "Podicipedidae",
+      "note": ""
+    },
+    {
+      "name": "큰홍학",
+      "scientific_name": "Phoenicopterus roseus",
+      "order": "홍학목",
+      "order_latin": "Phoenicopteriformes",
+      "family": "홍학과",
+      "family_latin": "Phoenicopteridae",
+      "note": ""
+    },
+    {
+      "name": "세가락메추라기",
+      "scientific_name": "Turnix tanki",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "세가락메추라기과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리물떼새",
+      "scientific_name": "Haematopus ostralegus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "검은머리물떼새과",
+      "family_latin": "Haematopodidae",
+      "note": ""
+    },
+    {
+      "name": "장다리물떼새",
+      "scientific_name": "Himantopus himantopus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "장다리물떼새과",
+      "family_latin": "Recurvirostridae",
+      "note": ""
+    },
+    {
+      "name": "뒷부리장다리물떼새",
+      "scientific_name": "Recurvirostra avosetta",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "장다리물떼새과",
+      "family_latin": "Recurvirostridae",
+      "note": ""
+    },
+    {
+      "name": "개꿩",
+      "scientific_name": "Pluvialis squatarola",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "검은가슴물떼새",
+      "scientific_name": "Pluvialis fulva",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹물떼새",
+      "scientific_name": "Eudromias morinellus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "흰죽지꼬마물떼새",
+      "scientific_name": "Charadrius hiaticula",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "꼬마물떼새",
+      "scientific_name": "Charadrius dubius",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "흰목물떼새",
+      "scientific_name": "Charadrius placidus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "댕기물떼새",
+      "scientific_name": "Vanellus vanellus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "민댕기물떼새",
+      "scientific_name": "Vanellus cinereus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "큰물떼새",
+      "scientific_name": "Anarhynchus veredus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "검은이마왕눈물떼새",
+      "scientific_name": "Anarhynchus atrifrons",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "왕눈물떼새",
+      "scientific_name": "Anarhynchus mongolus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "큰왕눈물떼새",
+      "scientific_name": "Anarhynchus leschenaultii",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "흰물떼새",
+      "scientific_name": "Anarhynchus alexandrinus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "큰흰물떼새 / 흰얼굴흰물떼새",
+      "scientific_name": "Anarhynchus dealbatus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물떼새과",
+      "family_latin": "Charadriidae",
+      "note": ""
+    },
+    {
+      "name": "호사도요",
+      "scientific_name": "Rostratula benghalensis",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "호사도요과",
+      "family_latin": "Rostratulidae",
+      "note": ""
+    },
+    {
+      "name": "물꿩",
+      "scientific_name": "Hydrophasianus chirurgus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "물꿩과",
+      "family_latin": "Jacanidae",
+      "note": ""
+    },
+    {
+      "name": "중부리도요",
+      "scientific_name": "Numenius phaeopus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "쇠부리도요",
+      "scientific_name": "Numenius minutus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "알락꼬리마도요",
+      "scientific_name": "Numenius madagascariensis",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "마도요",
+      "scientific_name": "Numenius arquata",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "큰뒷부리도요",
+      "scientific_name": "Limosa lapponica",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "흑꼬리도요",
+      "scientific_name": "Limosa limosa",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리도요",
+      "scientific_name": "Limnodromus semipalmatus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "긴부리도요",
+      "scientific_name": "Limnodromus scolopaceus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "꼬마도요",
+      "scientific_name": "Lymnocryptes minimus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "멧도요",
+      "scientific_name": "Scolopax rusticola",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "청도요",
+      "scientific_name": "Gallinago solitaria",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "꺅도요사촌",
+      "scientific_name": "Gallinago megala",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "바늘꼬리도요",
+      "scientific_name": "Gallinago stenura",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "큰꺅도요",
+      "scientific_name": "Gallinago hardwickii",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "꺅도요",
+      "scientific_name": "Gallinago gallinago",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "큰지느러미발도요",
+      "scientific_name": "Phalaropus tricolor",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "붉은배지느러미발도요",
+      "scientific_name": "Phalaropus fulicarius",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "지느러미발도요",
+      "scientific_name": "Phalaropus lobatus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "뒷부리도요",
+      "scientific_name": "Xenus cinereus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "깝작도요",
+      "scientific_name": "Actitis hypoleucos",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "삑삑도요",
+      "scientific_name": "Tringa ochropus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "노랑발도요",
+      "scientific_name": "Tringa brevipes",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "쇠청다리도요",
+      "scientific_name": "Tringa stagnatilis",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "알락도요",
+      "scientific_name": "Tringa glareola",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "붉은발도요",
+      "scientific_name": "Tringa totanus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "청다리도요사촌",
+      "scientific_name": "Tringa guttifer",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "학도요",
+      "scientific_name": "Tringa erythropus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "청다리도요",
+      "scientific_name": "Tringa nebularia",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "꼬까도요",
+      "scientific_name": "Arenaria interpres",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "붉은어깨도요",
+      "scientific_name": "Calidris tenuirostris",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴도요",
+      "scientific_name": "Calidris canutus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "목도리도요",
+      "scientific_name": "Calidris pugnax",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "송곳부리도요",
+      "scientific_name": "Calidris falcinellus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "메추라기도요",
+      "scientific_name": "Calidris acuminata",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "붉은갯도요",
+      "scientific_name": "Calidris ferruginea",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "흰꼬리좀도요",
+      "scientific_name": "Calidris temminckii",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "종달도요",
+      "scientific_name": "Calidris subminuta",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "좀도요",
+      "scientific_name": "Calidris ruficollis",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "넓적부리도요",
+      "scientific_name": "Calidris pygmaea",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "누른도요",
+      "scientific_name": "Calidris subruficollis",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "세가락도요",
+      "scientific_name": "Calidris alba",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "민물도요",
+      "scientific_name": "Calidris alpina",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "작은도요",
+      "scientific_name": "Calidris minuta",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "아메리카메추라기도요",
+      "scientific_name": "Calidris melanotos",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도요과",
+      "family_latin": "Scolopacidae",
+      "note": ""
+    },
+    {
+      "name": "제비물떼새",
+      "scientific_name": "Glareola maldivarum",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "제비물떼새과",
+      "family_latin": "Glareolidae",
+      "note": ""
+    },
+    {
+      "name": "흰제비갈매기",
+      "scientific_name": "Gygis alba",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "알류샨제비갈매기",
+      "scientific_name": "Onychoprion aleuticus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "검은등제비갈매기",
+      "scientific_name": "Onychoprion fuscatus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "에위니아제비갈매기",
+      "scientific_name": "Onychoprion anaethetus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "쇠제비갈매기",
+      "scientific_name": "Sternula albifrons",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "큰부리제비갈매기",
+      "scientific_name": "Gelochelidon nilotica",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "붉은부리큰제비갈매기",
+      "scientific_name": "Hydroprogne caspia",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "구레나룻제비갈매기",
+      "scientific_name": "Chlidonias hybrida",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "검은제비갈매기",
+      "scientific_name": "Chlidonias niger",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "흰죽지제비갈매기",
+      "scientific_name": "Chlidonias leucopterus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "극제비갈매기 / 북극제비갈매기",
+      "scientific_name": "Sterna paradisaea",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "제비갈매기",
+      "scientific_name": "Sterna hirundo",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "긴꼬리제비갈매기",
+      "scientific_name": "Sterna dougallii",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "큰제비갈매기",
+      "scientific_name": "Thalasseus bergii",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "뿔제비갈매기",
+      "scientific_name": "Thalasseus bernsteini",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "꼬마갈매기",
+      "scientific_name": "Hydrocoloeus minutus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "쇠목테갈매기",
+      "scientific_name": "Rhodostethia rosea",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "세가락갈매기",
+      "scientific_name": "Rissa tridactyla",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "북극흰갈매기",
+      "scientific_name": "Pagophila eburnea",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "목테갈매기",
+      "scientific_name": "Xema sabini",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "검은머리갈매기",
+      "scientific_name": "Saundersilarus saundersi",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "긴목갈매기",
+      "scientific_name": "Chroicocephalus genei",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "붉은부리갈매기",
+      "scientific_name": "Chroicocephalus ridibundus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "갈색머리갈매기",
+      "scientific_name": "Chroicocephalus brunnicephalus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "큰검은머리갈매기",
+      "scientific_name": "Ichthyaetus ichthyaetus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "고대갈매기 / 적호갈매기",
+      "scientific_name": "Ichthyaetus relictus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "괭이갈매기",
+      "scientific_name": "Larus crassirostris",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "갈매기",
+      "scientific_name": "Larus canus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "카스피해갈매기",
+      "scientific_name": "Larus cachinnans",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "재갈매기",
+      "scientific_name": "Larus vegae",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "한국재갈매기",
+      "scientific_name": "Larus mongolicus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "흰갈매기",
+      "scientific_name": "Larus hyperboreus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "작은노랑발갈매기",
+      "scientific_name": "Larus fuscus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "옅은재갈매기",
+      "scientific_name": "Larus smithsonianus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "수리갈매기",
+      "scientific_name": "Larus glaucescens",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "큰재갈매기",
+      "scientific_name": "Larus schistisagus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "작은흰갈매기",
+      "scientific_name": "Larus glaucoides",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "갈매기과",
+      "family_latin": "Laridae",
+      "note": ""
+    },
+    {
+      "name": "긴꼬리도둑갈매기",
+      "scientific_name": "Stercorarius longicaudus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도둑갈매기과",
+      "family_latin": "Stercorariidae",
+      "note": ""
+    },
+    {
+      "name": "북극도둑갈매기",
+      "scientific_name": "Stercorarius parasiticus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도둑갈매기과",
+      "family_latin": "Stercorariidae",
+      "note": ""
+    },
+    {
+      "name": "넓적꼬리도둑갈매기",
+      "scientific_name": "Stercorarius pomarinus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도둑갈매기과",
+      "family_latin": "Stercorariidae",
+      "note": ""
+    },
+    {
+      "name": "큰도둑갈매기",
+      "scientific_name": "Stercorarius maccormicki",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "도둑갈매기과",
+      "family_latin": "Stercorariidae",
+      "note": ""
+    },
+    {
+      "name": "흰수염바다오리",
+      "scientific_name": "Cerorhinca monocerata",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "댕기바다오리",
+      "scientific_name": "Fratercula cirrhata",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "작은바다오리",
+      "scientific_name": "Aethia pusilla",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "뿔바다오리",
+      "scientific_name": "Aethia cristatella",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "알락쇠오리",
+      "scientific_name": "Brachyramphus marmoratus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹바다오리",
+      "scientific_name": "Cepphus carbo",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리바다오리",
+      "scientific_name": "Uria lomvia",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "바다오리",
+      "scientific_name": "Uria aalge",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "바다쇠오리",
+      "scientific_name": "Synthliboramphus antiquus",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "뿔쇠오리",
+      "scientific_name": "Synthliboramphus wumizusume",
+      "order": "도요목",
+      "order_latin": "Charadriiformes",
+      "family": "바다오리과",
+      "family_latin": "Alcidae",
+      "note": ""
+    },
+    {
+      "name": "아비",
+      "scientific_name": "Gavia stellata",
+      "order": "아비목",
+      "order_latin": "Gaviiformes",
+      "family": "아비과",
+      "family_latin": "Gaviidae",
+      "note": ""
+    },
+    {
+      "name": "큰회색머리아비",
+      "scientific_name": "Gavia arctica",
+      "order": "아비목",
+      "order_latin": "Gaviiformes",
+      "family": "아비과",
+      "family_latin": "Gaviidae",
+      "note": ""
+    },
+    {
+      "name": "회색머리아비",
+      "scientific_name": "Gavia pacifica",
+      "order": "아비목",
+      "order_latin": "Gaviiformes",
+      "family": "아비과",
+      "family_latin": "Gaviidae",
+      "note": ""
+    },
+    {
+      "name": "흰부리아비",
+      "scientific_name": "Gavia adamsii",
+      "order": "아비목",
+      "order_latin": "Gaviiformes",
+      "family": "아비과",
+      "family_latin": "Gaviidae",
+      "note": ""
+    },
+    {
+      "name": "검은등알바트로스",
+      "scientific_name": "Phoebastria immutabilis",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "알바트로스과",
+      "family_latin": "Diomedeidae",
+      "note": ""
+    },
+    {
+      "name": "검은발알바트로스",
+      "scientific_name": "Phoebastria nigripes",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "알바트로스과",
+      "family_latin": "Diomedeidae",
+      "note": ""
+    },
+    {
+      "name": "알바트로스",
+      "scientific_name": "Phoebastria albatrus",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "알바트로스과",
+      "family_latin": "Diomedeidae",
+      "note": "1891년 최후 기록이"
+    },
+    {
+      "name": "바다제비",
+      "scientific_name": "Hydrobates monorhis",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "바다제비과",
+      "family_latin": "Hydrobatidae",
+      "note": ""
+    },
+    {
+      "name": "흰배슴새",
+      "scientific_name": "Pterodroma hypoleuca",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "슴새과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "슴새",
+      "scientific_name": "Calonectris leucomelas",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "슴새과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "쇠부리슴새",
+      "scientific_name": "Ardenna tenuirostris",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "슴새과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "붉은발슴새",
+      "scientific_name": "Ardenna carneipes",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "슴새과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "사대양슴새",
+      "scientific_name": "Puffinus griseus",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "슴새과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "검은슴새",
+      "scientific_name": "Bulweria bulwerii",
+      "order": "슴새목",
+      "order_latin": "Procellariiformes",
+      "family": "슴새과",
+      "family_latin": "Procellariidae",
+      "note": ""
+    },
+    {
+      "name": "먹황새",
+      "scientific_name": "Ciconia nigra",
+      "order": "황새목",
+      "order_latin": "Ciconiiformes",
+      "family": "황새과",
+      "family_latin": "Ciconiidae",
+      "note": ""
+    },
+    {
+      "name": "황새",
+      "scientific_name": "Ciconia boyciana",
+      "order": "황새목",
+      "order_latin": "Ciconiiformes",
+      "family": "황새과",
+      "family_latin": "Ciconiidae",
+      "note": ""
+    },
+    {
+      "name": "군함조",
+      "scientific_name": "Fregata ariel",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "군함조과",
+      "family_latin": "Fregatidae",
+      "note": ""
+    },
+    {
+      "name": "큰군함조",
+      "scientific_name": "Fregata minor",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "군함조과",
+      "family_latin": "Fregatidae",
+      "note": ""
+    },
+    {
+      "name": "붉은발얼가니새",
+      "scientific_name": "Sula sula",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "얼가니새과",
+      "family_latin": "Sulidae",
+      "note": ""
+    },
+    {
+      "name": "갈색얼가니새",
+      "scientific_name": "Sula leucogaster",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "얼가니새과",
+      "family_latin": "Sulidae",
+      "note": ""
+    },
+    {
+      "name": "푸른얼굴얼가니새",
+      "scientific_name": "Sula dactylatra",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "얼가니새과",
+      "family_latin": "Sulidae",
+      "note": ""
+    },
+    {
+      "name": "쇠가마우지",
+      "scientific_name": "Urile pelagicus",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "가마우지과",
+      "family_latin": "Phalacrocoracidae",
+      "note": ""
+    },
+    {
+      "name": "가마우지",
+      "scientific_name": "Phalacrocorax capillatus",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "가마우지과",
+      "family_latin": "Phalacrocoracidae",
+      "note": ""
+    },
+    {
+      "name": "민물가마우지",
+      "scientific_name": "Phalacrocorax carbo",
+      "order": "얼가니새목",
+      "order_latin": "Suliformes",
+      "family": "가마우지과",
+      "family_latin": "Phalacrocoracidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리흰따오기",
+      "scientific_name": "Threskiornis melanocephalus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "저어새과",
+      "family_latin": "Threskiornithidae",
+      "note": ""
+    },
+    {
+      "name": "따오기",
+      "scientific_name": "Nipponia nippon",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "저어새과",
+      "family_latin": "Threskiornithidae",
+      "note": "1979년 최후 기록이"
+    },
+    {
+      "name": "적갈색따오기",
+      "scientific_name": "Plegadis falcinellus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "저어새과",
+      "family_latin": "Threskiornithidae",
+      "note": ""
+    },
+    {
+      "name": "노랑부리저어새",
+      "scientific_name": "Platalea leucorodia",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "저어새과",
+      "family_latin": "Threskiornithidae",
+      "note": ""
+    },
+    {
+      "name": "저어새",
+      "scientific_name": "Platalea minor",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "저어새과",
+      "family_latin": "Threskiornithidae",
+      "note": ""
+    },
+    {
+      "name": "알락해오라기",
+      "scientific_name": "Botaurus stellaris",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "검은해오라기",
+      "scientific_name": "Botaurus flavicollis",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "열대붉은해오라기",
+      "scientific_name": "Botaurus cinnamomeus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "큰덤불해오라기",
+      "scientific_name": "Botaurus eurhythmus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "덤불해오라기",
+      "scientific_name": "Botaurus sinensis",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "해오라기",
+      "scientific_name": "Nycticorax nycticorax",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "푸른눈테해오라기",
+      "scientific_name": "Gorsachius melanolophus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "붉은해오라기",
+      "scientific_name": "Gorsachius goisagi",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "흑로",
+      "scientific_name": "Egretta sacra",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "노랑부리백로",
+      "scientific_name": "Egretta eulophotes",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "쇠백로",
+      "scientific_name": "Egretta garzetta",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "검은댕기해오라기",
+      "scientific_name": "Butorides atricapilla",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "흰날개해오라기",
+      "scientific_name": "Ardeola bacchus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "중대백로",
+      "scientific_name": "Ardea alba",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "중백로",
+      "scientific_name": "Ardea intermedia",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "황로",
+      "scientific_name": "Ardea coromandus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "왜가리",
+      "scientific_name": "Ardea cinerea",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "붉은왜가리",
+      "scientific_name": "Ardea purpurea",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "백로과",
+      "family_latin": "Ardeidae",
+      "note": ""
+    },
+    {
+      "name": "큰사다새",
+      "scientific_name": "Pelecanus onocrotalus",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "사다새과",
+      "family_latin": "Pelecanidae",
+      "note": ""
+    },
+    {
+      "name": "사다새",
+      "scientific_name": "Pelecanus philippensis",
+      "order": "사다새목",
+      "order_latin": "Pelecaniformes",
+      "family": "사다새과",
+      "family_latin": "Pelecanidae",
+      "note": ""
+    },
+    {
+      "name": "물수리",
+      "scientific_name": "Pandion haliaetus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "물수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "검은어깨매",
+      "scientific_name": "Elanus caeruleus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "수염수리",
+      "scientific_name": "Gypaetus barbatus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "벌매",
+      "scientific_name": "Pernis ptilorhyncus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "검은댕기수리 / 검은뿔작은매",
+      "scientific_name": "Aviceda leuphotes",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "고산대머리수리",
+      "scientific_name": "Gyps himalayensis",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "독수리",
+      "scientific_name": "Aegypius monachus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "관수리",
+      "scientific_name": "Spilornis cheela",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "작은뱀수리 / 작은발땅꾼수리",
+      "scientific_name": "Circaetus gallicus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "뿔매",
+      "scientific_name": "Nisaetus nipalensis",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": "1934년 최후 기록이"
+    },
+    {
+      "name": "항라머리검독수리",
+      "scientific_name": "Clanga clanga",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "흰점어깨수리",
+      "scientific_name": "Hieraaetus pennatus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "초원수리",
+      "scientific_name": "Aquila nipalensis",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "흰죽지수리",
+      "scientific_name": "Aquila heliaca",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "검독수리",
+      "scientific_name": "Aquila chrysaetos",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "흰배줄무늬수리",
+      "scientific_name": "Aquila fasciata",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "붉은배새매",
+      "scientific_name": "Tachyspiza soloensis",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "조롱이",
+      "scientific_name": "Tachyspiza gularis",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "작은새매",
+      "scientific_name": "Tachyspiza virgata",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "새매",
+      "scientific_name": "Accipiter nisus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "참매",
+      "scientific_name": "Astur gentilis",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "큰개구리매",
+      "scientific_name": "Circus aeruginosus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "개구리매",
+      "scientific_name": "Circus spilonotus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "잿빛개구리매",
+      "scientific_name": "Circus cyaneus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "알락개구리매",
+      "scientific_name": "Circus melanoleucos",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "솔개",
+      "scientific_name": "Milvus migrans",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "참수리",
+      "scientific_name": "Haliaeetus pelagicus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "흰꼬리수리",
+      "scientific_name": "Haliaeetus albicilla",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "왕새매",
+      "scientific_name": "Butastur indicus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "털발말똥가리",
+      "scientific_name": "Buteo lagopus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "큰말똥가리",
+      "scientific_name": "Buteo hemilasius",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "말똥가리",
+      "scientific_name": "Buteo japonicus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "히말라야말똥가리",
+      "scientific_name": "Buteo refectus",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "대륙말똥가리",
+      "scientific_name": "Buteo buteo",
+      "order": "수리목",
+      "order_latin": "Accipitriformes",
+      "family": "수리과",
+      "family_latin": "Accipitridae",
+      "note": ""
+    },
+    {
+      "name": "가면올빼미",
+      "scientific_name": "Tyto longimembris",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "가면올빼미과",
+      "family_latin": "Tytonidae",
+      "note": ""
+    },
+    {
+      "name": "솔부엉이",
+      "scientific_name": "Ninox japonica",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "금눈쇠올빼미",
+      "scientific_name": "Athene noctua",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "긴꼬리올빼미",
+      "scientific_name": "Surnia ulula",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": "1967년 최후 기록이"
+    },
+    {
+      "name": "소쩍새",
+      "scientific_name": "Otus sunia",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "큰소쩍새",
+      "scientific_name": "Otus bakkamoena",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "칡부엉이",
+      "scientific_name": "Asio otus",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "쇠부엉이",
+      "scientific_name": "Asio flammeus",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "흰올빼미",
+      "scientific_name": "Bubo scandiacus",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": "1912년 최후 기록이"
+    },
+    {
+      "name": "수리부엉이",
+      "scientific_name": "Bubo bubo",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "올빼미",
+      "scientific_name": "Strix nivicolum",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "긴점박이올빼미",
+      "scientific_name": "Strix uralensis",
+      "order": "올빼미목",
+      "order_latin": "Strigiformes",
+      "family": "올빼미과",
+      "family_latin": "Strigidae",
+      "note": ""
+    },
+    {
+      "name": "후투티",
+      "scientific_name": "Upupa epops",
+      "order": "코뿔새목",
+      "order_latin": "Bucerotiformes",
+      "family": "후투티과",
+      "family_latin": "Upupidae",
+      "note": ""
+    },
+    {
+      "name": "파랑새",
+      "scientific_name": "Eurystomus orientalis",
+      "order": "파랑새목",
+      "order_latin": "Coraciiformes",
+      "family": "파랑새과",
+      "family_latin": "Coraciidae",
+      "note": ""
+    },
+    {
+      "name": "호반새",
+      "scientific_name": "Halcyon coromanda",
+      "order": "파랑새목",
+      "order_latin": "Coraciiformes",
+      "family": "물총새과",
+      "family_latin": "Alcedinidae",
+      "note": ""
+    },
+    {
+      "name": "청호반새",
+      "scientific_name": "Halcyon pileata",
+      "order": "파랑새목",
+      "order_latin": "Coraciiformes",
+      "family": "물총새과",
+      "family_latin": "Alcedinidae",
+      "note": ""
+    },
+    {
+      "name": "물총새",
+      "scientific_name": "Alcedo atthis",
+      "order": "파랑새목",
+      "order_latin": "Coraciiformes",
+      "family": "물총새과",
+      "family_latin": "Alcedinidae",
+      "note": ""
+    },
+    {
+      "name": "뿔호반새",
+      "scientific_name": "Megaceryle lugubris",
+      "order": "파랑새목",
+      "order_latin": "Coraciiformes",
+      "family": "물총새과",
+      "family_latin": "Alcedinidae",
+      "note": "1949년 최후 기록이"
+    },
+    {
+      "name": "개미잡이",
+      "scientific_name": "Jynx torquilla",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "아물쇠딱따구리",
+      "scientific_name": "Yungipicus canicapillus",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "쇠딱따구리",
+      "scientific_name": "Yungipicus kizuki",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "세가락딱따구리",
+      "scientific_name": "Picoides tridactylus",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "쇠오색딱따구리",
+      "scientific_name": "Dryobates minor",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": "1970년 최후 기록이"
+    },
+    {
+      "name": "붉은배오색딱따구리",
+      "scientific_name": "Dendrocopos hyperythrus",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "오색딱따구리",
+      "scientific_name": "Dendrocopos major",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "큰오색딱따구리",
+      "scientific_name": "Dendrocopos leucotos",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "크낙새",
+      "scientific_name": "Dryocopus javensis",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "까막딱따구리",
+      "scientific_name": "Dryocopus martius",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "청딱따구리",
+      "scientific_name": "Picus canus",
+      "order": "딱따구리목",
+      "order_latin": "Piciformes",
+      "family": "딱따구리과",
+      "family_latin": "Picidae",
+      "note": ""
+    },
+    {
+      "name": "황조롱이",
+      "scientific_name": "Falco tinnunculus",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "비둘기조롱이",
+      "scientific_name": "Falco vespertinus",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "쇠황조롱이",
+      "scientific_name": "Falco amurensis",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "새호리기",
+      "scientific_name": "Falco subbuteo",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "헨다손매",
+      "scientific_name": "Falco cherrug",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "흰매",
+      "scientific_name": "Falco rusticolus",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "매",
+      "scientific_name": "Falco peregrinus",
+      "order": "매목",
+      "order_latin": "Falconiformes",
+      "family": "매과",
+      "family_latin": "Falconidae",
+      "note": ""
+    },
+    {
+      "name": "푸른날개팔색조",
+      "scientific_name": "Pitta moluccensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "팔색조과",
+      "family_latin": "Pittidae",
+      "note": ""
+    },
+    {
+      "name": "팔색조",
+      "scientific_name": "Pitta nympha",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "팔색조과",
+      "family_latin": "Pittidae",
+      "note": ""
+    },
+    {
+      "name": "회색숲제비",
+      "scientific_name": "Artamus fuscus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "숲제비과",
+      "family_latin": "Artamidae",
+      "note": ""
+    },
+    {
+      "name": "흰가슴숲제비",
+      "scientific_name": "Artamus leucorynchus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "숲제비과",
+      "family_latin": "Artamidae",
+      "note": ""
+    },
+    {
+      "name": "할미새사촌",
+      "scientific_name": "Pericrocotus divaricatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새사촌과",
+      "family_latin": "Campephagidae",
+      "note": ""
+    },
+    {
+      "name": "검은가슴할미새사촌",
+      "scientific_name": "Pericrocotus tegimae",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새사촌과",
+      "family_latin": "Campephagidae",
+      "note": ""
+    },
+    {
+      "name": "갈색할미새사촌",
+      "scientific_name": "Pericrocotus cantonensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새사촌과",
+      "family_latin": "Campephagidae",
+      "note": ""
+    },
+    {
+      "name": "검은할미새사촌",
+      "scientific_name": "Lalage melaschistos",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새사촌과",
+      "family_latin": "Campephagidae",
+      "note": ""
+    },
+    {
+      "name": "꾀꼬리",
+      "scientific_name": "Oriolus chinensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "꾀꼬리과",
+      "family_latin": "Oriolidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리바람까마귀",
+      "scientific_name": "Dicrurus annectens",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바람까마귀과",
+      "family_latin": "Dicruridae",
+      "note": ""
+    },
+    {
+      "name": "바람까마귀",
+      "scientific_name": "Dicrurus hottentottus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바람까마귀과",
+      "family_latin": "Dicruridae",
+      "note": ""
+    },
+    {
+      "name": "회색바람까마귀",
+      "scientific_name": "Dicrurus leucophaeus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바람까마귀과",
+      "family_latin": "Dicruridae",
+      "note": ""
+    },
+    {
+      "name": "검은바람까마귀",
+      "scientific_name": "Dicrurus macrocercus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바람까마귀과",
+      "family_latin": "Dicruridae",
+      "note": ""
+    },
+    {
+      "name": "북방긴꼬리딱새",
+      "scientific_name": "Terpsiphone incei",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "긴꼬리딱새과",
+      "family_latin": "Monarchidae",
+      "note": ""
+    },
+    {
+      "name": "긴꼬리딱새",
+      "scientific_name": "Terpsiphone atrocaudata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "긴꼬리딱새과",
+      "family_latin": "Monarchidae",
+      "note": ""
+    },
+    {
+      "name": "초원때까치",
+      "scientific_name": "Lanius pallidirostris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "물때까치",
+      "scientific_name": "Lanius sphenocercus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "재때까치",
+      "scientific_name": "Lanius borealis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "칡때까치",
+      "scientific_name": "Lanius tigrinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "덤불때까치",
+      "scientific_name": "Lanius isabellinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "붉은등때까치",
+      "scientific_name": "Lanius collurio",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "노랑때까치",
+      "scientific_name": "Lanius cristatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "때까치",
+      "scientific_name": "Lanius bucephalus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "긴꼬리때까치",
+      "scientific_name": "Lanius schach",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "회색등때까치",
+      "scientific_name": "Lanius tephronotus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "때까치과",
+      "family_latin": "Laniidae",
+      "note": ""
+    },
+    {
+      "name": "어치",
+      "scientific_name": "Garrulus glandarius",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "물까치",
+      "scientific_name": "Cyanopica cyanus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "까치",
+      "scientific_name": "Pica serica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "잣까마귀",
+      "scientific_name": "Nucifraga caryocatactes",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "붉은부리까마귀",
+      "scientific_name": "Pyrrhocorax pyrrhocorax",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "갈까마귀",
+      "scientific_name": "Coloeus dauuricus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "집까마귀",
+      "scientific_name": "Corvus splendens",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "떼까마귀",
+      "scientific_name": "Corvus frugilegus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "까마귀",
+      "scientific_name": "Corvus corone",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리까마귀",
+      "scientific_name": "Corvus macrorhynchos",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "큰까마귀",
+      "scientific_name": "Corvus corax",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "까마귀과",
+      "family_latin": "Corvidae",
+      "note": ""
+    },
+    {
+      "name": "황여새",
+      "scientific_name": "Bombycilla garrulus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "여새과",
+      "family_latin": "Bombycillidae",
+      "note": ""
+    },
+    {
+      "name": "홍여새",
+      "scientific_name": "Bombycilla japonica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "여새과",
+      "family_latin": "Bombycillidae",
+      "note": ""
+    },
+    {
+      "name": "회색머리노랑딱새",
+      "scientific_name": "Culicicapa ceylonensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "요정솔딱새과",
+      "family_latin": "Stenostiridae",
+      "note": ""
+    },
+    {
+      "name": "진박새",
+      "scientific_name": "Periparus ater",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "노랑배진박새",
+      "scientific_name": "Pardaliparus venustulus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "곤줄박이",
+      "scientific_name": "Sittiparus varius",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "쇠박새",
+      "scientific_name": "Poecile palustris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "북방쇠박새",
+      "scientific_name": "Poecile montanus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "노랑배박새",
+      "scientific_name": "Parus major",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "박새",
+      "scientific_name": "Parus cinereus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "박새과",
+      "family_latin": "Paridae",
+      "note": ""
+    },
+    {
+      "name": "스윈호오목눈이",
+      "scientific_name": "Remiz consobrinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "스윈호오목눈이과",
+      "family_latin": "Remizidae",
+      "note": ""
+    },
+    {
+      "name": "수염오목눈이",
+      "scientific_name": "Panurus biarmicus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "수염오목눈이과",
+      "family_latin": "Panuridae",
+      "note": ""
+    },
+    {
+      "name": "남방종다리",
+      "scientific_name": "Alauda gulgula",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "종다리",
+      "scientific_name": "Alauda arvensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "뿔종다리",
+      "scientific_name": "Galerida cristata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "해변종다리",
+      "scientific_name": "Eremophila alpestris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "쇠종다리",
+      "scientific_name": "Calandrella brachydactyla",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "큰흰날개종다리",
+      "scientific_name": "Melanocorypha mongolica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "북방쇠종다리",
+      "scientific_name": "Alaudala cheleensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "종다리과",
+      "family_latin": "Alaudidae",
+      "note": ""
+    },
+    {
+      "name": "직박구리",
+      "scientific_name": "Hypsipetes amaurotis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "직박구리과",
+      "family_latin": "Pycnonotidae",
+      "note": ""
+    },
+    {
+      "name": "흰머리검은직박구리",
+      "scientific_name": "Hypsipetes leucocephalus leucocephalus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "직박구리과",
+      "family_latin": "Pycnonotidae",
+      "note": ""
+    },
+    {
+      "name": "검은이마직박구리",
+      "scientific_name": "Pycnonotus sinensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "직박구리과",
+      "family_latin": "Pycnonotidae",
+      "note": ""
+    },
+    {
+      "name": "갈색제비",
+      "scientific_name": "Riparia riparia",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "옅은갈색제비",
+      "scientific_name": "Riparia diluta",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "바위산제비",
+      "scientific_name": "Ptyonoprogne rupestris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "제비",
+      "scientific_name": "Hirundo rustica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "흰턱제비",
+      "scientific_name": "Delichon urbicum",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "흰털발제비",
+      "scientific_name": "Delichon dasypus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "귀제비",
+      "scientific_name": "Cecropis daurica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "제비과",
+      "family_latin": "Hirundinidae",
+      "note": ""
+    },
+    {
+      "name": "섬휘파람새",
+      "scientific_name": "Horornis diphone",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "휘파람새과",
+      "family_latin": "Cettidae",
+      "note": ""
+    },
+    {
+      "name": "휘파람새",
+      "scientific_name": "Horornis canturians",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "휘파람새과",
+      "family_latin": "Cettidae",
+      "note": ""
+    },
+    {
+      "name": "숲새",
+      "scientific_name": "Urosphena squameiceps",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "휘파람새과",
+      "family_latin": "Cettidae",
+      "note": ""
+    },
+    {
+      "name": "오목눈이",
+      "scientific_name": "Aegithalos caudatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "오목눈이과",
+      "family_latin": "Aegithalidae",
+      "note": ""
+    },
+    {
+      "name": "검은턱오목눈이",
+      "scientific_name": "Aegithalos glaucogularis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "오목눈이과",
+      "family_latin": "Aegithalidae",
+      "note": ""
+    },
+    {
+      "name": "노랑가슴솔새 / 노랑턱솔새",
+      "scientific_name": "Phylloscopus sibilatrix",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "연노랑눈썹솔새",
+      "scientific_name": "Phylloscopus humei",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "노랑눈썹솔새",
+      "scientific_name": "Phylloscopus inornatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "연노랑허리솔새",
+      "scientific_name": "Phylloscopus yunnanensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "노랑허리솔새",
+      "scientific_name": "Phylloscopus proregulus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "쇠긴다리솔새사촌",
+      "scientific_name": "Phylloscopus armandii",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "긴다리솔새사촌",
+      "scientific_name": "Phylloscopus schwarzi",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "노랑배솔새사촌",
+      "scientific_name": "Phylloscopus affinis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "솔새사촌",
+      "scientific_name": "Phylloscopus fuscatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "담황턱솔새",
+      "scientific_name": "Phylloscopus subaffinis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "연노랑솔새",
+      "scientific_name": "Phylloscopus trochilus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "검은다리솔새",
+      "scientific_name": "Phylloscopus collybita",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "산솔새",
+      "scientific_name": "Phylloscopus coronatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "회색머리노랑솔새",
+      "scientific_name": "Phylloscopus tephrocephalus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "햇노랑솔새",
+      "scientific_name": "Phylloscopus omeiensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "버들솔새",
+      "scientific_name": "Phylloscopus plumbeitarsus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "사할린되솔새",
+      "scientific_name": "Phylloscopus borealoides",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "되솔새",
+      "scientific_name": "Phylloscopus tenellipes",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "솔새 / 일본솔새",
+      "scientific_name": "Phylloscopus xanthodryas",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "큰솔새 / 솔새",
+      "scientific_name": "Phylloscopus examinandus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "쇠솔새",
+      "scientific_name": "Phylloscopus borealis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "노랑배솔새",
+      "scientific_name": "Phylloscopus ricketti",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "히말라야산솔새 / 북방동고비솔새",
+      "scientific_name": "Phylloscopus claudiae",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔새과",
+      "family_latin": "Phylloscopidae",
+      "note": ""
+    },
+    {
+      "name": "개개비",
+      "scientific_name": "Acrocephalus orientalis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "쇠개개비",
+      "scientific_name": "Acrocephalus bistrigiceps",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "풀쇠개개비",
+      "scientific_name": "Acrocephalus schoenobaenus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "우수리개개비",
+      "scientific_name": "Acrocephalus tangorum",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "북방쇠개개비",
+      "scientific_name": "Acrocephalus agricola",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "덤불개개비",
+      "scientific_name": "Acrocephalus dumetorum",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리개개비",
+      "scientific_name": "Arundinax aedon",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "쇠덤불개개비",
+      "scientific_name": "Iduna caligata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비과",
+      "family_latin": "Acrocephalidae",
+      "note": ""
+    },
+    {
+      "name": "붉은허리개개비",
+      "scientific_name": "Helopsaltes fasciolatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "큰개개비",
+      "scientific_name": "Helopsaltes pryeri",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": "1962년 최후 기록이"
+    },
+    {
+      "name": "북방개개비",
+      "scientific_name": "Helopsaltes certhiola",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "알락꼬리쥐발귀",
+      "scientific_name": "Helopsaltes ochotensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "섬개개비",
+      "scientific_name": "Helopsaltes pleskei",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "쥐발귀개개비",
+      "scientific_name": "Locustella lanceolata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "땅개개비",
+      "scientific_name": "Locustella tacsanowskia",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "점무늬가슴쥐발귀",
+      "scientific_name": "Locustella davidi",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "섬개개비과Locustellidae(Megaluridae)",
+      "family_latin": "",
+      "note": ""
+    },
+    {
+      "name": "개개비사촌",
+      "scientific_name": "Cisticola juncidis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "개개비사촌과",
+      "family_latin": "Cisticolidae",
+      "note": ""
+    },
+    {
+      "name": "한국동박새",
+      "scientific_name": "Zosterops erythropleurus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "동박새과",
+      "family_latin": "Zosteropidae",
+      "note": ""
+    },
+    {
+      "name": "작은동박새",
+      "scientific_name": "Zosterops simplex",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "동박새과",
+      "family_latin": "Zosteropidae",
+      "note": ""
+    },
+    {
+      "name": "상모솔새",
+      "scientific_name": "Regulus regulus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "상모솔새과",
+      "family_latin": "Regulidae",
+      "note": ""
+    },
+    {
+      "name": "굴뚝새",
+      "scientific_name": "Troglodytes troglodytes",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "굴뚝새과",
+      "family_latin": "Troglodytidae",
+      "note": ""
+    },
+    {
+      "name": "쇠동고비",
+      "scientific_name": "Sitta villosa",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "동고비과",
+      "family_latin": "Sittidae",
+      "note": ""
+    },
+    {
+      "name": "동고비",
+      "scientific_name": "Sitta europaea",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "동고비과",
+      "family_latin": "Sittidae",
+      "note": ""
+    },
+    {
+      "name": "나무발발이",
+      "scientific_name": "Certhia familiaris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "나무발발이과",
+      "family_latin": "Certhiidae",
+      "note": ""
+    },
+    {
+      "name": "검은뿔찌르레기",
+      "scientific_name": "Acridotheres cristatellus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "자바뿔찌르레기",
+      "scientific_name": "Acridotheres javanicus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리갈색찌르레기",
+      "scientific_name": "Acridotheres tristis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "붉은부리찌르레기",
+      "scientific_name": "Spodiopsar sericeus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "찌르레기",
+      "scientific_name": "Spodiopsar cineraceus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "북방쇠찌르레기",
+      "scientific_name": "Agropsar sturninus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "쇠찌르레기",
+      "scientific_name": "Agropsar philippensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "잿빛쇠찌르레기",
+      "scientific_name": "Sturnia sinensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "분홍찌르레기",
+      "scientific_name": "Pastor roseus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "흰점찌르레기",
+      "scientific_name": "Sturnus vulgaris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기과",
+      "family_latin": "Sturnidae",
+      "note": ""
+    },
+    {
+      "name": "호랑지빠귀",
+      "scientific_name": "Zoothera aurea",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹지빠귀",
+      "scientific_name": "Geokichla sibirica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "귤빛지빠귀",
+      "scientific_name": "Geokichla citrina",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "큰점지빠귀",
+      "scientific_name": "Turdus mupinensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "대륙점지빠귀",
+      "scientific_name": "Turdus viscivorus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "대륙검은지빠귀",
+      "scientific_name": "Turdus mandarinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "붉은날개지빠귀",
+      "scientific_name": "Turdus iliacus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "검은지빠귀",
+      "scientific_name": "Turdus cardis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "되지빠귀",
+      "scientific_name": "Turdus hortulorum",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹붉은배지빠귀",
+      "scientific_name": "Turdus obscurus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "흰배지빠귀",
+      "scientific_name": "Turdus pallidus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "갈색지빠귀",
+      "scientific_name": "Turdus feae",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "붉은배지빠귀",
+      "scientific_name": "Turdus chrysolaus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "회색머리지빠귀",
+      "scientific_name": "Turdus pilaris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "붉은목지빠귀",
+      "scientific_name": "Turdus ruficollis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "개똥지빠귀",
+      "scientific_name": "Turdus eunomus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "노랑지빠귀",
+      "scientific_name": "Turdus naumanni",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "지빠귀과",
+      "family_latin": "Turdidae",
+      "note": ""
+    },
+    {
+      "name": "까치딱새",
+      "scientific_name": "Copsychus saularis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "제비딱새",
+      "scientific_name": "Muscicapa griseisticta",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "솔딱새",
+      "scientific_name": "Muscicapa sibirica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "회색머리딱새 / 꼬까딱새",
+      "scientific_name": "Muscicapa ferruginea",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "갈색솔딱새",
+      "scientific_name": "Muscicapa muttui",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "쇠솔딱새",
+      "scientific_name": "Muscicapa dauurica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴딱새",
+      "scientific_name": "Niltava davidi",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "큰유리새",
+      "scientific_name": "Cyanoptila cyanomelana",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "대륙큰유리새 / 하늘유리새",
+      "scientific_name": "Cyanoptila cumatilis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "파랑딱새",
+      "scientific_name": "Eumyias thalassinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "주홍가슴파랑딱새",
+      "scientific_name": "Cyornis whitei",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "꼬까울새",
+      "scientific_name": "Erithacus rubecula",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹울새",
+      "scientific_name": "Luscinia svecica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰꼬리유리딱새",
+      "scientific_name": "Myiomela leucura",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "진홍가슴",
+      "scientific_name": "Calliope calliope",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "쇠유리새",
+      "scientific_name": "Lavivora cyane",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴울새",
+      "scientific_name": "Lavivora akahige",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "울새",
+      "scientific_name": "Lavivora sibilans",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰눈썹황금새",
+      "scientific_name": "Ficedula zanthopygia",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "북방황금새",
+      "scientific_name": "Ficedula elisae",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "황금새",
+      "scientific_name": "Ficedula narcissina",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "남방황금새",
+      "scientific_name": "Ficedula owstoni",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "노랑딱새",
+      "scientific_name": "Ficedula mugimaki",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴흰꼬리딱새 / 서양흰꼬리딱새",
+      "scientific_name": "Ficedula parva",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰꼬리딱새",
+      "scientific_name": "Ficedula albicilla",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "유리딱새",
+      "scientific_name": "Tarsiger cyanurus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰목딱새",
+      "scientific_name": "Phoenicurus schisticeps",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "부채꼬리바위딱새",
+      "scientific_name": "Phoenicurus fuliginosus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰머리바위딱새",
+      "scientific_name": "Phoenicurus leucocephalus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리딱새",
+      "scientific_name": "Phoenicurus ochruros",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "딱새",
+      "scientific_name": "Phoenicurus auroreus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "꼬까직박구리",
+      "scientific_name": "Monticola gularis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "바다직박구리",
+      "scientific_name": "Monticola solitarius",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "검은뺨딱새",
+      "scientific_name": "Saxicola ferreus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "흰죽지검은딱새 (가칭)",
+      "scientific_name": "Saxicola caprata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "검은딱새",
+      "scientific_name": "Saxicola stejnegeri",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "사막딱새 / 북방사막딱새",
+      "scientific_name": "Oenanthe oenanthe",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "긴다리사막딱새",
+      "scientific_name": "Oenanthe isabellina",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "검은꼬리사막딱새",
+      "scientific_name": "Oenanthe deserti",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "검은등사막딱새",
+      "scientific_name": "Oenanthe pleschanka",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "솔딱새과",
+      "family_latin": "Muscicapidae",
+      "note": ""
+    },
+    {
+      "name": "물까마귀",
+      "scientific_name": "Cinclus pallasii",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "물까마귀과",
+      "family_latin": "Cinclidae",
+      "note": ""
+    },
+    {
+      "name": "섬참새",
+      "scientific_name": "Passer cinnamomeus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "참새과",
+      "family_latin": "Passeridae",
+      "note": ""
+    },
+    {
+      "name": "참새",
+      "scientific_name": "Passer montanus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "참새과",
+      "family_latin": "Passeridae",
+      "note": ""
+    },
+    {
+      "name": "집참새",
+      "scientific_name": "Passer domesticus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "참새과",
+      "family_latin": "Passeridae",
+      "note": ""
+    },
+    {
+      "name": "얼룩무늬납부리새",
+      "scientific_name": "Lonchura punctulata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "납부리새과",
+      "family_latin": "Estrildidae",
+      "note": ""
+    },
+    {
+      "name": "바위종다리",
+      "scientific_name": "Prunella collaris",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바위종다리과",
+      "family_latin": "Prunellidae",
+      "note": ""
+    },
+    {
+      "name": "멧종다리",
+      "scientific_name": "Prunella montanella",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바위종다리과",
+      "family_latin": "Prunellidae",
+      "note": ""
+    },
+    {
+      "name": "쇠바위종다리",
+      "scientific_name": "Prunella rubida",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "바위종다리과",
+      "family_latin": "Prunellidae",
+      "note": ""
+    },
+    {
+      "name": "물레새",
+      "scientific_name": "Dendronanthus indicus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "서양긴발톱할미새",
+      "scientific_name": "Motacilla flava",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "긴발톱할미새",
+      "scientific_name": "Motacilla tchutschensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "노랑머리할미새",
+      "scientific_name": "Motacilla citreola",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "노랑할미새",
+      "scientific_name": "Motacilla cinerea",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "알락할미새",
+      "scientific_name": "Motacilla alba",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "검은등할미새",
+      "scientific_name": "Motacilla grandis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "큰밭종다리",
+      "scientific_name": "Anthus richardi",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "쇠밭종다리",
+      "scientific_name": "Anthus godlewskii",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "풀밭종다리",
+      "scientific_name": "Anthus pratensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "나무밭종다리",
+      "scientific_name": "Anthus trivialis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "힝둥새",
+      "scientific_name": "Anthus hodgsoni",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "흰등밭종다리",
+      "scientific_name": "Anthus gustavi",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "한국밭종다리",
+      "scientific_name": "Anthus roseatus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "붉은가슴밭종다리",
+      "scientific_name": "Anthus cervinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "밭종다리",
+      "scientific_name": "Anthus japonicus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "옅은밭종다리",
+      "scientific_name": "Anthus spinoletta",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "할미새과",
+      "family_latin": "Motacillidae",
+      "note": ""
+    },
+    {
+      "name": "푸른머리되새",
+      "scientific_name": "Fringilla coelebs",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "되새",
+      "scientific_name": "Fringilla montifringilla",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "콩새",
+      "scientific_name": "Coccothraustes coccothraustes",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "밀화부리",
+      "scientific_name": "Eophona migratoria",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "큰부리밀화부리",
+      "scientific_name": "Eophona personata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "솔양진이",
+      "scientific_name": "Pinicola enucleator",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": "1959년 최후 기록이"
+    },
+    {
+      "name": "멋쟁이",
+      "scientific_name": "Pyrrhula pyrrhula",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "바위양진이",
+      "scientific_name": "Bucanetes mongolicus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "갈색양진이",
+      "scientific_name": "Leucosticte arctoa",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "붉은양진이",
+      "scientific_name": "Carpodacus erythrinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "긴꼬리홍양진이",
+      "scientific_name": "Carpodacus sibiricus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "양진이",
+      "scientific_name": "Carpodacus roseus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "방울새",
+      "scientific_name": "Chloris sinica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "홍방울새",
+      "scientific_name": "Acanthis flammea",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "솔잣새",
+      "scientific_name": "Loxia curvirostra",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "흰죽지솔잣새",
+      "scientific_name": "Loxia leucoptera",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": "1969년 최후 기록이"
+    },
+    {
+      "name": "검은머리방울새",
+      "scientific_name": "Spinus spinus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "되새과",
+      "family_latin": "Fringillidae",
+      "note": ""
+    },
+    {
+      "name": "긴발톱멧새",
+      "scientific_name": "Calcarius lapponicus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "긴발톱멧새과",
+      "family_latin": "Calcariidae",
+      "note": ""
+    },
+    {
+      "name": "흰멧새",
+      "scientific_name": "Plectrophenax nivalis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "긴발톱멧새과",
+      "family_latin": "Calcariidae",
+      "note": ""
+    },
+    {
+      "name": "노랑멧새",
+      "scientific_name": "Emberiza citrinella",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "흰머리멧새",
+      "scientific_name": "Emberiza leucocephalos",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "바위멧새 / 동부산악멧새",
+      "scientific_name": "Emberiza godlewskii",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "멧새",
+      "scientific_name": "Emberiza cioides",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "점박이멧새",
+      "scientific_name": "Emberiza jankowskii",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": "1929년 최후 기록이"
+    },
+    {
+      "name": "회색머리멧새 / 노랑수염멧새",
+      "scientific_name": "Emberiza hortulana",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "흰배멧새",
+      "scientific_name": "Emberiza tristrami",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "붉은뺨멧새",
+      "scientific_name": "Emberiza fucata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "쇠붉은뺨멧새",
+      "scientific_name": "Emberiza pusilla",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "노랑눈썹멧새",
+      "scientific_name": "Emberiza chrysophrys",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "쑥새",
+      "scientific_name": "Emberiza rustica",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "노랑턱멧새",
+      "scientific_name": "Emberiza elegans",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리촉새",
+      "scientific_name": "Emberiza aureola",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "꼬까참새",
+      "scientific_name": "Emberiza rutila",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리멧새",
+      "scientific_name": "Emberiza melanocephala",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "붉은머리멧새",
+      "scientific_name": "Emberiza bruniceps",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "무당새",
+      "scientific_name": "Emberiza sulphurata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "촉새",
+      "scientific_name": "Emberiza spodocephala",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "섬촉새",
+      "scientific_name": "Emberiza personata",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "검은멧새",
+      "scientific_name": "Emberiza variabilis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "북방검은머리쑥새",
+      "scientific_name": "Emberiza pallasi",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "쇠검은머리쑥새",
+      "scientific_name": "Emberiza yessoensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "검은머리쑥새",
+      "scientific_name": "Emberiza schoeniclus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "멧새과",
+      "family_latin": "Emberizidae",
+      "note": ""
+    },
+    {
+      "name": "흰정수리멧새",
+      "scientific_name": "Zonotrichia leucophrys",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "신대륙멧새과",
+      "family_latin": "Passerrellidae",
+      "note": ""
+    },
+    {
+      "name": "노랑정수리멧새",
+      "scientific_name": "Zonotrichia atricapilla",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "신대륙멧새과",
+      "family_latin": "Passerrellidae",
+      "note": ""
+    },
+    {
+      "name": "초원멧새",
+      "scientific_name": "Passerculus sandwichensis",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "신대륙멧새과",
+      "family_latin": "Passerrellidae",
+      "note": ""
+    },
+    {
+      "name": "큰꼬리찌르레기사촌",
+      "scientific_name": "Quiscalus mexicanus",
+      "order": "참새목",
+      "order_latin": "Passeriformes",
+      "family": "찌르레기사촌과",
+      "family_latin": "Icteridae",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "한국의 야생 조류 목록 - Free Download",
+    "description": "한국에서 기록된 야생 새 600여 종의 국명과 학명, 목·과 분류 및 최후 기록 연도 메모. Contains 602 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국의 야생 조류 목록 | ListBase",
+    "seo_description": "Download 한국의 야생 조류 목록 — 602 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 602 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_야생_새_목록"
+    ]
+  }
+}
