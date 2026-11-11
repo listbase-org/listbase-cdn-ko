@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-11-11T02:19:39.817Z",
-  "total_datasets": 574,
-  "total_records": 459197,
+  "generated": "2026-11-11T02:19:55.781Z",
+  "total_datasets": 575,
+  "total_records": 459209,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -334,6 +334,34 @@
         "xlsx": {
           "name": "ko-ssal-sido-saengsan-2012_KO.xlsx",
           "size": 7394
+        }
+      }
+    },
+    {
+      "id": "ko-ssal-suchul-gukgabyeol",
+      "name": "대한민국 쌀 수출 국가별 현황 (2019~2021)",
+      "category": "agriculture",
+      "record_count": 12,
+      "columns": [
+        "country",
+        "weight_t_2019",
+        "value_kusd_2019",
+        "weight_t_2020",
+        "value_kusd_2020",
+        "weight_t_2021",
+        "value_kusd_2021"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_쌀_생산",
+      "updated": "2026-11",
+      "size": 4531,
+      "files": {
+        "csv": {
+          "name": "ko-ssal-suchul-gukgabyeol_KO.csv",
+          "size": 696
+        },
+        "xlsx": {
+          "name": "ko-ssal-suchul-gukgabyeol_KO.xlsx",
+          "size": 7411
         }
       }
     },

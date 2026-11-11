@@ -1,0 +1,169 @@
+{
+  "id": "ko-ssal-suchul-gukgabyeol",
+  "name": "대한민국 쌀 수출 국가별 현황 (2019~2021)",
+  "title": "대한민국 쌀 수출 국가별 현황 (2019~2021)",
+  "description": "대한민국 쌀의 국가별 수출 물량(톤)과 수출 금액(천 달러), 2019~2021년.",
+  "category": "agriculture",
+  "source": "https://ko.wikipedia.org/wiki/한국의_쌀_생산",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_쌀_생산",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "weight_t_2019",
+      "label": "Weight T 2019",
+      "type": "number"
+    },
+    {
+      "key": "value_kusd_2019",
+      "label": "Value Kusd 2019",
+      "type": "number"
+    },
+    {
+      "key": "weight_t_2020",
+      "label": "Weight T 2020",
+      "type": "number"
+    },
+    {
+      "key": "value_kusd_2020",
+      "label": "Value Kusd 2020",
+      "type": "number"
+    },
+    {
+      "key": "weight_t_2021",
+      "label": "Weight T 2021",
+      "type": "number"
+    },
+    {
+      "key": "value_kusd_2021",
+      "label": "Value Kusd 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "미국",
+      "weight_t_2019": 495,
+      "value_kusd_2019": 1274,
+      "weight_t_2020": 869,
+      "value_kusd_2020": 2185,
+      "weight_t_2021": 514,
+      "value_kusd_2021": 1667
+    },
+    {
+      "country": "오스트레일리아",
+      "weight_t_2019": 468,
+      "value_kusd_2019": 1205,
+      "weight_t_2020": 517,
+      "value_kusd_2020": 1313,
+      "weight_t_2021": 345,
+      "value_kusd_2021": 1163
+    },
+    {
+      "country": "싱가포르",
+      "weight_t_2019": 181,
+      "value_kusd_2019": 345,
+      "weight_t_2020": 204,
+      "value_kusd_2020": 424,
+      "weight_t_2021": 93,
+      "value_kusd_2021": 263
+    },
+    {
+      "country": "베트남",
+      "weight_t_2019": 63,
+      "value_kusd_2019": 155,
+      "weight_t_2020": 131,
+      "value_kusd_2020": 247,
+      "weight_t_2021": 97,
+      "value_kusd_2021": 229
+    },
+    {
+      "country": "아랍에미리트",
+      "weight_t_2019": 73,
+      "value_kusd_2019": 167,
+      "weight_t_2020": 53,
+      "value_kusd_2020": 149,
+      "weight_t_2021": 62,
+      "value_kusd_2021": 215
+    },
+    {
+      "country": "홍콩",
+      "weight_t_2019": 39,
+      "value_kusd_2019": 139,
+      "weight_t_2020": 178,
+      "value_kusd_2020": 547,
+      "weight_t_2021": 49,
+      "value_kusd_2021": 188
+    },
+    {
+      "country": "영국",
+      "weight_t_2019": 24,
+      "value_kusd_2019": 76,
+      "weight_t_2020": 61,
+      "value_kusd_2020": 173,
+      "weight_t_2021": 69,
+      "value_kusd_2021": 186
+    },
+    {
+      "country": "네덜란드",
+      "weight_t_2019": 29,
+      "value_kusd_2019": 131,
+      "weight_t_2020": 20,
+      "value_kusd_2020": 61,
+      "weight_t_2021": 41,
+      "value_kusd_2021": 153
+    },
+    {
+      "country": "캐나다",
+      "weight_t_2019": 32,
+      "value_kusd_2019": 93,
+      "weight_t_2020": 100,
+      "value_kusd_2020": 249,
+      "weight_t_2021": 52,
+      "value_kusd_2021": 152
+    },
+    {
+      "country": "일본",
+      "weight_t_2019": 34,
+      "value_kusd_2019": 96,
+      "weight_t_2020": 17,
+      "value_kusd_2020": 57,
+      "weight_t_2021": 34,
+      "value_kusd_2021": 123
+    },
+    {
+      "country": "그 외 나라",
+      "weight_t_2019": 385,
+      "value_kusd_2019": 982,
+      "weight_t_2020": 431,
+      "value_kusd_2020": 1006,
+      "weight_t_2021": 254,
+      "value_kusd_2021": 800
+    },
+    {
+      "country": "합계",
+      "weight_t_2019": 1823,
+      "value_kusd_2019": 4663,
+      "weight_t_2020": 2587,
+      "value_kusd_2020": 6471,
+      "weight_t_2021": 1610,
+      "value_kusd_2021": 5139
+    }
+  ],
+  "meta": {
+    "title": "대한민국 쌀 수출 국가별 현황 (2019~2021) - Free Download",
+    "description": "대한민국 쌀의 국가별 수출 물량(톤)과 수출 금액(천 달러), 2019~2021년. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 쌀 수출 국가별 현황 (2019~2021) | ListBase",
+    "seo_description": "Download 대한민국 쌀 수출 국가별 현황 (2019~2021) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_쌀_생산"
+    ]
+  }
+}
