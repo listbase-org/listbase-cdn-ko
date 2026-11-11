@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-11T02:19:55.781Z",
-  "total_datasets": 575,
-  "total_records": 459209,
+  "generated": "2026-11-11T02:22:43.017Z",
+  "total_datasets": 576,
+  "total_records": 459770,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "language",
@@ -7992,6 +7992,35 @@
         "xlsx": {
           "name": "ko-joseon-wangneung_KO.xlsx",
           "size": 9983
+        }
+      }
+    },
+    {
+      "id": "ko-sajeok",
+      "name": "대한민국의 사적 목록",
+      "category": "history",
+      "record_count": 561,
+      "columns": [
+        "number",
+        "name",
+        "hanja",
+        "name_en",
+        "location",
+        "manager",
+        "designated",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_사적",
+      "updated": "2026-11",
+      "size": 194119,
+      "files": {
+        "csv": {
+          "name": "ko-sajeok_KO.csv",
+          "size": 107599
+        },
+        "xlsx": {
+          "name": "ko-sajeok_KO.xlsx",
+          "size": 59323
         }
       }
     },

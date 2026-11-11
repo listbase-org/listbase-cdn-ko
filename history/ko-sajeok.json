@@ -1,0 +1,5676 @@
+{
+  "id": "ko-sajeok",
+  "name": "대한민국의 사적 목록",
+  "title": "대한민국의 사적 목록",
+  "description": "대한민국 국가지정문화유산 사적의 지정 번호, 명칭(한자·영문), 소재지, 관리자, 지정일 목록입니다.",
+  "category": "history",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_사적",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_사적",
+  "updated": "2026-11",
+  "record_count": 561,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "manager",
+      "label": "Manager",
+      "type": "string"
+    },
+    {
+      "key": "designated",
+      "label": "Designated",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": "1호",
+      "name": "경주 포석정지",
+      "hanja": "慶州 鮑石亭址",
+      "name_en": "Poseokjeong Pavilion Site, Gyeongju",
+      "location": "경북 경주시 배동 454-3",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "2호",
+      "name": "김해 봉황동 유적",
+      "hanja": "金海 鳳凰洞 遺蹟",
+      "name_en": "Archaeological Site in Bonghwang-dong, Gimhae",
+      "location": "경남 김해시 봉황동 253번지외",
+      "manager": "김해시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "3호",
+      "name": "수원 화성",
+      "hanja": "水原 華城",
+      "name_en": "Hwaseong Fortress, Suwon",
+      "location": "경기 수원시 팔달구 장안동 1-2번지",
+      "manager": "수원시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "4호",
+      "name": "부여 가림성",
+      "hanja": "扶餘 加林城",
+      "name_en": "Garimseong Fortress, Buyeo",
+      "location": "충남 부여군 임천면 성흥로97번길 167 (군사리)",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "5호",
+      "name": "부여 부소산성",
+      "hanja": "扶餘 扶蘇山城",
+      "name_en": "Busosanseong Fortress, Buyeo",
+      "location": "충남 부여군 부여읍 부소로 31 (쌍북리)",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "6호",
+      "name": "경주 황룡사지",
+      "hanja": "慶州 皇龍寺址",
+      "name_en": "Hwangnyongsa Temple Site, Gyeongju",
+      "location": "경북 경주시 구황동 320-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "7호",
+      "name": "경주 망덕사지",
+      "hanja": "慶州 望德寺址",
+      "name_en": "Mangdeoksa Temple Site, Gyeongju",
+      "location": "경북 경주시 배반동 956",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "8호",
+      "name": "경주 사천왕사지",
+      "hanja": "慶州 四天王寺址",
+      "name_en": "Sacheonwangsa Temple Site, Gyeongju",
+      "location": "경북 경주시 배반동 935-2",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "9호",
+      "name": "울산학성",
+      "hanja": "蔚山鶴城",
+      "name_en": "",
+      "location": "경남 울산시 중구 학성동 2",
+      "manager": "울산시",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 울산 문화재자료 제7호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "10호",
+      "name": "서울 한양도성",
+      "hanja": "서울 漢陽都城",
+      "name_en": "Hanyang City Wall, Seoul",
+      "location": "서울 종로구 누상동 산1-3외",
+      "manager": "서울특별시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "11호",
+      "name": "서울 풍납동 토성",
+      "hanja": "서울 風納洞 土城",
+      "name_en": "Earthen Fortification in Pungnap-dong, Seoul",
+      "location": "서울 송파구 풍납동 72-1외",
+      "manager": "송파구",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "12호",
+      "name": "공주 공산성",
+      "hanja": "公州 公山城",
+      "name_en": "Gongsanseong Fortress, Gongju",
+      "location": "충남 공주시 산성동 2번지",
+      "manager": "공주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "13호",
+      "name": "공주 송산리 고분군",
+      "hanja": "公州 宋山里 古墳群",
+      "name_en": "Ancient Tombs in Songsan-ri, Gongju",
+      "location": "충남 공주시 금성동 산5-1",
+      "manager": "공주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "14호",
+      "name": "부여 능산리 고분군",
+      "hanja": "扶餘 陵山里 古墳群",
+      "name_en": "Ancient Tombs in Neungsan-ri, Buyeo",
+      "location": "충남 부여군 부여읍 능산리 15",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "15호",
+      "name": "경주 흥륜사지",
+      "hanja": "慶州 興輪寺址",
+      "name_en": "Heungnyunsa Temple Site, Gyeongju",
+      "location": "경북 경주시 사정동 281-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "16호",
+      "name": "경주 월성",
+      "hanja": "慶州 月城",
+      "name_en": "Wolseong Palace Site, Gyeongju",
+      "location": "경북 경주시 인왕동 387-1번지",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "17호",
+      "name": "경주 남고루",
+      "hanja": "慶州 南古壘",
+      "name_en": "Namgoru Embankment, Gyeongju",
+      "location": "경북 경주시 원효로207번길 28-1, 황남동, 인왕동,성동동 (황오동)",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "18호",
+      "name": "경주 동궁과 월지",
+      "hanja": "慶州 東宮과 月池",
+      "name_en": "Donggung Palace and Wolji Pond, Gyeongju",
+      "location": "경북 경주시 인왕동 517번지 일대",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "19호",
+      "name": "경주 계림",
+      "hanja": "慶州 鷄林",
+      "name_en": "Gyerim Forest, Gyeongju",
+      "location": "경북 경주시 교동 1번지",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "20호",
+      "name": "경주 무열왕릉",
+      "hanja": "慶州 武烈王陵",
+      "name_en": "Tomb of King Muyeol, Gyeongju",
+      "location": "경북 경주시 서악동 842",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "21호",
+      "name": "경주 김유신묘",
+      "hanja": "慶州 金庾信墓",
+      "name_en": "Tomb of Kim Yu-sin, Gyeongju",
+      "location": "경북 경주시 충효동 산7-10",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "22호",
+      "name": "경주 남산신성",
+      "hanja": "慶州 南山新城",
+      "name_en": "Namsansinseong Fortress, Gyeongju",
+      "location": "경북 경주시 인왕동,탑동,남산동,배반동,배동",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "23호",
+      "name": "경주 경덕왕릉",
+      "hanja": "慶州 景德王陵",
+      "name_en": "Tomb of King Gyeongdeok, Gyeongju",
+      "location": "경북 경주시 내남면 부지리 산8",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "24호",
+      "name": "경주 진덕여왕릉",
+      "hanja": "慶州 眞德女王陵",
+      "name_en": "Tomb of Queen Jindeok, Gyeongju",
+      "location": "경북 경주시 현곡면 오류리 산48",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "25호",
+      "name": "경주 부산성",
+      "hanja": "慶州 富山城",
+      "name_en": "Busanseong Fortress, Gyeongju",
+      "location": "경북 경주시 건천읍 송선리 산195",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "26호",
+      "name": "경주 원성왕릉",
+      "hanja": "慶州 元聖王陵",
+      "name_en": "Tomb of King Wonseong, Gyeongju",
+      "location": "경북 경주시 외동읍 괘능리 산17",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "27호",
+      "name": "경주 구정동 방형분",
+      "hanja": "慶州 九政洞 方形墳",
+      "name_en": "Square Tomb in Gujeong-dong, Gyeongju",
+      "location": "경북 경주시 구정동 산41",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "28호",
+      "name": "경주 성덕왕릉",
+      "hanja": "慶州 聖德王陵",
+      "name_en": "Tomb of King Seongdeok, Gyeongju",
+      "location": "경북 경주시 조양동 산8",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "29호",
+      "name": "경주 헌덕왕릉",
+      "hanja": "慶州 憲德王陵",
+      "name_en": "Tomb of King Heondeok, Gyeongju",
+      "location": "경북 경주시 동천동 80",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "30호",
+      "name": "경주 흥덕왕릉",
+      "hanja": "慶州 興德王陵",
+      "name_en": "Tomb of King Heungdeok, Gyeongju",
+      "location": "경북 경주시 안강읍 육통리 산42",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "31호",
+      "name": "경주 감은사지",
+      "hanja": "慶州 感恩寺址",
+      "name_en": "Gameunsa Temple Site, Gyeongju",
+      "location": "경북 경주시 양북면 용당리 55-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "32호",
+      "name": "서울 독립문",
+      "hanja": "서울 獨立門",
+      "name_en": "Dongnimmun Arch, Seoul",
+      "location": "서울 서대문구 현저동 941",
+      "manager": "서대문구",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "33호",
+      "name": "서울 영은문 주초",
+      "hanja": "서울 迎恩門 柱礎",
+      "name_en": "Plinths of Yeongeunmun Gate, Seoul",
+      "location": "서울 서대문구 현저동 945",
+      "manager": "서대문구",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "34호",
+      "name": "부여 청마산성",
+      "hanja": "扶餘 靑馬山城",
+      "name_en": "Cheongmasanseong Fortress, Buyeo",
+      "location": "충남 부여군 부여읍 능산리 산1-1",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "35호",
+      "name": "부산일본성",
+      "hanja": "釜山日本城",
+      "name_en": "",
+      "location": "부산 동구 범일동",
+      "manager": ".",
+      "designated": "1963년 1월 21일 지정, 1969년 8월 1일 해제, 보존가치가 없으므로 해제",
+      "note": ""
+    },
+    {
+      "number": "36호",
+      "name": "마산일본성",
+      "hanja": "馬山日本城",
+      "name_en": "",
+      "location": "경남 마산시 산호1동",
+      "manager": ".",
+      "designated": "1963년 1월 21일 지정, 1969년 8월 1일 해제, 보존가치가 없으므로 해제",
+      "note": ""
+    },
+    {
+      "number": "37호",
+      "name": "평창 오대산사고",
+      "hanja": "平昌 五臺山史庫",
+      "name_en": "Odaesan National History Archives, Pyeongchang",
+      "location": "강원 평창군 진부면 동산리 산1",
+      "manager": "평창군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "38호",
+      "name": "경주노동리고분군",
+      "hanja": "慶州路東里古墳群",
+      "name_en": "",
+      "location": "경북 경주시 노동동 261",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제512호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "39호",
+      "name": "경주노서리고분군",
+      "hanja": "慶州路西里古墳群",
+      "name_en": "",
+      "location": "경북 경주시 노서동 104",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제512호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "40호",
+      "name": "경주황남리고분군",
+      "hanja": "慶州皇南里古墳群",
+      "name_en": "",
+      "location": "경북 경주시 황남동 6-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제512호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "41호",
+      "name": "경주황오리고분군",
+      "hanja": "慶州皇吾里古墳群",
+      "name_en": "",
+      "location": "경북 경주시 황오동 102-3",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제512호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "42호",
+      "name": "경주인왕리고분군",
+      "hanja": "慶州仁旺里古墳群",
+      "name_en": "",
+      "location": "경북 경주시 인왕동 669-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제512호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "43호",
+      "name": "경주 금척리 고분군",
+      "hanja": "慶州 金尺里 古墳群",
+      "name_en": "Ancient Tombs in Geumcheok-ri, Gyeongju",
+      "location": "경북 경주시 건천읍 금척리 192-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "44호",
+      "name": "부여 군수리 사지",
+      "hanja": "扶餘 軍守里 寺址",
+      "name_en": "Temple Site in Gunsu-ri, Buyeo",
+      "location": "충남 부여군 부여읍 군수리 19",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "45호",
+      "name": "경주 장항리 사지",
+      "hanja": "慶州 獐項里 寺址",
+      "name_en": "Temple Site in Janghang-ri, Gyeongju",
+      "location": "경북 경주시 양북면 장항리 1081",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "46호",
+      "name": "경주 원원사지",
+      "hanja": "慶州 遠願寺址",
+      "name_en": "Wonwonsa Temple Site, Gyeongju",
+      "location": "경북 경주시 외동읍 모화리 2",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "47호",
+      "name": "경주 명활성",
+      "hanja": "慶州 明活城",
+      "name_en": "Myeonghwalseong Fortress, Gyeongju",
+      "location": "경북 경주시 천군동, 보문동",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "48호",
+      "name": "관문성",
+      "hanja": "關門城",
+      "name_en": "Gwanmunseong Fortress",
+      "location": "울산 북구 중산동(동대산) ~ 울주군 두동면(치술령 망부석)",
+      "manager": "경주시외",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "49호",
+      "name": "승주신성리성",
+      "hanja": "昇州新城里城",
+      "name_en": "",
+      "location": "전남 순천시 해룡면 신성리 5",
+      "manager": "승주군",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 전남 기념물 171호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "50호",
+      "name": "사천선진리성",
+      "hanja": "泗川船津里城",
+      "name_en": "",
+      "location": "경남 사천시 용현면 선진리 402",
+      "manager": "사천군",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 경남 문화재자료 274호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "51호",
+      "name": "김해죽도성",
+      "hanja": "金海竹島城",
+      "name_en": "",
+      "location": "부산 강서구 죽림동 787",
+      "manager": "부산시",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 부산 기념물 47호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "52호",
+      "name": "기장죽성리성",
+      "hanja": "機張竹城里城",
+      "name_en": "",
+      "location": "부산 기장군 기장읍 죽림리 46",
+      "manager": "부산시 기장군",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 부산 기념물 제48호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "53호",
+      "name": "웅천안골리성",
+      "hanja": "熊川安骨里城",
+      "name_en": "",
+      "location": "경남 진해시 안골동 산27",
+      "manager": "진해시",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 경남 문화재자료 제275호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "54호",
+      "name": "서생포성",
+      "hanja": "西生浦城",
+      "name_en": "",
+      "location": "경남 울산군 서생면 서생리 213",
+      "manager": "울산군",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해제, 울산 문화재자료 제8호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "55호",
+      "name": "영주 소수서원",
+      "hanja": "榮州 紹修書院",
+      "name_en": "Sosuseowon Confucian Academy, Yeongju",
+      "location": "경북 영주시 순흥면 내죽리 151",
+      "manager": "영주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "56호",
+      "name": "고양 행주산성",
+      "hanja": "高陽 幸州山城",
+      "name_en": "Haengjusanseong Fortress, Goyang",
+      "location": "경기 고양시 덕양구 행주내동 산26",
+      "manager": "고양시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "57호",
+      "name": "남한산성",
+      "hanja": "南漢山城",
+      "name_en": "Namhansanseong Fortress",
+      "location": "경기 광주시 남한산성면 산성리 산1",
+      "manager": "(재)경기문화재단",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "58호",
+      "name": "부여 나성",
+      "hanja": "扶餘 羅城",
+      "name_en": "Outer City Wall, Buyeo",
+      "location": "충남 부여군 부여읍 염창리 565",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "59호",
+      "name": "부여 청산성",
+      "hanja": "扶餘 靑山城",
+      "name_en": "Cheongsanseong Fortress, Buyeo",
+      "location": "충남 부여군 부여읍 쌍북리 6",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "60호",
+      "name": "서천 건지산성",
+      "hanja": "舒川 乾芝山城",
+      "name_en": "Geonjisanseong Fortress, Seocheon",
+      "location": "충남 서천군 한산면 지현리 산3",
+      "manager": "서천군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "61호",
+      "name": "고령 주산성",
+      "hanja": "高靈 主山城",
+      "name_en": "Jusanseong Fortress, Goryeong",
+      "location": "경북 고령군 대가야읍 중화리 산3번지 외 29필",
+      "manager": "고령군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "62호",
+      "name": "대구 달성",
+      "hanja": "大邱 達城",
+      "name_en": "Dalseong Fortress, Daegu",
+      "location": "대구 중구 달성공원로 35 (달성동)",
+      "manager": "중구",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "63호",
+      "name": "물금증산성",
+      "hanja": "勿禁甑山城",
+      "name_en": "",
+      "location": "경남 양산시 물금읍 증산리 산 38-1",
+      "manager": "양산군",
+      "designated": "1963년 1월 21일 지정, 1997년 1월 1일 해지, 경남 문화재자료 제276호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "64호",
+      "name": "창녕 화왕산성",
+      "hanja": "昌寧 火旺山城",
+      "name_en": "Hwawangsanseong Fortress, Changnyeong",
+      "location": "경남 창녕군 창녕읍 옥천리 산322",
+      "manager": "창녕군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "65호",
+      "name": "창녕 목마산성",
+      "hanja": "昌寧 牧馬山城",
+      "name_en": "Mongmasanseong Fortress, Changnyeong",
+      "location": "경남 창녕군 창녕읍 송현리 산5-2번지",
+      "manager": "창녕군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "66호",
+      "name": "김해 분산성",
+      "hanja": "金海 盆山城",
+      "name_en": "Bunsanseong Fortress, Gimhae",
+      "location": "경남 김해시 가야로405번안길 210-162 (어방동)",
+      "manager": "김해시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "67호",
+      "name": "함안 성산산성",
+      "hanja": "咸安 城山山城",
+      "name_en": "Seongsansanseong Fortress, Haman",
+      "location": "경남 함안군 함안읍 괴산리, 가야읍 광정리 569",
+      "manager": "함안군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "68호",
+      "name": "강진 고려청자 요지",
+      "hanja": "康津 高麗靑瓷 窯址",
+      "name_en": "Goryeo Celadon Kiln Site, Gangjin",
+      "location": "전남 강진군 대구면 사당리 산4외",
+      "manager": "강진군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "69호",
+      "name": "부안 유천리 요지",
+      "hanja": "扶安 柳川里 窯址",
+      "name_en": "Kiln Site in Yucheon-ri, Buan",
+      "location": "전북 부안군 보안면 유천리 14",
+      "manager": "부안군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "70호",
+      "name": "부안 진서리 요지",
+      "hanja": "扶安 鎭西里 窯址",
+      "name_en": "Kiln Site in Jinseo-ri, Buan",
+      "location": "전북 부안군 진서면 진서리 56",
+      "manager": "부안군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "71호",
+      "name": "성산사부동도요지",
+      "hanja": "星山沙鳧洞陶窯址",
+      "name_en": "",
+      "location": "경북 고령군 성산면 사부동 산16",
+      "manager": "고령군",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제510호 로 통합, 재지정",
+      "note": ""
+    },
+    {
+      "number": "72호",
+      "name": "성산기산동도요지",
+      "hanja": "星山箕山洞陶窯址",
+      "name_en": "",
+      "location": "경북 고령군 성산면 기산동 산81",
+      "manager": "고령군",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제510호 로 통합, 재지정",
+      "note": ""
+    },
+    {
+      "number": "73호",
+      "name": "김해 수로왕릉",
+      "hanja": "金海 首露王陵",
+      "name_en": "Tomb of King Suro, Gimhae",
+      "location": "경남 김해시 가락로93번길 26 (서상동)",
+      "manager": "김해시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "74호",
+      "name": "김해 수로왕비릉",
+      "hanja": "金海 首露王妃陵",
+      "name_en": "Tomb of Queen Consort of King Suro, Gimhae",
+      "location": "경남 김해시 구산동 120",
+      "manager": "김해시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "75호",
+      "name": "김해 구산동 고분군",
+      "hanja": "金海 龜山洞 古墳群",
+      "name_en": "Ancient Tombs in Gusan-dong, Gimhae",
+      "location": "경남 김해시 구산동 64",
+      "manager": "김해시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "76호",
+      "name": "나주대안리고분군",
+      "hanja": "羅州大安里古墳群",
+      "name_en": "",
+      "location": "전남 나주시 반남면 대안리 103",
+      "manager": "나주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제513호 로 통합, 재지정",
+      "note": ""
+    },
+    {
+      "number": "77호",
+      "name": "나주신촌리고분군",
+      "hanja": "羅州新村里古墳群",
+      "name_en": "",
+      "location": "전남 나주시 반남면 신촌리 산41",
+      "manager": "나주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제513호 로 통합, 재지정",
+      "note": ""
+    },
+    {
+      "number": "78호",
+      "name": "나주덕산리고분군",
+      "hanja": "羅州德山里古墳群",
+      "name_en": "",
+      "location": "전남 나주시 반남면 덕산리 473",
+      "manager": "나주시",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제513호 로 통합, 재지정",
+      "note": ""
+    },
+    {
+      "number": "79호",
+      "name": "고령 지산동 고분군",
+      "hanja": "高靈 池山洞 古墳群",
+      "name_en": "Ancient Tombs in Jisan-dong, Goryeong",
+      "location": "경북 고령군 대가야읍 지산리 산8번지",
+      "manager": "고령군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "80호",
+      "name": "창녕교동고분군",
+      "hanja": "昌寧校洞古墳群",
+      "name_en": "",
+      "location": "경남 창녕군 창녕읍 교리129",
+      "manager": "창녕군",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제514호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "81호",
+      "name": "창녕송현동고분군",
+      "hanja": "昌寧松峴洞古墳群",
+      "name_en": "",
+      "location": "경남 창녕군 창녕읍 송현리 20-1",
+      "manager": "창녕군",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제514호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "82호",
+      "name": "경주 천군동 사지",
+      "hanja": "慶州 千軍洞 寺址",
+      "name_en": "Temple Site in Cheongun-dong, Gyeongju",
+      "location": "경북 경주시 천군동 548-1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "83호",
+      "name": "서울 선잠단지",
+      "hanja": "서울 先蠶壇址",
+      "name_en": "Seonjamdan Altar Site, Seoul",
+      "location": "서울 성북구 성북동 64-1",
+      "manager": "성북구",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "84호",
+      "name": "함안도항리고분군",
+      "hanja": "咸安道項里古墳群",
+      "name_en": "",
+      "location": "경남 함안군 가야읍 도항리 484",
+      "manager": "함안군",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제515호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "85호",
+      "name": "함안말산리고분군",
+      "hanja": "咸安末山里古墳群",
+      "name_en": "",
+      "location": "경남 함안군 가야읍 말산리 325-2",
+      "manager": "함안군",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 해제, 사적 제515호 로 통합 재지정",
+      "note": ""
+    },
+    {
+      "number": "86호",
+      "name": "성주 성산동 고분군",
+      "hanja": "星州 星山洞 古墳群",
+      "name_en": "Ancient Tombs in Seongsan-dong, Seongju",
+      "location": "경북 성주군 성주읍 성산리 산61",
+      "manager": "성주군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "87호",
+      "name": "익산 쌍릉",
+      "hanja": "益山 雙陵",
+      "name_en": "Ancient Tombs in Seongsan-dong, Seongju",
+      "location": "전북 익산시 석왕동 산55, 산56",
+      "manager": "익산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "88호",
+      "name": "경주 성동동 전랑지",
+      "hanja": "慶州 城東洞 殿廊址",
+      "name_en": "Mansion Site in Seongdong-dong, Gyeongju",
+      "location": "경북 경주시 성동동 4",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "89호",
+      "name": "부여 석성산성",
+      "hanja": "扶餘 石城山城",
+      "name_en": "Seokseongsanseong Fortress, Buyeo",
+      "location": "충남 부여군 석성면 현내리 산83",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "90호",
+      "name": "예산 임존성",
+      "hanja": "禮山 任存城",
+      "name_en": "Imjonseong Fortress, Yesan",
+      "location": "충남 예산군 대흥면 상중리 산8번지",
+      "manager": "예산군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "91호",
+      "name": "성주 성산성",
+      "hanja": "星州 星山城",
+      "name_en": "",
+      "location": "경북 성주군 선남면 신부리",
+      "manager": ".",
+      "designated": "1963년 1월 21일 지정 1966년 12월 30일 해제, 군사도로로 사용으로 가치 상실",
+      "note": ""
+    },
+    {
+      "number": "92호",
+      "name": "익산 토성",
+      "hanja": "益山 土城",
+      "name_en": "Earthen Fortification, Iksan",
+      "location": "전북 익산시 금마면 서고도리 50-3",
+      "manager": "익산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "93호",
+      "name": "양산 북정리 고분군",
+      "hanja": "梁山 北亭里 古墳群",
+      "name_en": "Ancient Tombs in Bukjeong-ri, Yangsan",
+      "location": "경남 양산시 북정동 697",
+      "manager": "양산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "94호",
+      "name": "양산 신기리 고분군",
+      "hanja": "梁山 新基里 古墳群",
+      "name_en": "Ancient Tombs in Singi-ri, Yangsan",
+      "location": "경남 양산시 신기동 29",
+      "manager": "양산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "95호",
+      "name": "양산 중부동 고분군",
+      "hanja": "梁山 中部洞 古墳群",
+      "name_en": "Ancient Tombs in Jungbu-dong, Yangsan",
+      "location": "경남 양산시 중부동 산1",
+      "manager": "양산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "96호",
+      "name": "경주읍성",
+      "hanja": "慶州邑城",
+      "name_en": "Gyeongjueupseong Walled Town",
+      "location": "경북 경주시 북부동 1",
+      "manager": "경주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "97호",
+      "name": "양산 신기리 산성",
+      "hanja": "梁山 新基里 山城",
+      "name_en": "Fortress in Singi-ri, Yangsan",
+      "location": "경남 양산시 신기동, 호계동, 북정동",
+      "manager": "양산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "98호",
+      "name": "양산 북부동 산성",
+      "hanja": "梁山 北部洞 山城",
+      "name_en": "Fortress in Bukbu-dong, Yangsan",
+      "location": "경남 양산시 북부동, 남부동, 중부동, 다방동",
+      "manager": "양산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "99호",
+      "name": "부여 쌍북리 요지",
+      "hanja": "扶餘 雙北里 窯址",
+      "name_en": "Kiln Site in Ssangbuk-ri, Buyeo",
+      "location": "충남 부여군 부여읍 쌍북리 산30",
+      "manager": "부여군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "100호",
+      "name": "양산 법기리 요지",
+      "hanja": "梁山 法基里 窯址",
+      "name_en": "Kiln Site in Beopgi-ri, Yangsan",
+      "location": "경남 양산시 동면 법기리 산82",
+      "manager": "양산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "101호",
+      "name": "서울 삼전도비",
+      "hanja": "서울 三田渡碑",
+      "name_en": "Samjeondobi Monument, Seoul",
+      "location": "서울 송파구 잠실동 47",
+      "manager": "송파구",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "102호",
+      "name": "만인의총",
+      "hanja": "萬人義塚",
+      "name_en": "",
+      "location": "전라북도 남원군 남원읍 동충리 420",
+      "manager": "남원교육구",
+      "designated": "1963년 1월 21일 지정, 1964년 9월 8일 해제, 1973년 6월 23일 전북 기념물 8호 로 재지정, 1981년 4월 1일 사적 272호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "103호",
+      "name": "부안 구암리 지석묘군",
+      "hanja": "扶安 龜岩里 支石墓群",
+      "name_en": "Dolmens in Guam-ri, Buan",
+      "location": "전북 부안군 하서면 석상리 707",
+      "manager": "부안군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "104호",
+      "name": "남원 황산대첩비지",
+      "hanja": "南原 荒山大捷碑址",
+      "name_en": "Site of the Stele for the Victory at Hwangsan Battle, Namwon",
+      "location": "전북 남원시 운봉읍 가산화수길 84 (화수리)",
+      "manager": "남원시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "105호",
+      "name": "금산 칠백의총",
+      "hanja": "錦山 七百義塚",
+      "name_en": "Tomb of Seven Hundred Patriotic Martyrs, Geumsan",
+      "location": "충남 금산군 금성면 의총길 40",
+      "manager": "칠백의총관리소",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "106호",
+      "name": "구례 석주관 칠의사묘",
+      "hanja": "求禮 石柱關 七義士墓",
+      "name_en": "Tombs of Seven Patriotic Martyrs in Seokjugwan Fortress, Gurye",
+      "location": "전남 구례군 토지면 송정리 171",
+      "manager": "구례군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "107호",
+      "name": "강진 정약용 유적",
+      "hanja": "康津 丁若鏞 遺蹟",
+      "name_en": "Historic Site Related to Jeong Yak-yong, Gangjin",
+      "location": "전남 강진군 도암면 만덕리 산103-2",
+      "manager": "강진군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "108호",
+      "name": "산청 목면시배 유지",
+      "hanja": "山淸 木棉始培 遺址",
+      "name_en": "The First Cotton Farm Site, Sancheong",
+      "location": "경남 산청군 단성면 목화로 887 (사월리)",
+      "manager": "산청군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "109호",
+      "name": "아산 맹씨 행단",
+      "hanja": "牙山 孟氏 杏壇",
+      "name_en": "House of the Maeng Clan, Asan",
+      "location": "충남 아산시 배방읍 중리 300",
+      "manager": "아산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "110호",
+      "name": "성저오리정계석표",
+      "hanja": "城底五里定界石標",
+      "name_en": "",
+      "location": "서울 성북구 정릉동 403-2",
+      "manager": "",
+      "designated": "1963년 1월 21일 지정, 1970년 10월 30일 해제, 경복궁내 이전으로 문화재 가치 손상",
+      "note": ""
+    },
+    {
+      "number": "111호",
+      "name": "김제 벽골제",
+      "hanja": "金堤 碧骨堤",
+      "name_en": "Byeokgolje Reservoir, Gimje",
+      "location": "전북 김제시 부량면 월승리 119",
+      "manager": "김제시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "112호",
+      "name": "아산 이충무공묘",
+      "hanja": "牙山 李忠武公墓",
+      "name_en": "Tomb of Yi Sun-sin, Asan",
+      "location": "충남 아산시 음봉면 삼거리 산2-1",
+      "manager": ".",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "113호",
+      "name": "통영 한산도 이충무공 유적",
+      "hanja": "統營 閑山島 李忠武公 遺蹟",
+      "name_en": "Historic Site Related to Yi Sun-sin on Hansando Island, Tongyeong",
+      "location": "경남 통영시 한산면 한산일주로 70 (두억리)",
+      "manager": "통영시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "114호",
+      "name": "완도 묘당도 이충무공 유적",
+      "hanja": "莞島 廟堂島 李忠武公 遺蹟",
+      "name_en": "Historic Site Related to Yi Sun-sin on Myodangdo Island, Wando",
+      "location": "전남 완도군 고금면 충무사길 86-31 (덕동리)",
+      "manager": "완도군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "115호",
+      "name": "수원 화령전",
+      "hanja": "水原 華寧殿",
+      "name_en": "Hwaryeongjeon Shrine, Suwon",
+      "location": "경기 수원시 팔달구 신풍로23번길 34 (신풍동)",
+      "manager": "수원시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "116호",
+      "name": "서산 해미읍성",
+      "hanja": "瑞山 海美邑城",
+      "name_en": "Haemieupseong Walled Town, Seosan",
+      "location": "충남 서산시 해미면 읍내리 16",
+      "manager": "서산시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "117호",
+      "name": "경복궁",
+      "hanja": "景福宮",
+      "name_en": "Gyeongbokgung Palace",
+      "location": "서울 종로구 청와대로 1 (세종로)",
+      "manager": "문화재청 경복궁관리소",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "118호",
+      "name": "진주성",
+      "hanja": "晋州城",
+      "name_en": "Jinjuseong Fortress",
+      "location": "경남 진주시 남강로 626 (본성동, 진주성)",
+      "manager": "진주시",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "119호",
+      "name": "고성 송학동 고분군",
+      "hanja": "固城 松鶴洞 古墳群",
+      "name_en": "Ancient Tombs in Songhak-dong, Goseong",
+      "location": "경남 고성군 고성읍 송학리 470번지 일원",
+      "manager": "고성군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "120호",
+      "name": "고성 내산리 고분군",
+      "hanja": "固城 內山里 古墳群",
+      "name_en": "Ancient Tombs in Naesan-ri, Goseong",
+      "location": "경남 고성군 동해면 내산리 산170번지 일원",
+      "manager": "고성군",
+      "designated": "1963년 1월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "121호",
+      "name": "사직단",
+      "hanja": "社稷壇",
+      "name_en": "Sajikdan Altar",
+      "location": "서울 종로구 사직동 1-28",
+      "manager": "문화재청",
+      "designated": "1963년 1월 21일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "122호",
+      "name": "창덕궁",
+      "hanja": "昌德宮",
+      "name_en": "Changdeokgung Palace Complex",
+      "location": "서울 종로구 율곡로 99 (와룡동)",
+      "manager": "창덕궁",
+      "designated": "1963년 1월 18일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "123호",
+      "name": "창경궁",
+      "hanja": "昌慶宮",
+      "name_en": "Changgyeonggung Palace",
+      "location": "서울 종로구 창경궁로 185 (와룡동)",
+      "manager": "창경궁",
+      "designated": "1963년 1월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "124호",
+      "name": "덕수궁",
+      "hanja": "德壽宮",
+      "name_en": "Deoksugung Palace",
+      "location": "서울 중구 세종대로 99 (정동)",
+      "manager": "덕수궁.",
+      "designated": "1963년 1월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "125호",
+      "name": "종묘",
+      "hanja": "宗廟",
+      "name_en": "Jongmyo Shrine",
+      "location": "서울 종로구 종로 157 (훈정동)",
+      "manager": "종묘",
+      "designated": "1963년 1월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "126호",
+      "name": "진도 용장성",
+      "hanja": "珍島 龍藏城",
+      "name_en": "Yongjangseong Fortress, Jindo",
+      "location": "전남 진도군 군내면 용장리 106",
+      "manager": "진도군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "127호",
+      "name": "진도 남도진성",
+      "hanja": "珍島 南桃鎭城",
+      "name_en": "Namdojinseong Fortress, Jindo",
+      "location": "전남 진도군 임회면 남동리 149",
+      "manager": "진도군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "128호",
+      "name": "양주 회암사지",
+      "hanja": "楊州 檜巖寺址",
+      "name_en": "Hoeamsa Temple Site, Yangju",
+      "location": "경기 양주시 회암동 산14",
+      "manager": "양주시",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "129호",
+      "name": "울주 천황산 요지",
+      "hanja": "蔚州 天皇山 窯址",
+      "name_en": "Kiln Site in Cheonhwangsan Mountain, Ulju",
+      "location": "울산 울주군 상북면 배내주암길 108-114 (이천리)",
+      "manager": "울주군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "130호",
+      "name": "강화 삼랑성",
+      "hanja": "강화 三郞城",
+      "name_en": "Samnangseong Fortress, Ganghwa",
+      "location": "인천 강화군 길상면 온수리 산41",
+      "manager": "강화군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "131호",
+      "name": "합천 영암사지",
+      "hanja": "陜川 靈岩寺址",
+      "name_en": "Yeongamsa Temple Site, Hapcheon",
+      "location": "경남 합천군 가회면 황매산로 637-97 (둔내리)",
+      "manager": "합천군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "132호",
+      "name": "강화산성",
+      "hanja": "江華山城",
+      "name_en": "Ganghwasanseong Fortress",
+      "location": "인천 강화군 강화읍 국화리 산3번지 일원",
+      "manager": "강화군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "133호",
+      "name": "강화 고려궁지",
+      "hanja": "江華 高麗宮址",
+      "name_en": "Goryeo Palace Site, Ganghwa",
+      "location": "인천 강화군 강화읍 북문길 42 (관청리)",
+      "manager": "강화군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "134호",
+      "name": "제주 삼성혈",
+      "hanja": "濟州 三姓穴",
+      "name_en": "Samseonghyeol Shrine, Jeju",
+      "location": "제주 제주시 삼성로 22 (이도일동)",
+      "manager": ".",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "135호",
+      "name": "부여 궁남지",
+      "hanja": "扶餘 宮南池",
+      "name_en": "Gungnamji Pond, Buyeo",
+      "location": "충남 부여군 부여읍 동남리 117외",
+      "manager": "부여군",
+      "designated": "1964년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "136호",
+      "name": "강화 참성단",
+      "hanja": "강화 塹星壇",
+      "name_en": "Chamseongdan Altar, Ganghwa",
+      "location": "인천 강화군 화도면 흥왕리 산42-1",
+      "manager": "강화군",
+      "designated": "1964년 7월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "137호",
+      "name": "강화 부근리 지석묘",
+      "hanja": "江華 富近里 支石墓",
+      "name_en": "Dolmen in Bugeun-ri, Ganghwa",
+      "location": "인천 강화군 하점면 부근리 317",
+      "manager": "강화군",
+      "designated": "1964년 7월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "138호",
+      "name": "경주 서출지",
+      "hanja": "慶州 書出池",
+      "name_en": "Seochulji Pond, Gyeongju",
+      "location": "경북 경주시 남산1길 17 (남산동)",
+      "manager": "경주시",
+      "designated": "1964년 7월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "139호",
+      "name": "김포 문수산성",
+      "hanja": "金浦 文殊山城",
+      "name_en": "Munsusanseong Fortress, Gimpo",
+      "location": "경기 김포시 월곶면 포내리 산36-1",
+      "manager": "김포시",
+      "designated": "1964년 8월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "140호",
+      "name": "오산 독산성과 세마대지",
+      "hanja": "烏山 禿山城과 洗馬臺址",
+      "name_en": "Doksanseong Fortress and Semadae Site, Osan",
+      "location": "경기 오산시 지곶동 162-1 외",
+      "manager": "오산시",
+      "designated": "1964년 8월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "141호",
+      "name": "광주 충효동 요지",
+      "hanja": "光州 忠孝洞 窯址",
+      "name_en": "Kiln Site in Chunghyo-dong, Gwangju",
+      "location": "광주 북구 금곡동 179-5",
+      "manager": "북구",
+      "designated": "1964년 8월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "142호",
+      "name": "경주 서악동 고분군",
+      "hanja": "慶州 西岳洞 古墳群",
+      "name_en": "Ancient Tombs in Seoak-dong, Gyeongju",
+      "location": "경북 경주시 서악동 750",
+      "manager": "경주시",
+      "designated": "1964년 8월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "143호",
+      "name": "서울 문묘와 성균관",
+      "hanja": "서울 文廟와 成均館",
+      "name_en": "Munmyo Confucian Shrine and Seonggyungwan National Academy, Seoul",
+      "location": "서울 종로구 명륜3가 53",
+      "manager": "종로구",
+      "designated": "1964년 11월 10일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "144호",
+      "name": "고양 벽제관지",
+      "hanja": "高陽 碧蹄館址",
+      "name_en": "Byeokjegwan Guesthouse Site, Goyang",
+      "location": "경기 고양시 덕양구 벽제관로 34-16 (고양동)",
+      "manager": "고양시",
+      "designated": "1965년 2월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "145호",
+      "name": "고창읍성",
+      "hanja": "高敞邑城",
+      "name_en": "Gochangeupseong Walled Town",
+      "location": "전북 고창군 고창읍 읍내리 126",
+      "manager": "고창군",
+      "designated": "1965년 4월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "146호",
+      "name": "무주 적상산성",
+      "hanja": "茂朱 赤裳山城",
+      "name_en": "Jeoksangsanseong Fortress, Muju",
+      "location": "전북 무주군 적상면 북창리 산119",
+      "manager": "무주군",
+      "designated": "1965년 7월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "147호",
+      "name": "문경 조령 관문",
+      "hanja": "聞慶 鳥嶺 關門",
+      "name_en": "Gates of Joryeong Path, Mungyeong",
+      "location": "경북 문경시 문경읍 상초리 555",
+      "manager": "문경시",
+      "designated": "1966년 3월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "148호",
+      "name": "파주 덕은리 주거지와 지석묘군",
+      "hanja": "坡州 德隱里 住居址와 支石墓群",
+      "name_en": "Dwelling Site and Dolmens in Deogeun-ri, Paju",
+      "location": "경기 파주시 월롱면 덕은리 산46",
+      "manager": "파주시",
+      "designated": "1966년 3월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "149호",
+      "name": "서울 육상궁",
+      "hanja": "서울 毓祥宮",
+      "name_en": "Yuksanggung Shrine, Seoul",
+      "location": "서울 종로구 창의문로 12 (궁정동)",
+      "manager": "경복궁",
+      "designated": "1966년 3월 22일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "150호",
+      "name": "익산 미륵사지",
+      "hanja": "益山 彌勒寺址",
+      "name_en": "Mireuksa Temple Site, Iksan",
+      "location": "전북 익산시 금마면 기양리 32-2",
+      "manager": "익산시",
+      "designated": "1966년 6월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "151호",
+      "name": "하동 고소성",
+      "hanja": "河東 姑蘇城",
+      "name_en": "Gososeong Fortress, Hadong",
+      "location": "경남 하동군 악양면 평사리 산31",
+      "manager": "하동군",
+      "designated": "1966년 9월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "152호",
+      "name": "함양 사근산성",
+      "hanja": "咸陽 沙斤山城",
+      "name_en": "Sageunsanseong Fortress, Hamyang",
+      "location": "경남 함양군 수동면 원평리 산60",
+      "manager": "함양군",
+      "designated": "1966년 9월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "153호",
+      "name": "울주 언양읍성",
+      "hanja": "蔚州 彦陽邑城",
+      "name_en": "Eonyangeupseong Walled Town, Ulju",
+      "location": "울산 울주군 성안2길 55-8 (언양읍)",
+      "manager": "울주군",
+      "designated": "1966년 12월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "154호",
+      "name": "경주 옥산서원",
+      "hanja": "慶州 玉山書院",
+      "name_en": "Oksanseowon Confucian Academy, Gyeongju",
+      "location": "경북 경주시 안강읍 옥산서원길 216-27 (옥산리)",
+      "manager": ".",
+      "designated": "1967년 3월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "155호",
+      "name": "아산 이충무공 유허",
+      "hanja": "牙山 李忠武公 遺墟",
+      "name_en": "Historic Site Related to Yi Sun-sin, Asan",
+      "location": "충남 아산시 염치읍 백암리 산57",
+      "manager": "현충사",
+      "designated": "1967년 3월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "156호",
+      "name": "부여 증산성",
+      "hanja": "扶餘 甑山城",
+      "name_en": "Jeungsanseong Fortress, Buyeo",
+      "location": "충남 부여군 규암면 신성리 산86",
+      "manager": "부여군",
+      "designated": "1967년 3월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "157호",
+      "name": "환구단",
+      "hanja": "圜丘壇",
+      "name_en": "Hwangudan Altar",
+      "location": "서울 중구 소공동 87-1",
+      "manager": "중구",
+      "designated": "1967년 7월 15일 지정",
+      "note": ""
+    },
+    {
+      "number": "158호",
+      "name": "경주 문무대왕릉",
+      "hanja": "慶州 文武大王陵",
+      "name_en": "Tomb of King Munmu, Gyeongju",
+      "location": "경북 경주시 양북면 봉길리 앞 해중(대왕암)",
+      "manager": "경주시",
+      "designated": "1967년 7월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "159호",
+      "name": "경주 이견대",
+      "hanja": "慶州 利見臺",
+      "name_en": "Igyeondae Pavilion, Gyeongju",
+      "location": "경북 경주시 감포읍 대본리 661",
+      "manager": "경주시",
+      "designated": "1967년 8월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "160호",
+      "name": "서울 살곶이 다리",
+      "hanja": "서울 [箭串橋]",
+      "name_en": "",
+      "location": "서울 성동구 행당동 58",
+      "manager": "성동구",
+      "designated": "1967년 12월 15일 지정, 2011년 7월 28일 명칭변경, 2011년 12월 23일 해제, 보물 제1738호 로 변경",
+      "note": ""
+    },
+    {
+      "number": "161호",
+      "name": "경주 동부 사적지대",
+      "hanja": "慶州 東部 史蹟地帶",
+      "name_en": "Archaeological Area in Eastern Gyeongju",
+      "location": "경북 경주시 황남동 104-1번지",
+      "manager": "경주시",
+      "designated": "1968년 7월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "162호",
+      "name": "북한산성",
+      "hanja": "北漢山城",
+      "name_en": "Bukhansanseong Fortress",
+      "location": "경기 고양시 덕양구 북한동 산1-1번지 외 서울 은평구,성북구,강북구,도봉구일원",
+      "manager": "고양시",
+      "designated": "1968년 12월 5일 지정",
+      "note": ""
+    },
+    {
+      "number": "163호",
+      "name": "경주 낭산 일원",
+      "hanja": "慶州 狼山 一圓",
+      "name_en": "Archaeological Area of Nangsan Mountain, Gyeongju",
+      "location": "경북 경주시 보문동 214-2",
+      "manager": "경주시",
+      "designated": "1968년 12월 13일 지정",
+      "note": ""
+    },
+    {
+      "number": "164호",
+      "name": "진주 평거동 고분군",
+      "hanja": "晋州 平居洞 古墳群",
+      "name_en": "Ancient Tombs in Pyeonggeo-dong, Jinju",
+      "location": "경남 진주시 평거동 산44-2",
+      "manager": "진주시",
+      "designated": "1968년 12월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "165호",
+      "name": "고령 고아리 벽화 고분",
+      "hanja": "高靈 古衙里 壁畵 古墳",
+      "name_en": "Mural Tomb in Goa-ri, Goryeong",
+      "location": "경북 고령군 고령읍 고아리 산13",
+      "manager": "고령군",
+      "designated": "1968년 12월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "166호",
+      "name": "정읍 무성서원",
+      "hanja": "井邑 武城書院",
+      "name_en": "Museongseowon Confucian Academy, Jeongeup",
+      "location": "전북 정읍시 칠보면 무성리 500",
+      "manager": "정읍시",
+      "designated": "1968년 12월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "167호",
+      "name": "해남윤씨 녹우당 일원",
+      "hanja": "海南尹氏 綠雨堂 一圓",
+      "name_en": "Nogudang House of the Haenam Yun Clan and Surroundings",
+      "location": "전남 해남군 해남읍 녹우당길 135 (연동리)",
+      "manager": ".",
+      "designated": "1968년 12월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "168호",
+      "name": "원주 거돈사지",
+      "hanja": "原州 居頓寺址",
+      "name_en": "Geodonsa Temple Site, Wonju",
+      "location": "강원 원주시 부론면 정산리 189",
+      "manager": "원주시",
+      "designated": "1968년 12월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "169호",
+      "name": "창녕 영산 석빙고",
+      "hanja": "昌寧 靈山 石氷庫",
+      "name_en": "",
+      "location": "경남 창녕군 영산면 교리 산10-2",
+      "manager": "창녕군",
+      "designated": "1969년 2월 28일 지정, 2011년 12월 23일 해제, 보물 제1739호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "170호",
+      "name": "안동 도산서원",
+      "hanja": "安東 陶山書院",
+      "name_en": "Dosanseowon Confucian Academy, Andong",
+      "location": "경북 안동시 도산면 도산서원길 154 (토계리)",
+      "manager": "안동시",
+      "designated": "1969년 5월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "171호",
+      "name": "서울 고종 어극 40년 칭경기념비",
+      "hanja": "서울 高宗 御極 40年 稱慶紀念碑",
+      "name_en": "Monument for the 40th Anniversary of King Gojong's Enthronement, Seoul",
+      "location": "서울 종로구 세종로 142-3",
+      "manager": "종로구",
+      "designated": "1969년 7월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "172호",
+      "name": "경주 오릉",
+      "hanja": "慶州 五陵",
+      "name_en": "Five Royal Tombs, Gyeongju",
+      "location": "경북 경주시 탑동 67",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "173호",
+      "name": "경주 일성왕릉",
+      "hanja": "慶州 逸聖王陵",
+      "name_en": "Tomb of King Ilseong, Gyeongju",
+      "location": "경북 경주시 탑동 산23",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "174호",
+      "name": "경주 탈해왕릉",
+      "hanja": "慶州 脫解王陵",
+      "name_en": "Tomb of King Talhae, Gyeongju",
+      "location": "경북 경주시 동천동 산17",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "175호",
+      "name": "경주 미추왕릉",
+      "hanja": "慶州 味鄒王陵",
+      "name_en": "Tomb of King Michu, Gyeongju",
+      "location": "경북 경주시 황남동 89-2",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "176호",
+      "name": "경주 법흥왕릉",
+      "hanja": "慶州 法興王陵",
+      "name_en": "Tomb of King Beopheung, Gyeongju",
+      "location": "경북 경주시 효현동 63",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "177호",
+      "name": "경주 진흥왕릉",
+      "hanja": "慶州 眞興王陵",
+      "name_en": "Tomb of King Jinheung, Gyeongju",
+      "location": "경북 경주시 서악동 산92-2번지 일원",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "178호",
+      "name": "신라진지문성왕릉",
+      "hanja": "新羅眞智文聖王陵",
+      "name_en": "",
+      "location": "경북 경주시 서악동 산92-2",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정, 2011년 7월 28일 해제, 사적 517호 와 사적 518호 로 분리, 재지정",
+      "note": ""
+    },
+    {
+      "number": "179호",
+      "name": "경주 헌안왕릉",
+      "hanja": "慶州 憲安王陵",
+      "name_en": "Tomb of King Heonan, Gyeongju",
+      "location": "경북 경주시 서악동 산92-2",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "180호",
+      "name": "경주 진평왕릉",
+      "hanja": "慶州 眞平王陵",
+      "name_en": "Tomb of King Jinpyeong, Gyeongju",
+      "location": "경북 경주시 보문동 608",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "181호",
+      "name": "경주 신문왕릉",
+      "hanja": "慶州 神文王陵",
+      "name_en": "Tomb of King Sinmun, Gyeongju",
+      "location": "경북 경주시 배반동 453-1",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "182호",
+      "name": "경주 선덕여왕릉",
+      "hanja": "慶州 善德女王陵",
+      "name_en": "Tomb of Queen Seondeok, Gyeongju",
+      "location": "경북 경주시 보문동 산79-2",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "183호",
+      "name": "경주 효공왕릉",
+      "hanja": "慶州 孝恭王陵",
+      "name_en": "Tomb of King Hyogong, Gyeongju",
+      "location": "경북 경주시 배반동 산14",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "184호",
+      "name": "경주 효소왕릉",
+      "hanja": "慶州 孝昭王陵",
+      "name_en": "Tomb of King Hyoso, Gyeongju",
+      "location": "경북 경주시 조양동 산8",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "185호",
+      "name": "경주 신무왕릉",
+      "hanja": "慶州 神武王陵",
+      "name_en": "Tomb of King Sinmu, Gyeongju",
+      "location": "경북 경주시 동방동 660",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "186호",
+      "name": "경주 정강왕릉",
+      "hanja": "慶州 定康王陵",
+      "name_en": "Tomb of King Jeonggang, Gyeongju",
+      "location": "경북 경주시 남산동 산53",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "187호",
+      "name": "경주 헌강왕릉",
+      "hanja": "慶州 憲康王陵",
+      "name_en": "Tomb of King Heongang, Gyeongju",
+      "location": "경북 경주시 남산동 산55",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "188호",
+      "name": "경주 내물왕릉",
+      "hanja": "慶州 奈勿王陵",
+      "name_en": "Tomb of King Naemul, Gyeongju",
+      "location": "경북 경주시 교동 14",
+      "manager": "경주시",
+      "designated": "1969년 8월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "189호",
+      "name": "충주 임충민공 충렬사",
+      "hanja": "忠州 林忠愍公 忠烈祠",
+      "name_en": "Chungnyeolsa Shrine for Im Gyeong-eop, Chungju",
+      "location": "충북 충주시 충열1길 6 (단월동)",
+      "manager": "충주시",
+      "designated": "1969년 11월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "190호",
+      "name": "경주 전 민애왕릉",
+      "hanja": "慶州 傳 閔哀王陵",
+      "name_en": "Tomb of King Minae, Gyeongju (Presumed)",
+      "location": "경북 경주시 내남면 망성리 산40",
+      "manager": "경주시",
+      "designated": "1970년 2월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "191호",
+      "name": "고려 공양왕릉",
+      "hanja": "高麗 恭讓王陵",
+      "name_en": "Tomb of King Gongyang, Goyang",
+      "location": "경기 고양시 덕양구 원당동 산65-1, 산65-6",
+      "manager": "고양시",
+      "designated": "1970년 2월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "192호",
+      "name": "부산 동래 패총",
+      "hanja": "釜山 東萊 貝塚",
+      "name_en": "Shell Mound in Dongnae, Busan",
+      "location": "부산 동래구 낙민동 100-1번지",
+      "manager": "동래구",
+      "designated": "1970년 4월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "193호",
+      "name": "구리 동구릉",
+      "hanja": "九里 東九陵",
+      "name_en": "East Nine Royal Tombs, Guri",
+      "location": "경기 구리시 동구릉로 197 (인창동)",
+      "manager": "동구릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "194호",
+      "name": "서울 헌릉과 인릉",
+      "hanja": "서울 獻陵과 仁陵",
+      "name_en": "Heolleung and Illeung Royal Tombs, Seoul",
+      "location": "서울 서초구 헌인릉길 34(내곡동)",
+      "manager": "헌릉관리소",
+      "designated": "1970년 5월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "195호",
+      "name": "여주 영릉(英陵)과 영릉(寧陵)",
+      "hanja": "驪州 英陵과 寧陵",
+      "name_en": "Yeongneung and Nyeongneung Royal Tombs, Yeoju",
+      "location": "경기 여주시 능서면 영릉로 269-50",
+      "manager": "세종대왕유적관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "196호",
+      "name": "영월 장릉",
+      "hanja": "寧越 莊陵",
+      "name_en": "Jangneung Royal Tomb, Yeongwol",
+      "location": "강원 영월군 영월읍 단종로 190 (영흥리)",
+      "manager": "영월군",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "197호",
+      "name": "남양주 광릉",
+      "hanja": "南楊州 光陵",
+      "name_en": "Gwangneung Royal Tomb, Namyangju",
+      "location": "경기 남양주시 진접읍 부평리 산99-2",
+      "manager": "광릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "198호",
+      "name": "고양 서오릉",
+      "hanja": "高陽 西五陵",
+      "name_en": "West Five Royal Tombs, Goyang",
+      "location": "경기 고양시 덕양구 서오릉로 334-92 (용두동)",
+      "manager": "서오릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "199호",
+      "name": "서울 선릉과 정릉",
+      "hanja": "서울 宣陵과 靖陵",
+      "name_en": "Seolleung and Jeongneung Royal Tombs, Seoul",
+      "location": "서울 강남구 선릉로100길 1 (삼성동)",
+      "manager": "선릉관리소",
+      "designated": "1970년 5월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "200호",
+      "name": "고양 서삼릉",
+      "hanja": "高陽 西三陵",
+      "name_en": "West Three Royal Tombs, Goyang",
+      "location": "경기 고양시 덕양구 서삼릉길 233-126 (원당동)",
+      "manager": "서오릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "201호",
+      "name": "서울 태릉과 강릉",
+      "hanja": "서울 泰陵과 康陵",
+      "name_en": "Taereung and Gangneung Royal Tombs, Seoul",
+      "location": "서울 노원구 화랑로 681 (공릉동)",
+      "manager": "태릉관리소",
+      "designated": "1970년 5월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "202호",
+      "name": "김포 장릉",
+      "hanja": "金浦 章陵",
+      "name_en": "Jangneung Royal Tomb, Gimpo",
+      "location": "경기 김포시 장릉로 79 (풍무동)",
+      "manager": "장릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "203호",
+      "name": "파주 장릉",
+      "hanja": "坡州 長陵",
+      "name_en": "Jangneung Royal Tomb, Paju",
+      "location": "경기 파주시 탄현면 장릉로 90",
+      "manager": "파주장릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "204호",
+      "name": "서울 의릉",
+      "hanja": "서울 懿陵",
+      "name_en": "Uireung Royal Tomb, Seoul",
+      "location": "서울 성북구 화랑로32길 146-37 (석관동)",
+      "manager": "의릉관리소",
+      "designated": "1970년 5월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "205호",
+      "name": "파주 삼릉",
+      "hanja": "坡州 三陵",
+      "name_en": "Three Royal Tombs, Paju",
+      "location": "경기 파주시 조리읍 삼릉로 89 (봉일천리)",
+      "manager": "파주삼릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "206호",
+      "name": "화성 융릉과 건릉",
+      "hanja": "華城 隆陵과 健陵",
+      "name_en": "Yungneung and Geolleung Royal Tombs, Hwaseong",
+      "location": "경기 화성시 효행로481번길 21 (안녕동)",
+      "manager": "융릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "207호",
+      "name": "남양주 홍릉과 유릉",
+      "hanja": "南楊州 洪陵과 裕陵",
+      "name_en": "Hongneung and Yureung Royal Tombs, Namyangju",
+      "location": "경기 남양주시 홍유릉로 352-1 (금곡동)",
+      "manager": "홍유릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "208호",
+      "name": "서울 정릉",
+      "hanja": "서울 貞陵",
+      "name_en": "Jeongneung Royal Tomb, Seoul",
+      "location": "서울 성북구 정릉로12길 103 (정릉동)",
+      "manager": "정릉관리소",
+      "designated": "1970년 5월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "209호",
+      "name": "남양주 사릉",
+      "hanja": "南楊州 思陵",
+      "name_en": "Sareung Royal Tomb, Namyangju",
+      "location": "경기 남양주시 진건읍 사릉로 180 (사능리)",
+      "manager": "사릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "210호",
+      "name": "양주 온릉",
+      "hanja": "楊州 溫陵",
+      "name_en": "Olleung Royal Tomb, Yangju",
+      "location": "경기 양주시 장흥면 호국로 255-41 (일영리)",
+      "manager": "서오릉관리소",
+      "designated": "1970년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "211호",
+      "name": "인천 경서동 녹청자 요지",
+      "hanja": "仁川 景西洞 綠靑瓷 窯址",
+      "name_en": "Green Celadon Kiln Site in Gyeongseo-dong, Incheon",
+      "location": "인천 서구 검암동 산438-21",
+      "manager": "기타",
+      "designated": "1970년 6월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "212호",
+      "name": "청주 상당산성",
+      "hanja": "淸州 上黨山城",
+      "name_en": "Sangdangsanseong Fortress, Cheongju",
+      "location": "충북 청주시 상당구 성내로124번길 14 (산성동)",
+      "manager": "청주시",
+      "designated": "1970년 10월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "213호",
+      "name": "서울 우정총국",
+      "hanja": "서울 郵征總局",
+      "name_en": "Central Post Office, Seoul",
+      "location": "서울 종로구 우정국로 59 (견지동)",
+      "manager": ".",
+      "designated": "1970년 10월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "214호",
+      "name": "산청 전 구형왕릉",
+      "hanja": "山淸 傳 仇衡王陵",
+      "name_en": "Tomb of King Guhyeong, Sancheong (Presumed)",
+      "location": "경남 산청군 금서면 화계리 산16",
+      "manager": "산청군",
+      "designated": "1971년 2월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "215호",
+      "name": "금정산성",
+      "hanja": "金井山城",
+      "name_en": "Geumjeongsanseong Fortress",
+      "location": "부산 금정구 금성동 43번지",
+      "manager": "금정구청",
+      "designated": "1971년 2월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "216호",
+      "name": "칠곡 가산산성",
+      "hanja": "漆谷 架山山城",
+      "name_en": "Gasansanseong Fortress, Chilgok",
+      "location": "경북 칠곡군 가산면 가산리 산98-1",
+      "manager": "칠곡군",
+      "designated": "1971년 3월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "217호",
+      "name": "화성 당성",
+      "hanja": "華城 唐城",
+      "name_en": "Dangseong Fortress, Hwaseong",
+      "location": "경기 화성시 서신면 상안리 산32",
+      "manager": "화성시",
+      "designated": "1971년 4월 15일 지정",
+      "note": ""
+    },
+    {
+      "number": "218호",
+      "name": "경산 병영유적",
+      "hanja": "慶山 兵營遺蹟",
+      "name_en": "Historic Site of Barracks, Gyeongsan",
+      "location": "경북 경산시 압량읍 압량리 179",
+      "manager": "경산시",
+      "designated": "1971년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "219호",
+      "name": "경주 배동 삼릉",
+      "hanja": "慶州 拜洞 三陵",
+      "name_en": "Three Royal Tombs in Bae-dong, Gyeongju",
+      "location": "경북 경주시 배동 73-1",
+      "manager": "경주시",
+      "designated": "1971년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "220호",
+      "name": "경주 희강왕릉",
+      "hanja": "慶州 僖康王陵",
+      "name_en": "Tomb of King Huigang, Gyeongju",
+      "location": "경북 경주시 내남면 망성리 34",
+      "manager": "경주시",
+      "designated": "1971년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "221호",
+      "name": "경주 지마왕릉",
+      "hanja": "慶州 祗摩王陵",
+      "name_en": "Tomb of King Jima, Gyeongju",
+      "location": "경북 경주시 배동 30",
+      "manager": "경주시",
+      "designated": "1971년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "222호",
+      "name": "경주 경애왕릉",
+      "hanja": "慶州 景哀王陵",
+      "name_en": "Tomb of King Gyeongae, Gyeongju",
+      "location": "경북 경주시 배동 산73-1",
+      "manager": "경주시",
+      "designated": "1971년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "223호",
+      "name": "연천 숭의전지",
+      "hanja": "漣川 崇義殿址",
+      "name_en": "Sunguijeon Shrine Site, Yeoncheon",
+      "location": "경기 연천군 미산면 숭의전로 382-27 (아미리)",
+      "manager": "연천군",
+      "designated": "1971년 12월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "224호",
+      "name": "강화 홍릉",
+      "hanja": "江華 洪陵",
+      "name_en": "Hongneung Royal Tomb, Ganghwa",
+      "location": "인천 강화군 강화읍 국화리 산180",
+      "manager": "강화군",
+      "designated": "1971년 12월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "225호",
+      "name": "강화 초지진",
+      "hanja": "江華 草芝鎭",
+      "name_en": "Chojijin Fort, Ganghwa",
+      "location": "인천 강화군 길상면 초지리 624",
+      "manager": "강화군",
+      "designated": "1971년 12월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "226호",
+      "name": "강화 덕진진",
+      "hanja": "江華 德津鎭",
+      "name_en": "Deokjinjin Fort, Ganghwa",
+      "location": "인천 강화군 불은면 덕성리 846",
+      "manager": "강화군",
+      "designated": "1971년 12월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "227호",
+      "name": "강화 광성보",
+      "hanja": "江華 廣城堡",
+      "name_en": "Gwangseongbo Fort, Ganghwa",
+      "location": "인천 강화군 불은면 덕성리 833",
+      "manager": "강화군",
+      "designated": "1971년 12월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "228호",
+      "name": "북한산 진흥왕 순수비지",
+      "hanja": "北漢山 眞興王 巡狩碑址",
+      "name_en": "Site of the Monument on Bukhansan Mountain Commemorating the Border Inspection by King Jinheung",
+      "location": "서울 종로구 구기동 산3",
+      "manager": "종로구",
+      "designated": "1972년 7월 24일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "229호",
+      "name": "예산 윤봉길 의사 유적",
+      "hanja": "禮山 尹奉吉 義士 遺蹟",
+      "name_en": "Historic Site Related to Yun Bong-gil, Yesan",
+      "location": "충남 예산군 덕산면 시량리 산40-1",
+      "manager": "예산군",
+      "designated": "1972년 10월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "230호",
+      "name": "천안 유관순 열사 유적",
+      "hanja": "天安 柳寬順 烈士 遺蹟",
+      "name_en": "Historic Site Related to Yu Gwan-sun, Cheonan",
+      "location": "충남 천안시 동남구 병천면 탑원리 338-1",
+      "manager": "천안시",
+      "designated": "1972년 10월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "231호",
+      "name": "홍성 홍주읍성",
+      "hanja": "洪城 洪州邑城",
+      "name_en": "Hongjueupseong Walled Town, Hongseong",
+      "location": "충남 홍성군 홍성읍 오관리 200-2",
+      "manager": "홍성군",
+      "designated": "1972년 10월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "232호",
+      "name": "남해 관음포 이충무공 유적",
+      "hanja": "南海 觀音浦 李忠武公 遺蹟",
+      "name_en": "Historic Site Related to Yi Sun-sin at Gwaneumpo Port, Namhae",
+      "location": "경남 남해군 고현면 차면리 산125",
+      "manager": "남해군",
+      "designated": "1973년 6월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "233호",
+      "name": "남해 충렬사",
+      "hanja": "南海 忠烈祠",
+      "name_en": "Chungnyeolsa Shrine, Namhae",
+      "location": "경남 남해군 설천면 노량리 350",
+      "manager": "남해군",
+      "designated": "1973년 6월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "234호",
+      "name": "아차산성",
+      "hanja": "阿且山城",
+      "name_en": "Achasanseong Fortress",
+      "location": "서울 광진구 광장동 산16-46,구의동 산1-2",
+      "manager": "광진구",
+      "designated": "1973년 5월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "235호",
+      "name": "보은 삼년산성",
+      "hanja": "報恩 三年山城",
+      "name_en": "Samnyeon Sanseong Fortress, Boeun",
+      "location": "충북 보은군 보은읍 성주1길 104 (어암리)",
+      "manager": "보은군",
+      "designated": "1973년 5월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "236호",
+      "name": "통영 충렬사",
+      "hanja": "統營 忠烈祠",
+      "name_en": "Chungnyeolsa Shrine, Tongyeong",
+      "location": "경남 통영시 여황로 251 (명정동)",
+      "manager": "(재)통영충렬사",
+      "designated": "1973년 6월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "237호",
+      "name": "서울 경모궁지",
+      "hanja": "서울 景慕宮址",
+      "name_en": "Gyeongmogung Shrine Site, Seoul",
+      "location": "서울 종로구 연건동 28-2",
+      "manager": "종로구",
+      "designated": "1973년 8월 14일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "238호",
+      "name": "영주 순흥 어숙묘",
+      "hanja": "榮州 順興 於宿墓",
+      "name_en": "Tomb of Eo Suk in Sunheung, Yeongju",
+      "location": "경북 영주시 순흥면 태장리 산95",
+      "manager": "영주시",
+      "designated": "1974년 12월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "239호",
+      "name": "거창 둔마리 벽화 고분",
+      "hanja": "居昌 屯馬里 壁畵 古墳",
+      "name_en": "Mural Tomb in Dunma-ri, Geochang",
+      "location": "경남 거창군 남하면 둔마리 산298-1",
+      "manager": "거창군",
+      "designated": "1975년 1월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "240호",
+      "name": "창원 성산 패총",
+      "hanja": "昌原 城山 貝塚",
+      "name_en": "Shell Mound in Seongsan, Changwon",
+      "location": "경남 창원시 성산구 외동 86-1",
+      "manager": "창원시",
+      "designated": "1974년 11월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "241호",
+      "name": "경주 화산리 회유토기 요지",
+      "hanja": "慶州 花山里 灰釉土器 窯址",
+      "name_en": "Ash-glazed Pottery Kiln Site in Hwasan-ri, Gyeongju",
+      "location": "경북 경주시 천북면 화산리 942-1",
+      "manager": "경주시",
+      "designated": "1974년 12월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "242호",
+      "name": "장성 필암서원",
+      "hanja": "長城 筆巖書院",
+      "name_en": "Piramseowon Confucian Academy, Jangseong",
+      "location": "전남 장성군 황룡면 필암리 378-379",
+      "manager": "장성군",
+      "designated": "1975년 4월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "243호",
+      "name": "서울 석촌동 고분군",
+      "hanja": "서울 石村洞 古墳群",
+      "name_en": "Ancient Tombs in Seokchon-dong, Seoul",
+      "location": "서울 송파구 석촌동 61-6",
+      "manager": "송파구",
+      "designated": "1975년 5월 27일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "244호",
+      "name": "연천 경순왕릉",
+      "hanja": "漣川 敬順王陵",
+      "name_en": "Tomb of King Gyeongsun, Yeoncheon",
+      "location": "경기 연천군 백학면 고랑포리 산18-2",
+      "manager": "연천군",
+      "designated": "1975년 6월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "245호",
+      "name": "경주 나정",
+      "hanja": "慶州 蘿井",
+      "name_en": "Najeong Well, Gyeongju",
+      "location": "경북 경주시 탑동 700-1",
+      "manager": "경주시",
+      "designated": "1975년 11월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "246호",
+      "name": "경주 재매정",
+      "hanja": "慶州 財買井",
+      "name_en": "Jaemaejeong Well, Gyeongju",
+      "location": "경북 경주시 교동 89-7",
+      "manager": "경주시",
+      "designated": "1976년 1월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "247호",
+      "name": "서울 남현동 요지",
+      "hanja": "서울 南峴洞 窯址",
+      "name_en": "Kiln Site in Namhyeon-dong, Seoul",
+      "location": "서울 관악구 남현3길 60 (남현동)",
+      "manager": "관악구",
+      "designated": "1976년 4월 10일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "248호",
+      "name": "서울 대한의원",
+      "hanja": "서울 大韓醫院",
+      "name_en": "Daehan Hospital, Seoul",
+      "location": "서울 종로구 연건동 28",
+      "manager": ".",
+      "designated": "1976년 11월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "249호",
+      "name": "부여 송국리 유적",
+      "hanja": "扶餘 松菊里 遺蹟",
+      "name_en": "Archaeological Site in Songguk-ri, Buyeo",
+      "location": "충남 부여군 초촌면 송국리 산24-1외",
+      "manager": "부여군",
+      "designated": "1976년 12월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "250호",
+      "name": "고창 분청사기 요지",
+      "hanja": "高敞 粉靑砂器 窯址",
+      "name_en": "Buncheong Kiln Site, Gochang",
+      "location": "전북 고창군 부안면 수동리 산11",
+      "manager": "고창군",
+      "designated": "1977년 1월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "251호",
+      "name": "여주 파사성",
+      "hanja": "驪州 婆娑城",
+      "name_en": "Pasaseong Fortress, Yeoju",
+      "location": "경기 여주시 대신면 천서리 산8-10",
+      "manager": "여주시",
+      "designated": "1977년 7월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "252호",
+      "name": "서울 약현성당",
+      "hanja": "서울 藥峴聖堂",
+      "name_en": "Yakhyeon Catholic Church, Seoul",
+      "location": "서울 중구 중림동 149-2",
+      "manager": ".",
+      "designated": "1977년 11월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "253호",
+      "name": "서울 구 러시아공사관",
+      "hanja": "서울 舊 러시아公使館",
+      "name_en": "Former Russian Legation, Seoul",
+      "location": "서울 중구 정동길 21-18 (정동)",
+      "manager": "중구",
+      "designated": "1977년 11월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "254호",
+      "name": "서울 구 벨기에영사관",
+      "hanja": "서울 舊 벨기에領事館",
+      "name_en": "Former Belgian Consulate, Seoul",
+      "location": "서울 관악구 남현동 1095-13",
+      "manager": "서울특별시장",
+      "designated": "1977년 11월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "255호",
+      "name": "용산신학교와원효로성당",
+      "hanja": "龍山神學校와元曉路聖堂",
+      "name_en": "",
+      "location": "서울 용산구 원효로19길 49 (원효로4가)",
+      "manager": ".",
+      "designated": "1977년 11월 22일 지정, 2012년 6월 20일 해제, 사적 520호 와 사적 521호 로 분리 재지정",
+      "note": ""
+    },
+    {
+      "number": "256호",
+      "name": "서울 정동교회",
+      "hanja": "서울 貞洞敎會",
+      "name_en": "Chungdong First Methodist Church, Seoul",
+      "location": "서울 중구 정동 32-2",
+      "manager": ".",
+      "designated": "1977년 11월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "257호",
+      "name": "서울 운현궁",
+      "hanja": "서울 雲峴宮",
+      "name_en": "Unhyeongung Palace, Seoul",
+      "location": "서울 종로구 삼일대로 460 (운니동)",
+      "manager": "서울특별시,학교법인덕성학원",
+      "designated": "1977년 11월 22일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "258호",
+      "name": "서울 명동성당",
+      "hanja": "서울 明洞聖堂",
+      "name_en": "Myeongdong Cathedral, Seoul",
+      "location": "서울 중구 명동2가 1-8",
+      "manager": ".",
+      "designated": "1977년 11월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "259호",
+      "name": "강화 선원사지",
+      "hanja": "江華 仙源寺址",
+      "name_en": "Seonwonsa Temple Site, Ganghwa",
+      "location": "인천 강화군 선원면 지산리 산133",
+      "manager": "강화군",
+      "designated": "1977년 11월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "260호",
+      "name": "안동 병산서원",
+      "hanja": "安東 屛山書院",
+      "name_en": "Byeongsanseowon Confucian Academy, Andong",
+      "location": "경북 안동시 풍천면 병산리 30",
+      "manager": "안동시",
+      "designated": "1978년 3월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "261호",
+      "name": "김해 예안리 고분군",
+      "hanja": "金海 禮安里 古墳郡",
+      "name_en": "Ancient Tombs in Yean-ri, Gimhae",
+      "location": "경남 김해시 대동면 예안리 369-6",
+      "manager": "김해시",
+      "designated": "1978년 6월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "262호",
+      "name": "대구 불로동 고분군",
+      "hanja": "大邱 不老洞 古墳群",
+      "name_en": "Ancient Tombs in Bullo-dong, Daegu",
+      "location": "대구 동구 불로동 335",
+      "manager": "동구",
+      "designated": "1978년 6월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "263호",
+      "name": "경주 동방동 와요지",
+      "hanja": "慶州 東方洞 瓦窯址",
+      "name_en": "Roof Tile Kiln Site in Dongbang-dong, Gyeongju",
+      "location": "경북 경주시 동방동 343-4",
+      "manager": "경주시",
+      "designated": "1978년 6월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "264호",
+      "name": "단양 온달산성",
+      "hanja": "丹陽 溫達山城",
+      "name_en": "Ondalsanseong Fortress, Danyang",
+      "location": "충북 단양군 영춘면 하리 산67",
+      "manager": "단양군",
+      "designated": "1979년 7월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "265호",
+      "name": "단양 적성",
+      "hanja": "丹陽 赤城",
+      "name_en": "Jeokseong Fortress, Danyang",
+      "location": "충북 단양군 단성면 하방리 산3-1",
+      "manager": "단양군",
+      "designated": "1979년 7월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "266호",
+      "name": "부산 동삼동 패총",
+      "hanja": "釜山 東三洞 貝塚",
+      "name_en": "Shell Mound in Dongsam-dong, Busan",
+      "location": "부산 영도구 동삼2동 750-1번지",
+      "manager": "영도구",
+      "designated": "1979년 7월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "267호",
+      "name": "서울 암사동 유적",
+      "hanja": "서울 岩寺洞 遺蹟",
+      "name_en": "Archaeological Site in Amsa-dong, Seoul",
+      "location": "서울 강동구 암사동 155",
+      "manager": "강동구",
+      "designated": "1979년 7월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "268호",
+      "name": "연천 전곡리 유적",
+      "hanja": "漣川 全谷里 遺蹟",
+      "name_en": "Archaeological Site in Jeongok-ri, Yeoncheon",
+      "location": "경기 연천군 전곡읍 전곡리 178-1",
+      "manager": "연천군",
+      "designated": "1979년 10월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "269호",
+      "name": "하남 미사리 유적",
+      "hanja": "河南 渼沙里 遺蹟",
+      "name_en": "Archaeological Site in Misa-ri, Hanam",
+      "location": "경기 하남시 미사동 557외",
+      "manager": "하남시",
+      "designated": "1979년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "270호",
+      "name": "서울 방이동 고분군",
+      "hanja": "서울 芳荑洞 古墳群",
+      "name_en": "Ancient Tombs in Bangi-dong, Seoul",
+      "location": "서울 송파구 방이동 125",
+      "manager": "송파구",
+      "designated": "1979년 12월 28일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "271호",
+      "name": "경희궁지",
+      "hanja": "慶熙宮址",
+      "name_en": "Gyeonghuigung Palace Site",
+      "location": "서울 종로구 새문안로 45 (신문로2가)",
+      "manager": "서울역사박물관, 종로구",
+      "designated": "1980년 9월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "272호",
+      "name": "남원 만인의총",
+      "hanja": "南原 萬人義塚",
+      "name_en": "Tomb of Ten Thousand Patriotic Martyrs, Namwon",
+      "location": "전북 남원시 향교동 636",
+      "manager": "전라북도",
+      "designated": "1981년 4월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "273호",
+      "name": "부산 복천동 고분군",
+      "hanja": "釜山 福泉洞 古墳群",
+      "name_en": "Ancient Tombs in Bokcheon-dong, Busan",
+      "location": "부산 동래구 복천동 일원",
+      "manager": "부산광역시청(부산시립박물관)",
+      "designated": "1981년 6월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "274호",
+      "name": "신안 해저유물 매장해역",
+      "hanja": "新安 海底遺物 埋藏海域",
+      "name_en": "Sea Area with Sunken Relics, Sinan",
+      "location": "전남 신안군 증도면 방축리 해상",
+      "manager": "신안군(반경2km내해역)",
+      "designated": "1981년 6월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "275호",
+      "name": "서울 연세대학교 스팀슨관(Stimson Hall) (서울 延世大學校 스팀슨館(Stimson Hall)) (Stimson Hall of Yonsei University, Seoul)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서대문구 연세로 50 (신촌동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "276호",
+      "name": "서울 연세대학교 언더우드관(Underwood Hall) (서울 延世大學校 언더우드館(Underwood Hall)) (Underwood Hall of Yonsei University, Seoul)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서대문구 연세로 50 (신촌동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "277호",
+      "name": "서울 연세대학교 아펜젤러관(Appenzeller Hall) (서울 延世大學校 아펜젤러館(Appenzeller Hall)) (Appenzeller Hall of Yonsei University, Seoul)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서대문구 연세로 50 (신촌동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "278호",
+      "name": "구 서울대학교 본관",
+      "hanja": "舊 서울大學校 本館",
+      "name_en": "Former Main Building of Seoul National University",
+      "location": "서울 종로구 동숭길 3 (동숭동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "279호",
+      "name": "구공업전습소본관",
+      "hanja": "舊工業傳習所本館",
+      "name_en": "Main Building of Former National Industrial Institute",
+      "location": "서울 종로구 동숭동 199-1",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "280호",
+      "name": "서울 한국은행 본관",
+      "hanja": "서울 韓國銀行 本館",
+      "name_en": "Main Building of the Bank of Korea, Seoul",
+      "location": "서울 중구 남대문로 39 (남대문로3가)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "281호",
+      "name": "서울 중앙고등학교 본관",
+      "hanja": "서울 中央高等學校 本館",
+      "name_en": "Main Building of Choong Ang High School, Seoul",
+      "location": "서울 종로구 창덕궁길 164 (계동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "282호",
+      "name": "서울 중앙고등학교 서관",
+      "hanja": "서울 中央高等學校 西館",
+      "name_en": "West Building of Choong Ang High School, Seoul",
+      "location": "서울 종로구 창덕궁길 164 (계동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "283호",
+      "name": "서울 중앙고등학교 동관",
+      "hanja": "서울 中央高等學校 東館",
+      "name_en": "East Building of Choong Ang High School, Seoul",
+      "location": "서울 종로구 창덕궁길 164 (계동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "284호",
+      "name": "구 서울역사",
+      "hanja": "舊 서울驛舍",
+      "name_en": "Former Seoul Station Building",
+      "location": "서울 중구 통일로 1 (봉래동2가)",
+      "manager": "문화체육관광부",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "285호",
+      "name": "서울 고려대학교 본관",
+      "hanja": "서울 高麗大學校 本館",
+      "name_en": "Former Seoul Station Building",
+      "location": "서울 성북구 안암동5가 1",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "286호",
+      "name": "서울 고려대학교 중앙도서관",
+      "hanja": "서울 高麗大學校 中央圖書館",
+      "name_en": "Central Library of Korea University, Seoul",
+      "location": "서울 성북구 안암동5가 1",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "287호",
+      "name": "인천 답동성당",
+      "hanja": "仁川 沓洞聖堂",
+      "name_en": "Dapdong Cathedral, Incheon",
+      "location": "인천 중구 우현로50번길 2 (답동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "288호",
+      "name": "전주 전동성당",
+      "hanja": "全州 殿洞聖堂",
+      "name_en": "Jeondong Catholic Cathedral, Jeonju",
+      "location": "전북 전주시 완산구 태조로 51 (전동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "289호",
+      "name": "구 목포 일본영사관",
+      "hanja": "舊 木浦 日本領事館",
+      "name_en": "Former Japanese Consulate, Mokpo",
+      "location": "전남 목포시 영산로29번길 6 (대의동2가)",
+      "manager": "목포시",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "290호",
+      "name": "대구 계산동성당",
+      "hanja": "大邱 桂山洞聖堂",
+      "name_en": "Gyesandong Cathedral, Daegu",
+      "location": "대구 중구 서성로 20 (계산동2가)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "291호",
+      "name": "창원 진해우체국",
+      "hanja": "昌原 鎭海郵遞局",
+      "name_en": "Jinhae Post Office, Changwon",
+      "location": "경남 창원시 진해구 백구로 40 (통신동)",
+      "manager": ".",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "292호",
+      "name": "김포 덕포진",
+      "hanja": "金浦 德浦鎭",
+      "name_en": "Deokpojin Fort, Gimpo",
+      "location": "경기 김포시 대곶면 신안리 산103-1",
+      "manager": "김포시",
+      "designated": "1981년 9월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "293호",
+      "name": "정읍 전봉준 유적",
+      "hanja": "井邑 全琫準 遺蹟",
+      "name_en": "Historic Site Related to Jeon Bong-jun, Jeongeup",
+      "location": "전북 정읍시 이평면 조소1길 20 (장내리)",
+      "manager": "정읍시",
+      "designated": "1981년 11월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "294호",
+      "name": "전주 남고산성",
+      "hanja": "全州 南固山城",
+      "name_en": "Namgosanseong Fortress, Jeonju",
+      "location": "전북 전주시 완산구 동서학동 산228",
+      "manager": "전주시",
+      "designated": "1981년 12월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "295호",
+      "name": "정읍 황토현 전적",
+      "hanja": "井邑 黃土峴 戰蹟",
+      "name_en": "Hwangtohyeon Battlefield, Jeongeup",
+      "location": "전북 정읍시 덕천면 동학로 742 (하학리)",
+      "manager": "정읍시",
+      "designated": "1981년 12월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "296호",
+      "name": "서울 관상감 관천대",
+      "hanja": "서울 觀象監 觀天臺",
+      "name_en": "",
+      "location": "서울 종로구 원서동 206-2",
+      "manager": "종로구",
+      "designated": "1982년 3월 26일 지정, 2011년 7월 28일 명칭변경, 2011년 12월 23일 해제, 보물 제1740호 로 승격",
+      "note": ""
+    },
+    {
+      "number": "297호",
+      "name": "서울 몽촌토성",
+      "hanja": "서울 夢村土城",
+      "name_en": "Mongchontoseong Earthen Fortification, Seoul",
+      "location": "서울 송파구 방이동 88-3",
+      "manager": "송파구",
+      "designated": "1982년 7월 22일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "298호",
+      "name": "남원읍성",
+      "hanja": "南原邑城",
+      "name_en": "Namwoneupseong Walled Town",
+      "location": "전북 남원시 동충동 464-1",
+      "manager": "남원시",
+      "designated": "1982년 11월 3일 지정",
+      "note": ""
+    },
+    {
+      "number": "299호",
+      "name": "화성 제암리 3·1운동 순국 유적",
+      "hanja": "華城 堤岩里 3·1運動 殉國 遺蹟",
+      "name_en": "Historic Site of March First Independence Movement in Jeam-ri, Hwaseong",
+      "location": "경기 화성시 향남읍 제암리 322-4",
+      "manager": "화성시",
+      "designated": "1982년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "300호",
+      "name": "경산임당동고분군",
+      "hanja": "慶山林堂洞古墳群",
+      "name_en": "",
+      "location": "경북 경산시 임당동 676-1",
+      "manager": "경산시",
+      "designated": "1983년 2월 3일 지정, 2011년 7월 28일 해제, 사적 제516호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "301호",
+      "name": "부여 정림사지",
+      "hanja": "扶餘 定林寺址",
+      "name_en": "Jeongnimsa Temple Site, Buyeo",
+      "location": "충남 부여군 부여읍 동남리 254",
+      "manager": "부여군",
+      "designated": "1983년 3월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "302호",
+      "name": "순천 낙안읍성",
+      "hanja": "順天 樂安邑城",
+      "name_en": "Naganeupseong Walled Town, Suncheon",
+      "location": "전남 순천시 낙안면 동·서·남내리",
+      "manager": "순천시",
+      "designated": "1983년 6월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "303호",
+      "name": "광한루원",
+      "hanja": "廣寒樓苑",
+      "name_en": "",
+      "location": "전북 남원시 천거동 78",
+      "manager": "남원시",
+      "designated": "1983년 7월 20일 지정, 2008년 1월 8일 해지, 명승 제33호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "304호",
+      "name": "담양소쇄원",
+      "hanja": "潭陽瀟灑園",
+      "name_en": "",
+      "location": "전남 담양군 남면 지곡리 123",
+      "manager": "담양군",
+      "designated": "1983년 7월 20일 지정, 2008년 5월 2일 해제, 명승 제40호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "305호",
+      "name": "산청 조식 유적",
+      "hanja": "山淸 曺植 遺蹟",
+      "name_en": "Historic Site Related to Jo Sik, Sancheong",
+      "location": "경남 산청군 시천면 원리, 사리 산72",
+      "manager": "창녕조씨문중",
+      "designated": "1984년 1월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "306호",
+      "name": "강화 갑곶돈",
+      "hanja": "江華 甲串墩",
+      "name_en": "Gapgotdon Watchtower, Ganghwa",
+      "location": "인천 강화군 강화읍 갑곳리 1020외",
+      "manager": "강화군",
+      "designated": "1984년 8월 13일 지정",
+      "note": ""
+    },
+    {
+      "number": "307호",
+      "name": "보령 성주사지",
+      "hanja": "保寧 聖住寺址",
+      "name_en": "Seongjusa Temple Site, Boryeong",
+      "location": "충남 보령시 성주면 성주리 72",
+      "manager": "보령시",
+      "designated": "1984년 8월 13일 지정",
+      "note": ""
+    },
+    {
+      "number": "308호",
+      "name": "완도 청해진 유적",
+      "hanja": "莞島 淸海鎭 遺蹟",
+      "name_en": "Historic Site of Cheonghaejin Fort, Wando",
+      "location": "전남 완도군 완도읍 장좌리 734",
+      "manager": "완도군",
+      "designated": "1984년 9월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "309호",
+      "name": "남원 실상사",
+      "hanja": "南原 實相寺",
+      "name_en": "Silsangsa Temple, Namwon",
+      "location": "전북 남원시 산내면 입석리 33-3외",
+      "manager": "대한불교조계종 실상사",
+      "designated": "1984년 10월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "310호",
+      "name": "해남 진산리 청자 요지",
+      "hanja": "海南 珍山里 靑磁 窯址",
+      "name_en": "Celadon Kiln Site in Jinsan-ri, Haenam",
+      "location": "전남 해남군 산이면 진산리 136외",
+      "manager": "해남군",
+      "designated": "1985년 1월 4일 지정",
+      "note": ""
+    },
+    {
+      "number": "311호",
+      "name": "경주 남산 일원",
+      "hanja": "慶州 南山 一圓",
+      "name_en": "Archaeological Area of Namsan Mountain, Gyeongju",
+      "location": "경북 경주시 인왕동 외4개동, 내남면 용장리 외2개리",
+      "manager": "경주시",
+      "designated": "1985년 2월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "312호",
+      "name": "화순 운주사지",
+      "hanja": "和順 雲住寺址",
+      "name_en": "Unjusa Temple Site, Hwasun",
+      "location": "전남 화순군 도암면 대초리, 용강리 산3외",
+      "manager": "화순군",
+      "designated": "1985년 4월 15일 지정",
+      "note": ""
+    },
+    {
+      "number": "313호",
+      "name": "영주 순흥 벽화 고분",
+      "hanja": "榮州 順興 壁畵 古墳",
+      "name_en": "Mural Tomb in Sunheung, Yeongju",
+      "location": "경북 영주시 순흥면 읍내리 산29-1",
+      "manager": "영주시",
+      "designated": "1985년 11월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "314호",
+      "name": "광주 조선백자 요지",
+      "hanja": "廣州 朝鮮白磁 窯址",
+      "name_en": "Joseon White Porcelain Kiln Site, Gwangju",
+      "location": "경기 광주시 남한산성면 외 5개면, 1개동",
+      "manager": "광주시",
+      "designated": "1985년 11월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "315호",
+      "name": "청주 흥덕사지",
+      "hanja": "淸州 興德寺址",
+      "name_en": "Heungdeoksa Temple Site, Cheongju",
+      "location": "충북 청주시 흥덕구 직지대로 713 (운천동)",
+      "manager": "청주시",
+      "designated": "1986년 5월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "316호",
+      "name": "서산 보원사지",
+      "hanja": "瑞山 普願寺址",
+      "name_en": "Bowonsa Temple Site, Seosan",
+      "location": "충남 서산시 운산면 용현리 105",
+      "manager": "서산시",
+      "designated": "1987년 7월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "317호",
+      "name": "충주 미륵대원지",
+      "hanja": "忠州 彌勒大院址",
+      "name_en": "Mireukdaewon Stone Temple Site, Chungju",
+      "location": "충북 충주시 수안보면 미륵리 58",
+      "manager": "충주시",
+      "designated": "1987년 7월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "318호",
+      "name": "익산 나바위성당",
+      "hanja": "益山 나바위聖堂",
+      "name_en": "Nabawi Shrine, Iksan",
+      "location": "전북 익산시 망성면 나바위1길 146 (화산리)",
+      "manager": ".",
+      "designated": "1987년 7월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "319호",
+      "name": "청주 신봉동 고분군",
+      "hanja": "淸州 新鳳洞 古墳群",
+      "name_en": "Ancient Tombs in Sinbong-dong, Cheongju",
+      "location": "충북 청주시 흥덕구 신봉동 산7",
+      "manager": "청주시",
+      "designated": "1987년 7월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "320호",
+      "name": "울산 경상좌도병영성",
+      "hanja": "蔚山 慶尙左道兵營城",
+      "name_en": "Military Headquarters of Gyeongsangjwa-do Province, Ulsan",
+      "location": "울산 중구 서동 149-8번지 외",
+      "manager": "중구",
+      "designated": "1987년 7월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "321호",
+      "name": "보령 죽도 해저유물 매장해역",
+      "hanja": "保寧 竹島 海底遺物 埋藏海域",
+      "name_en": "Sea Area with Sunken Relics near Jukdo Island, Boryeong",
+      "location": "충남 보령시 주포면 송학리 죽도앞바다",
+      "manager": "보령시",
+      "designated": "1987년 9월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "322호",
+      "name": "함양 황석산성",
+      "hanja": "咸陽 黃石山城",
+      "name_en": "Hwangseoksanseong Fortress, Hamyang",
+      "location": "경남 함양군 서하면 봉전리 산153-2",
+      "manager": "함양군",
+      "designated": "1987년 9월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "323호",
+      "name": "파주 윤관장군묘",
+      "hanja": "坡州 尹瓘將軍墓",
+      "name_en": "Tomb of General Yun Gwan, Paju",
+      "location": "경기 파주시 광탄면 혜음로 930 (분수리)",
+      "manager": "파주시",
+      "designated": "1988년 2월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "324호",
+      "name": "서울 구 서대문형무소",
+      "hanja": "서울 舊 西大門刑務所",
+      "name_en": "Former Seodaemun Prison, Seoul",
+      "location": "서울 서대문구 현저동 101",
+      "manager": "서대문구",
+      "designated": "1988년 2월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "325호",
+      "name": "진천산수리백제요지",
+      "hanja": "鎭川山水里百濟窯址",
+      "name_en": "",
+      "location": "충북 진천군 덕산면 산수리 196-3",
+      "manager": "진천군",
+      "designated": "1988년 2월 27일 지정, 2011년 7월 28일 해제, 사적 제511호 로 통합",
+      "note": ""
+    },
+    {
+      "number": "326호",
+      "name": "합천 옥전 고분군",
+      "hanja": "陜川 玉田 古墳群",
+      "name_en": "Ancient Tombs in Okjeon, Hapcheon",
+      "location": "경남 합천군 쌍책면 성산리 산23외",
+      "manager": "합천군",
+      "designated": "1988년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "327호",
+      "name": "창원 다호리 고분군",
+      "hanja": "昌原 茶戶里 古墳群",
+      "name_en": "Ancient Tombs in Daho-ri, Changwon",
+      "location": "경남 창원시 의창구 동읍 다호리 237-3",
+      "manager": "창원시",
+      "designated": "1988년 9월 3일 지정",
+      "note": ""
+    },
+    {
+      "number": "328호",
+      "name": "경주 용강동 고분",
+      "hanja": "慶州 龍江洞 古墳",
+      "name_en": "Ancient Tomb in Yonggang-dong, Gyeongju",
+      "location": "경북 경주시 용강동 1130-2외",
+      "manager": "경주시",
+      "designated": "1989년 1월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "329호",
+      "name": "용인 서리 고려백자 요지",
+      "hanja": "龍仁 西里 高麗白磁 窯址",
+      "name_en": "Goryeo White Porcelain Kiln Site in Seo-ri, Yongin",
+      "location": "경기 용인시 처인구 이동읍 중덕로 7, 외 (서리)",
+      "manager": "용인시",
+      "designated": "1989년 1월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "330호",
+      "name": "서울 효창공원",
+      "hanja": "서울 孝昌公園",
+      "name_en": "Hyochang Park, Seoul",
+      "location": "서울 용산구 효창동, 청파동2가 및 마포구 신공덕동, 공덕동",
+      "manager": "용산구",
+      "designated": "1989년 6월 8일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "331호",
+      "name": "경산조영동고분군",
+      "hanja": "慶山造永洞古墳群",
+      "name_en": "",
+      "location": "경북 경산시 조영동, 경산시 압량면 부적리 일원",
+      "manager": "경산시",
+      "designated": "1989년 8월 21일 지정, 2011년 7월 28일 해제, 사적 516호 로 통합",
+      "note": ""
+    },
+    {
+      "number": "332호",
+      "name": "울주 검단리 유적",
+      "hanja": "蔚州 檢丹里 遺蹟",
+      "name_en": "Hyochang Park, Seoul",
+      "location": "울산 울주군 웅촌면 검단리 산62외",
+      "manager": "울주군",
+      "designated": "1990년 8월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "333호",
+      "name": "공주 학봉리 요지",
+      "hanja": "公州 鶴峰里 窯址",
+      "name_en": "Kiln Site in Hakbong-ri, Gongju",
+      "location": "충남 공주시 반포면 학봉리 산22-1외",
+      "manager": "공주시",
+      "designated": "1990년 8월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "334호",
+      "name": "공주 석장리 유적",
+      "hanja": "公州 石莊里 遺蹟",
+      "name_en": "Archaeological Site in Seokjang-ri, Gongju",
+      "location": "충남 공주시 석장리동 98 외",
+      "manager": "공주시",
+      "designated": "1990년 10월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "335호",
+      "name": "통영 연대도 패총",
+      "hanja": "統營 煙臺島 貝塚",
+      "name_en": "Shell Mound on Yeondaedo Island, Tongyeong",
+      "location": "경남 통영시 산양읍 연곡리 24-17외",
+      "manager": "통영시",
+      "designated": "1990년 10월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "336호",
+      "name": "구미 낙산리 고분군",
+      "hanja": "龜尾 洛山里 古墳群",
+      "name_en": "Ancient Tombs in Naksan-ri, Gumi",
+      "location": "경북 구미시 해평면 낙산리 98-4외",
+      "manager": "구미시",
+      "designated": "1990년 10월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "337호",
+      "name": "나주읍성",
+      "hanja": "羅州邑城",
+      "name_en": "Najueupseong Walled Town",
+      "location": "전남 나주시 남내동 2-20외",
+      "manager": "나주시",
+      "designated": "1990년 10월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "338호",
+      "name": "영암 구림리 요지",
+      "hanja": "靈岩 鳩林里 窯址",
+      "name_en": "Kiln Site in Gurim-ri, Yeongam",
+      "location": "전남 영암군 군서면 서구림리 320외",
+      "manager": "영암군",
+      "designated": "1990년 10월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "339호",
+      "name": "전주 경기전",
+      "hanja": "全州 慶基殿",
+      "name_en": "Gyeonggijeon Shrine, Jeonju",
+      "location": "전북 전주시 완산구 풍남동3가 102",
+      "manager": "전주시",
+      "designated": "1991년 1월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "340호",
+      "name": "경주 천관사지",
+      "hanja": "慶州 天官寺址",
+      "name_en": "Cheongwansa Temple Site, Gyeongju",
+      "location": "경북 경주시 교동 244",
+      "manager": "경주시",
+      "designated": "1991년 1월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "341호",
+      "name": "김해 대성동 고분군",
+      "hanja": "金海 大成洞 古墳群",
+      "name_en": "Ancient Tombs in Daeseong-dong, Gimhae",
+      "location": "경남 김해시 가야의길 126",
+      "manager": "김해시",
+      "designated": "1991년 1월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "342호",
+      "name": "군포 산본동 조선백자 요지",
+      "hanja": "軍浦 山本洞 朝鮮白磁 窯址",
+      "name_en": "Joseon White Porcelain Kiln Site in Sanbon-dong, Gunpo",
+      "location": "경기 군포시 산본동 1057-4",
+      "manager": "군포시",
+      "designated": "1991년 1월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "343호",
+      "name": "서울 호암산성",
+      "hanja": "서울 虎巖山城",
+      "name_en": "Hoamsanseong Fortress, Seoul",
+      "location": "서울 금천구 시흥동 산83-1외",
+      "manager": "금천구",
+      "designated": "1991년 2월 26일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "344호",
+      "name": "진천삼용리백제토기요지",
+      "hanja": "鎭川三龍里百濟土器窯址",
+      "name_en": "",
+      "location": "충북 진천군 이월면 삼룡리 산518-10",
+      "manager": "진천군",
+      "designated": "1991년 2월 26일 지정, 2011년 7월 28일 해제, 사적 제511호 로 통합, 재지정",
+      "note": ""
+    },
+    {
+      "number": "345호",
+      "name": "고창 용계리 청자 요지",
+      "hanja": "高敞 龍溪里 靑瓷 窯址",
+      "name_en": "Celadon Kiln Site in Yonggye-ri, Gochang",
+      "location": "전북 고창군 아산면 용계리 산22외",
+      "manager": "고창군",
+      "designated": "1991년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "346호",
+      "name": "고창 무장현 관아와 읍성",
+      "hanja": "高敞 茂長縣 官衙와 邑城",
+      "name_en": "Mujang-hyeon Government Office and Town Wall, Gochang",
+      "location": "전북 고창군 무장면 성내리 149-1외 일원",
+      "manager": "고창군",
+      "designated": "1991년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "347호",
+      "name": "익산 입점리 고분",
+      "hanja": "益山 笠店里 古墳",
+      "name_en": "Ancient Tombs in Ipjeom-ri, Iksan",
+      "location": "전북 익산시 웅포면 입점리 산174외",
+      "manager": "익산시",
+      "designated": "1991년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "348호",
+      "name": "봉화 태백산사고지",
+      "hanja": "奉化 太白山史庫址",
+      "name_en": "Taebaeksan National History Archives Site, Bonghwa",
+      "location": "경북 봉화군 춘양면 석현리 산126-5",
+      "manager": "봉화군",
+      "designated": "1991년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "349호",
+      "name": "남원 만복사지",
+      "hanja": "南原 萬福寺址",
+      "name_en": "Manboksa Temple Site, Namwon",
+      "location": "전북 남원시 왕정동 489",
+      "manager": "남원시",
+      "designated": "1991년 3월 30일 지정",
+      "note": ""
+    },
+    {
+      "number": "350호",
+      "name": "경주 구정동 고분군",
+      "hanja": "慶州 九政洞 古墳群",
+      "name_en": "Ancient Tombs in Gujeong-dong, Gyeongju",
+      "location": "경북 경주시 불국로 61 (구정동)",
+      "manager": "경주시",
+      "designated": "1991년 3월 30일 지정",
+      "note": ""
+    },
+    {
+      "number": "351호",
+      "name": "파주 오두산성",
+      "hanja": "坡州 烏頭山城",
+      "name_en": "Odusanseong Fortress, Paju",
+      "location": "경기 파주시 탄현면 성동리 산86외",
+      "manager": "파주시",
+      "designated": "1991년 8월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "352호",
+      "name": "하남 동사지",
+      "hanja": "河南 桐寺址",
+      "name_en": "Dongsa Temple Site, Hanam",
+      "location": "경기 하남시 서하남로418번길 73 (춘궁동)",
+      "manager": "하남시",
+      "designated": "1991년 8월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "353호",
+      "name": "담양 금성산성",
+      "hanja": "潭陽 金城山城",
+      "name_en": "Geumseongsanseong Fortress, Damyang",
+      "location": "전남 담양군 금성면 금성리, 대성리 등",
+      "manager": "담양군,순창군",
+      "designated": "1991년 8월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "354호",
+      "name": "서울 탑골공원",
+      "hanja": "서울 塔골公園",
+      "name_en": "Tapgol Park, Seoul",
+      "location": "서울 종로구 종로 99, 외 (종로2가)",
+      "manager": "종로구",
+      "designated": "1991년 10월 25일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "355호",
+      "name": "대전 계족산성",
+      "hanja": "大田 鷄足山城",
+      "name_en": "Gyejoksanseong Fortress, Daejeon",
+      "location": "대전 대덕구 장동 산85외",
+      "manager": "대덕구",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "356호",
+      "name": "남양주 순강원",
+      "hanja": "南楊州 順康園",
+      "name_en": "Sungangwon Royal Tomb, Namyangju",
+      "location": "경기 남양주시 진접읍 내각2로 84-31, 외 (내각리)",
+      "manager": "광릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "357호",
+      "name": "광명(光明) 영회원",
+      "hanja": "光明 永懷園",
+      "name_en": "Yeonghoewon Royal Tomb, Gwangmyeong",
+      "location": "경기 광명시 노온사동 산141-20",
+      "manager": ".",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "358호",
+      "name": "파주 소령원",
+      "hanja": "坡州 昭寧園",
+      "name_en": "Soryeongwon Royal Tomb, Paju",
+      "location": "경기 파주시 광탄면 소령원길 41-65",
+      "manager": "파주삼릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "359호",
+      "name": "파주 수길원",
+      "hanja": "坡州 綏吉園",
+      "name_en": "Sugirwon Royal Tomb, Paju",
+      "location": "경기 파주시 광탄면 영장리",
+      "manager": "파주삼릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "360호",
+      "name": "남양주 휘경원",
+      "hanja": "南楊州 徽慶園",
+      "name_en": "Hwigyeongwon Royal Tomb, Namyangju",
+      "location": "경기 남양주시 진접읍 부평리 267외",
+      "manager": "광릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "361호",
+      "name": "서울 영휘원과 숭인원",
+      "hanja": "서울 永徽園과 崇仁園",
+      "name_en": "Yeonghwiwon and Sunginwon Royal Tombs, Seoul",
+      "location": "서울 동대문구 청량리동 204-2외",
+      "manager": "의릉관리소",
+      "designated": "1991년 10월 25일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "362호",
+      "name": "서울 연산군묘",
+      "hanja": "서울 燕山君墓",
+      "name_en": "Tomb of King Yeonsangun, Seoul",
+      "location": "서울 도봉구 방학동 산77",
+      "manager": "정릉관리소",
+      "designated": "1991년 10월 25일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "363호",
+      "name": "남양주 광해군묘",
+      "hanja": "南楊州 光海君墓",
+      "name_en": "Tomb of King Gwanghaegun, Namyangju",
+      "location": "경기 남양주시 진건읍 송릉리 산59외",
+      "manager": "사릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "364호",
+      "name": "구리 명빈묘",
+      "hanja": "九里 明嬪墓",
+      "name_en": "Tomb of Queen Consort Myeongbin, Guri",
+      "location": "경기 구리시 아천동 산14",
+      "manager": "동구릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "365호",
+      "name": "성묘",
+      "hanja": "成墓",
+      "name_en": "Seongmyo Royal Tomb, Namyangju",
+      "location": "경기 남양주시 진건읍 송릉리 산55",
+      "manager": "사릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "366호",
+      "name": "남양주 안빈묘",
+      "hanja": "南楊州 安嬪墓",
+      "name_en": "Tomb of Queen Consort Anbin, Namyangju",
+      "location": "경기 남양주시 진건읍 송릉리 산66",
+      "manager": "사릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "367호",
+      "name": "남양주 영빈묘",
+      "hanja": "南楊州 寧嬪墓",
+      "name_en": "Tomb of Queen Consort Yeongbin, Namyangju",
+      "location": "경기 남양주시 진접읍 장현리 175",
+      "manager": "광릉관리소",
+      "designated": "1991년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "368호",
+      "name": "보길도윤선도유적",
+      "hanja": "甫吉島尹善道遺蹟",
+      "name_en": "",
+      "location": "전남 완도군 보길면 부황리 595외",
+      "manager": "완도군",
+      "designated": "1992년 1월 11일 지정, 2008년 1월 8일 해제, 명승 제34호 로 지정",
+      "note": ""
+    },
+    {
+      "number": "369호",
+      "name": "강화 석릉",
+      "hanja": "江華 碩陵",
+      "name_en": "Seongneung Royal Tomb, Ganghwa",
+      "location": "인천 강화군 양도면 길정리 산182",
+      "manager": "강화군",
+      "designated": "1992년 3월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "370호",
+      "name": "강화 가릉",
+      "hanja": "江華 嘉陵",
+      "name_en": "Gareung Royal Tomb, Ganghwa",
+      "location": "인천 강화군 양도면 능내리 산16-2",
+      "manager": "강화군",
+      "designated": "1992년 3월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "371호",
+      "name": "강화 곤릉",
+      "hanja": "江華 坤陵",
+      "name_en": "Golleung Royal Tomb, Ganghwa",
+      "location": "인천 강화군 양도면 길정리 산75",
+      "manager": "강화군",
+      "designated": "1992년 3월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "372호",
+      "name": "서울 양천고성지",
+      "hanja": "서울 陽川古城址",
+      "name_en": "Yangcheongoseong Fortress Site, Seoul",
+      "location": "서울 강서구 가양동 산8-4외",
+      "manager": "강서구",
+      "designated": "1992년 3월 10일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "373호",
+      "name": "부여 정암리 와요지",
+      "hanja": "扶餘 亭岩里 瓦窯址",
+      "name_en": "Roof Tile Kiln Site in Jeongam-ri, Buyeo",
+      "location": "충남 부여군 양길면 정암리 47외",
+      "manager": "부여군",
+      "designated": "1992년 5월 4일 지정",
+      "note": ""
+    },
+    {
+      "number": "374호",
+      "name": "군위 인각사지",
+      "hanja": "軍威 麟角寺址",
+      "name_en": "Ingaksa Temple Site, Gunwi",
+      "location": "대구 군위군 삼국유사면 삼국유사로 250, 외 (화북리)",
+      "manager": ".",
+      "designated": "1992년 5월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "375호",
+      "name": "광주 신창동 유적",
+      "hanja": "光州 新昌洞 遺蹟",
+      "name_en": "Archaeological Site in Sinchang-dong, Gwangju",
+      "location": "광주 광산구 신창동 512-1",
+      "manager": "광산구",
+      "designated": "1992년 9월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "376호",
+      "name": "속초 조양동 유적",
+      "hanja": "束草 朝陽洞 遺蹟",
+      "name_en": "Archaeological Site in Joyang-dong, Sokcho",
+      "location": "강원 속초시 조양동 산142외 9필",
+      "manager": "속초시",
+      "designated": "1992년 10월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "377호",
+      "name": "장성 대도리 백자 요지",
+      "hanja": "長城 大都里 白磁 窯址",
+      "name_en": "White Porcelain Kiln Site in Daedo-ri, Jangseong",
+      "location": "전남 장성군 삼서면 대도리 885외",
+      "manager": "장성군",
+      "designated": "1992년 10월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "378호",
+      "name": "성락원",
+      "hanja": "城樂園",
+      "name_en": "",
+      "location": "서울 성북구 성북동 2-22외",
+      "manager": ".",
+      "designated": "1992년 12월 23일 지정, 2008년 1월 8일 해제, 명승 제35호 로 재지정",
+      "note": ""
+    },
+    {
+      "number": "379호",
+      "name": "전주향교",
+      "hanja": "全州鄕校",
+      "name_en": "Jeonjuhyanggyo Local Confucian School",
+      "location": "전북 전주시 완산구 교동 26-3외",
+      "manager": ".",
+      "designated": "1992년 12월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "380호",
+      "name": "제주목 관아",
+      "hanja": "濟州牧 官衙",
+      "name_en": "Jeju-mok Government Office",
+      "location": "제주 제주시 삼도이동 43-3번지 등 일원",
+      "manager": "제주시",
+      "designated": "1993년 3월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "381호",
+      "name": "여수 충민사",
+      "hanja": "麗水 忠愍祠",
+      "name_en": "Chungminsa Shrine, Yeosu",
+      "location": "전남 여수시 덕충동 1808외",
+      "manager": "여수시",
+      "designated": "1993년 6월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "382호",
+      "name": "여주 고달사지",
+      "hanja": "驪州 高達寺址",
+      "name_en": "Godalsa Temple Site, Yeoju",
+      "location": "경기 여주시 북내면 상교리 411-1외",
+      "manager": "여주시",
+      "designated": "1993년 7월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "383호",
+      "name": "논산 돈암서원",
+      "hanja": "論山 遁岩書院",
+      "name_en": "Donamseowon Confucian Academy, Nonsan",
+      "location": "충남 논산시 연산면 임리 74외 5필지",
+      "manager": ".",
+      "designated": "1993년 10월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "384호",
+      "name": "장성 입암산성",
+      "hanja": "長城 笠岩山城",
+      "name_en": "Ibamsanseong Fortress, Jangseong",
+      "location": "전남 장성군 북하면 신성리 산20-2외 57필지",
+      "manager": "장성군",
+      "designated": "1993년 11월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "385호",
+      "name": "구례 석주관성",
+      "hanja": "求禮 石柱關城",
+      "name_en": "Seokjugwanseong Fortress, Gurye",
+      "location": "전남 구례군 토지면 송정리 산65외 12필지",
+      "manager": "구례군",
+      "designated": "1993년 11월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "386호",
+      "name": "포항 장기읍성",
+      "hanja": "浦項 長鬐邑城",
+      "name_en": "Janggieupseong Walled Town, Pohang",
+      "location": "경북 포항시 남구 장기면 읍내리 127-2외",
+      "manager": "포항시",
+      "designated": "1994년 3월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "387호",
+      "name": "공주 우금치 전적",
+      "hanja": "公州 牛禁峙 戰蹟",
+      "name_en": "Ugeumchi Battlefield, Gongju",
+      "location": "충남 공주시 금학동 산78-1외",
+      "manager": "공주시",
+      "designated": "1994년 3월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "388호",
+      "name": "강릉대도호부 관아",
+      "hanja": "江陵大都護府 官衙",
+      "name_en": "Imyeonggwan Guesthouse, Gangneung",
+      "location": "강원 강릉시 임영로131번길 6 (용강동)",
+      "manager": "강릉시",
+      "designated": "1994년 7월 11일 지정, 2014년 11월 27일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "389호",
+      "name": "파주 가월리와 주월리 유적",
+      "hanja": "坡州 佳月里와 舟月里 遺蹟",
+      "name_en": "Archaeological Site in Gawol-ri and Juwol-ri, Paju",
+      "location": "경기 파주시 적성면 가월리 산95-6외, 주월리 309외",
+      "manager": "파주시",
+      "designated": "1994년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "390호",
+      "name": "경주 보문동 사지",
+      "hanja": "慶州 普門洞 寺址",
+      "name_en": "Temple Site in Bomun-dong, Gyeongju",
+      "location": "경북 경주시 보문동 848-6외",
+      "manager": "경주시",
+      "designated": "1994년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "391호",
+      "name": "고창 죽림리 지석묘군",
+      "hanja": "高敞 竹林里 支石墓群",
+      "name_en": "Dolmens in Jungnim-ri, Gochang",
+      "location": "전북 고창군 고창읍 죽림리 산63외",
+      "manager": "고창군",
+      "designated": "1994년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "392호",
+      "name": "여수 선소유적",
+      "hanja": "麗水 船所遺蹟",
+      "name_en": "Shipbuilding Site, Yeosu",
+      "location": "전남 여수시 시전동 708외",
+      "manager": "여수시",
+      "designated": "1995년 4월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "393호",
+      "name": "논산 노성산성",
+      "hanja": "論山 魯城山城",
+      "name_en": "Noseongsanseong Fortress, Nonsan",
+      "location": "충남 논산시 노성면 송당리 산1-1외 13필지",
+      "manager": "논산시",
+      "designated": "1995년 8월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "394호",
+      "name": "양양 오산리 유적",
+      "hanja": "襄陽 鰲山里 遺蹟",
+      "name_en": "Archaeological Site in Osan-ri, Yangyang",
+      "location": "강원 양양군 손양면 오산리 60외",
+      "manager": "양양군",
+      "designated": "1997년 4월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "395호",
+      "name": "무안 도리포 해저유물 매장해역",
+      "hanja": "務安 道里浦 海底遺物 埋藏海域",
+      "name_en": "Sea Area with Sunken Relics near Doripo Port, Muan",
+      "location": "전남 무안군 해제면 송석리 도리포 앞바다",
+      "manager": "무안군",
+      "designated": "1997년 4월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "396호",
+      "name": "제주 항파두리 항몽 유적",
+      "hanja": "濟州 缸坡頭里 抗蒙 遺蹟",
+      "name_en": "Historic Site of Anti-Mongolian Struggle in Hangpadu-ri, Jeju",
+      "location": "제주 제주시 애월읍 고성리 1126-1외",
+      "manager": "제주시",
+      "designated": "1997년 4월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "397호",
+      "name": "강진 전라병영성",
+      "hanja": "康津 全羅兵營城",
+      "name_en": "Military Headquarters of Jeolla-do Province, Gangjin",
+      "location": "전남 강진군 병영면 병영성로 175, 외 (성동리)",
+      "manager": "강진군",
+      "designated": "1997년 4월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "398호",
+      "name": "단양 수양개 유적",
+      "hanja": "丹陽 垂楊介 遺蹟",
+      "name_en": "Archaeological Site in Suyanggae, Danyang",
+      "location": "충북 단양군 적성면 애곡리 182-1",
+      "manager": "단양군",
+      "designated": "1997년 10월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "399호",
+      "name": "서울 양화나루와 잠두봉 유적",
+      "hanja": "서울 楊花나루와 蠶頭峰 遺蹟",
+      "name_en": "Historic Sites of Yanghwanaru Ferry and Jamdubong Peak, Seoul",
+      "location": "서울 마포구 토정로 6 (합정동)",
+      "manager": "천주교서울대교구절두산기념관",
+      "designated": "1997년 11월 11일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "400호",
+      "name": "충주 장미산성",
+      "hanja": "忠州 薔薇山城",
+      "name_en": "Jangmisanseong Fortress, Chungju",
+      "location": "충북 충주시 중앙탑면 장천리 산77-1외",
+      "manager": "충주시",
+      "designated": "1997년 11월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "401호",
+      "name": "괴산 미륵산성",
+      "hanja": "槐山 彌勒山城",
+      "name_en": "Mireuksanseong Fortress, Goesan",
+      "location": "충북 괴산군 청천면 고성리 산8-37외",
+      "manager": "괴산군",
+      "designated": "1997년 12월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "402호",
+      "name": "통영 삼도수군통제영",
+      "hanja": "統營 三道水軍統制營",
+      "name_en": "Navy Headquarters of Three Provinces, Tongyeong",
+      "location": "경남 통영시 세병로 27, 외 (문화동)",
+      "manager": "통영시",
+      "designated": "1998년 2월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "403호",
+      "name": "포천 반월성",
+      "hanja": "抱川 半月城",
+      "name_en": "Banwolseong Fortress, Pocheon",
+      "location": "경기 포천시 군내면 청군로3290번길 19, 외 (구읍리)",
+      "manager": "포천시",
+      "designated": "1998년 2월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "404호",
+      "name": "나주 복암리 고분군",
+      "hanja": "羅州 伏岩里 古墳群",
+      "name_en": "Ancient Tombs in Bogam-ri, Naju",
+      "location": "전남 나주시 다시면 복암리 873-17외",
+      "manager": "나주시",
+      "designated": "1998년 2월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "405호",
+      "name": "익산 제석사지",
+      "hanja": "益山 帝釋寺址",
+      "name_en": "Jeseoksa Temple Site, Iksan",
+      "location": "전북 익산시 왕궁면 왕궁리 247-1번지외",
+      "manager": "익산시",
+      "designated": "1998년 5월 12일 지정",
+      "note": ""
+    },
+    {
+      "number": "406호",
+      "name": "장성 황룡 전적",
+      "hanja": "長城 黃龍 戰蹟",
+      "name_en": "Hwangnyong Battlefield, Jangseong",
+      "location": "전남 장성군 황룡면 내황길 50-8, 외(17필지) (신호리)",
+      "manager": "장성군",
+      "designated": "1998년 6월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "407호",
+      "name": "광양 옥룡사지",
+      "hanja": "光陽 玉龍寺址",
+      "name_en": "Ongnyongsa Temple Site, Gwangyang",
+      "location": "전남 광양시 옥룡면 추산리 302외",
+      "manager": "광양시",
+      "designated": "1998년 8월 3일 지정",
+      "note": ""
+    },
+    {
+      "number": "408호",
+      "name": "익산 왕궁리 유적",
+      "hanja": "益山 王宮里 遺蹟",
+      "name_en": "Archaeological Site in Wanggung-ri, Iksan",
+      "location": "전북 익산시 왕궁면 왕궁리 산80-1외,금마면 동고도리 1109-8외",
+      "manager": "익산시",
+      "designated": "1998년 9월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "409호",
+      "name": "부안 백산성",
+      "hanja": "扶安 白山城",
+      "name_en": "Baeksanseong Fortress, Buan",
+      "location": "전북 부안군 백산면 용계리 산8-1외",
+      "manager": "부안군",
+      "designated": "1998년 9월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "410호",
+      "name": "화순 효산리와 대신리 지석묘군",
+      "hanja": "和順 孝山里와 大薪里 支石墓群",
+      "name_en": "Dolmens in Hyosan-ri and Daesin-ri, Hwasun",
+      "location": "전남 화순군 도곡면 효산리 산68-1외,춘양면 대신리외",
+      "manager": "화순군",
+      "designated": "1998년 9월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "411호",
+      "name": "대구 진천동 입석",
+      "hanja": "大邱 辰泉洞 立石",
+      "name_en": "Menhir in Jincheon-dong, Daegu",
+      "location": "대구 달서구 진천동 470-38외",
+      "manager": "달서구",
+      "designated": "1998년 12월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "412호",
+      "name": "제주 고산리 유적",
+      "hanja": "濟州 高山里 遺蹟",
+      "name_en": "Archaeological Site in Gosan-ri, Jeju",
+      "location": "제주 제주시 한경면 고산리 3628번지",
+      "manager": "제주시",
+      "designated": "1998년 12월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "413호",
+      "name": "시흥 방산동 청자와 백자 요지",
+      "hanja": "始興 芳山洞 靑瓷와 白磁 窯址",
+      "name_en": "Celadon and White Porcelain Kiln Site in Bangsan-dong, Siheung",
+      "location": "경기 시흥시 방산동 370-1외",
+      "manager": "시흥시",
+      "designated": "1999년 6월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "414호",
+      "name": "진천 김유신 탄생지와 태실",
+      "hanja": "鎭川 金庾信 誕生址와 胎室",
+      "name_en": "Birthplace and Placenta Chamber of Kim Yu-sin, Jincheon",
+      "location": "충북 진천군 진천읍 김유신길 170-4, 외 129필지 (상계리)",
+      "manager": "진천군",
+      "designated": "1999년 6월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "415호",
+      "name": "청주 정북동 토성",
+      "hanja": "淸州 井北洞 土城",
+      "name_en": "Earthen Fortification in Jeongbuk-dong, Cheongju",
+      "location": "충북 청주시 청원구 정북동 351-1번지 외",
+      "manager": "청주시",
+      "designated": "1999년 10월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "416호",
+      "name": "제주 삼양동 유적",
+      "hanja": "濟州 三陽洞 遺蹟",
+      "name_en": "Archaeological Site in Samyang-dong, Jeju",
+      "location": "제주 제주시 선사로2길 13, 외 (삼양일동)",
+      "manager": "제주시",
+      "designated": "1999년 11월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "417호",
+      "name": "괴산 송시열 유적",
+      "hanja": "槐山 宋時烈 遺蹟",
+      "name_en": "Historic Site Related to Song Si-yeol, Goesan",
+      "location": "충북 괴산군 청천면 화양동길 188, 외 (화양리)",
+      "manager": "괴산군",
+      "designated": "1999년 12월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "418호",
+      "name": "순천 검단산성",
+      "hanja": "順天 檢丹山城",
+      "name_en": "Geomdansanseong Fortress, Suncheon",
+      "location": "전남 순천시 해룡면 성산리 산84",
+      "manager": "순천시",
+      "designated": "1999년 12월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "419호",
+      "name": "경주 용강동 원지 유적",
+      "hanja": "慶州 龍江洞 苑址 遺蹟",
+      "name_en": "Garden Site in Yonggang-dong, Gyeongju",
+      "location": "경북 경주시 황성동 251-28, 용강동181외",
+      "manager": "경주시",
+      "designated": "1999년 12월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "420호",
+      "name": "부여 능안골 고분군",
+      "hanja": "扶餘 陵안골 古墳群",
+      "name_en": "Ancient Tombs in Neungangol, Buyeo",
+      "location": "충남 부여군 부여읍 능산리 75-7외",
+      "manager": "부여군",
+      "designated": "2000년 7월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "421호",
+      "name": "삼척 두타산 이승휴 유적",
+      "hanja": "三陟 頭陀山 李承休 遺蹟",
+      "name_en": "Historic Site Related to Yi Seung-hyu in Dutasan Mountain, Samcheok",
+      "location": "강원 삼척시 미로면 동안로 816, 외 (내미로리)",
+      "manager": "삼척시",
+      "designated": "2000년 9월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "422호",
+      "name": "하남 이성산성",
+      "hanja": "河南 二聖山城",
+      "name_en": "Iseongsanseong Fortress, Hanam",
+      "location": "경기 하남시 춘궁동 산 36번지외",
+      "manager": "하남시",
+      "designated": "2000년 9월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "423호",
+      "name": "이천 설봉산성",
+      "hanja": "利川 雪峯山城",
+      "name_en": "Seolbongsanseong Fortress, Icheon",
+      "location": "경기 이천시 사음동 산 24번지외",
+      "manager": "이천시",
+      "designated": "2000년 9월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "424호",
+      "name": "대한성공회 강화성당",
+      "hanja": "大韓聖公會 江華聖堂",
+      "name_en": "Ganghwa Anglican Church",
+      "location": "인천 강화군 강화읍 관청길 22 (관청리)",
+      "manager": ".",
+      "designated": "2001년 1월 4일 지정",
+      "note": ""
+    },
+    {
+      "number": "425호",
+      "name": "부여 화지산 유적",
+      "hanja": "扶餘 花枝山 遺蹟",
+      "name_en": "Archaeological Site in Hwajisan Mountain, Buyeo",
+      "location": "충남 부여군 부여읍 동남리 105번지 외",
+      "manager": "부여군",
+      "designated": "2001년 1월 4일 지정",
+      "note": ""
+    },
+    {
+      "number": "426호",
+      "name": "고성 문암리 유적",
+      "hanja": "高城 文巖里 遺蹟",
+      "name_en": "Archaeological Site in Munam-ri, Goseong",
+      "location": "강원 고성군 죽왕면 문암진리 1번지외",
+      "manager": "고성군",
+      "designated": "2001년 2월 5일 지정",
+      "note": ""
+    },
+    {
+      "number": "427호",
+      "name": "부여 왕흥사지",
+      "hanja": "扶餘 王興寺址",
+      "name_en": "Wangheungsa Temple Site, Buyeo",
+      "location": "충남 부여군 규암면 신리 37-2번지외",
+      "manager": "부여군",
+      "designated": "2001년 2월 5일 지정",
+      "note": ""
+    },
+    {
+      "number": "428호",
+      "name": "부여 관북리 유적",
+      "hanja": "扶餘 官北里 遺蹟",
+      "name_en": "Archaeological Site in Gwanbuk-ri, Buyeo",
+      "location": "충남 부여군 부여읍 관북리 33외",
+      "manager": "부여군",
+      "designated": "2001년 2월 5일 지정",
+      "note": ""
+    },
+    {
+      "number": "429호",
+      "name": "김해 구지봉",
+      "hanja": "金海 龜旨峰",
+      "name_en": "Gujibong Peak, Gimhae",
+      "location": "경남 김해시 구산동 산81-2번지 일원",
+      "manager": "김해시",
+      "designated": "2001년 3월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "430호",
+      "name": "경주 손곡동과 물천리 유적",
+      "hanja": "慶州 蓀谷洞과 勿川里 遺蹟",
+      "name_en": "Archaeological Site in Songok-dong and Mulcheon-ri, Gyeongju",
+      "location": "경북 경주시 손곡동,천북면 물천리 일원",
+      "manager": ".",
+      "designated": "2001년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "431호",
+      "name": "홍성 홍주의사총",
+      "hanja": "洪城 洪州義士塚",
+      "name_en": "Tomb of Patriotic Martyrs, Hongseong",
+      "location": "충남 홍성군 홍성읍 의사로 79, 외 (대교리)",
+      "manager": "홍성군",
+      "designated": "2001년 8월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "432호",
+      "name": "해남 윤선도 유적",
+      "hanja": "海南 尹善道 遺蹟",
+      "name_en": "Historic Site Related to Yun Seon-do, Haenam",
+      "location": "전남 해남군 현산면 구시리 산181 외",
+      "manager": ".",
+      "designated": "2001년 8월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "433호",
+      "name": "공주 장선리 유적",
+      "hanja": "公州 長善里 遺蹟",
+      "name_en": "Archaeological Site in Jangseon-ri, Gongju",
+      "location": "충남 공주시 탄천면 장선리 151-6외",
+      "manager": "공주시",
+      "designated": "2001년 9월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "434호",
+      "name": "부여 능산리 사지",
+      "hanja": "扶餘 陵山里 寺址",
+      "name_en": "Temple Site in Neungsan-ri, Buyeo",
+      "location": "충남 부여군 부여읍 능산리 산15-1 외",
+      "manager": "부여군",
+      "designated": "2001년 9월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "435호",
+      "name": "부여 금강사지",
+      "hanja": "扶餘 金剛寺址",
+      "name_en": "Geumgangsa Temple Site, Buyeo",
+      "location": "충남 부여군 은산면 금공리 13-1외",
+      "manager": "부여군",
+      "designated": "2001년 9월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "436호",
+      "name": "서울 선농단",
+      "hanja": "서울 先農壇",
+      "name_en": "Seonnongdan Altar, Seoul",
+      "location": "서울 동대문구 제기동 274-1",
+      "manager": "동대문구",
+      "designated": "2001년 12월 29일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "437호",
+      "name": "파주 칠중성",
+      "hanja": "坡州 七重城",
+      "name_en": "Chiljungseong Fortress, Paju",
+      "location": "경기 파주시 적성면 구읍리 산148외",
+      "manager": "파주시",
+      "designated": "2002년 1월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "438호",
+      "name": "안국동윤보선가",
+      "hanja": "安國洞尹潽善家",
+      "name_en": "Yun Po-sun's House in Anguk-dong",
+      "location": "서울 종로구 안국동 8-1외",
+      "manager": "영안주식회사",
+      "designated": "2002년 1월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "439호",
+      "name": "원주 강원감영",
+      "hanja": "原州 江原監營",
+      "name_en": "Gangwongamyeong Provincial Office, Wonju",
+      "location": "강원 원주시 원일로 85 (일산동)",
+      "manager": "원주시",
+      "designated": "2002년 3월 9일 지정",
+      "note": ""
+    },
+    {
+      "number": "440호",
+      "name": "서울 초안산 분묘군",
+      "hanja": "서울 楚安山 墳墓群",
+      "name_en": "Tombs in Choansan Mountain, Seoul",
+      "location": "서울 노원구 월계동 산8-3 외, 도봉구 창동 산202-1 외",
+      "manager": "서울시",
+      "designated": "2002년 3월 9일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "441호",
+      "name": "시흥 오이도 유적",
+      "hanja": "始興 烏耳島 遺蹟",
+      "name_en": "Archaeological Site in Oido, Siheung",
+      "location": "경기 시흥시 정왕동 914번지 등",
+      "manager": "시흥시",
+      "designated": "2002년 4월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "442호",
+      "name": "구 대구의학전문학교 본관",
+      "hanja": "舊 大邱醫學專門學校 本館",
+      "name_en": "Main Building of Former Daegu College of Medicine",
+      "location": "대구 중구 국채보상로 680 (동인동2가)",
+      "manager": "경북대학교",
+      "designated": "2003년 1월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "443호",
+      "name": "구 도립대구병원",
+      "hanja": "舊 道立大邱病院",
+      "name_en": "Former Daegu Provincial Hospital",
+      "location": "대구 중구 동덕로 130 (삼덕동2가)",
+      "manager": "경북대학교",
+      "designated": "2003년 1월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "444호",
+      "name": "성주 세종대왕자 태실",
+      "hanja": "星州 世宗大王子 胎室",
+      "name_en": "Placenta Chambers of King Sejong's Sons, Seongju",
+      "location": "경북 성주군 월항면 인촌리 산8",
+      "manager": "성주군",
+      "designated": "2003년 3월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "445호",
+      "name": "충주 숭선사지",
+      "hanja": "忠州 崇善寺址",
+      "name_en": "Sungseonsa Temple Site, Chungju",
+      "location": "충북 충주시 신니면 문숭리 862-2외",
+      "manager": "충주시",
+      "designated": "2003년 4월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "446호",
+      "name": "영월 정양산성",
+      "hanja": "寧越 正陽山城",
+      "name_en": "Jeongyangsanseong Fortress, Yeongwol",
+      "location": "강원 영월군 영월읍 정양리 산1-1외 8필",
+      "manager": "영월군",
+      "designated": "2003년 6월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "447호",
+      "name": "원주 영원산성",
+      "hanja": "原州 領願山城",
+      "name_en": "Yeongwonsanseong Fortress, Wonju",
+      "location": "강원 원주시 판부면 금대리 산50-2 외",
+      "manager": "원주시",
+      "designated": "2003년 6월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "448호",
+      "name": "강릉 굴산사지",
+      "hanja": "江陵 崛山寺址",
+      "name_en": "Gulsansa Temple Site, Gangneung",
+      "location": "강원 강릉시 구정면 학산리 597외",
+      "manager": "강릉시",
+      "designated": "2003년 6월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "449호",
+      "name": "해남 군곡리 패총",
+      "hanja": "海南 郡谷里 貝塚",
+      "name_en": "Shell Mound in Gungok-ri, Haenam",
+      "location": "전남 해남군 송지면 군곡리",
+      "manager": "해남군",
+      "designated": "2003년 7월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "450호",
+      "name": "사천 늑도 유적",
+      "hanja": "泗川 勒島 遺蹟",
+      "name_en": "Archaeological Site on Neukdo Island, Sacheon",
+      "location": "경남 사천시 늑도동",
+      "manager": "사천시",
+      "designated": "2003년 7월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "451호",
+      "name": "화성 마하리 고분군",
+      "hanja": "華城 馬霞里 古墳群",
+      "name_en": "Ancient Tombs in Maha-ri, Hwaseong",
+      "location": "경기 화성시 봉담읍 마하리 산40외",
+      "manager": "화성시",
+      "designated": "2003년 8월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "452호",
+      "name": "강화 외성",
+      "hanja": "江華 外城",
+      "name_en": "Outer Wall of Ganghwa Fortress",
+      "location": "인천 강화군 강화읍, 선원면, 불은면, 길상면 일원(강화도)",
+      "manager": "강화군",
+      "designated": "2003년 10월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "453호",
+      "name": "하동읍성",
+      "hanja": "河東邑城",
+      "name_en": "Hadongeupseong Walled Town",
+      "location": "경남 하동군 고전면 고하리 산151일원",
+      "manager": "하동군",
+      "designated": "2004년 5월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "454호",
+      "name": "김해 양동리 고분군",
+      "hanja": "金海 良洞里 古墳群",
+      "name_en": "Ancient Tombs in Yangdong-ri, Gimhae",
+      "location": "경남 김해시 주촌면 양동리 산3번지 등",
+      "manager": "김해시",
+      "designated": "2004년 7월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "455호",
+      "name": "아차산 일대 보루군",
+      "hanja": "阿且山 一帶 堡壘群",
+      "name_en": "Forts in Achasan Mountain",
+      "location": "서울. 광진구·중랑구·노원구 및 경기도 구리시 일대",
+      "manager": "서울시,구리시",
+      "designated": "2004년 10월 27일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "456호",
+      "name": "나주 오량동 요지",
+      "hanja": "羅州 五良洞 窯址",
+      "name_en": "Kiln Site in Oryang-dong, Naju",
+      "location": "전남 나주시 오량동 산27번지 일원",
+      "manager": "나주시",
+      "designated": "2004년 10월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "457호",
+      "name": "경주 춘양교지와 월정교지",
+      "hanja": "慶州 春陽橋址와 月精橋址",
+      "name_en": "Chunyanggyo and Woljeonggyo Bridge Sites, Gyeongju",
+      "location": "경북 경주시 인왕동 921-1외, 교동 274 등",
+      "manager": "경주시",
+      "designated": "2004년 11월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "458호",
+      "name": "순천 월평 유적",
+      "hanja": "順天 月坪 遺蹟",
+      "name_en": "Archaeological Site in Wolpyeong, Suncheon",
+      "location": "전남 순천시 외서면 월암리(월평마을) 189-1외 일원",
+      "manager": "순천시",
+      "designated": "2004년 12월 27일 지정",
+      "note": ""
+    },
+    {
+      "number": "459호",
+      "name": "밀양 박익 벽화묘",
+      "hanja": "密陽 朴翊 壁畵墓",
+      "name_en": "Mural Tomb of Bak Ik, Miryang",
+      "location": "경남 밀양시 청도면 고법리 산 134내",
+      "manager": ".",
+      "designated": "2005년 2월 5일 지정",
+      "note": ""
+    },
+    {
+      "number": "460호",
+      "name": "공주 수촌리 고분군",
+      "hanja": "公州 水村里 古墳群",
+      "name_en": "Ancient Tombs in Suchon-ri, Gongju",
+      "location": "충남 공주시 의당면 수촌리 201 외 일원",
+      "manager": "공주시",
+      "designated": "2005년 3월 3일 지정",
+      "note": ""
+    },
+    {
+      "number": "461호",
+      "name": "서울 청계천 유적(광통교지, 수표교지와 오간수문지) (서울 淸溪川 遺蹟(廣通橋地, 水標橋址와 五間水門址)) (Historic Sites of Cheonggyecheon Stream, Seoul (Gwangtonggyo Bridge, Supyogyo Bridge, and Ogansumun Watergate))",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 종로구 관철동 270-1외, 중구 남대문로 9 외",
+      "manager": "서울특별시",
+      "designated": "2005년 3월 25일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "462호",
+      "name": "서울부암동백석동천유적",
+      "hanja": "서울付岩洞白石洞天遺蹟",
+      "name_en": "",
+      "location": "서울 종로구 부암동 115 일대",
+      "manager": "종로구",
+      "designated": "2005년 3월 25일 지정, 2008년 1월 8일 해제, 명승 제36호 로 지정",
+      "note": ""
+    },
+    {
+      "number": "463호",
+      "name": "충주 누암리 고분군",
+      "hanja": "忠州樓岩里古墳群",
+      "name_en": "Ancient Tombs in Nuam-ri, Chungju",
+      "location": "충북 충주시 중앙탑면 누암리 산41 외 일원",
+      "manager": "충주시",
+      "designated": "2005년 3월 25일 지정",
+      "note": ""
+    },
+    {
+      "number": "464호",
+      "name": "파주 혜음원지",
+      "hanja": "坡州 惠蔭院址",
+      "name_en": "Hyeeumwon Inn Site, Paju",
+      "location": "경기 파주시 광탄면 용미4리 234-1 일원",
+      "manager": "파주시",
+      "designated": "2005년 6월 13일 지정, 2011년 7월 28일 명칭변경",
+      "note": ""
+    },
+    {
+      "number": "465호",
+      "name": "서울 경교장",
+      "hanja": "서울 京橋莊",
+      "name_en": "Gyeonggyojang House, Seoul",
+      "location": "서울 종로구 평동 108-1",
+      "manager": ".",
+      "designated": "2005년 6월 13일 지정",
+      "note": ""
+    },
+    {
+      "number": "466호",
+      "name": "원주 법천사지",
+      "hanja": "原州 法泉寺址",
+      "name_en": "Beopcheonsa Temple Site, Wonju",
+      "location": "강원 원주시 부론면 법천리 629 외",
+      "manager": "원주시",
+      "designated": "2005년 8월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "467호",
+      "name": "연천 호로고루",
+      "hanja": "漣川 瓠蘆古壘",
+      "name_en": "Horogoru Embankment, Yeoncheon",
+      "location": "경기 연천군 장남면 원당리 1257-1번지 등",
+      "manager": "연천군(연천군수)",
+      "designated": "2006년 1월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "468호",
+      "name": "연천 당포성",
+      "hanja": "漣川 堂浦城",
+      "name_en": "Dangposeong Fortress, Yeoncheon",
+      "location": "경기 연천군 미산면 동이리 778 등",
+      "manager": "연천군(연천군수)",
+      "designated": "2006년 1월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "469호",
+      "name": "연천 은대리성",
+      "hanja": "漣川 隱垈里城",
+      "name_en": "Eundaeriseong Fortress, Yeoncheon",
+      "location": "경기 연천군 전곡읍 은대리 577 등",
+      "manager": "연천군(연천군수)",
+      "designated": "2006년 1월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "470호",
+      "name": "구미 황상동 고분군",
+      "hanja": "龜尾 黃桑洞 古墳群",
+      "name_en": "Eundaeriseong Fortress, Yeoncheon",
+      "location": "경북 구미시 황상동 산68 외",
+      "manager": "구미시",
+      "designated": "2006년 3월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "471호",
+      "name": "완주 위봉산성",
+      "hanja": "完州 威鳳山城",
+      "name_en": "Wibongsanseong Fortress, Wanju",
+      "location": "전북 완주군 소양면 대흥리 1-32 외",
+      "manager": "완주군(완주군수)",
+      "designated": "2006년 4월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "472호",
+      "name": "창원 진동리 유적",
+      "hanja": "昌原 鎭東里 遺蹟",
+      "name_en": "Archaeological Site in Jindong-ri, Changwon",
+      "location": "경남 창원시 마산합포구 진동면 진동리 130 외",
+      "manager": "창원시(창원시장)",
+      "designated": "2006년 8월 29일 지정",
+      "note": ""
+    },
+    {
+      "number": "473호",
+      "name": "서천 봉선리 유적",
+      "hanja": "舒川 鳳仙里 遺蹟",
+      "name_en": "Archaeological Site in Bongseon-ri, Seocheon",
+      "location": "충남 서천군 시초면 봉선리581외",
+      "manager": "서천군(서천군수)",
+      "designated": "2006년 11월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "474호",
+      "name": "공주 정지산 유적",
+      "hanja": "公州 艇止山 遺蹟",
+      "name_en": "Archaeological Site in Jeongjisan Mountain, Gongju",
+      "location": "충남 공주시 금성동 산1 외",
+      "manager": "공주시(공주시장)",
+      "designated": "2006년 11월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "475호",
+      "name": "서산 부장리 고분군",
+      "hanja": "瑞山 副長里 古墳群",
+      "name_en": "Ancient Tombs in Bujang-ri, Seosan",
+      "location": "충남 서산시 음암면 음암로 499 (부장리)",
+      "manager": "서산시(서산시장)",
+      "designated": "2006년 11월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "476호",
+      "name": "경주 황성동 고분",
+      "hanja": "慶州 隍城洞 古墳",
+      "name_en": "Ancient Tomb in Hwangseong-dong, Gyeongju",
+      "location": "경북 경주시 황성동 906-5",
+      "manager": "경주시",
+      "designated": "2007년 1월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "477호",
+      "name": "상주 복룡동 유적",
+      "hanja": "尙州 伏龍洞 遺蹟",
+      "name_en": "Archaeological Site in Bongnyong-dong, Sangju",
+      "location": "경북 상주시 복룡동 283-7번지 일원",
+      "manager": "상주시(상주시장)",
+      "designated": "2007년 5월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "478호",
+      "name": "수원 화성행궁",
+      "hanja": "水原 華城行宮",
+      "name_en": "Temporary Palace at Hwaseong Fortress, Suwon",
+      "location": "경기 수원시 팔달구 남창동 6-2번지",
+      "manager": "수원시(수원시장)",
+      "designated": "2007년 6월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "479호",
+      "name": "북한산성 행궁지",
+      "hanja": "北漢山城 行宮址",
+      "name_en": "Temporary Palace Site at Bukhansanseong Fortress",
+      "location": "경기 고양시 덕양구 북한동 169번지",
+      "manager": "고양시(고양시장)",
+      "designated": "2007년 6월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "480호",
+      "name": "남한산성 행궁",
+      "hanja": "南漢山城 行宮",
+      "name_en": "Temporary Palace at Namhansanseong Fortress",
+      "location": "경기 광주시 남한산성로 784-29 (남한산성면, 남한산성행궁) 외 일원",
+      "manager": "경기도",
+      "designated": "2007년 6월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "481호",
+      "name": "부여 홍산현 관아",
+      "hanja": "扶餘 鴻山縣 官衙",
+      "name_en": "Hongsan-hyeon Government Office, Buyeo",
+      "location": "충남 부여군 홍산면 동헌로 38, 일원 (남촌리)",
+      "manager": "충청남도 부여군(부여군수)",
+      "designated": "2007년 7월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "482호",
+      "name": "김제군 관아와 향교",
+      "hanja": "金堤郡 官衙와 鄕校",
+      "name_en": "Gimje-gun Government Office and Local Confucian School",
+      "location": "전북 김제시 교동 7-3 등 일원",
+      "manager": "전라북도 김제시(김제시장)",
+      "designated": "2007년 7월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "483호",
+      "name": "나주목 관아와 향교",
+      "hanja": "羅州牧 官衙와 鄕校",
+      "name_en": "Naju-mok Government Office and Local Confucian School",
+      "location": "전남 나주시 과원동, 금계동 일원",
+      "manager": "전라남도 나주시(나주시장)",
+      "designated": "2007년 7월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "484호",
+      "name": "거제현 관아",
+      "hanja": "巨濟縣 官衙",
+      "name_en": "Geoje-hyeon Government Office",
+      "location": "경남 거제시 거제면 동상리 546 등 일원",
+      "manager": "경상남도 거제시(거제시장)",
+      "designated": "2007년 7월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "485호",
+      "name": "화순 쌍산 항일의병 유적",
+      "hanja": "和順 雙山 抗日義兵 遺蹟",
+      "name_en": "Historic Site of Anti-Japanese Army in Ssangsan Mountain, Hwasun",
+      "location": "전남 화순군 이양면 증리 산12번지 외",
+      "manager": "전라남도 화순군(화순군수)",
+      "designated": "2007년 8월 3일 지정",
+      "note": ""
+    },
+    {
+      "number": "486호",
+      "name": "창녕 비봉리 패총",
+      "hanja": "昌寧 飛鳳里 貝塚",
+      "name_en": "Shell Mound in Bibong-ri, Changnyeong",
+      "location": "경남 창녕군 부곡면 비봉리 43번지 일원",
+      "manager": "경상남도 창녕군(창녕군수)",
+      "designated": "2007년 8월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "487호",
+      "name": "서귀포 김정희 유배지",
+      "hanja": "西歸浦 金正喜 流配址",
+      "name_en": "Kim Jeong-hui's Home in Exile, Seogwipo",
+      "location": "제주 서귀포시 대정읍 추사로 44, 일원 (안성리)",
+      "manager": "서귀포시(서귀포시장)",
+      "designated": "2007년 10월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "488호",
+      "name": "달성 도동서원",
+      "hanja": "達城 道東書院",
+      "name_en": "Dodongseowon Confucian Academy, Dalseong",
+      "location": "대구 달성군 구지면 도동리 35번지",
+      "manager": "달성군(달성군수)",
+      "designated": "2007년 10월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "489호",
+      "name": "춘천 신매리 유적",
+      "hanja": "春川 新梅里 遺蹟",
+      "name_en": "Archaeological Site in Sinmae-ri, Chuncheon",
+      "location": "강원 춘천시 서면 신매리 302번지 등",
+      "manager": "춘천시(춘천시장)",
+      "designated": "2007년 11월 14일 지정",
+      "note": ""
+    },
+    {
+      "number": "490호",
+      "name": "강릉 초당동 유적",
+      "hanja": "江陵 草堂洞 遺蹟",
+      "name_en": "Archaeological Site in Chodang-dong, Gangneung",
+      "location": "강원 강릉시 초당동 84-2 등",
+      "manager": "강릉시(강릉시장)",
+      "designated": "2007년 12월 3일 지정",
+      "note": ""
+    },
+    {
+      "number": "491호",
+      "name": "영주 금성대군 신단",
+      "hanja": "榮州 錦城大君 神壇",
+      "name_en": "Altar for Prince Geumseong, Yeongju",
+      "location": "경북 영주시 순흥면 내죽리 70번지 일원",
+      "manager": "영주시",
+      "designated": "2007년 12월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "492호",
+      "name": "광양 마로산성",
+      "hanja": "光陽 馬老山城",
+      "name_en": "Marosanseong Fortress, Gwangyang",
+      "location": "전남 광양시 광양읍 용강리 산78번지 외1",
+      "manager": "광양시",
+      "designated": "2007년 12월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "493호",
+      "name": "포항 법광사지",
+      "hanja": "浦項 法光寺址",
+      "name_en": "Beopgwangsa Temple Site, Pohang",
+      "location": "경북 포항시 북구 신광면 상읍리 967번지 일원",
+      "manager": "포항시",
+      "designated": "2008년 1월 30일 지정",
+      "note": ""
+    },
+    {
+      "number": "494호",
+      "name": "정읍 고사부리성",
+      "hanja": "井邑 古沙夫里城",
+      "name_en": "Gosaburiseong Fortress, Jeongeup",
+      "location": "전북 정읍시 고부면 고부리 산1-1 일원",
+      "manager": "정읍시",
+      "designated": "2008년 5월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "495호",
+      "name": "양양 낙산사 일원",
+      "hanja": "襄陽 洛山寺 一圓",
+      "name_en": "Naksansa Temple and Surroundings, Yangyang",
+      "location": "강원 양양군 강현면 낙산사로 100, 일원 (전진리)",
+      "manager": "대한불교조계종 낙산사",
+      "designated": "2008년 12월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "496호",
+      "name": "김제 금산사 일원",
+      "hanja": "金堤 金山寺 일원",
+      "name_en": "Geumsansa Temple and Surroundings, Gimje",
+      "location": "전북 김제시 금산면 모악15길 1, 일원 (금산리)",
+      "manager": "대한불교조계종 금산사",
+      "designated": "2008년 12월 18일 지정",
+      "note": ""
+    },
+    {
+      "number": "497호",
+      "name": "서울 이화장",
+      "hanja": "서울 梨花莊",
+      "name_en": "Ihwajang House, Seoul",
+      "location": "서울 종로구 이화장1길 32, 등 (이화동)",
+      "manager": "이인수",
+      "designated": "2009년 4월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "498호",
+      "name": "장흥 석대들 전적",
+      "hanja": "長興 石臺들 戰蹟",
+      "name_en": "Seokdaedeul Battlefield, Jangheung",
+      "location": "전남 장흥군 장흥읍 남외리 164-5번지 일원",
+      "manager": "장흥군",
+      "designated": "2009년 5월 11일 지정",
+      "note": ""
+    },
+    {
+      "number": "499호",
+      "name": "함양 남계서원",
+      "hanja": "咸陽 灆溪書院",
+      "name_en": "Namgyeseowon Confucian Academy, Hamyang",
+      "location": "경남 함양군 수동면 남계서원길 8-11, 일원 (원평리)",
+      "manager": "경상남도 함양군",
+      "designated": "2009년 5월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "500호",
+      "name": "용인 보정동 고분군",
+      "hanja": "龍仁 寶亭洞 古墳群",
+      "name_en": "Ancient Tombs in Bojeong-dong, Yongin",
+      "location": "경기 용인시 기흥구 보정동 산121-2번지 일원",
+      "manager": "용인시",
+      "designated": "2009년 6월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "501호",
+      "name": "보령 충청수영성",
+      "hanja": "保寧 忠淸水營城",
+      "name_en": "Navy Headquarters of Chungcheong-do Province, Boryeong",
+      "location": "충남 보령시 오천면 소성리 931번지 일대",
+      "manager": "보령시",
+      "designated": "2009년 8월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "502호",
+      "name": "경주 불국사",
+      "hanja": "慶州 佛國寺",
+      "name_en": "Bulguksa Temple, Gyeongju",
+      "location": "경북 경주시 불국로 385, 등 (진현동)",
+      "manager": "대한불교조계종 불국사",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "503호",
+      "name": "보은 법주사",
+      "hanja": "報恩 法住寺",
+      "name_en": "Beopjusa Temple, Boeun",
+      "location": "충북 보은군 속리산면 사내리 산1-1번지 등",
+      "manager": "대한불교조계종 법주사",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "504호",
+      "name": "합천 해인사",
+      "hanja": "陜川 海印寺",
+      "name_en": "Haeinsa Temple, Hapcheon",
+      "location": "경남 합천군 가야면 해인사길 122, 등 (치인리)",
+      "manager": "대한불교조계종 해인사",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "505호",
+      "name": "구례 화엄사",
+      "hanja": "求禮 華嚴寺",
+      "name_en": "Hwaeomsa Temple, Gurye",
+      "location": "전남 구례군 마산면 화엄사로 539, 등 (황전리)",
+      "manager": "대한불교조계종 화엄사",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "506호",
+      "name": "순천 송광사",
+      "hanja": "順天 松廣寺",
+      "name_en": "Songgwangsa Temple, Suncheon",
+      "location": "전남 순천시 송광면 송광사안길 100, 등 (신평리)",
+      "manager": "대한불교조계종 송광사",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "507호",
+      "name": "순천 선암사",
+      "hanja": "順天 仙巖寺",
+      "name_en": "Seonamsa Temple, Suncheon",
+      "location": "전남 순천시 승주읍 선암사길 450, 등 (죽학리)",
+      "manager": "순천시",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "508호",
+      "name": "해남 대흥사",
+      "hanja": "海南 大興寺",
+      "name_en": "Daeheungsa Temple, Haenam",
+      "location": "전남 해남군 삼산면 구림리 766번지 등",
+      "manager": "대한불교조계종 대흥사",
+      "designated": "2009년 12월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "509호",
+      "name": "거제 둔덕기성",
+      "hanja": "巨濟 屯德岐城",
+      "name_en": "Dundeokgiseong Fortress, Geoje",
+      "location": "경남 거제시 둔덕면 거림리 산95번지 등",
+      "manager": "거제시",
+      "designated": "2010년 8월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "510호",
+      "name": "고령 사부동과 기산동 요지",
+      "hanja": "高靈 沙鳧洞과 箕山洞 窯址",
+      "name_en": "Kiln Sites in Sabu-dong and Gisan-dong, Goryeong",
+      "location": "경북 고령군 성산면 사부동 산 16 등 14필지",
+      "manager": "고령군",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "511호",
+      "name": "진천 산수리와 삼용리 요지",
+      "hanja": "鎭川 山水里와 三龍里 窯址",
+      "name_en": "Kiln Sites in Sansu-ri and Samyong-ri, Jincheon",
+      "location": "충북 진천군 덕산읍 산수리 196-3 등 9필지",
+      "manager": "진천군",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "512호",
+      "name": "경주 대릉원 일원",
+      "hanja": "慶州 大陵園 一圓",
+      "name_en": "Daereungwon Ancient Tomb Complex, Gyeongju",
+      "location": "경북 경주시 노동동 261 등",
+      "manager": "경주시",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "513호",
+      "name": "나주 반남 고분군",
+      "hanja": "羅州 潘南 古墳群",
+      "name_en": "Ancient Tombs in Bannam, Naju",
+      "location": "전남 나주시 반남면 대안리 103 등 126필지",
+      "manager": "나주시",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "514호",
+      "name": "창녕 교동과 송현동 고분군",
+      "hanja": "昌寧 校洞과 松峴洞 古墳群",
+      "name_en": "Ancient Tombs in Gyo-dong and Songhyeon-dong, Changnyeong",
+      "location": "경남 창녕군 창녕읍 교리 129 등",
+      "manager": "창녕군",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "515호",
+      "name": "함안 말이산 고분군",
+      "hanja": "咸安 末伊山 古墳群",
+      "name_en": "Ancient Tombs in Marisan Mountain, Haman",
+      "location": "경남 함안군 가야읍 도항리 484 등",
+      "manager": "함안군",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "516호",
+      "name": "경산 임당동과 조영동 고분군",
+      "hanja": "慶山 林堂洞과 造永洞 古墳群",
+      "name_en": "Ancient Tombs in Imdang-dong and Joyeong-dong, Gyeongsan",
+      "location": "경북 경산시 임당동 676-1 등 38필지",
+      "manager": "경산시",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "517호",
+      "name": "경주 진지왕릉",
+      "hanja": "慶州 眞智王陵",
+      "name_en": "Tomb of King Jinji, Gyeongju",
+      "location": "경북 경주시 서악동 산 92-1",
+      "manager": "경주시",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "518호",
+      "name": "경주 문성왕릉",
+      "hanja": "慶州 文聖王陵",
+      "name_en": "Tomb of King Munseong, Gyeongju",
+      "location": "경북 경주시 서악동 산 92-1",
+      "manager": "경주시",
+      "designated": "2011년 7월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "519호",
+      "name": "고흥 운대리 분청사기 요지",
+      "hanja": "高興 雲垈里 粉靑沙器 窯址",
+      "name_en": "Buncheong Kiln Site in Undae-ri, Goheung",
+      "location": "전남 고흥군 두원면 운대리 산24-1번지 등",
+      "manager": "고흥군",
+      "designated": "2011년 12월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "520호",
+      "name": "서울 용산신학교",
+      "hanja": "서울 龍山神學校",
+      "name_en": "Yongsan Theological School, Seoul",
+      "location": "서울 용산구 원효로19길 49-0 (원효로4가)",
+      "manager": "학교법인 성심학원",
+      "designated": "2012년 6월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "521호",
+      "name": "서울 원효로 예수성심성당",
+      "hanja": "서울 元曉路 예수聖心聖堂",
+      "name_en": "Wonhyo-ro Catholic Church, Seoul",
+      "location": "서울 용산구 원효로19길 49-0 (원효로4가)",
+      "manager": "학교법인 성심학원",
+      "designated": "2012년 6월 20일 지정",
+      "note": ""
+    },
+    {
+      "number": "522호",
+      "name": "제주 용담동 유적",
+      "hanja": "濟州 龍潭洞 遺蹟",
+      "name_en": "Archaeological Site in Yongdam-dong, Jeju",
+      "location": "제주 제주시 용담이동 2696-2번지 등",
+      "manager": "제주시",
+      "designated": "2012년 5월 17일 지정",
+      "note": ""
+    },
+    {
+      "number": "523호",
+      "name": "여수 석보",
+      "hanja": "麗水 石堡",
+      "name_en": "Stone Fortress, Yeosu",
+      "location": "전남 여수시 여천동 868번지 등",
+      "manager": "여수시",
+      "designated": "2012년 6월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "524호",
+      "name": "삼척 준경묘·영경묘",
+      "hanja": "三陟 濬慶墓·永慶墓",
+      "name_en": "Jungyeongmyo and Yeonggyeongmyo Royal Tombs, Samcheok",
+      "location": "강원 삼척시 미로면 활기리 산149번지 등",
+      "manager": "삼척시",
+      "designated": "2012년 7월 12일 지정",
+      "note": ""
+    },
+    {
+      "number": "525호",
+      "name": "파주 이이 유적",
+      "hanja": "坡州 李珥 遺跡",
+      "name_en": "Historic Site Related to Yi I, Paju",
+      "location": "경기 파주시 법원읍 동문리 산 5-1번지 등",
+      "manager": "파주시",
+      "designated": "2013년 2월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "526호",
+      "name": "양주 대모산성",
+      "hanja": "楊州 大母山城",
+      "name_en": "Daemosanseong Fortress, Yangju",
+      "location": "경기 양주시 백석읍 방성리 789번지 등",
+      "manager": "양주시",
+      "designated": "2013년 6월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "527호",
+      "name": "증평 추성산성",
+      "hanja": "曾坪 杻城山城",
+      "name_en": "Chuseongsanseong Fortress, Jeungpyeong",
+      "location": "충북 증평군 도안면 노암리 산74-0",
+      "manager": "증평군",
+      "designated": "2014년 1월 23일 지정",
+      "note": ""
+    },
+    {
+      "number": "528호",
+      "name": "울산 약사동 제방",
+      "hanja": "蔚山 藥泗洞 堤防",
+      "name_en": "",
+      "location": "울산 중구 약사동 산 55-2 등",
+      "manager": "한국토지주택공사",
+      "designated": "2014년 9월 16일 지정",
+      "note": ""
+    },
+    {
+      "number": "529호",
+      "name": "당진 솔뫼마을 김대건신부 유적",
+      "hanja": "唐津 솔뫼마을 金大建神父 遺蹟",
+      "name_en": "",
+      "location": "충남 당진시 우강면 송산리 116 등",
+      "manager": "(재)대전교구 천주교유지재단 솔뫼성지",
+      "designated": "2014년 9월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "530호",
+      "name": "용인 심곡서원",
+      "hanja": "龍仁 深谷書院",
+      "name_en": "Simgokseowon Confucian Academy, Yongin",
+      "location": "경기 용인시 수지구 상현동 203-2 등",
+      "manager": "심곡서원",
+      "designated": "2015년 1월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "531호",
+      "name": "고창 봉덕리 고분군",
+      "hanja": "高敞 鳳德里 古墳群",
+      "name_en": "Bongdeok-ri Ancient Tombs in Gochang",
+      "location": "전북 고창군 아산면 봉덕리 산 47",
+      "manager": "고창군",
+      "designated": "2015년 9월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "532호",
+      "name": "상주 옥동서원",
+      "hanja": "尙州 玉洞書院",
+      "name_en": "Okdongseowon Confucian Academy in Sangju",
+      "location": "경북 상주시 모동면 수봉리 546",
+      "manager": "옥동서원",
+      "designated": "2015년 11월 10일 지정",
+      "note": ""
+    },
+    {
+      "number": "533호",
+      "name": "경주 인왕동 사지",
+      "hanja": "慶州 仁旺洞 寺址",
+      "name_en": "Temple Site in Inwang-dong, Gyeongju",
+      "location": "경북 경주시 인왕동 342번지 일원",
+      "manager": "경주시장",
+      "designated": "2016년 1월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "534호",
+      "name": "영월부 관아",
+      "hanja": "寧越府 官衙",
+      "name_en": "Yeongwol-bu Government Office",
+      "location": "강원 영월군 중앙로 61 (영월읍, 관풍헌)",
+      "manager": "영월군",
+      "designated": "2016년 3월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "535호",
+      "name": "해남 전라우수영",
+      "hanja": "海南 全羅右水營",
+      "name_en": "Navy Headquarter Protecting Western Region of Jeolla-do Province, Haenam",
+      "location": "전남 해남군 문내면 서상리 109-1 일원",
+      "manager": "전남 해남군",
+      "designated": "2016년 9월 30일 지정",
+      "note": ""
+    },
+    {
+      "number": "536호",
+      "name": "안성 도기동 산성",
+      "hanja": "安城 道基洞 山城",
+      "name_en": "Fortress in Dogi-dong, Anseong",
+      "location": "경기 안성시 도기동 산 515-5 외",
+      "manager": "경기 안성시",
+      "designated": "2016년 9월 30일 지정",
+      "note": ""
+    },
+    {
+      "number": "537호",
+      "name": "파주 덕진산성",
+      "hanja": "坡州 德津山城",
+      "name_en": "Deokjinsanseong Fortress, Paju",
+      "location": "경기 파주시 군내면 정자리 13",
+      "manager": "경기 파주시",
+      "designated": "2017년 1월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "538호",
+      "name": "대구 경상감영지",
+      "hanja": "大邱 慶尙監營址",
+      "name_en": "Gyeongsanggamyeong Provincial Office Site, Daegu",
+      "location": "대구 중구 포정동 21",
+      "manager": "대구광역시 중구",
+      "designated": "2017년 4월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "539호",
+      "name": "부산 연산동 고분군",
+      "hanja": "釜山 蓮山洞 古墳群",
+      "name_en": "Ancient Tombs in Yeonsan-dong, Busan",
+      "location": "부산 연제구 연산동 산90-4",
+      "manager": "연제구",
+      "designated": "2017년 6월 30일 지정",
+      "note": ""
+    },
+    {
+      "number": "540호",
+      "name": "논산 노강서원",
+      "hanja": "論山 魯岡書院",
+      "name_en": "Nogangseowon Confucian Academy, Nonsan",
+      "location": "충남 논산시 광석면 오강길 56-5",
+      "manager": "노강서원",
+      "designated": "2017년 5월 18일 예고, 2017년 8월 31일 지정",
+      "note": ""
+    },
+    {
+      "number": "541호",
+      "name": "부안 죽막동 유적",
+      "hanja": "扶安 竹幕洞 遺蹟",
+      "name_en": "Archaeological Site in Jukmak-dong, Buan",
+      "location": "전북 부안군 변산면 적벽강길 54 (변산면, 수성당)",
+      "manager": "부안군",
+      "designated": "2017년 8월 2일 예고, 2017년 10월 19일 지정",
+      "note": ""
+    },
+    {
+      "number": "542호",
+      "name": "남원 유곡리와 두락리 고분군",
+      "hanja": "南原酉谷里와 斗洛里古墳群",
+      "name_en": "Ancient Tombs in Yugok-ri and Durak-ri, Namwon",
+      "location": "전북 남원시 인월면 성내길 35-4외 (유곡리 746-1 외)",
+      "manager": "전라북도 남원시",
+      "designated": "2018년 3월 28일 지정",
+      "note": ""
+    },
+    {
+      "number": "543호",
+      "name": "정읍 은선리와 도계리 고분군",
+      "hanja": "井邑 隱仙里와 道溪里 古墳群",
+      "name_en": "Ancient Tombs in Eunseon-ri and Dogye-ri, Jeongeup",
+      "location": "전북 정읍시 영원면 은선리 산7번지 일원",
+      "manager": "전라북도 정읍시",
+      "designated": "2018년 4월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "544호",
+      "name": "대구 구암동 고분군",
+      "hanja": "大邱 鳩岩洞 古墳群",
+      "name_en": "Ancient Tombs in Guam-dong, Daegu",
+      "location": "대구 북구 구암동 산 77번지 일원",
+      "manager": "대구광역시 북구",
+      "designated": "2018년 8월 7일 지정",
+      "note": ""
+    },
+    {
+      "number": "545호",
+      "name": "구 군산세관 본관",
+      "hanja": "舊 群山稅關 本館",
+      "name_en": "",
+      "location": "전북 군산시 해망로 244-7(장미동)",
+      "manager": "관세청(군산세관)",
+      "designated": "2018년 8월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "546호",
+      "name": "부산 임시수도 대통령관저",
+      "hanja": "",
+      "name_en": "",
+      "location": "부산 서구 임시수도기념로 45 (부민동3가)",
+      "manager": "부산광역시(부산박물관)",
+      "designated": "2018년 11월 6일 지정",
+      "note": ""
+    },
+    {
+      "number": "547호",
+      "name": "창녕 계성 고분군",
+      "hanja": "昌寧 桂城 古墳群",
+      "name_en": "",
+      "location": "경남 창녕군 계성면 계성리 368 외",
+      "manager": "창녕군",
+      "designated": "2019년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "548호",
+      "name": "경주 분황사지",
+      "hanja": "慶州 芬皇寺址",
+      "name_en": "",
+      "location": "경북 경주시 구황동 301-1 일대",
+      "manager": "경주시",
+      "designated": "2019년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "549호",
+      "name": "경주 구황동 원지 유적 일원",
+      "hanja": "慶州 九黃洞 園池 遺蹟 一圓",
+      "name_en": "",
+      "location": "경북 경주시 구황동 292-2 일대",
+      "manager": "경주시",
+      "designated": "2019년 2월 26일 지정",
+      "note": ""
+    },
+    {
+      "number": "550호",
+      "name": "만해 한용운 심우장",
+      "hanja": "萬海 韓龍雲 尋牛莊",
+      "name_en": "",
+      "location": "서울 성북구 성북로29길 24 (성북동, 만해 한용운 심우장)",
+      "manager": "성북구",
+      "designated": "2019년 4월 8일 지정",
+      "note": ""
+    },
+    {
+      "number": "551호",
+      "name": "진안 도통리 청자요지",
+      "hanja": "鎭安 道通里 靑瓷窯址",
+      "name_en": "",
+      "location": "전북 진안군 성수면 도통리 산 40-1번지 등",
+      "manager": "전라북도 진안군",
+      "designated": "2019년 9월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "552호",
+      "name": "장수 동촌리 고분군",
+      "hanja": "長水 東村里 古墳群",
+      "name_en": "",
+      "location": "전북 장수군 장수읍 동촌리 산26-1 회",
+      "manager": "전라북도 장수군",
+      "designated": "2019년 10월 1일 지정",
+      "note": ""
+    },
+    {
+      "number": "553호",
+      "name": "인제 한계산성",
+      "hanja": "麟蹄 寒溪山城",
+      "name_en": "",
+      "location": "강원 인제군 북면 한계리 산1-1 일원",
+      "manager": "강원특별자치도 인제군",
+      "designated": "2019년 10월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "554호",
+      "name": "함안 가야리 유적",
+      "hanja": "咸安 伽倻里 遺跡",
+      "name_en": "",
+      "location": "경남 함안군 가야읍 가야리 289 일원",
+      "manager": "함안군",
+      "designated": "2019년 10월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "555호",
+      "name": "의성 금성면 고분군",
+      "hanja": "義城 金城面 古墳群",
+      "name_en": "Ancient Tombs in Geumseong-myeon, Uiseong",
+      "location": "경남 의성군 금성면 대리리",
+      "manager": "의성군",
+      "designated": "2019년 10월 21일 지정",
+      "note": ""
+    },
+    {
+      "number": "556호",
+      "name": "인천 계양산성",
+      "hanja": "仁川 桂陽山城",
+      "name_en": "",
+      "location": "인천 계양구 계산동 산 10-1 일원",
+      "manager": "인천 계양구청",
+      "designated": "2020년 5월 22일 지정",
+      "note": ""
+    },
+    {
+      "number": "557호",
+      "name": "인천 팔미도 등대",
+      "hanja": "仁川 八尾島 燈臺",
+      "name_en": "",
+      "location": "인천 중구 팔미로 28 (무의동)",
+      "manager": "-",
+      "designated": "2020년 9월 15일 지정",
+      "note": ""
+    },
+    {
+      "number": "558호",
+      "name": "의정부지",
+      "hanja": "議政府址",
+      "name_en": "",
+      "location": "서울특별시 종로구",
+      "manager": "서울특별시",
+      "designated": "2020년 9월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "559호",
+      "name": "거창 거열산성",
+      "hanja": "居昌 居列山城",
+      "name_en": "",
+      "location": "경상남도 거창군",
+      "manager": "거창군",
+      "designated": "2020년 9월 24일 지정",
+      "note": ""
+    },
+    {
+      "number": "560호",
+      "name": "태안 안흥진성",
+      "hanja": "泰安 安興鎭城",
+      "name_en": "",
+      "location": "충청남도 태안군",
+      "manager": "태안군",
+      "designated": "2020년 11월 2일 지정",
+      "note": ""
+    },
+    {
+      "number": "-",
+      "name": "합천 삼가 고분군",
+      "hanja": "陜川 三嘉 古墳群",
+      "name_en": "",
+      "location": "경상남도 합천군",
+      "manager": "합천군",
+      "designated": "2021년 11월 24일 지정",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 사적 목록 - Free Download",
+    "description": "대한민국 국가지정문화유산 사적의 지정 번호, 명칭(한자·영문), 소재지, 관리자, 지정일 목록입니다. Contains 561 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 사적 목록 | ListBase",
+    "seo_description": "Download 대한민국의 사적 목록 — 561 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 561 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_사적"
+    ]
+  }
+}
