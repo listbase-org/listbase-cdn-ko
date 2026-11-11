@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-10T02:37:14.627Z",
-  "total_datasets": 573,
-  "total_records": 459036,
+  "generated": "2026-11-11T02:19:39.817Z",
+  "total_datasets": 574,
+  "total_records": 459197,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "economy",
@@ -533,6 +533,35 @@
         "xlsx": {
           "name": "ko-gukbo-1960nyeondae_KO.xlsx",
           "size": 19318
+        }
+      }
+    },
+    {
+      "id": "ko-gukga-muhyeong-yusan",
+      "name": "대한민국의 국가무형유산 목록",
+      "category": "culture",
+      "record_count": 161,
+      "columns": [
+        "number",
+        "name",
+        "hanja",
+        "name_en",
+        "location",
+        "custodian",
+        "designated",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_국가무형유산_(1960년대~1970년대)",
+      "updated": "2026-11",
+      "size": 48970,
+      "files": {
+        "csv": {
+          "name": "ko-gukga-muhyeong-yusan_KO.csv",
+          "size": 22308
+        },
+        "xlsx": {
+          "name": "ko-gukga-muhyeong-yusan_KO.xlsx",
+          "size": 19654
         }
       }
     },

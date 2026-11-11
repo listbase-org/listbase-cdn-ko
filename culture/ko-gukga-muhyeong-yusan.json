@@ -1,0 +1,1676 @@
+{
+  "id": "ko-gukga-muhyeong-yusan",
+  "name": "대한민국의 국가무형유산 목록",
+  "title": "대한민국의 국가무형유산 목록",
+  "description": "대한민국 국가무형유산(옛 중요무형문화재)의 지정 번호, 명칭(한자·영문), 소재지, 보존 단체, 지정일 목록입니다.",
+  "category": "culture",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_국가무형유산_(1960년대~1970년대)",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_국가무형유산_(1960년대~1970년대)",
+  "updated": "2026-11",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "custodian",
+      "label": "Custodian",
+      "type": "string"
+    },
+    {
+      "key": "designated",
+      "label": "Designated",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": "1호",
+      "name": "종묘제례악",
+      "hanja": "宗廟祭禮樂",
+      "name_en": "Jongmyo Jeryeak (Royal Ancestral Ritual Music in the Jongmyo Shrine)",
+      "location": "서울 서울전역",
+      "custodian": "종묘제례악보존회",
+      "designated": "1964년 12월 7일",
+      "note": ""
+    },
+    {
+      "number": "2호",
+      "name": "양주별산대놀이",
+      "hanja": "楊州別山臺놀이",
+      "name_en": "Yangju Byeolsandae Nori (Mask Dance Drama of Yangju)",
+      "location": "경기 경기전역",
+      "custodian": "양주별산대놀이보존회",
+      "designated": "1964년 12월 7일",
+      "note": ""
+    },
+    {
+      "number": "3호",
+      "name": "남사당놀이",
+      "hanja": "男寺黨놀이",
+      "name_en": "Namsadang Nori (Itinerant Troupe Performance)",
+      "location": "서울 서울전역",
+      "custodian": "남사당놀이보존회",
+      "designated": "1964년 12월 7일",
+      "note": ""
+    },
+    {
+      "number": "4호",
+      "name": "갓일",
+      "hanja": "",
+      "name_en": "Gannil (Horsehair Hat Making)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1964년 12월 24일",
+      "note": ""
+    },
+    {
+      "number": "5호",
+      "name": "판소리",
+      "hanja": "",
+      "name_en": "Pansori (Epic Chant)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1964년 12월 24일",
+      "note": ""
+    },
+    {
+      "number": "6호",
+      "name": "통영오광대",
+      "hanja": "統營五廣大",
+      "name_en": "Tongyeong Ogwangdae (Mask Dance Drama of Tongyeong)",
+      "location": "경남 경남전역",
+      "custodian": "통영오광대보존회",
+      "designated": "1964년 12월 24일",
+      "note": ""
+    },
+    {
+      "number": "7호",
+      "name": "고성오광대",
+      "hanja": "固城五廣大",
+      "name_en": "Goseong Ogwangdae (Mask Dance Drama of Goseong)",
+      "location": "경남 경남전역",
+      "custodian": "고성오광대놀이보존회",
+      "designated": "1964년 12월 24일",
+      "note": ""
+    },
+    {
+      "number": "8호",
+      "name": "강강술래",
+      "hanja": "",
+      "name_en": "Ganggangsullae (Circle Dance)",
+      "location": "전남 전남전역",
+      "custodian": "강강술래보존회",
+      "designated": "1966년 2월 15일",
+      "note": ""
+    },
+    {
+      "number": "9호",
+      "name": "은산별신제",
+      "hanja": "恩山別神祭",
+      "name_en": "Eunsan Byeolsinje (Village Ritual of Eunsan)",
+      "location": "충남 충남전역",
+      "custodian": "은산별신제보존회",
+      "designated": "1966년 2월 15일",
+      "note": ""
+    },
+    {
+      "number": "10호",
+      "name": "나전장",
+      "hanja": "螺鈿匠",
+      "name_en": "Najeonjang (Mother-of-pearl Inlaying)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1966년 6월 29일",
+      "note": ""
+    },
+    {
+      "number": "11-1호",
+      "name": "진주삼천포농악",
+      "hanja": "晋州三千浦農樂",
+      "name_en": "Jinju Samcheonpo Nongak (Farmers' Performance of Samcheonpo, Jinju)",
+      "location": "경남 경남전역",
+      "custodian": "진주삼천포농악보존회",
+      "designated": "1966년 6월 29일",
+      "note": ""
+    },
+    {
+      "number": "11-2호",
+      "name": "평택농악",
+      "hanja": "平澤農樂",
+      "name_en": "Pyeongtaek Nongak (Farmers' Performance of Pyeongtaek)",
+      "location": "경기 경기전역",
+      "custodian": "평택농악보존회",
+      "designated": "1985년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "11-3호",
+      "name": "이리농악",
+      "hanja": "裡里農樂",
+      "name_en": "Iri Nongak (Farmers' Performance of Iri)",
+      "location": "전북 전북전역",
+      "custodian": "이리농악보존회",
+      "designated": "1985년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "11-4호",
+      "name": "강릉농악",
+      "hanja": "江陵農樂",
+      "name_en": "Gangneung Nongak (Farmers' Performance of Gangneung)",
+      "location": "강원 강원전역",
+      "custodian": "강릉농악보존회",
+      "designated": "1985년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "11-5호",
+      "name": "임실필봉농악",
+      "hanja": "任實筆峰農樂",
+      "name_en": "Imsil Pilbong Nongak (Farmers' Performance of Pilbong, Imsil)",
+      "location": "전북 전북전역",
+      "custodian": "임실필봉농악보존회",
+      "designated": "1988년 8월 1일",
+      "note": ""
+    },
+    {
+      "number": "11-6호",
+      "name": "구례잔수농악",
+      "hanja": "求禮潺水農樂",
+      "name_en": "Gurye Jansu Nongak (Farmers' Performance of Jansu, Gurye)",
+      "location": "전남 전남전역",
+      "custodian": "구례잔수농악보존회",
+      "designated": "2010년 10월 21일",
+      "note": ""
+    },
+    {
+      "number": "11-7호",
+      "name": "김천금릉빗내농악",
+      "hanja": "",
+      "name_en": "",
+      "location": "경북 김천시 개령면 빗내길 118",
+      "custodian": "김천금릉빗내농악 보존회",
+      "designated": "2019년 9월 2일",
+      "note": ""
+    },
+    {
+      "number": "11-8호",
+      "name": "남원농악",
+      "hanja": "",
+      "name_en": "",
+      "location": "전북 남원시 술미안길 14-19",
+      "custodian": "남원농악 보존회",
+      "designated": "2019년 9월 2일",
+      "note": ""
+    },
+    {
+      "number": "12호",
+      "name": "진주검무",
+      "hanja": "晋州劍舞",
+      "name_en": "Jinju Geommu (Sword Dance of Jinju)",
+      "location": "경남 경남전역",
+      "custodian": "진주검무보존회",
+      "designated": "1967년 1월 16일",
+      "note": ""
+    },
+    {
+      "number": "13호",
+      "name": "강릉단오제",
+      "hanja": "江陵端午祭",
+      "name_en": "Gangneung Danoje (Dano Festival of Gangneung)",
+      "location": "강원 강원전역",
+      "custodian": "강릉단오제보존회",
+      "designated": "1967년 1월 16일",
+      "note": ""
+    },
+    {
+      "number": "14호",
+      "name": "한산모시짜기",
+      "hanja": "韓山모시짜기",
+      "name_en": "Hansan Mosi Jjagi (Fine Ramie Weaving of Hansan)",
+      "location": "충남 충남전역",
+      "custodian": "",
+      "designated": "1967년 1월 16일",
+      "note": ""
+    },
+    {
+      "number": "15호",
+      "name": "북청사자놀음",
+      "hanja": "北靑獅子놀음",
+      "name_en": "Bukcheong Saja Noreum (Lion Mask Dance of Bukcheong)",
+      "location": "서울 서울전역",
+      "custodian": "북청사자놀음보존회",
+      "designated": "1967년 3월 31일",
+      "note": ""
+    },
+    {
+      "number": "16호",
+      "name": "거문고산조",
+      "hanja": "거문고散調",
+      "name_en": "Geomungo Sanjo (Free-style Geomungo Solo Music)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1967년 6월 16일",
+      "note": ""
+    },
+    {
+      "number": "17호",
+      "name": "봉산탈춤",
+      "hanja": "鳳山탈춤",
+      "name_en": "Bongsan Talchum (Mask Dance Drama of Bongsan)",
+      "location": "서울 서울전역",
+      "custodian": "봉산탈춤보존회",
+      "designated": "1967년 6월 16일",
+      "note": ""
+    },
+    {
+      "number": "18호",
+      "name": "동래야류",
+      "hanja": "東萊野遊",
+      "name_en": "Dongnae Yaryu (Mask Dance Drama of Dongnae)",
+      "location": "부산 부산전역",
+      "custodian": "동래야류보존회",
+      "designated": "1967년 12월 21일",
+      "note": ""
+    },
+    {
+      "number": "19호",
+      "name": "선소리산타령",
+      "hanja": "선소리山打令",
+      "name_en": "Seonsori Santaryeong (Folk Song of the Mountain Performed in a Standing Position)",
+      "location": "서울 서울전역",
+      "custodian": "선소리산타령보존회",
+      "designated": "1968년 4월 18일",
+      "note": ""
+    },
+    {
+      "number": "20호",
+      "name": "대금정악",
+      "hanja": "大笒正樂",
+      "name_en": "Daegeum Jeongak (Classical Daegeum Solo Music)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1968년 12월 21일",
+      "note": ""
+    },
+    {
+      "number": "21호",
+      "name": "승전무",
+      "hanja": "勝戰舞",
+      "name_en": "Seungjeonmu (Victory Dance)",
+      "location": "경남 경남전역",
+      "custodian": "승전무보존회",
+      "designated": "1968년 12월 21일",
+      "note": ""
+    },
+    {
+      "number": "22호",
+      "name": "매듭장",
+      "hanja": "매듭匠",
+      "name_en": "Maedeupjang (Decorative Knotting)",
+      "location": "경기.",
+      "custodian": "",
+      "designated": "1968년 12월 21일",
+      "note": ""
+    },
+    {
+      "number": "23호",
+      "name": "가야금산조및병창",
+      "hanja": "伽倻琴散調및倂唱",
+      "name_en": "Gayageum Sanjo and Byeongchang (Free-style Gayageum Solo and Music and Singing)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1968년 12월 21일",
+      "note": ""
+    },
+    {
+      "number": "24호",
+      "name": "안동차전놀이",
+      "hanja": "安東車戰놀이",
+      "name_en": "Andong Chajeon Nori (Chariot Battle of Andong)",
+      "location": "경북 경북전역",
+      "custodian": "안동차전놀이보존회",
+      "designated": "1969년 1월 7일",
+      "note": ""
+    },
+    {
+      "number": "25호",
+      "name": "영산쇠머리대기 (영어판)",
+      "hanja": "靈山쇠머리대기",
+      "name_en": "Yeongsan Soemeori Daegi (Wooden Bull Fight of Yeongsan)",
+      "location": "경남 경남전역",
+      "custodian": "영산쇠머리대기보존회",
+      "designated": "1969년 2월 11일",
+      "note": ""
+    },
+    {
+      "number": "26호",
+      "name": "영산줄다리기",
+      "hanja": "靈山줄다리기",
+      "name_en": "Yeongsan Juldarigi (Tug-of-war of Yeongsan)",
+      "location": "경남 경남전역",
+      "custodian": "영산줄다리기보존회",
+      "designated": "1969년 2월 11일",
+      "note": ""
+    },
+    {
+      "number": "27호",
+      "name": "승무",
+      "hanja": "僧舞",
+      "name_en": "Seungmu (Monk's Dance)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1969년 7월 4일",
+      "note": ""
+    },
+    {
+      "number": "28호",
+      "name": "나주의샛골나이",
+      "hanja": "羅州의샛골나이",
+      "name_en": "Naju Saetgollai (Cotton Weaving of Naju)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "1969년 7월 4일",
+      "note": ""
+    },
+    {
+      "number": "29호",
+      "name": "서도소리",
+      "hanja": "西道소리",
+      "name_en": "Seodo Sori (Folk Song of the Western Provinces)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1969년 9월 27일",
+      "note": ""
+    },
+    {
+      "number": "30호",
+      "name": "가곡",
+      "hanja": "歌曲",
+      "name_en": "Gagok (Lyric Song Cycles Accompanied by an Orchestra)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1969년 11월 10일",
+      "note": ""
+    },
+    {
+      "number": "31호",
+      "name": "낙죽장",
+      "hanja": "烙竹匠",
+      "name_en": "Nakjukjang (Bamboo Pyrography)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "1969년 11월 29일",
+      "note": ""
+    },
+    {
+      "number": "32호",
+      "name": "곡성의돌실나이",
+      "hanja": "谷城의돌실나이",
+      "name_en": "Gokseong Dolsillai (Hemp Weaving of Gokseong)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "1970년 7월 22일",
+      "note": "2019년 12월 31일 국가무형문화재 제140호 ‘삼베짜기’에 통합"
+    },
+    {
+      "number": "33호",
+      "name": "광주칠석고싸움놀이",
+      "hanja": "광주칠석고싸움놀이",
+      "name_en": "Gwangju Chilseok Gossaum Nori (Loop Fight of Gwangju)",
+      "location": "광주 광주전역",
+      "custodian": "광주칠석고싸움놀이 보존회",
+      "designated": "1970년 7월 22일",
+      "note": ""
+    },
+    {
+      "number": "34호",
+      "name": "강령탈춤",
+      "hanja": "康翎탈춤",
+      "name_en": "Gangnyeong Talchum (Mask Dance Drama of Gangnyeong)",
+      "location": "서울 서울전역",
+      "custodian": "강령탈춤보존회",
+      "designated": "1970년 7월 22일",
+      "note": ""
+    },
+    {
+      "number": "35호",
+      "name": "조각장",
+      "hanja": "彫刻匠",
+      "name_en": "Jogakjang (Metal Engraving)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1970년 7월 22일",
+      "note": ""
+    },
+    {
+      "number": "36호",
+      "name": "판소리심청가 (판소리심청가)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1970년 7월 22일 지정, 1973년 11월 5일 해제, 중요무형문화재 제5호 로 통합",
+      "note": ""
+    },
+    {
+      "number": "37호",
+      "name": "화장 (靴匠)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1970년 7월 22일 지정, 1982년 2월 5일 해제, 보유자 부재",
+      "note": ""
+    },
+    {
+      "number": "38호",
+      "name": "조선왕조 궁중음식",
+      "hanja": "朝鮮王朝宮中飮食",
+      "name_en": "Joseon Wangjo Gungjung Eumsik (Royal Culinary Art of the Joseon Dynasty)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1970년 12월 30일",
+      "note": ""
+    },
+    {
+      "number": "39호",
+      "name": "처용무",
+      "hanja": "處容舞",
+      "name_en": "Cheoyongmu (Dance of Cheoyong)",
+      "location": "서울 서울전역",
+      "custodian": "처용무보존회",
+      "designated": "1971년 1월 8일",
+      "note": ""
+    },
+    {
+      "number": "40호",
+      "name": "학연화대합설무",
+      "hanja": "鶴蓮花臺合設舞",
+      "name_en": "Hak Yeonhwadae Hapseolmu (Crane Dance and Lotus Flower Dance)",
+      "location": "서울 서울전역",
+      "custodian": "학연화대합설무보존회",
+      "designated": "1971년 1월 8일",
+      "note": ""
+    },
+    {
+      "number": "41호",
+      "name": "가사",
+      "hanja": "歌詞",
+      "name_en": "Gasa (Narrative Song)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1971년 1월 8일",
+      "note": ""
+    },
+    {
+      "number": "42호",
+      "name": "악기장",
+      "hanja": "樂器匠",
+      "name_en": "Akgijang (Musical Instrument Making)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1971년 2월 24일",
+      "note": ""
+    },
+    {
+      "number": "43호",
+      "name": "수영야류",
+      "hanja": "水營野遊",
+      "name_en": "Suyeong Yaryu (Mask Dance Drama of Suyeong)",
+      "location": "부산 부산전역",
+      "custodian": "수영야류보존회",
+      "designated": "1971년 2월 24일",
+      "note": ""
+    },
+    {
+      "number": "44호",
+      "name": "경산자인단오제",
+      "hanja": "慶山慈仁端午祭",
+      "name_en": "Gyeongsan Jain Danoje (Dano Festival of Jain, Gyeongsan)",
+      "location": "경북 경북전역",
+      "custodian": "경산자인단오제 보존회",
+      "designated": "1971년 3월 16일",
+      "note": ""
+    },
+    {
+      "number": "45호",
+      "name": "대금산조",
+      "hanja": "大笒散調",
+      "name_en": "Daegeum Sanjo (Free-style Daegeum Solo Music)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1971년 3월 16일",
+      "note": ""
+    },
+    {
+      "number": "46호",
+      "name": "피리정악및대취타",
+      "hanja": "피리정악및大吹打",
+      "name_en": "Piri Jeongak and Daechwita (Classical Piri Solo and Military Band Music)",
+      "location": "서울 서울전역",
+      "custodian": "피리정악및대취타보존회",
+      "designated": "1971년 6월 10일",
+      "note": ""
+    },
+    {
+      "number": "47호",
+      "name": "궁시장",
+      "hanja": "弓矢匠",
+      "name_en": "Gungsijang (Bow and Arrow Making)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1971년 9월 13일",
+      "note": ""
+    },
+    {
+      "number": "48호",
+      "name": "단청장",
+      "hanja": "丹靑匠",
+      "name_en": "Dancheongjang (Ornamental Painting)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1972년 8월 1일",
+      "note": ""
+    },
+    {
+      "number": "49호",
+      "name": "송파산대놀이",
+      "hanja": "松坡山臺놀이",
+      "name_en": "Songpa Sandae Nori (Mask Dance Drama of Songpa)",
+      "location": "서울 서울전역",
+      "custodian": "송파산대놀이보존회",
+      "designated": "1973년 11월 11일",
+      "note": ""
+    },
+    {
+      "number": "50호",
+      "name": "영산재",
+      "hanja": "靈山齋",
+      "name_en": "Yeongsanjae (Celebration of Buddha's Sermon on Vulture Peak Mountain)",
+      "location": "서울 서울전역",
+      "custodian": "영산재보존회",
+      "designated": "1973년 11월 5일",
+      "note": ""
+    },
+    {
+      "number": "51호",
+      "name": "남도들노래",
+      "hanja": "南道들노래",
+      "name_en": "Namdo Deullorae (Farmers' Song of Jeollanam-do)",
+      "location": "전남 전남전역",
+      "custodian": "남도들노래보존회",
+      "designated": "1973년 11월 5일",
+      "note": ""
+    },
+    {
+      "number": "52호",
+      "name": "시나위",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1973년 11월 5일 지정, 1975년 5월 3일 해제, 보유자 부재로 지정 해제",
+      "note": ""
+    },
+    {
+      "number": "53호",
+      "name": "채상장",
+      "hanja": "彩箱匠",
+      "name_en": "Chaesangjang (Bamboo Case Weaving)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "1975년 1월 29일",
+      "note": ""
+    },
+    {
+      "number": "54호",
+      "name": "끊음질",
+      "hanja": "",
+      "name_en": "",
+      "location": "기타 전국",
+      "custodian": "",
+      "designated": "1975년 1월 29일 지정, 1995년 3월 16일 해제, 중요무형문화재 제10호 로 통합",
+      "note": ""
+    },
+    {
+      "number": "55호",
+      "name": "소목장",
+      "hanja": "小木匠",
+      "name_en": "Somokjang (Wood Furniture Making)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "1975년 1월 29일",
+      "note": ""
+    },
+    {
+      "number": "56호",
+      "name": "종묘제례",
+      "hanja": "宗廟祭禮",
+      "name_en": "Jongmyo Jerye (Royal Ancestral Ritual in the Jongmyo Shrine)",
+      "location": "서울 서울전역",
+      "custodian": "종묘제례보존회",
+      "designated": "1975년 5월 3일",
+      "note": ""
+    },
+    {
+      "number": "57호",
+      "name": "경기민요",
+      "hanja": "京畿民謠",
+      "name_en": "Gyeonggi Minyo (Folk Song of Gyeonggi Area)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1975년 7월 12일",
+      "note": ""
+    },
+    {
+      "number": "58호",
+      "name": "줄타기",
+      "hanja": "줄타기",
+      "name_en": "Jultagi (Tightrope Walking)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "1976년 6월 30일",
+      "note": ""
+    },
+    {
+      "number": "59호",
+      "name": "판소리고법",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1978년 2월 2일 지정, 1991년 11월 1일 해제, 국가무형문화재 제5호 로 통합",
+      "note": ""
+    },
+    {
+      "number": "60호",
+      "name": "장도장",
+      "hanja": "粧刀匠",
+      "name_en": "Jangdojang (Ornamental Knife Making)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "1978년 2월 23일",
+      "note": ""
+    },
+    {
+      "number": "61호",
+      "name": "은율탈춤",
+      "hanja": "殷栗탈춤",
+      "name_en": "Eunyul Talchum (Mask Dance Drama of Eunyul)",
+      "location": "인천 인천전역",
+      "custodian": "은율탈춤보존회",
+      "designated": "1978년 2월 23일",
+      "note": ""
+    },
+    {
+      "number": "62호",
+      "name": "좌수영어방놀이",
+      "hanja": "左水營漁坊놀이",
+      "name_en": "Jwasuyeong Eobang Nori (Fishing Village Festival of the Left Naval Headquarters)",
+      "location": "부산 부산전역",
+      "custodian": "좌수영어방놀이보존회",
+      "designated": "1978년 5월 9일",
+      "note": ""
+    },
+    {
+      "number": "63호",
+      "name": "북메우기",
+      "hanja": "",
+      "name_en": "",
+      "location": "기타 전국",
+      "custodian": "",
+      "designated": "1980년 9월 1일 지정, 1995년 3월 16일 해제, 중요무형문화재 제42호 로 통합",
+      "note": ""
+    },
+    {
+      "number": "64호",
+      "name": "두석장",
+      "hanja": "豆錫匠",
+      "name_en": "Duseokjang (Metal Craft)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "65호",
+      "name": "백동연죽장",
+      "hanja": "白銅煙竹匠",
+      "name_en": "Baekdong Yeonjukjang (Nickel-Copper Pipe Making)",
+      "location": "전북 전북전역",
+      "custodian": "",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "66호",
+      "name": "망건장",
+      "hanja": "網巾匠",
+      "name_en": "Manggeonjang (Horsehair Headband Making)",
+      "location": "제주 제주전역",
+      "custodian": "",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "67호",
+      "name": "탕건장",
+      "hanja": "宕巾匠",
+      "name_en": "Tanggeonjang (Horsehair Hat Making)",
+      "location": "제주 제주전역",
+      "custodian": "",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "68호",
+      "name": "밀양백중놀이 (영어판)",
+      "hanja": "密陽百中놀이",
+      "name_en": "Miryang Baekjung Nori (Baekjung Festival of Miryang)",
+      "location": "경남 경남전역",
+      "custodian": "밀양백중놀이보존회",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "69호",
+      "name": "하회별신굿탈놀이",
+      "hanja": "河回別神굿탈놀이",
+      "name_en": "Hahoe Byeolsingut Tallori (Mask Dance Drama of Hahoe)",
+      "location": "경북 경북전역",
+      "custodian": "하회별신굿탈놀이보존회",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "70호",
+      "name": "양주소놀이굿",
+      "hanja": "楊州소놀이굿",
+      "name_en": "Yangju Sonorigut (Shamanic Ox Performance of Yangju)",
+      "location": "경기 경기전역",
+      "custodian": "양주소놀이굿보존회",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "71호",
+      "name": "제주칠머리당영등굿",
+      "hanja": "濟州칠머리당영등굿",
+      "name_en": "Jeju Chilmeoridang Yeongdeunggut (Shamanic Performance in the Chilmeoridang Shrine of Jeju)",
+      "location": "제주 제주전역",
+      "custodian": "제주칠머리당굿보존회",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "72호",
+      "name": "진도씻김굿",
+      "hanja": "珍島씻김굿",
+      "name_en": "Jindo Ssitgimgut (Purification Ritual of Jindo)",
+      "location": "전남 전남전역",
+      "custodian": "진도씻김굿보존회",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "73호",
+      "name": "가산오광대",
+      "hanja": "駕山五廣大",
+      "name_en": "Gasan Ogwangdae (Mask Dance Drama of Gasan)",
+      "location": "경남 경남전역",
+      "custodian": "가산오광대보존회",
+      "designated": "1980년 11월 17일",
+      "note": ""
+    },
+    {
+      "number": "74호",
+      "name": "대목장",
+      "hanja": "大木匠",
+      "name_en": "Daemokjang (Traditional Wooden Architecture)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1982년 6월 1일",
+      "note": ""
+    },
+    {
+      "number": "75호",
+      "name": "기지시줄다리기",
+      "hanja": "機池市줄다리기",
+      "name_en": "Gijisi Juldarigi (Gijisi Tug-of-war)",
+      "location": "충남 충남전역",
+      "custodian": "기지시줄다리기보존회",
+      "designated": "1982년 6월 1일",
+      "note": ""
+    },
+    {
+      "number": "76호",
+      "name": "택견",
+      "hanja": "",
+      "name_en": "Taekkyeon (Traditional Korean Martial Art)",
+      "location": "충북 충북전역",
+      "custodian": "",
+      "designated": "1983년 6월 1일",
+      "note": ""
+    },
+    {
+      "number": "77호",
+      "name": "유기장",
+      "hanja": "鍮器匠",
+      "name_en": "Yugijang (Brassware Making)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "1983년 6월 1일",
+      "note": ""
+    },
+    {
+      "number": "78호",
+      "name": "입사장",
+      "hanja": "入絲匠",
+      "name_en": "Ipsajang (Silver or Gold Inlaying)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1983년 6월 1일",
+      "note": ""
+    },
+    {
+      "number": "79호",
+      "name": "발탈",
+      "hanja": "",
+      "name_en": "Baltal (Foot Mask Theater)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1983년 6월 1일",
+      "note": ""
+    },
+    {
+      "number": "80호",
+      "name": "자수장",
+      "hanja": "刺繡匠",
+      "name_en": "Jasujang (Embroidery)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1984년 10월 15일",
+      "note": ""
+    },
+    {
+      "number": "81호",
+      "name": "진도다시래기",
+      "hanja": "珍島다시래기",
+      "name_en": "Jindo Dasiraegi (Dasiraegi Play of Jindo)",
+      "location": "전남 전남전역",
+      "custodian": "진도다시래기보존회",
+      "designated": "1985년 2월 1일",
+      "note": ""
+    },
+    {
+      "number": "82-1호",
+      "name": "동해안별신굿",
+      "hanja": "東海岸別神굿",
+      "name_en": "Donghaean Byeolsingut (Village Ritual of the East Coast)",
+      "location": "부산 부산전역",
+      "custodian": "동해안별신굿보존회",
+      "designated": "1985년 2월 1일",
+      "note": ""
+    },
+    {
+      "number": "82-2호",
+      "name": "서해안배연신굿및대동굿",
+      "hanja": "西海岸배연신굿및大同굿",
+      "name_en": "Seohaean Baeyeonsingut and Daedonggut (Fishing Ritual of the West Coast)",
+      "location": "인천 인천전역",
+      "custodian": "서해안배연신굿및대동굿보존회",
+      "designated": "1985년 2월 1일",
+      "note": ""
+    },
+    {
+      "number": "82-3호",
+      "name": "위도띠뱃놀이",
+      "hanja": "蝟島띠뱃놀이",
+      "name_en": "Wido Ttibaennori (Ttibae Boat Festival of Wido Island)",
+      "location": "전북 전북전역",
+      "custodian": "위도띠뱃놀이보존회",
+      "designated": "1985년 2월 1일",
+      "note": ""
+    },
+    {
+      "number": "82-4호",
+      "name": "남해안별신굿",
+      "hanja": "南海岸別神굿",
+      "name_en": "Namhaean Byeolsingut (Village Ritual of the South Coast)",
+      "location": "경남 경남전역",
+      "custodian": "남해안별신굿보존회",
+      "designated": "1987년 7월 1일",
+      "note": ""
+    },
+    {
+      "number": "83-1호",
+      "name": "구례향제줄풍류",
+      "hanja": "求禮鄕制줄風流",
+      "name_en": "Gurye Hyangje Julpungnyu (String Ensemble of Gurye)",
+      "location": "전남 전남전역",
+      "custodian": "구례향제줄풍류보존회",
+      "designated": "1985년 9월 1일",
+      "note": ""
+    },
+    {
+      "number": "83-2호",
+      "name": "이리향제줄풍류",
+      "hanja": "裡理鄕制줄風流",
+      "name_en": "Iri Hyangje Julpungnyu (String Ensemble of Iri)",
+      "location": "전북 전북전역",
+      "custodian": "이리향제줄풍류보존회",
+      "designated": "1985년 9월 1일",
+      "note": ""
+    },
+    {
+      "number": "84-1호",
+      "name": "고성농요",
+      "hanja": "固城農謠",
+      "name_en": "Goseong Nongyo (Farmers' Song of Goseong)",
+      "location": "경남 경남전역",
+      "custodian": "고성농요보존회",
+      "designated": "1985년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "84-2호",
+      "name": "예천통명농요",
+      "hanja": "醴泉通明農謠",
+      "name_en": "Yecheon Tongmyeong Nongyo (Farmers' Song of Tongmyeong, Yecheon)",
+      "location": "경북 경북전역",
+      "custodian": "예천통명농요보존회",
+      "designated": "1985년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "85호",
+      "name": "석전대제",
+      "hanja": "釋奠大祭",
+      "name_en": "Seokjeon Daeje (National Rite to Confucius)",
+      "location": "서울 서울전역",
+      "custodian": "석전대제보존회",
+      "designated": "1986년 11월 1일",
+      "note": ""
+    },
+    {
+      "number": "86-1호",
+      "name": "문배주",
+      "hanja": "문배酒",
+      "name_en": "Munbaeju (Munbaeju Liquor)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1986년 11월 1일",
+      "note": ""
+    },
+    {
+      "number": "86-2호",
+      "name": "면천두견주",
+      "hanja": "沔川杜鵑酒",
+      "name_en": "Myeoncheon Dugyeonju (Dugyeonju Liquor of Myeoncheon)",
+      "location": "충남 충남전역",
+      "custodian": "면천두견주 보존회",
+      "designated": "1986년 11월 1일",
+      "note": ""
+    },
+    {
+      "number": "86-3호",
+      "name": "경주교동법주",
+      "hanja": "慶州校洞法酒",
+      "name_en": "Gyeongju Gyo-dong Beopju (Beopju Liquor of Gyo-dong, Gyeongju)",
+      "location": "경북 경주시",
+      "custodian": "",
+      "designated": "1986년 11월 1일",
+      "note": ""
+    },
+    {
+      "number": "87호",
+      "name": "명주짜기",
+      "hanja": "明紬짜기",
+      "name_en": "Myeongju Jjagi (Silk Weaving)",
+      "location": "경북 경북전역",
+      "custodian": "",
+      "designated": "1988년 4월 1일",
+      "note": ""
+    },
+    {
+      "number": "88호",
+      "name": "바디장",
+      "hanja": "바디匠",
+      "name_en": "Badijang (Reed Making)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1988년 8월 1일",
+      "note": ""
+    },
+    {
+      "number": "89호",
+      "name": "침선장",
+      "hanja": "針線匠",
+      "name_en": "Chimseonjang (Needlework)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1988년 8월 1일",
+      "note": ""
+    },
+    {
+      "number": "90호",
+      "name": "황해도평산소놀음굿",
+      "hanja": "黃海道平山소놀음굿",
+      "name_en": "Hwanghae-do Pyeongsan Sonoreumgut (Shamanic Ox Performance of Pyeongsan, Hwanghae-do)",
+      "location": "인천 인천전역",
+      "custodian": "황해도평산소놀음굿",
+      "designated": "1988년 8월 1일",
+      "note": ""
+    },
+    {
+      "number": "91호",
+      "name": "제와장",
+      "hanja": "製瓦匠",
+      "name_en": "Jewajang (Roof Tile Making)",
+      "location": "부산.",
+      "custodian": "",
+      "designated": "1988년 8월 1일",
+      "note": ""
+    },
+    {
+      "number": "92호",
+      "name": "태평무",
+      "hanja": "太平舞",
+      "name_en": "Taepyeongmu (Dance of Peace)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1988년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "93호",
+      "name": "전통장",
+      "hanja": "箭筒匠",
+      "name_en": "Jeontongjang (Quiver Making)",
+      "location": "경북 경북전역",
+      "custodian": "",
+      "designated": "1989년 6월 15일",
+      "note": ""
+    },
+    {
+      "number": "94호",
+      "name": "벼루장 (벼루匠)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1989년 12월 1일 지정, 1990년 7월 20일 해제, 보유자 부재로 지정 해제",
+      "note": ""
+    },
+    {
+      "number": "95호",
+      "name": "제주민요",
+      "hanja": "濟州民謠",
+      "name_en": "Jeju Minyo (Folk Song of Jeju)",
+      "location": "제주 제주전역",
+      "custodian": "",
+      "designated": "1989년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "96호",
+      "name": "옹기장",
+      "hanja": "甕器匠",
+      "name_en": "Onggijang (Earthenware Making)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1990년 5월 8일",
+      "note": ""
+    },
+    {
+      "number": "97호",
+      "name": "살풀이춤",
+      "hanja": "살풀이춤",
+      "name_en": "Salpurichum (Exorcism Dance)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1990년 10월 10일",
+      "note": ""
+    },
+    {
+      "number": "98호",
+      "name": "경기도도당굿",
+      "hanja": "京畿道都堂굿",
+      "name_en": "Gyeonggi-do Dodanggut (Tutelary Rite of Gyeonggi-do)",
+      "location": "경기 경기전역",
+      "custodian": "경기도도당굿보존회",
+      "designated": "1990년 10월 10일",
+      "note": ""
+    },
+    {
+      "number": "99호",
+      "name": "소반장",
+      "hanja": "小盤匠",
+      "name_en": "Sobanjang (Tray-table Making)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "1992년 11월 10일",
+      "note": ""
+    },
+    {
+      "number": "100호",
+      "name": "옥장",
+      "hanja": "玉匠",
+      "name_en": "Sobanjang (Tray-table Making)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "1996년 2월 1일",
+      "note": ""
+    },
+    {
+      "number": "101호",
+      "name": "금속활자장",
+      "hanja": "金屬活字匠",
+      "name_en": "Geumsok Hwaljajang (Metal Movable Type Making)",
+      "location": "충북 충북전역",
+      "custodian": "",
+      "designated": "1996년 2월 1일",
+      "note": ""
+    },
+    {
+      "number": "102호",
+      "name": "배첩장",
+      "hanja": "褙貼匠",
+      "name_en": "Baecheopjang (Mounting)",
+      "location": "충북 충북전역",
+      "custodian": "충청북도의 무형문화재 7호",
+      "designated": "1996년 3월 11일",
+      "note": ""
+    },
+    {
+      "number": "103호",
+      "name": "완초장 (영어판)",
+      "hanja": "莞草匠",
+      "name_en": "Wanchojang (Sedge Weaving)",
+      "location": "인천 인천전역",
+      "custodian": "",
+      "designated": "1996년 5월 1일",
+      "note": ""
+    },
+    {
+      "number": "104호",
+      "name": "서울새남굿",
+      "hanja": "",
+      "name_en": "Seoul Saenamgut (Shamanic Performance of Seoul)",
+      "location": "서울 서울전역",
+      "custodian": "서울새남굿보존회",
+      "designated": "1996년 5월 1일",
+      "note": ""
+    },
+    {
+      "number": "105호",
+      "name": "사기장",
+      "hanja": "沙器匠",
+      "name_en": "Sagijang (Ceramic Making)",
+      "location": "경북 경북전역",
+      "custodian": "",
+      "designated": "1996년 7월 1일",
+      "note": ""
+    },
+    {
+      "number": "106호",
+      "name": "각자장",
+      "hanja": "刻字匠",
+      "name_en": "Gakjajang (Calligraphic Engraving)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "1996년 11월 1일",
+      "note": ""
+    },
+    {
+      "number": "107호",
+      "name": "누비장",
+      "hanja": "縷緋匠",
+      "name_en": "Nubijang (Quilting)",
+      "location": "경북 경북전역",
+      "custodian": "",
+      "designated": "1996년 12월 10일",
+      "note": ""
+    },
+    {
+      "number": "108호",
+      "name": "목조각장",
+      "hanja": "木彫刻匠",
+      "name_en": "Mokjogakjang (Wood Sculpture)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "1996년 12월 31일",
+      "note": ""
+    },
+    {
+      "number": "109호",
+      "name": "화각장",
+      "hanja": "華角匠",
+      "name_en": "Hwagakjang (Ox Horn Inlaying)",
+      "location": "인천 인천전역",
+      "custodian": "",
+      "designated": "1996년 12월 31일",
+      "note": ""
+    },
+    {
+      "number": "110호",
+      "name": "윤도장",
+      "hanja": "輪圖匠",
+      "name_en": "Yundojang (Geomantic Compass Making)",
+      "location": "전북 전북전역",
+      "custodian": "",
+      "designated": "1996년 12월 31일",
+      "note": ""
+    },
+    {
+      "number": "111호",
+      "name": "사직대제",
+      "hanja": "社稷大祭",
+      "name_en": "Sajik Daeje (National Rite to Gods of Earth and Grain)",
+      "location": "서울 서울전역",
+      "custodian": "사직대제 보존회",
+      "designated": "2000년 10월 19일",
+      "note": ""
+    },
+    {
+      "number": "112호",
+      "name": "주철장",
+      "hanja": "鑄鐵匠",
+      "name_en": "Jucheoljang (Casting)",
+      "location": "충북 충북전역",
+      "custodian": "성종사",
+      "designated": "2001년 3월 12일",
+      "note": ""
+    },
+    {
+      "number": "113호",
+      "name": "칠장",
+      "hanja": "漆匠",
+      "name_en": "Chiljang (Lacquerware Making)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "2001년 3월 12일",
+      "note": ""
+    },
+    {
+      "number": "114호",
+      "name": "염장",
+      "hanja": "簾匠",
+      "name_en": "Yeomjang (Bamboo Blind Making)",
+      "location": "경남 경남전역",
+      "custodian": "",
+      "designated": "2001년 6월 27일",
+      "note": ""
+    },
+    {
+      "number": "115호",
+      "name": "염색장",
+      "hanja": "染色匠",
+      "name_en": "Yeomsaekjang (Natural Dyeing)",
+      "location": "전남 전남전역",
+      "custodian": "",
+      "designated": "2001년 9월 6일",
+      "note": ""
+    },
+    {
+      "number": "116호",
+      "name": "화혜장",
+      "hanja": "靴鞋匠",
+      "name_en": "Hwahyejang (Shoe Making)",
+      "location": "서울 서울전역 마천동 190-37",
+      "custodian": "",
+      "designated": "2004년 2월 20일",
+      "note": ""
+    },
+    {
+      "number": "117호",
+      "name": "한지장",
+      "hanja": "韓紙匠",
+      "name_en": "Hanjijang (Korean Paper Making)",
+      "location": "기타.",
+      "custodian": "",
+      "designated": "2005년 9월 23일",
+      "note": ""
+    },
+    {
+      "number": "118호",
+      "name": "불화장",
+      "hanja": "佛畵匠",
+      "name_en": "Bulhwajang (Buddhist Painting)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "2006년 1월 10일",
+      "note": ""
+    },
+    {
+      "number": "119호",
+      "name": "금박장",
+      "hanja": "金箔匠",
+      "name_en": "Geumbakjang (Gold Leaf Imprinting)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "2006년 11월 16일",
+      "note": ""
+    },
+    {
+      "number": "120호",
+      "name": "석장",
+      "hanja": "石匠",
+      "name_en": "Seokjang (Stone Masonry)",
+      "location": "경기 경기전역",
+      "custodian": "",
+      "designated": "2007년 9월 17일",
+      "note": ""
+    },
+    {
+      "number": "121호",
+      "name": "번와장",
+      "hanja": "翻瓦匠",
+      "name_en": "Beonwajang (Tile Roofing)",
+      "location": "서울 서울전역",
+      "custodian": "",
+      "designated": "2008년 10월 21일",
+      "note": ""
+    },
+    {
+      "number": "122호",
+      "name": "연등회",
+      "hanja": "燃燈會",
+      "name_en": "Yeondeunghoe (Buddhist Lantern Festival)",
+      "location": "서울 종로구",
+      "custodian": "연등회보존위원회",
+      "designated": "2012년 4월 6일",
+      "note": ""
+    },
+    {
+      "number": "123호",
+      "name": "법성포단오제",
+      "hanja": "法聖浦端午祭",
+      "name_en": "Beopseongpo Danoje (Dano Festival of Beopseongpo)",
+      "location": "전남 전남전역",
+      "custodian": "(사)법성포단오보존회",
+      "designated": "2012년 7월 23일",
+      "note": ""
+    },
+    {
+      "number": "124호",
+      "name": "궁중채화",
+      "hanja": "宮中綵花",
+      "name_en": "Gungjung Chaehwa (Royal Silk Flower Making)",
+      "location": "경남 양산시",
+      "custodian": "",
+      "designated": "2013년 1월 14일",
+      "note": ""
+    },
+    {
+      "number": "125호",
+      "name": "삼화사 수륙재",
+      "hanja": "三和寺水陸齋",
+      "name_en": "Samhwasa Suryukjae (Water and Land Ceremony of Samhwasa Temple)",
+      "location": "강원 강원전역.",
+      "custodian": "삼화사 국행수륙대재 보존회",
+      "designated": "2013년 12월 31일",
+      "note": ""
+    },
+    {
+      "number": "126호",
+      "name": "진관사 수륙재",
+      "hanja": "津寬寺水陸齋",
+      "name_en": "Jingwansa Suryukjae (Water and Land Ceremony of Jingwansa Temple)",
+      "location": "서울.",
+      "custodian": "진관수 국행수륙재 보존회",
+      "designated": "2013년 12월 31일",
+      "note": ""
+    },
+    {
+      "number": "127호",
+      "name": "아랫녘 수륙재",
+      "hanja": "아랫녘 水陸齋",
+      "name_en": "Araennyeok Suryukjae (Water and Land Ceremony of Gyeongsang-do)",
+      "location": "경남 전역",
+      "custodian": "아랫녘 수륙재보존회",
+      "designated": "2014년 3월 18일",
+      "note": ""
+    },
+    {
+      "number": "128호",
+      "name": "선자장 (扇子匠)",
+      "hanja": "",
+      "name_en": "",
+      "location": "전북전주시",
+      "custodian": "김동식",
+      "designated": "2015년 7월 8일",
+      "note": ""
+    },
+    {
+      "number": "129호",
+      "name": "아리랑",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2015년 9월 22일",
+      "note": ""
+    },
+    {
+      "number": "130호",
+      "name": "제다 (製茶)",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2016년 7월 14일",
+      "note": ""
+    },
+    {
+      "number": "131호",
+      "name": "씨름",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2017년 1월 4일",
+      "note": ""
+    },
+    {
+      "number": "132호",
+      "name": "해녀",
+      "hanja": "",
+      "name_en": "",
+      "location": "기타",
+      "custodian": "",
+      "designated": "2017년 5월 1일",
+      "note": ""
+    },
+    {
+      "number": "133호",
+      "name": "김치 담그기",
+      "hanja": "",
+      "name_en": "",
+      "location": "기타",
+      "custodian": "",
+      "designated": "2017년 11월 15일",
+      "note": ""
+    },
+    {
+      "number": "134호",
+      "name": "제염",
+      "hanja": "",
+      "name_en": "",
+      "location": "기타",
+      "custodian": "",
+      "designated": "2018년 4월 30일",
+      "note": ""
+    },
+    {
+      "number": "135호",
+      "name": "온돌문화",
+      "hanja": "",
+      "name_en": "",
+      "location": "기타",
+      "custodian": "",
+      "designated": "2018년 4월 30일",
+      "note": ""
+    },
+    {
+      "number": "136호",
+      "name": "낙화장 (烙畵匠)",
+      "hanja": "",
+      "name_en": "",
+      "location": "충북 보은군 보은읍",
+      "custodian": "김영조",
+      "designated": "2018년 12월 27일",
+      "note": ","
+    },
+    {
+      "number": "137호",
+      "name": "장 담그기 (醬 담그기)",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2018년 12월 27일",
+      "note": ","
+    },
+    {
+      "number": "138-1호",
+      "name": "전통어로방식-어살",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2019년 4월 3일",
+      "note": ","
+    },
+    {
+      "number": "139호",
+      "name": "불복장작법 (佛腹藏作法)",
+      "hanja": "",
+      "name_en": "",
+      "location": "서울",
+      "custodian": "대한불교 전통불복장 및 점안의식보존회",
+      "designated": "2019년 4월 30일",
+      "note": ","
+    },
+    {
+      "number": "140호",
+      "name": "삼베짜기",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2019년 12월 31일",
+      "note": ""
+    },
+    {
+      "number": "141호",
+      "name": "사경장 (寫經匠)",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2020년 7월 20일",
+      "note": ""
+    },
+    {
+      "number": "142호",
+      "name": "활쏘기",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2020년 7월 30일",
+      "note": ""
+    },
+    {
+      "number": "143호",
+      "name": "인삼 재배와 약용문화",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2020년 12월 1일",
+      "note": ""
+    },
+    {
+      "number": "144호",
+      "name": "막걸리 빚기",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2021년 6월 15일",
+      "note": ""
+    },
+    {
+      "number": "145호",
+      "name": "떡 만들기",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2021년 11월 1일",
+      "note": ""
+    },
+    {
+      "number": "-",
+      "name": "갯벌어로",
+      "hanja": "",
+      "name_en": "",
+      "location": "",
+      "custodian": "",
+      "designated": "2021년 12월 20일",
+      "note": ""
+    },
+    {
+      "number": "-",
+      "name": "제주큰굿",
+      "hanja": "",
+      "name_en": "",
+      "location": "제주특별자치도",
+      "custodian": "(사)제주큰굿보존회",
+      "designated": "2021년 12월 22일",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 국가무형유산 목록 - Free Download",
+    "description": "대한민국 국가무형유산(옛 중요무형문화재)의 지정 번호, 명칭(한자·영문), 소재지, 보존 단체, 지정일 목록입니다. Contains 161 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 국가무형유산 목록 | ListBase",
+    "seo_description": "Download 대한민국의 국가무형유산 목록 — 161 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 161 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_국가무형유산_(1960년대~1970년대)"
+    ]
+  }
+}
