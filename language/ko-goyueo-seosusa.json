@@ -1,0 +1,156 @@
+{
+  "id": "ko-goyueo-seosusa",
+  "name": "고유어 서수사 (첫째·둘째·셋째 …)",
+  "title": "고유어 서수사 (첫째·둘째·셋째 …)",
+  "description": "한국어 고유어로 된 대표적인 서수사(첫째, 둘째, 셋째 등)와 명사형 목록.",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/수사_(품사)",
+  "source_url": "https://ko.wikipedia.org/wiki/수사_(품사)",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "su",
+      "label": "Su",
+      "type": "number"
+    },
+    {
+      "key": "susa_gwanhyeongsa",
+      "label": "Susa Gwanhyeongsa",
+      "type": "string"
+    },
+    {
+      "key": "myeongsa",
+      "label": "Myeongsa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "su": "1",
+      "susa_gwanhyeongsa": "첫째",
+      "myeongsa": "첫째"
+    },
+    {
+      "su": "1, 2",
+      "susa_gwanhyeongsa": "한두째",
+      "myeongsa": ""
+    },
+    {
+      "su": "2",
+      "susa_gwanhyeongsa": "둘 째 *두째(틀린 말)",
+      "myeongsa": "둘 째 *두째(틀린 말)"
+    },
+    {
+      "su": "2, 3",
+      "susa_gwanhyeongsa": "두세째",
+      "myeongsa": ""
+    },
+    {
+      "su": "3",
+      "susa_gwanhyeongsa": "셋째",
+      "myeongsa": "셋째"
+    },
+    {
+      "su": "3, 4",
+      "susa_gwanhyeongsa": "서너째",
+      "myeongsa": ""
+    },
+    {
+      "su": "4",
+      "susa_gwanhyeongsa": "넷째",
+      "myeongsa": "넷째"
+    },
+    {
+      "su": "4, 5",
+      "susa_gwanhyeongsa": "네다섯째 = 너더댓째 = 너덧째 = 네댓째",
+      "myeongsa": ""
+    },
+    {
+      "su": "5",
+      "susa_gwanhyeongsa": "다섯째",
+      "myeongsa": "다섯째"
+    },
+    {
+      "su": "5 정도",
+      "susa_gwanhyeongsa": "댓째",
+      "myeongsa": ""
+    },
+    {
+      "su": "5, 6",
+      "susa_gwanhyeongsa": "대여섯째",
+      "myeongsa": ""
+    },
+    {
+      "su": "6",
+      "susa_gwanhyeongsa": "여섯째",
+      "myeongsa": "여섯째"
+    },
+    {
+      "su": "6, 7",
+      "susa_gwanhyeongsa": "예닐곱째",
+      "myeongsa": ""
+    },
+    {
+      "su": "7",
+      "susa_gwanhyeongsa": "일곱째",
+      "myeongsa": "일곱째"
+    },
+    {
+      "su": "8",
+      "susa_gwanhyeongsa": "여덟째",
+      "myeongsa": "여덟째"
+    },
+    {
+      "su": "8, 9",
+      "susa_gwanhyeongsa": "엳아홉째",
+      "myeongsa": ""
+    },
+    {
+      "su": "9",
+      "susa_gwanhyeongsa": "아홉째",
+      "myeongsa": "아홉째"
+    },
+    {
+      "su": "10",
+      "susa_gwanhyeongsa": "열째",
+      "myeongsa": "열째"
+    },
+    {
+      "su": "10이 조금 넘는",
+      "susa_gwanhyeongsa": "여남은째",
+      "myeongsa": ""
+    },
+    {
+      "su": "11",
+      "susa_gwanhyeongsa": "열한째",
+      "myeongsa": "열하나째"
+    },
+    {
+      "su": "12",
+      "susa_gwanhyeongsa": "열 두 째 *열둘째(틀린 말)",
+      "myeongsa": "열둘째"
+    },
+    {
+      "su": "20",
+      "susa_gwanhyeongsa": "스무째",
+      "myeongsa": "스물째"
+    },
+    {
+      "su": "맨 끝",
+      "susa_gwanhyeongsa": "",
+      "myeongsa": "말째(末-)"
+    }
+  ],
+  "meta": {
+    "title": "고유어 서수사 (첫째·둘째·셋째 …) - Free Download",
+    "description": "한국어 고유어로 된 대표적인 서수사(첫째, 둘째, 셋째 등)와 명사형 목록. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "고유어 서수사 (첫째·둘째·셋째 …) | ListBase",
+    "seo_description": "Download 고유어 서수사 (첫째·둘째·셋째 …) — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/수사_(품사)"
+    ]
+  }
+}

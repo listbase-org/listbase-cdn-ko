@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-12T02:14:11.008Z",
-  "total_datasets": 577,
-  "total_records": 459870,
+  "generated": "2026-11-12T02:14:22.974Z",
+  "total_datasets": 578,
+  "total_records": 459893,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "law",
@@ -8119,6 +8119,30 @@
         "xlsx": {
           "name": "ko-gicho-hanja_KO.xlsx",
           "size": 40577
+        }
+      }
+    },
+    {
+      "id": "ko-goyueo-seosusa",
+      "name": "고유어 서수사 (첫째·둘째·셋째 …)",
+      "category": "language",
+      "record_count": 23,
+      "columns": [
+        "su",
+        "susa_gwanhyeongsa",
+        "myeongsa"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/수사_(품사)",
+      "updated": "2026-11",
+      "size": 3843,
+      "files": {
+        "csv": {
+          "name": "ko-goyueo-seosusa_KO.csv",
+          "size": 742
+        },
+        "xlsx": {
+          "name": "ko-goyueo-seosusa_KO.xlsx",
+          "size": 7394
         }
       }
     },
