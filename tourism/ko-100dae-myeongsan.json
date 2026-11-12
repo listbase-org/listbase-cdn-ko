@@ -1,0 +1,751 @@
+{
+  "id": "ko-100dae-myeongsan",
+  "name": "대한민국 100대 명산",
+  "title": "대한민국 100대 명산",
+  "description": "산림청이 선정한 대한민국 100대 명산의 이름, 높이(m), 소재지 목록.",
+  "category": "tourism",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_100대_명산_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_100대_명산_목록",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "beonho",
+      "label": "Beonho",
+      "type": "number"
+    },
+    {
+      "key": "san_ireum",
+      "label": "San Ireum",
+      "type": "string"
+    },
+    {
+      "key": "nopi_m",
+      "label": "Nopi M",
+      "type": "number"
+    },
+    {
+      "key": "sojaeji",
+      "label": "Sojaeji",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "beonho": 1,
+      "san_ireum": "가리산",
+      "nopi_m": 1050.9,
+      "sojaeji": "강원특별자치도 홍천군 두촌면·화촌면, 춘천시 북산면·동면",
+      "bigo": ""
+    },
+    {
+      "beonho": 2,
+      "san_ireum": "가리왕산",
+      "nopi_m": 1561.9,
+      "sojaeji": "강원특별자치도 정선군 북평면·정선읍 회동리, 평창군 진부면",
+      "bigo": ""
+    },
+    {
+      "beonho": 3,
+      "san_ireum": "가야산",
+      "nopi_m": 1432.6,
+      "sojaeji": "경상남도 합천군·거창군, 경상북도 성주군",
+      "bigo": ""
+    },
+    {
+      "beonho": 4,
+      "san_ireum": "가지산",
+      "nopi_m": 1240.9,
+      "sojaeji": "울산광역시 울주군, 경상북도 청도군, 경상남도 밀양시",
+      "bigo": ""
+    },
+    {
+      "beonho": 5,
+      "san_ireum": "감악산",
+      "nopi_m": 674.9,
+      "sojaeji": "경기도 파주시 적성면, 양주시 남면, 연천군 전곡읍",
+      "bigo": ""
+    },
+    {
+      "beonho": 6,
+      "san_ireum": "강천산",
+      "nopi_m": 583.7,
+      "sojaeji": "전북특별자치도 순창군 팔덕면, 전라남도 담양군 용면",
+      "bigo": ""
+    },
+    {
+      "beonho": 7,
+      "san_ireum": "계룡산",
+      "nopi_m": 846.5,
+      "sojaeji": "대전광역시, 충청남도 공주시 계룡면, 논산시 상월면, 계룡시 신도안면",
+      "bigo": ""
+    },
+    {
+      "beonho": 8,
+      "san_ireum": "계방산",
+      "nopi_m": 1579.1,
+      "sojaeji": "강원특별자치도 홍천군 내면, 평창군 용편면·진부면",
+      "bigo": ""
+    },
+    {
+      "beonho": 9,
+      "san_ireum": "공작산",
+      "nopi_m": 887.4,
+      "sojaeji": "강원특별자치도 홍천군 영귀미면, 화촌면",
+      "bigo": ""
+    },
+    {
+      "beonho": 10,
+      "san_ireum": "관악산",
+      "nopi_m": 632.2,
+      "sojaeji": "서울특별시 관악구, 경기도 안양시, 과천시",
+      "bigo": ""
+    },
+    {
+      "beonho": 11,
+      "san_ireum": "구병산",
+      "nopi_m": 876.3,
+      "sojaeji": "경상북도 상주신 화북면, 충청북도 보은군 마로면·속리산면",
+      "bigo": ""
+    },
+    {
+      "beonho": 12,
+      "san_ireum": "금산",
+      "nopi_m": 704.9,
+      "sojaeji": "경상남도 남해군 상주면, 이동면, 삼동면",
+      "bigo": ""
+    },
+    {
+      "beonho": 13,
+      "san_ireum": "금수산",
+      "nopi_m": 1015.8,
+      "sojaeji": "충청북도 제천시 수산면, 단양군 적성면",
+      "bigo": ""
+    },
+    {
+      "beonho": 14,
+      "san_ireum": "금오산",
+      "nopi_m": 976.5,
+      "sojaeji": "경상북도 구미시 칠곡군 북삼읍, 김천시 남면",
+      "bigo": ""
+    },
+    {
+      "beonho": 15,
+      "san_ireum": "금정산",
+      "nopi_m": 800.8,
+      "sojaeji": "부산광역시 금정구·북구, 경상남도 양산시",
+      "bigo": ""
+    },
+    {
+      "beonho": 16,
+      "san_ireum": "깃대봉",
+      "nopi_m": 360.7,
+      "sojaeji": "전라남도 신안군 흑산면 홍도",
+      "bigo": ""
+    },
+    {
+      "beonho": 17,
+      "san_ireum": "남산",
+      "nopi_m": 495.1,
+      "sojaeji": "경상북도 경주시 남산동, 내남면",
+      "bigo": "다른 이름: 금오산"
+    },
+    {
+      "beonho": 18,
+      "san_ireum": "내연산",
+      "nopi_m": 711.3,
+      "sojaeji": "경상북도 포항시 송라면·청하면·죽장면, 영덕군 남정면",
+      "bigo": ""
+    },
+    {
+      "beonho": 19,
+      "san_ireum": "내장산",
+      "nopi_m": 763.5,
+      "sojaeji": "전북특별자치도 정읍시 내장동, 순창군 쌍치면·복흥면",
+      "bigo": ""
+    },
+    {
+      "beonho": 20,
+      "san_ireum": "대둔산",
+      "nopi_m": 878.9,
+      "sojaeji": "충청남도 논산시 벌곡면·금산군 진산면, 전북특별자치도 완주군 운주면",
+      "bigo": ""
+    },
+    {
+      "beonho": 21,
+      "san_ireum": "대암산",
+      "nopi_m": 1312.6,
+      "sojaeji": "강원특별자치도 양구군 동면, 인제군 서화면",
+      "bigo": ""
+    },
+    {
+      "beonho": 22,
+      "san_ireum": "대야산",
+      "nopi_m": 931,
+      "sojaeji": "경상북도 문경시 가은읍, 충청북도 괴산군 청천면",
+      "bigo": ""
+    },
+    {
+      "beonho": 23,
+      "san_ireum": "덕숭산",
+      "nopi_m": 495.2,
+      "sojaeji": "충청남도 예산군 덕산면",
+      "bigo": "다른 이름: 수덕산"
+    },
+    {
+      "beonho": 24,
+      "san_ireum": "덕유산",
+      "nopi_m": 1614.2,
+      "sojaeji": "전북특별자치도 무주군·장수군, 경상남도 거창군·함양군",
+      "bigo": ""
+    },
+    {
+      "beonho": 25,
+      "san_ireum": "덕항산",
+      "nopi_m": 1072.9,
+      "sojaeji": "강원특별자치도 삼척시 신기면, 태백시 하사미동",
+      "bigo": ""
+    },
+    {
+      "beonho": 26,
+      "san_ireum": "도락산",
+      "nopi_m": 965.3,
+      "sojaeji": "충청북도 단양군 단성면, 대강면",
+      "bigo": ""
+    },
+    {
+      "beonho": 27,
+      "san_ireum": "도봉산",
+      "nopi_m": 740.2,
+      "sojaeji": "서울특별시 도봉구, 경기도 의정부시 호원동·양주시 장흥면",
+      "bigo": ""
+    },
+    {
+      "beonho": 28,
+      "san_ireum": "두륜산",
+      "nopi_m": 700,
+      "sojaeji": "전라남도 해남군 삼산면·북일면·북평면·현산면",
+      "bigo": ""
+    },
+    {
+      "beonho": 29,
+      "san_ireum": "두타산",
+      "nopi_m": 1357,
+      "sojaeji": "강원특별자치도 동해시 삼화동, 삼척시 미로면·하장면",
+      "bigo": ""
+    },
+    {
+      "beonho": 30,
+      "san_ireum": "마니산",
+      "nopi_m": 472.1,
+      "sojaeji": "인천광역시 강화군 화도면",
+      "bigo": ""
+    },
+    {
+      "beonho": 31,
+      "san_ireum": "마이산",
+      "nopi_m": 687.4,
+      "sojaeji": "전북특별자치도 진안군 진안읍·마령면",
+      "bigo": ""
+    },
+    {
+      "beonho": 32,
+      "san_ireum": "명성산",
+      "nopi_m": 922,
+      "sojaeji": "강원특별자치도 철원군 갈말읍, 경기도 포천시 영북면·이동면",
+      "bigo": ""
+    },
+    {
+      "beonho": 33,
+      "san_ireum": "명지산",
+      "nopi_m": 1252.3,
+      "sojaeji": "경기도 가평군 북면·하면",
+      "bigo": ""
+    },
+    {
+      "beonho": 34,
+      "san_ireum": "모악산",
+      "nopi_m": 795.2,
+      "sojaeji": "전북특별자치도 김제시 금산면, 전주시 완산구, 완주군 구이면",
+      "bigo": ""
+    },
+    {
+      "beonho": 35,
+      "san_ireum": "무등산",
+      "nopi_m": 1186.8,
+      "sojaeji": "광주광역시 동구, 전라남도 담양군 사평면·화순군 이서면",
+      "bigo": ""
+    },
+    {
+      "beonho": 36,
+      "san_ireum": "무학산",
+      "nopi_m": 761.4,
+      "sojaeji": "경상남도 창원시 교방동·두척동·내서읍",
+      "bigo": ""
+    },
+    {
+      "beonho": 37,
+      "san_ireum": "미륵산",
+      "nopi_m": 458.4,
+      "sojaeji": "경상남도 통영시 산양읍·봉평동",
+      "bigo": ""
+    },
+    {
+      "beonho": 38,
+      "san_ireum": "민주지산",
+      "nopi_m": 1241.7,
+      "sojaeji": "충청북도 영동군, 전북특별자치도 무주군, 경상북도 김천시",
+      "bigo": ""
+    },
+    {
+      "beonho": 39,
+      "san_ireum": "방장산",
+      "nopi_m": 733.6,
+      "sojaeji": "전라남도 장성군, 전북특별자치도 고창군 신림면·정읍시 입암면",
+      "bigo": ""
+    },
+    {
+      "beonho": 40,
+      "san_ireum": "방태산",
+      "nopi_m": 1445.7,
+      "sojaeji": "강원특별자치도 인제군 기린면·상남면, 홍천군 내면",
+      "bigo": ""
+    },
+    {
+      "beonho": 41,
+      "san_ireum": "백덕산",
+      "nopi_m": 1350.1,
+      "sojaeji": "강원특별자치도 평창군 방림면, 횡성군 안흥면, 영월군 수주면",
+      "bigo": ""
+    },
+    {
+      "beonho": 42,
+      "san_ireum": "백암산",
+      "nopi_m": 741.2,
+      "sojaeji": "전북특별자치도 순창군 복흥면, 잔라남도 장성군 북하면",
+      "bigo": ""
+    },
+    {
+      "beonho": 43,
+      "san_ireum": "백운산",
+      "nopi_m": 1222.2,
+      "sojaeji": "전라남도 광양시 진상면·옥룡면·봉강면·다압면, 구례군 간전면",
+      "bigo": "위치: 전남 광양"
+    },
+    {
+      "beonho": 44,
+      "san_ireum": "백운산",
+      "nopi_m": 883.5,
+      "sojaeji": "강원특별자치도 정선군 신동읍, 평창군 미탄면",
+      "bigo": "위치: 강원 정선"
+    },
+    {
+      "beonho": 45,
+      "san_ireum": "백운산",
+      "nopi_m": 903,
+      "sojaeji": "경기도 포천시 이동면, 강원특별자치도 화천군 사내면",
+      "bigo": "위치: 경기 포천"
+    },
+    {
+      "beonho": 46,
+      "san_ireum": "변산",
+      "nopi_m": 459,
+      "sojaeji": "전북특별자치도 부안군 변산면, 상서면, 진서면",
+      "bigo": ""
+    },
+    {
+      "beonho": 47,
+      "san_ireum": "북한산",
+      "nopi_m": 835.6,
+      "sojaeji": "서울특별시 강북구·성북구·종로구·은평구, 경기도 고양시·양주시",
+      "bigo": ""
+    },
+    {
+      "beonho": 48,
+      "san_ireum": "비슬산",
+      "nopi_m": 1083.4,
+      "sojaeji": "대구광역시 달성군 옥포읍·유가읍·가창면, 경상북도 청도군 각북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 49,
+      "san_ireum": "삼악산",
+      "nopi_m": 655.8,
+      "sojaeji": "강원특별자치도 춘천시 서면",
+      "bigo": ""
+    },
+    {
+      "beonho": 50,
+      "san_ireum": "서대산",
+      "nopi_m": 904.1,
+      "sojaeji": "충청남도 금산군 추부면·군북면, 충청북도 옥천군 군서면",
+      "bigo": ""
+    },
+    {
+      "beonho": 51,
+      "san_ireum": "선운산",
+      "nopi_m": 334.7,
+      "sojaeji": "전북특별자치도 고창군 아산면·심원면·해리면",
+      "bigo": ""
+    },
+    {
+      "beonho": 52,
+      "san_ireum": "설악산",
+      "nopi_m": 1708.1,
+      "sojaeji": "강원특별자치도 속초시 설악동, 인제군 북면·인제읍, 양양군 서면·강현면",
+      "bigo": ""
+    },
+    {
+      "beonho": 53,
+      "san_ireum": "성인봉",
+      "nopi_m": 986.5,
+      "sojaeji": "경상북도 울릉군 울릉읍 서면·북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 54,
+      "san_ireum": "소백산",
+      "nopi_m": 1439.7,
+      "sojaeji": "경상북도 영주시 풍기읍, 충청북도 단양군 단양읍",
+      "bigo": ""
+    },
+    {
+      "beonho": 55,
+      "san_ireum": "소요산",
+      "nopi_m": 587.5,
+      "sojaeji": "경기도 동두천시, 포천시 신북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 56,
+      "san_ireum": "속리산",
+      "nopi_m": 1058.4,
+      "sojaeji": "경상북도 상주시 화북면, 충청북도 보은군 내속리면",
+      "bigo": ""
+    },
+    {
+      "beonho": 57,
+      "san_ireum": "신불산",
+      "nopi_m": 1159.3,
+      "sojaeji": "울산광역시 울주군 삼남면·상북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 58,
+      "san_ireum": "연화산",
+      "nopi_m": 524,
+      "sojaeji": "경상남도 고성군 개천면·영현면",
+      "bigo": ""
+    },
+    {
+      "beonho": 59,
+      "san_ireum": "오대산",
+      "nopi_m": 1565.4,
+      "sojaeji": "강원특별자치도 평창군 진부면, 홍천군 내면, 강릉시 연곡면",
+      "bigo": ""
+    },
+    {
+      "beonho": 60,
+      "san_ireum": "오봉산",
+      "nopi_m": 777.9,
+      "sojaeji": "강원특별자치도 춘천시 북산면, 화천군 간동면",
+      "bigo": ""
+    },
+    {
+      "beonho": 61,
+      "san_ireum": "용문산",
+      "nopi_m": 1157.1,
+      "sojaeji": "경기도 양평군 용문면·옥천면",
+      "bigo": ""
+    },
+    {
+      "beonho": 62,
+      "san_ireum": "용화산",
+      "nopi_m": 877.8,
+      "sojaeji": "강원특별자치도 화천군 간동면·하남면, 춘천시 사북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 63,
+      "san_ireum": "운문산",
+      "nopi_m": 1195.1,
+      "sojaeji": "경상북도 청도군 운문면, 경상남도 밀양시 산내면",
+      "bigo": ""
+    },
+    {
+      "beonho": 64,
+      "san_ireum": "운악산",
+      "nopi_m": 934.7,
+      "sojaeji": "경기도 가평군 조종면, 포천시 화현면",
+      "bigo": ""
+    },
+    {
+      "beonho": 65,
+      "san_ireum": "운장산",
+      "nopi_m": 1125.8,
+      "sojaeji": "전북특별자치도 진안군 주천면, 부귀면, 정천면, 완주군 동상면",
+      "bigo": ""
+    },
+    {
+      "beonho": 66,
+      "san_ireum": "월악산",
+      "nopi_m": 1095.3,
+      "sojaeji": "충청북도 제천시 한수면, 덕산면",
+      "bigo": ""
+    },
+    {
+      "beonho": 67,
+      "san_ireum": "월출산",
+      "nopi_m": 810.7,
+      "sojaeji": "전라남도 영암군 영암읍·군서면·학산면, 강진군 성전면",
+      "bigo": ""
+    },
+    {
+      "beonho": 68,
+      "san_ireum": "유명산",
+      "nopi_m": 864,
+      "sojaeji": "경기도 가평군 설악면, 양평군 옥천면",
+      "bigo": ""
+    },
+    {
+      "beonho": 69,
+      "san_ireum": "응봉산",
+      "nopi_m": 999.7,
+      "sojaeji": "강원특별자치도 삼척시 가곡면·원덕읍, 경상북도 울진군 북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 70,
+      "san_ireum": "장안산",
+      "nopi_m": 1237.4,
+      "sojaeji": "전북특별자치도 장수군 장수읍, 계남면",
+      "bigo": ""
+    },
+    {
+      "beonho": 71,
+      "san_ireum": "재약산",
+      "nopi_m": 1119.1,
+      "sojaeji": "경상남도 밀양시 단장면·산내면, 울산광역시 울주군 상북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 72,
+      "san_ireum": "적상산",
+      "nopi_m": 1030.6,
+      "sojaeji": "전북특별자치도 무주군 적상면",
+      "bigo": ""
+    },
+    {
+      "beonho": 73,
+      "san_ireum": "점봉산",
+      "nopi_m": 1426,
+      "sojaeji": "강원특별자치도 양양군 서면, 인제군 인제읍·기린면",
+      "bigo": ""
+    },
+    {
+      "beonho": 74,
+      "san_ireum": "조계산",
+      "nopi_m": 887.3,
+      "sojaeji": "전라남도 순천시 승주읍·송광면",
+      "bigo": ""
+    },
+    {
+      "beonho": 75,
+      "san_ireum": "주왕산",
+      "nopi_m": 722.1,
+      "sojaeji": "경상북도 청송군 청송읍·부동면, 영덕군 지품면·달산면",
+      "bigo": ""
+    },
+    {
+      "beonho": 76,
+      "san_ireum": "주흘산",
+      "nopi_m": 1108.4,
+      "sojaeji": "경상북도 문경시 문경읍",
+      "bigo": ""
+    },
+    {
+      "beonho": 77,
+      "san_ireum": "지리산",
+      "nopi_m": 1915.4,
+      "sojaeji": "전북특별자치도 남원시, 전라남도 구례군, 경상남도 하동군·산청군·함양군",
+      "bigo": ""
+    },
+    {
+      "beonho": 78,
+      "san_ireum": "지리산",
+      "nopi_m": 399.3,
+      "sojaeji": "경상남도 통영시 사량면",
+      "bigo": ""
+    },
+    {
+      "beonho": 79,
+      "san_ireum": "천관산",
+      "nopi_m": 724.3,
+      "sojaeji": "전라남도 장흥군 관산읍, 대덕읍",
+      "bigo": ""
+    },
+    {
+      "beonho": 80,
+      "san_ireum": "천마산",
+      "nopi_m": 810.3,
+      "sojaeji": "경기도 남양주시 화도읍, 오남읍",
+      "bigo": ""
+    },
+    {
+      "beonho": 81,
+      "san_ireum": "천성산",
+      "nopi_m": 920.2,
+      "sojaeji": "경상남도 양산시 하북면, 상북면",
+      "bigo": ""
+    },
+    {
+      "beonho": 82,
+      "san_ireum": "천태산",
+      "nopi_m": 715.2,
+      "sojaeji": "충청북도 영동군 양산면, 충청남도 금산군 제원면",
+      "bigo": ""
+    },
+    {
+      "beonho": 83,
+      "san_ireum": "청량산",
+      "nopi_m": 869.7,
+      "sojaeji": "경상북도 봉화군 명호면·재산면, 안동시 도산면·예안면",
+      "bigo": ""
+    },
+    {
+      "beonho": 84,
+      "san_ireum": "추월산",
+      "nopi_m": 731.2,
+      "sojaeji": "전라남도 담양군 용면, 전라북도 순창군 복흥면",
+      "bigo": ""
+    },
+    {
+      "beonho": 85,
+      "san_ireum": "축령산",
+      "nopi_m": 887.1,
+      "sojaeji": "경기도 남양주시 수동면, 가평군 상면",
+      "bigo": ""
+    },
+    {
+      "beonho": 86,
+      "san_ireum": "치악산",
+      "nopi_m": 1282,
+      "sojaeji": "강원특별자치도 원주시, 횡성군, 영월군",
+      "bigo": ""
+    },
+    {
+      "beonho": 87,
+      "san_ireum": "칠갑산",
+      "nopi_m": 559.7,
+      "sojaeji": "충청남도 청양군 대치면, 정산면, 장평면",
+      "bigo": ""
+    },
+    {
+      "beonho": 88,
+      "san_ireum": "태백산",
+      "nopi_m": 1566.7,
+      "sojaeji": "강원특별자치도 태백시, 경상북도 봉화군 석포면",
+      "bigo": ""
+    },
+    {
+      "beonho": 89,
+      "san_ireum": "태화산",
+      "nopi_m": 1027.5,
+      "sojaeji": "강원특별자치도 영월군 영월읍, 충청북도 단양군 영춘면",
+      "bigo": ""
+    },
+    {
+      "beonho": 90,
+      "san_ireum": "팔공산",
+      "nopi_m": 1192.3,
+      "sojaeji": "대구광역시 군위군 부계면, 경상북도 영천시 신녕면, 대구광역시 동구",
+      "bigo": ""
+    },
+    {
+      "beonho": 91,
+      "san_ireum": "팔봉산",
+      "nopi_m": 328.2,
+      "sojaeji": "강원특별자치도 홍천군 서면",
+      "bigo": ""
+    },
+    {
+      "beonho": 92,
+      "san_ireum": "팔영산",
+      "nopi_m": 606.9,
+      "sojaeji": "전라남도 고흥군 점암면, 영남면",
+      "bigo": ""
+    },
+    {
+      "beonho": 93,
+      "san_ireum": "한라산",
+      "nopi_m": 1947.3,
+      "sojaeji": "제주특별자치도",
+      "bigo": ""
+    },
+    {
+      "beonho": 94,
+      "san_ireum": "화악산",
+      "nopi_m": 1468.3,
+      "sojaeji": "경기도 가평군 북면, 강원특별자치도 화천군 사내면",
+      "bigo": ""
+    },
+    {
+      "beonho": 95,
+      "san_ireum": "화왕산",
+      "nopi_m": 757.7,
+      "sojaeji": "경상남도 창녕군 창녕읍, 고암면",
+      "bigo": ""
+    },
+    {
+      "beonho": 96,
+      "san_ireum": "황매산",
+      "nopi_m": 1113.1,
+      "sojaeji": "경상남도 합천군 대병면·가회면, 산청군 차황면",
+      "bigo": ""
+    },
+    {
+      "beonho": 97,
+      "san_ireum": "황석산",
+      "nopi_m": 1192.5,
+      "sojaeji": "경상남도 함양군 안의면, 서하면, 서상면",
+      "bigo": ""
+    },
+    {
+      "beonho": 98,
+      "san_ireum": "황악산",
+      "nopi_m": 1111.4,
+      "sojaeji": "경상북도 김천시 대항면",
+      "bigo": ""
+    },
+    {
+      "beonho": 99,
+      "san_ireum": "황장산",
+      "nopi_m": 1078.9,
+      "sojaeji": "경상북도 문경시 동로면",
+      "bigo": ""
+    },
+    {
+      "beonho": 100,
+      "san_ireum": "희양산",
+      "nopi_m": 996.4,
+      "sojaeji": "경상북도 문경시 가은읍, 충청북도 괴산군 연풍면",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 100대 명산 - Free Download",
+    "description": "산림청이 선정한 대한민국 100대 명산의 이름, 높이(m), 소재지 목록. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 100대 명산 | ListBase",
+    "seo_description": "Download 대한민국 100대 명산 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_100대_명산_목록"
+    ]
+  }
+}

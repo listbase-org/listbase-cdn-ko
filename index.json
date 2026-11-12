@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-11T02:22:43.017Z",
-  "total_datasets": 576,
-  "total_records": 459770,
+  "generated": "2026-11-12T02:14:11.008Z",
+  "total_datasets": 577,
+  "total_records": 459870,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "transport",
@@ -13912,6 +13912,32 @@
         "xlsx": {
           "name": "kr-gongyuil_KO.xlsx",
           "size": 24767
+        }
+      }
+    },
+    {
+      "id": "ko-100dae-myeongsan",
+      "name": "대한민국 100대 명산",
+      "category": "tourism",
+      "record_count": 100,
+      "columns": [
+        "beonho",
+        "san_ireum",
+        "nopi_m",
+        "sojaeji",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_100대_명산_목록",
+      "updated": "2026-11",
+      "size": 20516,
+      "files": {
+        "csv": {
+          "name": "ko-100dae-myeongsan_KO.csv",
+          "size": 9497
+        },
+        "xlsx": {
+          "name": "ko-100dae-myeongsan_KO.xlsx",
+          "size": 12077
         }
       }
     },
