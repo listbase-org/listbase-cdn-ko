@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-12T02:14:22.974Z",
-  "total_datasets": 578,
-  "total_records": 459893,
+  "generated": "2026-11-12T02:14:35.423Z",
+  "total_datasets": 579,
+  "total_records": 459941,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "law",
@@ -8217,6 +8217,31 @@
         "xlsx": {
           "name": "ko-hangugeo-bangeon_KO.xlsx",
           "size": 7757
+        }
+      }
+    },
+    {
+      "id": "ko-hangugeo-yangsusa",
+      "name": "한국어의 양수사 (수 단위 이름)",
+      "category": "language",
+      "record_count": 48,
+      "columns": [
+        "su",
+        "susa",
+        "gwanhyeongsa",
+        "biyul_uijon_myeongsa"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/수사_(품사)",
+      "updated": "2026-11",
+      "size": 7880,
+      "files": {
+        "csv": {
+          "name": "ko-hangugeo-yangsusa_KO.csv",
+          "size": 1684
+        },
+        "xlsx": {
+          "name": "ko-hangugeo-yangsusa_KO.xlsx",
+          "size": 8107
         }
       }
     },

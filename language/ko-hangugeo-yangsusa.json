@@ -1,0 +1,334 @@
+{
+  "id": "ko-hangugeo-yangsusa",
+  "name": "한국어의 양수사 (수 단위 이름)",
+  "title": "한국어의 양수사 (수 단위 이름)",
+  "description": "한국어에서 수를 나타내는 양수사(일·십·백·천·만·억·조 … 및 소수 단위 사·섬·미·홀 등)와 해당 관형사, 비율을 나타내는 의존 명사 목록.",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/수사_(품사)",
+  "source_url": "https://ko.wikipedia.org/wiki/수사_(품사)",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "su",
+      "label": "Su",
+      "type": "string"
+    },
+    {
+      "key": "susa",
+      "label": "Susa",
+      "type": "string"
+    },
+    {
+      "key": "gwanhyeongsa",
+      "label": "Gwanhyeongsa",
+      "type": "string"
+    },
+    {
+      "key": "biyul_uijon_myeongsa",
+      "label": "Biyul Uijon Myeongsa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "su": "10^-8",
+      "susa": "사(沙/砂)",
+      "gwanhyeongsa": "사(沙/砂)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "10^-7",
+      "susa": "섬(纖)",
+      "gwanhyeongsa": "섬(纖)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "10^-6",
+      "susa": "미(微)",
+      "gwanhyeongsa": "미(微)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "10^-5",
+      "susa": "홀(忽)",
+      "gwanhyeongsa": "홀(忽)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "10^-4",
+      "susa": "사(絲)",
+      "gwanhyeongsa": "사(絲)",
+      "biyul_uijon_myeongsa": "모(毛)"
+    },
+    {
+      "su": "10^-3",
+      "susa": "모(毛)",
+      "gwanhyeongsa": "모(毛)",
+      "biyul_uijon_myeongsa": "리(釐/厘)"
+    },
+    {
+      "su": "10^-2",
+      "susa": "이(釐)",
+      "gwanhyeongsa": "이(釐)",
+      "biyul_uijon_myeongsa": "푼 = 분"
+    },
+    {
+      "su": "10^-1",
+      "susa": "분(分) = 푼",
+      "gwanhyeongsa": "분(分) = 푼",
+      "biyul_uijon_myeongsa": "할(割)"
+    },
+    {
+      "su": "1",
+      "susa": "일(一/壹)",
+      "gwanhyeongsa": "일(一/壹)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "1",
+      "susa": "하나",
+      "gwanhyeongsa": "한",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "2",
+      "susa": "이(二/貳)",
+      "gwanhyeongsa": "이(二/貳)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "2",
+      "susa": "둘",
+      "gwanhyeongsa": "두",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "3",
+      "susa": "삼(三)",
+      "gwanhyeongsa": "삼(三)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "3",
+      "susa": "셋",
+      "gwanhyeongsa": "세·석",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "4",
+      "susa": "사(四)",
+      "gwanhyeongsa": "사(四)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "4",
+      "susa": "넷",
+      "gwanhyeongsa": "네·넉",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "5",
+      "susa": "오(五)",
+      "gwanhyeongsa": "오(五)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "5",
+      "susa": "다섯",
+      "gwanhyeongsa": "다섯",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "6",
+      "susa": "육(六)",
+      "gwanhyeongsa": "육(六)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "6",
+      "susa": "여섯",
+      "gwanhyeongsa": "여섯",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "7",
+      "susa": "칠(七)",
+      "gwanhyeongsa": "칠(七)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "7",
+      "susa": "일곱",
+      "gwanhyeongsa": "일곱",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "8",
+      "susa": "팔(八)",
+      "gwanhyeongsa": "팔(八)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "8",
+      "susa": "여덟",
+      "gwanhyeongsa": "여덟",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "9",
+      "susa": "구(九)",
+      "gwanhyeongsa": "구(九)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "9",
+      "susa": "아홉",
+      "gwanhyeongsa": "아홉",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "10",
+      "susa": "십(十)",
+      "gwanhyeongsa": "십(十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "10",
+      "susa": "열",
+      "gwanhyeongsa": "열",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "20",
+      "susa": "이십(二十)",
+      "gwanhyeongsa": "이십(二十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "20",
+      "susa": "스물",
+      "gwanhyeongsa": "스무",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "30",
+      "susa": "삼십(三十)",
+      "gwanhyeongsa": "삼십(三十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "30",
+      "susa": "서른",
+      "gwanhyeongsa": "서른",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "40",
+      "susa": "사십(四十)",
+      "gwanhyeongsa": "사십(四十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "40",
+      "susa": "마흔",
+      "gwanhyeongsa": "마흔",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "50",
+      "susa": "오십(五十)",
+      "gwanhyeongsa": "오십(五十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "50",
+      "susa": "쉰",
+      "gwanhyeongsa": "쉰",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "60",
+      "susa": "육십(六十)",
+      "gwanhyeongsa": "육십(六十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "60",
+      "susa": "예순",
+      "gwanhyeongsa": "예순",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "70",
+      "susa": "칠십(七十)",
+      "gwanhyeongsa": "칠십(七十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "70",
+      "susa": "일흔",
+      "gwanhyeongsa": "일흔",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "80",
+      "susa": "팔십(八十)",
+      "gwanhyeongsa": "팔십(八十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "80",
+      "susa": "여든",
+      "gwanhyeongsa": "여든",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "90",
+      "susa": "구십(九十)",
+      "gwanhyeongsa": "구십(九十)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "90",
+      "susa": "아흔",
+      "gwanhyeongsa": "아흔",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "100",
+      "susa": "백(百) = 일백(一百)",
+      "gwanhyeongsa": "백(百) = 일백(一百)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "100",
+      "susa": "온 『옛말』",
+      "gwanhyeongsa": "온 『옛말』",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "1000",
+      "susa": "천(千) = 일천(一千)",
+      "gwanhyeongsa": "천(千) = 일천(一千)",
+      "biyul_uijon_myeongsa": ""
+    },
+    {
+      "su": "1000",
+      "susa": "즈믄 『옛말』",
+      "gwanhyeongsa": "즈믄 『옛말』",
+      "biyul_uijon_myeongsa": ""
+    }
+  ],
+  "meta": {
+    "title": "한국어의 양수사 (수 단위 이름) - Free Download",
+    "description": "한국어에서 수를 나타내는 양수사(일·십·백·천·만·억·조 … 및 소수 단위 사·섬·미·홀 등)와 해당 관형사, 비율을 나타내는 의존 명사 목록. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국어의 양수사 (수 단위 이름) | ListBase",
+    "seo_description": "Download 한국어의 양수사 (수 단위 이름) — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/수사_(품사)"
+    ]
+  }
+}
