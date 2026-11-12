@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-12T02:14:35.423Z",
-  "total_datasets": 579,
-  "total_records": 459941,
+  "generated": "2026-11-12T02:14:51.486Z",
+  "total_datasets": 580,
+  "total_records": 459969,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "law",
@@ -8289,6 +8289,30 @@
         "xlsx": {
           "name": "ko-nara-ireum-hanja_KO.xlsx",
           "size": 16883
+        }
+      }
+    },
+    {
+      "id": "ko-nopimmal-pyohyeon",
+      "name": "한국어 높임말·겸양어 표현 예시",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "yeosa_pyohyeon",
+        "nopim_pyohyeon",
+        "yuhyeong"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국어의_높임말",
+      "updated": "2026-11",
+      "size": 5414,
+      "files": {
+        "csv": {
+          "name": "ko-nopimmal-pyohyeon_KO.csv",
+          "size": 1620
+        },
+        "xlsx": {
+          "name": "ko-nopimmal-pyohyeon_KO.xlsx",
+          "size": 7704
         }
       }
     },

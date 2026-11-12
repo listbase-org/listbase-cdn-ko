@@ -1,0 +1,181 @@
+{
+  "id": "ko-nopimmal-pyohyeon",
+  "name": "한국어 높임말·겸양어 표현 예시",
+  "title": "한국어 높임말·겸양어 표현 예시",
+  "description": "한국어의 예사말과 높임말(존댓말), 겸양어의 대응 표현 예시 (밥→진지, 집→댁, 묻다→여쭈다 등).",
+  "category": "language",
+  "source": "https://ko.wikipedia.org/wiki/한국어의_높임말",
+  "source_url": "https://ko.wikipedia.org/wiki/한국어의_높임말",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "yeosa_pyohyeon",
+      "label": "Yeosa Pyohyeon",
+      "type": "string"
+    },
+    {
+      "key": "nopim_pyohyeon",
+      "label": "Nopim Pyohyeon",
+      "type": "string"
+    },
+    {
+      "key": "yuhyeong",
+      "label": "Yuhyeong",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "yeosa_pyohyeon": "알았다",
+      "nopim_pyohyeon": "알았어요, 알았습니다",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "보다",
+      "nopim_pyohyeon": "보시다",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "너",
+      "nopim_pyohyeon": "당신, 분, 귀하",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "밥",
+      "nopim_pyohyeon": "진지",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "집",
+      "nopim_pyohyeon": "댁",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "있다",
+      "nopim_pyohyeon": "계시다",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "사람",
+      "nopim_pyohyeon": "분",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "녀석",
+      "nopim_pyohyeon": "양반",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "아프다",
+      "nopim_pyohyeon": "편찮으시다 (\"아프시다\"가 아님)",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "하다",
+      "nopim_pyohyeon": "하시다",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "~(하)다",
+      "nopim_pyohyeon": "~(하)시다",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "~(이)다",
+      "nopim_pyohyeon": "~(이)시다",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "기계가 일을 한다.",
+      "nopim_pyohyeon": "아버지께서 일을 하신다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "여우는 생선을 좋아한다.",
+      "nopim_pyohyeon": "어머니께선 생선을 좋아하신다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "내 친구가 꽃을 산다.",
+      "nopim_pyohyeon": "이모께서 꽃을 사신다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "그 아이는 A양을 안다.",
+      "nopim_pyohyeon": "그 분께선 A양을 아신다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "그 아이는 A양을 모른다.",
+      "nopim_pyohyeon": "그 분께선 A양을 모르신다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "차고에 자동차가 있다.",
+      "nopim_pyohyeon": "교실에 선생님이 계신다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "차고에 자동차가 없다.",
+      "nopim_pyohyeon": "교실에 선생님이 계시지 않는다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "친구의 집이다.",
+      "nopim_pyohyeon": "할아버지의 댁이다.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "병아리가 곡식을 먹는다.",
+      "nopim_pyohyeon": "어르신께서 곡식을 드신다(잡수신다).",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "병아리가 죽었을 때.",
+      "nopim_pyohyeon": "어르신께서 돌아가셨을 때.",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "친구의 이름",
+      "nopim_pyohyeon": "선생님의 성함",
+      "yuhyeong": "높임 표현"
+    },
+    {
+      "yeosa_pyohyeon": "나",
+      "nopim_pyohyeon": "저",
+      "yuhyeong": "겸양어"
+    },
+    {
+      "yeosa_pyohyeon": "우리",
+      "nopim_pyohyeon": "저희",
+      "yuhyeong": "겸양어"
+    },
+    {
+      "yeosa_pyohyeon": "묻다",
+      "nopim_pyohyeon": "여쭈다",
+      "yuhyeong": "겸양어"
+    },
+    {
+      "yeosa_pyohyeon": "보다",
+      "nopim_pyohyeon": "뵈다",
+      "yuhyeong": "겸양어"
+    },
+    {
+      "yeosa_pyohyeon": "주다",
+      "nopim_pyohyeon": "드리다",
+      "yuhyeong": "겸양어"
+    }
+  ],
+  "meta": {
+    "title": "한국어 높임말·겸양어 표현 예시 - Free Download",
+    "description": "한국어의 예사말과 높임말(존댓말), 겸양어의 대응 표현 예시 (밥→진지, 집→댁, 묻다→여쭈다 등). Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국어 높임말·겸양어 표현 예시 | ListBase",
+    "seo_description": "Download 한국어 높임말·겸양어 표현 예시 — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국어의_높임말"
+    ]
+  }
+}
