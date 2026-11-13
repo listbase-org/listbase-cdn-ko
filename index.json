@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-12T02:14:51.486Z",
-  "total_datasets": 580,
-  "total_records": 459969,
+  "generated": "2026-11-13T02:09:13.238Z",
+  "total_datasets": 581,
+  "total_records": 460007,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "politics",
@@ -8650,6 +8650,33 @@
         "xlsx": {
           "name": "ko-teukheocheongjang_KO.xlsx",
           "size": 9754
+        }
+      }
+    },
+    {
+      "id": "ko-boi-geurup",
+      "name": "대한민국의 보이 그룹 목록",
+      "category": "music",
+      "record_count": 38,
+      "columns": [
+        "group",
+        "active_years",
+        "members",
+        "notable_singles",
+        "best_selling_album",
+        "generation"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_보이_밴드_목록",
+      "updated": "2026-11",
+      "size": 21953,
+      "files": {
+        "csv": {
+          "name": "ko-boi-geurup_KO.csv",
+          "size": 14627
+        },
+        "xlsx": {
+          "name": "ko-boi-geurup_KO.xlsx",
+          "size": 13962
         }
       }
     },
