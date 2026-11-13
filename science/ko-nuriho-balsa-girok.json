@@ -1,0 +1,118 @@
+{
+  "id": "ko-nuriho-balsa-girok",
+  "name": "누리호(KSLV-II) 발사 기록",
+  "title": "누리호(KSLV-II) 발사 기록",
+  "description": "나로우주센터에서 발사되는 한국형 발사체 누리호(KSLV-II)의 차수별 발사 일시, 탑재체와 발사 결과(예정 포함).",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/누리호",
+  "source_url": "https://ko.wikipedia.org/wiki/누리호",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "sequence",
+      "label": "Sequence",
+      "type": "number"
+    },
+    {
+      "key": "launch_datetime_kst",
+      "label": "Launch Datetime Kst",
+      "type": "string"
+    },
+    {
+      "key": "payload",
+      "label": "Payload",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sequence": 1,
+      "launch_datetime_kst": "2021년 10월 21일 17:00",
+      "payload": "위성모사체 1.5톤",
+      "result": "실패"
+    },
+    {
+      "sequence": 2,
+      "launch_datetime_kst": "2022년 6월 21일 16:00",
+      "payload": "위성모사체, 성능검증위성",
+      "result": "성공"
+    },
+    {
+      "sequence": 3,
+      "launch_datetime_kst": "2023년 5월 25일 18:24",
+      "payload": "차세대소형위성 2호, 도요샛 4기, 민간위성 3기",
+      "result": "성공"
+    },
+    {
+      "sequence": 4,
+      "launch_datetime_kst": "2025년 11월 27일 01:13",
+      "payload": "차세대중형위성 3호, 초소형위성 1호 등 13기",
+      "result": "성공"
+    },
+    {
+      "sequence": 5,
+      "launch_datetime_kst": "2026년 10월 7일 12:25",
+      "payload": "소형군집위성 5기 및 부탑재위성 10기",
+      "result": "성공"
+    },
+    {
+      "sequence": 6,
+      "launch_datetime_kst": "2027년",
+      "payload": "초소형 군집위성 7·8·9·10·11호",
+      "result": "계획"
+    },
+    {
+      "sequence": 7,
+      "launch_datetime_kst": "2028년",
+      "payload": "차세대중형위성 5호",
+      "result": "계획"
+    },
+    {
+      "sequence": 8,
+      "launch_datetime_kst": "2029년",
+      "payload": "달 궤도 통신위성",
+      "result": "계획"
+    },
+    {
+      "sequence": 9,
+      "launch_datetime_kst": "2030년",
+      "payload": "저궤도통신위성 2기",
+      "result": "계획"
+    },
+    {
+      "sequence": 10,
+      "launch_datetime_kst": "2030년",
+      "payload": "한국형 소형 달 착륙선",
+      "result": "계획"
+    },
+    {
+      "sequence": 11,
+      "launch_datetime_kst": "2031년",
+      "payload": "초소형 위성체계 4기",
+      "result": "계획"
+    },
+    {
+      "sequence": 12,
+      "launch_datetime_kst": "2032년",
+      "payload": "아리랑 8호 동반위성 3기",
+      "result": "계획"
+    }
+  ],
+  "meta": {
+    "title": "누리호(KSLV-II) 발사 기록 - Free Download",
+    "description": "나로우주센터에서 발사되는 한국형 발사체 누리호(KSLV-II)의 차수별 발사 일시, 탑재체와 발사 결과(예정 포함). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "누리호(KSLV-II) 발사 기록 | ListBase",
+    "seo_description": "Download 누리호(KSLV-II) 발사 기록 — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/누리호"
+    ]
+  }
+}

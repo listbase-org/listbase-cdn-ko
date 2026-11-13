@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-13T02:09:24.652Z",
-  "total_datasets": 582,
-  "total_records": 460026,
+  "generated": "2026-11-13T02:09:36.261Z",
+  "total_datasets": 583,
+  "total_records": 460038,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "society",
@@ -12491,6 +12491,31 @@
         "xlsx": {
           "name": "ko-myeoljong-wigijong_KO.xlsx",
           "size": 11312
+        }
+      }
+    },
+    {
+      "id": "ko-nuriho-balsa-girok",
+      "name": "누리호(KSLV-II) 발사 기록",
+      "category": "science",
+      "record_count": 12,
+      "columns": [
+        "sequence",
+        "launch_datetime_kst",
+        "payload",
+        "result"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/누리호",
+      "updated": "2026-11",
+      "size": 3544,
+      "files": {
+        "csv": {
+          "name": "ko-nuriho-balsa-girok_KO.csv",
+          "size": 886
+        },
+        "xlsx": {
+          "name": "ko-nuriho-balsa-girok_KO.xlsx",
+          "size": 7360
         }
       }
     },
