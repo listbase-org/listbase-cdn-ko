@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-13T02:09:13.238Z",
-  "total_datasets": 581,
-  "total_records": 460007,
+  "generated": "2026-11-13T02:09:24.652Z",
+  "total_datasets": 582,
+  "total_records": 460026,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "politics",
@@ -8835,6 +8835,33 @@
         "xlsx": {
           "name": "ko-golden-disc-daesang_KO.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-daejung-eumaksang-jongap-bumun",
+      "name": "한국대중음악상 종합분야 수상작 (연도별)",
+      "category": "music",
+      "record_count": 19,
+      "columns": [
+        "year",
+        "edition",
+        "album_of_the_year",
+        "song_of_the_year",
+        "musician_of_the_year",
+        "rookie_of_the_year"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국대중음악상",
+      "updated": "2026-11",
+      "size": 7103,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-daejung-eumaksang-jongap-bumun_KO.csv",
+          "size": 2252
+        },
+        "xlsx": {
+          "name": "ko-hanguk-daejung-eumaksang-jongap-bumun_KO.xlsx",
+          "size": 8521
         }
       }
     },

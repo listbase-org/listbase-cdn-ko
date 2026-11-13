@@ -1,0 +1,208 @@
+{
+  "id": "ko-hanguk-daejung-eumaksang-jongap-bumun",
+  "name": "한국대중음악상 종합분야 수상작 (연도별)",
+  "title": "한국대중음악상 종합분야 수상작 (연도별)",
+  "description": "한국대중음악상(KMA) 역대 시상식의 종합분야 수상 결과: 올해의 음반, 올해의 노래, 올해의 음악인, 올해의 신인.",
+  "category": "music",
+  "source": "https://ko.wikipedia.org/wiki/한국대중음악상",
+  "source_url": "https://ko.wikipedia.org/wiki/한국대중음악상",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "album_of_the_year",
+      "label": "Album Of The Year",
+      "type": "string"
+    },
+    {
+      "key": "song_of_the_year",
+      "label": "Song Of The Year",
+      "type": "string"
+    },
+    {
+      "key": "musician_of_the_year",
+      "label": "Musician Of The Year",
+      "type": "string"
+    },
+    {
+      "key": "rookie_of_the_year",
+      "label": "Rookie Of The Year",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2004,
+      "edition": 1,
+      "album_of_the_year": "더더 - The The Band",
+      "song_of_the_year": "러브홀릭 - \"Loveholic\"",
+      "musician_of_the_year": "",
+      "rookie_of_the_year": "정재일"
+    },
+    {
+      "year": 2005,
+      "edition": 2,
+      "album_of_the_year": "마이앤트메리 - JUST POP",
+      "song_of_the_year": "조PD -〈친구여〉",
+      "musician_of_the_year": "",
+      "rookie_of_the_year": "못"
+    },
+    {
+      "year": 2006,
+      "edition": 3,
+      "album_of_the_year": "두번째 달 -《 두번째 달 》",
+      "song_of_the_year": "윤도현 -〈사랑했나봐〉",
+      "musician_of_the_year": "",
+      "rookie_of_the_year": "두번째 달, 소규모 아카시아 밴드"
+    },
+    {
+      "year": 2007,
+      "edition": 4,
+      "album_of_the_year": "스왈로우 - Aresco",
+      "song_of_the_year": "이한철 -〈슈퍼스타〉",
+      "musician_of_the_year": "",
+      "rookie_of_the_year": "머스탱스"
+    },
+    {
+      "year": 2008,
+      "edition": 5,
+      "album_of_the_year": "이적 -《 나무로 만든 노래 》",
+      "song_of_the_year": "이적 -〈다행이다〉",
+      "musician_of_the_year": "이승열",
+      "rookie_of_the_year": "윤하"
+    },
+    {
+      "year": 2009,
+      "edition": 6,
+      "album_of_the_year": "언니네 이발관 -《 가장 보통의 존재 》",
+      "song_of_the_year": "장기하와 얼굴들 -〈 싸구려 커피 〉",
+      "musician_of_the_year": "토이",
+      "rookie_of_the_year": "로로스"
+    },
+    {
+      "year": 2010,
+      "edition": 7,
+      "album_of_the_year": "서울전자음악단 - Life Is Strange",
+      "song_of_the_year": "소녀시대 - \" Gee \"",
+      "musician_of_the_year": "서울전자음악단",
+      "rookie_of_the_year": "국카스텐, 아폴로18"
+    },
+    {
+      "year": 2011,
+      "edition": 8,
+      "album_of_the_year": "가리온 -《 가리온 2 》",
+      "song_of_the_year": "뜨거운 감자 -〈고백〉",
+      "musician_of_the_year": "갤럭시 익스프레스",
+      "rookie_of_the_year": "게이트 플라워즈"
+    },
+    {
+      "year": 2012,
+      "edition": 9,
+      "album_of_the_year": "장기하와 얼굴들 -《 장기하와 얼굴들 》",
+      "song_of_the_year": "아이유 -〈좋은 날〉",
+      "musician_of_the_year": "장기하와 얼굴들",
+      "rookie_of_the_year": "바이바이배드맨"
+    },
+    {
+      "year": 2013,
+      "edition": 10,
+      "album_of_the_year": "3호선 버터플라이 -《Dreamtalk》",
+      "song_of_the_year": "싸이 -〈 강남스타일 〉",
+      "musician_of_the_year": "싸이",
+      "rookie_of_the_year": "404"
+    },
+    {
+      "year": 2014,
+      "edition": 11,
+      "album_of_the_year": "윤영배 - 《위험한 세계》",
+      "song_of_the_year": "조용필 - 〈Bounce〉",
+      "musician_of_the_year": "선우정아",
+      "rookie_of_the_year": "로큰롤 라디오"
+    },
+    {
+      "year": 2015,
+      "edition": 12,
+      "album_of_the_year": "로로스 - 《W.A.N.D.Y》",
+      "song_of_the_year": "소유 X 정기고 - 〈썸 (Feat. Lil' Boi of Geeks)〉",
+      "musician_of_the_year": "이승환",
+      "rookie_of_the_year": "김사월X김해원"
+    },
+    {
+      "year": 2016,
+      "edition": 13,
+      "album_of_the_year": "이센스 - 《 The Anecdote 》",
+      "song_of_the_year": "빅뱅 - 〈 BAE BAE 〉",
+      "musician_of_the_year": "딥플로우",
+      "rookie_of_the_year": "혁오"
+    },
+    {
+      "year": 2017,
+      "edition": 14,
+      "album_of_the_year": "조동진 - 《나무가 되어》",
+      "song_of_the_year": "볼빨간사춘기 - 〈우주를 줄게〉",
+      "musician_of_the_year": "박재범",
+      "rookie_of_the_year": "실리카겔"
+    },
+    {
+      "year": 2018,
+      "edition": 15,
+      "album_of_the_year": "강태구 - 《강태구》",
+      "song_of_the_year": "혁오 - 〈TOMBOY〉",
+      "musician_of_the_year": "방탄소년단",
+      "rookie_of_the_year": "새소년"
+    },
+    {
+      "year": 2019,
+      "edition": 16,
+      "album_of_the_year": "장필순 - 《soony eight: 소길花》",
+      "song_of_the_year": "방탄소년단 - 〈FAKE LOVE〉",
+      "musician_of_the_year": "방탄소년단",
+      "rookie_of_the_year": "애리"
+    },
+    {
+      "year": 2020,
+      "edition": 17,
+      "album_of_the_year": "백예린 - 《Our love is great》",
+      "song_of_the_year": "잔나비 - 〈주저하는 연인들을 위해〉",
+      "musician_of_the_year": "김오키",
+      "rookie_of_the_year": "소금"
+    },
+    {
+      "year": 2021,
+      "edition": 18,
+      "album_of_the_year": "정밀아 - 《청파소나타》",
+      "song_of_the_year": "방탄소년단 - 〈Dynamite〉",
+      "musician_of_the_year": "이날치",
+      "rookie_of_the_year": "김뜻돌"
+    },
+    {
+      "year": 2022,
+      "edition": 19,
+      "album_of_the_year": "이랑 - 《늑대가 나타났다》",
+      "song_of_the_year": "aespa - 〈Next Level〉",
+      "musician_of_the_year": "방탄소년단",
+      "rookie_of_the_year": "aespa"
+    }
+  ],
+  "meta": {
+    "title": "한국대중음악상 종합분야 수상작 (연도별) - Free Download",
+    "description": "한국대중음악상(KMA) 역대 시상식의 종합분야 수상 결과: 올해의 음반, 올해의 노래, 올해의 음악인, 올해의 신인. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국대중음악상 종합분야 수상작 (연도별) | ListBase",
+    "seo_description": "Download 한국대중음악상 종합분야 수상작 (연도별) — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국대중음악상"
+    ]
+  }
+}
