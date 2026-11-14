@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-13T02:09:36.261Z",
-  "total_datasets": 583,
-  "total_records": 460038,
+  "generated": "2026-11-14T02:10:39.302Z",
+  "total_datasets": 584,
+  "total_records": 460051,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 15
+      "dataset_count": 16
     }
   ],
   "datasets": [
@@ -17372,6 +17372,35 @@
         "xlsx": {
           "name": "ko-yongin-gyeongjeoncheol-jihacheol-yeok_KO.xlsx",
           "size": 7823
+        }
+      }
+    },
+    {
+      "id": "ko-bopeoteu-pungnyeok-gyegeup",
+      "name": "보퍼트 풍력 계급표 (0~12계급)",
+      "category": "units",
+      "record_count": 13,
+      "columns": [
+        "force",
+        "name",
+        "wind_speed_m_s",
+        "wind_speed_km_h",
+        "wind_speed_kt",
+        "wave_height_m",
+        "land_conditions",
+        "sea_conditions"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/보퍼트_풍력_계급",
+      "updated": "2026-11",
+      "size": 7663,
+      "files": {
+        "csv": {
+          "name": "ko-bopeoteu-pungnyeok-gyegeup_KO.csv",
+          "size": 3244
+        },
+        "xlsx": {
+          "name": "ko-bopeoteu-pungnyeok-gyegeup_KO.xlsx",
+          "size": 8729
         }
       }
     },

@@ -1,0 +1,196 @@
+{
+  "id": "ko-bopeoteu-pungnyeok-gyegeup",
+  "name": "보퍼트 풍력 계급표 (0~12계급)",
+  "title": "보퍼트 풍력 계급표 (0~12계급)",
+  "description": "바람의 세기를 나타내는 보퍼트 풍력 계급(0~12)의 한국어 명칭, 풍속(m/s, km/h, 노트), 파고, 육상 및 해상 상태.",
+  "category": "units",
+  "source": "https://ko.wikipedia.org/wiki/보퍼트_풍력_계급",
+  "source_url": "https://ko.wikipedia.org/wiki/보퍼트_풍력_계급",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "force",
+      "label": "Force",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "wind_speed_m_s",
+      "label": "Wind Speed M S",
+      "type": "string"
+    },
+    {
+      "key": "wind_speed_km_h",
+      "label": "Wind Speed Km H",
+      "type": "string"
+    },
+    {
+      "key": "wind_speed_kt",
+      "label": "Wind Speed Kt",
+      "type": "string"
+    },
+    {
+      "key": "wave_height_m",
+      "label": "Wave Height M",
+      "type": "number"
+    },
+    {
+      "key": "land_conditions",
+      "label": "Land Conditions",
+      "type": "string"
+    },
+    {
+      "key": "sea_conditions",
+      "label": "Sea Conditions",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "force": 0,
+      "name": "고요",
+      "wind_speed_m_s": "<0.3",
+      "wind_speed_km_h": "<1",
+      "wind_speed_kt": "<1",
+      "wave_height_m": "0",
+      "land_conditions": "연기가 수직으로 올라간다.",
+      "sea_conditions": "해면이 거울 같이 반사될 정도로 고요하다."
+    },
+    {
+      "force": 1,
+      "name": "실바람",
+      "wind_speed_m_s": "0.3~1.5",
+      "wind_speed_km_h": "1~5",
+      "wind_speed_kt": "1~2",
+      "wave_height_m": "0.1",
+      "land_conditions": "풍향은 연기가 날아가는 것으로 알 수 있으나, 풍향계는 잘 움직이지 않는다.",
+      "sea_conditions": "물결이 생선 비늘 같이 작고, 물거품이 없다."
+    },
+    {
+      "force": 2,
+      "name": "남실바람",
+      "wind_speed_m_s": "1.5~3.3",
+      "wind_speed_km_h": "6~11",
+      "wind_speed_kt": "4 ~6",
+      "wave_height_m": "0.2",
+      "land_conditions": "바람이 피부에 느껴진다. 나뭇잎이 흔들리며, 풍향계가 움직이기 시작한다.",
+      "sea_conditions": "물결이 작고, 파도의 마루 부분이 부서지지 않고 모양이 뚜렷하다."
+    },
+    {
+      "force": 3,
+      "name": "산들바람",
+      "wind_speed_m_s": "3.3~5.5",
+      "wind_speed_km_h": "12~19",
+      "wind_speed_kt": "7~10",
+      "wave_height_m": "0.6",
+      "land_conditions": "나뭇잎과 작은 가지가 끊임없이 흔들리고, 깃발이 가볍게 날린다.",
+      "sea_conditions": "물결이 커지고, 파도의 마루가 부서져서 물거품이 생겨 흰 파도가 간간이 보인다."
+    },
+    {
+      "force": 4,
+      "name": "건들바람",
+      "wind_speed_m_s": "5.5~8.0",
+      "wind_speed_km_h": "20~28",
+      "wind_speed_kt": "11~15",
+      "wave_height_m": "1",
+      "land_conditions": "먼지가 일고 종이조각이 날리며, 작은 가지가 흔들린다.",
+      "sea_conditions": "파도가 일고, 파장이 길어지며 흰 파도가 많이 보이기 시작한다."
+    },
+    {
+      "force": 5,
+      "name": "흔들바람",
+      "wind_speed_m_s": "8.0~10.8",
+      "wind_speed_km_h": "29~38",
+      "wind_speed_kt": "16~20",
+      "wave_height_m": "2",
+      "land_conditions": "잎이 무성한 작은 나무 전체가 흔들리고, 호수에 물결이 일어난다.",
+      "sea_conditions": "파도가 조금 높아지고, 물거품이 생기기 시작한다."
+    },
+    {
+      "force": 6,
+      "name": "된바람",
+      "wind_speed_m_s": "10.8~13.9",
+      "wind_speed_km_h": "39~49",
+      "wind_speed_kt": "21~26",
+      "wave_height_m": "3",
+      "land_conditions": "큰 나뭇가지가 흔들리고, 전선이 울리며 우산을 사용하기 어렵다.",
+      "sea_conditions": "파도가 높아지기 시작하고, 물거품이 광범위해지며 물보라가 생긴다."
+    },
+    {
+      "force": 7,
+      "name": "센바람",
+      "wind_speed_m_s": "13.9~17.2",
+      "wind_speed_km_h": "50~61",
+      "wind_speed_kt": "27~33",
+      "wave_height_m": "4",
+      "land_conditions": "나무 전체가 흔들리며, 바람을 안고서 걷기 곤란하다.",
+      "sea_conditions": "파도가 높아지고, 파도가 서로 부서져서 물거품이 생겨 줄을 이루며 바람에 의해 날린다."
+    },
+    {
+      "force": 8,
+      "name": "큰바람",
+      "wind_speed_m_s": "17.2~20.7",
+      "wind_speed_km_h": "62~74",
+      "wind_speed_kt": "34~40",
+      "wave_height_m": "5.5",
+      "land_conditions": "작은 나뭇가지가 꺾이며, 바람을 안고서 걸을 수 없다.",
+      "sea_conditions": "파도가 제법 높고, 파장이 더 길고 마루의 끝이 거꾸로 된다. 물거품이 강풍에 날린다."
+    },
+    {
+      "force": 9,
+      "name": "큰센바람",
+      "wind_speed_m_s": "20.7~24.5",
+      "wind_speed_km_h": "75~88",
+      "wind_speed_kt": "41~47",
+      "wave_height_m": "7",
+      "land_conditions": "큰 나뭇가지가 꺾이고, 가옥에 다소 피해가 생긴다. 굴뚝이 넘어지고 기와가 벗겨진다.",
+      "sea_conditions": "파도가 높고, 물거품이 바람에 따라 짙은 줄무늬를 띤다. 마루가 흩어져 말리고 물보라 때문에 시정이 나빠진다."
+    },
+    {
+      "force": 10,
+      "name": "노대바람",
+      "wind_speed_m_s": "24.5~28.4",
+      "wind_speed_km_h": "89~102",
+      "wind_speed_kt": "48~55",
+      "wave_height_m": "9",
+      "land_conditions": "나무가 뿌리째 뽑히고, 가옥에 큰 피해가 일어난다. 내륙 지방에서는 보기 드문 현상이다.",
+      "sea_conditions": "파도가 옆으로 긴 마루로 되어 몹시 높고, 물거품이 큰 덩어리가 되어 강풍에 날린다. 파도가 심하게 부서지고 시정이 나쁘다."
+    },
+    {
+      "force": 11,
+      "name": "왕바람",
+      "wind_speed_m_s": "28.4~32.6",
+      "wind_speed_km_h": "103~117",
+      "wind_speed_kt": "56~63",
+      "wave_height_m": "11.5",
+      "land_conditions": "광범위한 피해가 생긴다.",
+      "sea_conditions": "파도가 대단히 높고, 주위의 배는 파도에 가려 볼 수 없고 길게 줄지은 물거품들이 바다를 덮는다. 시정이 극히 나쁘다."
+    },
+    {
+      "force": 12,
+      "name": "싹쓸바람",
+      "wind_speed_m_s": "≥32.6",
+      "wind_speed_km_h": "≥118",
+      "wind_speed_kt": "≥64",
+      "wave_height_m": "≥14",
+      "land_conditions": "매우 광범위한 피해가 생긴다.",
+      "sea_conditions": "파도가 매우 높고, 바다는 물거품과 물보라로 가득 차 바로 한치 앞도 분간하기 어려울 정도다."
+    }
+  ],
+  "meta": {
+    "title": "보퍼트 풍력 계급표 (0~12계급) - Free Download",
+    "description": "바람의 세기를 나타내는 보퍼트 풍력 계급(0~12)의 한국어 명칭, 풍속(m/s, km/h, 노트), 파고, 육상 및 해상 상태. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "보퍼트 풍력 계급표 (0~12계급) | ListBase",
+    "seo_description": "Download 보퍼트 풍력 계급표 (0~12계급) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/보퍼트_풍력_계급"
+    ]
+  }
+}
