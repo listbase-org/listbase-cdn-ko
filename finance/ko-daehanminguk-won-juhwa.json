@@ -1,0 +1,236 @@
+{
+  "id": "ko-daehanminguk-won-juhwa",
+  "name": "대한민국 원 주화(동전) 목록",
+  "title": "대한민국 원 주화(동전) 목록",
+  "description": "1966년 이후 한국은행이 발행한 대한민국 원 주화(1원~500원)의 지름, 질량, 재질, 앞·뒷면 도안, 도안 연도, 최초 발행일과 발행 중지일.",
+  "category": "finance",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_원",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_원",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "face_value",
+      "label": "Face Value",
+      "type": "string"
+    },
+    {
+      "key": "diameter",
+      "label": "Diameter",
+      "type": "string"
+    },
+    {
+      "key": "mass",
+      "label": "Mass",
+      "type": "string"
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "type": "string"
+    },
+    {
+      "key": "front_design",
+      "label": "Front Design",
+      "type": "string"
+    },
+    {
+      "key": "back_design",
+      "label": "Back Design",
+      "type": "string"
+    },
+    {
+      "key": "design_year",
+      "label": "Design Year",
+      "type": "string"
+    },
+    {
+      "key": "first_issued",
+      "label": "First Issued",
+      "type": "string"
+    },
+    {
+      "key": "discontinued",
+      "label": "Discontinued",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "face_value": "₩1",
+      "diameter": "17.2 mm",
+      "mass": "1.7 g",
+      "material": "황동 60% 구리 40% 아연",
+      "front_design": "무궁화",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1966년",
+      "first_issued": "1966년 8월 16일",
+      "discontinued": "1980년 12월 1일"
+    },
+    {
+      "face_value": "₩1",
+      "diameter": "17.2 mm",
+      "mass": "0.729 g",
+      "material": "100% 알루미늄",
+      "front_design": "무궁화",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1968년",
+      "first_issued": "1968년 8월 26일",
+      "discontinued": "1983년 1월 14일"
+    },
+    {
+      "face_value": "₩5",
+      "diameter": "20.4 mm",
+      "mass": "3.09 g",
+      "material": "황동 88% 구리 12% 아연",
+      "front_design": "거북선",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1966년",
+      "first_issued": "1966년 8월 16일",
+      "discontinued": "1980년 12월 1일"
+    },
+    {
+      "face_value": "₩5",
+      "diameter": "20.4 mm",
+      "mass": "2.95 g",
+      "material": "황동 65% 구리 35% 아연",
+      "front_design": "거북선",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1970년",
+      "first_issued": "1970년 7월 16일",
+      "discontinued": "1983년 1월 14일"
+    },
+    {
+      "face_value": "₩10",
+      "diameter": "22.86 mm",
+      "mass": "4.22 g",
+      "material": "황동 88% 구리 12% 아연",
+      "front_design": "불국사 다보탑",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1966년",
+      "first_issued": "1966년 8월 16일",
+      "discontinued": "1980년 12월 1일"
+    },
+    {
+      "face_value": "₩10",
+      "diameter": "22.86 mm",
+      "mass": "4.06 g",
+      "material": "황동 65% 구리 35% 아연",
+      "front_design": "불국사 다보탑",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1970년",
+      "first_issued": "1970년 7월 16일",
+      "discontinued": "1983년 1월 14일"
+    },
+    {
+      "face_value": "₩50",
+      "diameter": "21.6 mm",
+      "mass": "4.16 g",
+      "material": "70% 구리 18% 아연 12% 니켈",
+      "front_design": "벼 이삭",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1972년",
+      "first_issued": "1972년 12월 1일",
+      "discontinued": "1983년 1월 14일"
+    },
+    {
+      "face_value": "₩100",
+      "diameter": "24 mm",
+      "mass": "5.42 g",
+      "material": "백동 75% 구리 25% 니켈",
+      "front_design": "이순신",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1970년",
+      "first_issued": "1970년 11월 30일",
+      "discontinued": "1976년 한 해 동안만 일시 중단 1977년부터 다시 발행 1983년 1월 14일"
+    },
+    {
+      "face_value": "₩1",
+      "diameter": "17.2 mm",
+      "mass": "0.729 g",
+      "material": "100% 알루미늄",
+      "front_design": "무궁화",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1983년",
+      "first_issued": "1983년 1월 15일",
+      "discontinued": "1992년"
+    },
+    {
+      "face_value": "₩5",
+      "diameter": "20.4 mm",
+      "mass": "2.95 g",
+      "material": "황동 65% 구리 35% 아연",
+      "front_design": "거북선",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1983년",
+      "first_issued": "1983년 1월 15일",
+      "discontinued": "1992년"
+    },
+    {
+      "face_value": "₩10",
+      "diameter": "22.86 mm",
+      "mass": "4.06 g",
+      "material": "황동 65% 구리 35% 아연",
+      "front_design": "불국사 다보탑",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1983년",
+      "first_issued": "1983년 1월 15일",
+      "discontinued": "2006년"
+    },
+    {
+      "face_value": "₩10",
+      "diameter": "18 mm",
+      "mass": "1.22 g",
+      "material": "구리 도금 알루미늄 48% 구리 52% 알루미늄",
+      "front_design": "불국사 다보탑",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "2006년",
+      "first_issued": "2006년 12월 18일",
+      "discontinued": ""
+    },
+    {
+      "face_value": "₩50",
+      "diameter": "21.6 mm",
+      "mass": "4.16 g",
+      "material": "70% 구리 18% 아연 12% 니켈",
+      "front_design": "벼 이삭",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1983년",
+      "first_issued": "1983년 1월 15일",
+      "discontinued": ""
+    },
+    {
+      "face_value": "₩100",
+      "diameter": "24 mm",
+      "mass": "5.42 g",
+      "material": "백동 75% 구리 25% 니켈",
+      "front_design": "이순신",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1983년",
+      "first_issued": "1983년 1월 15일",
+      "discontinued": ""
+    },
+    {
+      "face_value": "₩500",
+      "diameter": "26.5 mm",
+      "mass": "7.7 g",
+      "material": "백동 75% 구리 25% 니켈",
+      "front_design": "두루미",
+      "back_design": "액면 숫자, 중앙 은행 이름, 발행 연도",
+      "design_year": "1982년",
+      "first_issued": "1982년 6월 12일",
+      "discontinued": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 원 주화(동전) 목록 - Free Download",
+    "description": "1966년 이후 한국은행이 발행한 대한민국 원 주화(1원~500원)의 지름, 질량, 재질, 앞·뒷면 도안, 도안 연도, 최초 발행일과 발행 중지일. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 원 주화(동전) 목록 | ListBase",
+    "seo_description": "Download 대한민국 원 주화(동전) 목록 — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_원"
+    ]
+  }
+}

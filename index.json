@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-14T02:10:49.836Z",
-  "total_datasets": 585,
-  "total_records": 460080,
+  "generated": "2026-11-14T02:11:01.167Z",
+  "total_datasets": 586,
+  "total_records": 460095,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "food",
@@ -3557,6 +3557,36 @@
         "xlsx": {
           "name": "ko-daehanminguk-won-jipye-sirijeu_KO.xlsx",
           "size": 9429
+        }
+      }
+    },
+    {
+      "id": "ko-daehanminguk-won-juhwa",
+      "name": "대한민국 원 주화(동전) 목록",
+      "category": "finance",
+      "record_count": 15,
+      "columns": [
+        "face_value",
+        "diameter",
+        "mass",
+        "material",
+        "front_design",
+        "back_design",
+        "design_year",
+        "first_issued",
+        "discontinued"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_원",
+      "updated": "2026-11",
+      "size": 7778,
+      "files": {
+        "csv": {
+          "name": "ko-daehanminguk-won-juhwa_KO.csv",
+          "size": 2755
+        },
+        "xlsx": {
+          "name": "ko-daehanminguk-won-juhwa_KO.xlsx",
+          "size": 7886
         }
       }
     },
