@@ -1,0 +1,472 @@
+{
+  "id": "ko-pyegidoen-taepung-ireum",
+  "name": "폐기된 태풍 이름 목록 (2000년 이후)",
+  "title": "폐기된 태풍 이름 목록 (2000년 이후)",
+  "description": "태풍위원회가 큰 피해를 이유로 폐기한 태풍 이름과 대체된 이름, 폐기 연도, 영향을 준 지역 목록.",
+  "category": "environment",
+  "source": "https://ko.wikipedia.org/wiki/폐기된_태풍_이름의_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/폐기된_태풍_이름의_목록",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "replacement_name",
+      "label": "Replacement Name",
+      "type": "string"
+    },
+    {
+      "key": "year_retired",
+      "label": "Year Retired",
+      "type": "number"
+    },
+    {
+      "key": "affected_areas",
+      "label": "Affected Areas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "와메이 (VAMEI)",
+      "replacement_name": "페이파 (PEIPAH)",
+      "year_retired": 2001,
+      "affected_areas": "말레이시아"
+    },
+    {
+      "name": "차타안 (CHATAAN)",
+      "replacement_name": "마트모 (MATMO)",
+      "year_retired": 2002,
+      "affected_areas": "괌, 추크 제도, 일본"
+    },
+    {
+      "name": "루사 (RUSA)",
+      "replacement_name": "누리 (NURI)",
+      "year_retired": 2002,
+      "affected_areas": "대한민국"
+    },
+    {
+      "name": "봉선화 (PONGSONA)",
+      "replacement_name": "노을 (NOUL)",
+      "year_retired": 2002,
+      "affected_areas": "괌"
+    },
+    {
+      "name": "야냔 (YANYAN)",
+      "replacement_name": "돌핀 (DOLPHIN)",
+      "year_retired": 2003,
+      "affected_areas": "미크로네시아 연방, 괌"
+    },
+    {
+      "name": "임부도 (IMBUDO)",
+      "replacement_name": "몰라베 (MOLAVE)",
+      "year_retired": 2003,
+      "affected_areas": "필리핀, 중국 본토"
+    },
+    {
+      "name": "매미 (MAEMI)",
+      "replacement_name": "무지개 (MUJIGAE)",
+      "year_retired": 2003,
+      "affected_areas": "대한민국, 일본"
+    },
+    {
+      "name": "수달 (SUDAL)",
+      "replacement_name": "미리내 (MIRINAE)",
+      "year_retired": 2004,
+      "affected_areas": "야프섬"
+    },
+    {
+      "name": "라나님 (RANANIM)",
+      "replacement_name": "파나피 (FANAPI)",
+      "year_retired": 2004,
+      "affected_areas": "중국 본토"
+    },
+    {
+      "name": "팅팅 (TINGTING)",
+      "replacement_name": "라이언록 (LIONROCK)",
+      "year_retired": 2004,
+      "affected_areas": "괌, 북마리아나 제도"
+    },
+    {
+      "name": "맛사 (MATSA)",
+      "replacement_name": "파카르 (PAKHAR)",
+      "year_retired": 2005,
+      "affected_areas": "중국 본토"
+    },
+    {
+      "name": "나비 (NABI)",
+      "replacement_name": "독수리 (DOKSURI)",
+      "year_retired": 2005,
+      "affected_areas": "일본"
+    },
+    {
+      "name": "룽왕 (LONGWANG)",
+      "replacement_name": "하이쿠이 (HAIKUI)",
+      "year_retired": 2005,
+      "affected_areas": "대만, 중국 본토"
+    },
+    {
+      "name": "짠쯔 (CHANCHU)",
+      "replacement_name": "산바 (SANBA)",
+      "year_retired": 2006,
+      "affected_areas": "필리핀, 베트남, 중국 본토, 대만, 대한민국, 일본"
+    },
+    {
+      "name": "빌리스 (BILIS)",
+      "replacement_name": "말릭시 (MALIKSI)",
+      "year_retired": 2006,
+      "affected_areas": "필리핀, 대만, 중국 본토"
+    },
+    {
+      "name": "사오마이 (SAOMAI)",
+      "replacement_name": "손띤 (SON-TINH)",
+      "year_retired": 2006,
+      "affected_areas": "중국 본토"
+    },
+    {
+      "name": "상산 (XANGSANE)",
+      "replacement_name": "리피 (LEEPI)",
+      "year_retired": 2006,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "두리안 (DURIAN)",
+      "replacement_name": "망쿳 (MANKHUT)",
+      "year_retired": 2006,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "모라꼿 (MORAKOT)",
+      "replacement_name": "앗사니 (ATSANI)",
+      "year_retired": 2009,
+      "affected_areas": "필리핀, 대만, 중국 본토"
+    },
+    {
+      "name": "켓사나 (KETSANA)",
+      "replacement_name": "참피 (CHAMPI)",
+      "year_retired": 2009,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "파마 (PARMA)",
+      "replacement_name": "인파 (IN-FA)",
+      "year_retired": 2009,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "파나피 (FANAFI)",
+      "replacement_name": "라이 (RAI)",
+      "year_retired": 2010,
+      "affected_areas": "대만, 중국 본토"
+    },
+    {
+      "name": "와시 (WASHI)",
+      "replacement_name": "하토 (HATO)",
+      "year_retired": 2011,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "보파 (BOPHA)",
+      "replacement_name": "암필 (AMPIL)",
+      "year_retired": 2012,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "비센티 (VICENTE)",
+      "replacement_name": "란 (LAN)",
+      "year_retired": 2012,
+      "affected_areas": "홍콩, 중국 본토"
+    },
+    {
+      "name": "우토르 (UTOR)",
+      "replacement_name": "바리자트 (BARIJAT)",
+      "year_retired": 2013,
+      "affected_areas": "필리핀, 중국 본토"
+    },
+    {
+      "name": "피토 (FITOW)",
+      "replacement_name": "문 (MUN)",
+      "year_retired": 2013,
+      "affected_areas": "중국 본토"
+    },
+    {
+      "name": "하이옌 (HAIYAN)",
+      "replacement_name": "바이루 (BAILU)",
+      "year_retired": 2013,
+      "affected_areas": "필리핀, 중국 본토"
+    },
+    {
+      "name": "소나무 (SONAMU)",
+      "replacement_name": "종다리 (JONGDARI)",
+      "year_retired": 2013,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "람마순 (RAMASUN)",
+      "replacement_name": "부알로이 (BUALOI)",
+      "year_retired": 2014,
+      "affected_areas": "필리핀, 홍콩"
+    },
+    {
+      "name": "사우델로르 (SOUDELOR)",
+      "replacement_name": "사우델(SAUDEL)",
+      "year_retired": 2015,
+      "affected_areas": "필리핀, 대만, 중국 본토"
+    },
+    {
+      "name": "무지개 (MUJIGAE)",
+      "replacement_name": "수리개 (SURIGAE)",
+      "year_retired": 2015,
+      "affected_areas": "필리핀, 홍콩, 중국 본토"
+    },
+    {
+      "name": "곳푸 (KOPPU)",
+      "replacement_name": "고구마(KOGUMA)",
+      "year_retired": 2015,
+      "affected_areas": "필리핀, 대만"
+    },
+    {
+      "name": "멜로르 (MELOR)",
+      "replacement_name": "츰파카(CEMPAKA)",
+      "year_retired": 2015,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "므란티 (MERANTI)",
+      "replacement_name": "냐토(NYATOH)",
+      "year_retired": 2016,
+      "affected_areas": "필리핀, 대만, 중국 본토, 대한민국 (열대저압부 약화된 상태로 영향)"
+    },
+    {
+      "name": "사리카 (SARIKA)",
+      "replacement_name": "트라세(TRASES)",
+      "year_retired": 2016,
+      "affected_areas": "필리핀, 중국 본토, 홍콩"
+    },
+    {
+      "name": "하이마 (HAIMA)",
+      "replacement_name": "무란(MULAN)",
+      "year_retired": 2016,
+      "affected_areas": "필리핀, 중국 본토, 일본 (온대저기압 변질 후 영향)"
+    },
+    {
+      "name": "녹텐 (NOCK-TEN)",
+      "replacement_name": "힌남노(HINNAMNOR)",
+      "year_retired": 2016,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "하토 (HATO)",
+      "replacement_name": "야마네코(YAMANEKO)",
+      "year_retired": 2017,
+      "affected_areas": "중국 대륙, 홍콩, 베트남"
+    },
+    {
+      "name": "카이탁 (KAI-TAK)",
+      "replacement_name": "윈욍(YUN-YEUNG)",
+      "year_retired": 2017,
+      "affected_areas": "필리핀, 태국"
+    },
+    {
+      "name": "덴빈 (TEMBIN)",
+      "replacement_name": "고이누(KOINU)",
+      "year_retired": 2017,
+      "affected_areas": "필리핀, 말레이시아, 베트남"
+    },
+    {
+      "name": "룸비아 (RUMBIA)",
+      "replacement_name": "풀라산(PULASAN)",
+      "year_retired": 2018,
+      "affected_areas": "중국 대륙"
+    },
+    {
+      "name": "망쿳 (MANGKHUT)",
+      "replacement_name": "끄라톤(KRATHON)",
+      "year_retired": 2018,
+      "affected_areas": "필리핀, 중국 대륙, 홍콩, 베트남"
+    },
+    {
+      "name": "위투 (YUTU)",
+      "replacement_name": "인싱(YINXING)",
+      "year_retired": 2018,
+      "affected_areas": "괌, 필리핀"
+    },
+    {
+      "name": "레끼마 (LEKIMA)",
+      "replacement_name": "꼬마이(CO-MAY)",
+      "year_retired": 2019,
+      "affected_areas": "대만, 중국 대륙, 대한민국, 조선민주주의인민공화국"
+    },
+    {
+      "name": "파사이 (FAXAI)",
+      "replacement_name": "농파(NONGFA)",
+      "year_retired": 2019,
+      "affected_areas": "일본"
+    },
+    {
+      "name": "하기비스 (HAGIBIS)",
+      "replacement_name": "라가사(RAGASA)",
+      "year_retired": 2019,
+      "affected_areas": "일본, 대한민국"
+    },
+    {
+      "name": "간무리 (KAMMURI)",
+      "replacement_name": "고토(KOTO)",
+      "year_retired": 2019,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "판폰 (PHANFONE)",
+      "replacement_name": "노카엔(NOKAEN)",
+      "year_retired": 2019,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "봉퐁 (VONGFONG)",
+      "replacement_name": "페냐(PENHA)",
+      "year_retired": 2020,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "린파 (LINFA)",
+      "replacement_name": "페이러우(PEILOU)",
+      "year_retired": 2020,
+      "affected_areas": "베트남"
+    },
+    {
+      "name": "몰라베 (MOLAVE)",
+      "replacement_name": "나라(NARRA)",
+      "year_retired": 2020,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "고니 (GONI)",
+      "replacement_name": "개나리(GAENARI)",
+      "year_retired": 2020,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "밤꼬 (VAMCO)",
+      "replacement_name": "방랑(BANG-LANG)",
+      "year_retired": 2020,
+      "affected_areas": "필리핀, 베트남"
+    },
+    {
+      "name": "꼰선 (CONSON)",
+      "replacement_name": "룩빈(LUC-BINH)",
+      "year_retired": 2021,
+      "affected_areas": "필리핀, 중국 하이난성, 베트남"
+    },
+    {
+      "name": "곤파스 (KOMPASU)",
+      "replacement_name": "도케이(TOKEI)",
+      "year_retired": 2021,
+      "affected_areas": "필리핀, 대만, 일본 류큐 열도, 중국 남부, 베트남, 라오스"
+    },
+    {
+      "name": "라이 (RAI)",
+      "replacement_name": "사르불(SARBUL)",
+      "year_retired": 2021,
+      "affected_areas": "팔라우, 필리핀, 베트남, 중국 하이난성"
+    },
+    {
+      "name": "말라카스 (MALAKAS)",
+      "replacement_name": "아무야오(AMUYAO)",
+      "year_retired": 2022,
+      "affected_areas": "미크로네시아 연방, 일본 오가사와라 제도, 간토 지방, 러시아 캄차카반도, 알류샨 열도, 북마리아나 제도, 팔라우 동부"
+    },
+    {
+      "name": "메기 (MEGI)",
+      "replacement_name": "고사리(GOSARI)",
+      "year_retired": 2022,
+      "affected_areas": "필리핀"
+    },
+    {
+      "name": "망온 (MA-ON)",
+      "replacement_name": "칭마(TSINGMA)",
+      "year_retired": 2022,
+      "affected_areas": "필리핀, 중국 대륙, 베트남, 라오스"
+    },
+    {
+      "name": "힌남노 (HINNAMNOR)",
+      "replacement_name": "옹망(ONGMANG)",
+      "year_retired": 2022,
+      "affected_areas": "일본, 필리핀, 대만, 대한민국, 조선민주주의인민공화국, 러시아"
+    },
+    {
+      "name": "노루 (NORU)",
+      "replacement_name": "호두(HODU)",
+      "year_retired": 2022,
+      "affected_areas": "필리핀, 중국 (하이난성), 베트남, 태국, 말레이시아"
+    },
+    {
+      "name": "날개 (NALGAE)",
+      "replacement_name": "잠자리(JAMJARI)",
+      "year_retired": 2022,
+      "affected_areas": "미크로네시아, 팔라우, 대만, 베트남, 중국 본토 (하이난성), 홍콩, 마카오, 일본 사키지마제도, 대한민국"
+    },
+    {
+      "name": "독수리 (DOKSURI)",
+      "replacement_name": "보리(BORI)",
+      "year_retired": 2023,
+      "affected_areas": "필리핀, 대만, 일본, 중국 (동부)"
+    },
+    {
+      "name": "도라(DORA)",
+      "replacement_name": "",
+      "year_retired": 2023,
+      "affected_areas": ""
+    },
+    {
+      "name": "사올라 (SAOLA)",
+      "replacement_name": "사오비엔(SAOBIEN)",
+      "year_retired": 2023,
+      "affected_areas": "필리핀 (루손섬), 대만, 중국 (남부)"
+    },
+    {
+      "name": "하이쿠이 (HAIKUI)",
+      "replacement_name": "톈마(TIANMA)",
+      "year_retired": 2023,
+      "affected_areas": "미국 (북마리아나 제도), 일본 (사키지마제도), 대만, 중국 (푸젠성, 광둥성)"
+    },
+    {
+      "name": "에위니아 (EWINIAR)",
+      "replacement_name": "",
+      "year_retired": 2024,
+      "affected_areas": "필리핀, 일본 (다이토 제도, 이즈 제도), 미국 (알래스카)"
+    },
+    {
+      "name": "야기 (YAGI)",
+      "replacement_name": "",
+      "year_retired": 2024,
+      "affected_areas": "필리핀 (비사야 제도, 루손섬), 중국 (남서부), 대만 (핑동), 베트남 (북부), 라오스, 태국 (중북부), 미얀마 (북부)"
+    },
+    {
+      "name": "제비 (JEBI)",
+      "replacement_name": "",
+      "year_retired": 2024,
+      "affected_areas": "북마리아나 제도, 일본 (오가사와라 제도, 이즈 제도, 본토(간토, 도호쿠), 러시아 쿠릴 열도"
+    },
+    {
+      "name": "끄라톤 (KRATHON)",
+      "replacement_name": "",
+      "year_retired": 2024,
+      "affected_areas": "필리핀, 대만"
+    }
+  ],
+  "meta": {
+    "title": "폐기된 태풍 이름 목록 (2000년 이후) - Free Download",
+    "description": "태풍위원회가 큰 피해를 이유로 폐기한 태풍 이름과 대체된 이름, 폐기 연도, 영향을 준 지역 목록. Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "폐기된 태풍 이름 목록 (2000년 이후) | ListBase",
+    "seo_description": "Download 폐기된 태풍 이름 목록 (2000년 이후) — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/폐기된_태풍_이름의_목록"
+    ]
+  }
+}

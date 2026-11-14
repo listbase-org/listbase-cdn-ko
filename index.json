@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-14T02:11:01.167Z",
-  "total_datasets": 586,
-  "total_records": 460095,
+  "generated": "2026-11-14T02:11:12.752Z",
+  "total_datasets": 587,
+  "total_records": 460166,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "finance",
@@ -3234,6 +3234,31 @@
         "xlsx": {
           "name": "ko-pungsuhae_KO.xlsx",
           "size": 11032
+        }
+      }
+    },
+    {
+      "id": "ko-pyegidoen-taepung-ireum",
+      "name": "폐기된 태풍 이름 목록 (2000년 이후)",
+      "category": "environment",
+      "record_count": 71,
+      "columns": [
+        "name",
+        "replacement_name",
+        "year_retired",
+        "affected_areas"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/폐기된_태풍_이름의_목록",
+      "updated": "2026-11",
+      "size": 14681,
+      "files": {
+        "csv": {
+          "name": "ko-pyegidoen-taepung-ireum_KO.csv",
+          "size": 5921
+        },
+        "xlsx": {
+          "name": "ko-pyegidoen-taepung-ireum_KO.xlsx",
+          "size": 10512
         }
       }
     },
