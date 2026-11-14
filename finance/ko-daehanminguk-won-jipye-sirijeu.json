@@ -1,0 +1,424 @@
+{
+  "id": "ko-daehanminguk-won-jipye-sirijeu",
+  "name": "대한민국 원 지폐 시리즈별 목록 (1962년~현재)",
+  "title": "대한민국 원 지폐 시리즈별 목록 (1962년~현재)",
+  "description": "1962년 화폐개혁 이후 한국은행이 발행한 대한민국 원 지폐(1~5차 시리즈)의 권종, 액면, 크기, 색상, 앞·뒷면 도안, 발행일·발행중지일과 변경사항.",
+  "category": "finance",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_원",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_원",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "series",
+      "label": "Series",
+      "type": "string"
+    },
+    {
+      "key": "denomination_name",
+      "label": "Denomination Name",
+      "type": "string"
+    },
+    {
+      "key": "face_value",
+      "label": "Face Value",
+      "type": "string"
+    },
+    {
+      "key": "size",
+      "label": "Size",
+      "type": "string"
+    },
+    {
+      "key": "color",
+      "label": "Color",
+      "type": "string"
+    },
+    {
+      "key": "front_design",
+      "label": "Front Design",
+      "type": "string"
+    },
+    {
+      "key": "back_design",
+      "label": "Back Design",
+      "type": "string"
+    },
+    {
+      "key": "first_issued",
+      "label": "First Issued",
+      "type": "string"
+    },
+    {
+      "key": "discontinued",
+      "label": "Discontinued",
+      "type": "string"
+    },
+    {
+      "key": "changes",
+      "label": "Changes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "series": "1차 시리즈",
+      "denomination_name": "일원권",
+      "face_value": "₩1",
+      "size": "94 × 50 mm",
+      "color": "분홍색",
+      "front_design": "한국은행 휘장",
+      "back_design": "액면",
+      "first_issued": "1962년 6월 10일",
+      "discontinued": "1970년 5월 20일",
+      "changes": "영국 데라루 사가 만든 지폐"
+    },
+    {
+      "series": "1차 시리즈",
+      "denomination_name": "오원권",
+      "face_value": "₩5",
+      "size": "94 × 50 mm",
+      "color": "파란색",
+      "front_design": "한국은행 휘장",
+      "back_design": "액면",
+      "first_issued": "1962년 6월 10일",
+      "discontinued": "1969년 5월 1일",
+      "changes": "영국 데라루 사가 만든 지폐"
+    },
+    {
+      "series": "1차 시리즈",
+      "denomination_name": "십원권",
+      "face_value": "₩10",
+      "size": "108 × 54 mm",
+      "color": "초록색",
+      "front_design": "한국은행 휘장",
+      "back_design": "액면",
+      "first_issued": "1962년 6월 10일",
+      "discontinued": "1962년 9월 1일",
+      "changes": "영국 데라루 사가 만든 지폐"
+    },
+    {
+      "series": "1차 시리즈",
+      "denomination_name": "오십원권",
+      "face_value": "₩50",
+      "size": "156 × 66 mm",
+      "color": "주황색",
+      "front_design": "총석정",
+      "back_design": "봉화, 액면",
+      "first_issued": "1962년 6월 10일",
+      "discontinued": "1970년 5월 20일",
+      "changes": "영국 데라루 사가 만든 지폐"
+    },
+    {
+      "series": "1차 시리즈",
+      "denomination_name": "백원권",
+      "face_value": "₩100",
+      "size": "156 × 66 mm",
+      "color": "초록색",
+      "front_design": "독립문",
+      "back_design": "봉화, 액면",
+      "first_issued": "1962년 6월 10일",
+      "discontinued": "1969년 2월 14일",
+      "changes": "영국 데라루 사가 만든 지폐"
+    },
+    {
+      "series": "1차 시리즈",
+      "denomination_name": "오백원권",
+      "face_value": "₩500",
+      "size": "156 × 66 mm",
+      "color": "회색",
+      "front_design": "숭례문",
+      "back_design": "봉화, 액면",
+      "first_issued": "1962년 6월 10일",
+      "discontinued": "1967년 2월 3일",
+      "changes": "영국 데라루 사가 만든 지폐"
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "십전권",
+      "face_value": "₩0.1",
+      "size": "90 × 50 mm",
+      "color": "파란색",
+      "front_design": "액면",
+      "back_design": "액면",
+      "first_issued": "1962년 12월 1일",
+      "discontinued": "1980년 12월 1일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "오십전권",
+      "face_value": "₩0.5",
+      "size": "90 × 50 mm",
+      "color": "갈색",
+      "front_design": "액면",
+      "back_design": "액면",
+      "first_issued": "1962년 12월 1일",
+      "discontinued": "1980년 12월 1일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "십원권",
+      "face_value": "₩10",
+      "size": "140 × 63 mm",
+      "color": "자주색",
+      "front_design": "첨성대",
+      "back_design": "거북선",
+      "first_issued": "1962년 9월 21일",
+      "discontinued": "1973년 10월 30일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "오십원권",
+      "face_value": "₩50",
+      "size": "149 × 64 mm",
+      "color": "초록,주황,파란색",
+      "front_design": "파고다공원",
+      "back_design": "봉화, 무궁화",
+      "first_issued": "1969년 5월 21일",
+      "discontinued": "1973년 10월 30일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "백원권",
+      "face_value": "₩100",
+      "size": "156 × 66 mm",
+      "color": "초록색",
+      "front_design": "독립문",
+      "back_design": "경회루",
+      "first_issued": "1962년 11월 1일",
+      "discontinued": "1973년 10월 30일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "백원권",
+      "face_value": "₩100",
+      "size": "156 × 66 mm",
+      "color": "초록색",
+      "front_design": "세종대왕",
+      "back_design": "서울 한국은행 본관 (현재는 한국은행 화폐박물관 으로 사용되고 있음)",
+      "first_issued": "1965년 8월 14일",
+      "discontinued": "1980년 12월 1일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "오백원권",
+      "face_value": "₩500",
+      "size": "165 × 73 mm",
+      "color": "갈색",
+      "front_design": "숭례문",
+      "back_design": "거북선",
+      "first_issued": "1966년 8월 16일",
+      "discontinued": "1975년 5월 10일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "오천원권",
+      "face_value": "₩5,000",
+      "size": "167 × 77 mm",
+      "color": "갈색",
+      "front_design": "이이",
+      "back_design": "서울 한국은행 본관 (현재는 한국은행 화폐박물관으로 사용되고 있음)",
+      "first_issued": "1972년 7월 1일",
+      "discontinued": "1980년 12월 1일",
+      "changes": ""
+    },
+    {
+      "series": "2차 시리즈",
+      "denomination_name": "만원권",
+      "face_value": "₩10,000",
+      "size": "171 × 81 mm",
+      "color": "갈색",
+      "front_design": "세종대왕, 무궁화",
+      "back_design": "경복궁 근정전",
+      "first_issued": "1973년 6월 12일",
+      "discontinued": "1981년 11월 10일",
+      "changes": ""
+    },
+    {
+      "series": "3차 시리즈",
+      "denomination_name": "오백원권",
+      "face_value": "₩500",
+      "size": "159 × 69 mm",
+      "color": "초록색 과 분홍색",
+      "front_design": "이순신, 거북선",
+      "back_design": "현충사",
+      "first_issued": "1973년 9월 1일",
+      "discontinued": "1993년 5월 12일",
+      "changes": ""
+    },
+    {
+      "series": "3차 시리즈",
+      "denomination_name": "천원권",
+      "face_value": "₩1,000",
+      "size": "163 × 73 mm",
+      "color": "자주색",
+      "front_design": "이황, 무궁화",
+      "back_design": "도산서원",
+      "first_issued": "1975년 8월 14일",
+      "discontinued": "1993년 5월 12일",
+      "changes": ""
+    },
+    {
+      "series": "3차 시리즈",
+      "denomination_name": "오천원권",
+      "face_value": "₩5,000",
+      "size": "167 × 77 mm",
+      "color": "주황색",
+      "front_design": "이이",
+      "back_design": "오죽헌, 무궁화",
+      "first_issued": "1977년 6월 1일",
+      "discontinued": "1993년 5월 12일",
+      "changes": "용지에 3종류 색사 첨가"
+    },
+    {
+      "series": "3차 시리즈",
+      "denomination_name": "만원권",
+      "face_value": "₩10,000",
+      "size": "171 × 81 mm",
+      "color": "초록색",
+      "front_design": "세종대왕, 자격루",
+      "back_design": "경회루, 무궁화",
+      "first_issued": "1979년 6월 15일",
+      "discontinued": "1993년 5월 12일",
+      "changes": "용지에 3종류 색사 첨가"
+    },
+    {
+      "series": "4차 시리즈",
+      "denomination_name": "천원권",
+      "face_value": "₩1,000",
+      "size": "151 × 76 mm",
+      "color": "자주색",
+      "front_design": "이황 투호",
+      "back_design": "도산서원",
+      "first_issued": "1983년 6월 11일",
+      "discontinued": "2016년 6월 1일",
+      "changes": "앞뒤판맞춤, 시각장애인용 점자 신규 적용"
+    },
+    {
+      "series": "4차 시리즈",
+      "denomination_name": "오천원권",
+      "face_value": "₩5,000",
+      "size": "156 × 76 mm",
+      "color": "주황색",
+      "front_design": "이이 벼루",
+      "back_design": "오죽헌",
+      "first_issued": "1983년 6월 11일",
+      "discontinued": "2016년 6월 1일",
+      "changes": "앞뒤판맞춤, 시각장애인용 점자 신규 적용"
+    },
+    {
+      "series": "4차 시리즈",
+      "denomination_name": "오천원권",
+      "face_value": "₩5,000",
+      "size": "156 × 76 mm",
+      "color": "주황색",
+      "front_design": "이이 벼루",
+      "back_design": "오죽헌",
+      "first_issued": "2002년 6월 12일",
+      "discontinued": "2016년 6월 1일",
+      "changes": "홀로그램 문자가 인쇄된 부분노출은선, 숨은막대 신규 적용 숨은그림과 시각장애인용 점자 크기 확대 및 요판심도 강화"
+    },
+    {
+      "series": "4차 시리즈",
+      "denomination_name": "만원권",
+      "face_value": "₩10,000",
+      "size": "161 × 76 mm",
+      "color": "연두색",
+      "front_design": "세종대왕 자격루",
+      "back_design": "경회루",
+      "first_issued": "1983년 10월 8일",
+      "discontinued": "2016년 6월 1일",
+      "changes": "앞뒤판맞춤, 시각장애인용 점자 신규 적용"
+    },
+    {
+      "series": "4차 시리즈",
+      "denomination_name": "만원권",
+      "face_value": "₩10,000",
+      "size": "161 × 76 mm",
+      "color": "연두색",
+      "front_design": "세종대왕 자격루",
+      "back_design": "경회루",
+      "first_issued": "1994년 1월 20일",
+      "discontinued": "2016년 6월 1일",
+      "changes": "부분노출은선, 미세문자, 요판잠상, 광간섭무늬 등 신규 적용"
+    },
+    {
+      "series": "4차 시리즈",
+      "denomination_name": "만원권",
+      "face_value": "₩10,000",
+      "size": "161 × 76 mm",
+      "color": "연두색",
+      "front_design": "세종대왕 자격루",
+      "back_design": "경회루",
+      "first_issued": "2000년 6월 19일",
+      "discontinued": "2016년 6월 1일",
+      "changes": "색변환잉크, 돌출은화 신규 적용 부분노출은선 폭 확대 및 개수 축소, 숨은그림 크기 확대 광간섭무늬 제거"
+    },
+    {
+      "series": "5차 시리즈",
+      "denomination_name": "1천원권",
+      "face_value": "₩1,000",
+      "size": "136 × 68 mm",
+      "color": "하늘색",
+      "front_design": "이황 성균관 명륜당 매화",
+      "back_design": "정선 의 계상정거도",
+      "first_issued": "2007년 1월 22일",
+      "discontinued": "",
+      "changes": "색변환잉크, 부분노출은선, 요판잠상, 미세문자, 돌출은화 신규 적용 숨은그림, 앞뒤판맞춤, 볼록인쇄 효과 강화"
+    },
+    {
+      "series": "5차 시리즈",
+      "denomination_name": "5천원권",
+      "face_value": "₩5,000",
+      "size": "142 × 68 mm",
+      "color": "주황색",
+      "front_design": "이이 오죽헌 대나무",
+      "back_design": "신사임당 의 초충도",
+      "first_issued": "2006년 1월 2일",
+      "discontinued": "",
+      "changes": "홀로그램, 숨은은선, 요판잠상, 색변환잉크, 미세문자, 돌출은화 신규 적용 숨은그림, 앞뒤판맞춤, 숨은막대, 볼록인쇄 효과 강화"
+    },
+    {
+      "series": "5차 시리즈",
+      "denomination_name": "1만원권",
+      "face_value": "₩10,000",
+      "size": "148 × 68 mm",
+      "color": "초록색",
+      "front_design": "세종대왕 일월오봉도",
+      "back_design": "혼천시계 천상열차분야지도 보현산천문대 망원경",
+      "first_issued": "2007년 1월 22일",
+      "discontinued": "",
+      "changes": "홀로그램, 숨은은선(부분노출은선 대체), 숨은막대 신규 적용 색변환잉크, 요판잠상, 숨은그림, 앞뒤판맞춤, 볼록인쇄 효과 강화"
+    },
+    {
+      "series": "5차 시리즈",
+      "denomination_name": "5만원권",
+      "face_value": "₩50,000",
+      "size": "154 × 68 mm",
+      "color": "노란색",
+      "front_design": "신사임당 묵포도도 초충도수병",
+      "back_design": "어몽룡 의 월매도 이정 의 풍죽도",
+      "first_issued": "2009년 6월 23일",
+      "discontinued": "",
+      "changes": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 원 지폐 시리즈별 목록 (1962년~현재) - Free Download",
+    "description": "1962년 화폐개혁 이후 한국은행이 발행한 대한민국 원 지폐(1~5차 시리즈)의 권종, 액면, 크기, 색상, 앞·뒷면 도안, 발행일·발행중지일과 변경사항. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 원 지폐 시리즈별 목록 (1962년~현재) | ListBase",
+    "seo_description": "Download 대한민국 원 지폐 시리즈별 목록 (1962년~현재) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_원"
+    ]
+  }
+}

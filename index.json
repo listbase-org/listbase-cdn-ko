@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-14T02:10:39.302Z",
-  "total_datasets": 584,
-  "total_records": 460051,
+  "generated": "2026-11-14T02:10:49.836Z",
+  "total_datasets": 585,
+  "total_records": 460080,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "food",
@@ -3526,6 +3526,37 @@
         "xlsx": {
           "name": "ko-daegu-eunhaeng_KO.xlsx",
           "size": 6878
+        }
+      }
+    },
+    {
+      "id": "ko-daehanminguk-won-jipye-sirijeu",
+      "name": "대한민국 원 지폐 시리즈별 목록 (1962년~현재)",
+      "category": "finance",
+      "record_count": 29,
+      "columns": [
+        "series",
+        "denomination_name",
+        "face_value",
+        "size",
+        "color",
+        "front_design",
+        "back_design",
+        "first_issued",
+        "discontinued",
+        "changes"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_원",
+      "updated": "2026-11",
+      "size": 14477,
+      "files": {
+        "csv": {
+          "name": "ko-daehanminguk-won-jipye-sirijeu_KO.csv",
+          "size": 5887
+        },
+        "xlsx": {
+          "name": "ko-daehanminguk-won-jipye-sirijeu_KO.xlsx",
+          "size": 9429
         }
       }
     },
