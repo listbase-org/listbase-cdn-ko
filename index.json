@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-15T02:18:37.821Z",
-  "total_datasets": 588,
-  "total_records": 460218,
+  "generated": "2026-11-15T02:18:51.038Z",
+  "total_datasets": 589,
+  "total_records": 460243,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 16
+      "dataset_count": 17
     }
   ],
   "datasets": [
@@ -17930,6 +17930,33 @@
         "xlsx": {
           "name": "ko-cheukjeong-danwi-volume_KO.xlsx",
           "size": 9027
+        }
+      }
+    },
+    {
+      "id": "ko-si-jeopdueo",
+      "name": "SI 접두어 목록 (퀘타~퀙토)",
+      "category": "units",
+      "record_count": 25,
+      "columns": [
+        "name_ko",
+        "name_en",
+        "symbol",
+        "power_of_ten",
+        "decimal",
+        "adopted"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/SI_접두어",
+      "updated": "2026-11",
+      "size": 6205,
+      "files": {
+        "csv": {
+          "name": "ko-si-jeopdueo_KO.csv",
+          "size": 1506
+        },
+        "xlsx": {
+          "name": "ko-si-jeopdueo_KO.xlsx",
+          "size": 7916
         }
       }
     }

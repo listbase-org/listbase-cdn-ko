@@ -1,0 +1,256 @@
+{
+  "id": "ko-si-jeopdueo",
+  "name": "SI 접두어 목록 (퀘타~퀙토)",
+  "title": "SI 접두어 목록 (퀘타~퀙토)",
+  "description": "국제단위계(SI) 접두어의 한국어 이름, 영문 이름, 기호, 10의 거듭제곱, 십진 표기 및 채택 연도.",
+  "category": "units",
+  "source": "https://ko.wikipedia.org/wiki/SI_접두어",
+  "source_url": "https://ko.wikipedia.org/wiki/SI_접두어",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "name_ko",
+      "label": "Name Ko",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "power_of_ten",
+      "label": "Power Of Ten",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal",
+      "type": "string"
+    },
+    {
+      "key": "adopted",
+      "label": "Adopted",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_ko": "퀘타",
+      "name_en": "quetta",
+      "symbol": "Q",
+      "power_of_ten": "10^30",
+      "decimal": "1 000 000 000 000 000 000 000 000 000 000",
+      "adopted": 2022
+    },
+    {
+      "name_ko": "론나",
+      "name_en": "ronna",
+      "symbol": "R",
+      "power_of_ten": "10^27",
+      "decimal": "1 000 000 000 000 000 000 000 000 000",
+      "adopted": 2022
+    },
+    {
+      "name_ko": "요타",
+      "name_en": "yotta",
+      "symbol": "Y",
+      "power_of_ten": "10^24",
+      "decimal": "1 000 000 000 000 000 000 000 000",
+      "adopted": 1992
+    },
+    {
+      "name_ko": "제타",
+      "name_en": "zetta",
+      "symbol": "Z",
+      "power_of_ten": "10^21",
+      "decimal": "1 000 000 000 000 000 000 000",
+      "adopted": 1992
+    },
+    {
+      "name_ko": "엑사",
+      "name_en": "exa",
+      "symbol": "E",
+      "power_of_ten": "10^18",
+      "decimal": "1 000 000 000 000 000 000",
+      "adopted": 1975
+    },
+    {
+      "name_ko": "페타",
+      "name_en": "peta",
+      "symbol": "P",
+      "power_of_ten": "10^15",
+      "decimal": "1 000 000 000 000 000",
+      "adopted": 1975
+    },
+    {
+      "name_ko": "테라",
+      "name_en": "tera",
+      "symbol": "T",
+      "power_of_ten": "10^12",
+      "decimal": "1 000 000 000 000",
+      "adopted": 1960
+    },
+    {
+      "name_ko": "기가",
+      "name_en": "giga",
+      "symbol": "G",
+      "power_of_ten": "10^9",
+      "decimal": "1 000 000 000",
+      "adopted": 1960
+    },
+    {
+      "name_ko": "메가",
+      "name_en": "mega",
+      "symbol": "M",
+      "power_of_ten": "10^6",
+      "decimal": "1 000 000",
+      "adopted": 1960
+    },
+    {
+      "name_ko": "킬로",
+      "name_en": "kilo",
+      "symbol": "K",
+      "power_of_ten": "10^3",
+      "decimal": "1 000",
+      "adopted": 1796
+    },
+    {
+      "name_ko": "헥토",
+      "name_en": "hecto",
+      "symbol": "h",
+      "power_of_ten": "10^2",
+      "decimal": "100",
+      "adopted": 1796
+    },
+    {
+      "name_ko": "데카",
+      "name_en": "deca",
+      "symbol": "da",
+      "power_of_ten": "10^1",
+      "decimal": "10",
+      "adopted": 1795
+    },
+    {
+      "name_ko": "—",
+      "name_en": "",
+      "symbol": "—",
+      "power_of_ten": "10^0",
+      "decimal": "1",
+      "adopted": "—"
+    },
+    {
+      "name_ko": "데시",
+      "name_en": "deci",
+      "symbol": "d",
+      "power_of_ten": "10^-1",
+      "decimal": "0.1",
+      "adopted": 1795
+    },
+    {
+      "name_ko": "센티",
+      "name_en": "centi",
+      "symbol": "c",
+      "power_of_ten": "10^-2",
+      "decimal": "0.01",
+      "adopted": 1796
+    },
+    {
+      "name_ko": "밀리",
+      "name_en": "milli",
+      "symbol": "m",
+      "power_of_ten": "10^-3",
+      "decimal": "0.001",
+      "adopted": 1796
+    },
+    {
+      "name_ko": "마이크로",
+      "name_en": "micro",
+      "symbol": "μ",
+      "power_of_ten": "10^-6",
+      "decimal": "0.000 001",
+      "adopted": 1960
+    },
+    {
+      "name_ko": "나노",
+      "name_en": "nano",
+      "symbol": "n",
+      "power_of_ten": "10^-9",
+      "decimal": "0.000 000 001",
+      "adopted": 1960
+    },
+    {
+      "name_ko": "피코",
+      "name_en": "pico",
+      "symbol": "p",
+      "power_of_ten": "10^-12",
+      "decimal": "0.000 000 000 001",
+      "adopted": 1960
+    },
+    {
+      "name_ko": "펨토",
+      "name_en": "femto",
+      "symbol": "f",
+      "power_of_ten": "10^-15",
+      "decimal": "0.000 000 000 000 001",
+      "adopted": 1975
+    },
+    {
+      "name_ko": "아토",
+      "name_en": "atto",
+      "symbol": "a",
+      "power_of_ten": "10^-18",
+      "decimal": "0.000 000 000 000 000 001",
+      "adopted": 1975
+    },
+    {
+      "name_ko": "젭토",
+      "name_en": "zepto",
+      "symbol": "z",
+      "power_of_ten": "10^-21",
+      "decimal": "0.000 000 000 000 000 000 001",
+      "adopted": 1992
+    },
+    {
+      "name_ko": "욕토",
+      "name_en": "yocto",
+      "symbol": "y",
+      "power_of_ten": "10^-24",
+      "decimal": "0.000 000 000 000 000 000 000 001",
+      "adopted": 1992
+    },
+    {
+      "name_ko": "론토",
+      "name_en": "ronto",
+      "symbol": "r",
+      "power_of_ten": "10^-27",
+      "decimal": "0.000 000 000 000 000 000 000 000 001",
+      "adopted": 2022
+    },
+    {
+      "name_ko": "퀙토",
+      "name_en": "quecto",
+      "symbol": "q",
+      "power_of_ten": "10^-30",
+      "decimal": "0.000 000 000 000 000 000 000 000 000 001",
+      "adopted": 2022
+    }
+  ],
+  "meta": {
+    "title": "SI 접두어 목록 (퀘타~퀙토) - Free Download",
+    "description": "국제단위계(SI) 접두어의 한국어 이름, 영문 이름, 기호, 10의 거듭제곱, 십진 표기 및 채택 연도. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI 접두어 목록 (퀘타~퀙토) | ListBase",
+    "seo_description": "Download SI 접두어 목록 (퀘타~퀙토) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/SI_접두어"
+    ]
+  }
+}
