@@ -1,0 +1,392 @@
+{
+  "id": "ko-yeondobyeol-jasallyul",
+  "name": "대한민국 연도별 자살자 수 및 자살률 (1983~2024)",
+  "title": "대한민국 연도별 자살자 수 및 자살률 (1983~2024)",
+  "description": "대한민국의 연도별 자살자 수, 인구 10만 명당 자살률, 전년 대비 증감률, 하루 평균 자살자 수 및 OECD 순위 (통계청 사망원인통계 기준).",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_자살",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_자살",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "suicides",
+      "label": "Suicides",
+      "type": "number"
+    },
+    {
+      "key": "rate_per_100k",
+      "label": "Rate Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "change_yoy",
+      "label": "Change Yoy",
+      "type": "string"
+    },
+    {
+      "key": "daily_average",
+      "label": "Daily Average",
+      "type": "number"
+    },
+    {
+      "key": "oecd_rank",
+      "label": "Oecd Rank",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1983,
+      "suicides": 3471,
+      "rate_per_100k": 8.7,
+      "change_yoy": "",
+      "daily_average": 9.5,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1984,
+      "suicides": 3498,
+      "rate_per_100k": 8.7,
+      "change_yoy": "",
+      "daily_average": 9.6,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1985,
+      "suicides": 3802,
+      "rate_per_100k": 9.3,
+      "change_yoy": "",
+      "daily_average": 10.4,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1986,
+      "suicides": 3564,
+      "rate_per_100k": 8.6,
+      "change_yoy": "",
+      "daily_average": 9.8,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1987,
+      "suicides": 3425,
+      "rate_per_100k": 8.2,
+      "change_yoy": "",
+      "daily_average": 9.4,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1988,
+      "suicides": 3057,
+      "rate_per_100k": 7.3,
+      "change_yoy": "",
+      "daily_average": 8.4,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1989,
+      "suicides": 3133,
+      "rate_per_100k": 7.4,
+      "change_yoy": "",
+      "daily_average": 8.6,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1990,
+      "suicides": 3251,
+      "rate_per_100k": 7.6,
+      "change_yoy": "+0.2%",
+      "daily_average": 8.9,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1991,
+      "suicides": 3151,
+      "rate_per_100k": 7.3,
+      "change_yoy": "-0.3%",
+      "daily_average": 8.6,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1992,
+      "suicides": 3628,
+      "rate_per_100k": 8.3,
+      "change_yoy": "+1.0%",
+      "daily_average": 9.9,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1993,
+      "suicides": 4208,
+      "rate_per_100k": 9.4,
+      "change_yoy": "",
+      "daily_average": 11.5,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1994,
+      "suicides": 4277,
+      "rate_per_100k": 9.5,
+      "change_yoy": "",
+      "daily_average": 11.7,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1995,
+      "suicides": 4930,
+      "rate_per_100k": 10.8,
+      "change_yoy": "",
+      "daily_average": 13.5,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1996,
+      "suicides": 5959,
+      "rate_per_100k": 12.9,
+      "change_yoy": "",
+      "daily_average": 16.3,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1997,
+      "suicides": 6068,
+      "rate_per_100k": 13.1,
+      "change_yoy": "",
+      "daily_average": 16.6,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1998,
+      "suicides": 8622,
+      "rate_per_100k": 18.4,
+      "change_yoy": "",
+      "daily_average": 23.6,
+      "oecd_rank": ""
+    },
+    {
+      "year": 1999,
+      "suicides": 7056,
+      "rate_per_100k": 15,
+      "change_yoy": "",
+      "daily_average": 19.3,
+      "oecd_rank": ""
+    },
+    {
+      "year": 2000,
+      "suicides": 6444,
+      "rate_per_100k": 13.6,
+      "change_yoy": "",
+      "daily_average": 17.7,
+      "oecd_rank": ""
+    },
+    {
+      "year": 2001,
+      "suicides": 6911,
+      "rate_per_100k": 14.1,
+      "change_yoy": "+0.5%",
+      "daily_average": 18.9,
+      "oecd_rank": ""
+    },
+    {
+      "year": 2002,
+      "suicides": 8612,
+      "rate_per_100k": 17.9,
+      "change_yoy": "+3.8%",
+      "daily_average": 23.6,
+      "oecd_rank": ""
+    },
+    {
+      "year": 2003,
+      "suicides": 10898,
+      "rate_per_100k": 22.6,
+      "change_yoy": "+4.7%",
+      "daily_average": 29.9,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2004,
+      "suicides": 11492,
+      "rate_per_100k": 23.7,
+      "change_yoy": "+1.1%",
+      "daily_average": 31.5,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2005,
+      "suicides": 12011,
+      "rate_per_100k": 24.7,
+      "change_yoy": "+1.0%",
+      "daily_average": 32.9,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2006,
+      "suicides": 10653,
+      "rate_per_100k": 21.8,
+      "change_yoy": "-2.9%",
+      "daily_average": 29.2,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2007,
+      "suicides": 12174,
+      "rate_per_100k": 24.8,
+      "change_yoy": "+3.0%",
+      "daily_average": 33.4,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2008,
+      "suicides": 12858,
+      "rate_per_100k": 26,
+      "change_yoy": "+1.2%",
+      "daily_average": 35.2,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2009,
+      "suicides": 15413,
+      "rate_per_100k": 31,
+      "change_yoy": "+5.0%",
+      "daily_average": 42.2,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2010,
+      "suicides": 15566,
+      "rate_per_100k": 31.2,
+      "change_yoy": "+0.2%",
+      "daily_average": 42.6,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2011,
+      "suicides": 15906,
+      "rate_per_100k": 31.7,
+      "change_yoy": "+1.7%",
+      "daily_average": 43.6,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2012,
+      "suicides": 14160,
+      "rate_per_100k": 28.1,
+      "change_yoy": "-3.6%",
+      "daily_average": 38.8,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2013,
+      "suicides": 14427,
+      "rate_per_100k": 28.5,
+      "change_yoy": "+0.4%",
+      "daily_average": 39.5,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2014,
+      "suicides": 13836,
+      "rate_per_100k": 27.3,
+      "change_yoy": "-1.2%",
+      "daily_average": 37.9,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2015,
+      "suicides": 13513,
+      "rate_per_100k": 26.5,
+      "change_yoy": "-0.8%",
+      "daily_average": 37,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2016,
+      "suicides": 13092,
+      "rate_per_100k": 25.6,
+      "change_yoy": "-0.9%",
+      "daily_average": 35.9,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2017,
+      "suicides": 12463,
+      "rate_per_100k": 24.3,
+      "change_yoy": "-1.3%",
+      "daily_average": 34.1,
+      "oecd_rank": "2위"
+    },
+    {
+      "year": 2018,
+      "suicides": 13670,
+      "rate_per_100k": 26.6,
+      "change_yoy": "+2.3%",
+      "daily_average": 37.5,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2019,
+      "suicides": 13799,
+      "rate_per_100k": 26.9,
+      "change_yoy": "+0.3%",
+      "daily_average": 37.8,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2020,
+      "suicides": 13195,
+      "rate_per_100k": 25.7,
+      "change_yoy": "-1.2%",
+      "daily_average": 36.1,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2021,
+      "suicides": 13352,
+      "rate_per_100k": 26,
+      "change_yoy": "+0.3%",
+      "daily_average": 36.6,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2022,
+      "suicides": 12906,
+      "rate_per_100k": 25.2,
+      "change_yoy": "-1.9%",
+      "daily_average": 35.4,
+      "oecd_rank": ""
+    },
+    {
+      "year": 2023,
+      "suicides": 13978,
+      "rate_per_100k": 27.3,
+      "change_yoy": "+6.7%",
+      "daily_average": 38.3,
+      "oecd_rank": "1위"
+    },
+    {
+      "year": 2024,
+      "suicides": 14439,
+      "rate_per_100k": 28.3,
+      "change_yoy": "+2.9%",
+      "daily_average": 40,
+      "oecd_rank": "1위"
+    }
+  ],
+  "meta": {
+    "title": "대한민국 연도별 자살자 수 및 자살률 (1983~2024) - Free Download",
+    "description": "대한민국의 연도별 자살자 수, 인구 10만 명당 자살률, 전년 대비 증감률, 하루 평균 자살자 수 및 OECD 순위 (통계청 사망원인통계 기준). Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 연도별 자살자 수 및 자살률 (1983~2024) | ListBase",
+    "seo_description": "Download 대한민국 연도별 자살자 수 및 자살률 (1983~2024) — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_자살"
+    ]
+  }
+}

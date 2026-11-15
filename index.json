@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-15T02:19:01.002Z",
-  "total_datasets": 590,
-  "total_records": 460261,
+  "generated": "2026-11-15T02:19:12.723Z",
+  "total_datasets": 591,
+  "total_records": 460303,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "history",
@@ -7769,6 +7769,33 @@
         "xlsx": {
           "name": "ko-uigwa-daehak_KO.xlsx",
           "size": 8354
+        }
+      }
+    },
+    {
+      "id": "ko-yeondobyeol-jasallyul",
+      "name": "대한민국 연도별 자살자 수 및 자살률 (1983~2024)",
+      "category": "health",
+      "record_count": 42,
+      "columns": [
+        "year",
+        "suicides",
+        "rate_per_100k",
+        "change_yoy",
+        "daily_average",
+        "oecd_rank"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_자살",
+      "updated": "2026-11",
+      "size": 8987,
+      "files": {
+        "csv": {
+          "name": "ko-yeondobyeol-jasallyul_KO.csv",
+          "size": 1713
+        },
+        "xlsx": {
+          "name": "ko-yeondobyeol-jasallyul_KO.xlsx",
+          "size": 8280
         }
       }
     },
