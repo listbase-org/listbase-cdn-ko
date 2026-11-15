@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-15T02:18:51.038Z",
-  "total_datasets": 589,
-  "total_records": 460243,
+  "generated": "2026-11-15T02:19:01.002Z",
+  "total_datasets": 590,
+  "total_records": 460261,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "sports",
@@ -12896,6 +12896,36 @@
         "xlsx": {
           "name": "ko-seongssi-ingu_KO.xlsx",
           "size": 28252
+        }
+      }
+    },
+    {
+      "id": "ko-sido-gaguwonsubyeol-gagu-2020",
+      "name": "시·도별 가구원수별 일반가구 수 (2020 인구주택총조사)",
+      "category": "society",
+      "record_count": 18,
+      "columns": [
+        "sido",
+        "total_households",
+        "one_person",
+        "two_person",
+        "three_person",
+        "four_person",
+        "five_person",
+        "six_person",
+        "seven_plus"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+      "updated": "2026-11",
+      "size": 7253,
+      "files": {
+        "csv": {
+          "name": "ko-sido-gaguwonsubyeol-gagu-2020_KO.csv",
+          "size": 1631
+        },
+        "xlsx": {
+          "name": "ko-sido-gaguwonsubyeol-gagu-2020_KO.xlsx",
+          "size": 8112
         }
       }
     },

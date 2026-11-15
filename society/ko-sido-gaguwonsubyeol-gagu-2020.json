@@ -1,0 +1,269 @@
+{
+  "id": "ko-sido-gaguwonsubyeol-gagu-2020",
+  "name": "시·도별 가구원수별 일반가구 수 (2020 인구주택총조사)",
+  "title": "시·도별 가구원수별 일반가구 수 (2020 인구주택총조사)",
+  "description": "2020년 인구주택총조사 기준 전국 및 17개 시·도의 일반가구 수를 1인 가구부터 7인 이상 가구까지 가구원수별로 정리한 자료.",
+  "category": "society",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "total_households",
+      "label": "Total Households",
+      "type": "number"
+    },
+    {
+      "key": "one_person",
+      "label": "One Person",
+      "type": "number"
+    },
+    {
+      "key": "two_person",
+      "label": "Two Person",
+      "type": "number"
+    },
+    {
+      "key": "three_person",
+      "label": "Three Person",
+      "type": "number"
+    },
+    {
+      "key": "four_person",
+      "label": "Four Person",
+      "type": "number"
+    },
+    {
+      "key": "five_person",
+      "label": "Five Person",
+      "type": "number"
+    },
+    {
+      "key": "six_person",
+      "label": "Six Person",
+      "type": "number"
+    },
+    {
+      "key": "seven_plus",
+      "label": "Seven Plus",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sido": "전국",
+      "total_households": 20926710,
+      "one_person": 6643354,
+      "two_person": 5864525,
+      "three_person": 4200629,
+      "four_person": 3271315,
+      "five_person": 761417,
+      "six_person": 147172,
+      "seven_plus": 38298
+    },
+    {
+      "sido": "서울특별시",
+      "total_households": 3982290,
+      "one_person": 1390701,
+      "two_person": 1033901,
+      "three_person": 792690,
+      "four_person": 602791,
+      "five_person": 130122,
+      "six_person": 25770,
+      "seven_plus": 6315
+    },
+    {
+      "sido": "부산광역시",
+      "total_households": 1405037,
+      "one_person": 455207,
+      "two_person": 411455,
+      "three_person": 282233,
+      "four_person": 203769,
+      "five_person": 42608,
+      "six_person": 7874,
+      "seven_plus": 1891
+    },
+    {
+      "sido": "대구광역시",
+      "total_households": 985816,
+      "one_person": 304543,
+      "two_person": 276237,
+      "three_person": 205048,
+      "four_person": 159654,
+      "five_person": 33131,
+      "six_person": 5976,
+      "seven_plus": 1227
+    },
+    {
+      "sido": "인천광역시",
+      "total_households": 1147200,
+      "one_person": 324841,
+      "two_person": 316387,
+      "three_person": 251928,
+      "four_person": 198528,
+      "five_person": 44949,
+      "six_person": 8440,
+      "seven_plus": 2127
+    },
+    {
+      "sido": "광주광역시",
+      "total_households": 599217,
+      "one_person": 193948,
+      "two_person": 162403,
+      "three_person": 115978,
+      "four_person": 97323,
+      "five_person": 24613,
+      "six_person": 4011,
+      "seven_plus": 941
+    },
+    {
+      "sido": "대전광역시",
+      "total_households": 631208,
+      "one_person": 228842,
+      "two_person": 164795,
+      "three_person": 116989,
+      "four_person": 93698,
+      "five_person": 21883,
+      "six_person": 4034,
+      "seven_plus": 967
+    },
+    {
+      "sido": "울산광역시",
+      "total_households": 444087,
+      "one_person": 122848,
+      "two_person": 123591,
+      "three_person": 99739,
+      "four_person": 79489,
+      "five_person": 15447,
+      "six_person": 2398,
+      "seven_plus": 575
+    },
+    {
+      "sido": "세종특별자치시",
+      "total_households": 139106,
+      "one_person": 43577,
+      "two_person": 33204,
+      "three_person": 28307,
+      "four_person": 26415,
+      "five_person": 6328,
+      "six_person": 1029,
+      "seven_plus": 246
+    },
+    {
+      "sido": "경기도",
+      "total_households": 5098431,
+      "one_person": 1406010,
+      "two_person": 1350139,
+      "three_person": 1119823,
+      "four_person": 951370,
+      "five_person": 218173,
+      "six_person": 42094,
+      "seven_plus": 10822
+    },
+    {
+      "sido": "강원도",
+      "total_households": 661039,
+      "one_person": 231371,
+      "two_person": 206755,
+      "three_person": 117504,
+      "four_person": 79073,
+      "five_person": 20669,
+      "six_person": 4409,
+      "seven_plus": 1258
+    },
+    {
+      "sido": "충청북도",
+      "total_households": 678922,
+      "one_person": 236208,
+      "two_person": 198840,
+      "three_person": 122347,
+      "four_person": 91329,
+      "five_person": 24143,
+      "six_person": 4694,
+      "seven_plus": 1361
+    },
+    {
+      "sido": "충청남도",
+      "total_households": 892222,
+      "one_person": 304973,
+      "two_person": 264909,
+      "three_person": 159754,
+      "four_person": 121589,
+      "five_person": 32419,
+      "six_person": 6618,
+      "seven_plus": 1960
+    },
+    {
+      "sido": "전라북도",
+      "total_households": 755575,
+      "one_person": 255269,
+      "two_person": 233334,
+      "three_person": 134414,
+      "four_person": 96907,
+      "five_person": 27962,
+      "six_person": 5920,
+      "seven_plus": 1769
+    },
+    {
+      "sido": "전라남도",
+      "total_households": 761518,
+      "one_person": 256633,
+      "two_person": 251506,
+      "three_person": 131372,
+      "four_person": 87883,
+      "five_person": 26561,
+      "six_person": 5727,
+      "seven_plus": 1836
+    },
+    {
+      "sido": "경상북도",
+      "total_households": 1131819,
+      "one_person": 388791,
+      "two_person": 363061,
+      "three_person": 202539,
+      "four_person": 137092,
+      "five_person": 32174,
+      "six_person": 6388,
+      "seven_plus": 1774
+    },
+    {
+      "sido": "경상남도",
+      "total_households": 1350155,
+      "one_person": 417737,
+      "two_person": 399700,
+      "three_person": 270061,
+      "four_person": 205658,
+      "five_person": 46516,
+      "six_person": 8410,
+      "seven_plus": 2073
+    },
+    {
+      "sido": "제주특별자치도",
+      "total_households": 263068,
+      "one_person": 81855,
+      "two_person": 74308,
+      "three_person": 49903,
+      "four_person": 38747,
+      "five_person": 13719,
+      "six_person": 3380,
+      "seven_plus": 1156
+    }
+  ],
+  "meta": {
+    "title": "시·도별 가구원수별 일반가구 수 (2020 인구주택총조사) - Free Download",
+    "description": "2020년 인구주택총조사 기준 전국 및 17개 시·도의 일반가구 수를 1인 가구부터 7인 이상 가구까지 가구원수별로 정리한 자료. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "시·도별 가구원수별 일반가구 수 (2020 인구주택총조사) | ListBase",
+    "seo_description": "Download 시·도별 가구원수별 일반가구 수 (2020 인구주택총조사) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_인구"
+    ]
+  }
+}
