@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-14T02:11:12.752Z",
-  "total_datasets": 587,
-  "total_records": 460166,
+  "generated": "2026-11-15T02:18:37.821Z",
+  "total_datasets": 588,
+  "total_records": 460218,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "sports",
@@ -12763,6 +12763,33 @@
         "xlsx": {
           "name": "ko-gukmin-gwonik-wiwonjang_KO.xlsx",
           "size": 8089
+        }
+      }
+    },
+    {
+      "id": "ko-honin-ihon-geonsu-1970-2021",
+      "name": "대한민국 연도별 혼인·이혼 건수 (1970~2021)",
+      "category": "society",
+      "record_count": 52,
+      "columns": [
+        "year",
+        "marriages",
+        "crude_marriage_rate",
+        "divorces",
+        "crude_divorce_rate",
+        "provisional"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_인구",
+      "updated": "2026-11",
+      "size": 11127,
+      "files": {
+        "csv": {
+          "name": "ko-honin-ihon-geonsu-1970-2021_KO.csv",
+          "size": 2122
+        },
+        "xlsx": {
+          "name": "ko-honin-ihon-geonsu-1970-2021_KO.xlsx",
+          "size": 8548
         }
       }
     },
