@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-16T02:22:45.362Z",
-  "total_datasets": 593,
-  "total_records": 460359,
+  "generated": "2026-11-16T02:22:56.828Z",
+  "total_datasets": 594,
+  "total_records": 460374,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "tourism",
@@ -14204,6 +14204,36 @@
         "xlsx": {
           "name": "ko-pyeji-ginyeomil_KO.xlsx",
           "size": 8217
+        }
+      }
+    },
+    {
+      "id": "ko-sangdaejeok-sigan-pyohyeon",
+      "name": "한국어 상대적 시간 표현 (어제, 내일, 다음 주, 3일 전…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "danwi_code",
+        "danwi",
+        "jeonjeon",
+        "jeon",
+        "hyeonjae",
+        "daeum",
+        "dadaeum",
+        "mirae_pyohyeon",
+        "gwageo_pyohyeon"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/ko.xml",
+      "updated": "2026-11",
+      "size": 6798,
+      "files": {
+        "csv": {
+          "name": "ko-sangdaejeok-sigan-pyohyeon_KO.csv",
+          "size": 1631
+        },
+        "xlsx": {
+          "name": "ko-sangdaejeok-sigan-pyohyeon_KO.xlsx",
+          "size": 7863
         }
       }
     },

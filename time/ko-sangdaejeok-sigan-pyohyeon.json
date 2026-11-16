@@ -1,0 +1,236 @@
+{
+  "id": "ko-sangdaejeok-sigan-pyohyeon",
+  "name": "한국어 상대적 시간 표현 (어제, 내일, 다음 주, 3일 전…)",
+  "title": "한국어 상대적 시간 표현 (어제, 내일, 다음 주, 3일 전…)",
+  "description": "한국어의 상대적 시간 표현 — 그저께, 어제, 오늘, 내일, 모레, 지난달, 다음 주, “{0}일 후”, “{0}시간 전” — 을 시간 단위와 요일별로 정리한 목록 (Unicode CLDR ko 자료).",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/ko.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/ko.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "danwi_code",
+      "label": "Danwi Code",
+      "type": "string"
+    },
+    {
+      "key": "danwi",
+      "label": "Danwi",
+      "type": "string"
+    },
+    {
+      "key": "jeonjeon",
+      "label": "Jeonjeon",
+      "type": "string"
+    },
+    {
+      "key": "jeon",
+      "label": "Jeon",
+      "type": "string"
+    },
+    {
+      "key": "hyeonjae",
+      "label": "Hyeonjae",
+      "type": "string"
+    },
+    {
+      "key": "daeum",
+      "label": "Daeum",
+      "type": "string"
+    },
+    {
+      "key": "dadaeum",
+      "label": "Dadaeum",
+      "type": "string"
+    },
+    {
+      "key": "mirae_pyohyeon",
+      "label": "Mirae Pyohyeon",
+      "type": "string"
+    },
+    {
+      "key": "gwageo_pyohyeon",
+      "label": "Gwageo Pyohyeon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "danwi_code": "year",
+      "danwi": "년",
+      "jeonjeon": "",
+      "jeon": "작년",
+      "hyeonjae": "올해",
+      "daeum": "내년",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}년 후",
+      "gwageo_pyohyeon": "{0}년 전"
+    },
+    {
+      "danwi_code": "quarter",
+      "danwi": "분기",
+      "jeonjeon": "",
+      "jeon": "지난 분기",
+      "hyeonjae": "이번 분기",
+      "daeum": "다음 분기",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}분기 후",
+      "gwageo_pyohyeon": "{0}분기 전"
+    },
+    {
+      "danwi_code": "month",
+      "danwi": "월",
+      "jeonjeon": "",
+      "jeon": "지난달",
+      "hyeonjae": "이번 달",
+      "daeum": "다음 달",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}개월 후",
+      "gwageo_pyohyeon": "{0}개월 전"
+    },
+    {
+      "danwi_code": "week",
+      "danwi": "주",
+      "jeonjeon": "",
+      "jeon": "지난주",
+      "hyeonjae": "이번 주",
+      "daeum": "다음 주",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후",
+      "gwageo_pyohyeon": "{0}주 전"
+    },
+    {
+      "danwi_code": "day",
+      "danwi": "일",
+      "jeonjeon": "그저께",
+      "jeon": "어제",
+      "hyeonjae": "오늘",
+      "daeum": "내일",
+      "dadaeum": "모레",
+      "mirae_pyohyeon": "{0}일 후",
+      "gwageo_pyohyeon": "{0}일 전"
+    },
+    {
+      "danwi_code": "sun",
+      "danwi": "일요일",
+      "jeonjeon": "",
+      "jeon": "지난 일요일",
+      "hyeonjae": "이번 일요일",
+      "daeum": "다음 일요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 일요일",
+      "gwageo_pyohyeon": "{0}주 전 일요일"
+    },
+    {
+      "danwi_code": "mon",
+      "danwi": "월요일",
+      "jeonjeon": "",
+      "jeon": "지난 월요일",
+      "hyeonjae": "이번 월요일",
+      "daeum": "다음 월요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 월요일",
+      "gwageo_pyohyeon": "{0}주 전 월요일"
+    },
+    {
+      "danwi_code": "tue",
+      "danwi": "화요일",
+      "jeonjeon": "",
+      "jeon": "지난 화요일",
+      "hyeonjae": "이번 화요일",
+      "daeum": "다음 화요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 화요일",
+      "gwageo_pyohyeon": "{0}주 전 화요일"
+    },
+    {
+      "danwi_code": "wed",
+      "danwi": "수요일",
+      "jeonjeon": "",
+      "jeon": "지난 수요일",
+      "hyeonjae": "이번 수요일",
+      "daeum": "다음 수요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 수요일",
+      "gwageo_pyohyeon": "{0}주 전 수요일"
+    },
+    {
+      "danwi_code": "thu",
+      "danwi": "목요일",
+      "jeonjeon": "",
+      "jeon": "지난 목요일",
+      "hyeonjae": "이번 목요일",
+      "daeum": "다음 목요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 목요일",
+      "gwageo_pyohyeon": "{0}주 전 목요일"
+    },
+    {
+      "danwi_code": "fri",
+      "danwi": "금요일",
+      "jeonjeon": "",
+      "jeon": "지난 금요일",
+      "hyeonjae": "이번 금요일",
+      "daeum": "다음 금요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 금요일",
+      "gwageo_pyohyeon": "{0}주 전 금요일"
+    },
+    {
+      "danwi_code": "sat",
+      "danwi": "토요일",
+      "jeonjeon": "",
+      "jeon": "지난 토요일",
+      "hyeonjae": "이번 토요일",
+      "daeum": "다음 토요일",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}주 후 토요일",
+      "gwageo_pyohyeon": "{0}주 전 토요일"
+    },
+    {
+      "danwi_code": "hour",
+      "danwi": "시",
+      "jeonjeon": "",
+      "jeon": "",
+      "hyeonjae": "현재 시간",
+      "daeum": "",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}시간 후",
+      "gwageo_pyohyeon": "{0}시간 전"
+    },
+    {
+      "danwi_code": "minute",
+      "danwi": "분",
+      "jeonjeon": "",
+      "jeon": "",
+      "hyeonjae": "현재 분",
+      "daeum": "",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}분 후",
+      "gwageo_pyohyeon": "{0}분 전"
+    },
+    {
+      "danwi_code": "second",
+      "danwi": "초",
+      "jeonjeon": "",
+      "jeon": "",
+      "hyeonjae": "지금",
+      "daeum": "",
+      "dadaeum": "",
+      "mirae_pyohyeon": "{0}초 후",
+      "gwageo_pyohyeon": "{0}초 전"
+    }
+  ],
+  "meta": {
+    "title": "한국어 상대적 시간 표현 (어제, 내일, 다음 주, 3일 전…) - Free Download",
+    "description": "한국어의 상대적 시간 표현 — 그저께, 어제, 오늘, 내일, 모레, 지난달, 다음 주, “{0}일 후”, “{0}시간 전” — 을 시간 단위와 요일별로 정리한 목록 (Unicode CLDR ko 자료). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국어 상대적 시간 표현 (어제, 내일, 다음 주, 3일 전…) | ListBase",
+    "seo_description": "Download 한국어 상대적 시간 표현 (어제, 내일, 다음 주, 3일 전…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/ko.xml"
+    ]
+  }
+}
