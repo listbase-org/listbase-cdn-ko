@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-15T02:19:12.723Z",
-  "total_datasets": 591,
-  "total_records": 460303,
+  "generated": "2026-11-16T02:22:23.538Z",
+  "total_datasets": 592,
+  "total_records": 460328,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "music",
@@ -8503,6 +8503,31 @@
         "xlsx": {
           "name": "ko-beommu-janggwan_KO.xlsx",
           "size": 10107
+        }
+      }
+    },
+    {
+      "id": "ko-beophak-jeonmun-daehagwon",
+      "name": "대한민국의 법학전문대학원(로스쿨) 목록과 입학 정원",
+      "category": "law",
+      "record_count": 25,
+      "columns": [
+        "gwonyeok",
+        "gwangyeok_jachidanche",
+        "daehakgyo",
+        "ipak_jeongwon"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/법학전문대학원",
+      "updated": "2026-11",
+      "size": 5829,
+      "files": {
+        "csv": {
+          "name": "ko-beophak-jeonmun-daehagwon_KO.csv",
+          "size": 1436
+        },
+        "xlsx": {
+          "name": "ko-beophak-jeonmun-daehagwon_KO.xlsx",
+          "size": 7520
         }
       }
     },

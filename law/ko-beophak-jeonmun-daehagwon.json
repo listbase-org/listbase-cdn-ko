@@ -1,0 +1,196 @@
+{
+  "id": "ko-beophak-jeonmun-daehagwon",
+  "name": "대한민국의 법학전문대학원(로스쿨) 목록과 입학 정원",
+  "title": "대한민국의 법학전문대학원(로스쿨) 목록과 입학 정원",
+  "description": "대한민국에서 인가된 25개 법학전문대학원(로스쿨)의 권역, 소재 광역자치단체, 대학교 및 입학 정원 목록.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/법학전문대학원",
+  "source_url": "https://ko.wikipedia.org/wiki/법학전문대학원",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "gwangyeok_jachidanche",
+      "label": "Gwangyeok Jachidanche",
+      "type": "string"
+    },
+    {
+      "key": "daehakgyo",
+      "label": "Daehakgyo",
+      "type": "string"
+    },
+    {
+      "key": "ipak_jeongwon",
+      "label": "Ipak Jeongwon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "서울대학교",
+      "ipak_jeongwon": 150
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "고려대학교",
+      "ipak_jeongwon": 120
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "성균관대학교",
+      "ipak_jeongwon": 120
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "연세대학교",
+      "ipak_jeongwon": 120
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "이화여자대학교",
+      "ipak_jeongwon": 100
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "한양대학교",
+      "ipak_jeongwon": 100
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "경희대학교",
+      "ipak_jeongwon": 60
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "서울시립대학교",
+      "ipak_jeongwon": 50
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "중앙대학교",
+      "ipak_jeongwon": 50
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "한국외국어대학교",
+      "ipak_jeongwon": 50
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "건국대학교",
+      "ipak_jeongwon": 40
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "서울특별시",
+      "daehakgyo": "서강대학교",
+      "ipak_jeongwon": 40
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "강원특별자치도",
+      "daehakgyo": "강원대학교",
+      "ipak_jeongwon": 40
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "인천광역시",
+      "daehakgyo": "인하대학교",
+      "ipak_jeongwon": 50
+    },
+    {
+      "gwonyeok": "서울권",
+      "gwangyeok_jachidanche": "경기도",
+      "daehakgyo": "아주대학교",
+      "ipak_jeongwon": 50
+    },
+    {
+      "gwonyeok": "대전권",
+      "gwangyeok_jachidanche": "대전광역시",
+      "daehakgyo": "충남대학교",
+      "ipak_jeongwon": 100
+    },
+    {
+      "gwonyeok": "대전권",
+      "gwangyeok_jachidanche": "충청북도",
+      "daehakgyo": "충북대학교",
+      "ipak_jeongwon": 70
+    },
+    {
+      "gwonyeok": "대구권",
+      "gwangyeok_jachidanche": "대구광역시",
+      "daehakgyo": "경북대학교",
+      "ipak_jeongwon": 120
+    },
+    {
+      "gwonyeok": "대구권",
+      "gwangyeok_jachidanche": "경상북도",
+      "daehakgyo": "영남대학교",
+      "ipak_jeongwon": 70
+    },
+    {
+      "gwonyeok": "부산권",
+      "gwangyeok_jachidanche": "부산광역시",
+      "daehakgyo": "부산대학교",
+      "ipak_jeongwon": 120
+    },
+    {
+      "gwonyeok": "부산권",
+      "gwangyeok_jachidanche": "부산광역시",
+      "daehakgyo": "동아대학교",
+      "ipak_jeongwon": 80
+    },
+    {
+      "gwonyeok": "광주권",
+      "gwangyeok_jachidanche": "광주광역시",
+      "daehakgyo": "전남대학교",
+      "ipak_jeongwon": 120
+    },
+    {
+      "gwonyeok": "광주권",
+      "gwangyeok_jachidanche": "전북특별자치도",
+      "daehakgyo": "전북대학교",
+      "ipak_jeongwon": 80
+    },
+    {
+      "gwonyeok": "광주권",
+      "gwangyeok_jachidanche": "전북특별자치도",
+      "daehakgyo": "원광대학교",
+      "ipak_jeongwon": 60
+    },
+    {
+      "gwonyeok": "광주권",
+      "gwangyeok_jachidanche": "제주특별자치도",
+      "daehakgyo": "제주대학교",
+      "ipak_jeongwon": 40
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 법학전문대학원(로스쿨) 목록과 입학 정원 - Free Download",
+    "description": "대한민국에서 인가된 25개 법학전문대학원(로스쿨)의 권역, 소재 광역자치단체, 대학교 및 입학 정원 목록. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 법학전문대학원(로스쿨) 목록과 입학 정원 | ListBase",
+    "seo_description": "Download 대한민국의 법학전문대학원(로스쿨) 목록과 입학 정원 — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/법학전문대학원"
+    ]
+  }
+}
