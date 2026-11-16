@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-16T02:22:23.538Z",
-  "total_datasets": 592,
-  "total_records": 460328,
+  "generated": "2026-11-16T02:22:45.362Z",
+  "total_datasets": 593,
+  "total_records": 460359,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "education",
@@ -1083,6 +1083,32 @@
         "xlsx": {
           "name": "ko-jibang-gonggieop_KO.xlsx",
           "size": 10181
+        }
+      }
+    },
+    {
+      "id": "ko-jiha-jawon-maejangnyang",
+      "name": "대한민국의 지하자원(광물) 매장량",
+      "category": "economy",
+      "record_count": 31,
+      "columns": [
+        "gwangmul",
+        "maejangnyang_ton",
+        "chujeongnyang_ton",
+        "gachae_yeonsu_nyeon",
+        "saengsan_gwangsan_su"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_자원",
+      "updated": "2026-11",
+      "size": 7605,
+      "files": {
+        "csv": {
+          "name": "ko-jiha-jawon-maejangnyang_KO.csv",
+          "size": 1405
+        },
+        "xlsx": {
+          "name": "ko-jiha-jawon-maejangnyang_KO.xlsx",
+          "size": 7990
         }
       }
     },

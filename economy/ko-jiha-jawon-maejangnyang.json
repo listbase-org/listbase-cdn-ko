@@ -1,0 +1,268 @@
+{
+  "id": "ko-jiha-jawon-maejangnyang",
+  "name": "대한민국의 지하자원(광물) 매장량",
+  "title": "대한민국의 지하자원(광물) 매장량",
+  "description": "대한민국의 주요 광물(금, 은, 철, 석회석, 고령토 등)별 매장량(확인량+추정량, 톤), 추정량, 가채년수 및 생산 광산 수 (2022년 통계청 자료, 한국어 위키백과).",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_자원",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_자원",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "gwangmul",
+      "label": "Gwangmul",
+      "type": "string"
+    },
+    {
+      "key": "maejangnyang_ton",
+      "label": "Maejangnyang Ton",
+      "type": "number"
+    },
+    {
+      "key": "chujeongnyang_ton",
+      "label": "Chujeongnyang Ton",
+      "type": "number"
+    },
+    {
+      "key": "gachae_yeonsu_nyeon",
+      "label": "Gachae Yeonsu Nyeon",
+      "type": "number"
+    },
+    {
+      "key": "saengsan_gwangsan_su",
+      "label": "Saengsan Gwangsan Su",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "gwangmul": "금",
+      "maejangnyang_ton": 6200000,
+      "chujeongnyang_ton": 3778000,
+      "gachae_yeonsu_nyeon": 2.3,
+      "saengsan_gwangsan_su": 96
+    },
+    {
+      "gwangmul": "은",
+      "maejangnyang_ton": 8400000,
+      "chujeongnyang_ton": 4660000,
+      "gachae_yeonsu_nyeon": 1.6,
+      "saengsan_gwangsan_su": 13
+    },
+    {
+      "gwangmul": "구리",
+      "maejangnyang_ton": 2300000,
+      "chujeongnyang_ton": 2037500,
+      "gachae_yeonsu_nyeon": 0.1,
+      "saengsan_gwangsan_su": 27
+    },
+    {
+      "gwangmul": "납과 아연",
+      "maejangnyang_ton": 17200000,
+      "chujeongnyang_ton": 9368600,
+      "gachae_yeonsu_nyeon": "납 1.5/아연 0.4",
+      "saengsan_gwangsan_su": 31
+    },
+    {
+      "gwangmul": "철",
+      "maejangnyang_ton": 49600000,
+      "chujeongnyang_ton": 32200000,
+      "gachae_yeonsu_nyeon": 0.4,
+      "saengsan_gwangsan_su": 31
+    },
+    {
+      "gwangmul": "텅스텐",
+      "maejangnyang_ton": 16616700,
+      "chujeongnyang_ton": 9682800,
+      "gachae_yeonsu_nyeon": 73.8,
+      "saengsan_gwangsan_su": 17
+    },
+    {
+      "gwangmul": "몰리브덴",
+      "maejangnyang_ton": 7169600,
+      "chujeongnyang_ton": 3861000,
+      "gachae_yeonsu_nyeon": 1.3,
+      "saengsan_gwangsan_su": 4
+    },
+    {
+      "gwangmul": "망간",
+      "maejangnyang_ton": 360000,
+      "chujeongnyang_ton": 360000,
+      "gachae_yeonsu_nyeon": 0.1,
+      "saengsan_gwangsan_su": 2
+    },
+    {
+      "gwangmul": "안티몬",
+      "maejangnyang_ton": 22000,
+      "chujeongnyang_ton": 12000,
+      "gachae_yeonsu_nyeon": "",
+      "saengsan_gwangsan_su": 1
+    },
+    {
+      "gwangmul": "주석",
+      "maejangnyang_ton": 947000,
+      "chujeongnyang_ton": 907000,
+      "gachae_yeonsu_nyeon": "",
+      "saengsan_gwangsan_su": 1
+    },
+    {
+      "gwangmul": "희토류 금속",
+      "maejangnyang_ton": 25970000,
+      "chujeongnyang_ton": 15968000,
+      "gachae_yeonsu_nyeon": "",
+      "saengsan_gwangsan_su": 1
+    },
+    {
+      "gwangmul": "석회석",
+      "maejangnyang_ton": 12928099000,
+      "chujeongnyang_ton": 11540083300,
+      "gachae_yeonsu_nyeon": 111.8,
+      "saengsan_gwangsan_su": 274
+    },
+    {
+      "gwangmul": "납석",
+      "maejangnyang_ton": 72861200,
+      "chujeongnyang_ton": 72518200,
+      "gachae_yeonsu_nyeon": 156.1,
+      "saengsan_gwangsan_su": 32
+    },
+    {
+      "gwangmul": "규석",
+      "maejangnyang_ton": 2646946200,
+      "chujeongnyang_ton": 2634698400,
+      "gachae_yeonsu_nyeon": 452.9,
+      "saengsan_gwangsan_su": 246
+    },
+    {
+      "gwangmul": "장석",
+      "maejangnyang_ton": 102998800,
+      "chujeongnyang_ton": 102988400,
+      "gachae_yeonsu_nyeon": 213,
+      "saengsan_gwangsan_su": 52
+    },
+    {
+      "gwangmul": "고령토",
+      "maejangnyang_ton": 116537200,
+      "chujeongnyang_ton": 115262900,
+      "gachae_yeonsu_nyeon": 37.4,
+      "saengsan_gwangsan_su": 135
+    },
+    {
+      "gwangmul": "운모",
+      "maejangnyang_ton": 12477600,
+      "chujeongnyang_ton": 12477600,
+      "gachae_yeonsu_nyeon": 107,
+      "saengsan_gwangsan_su": 11
+    },
+    {
+      "gwangmul": "활석",
+      "maejangnyang_ton": 11106100,
+      "chujeongnyang_ton": 6174000,
+      "gachae_yeonsu_nyeon": 58.6,
+      "saengsan_gwangsan_su": 25
+    },
+    {
+      "gwangmul": "흑연",
+      "maejangnyang_ton": 2595500,
+      "chujeongnyang_ton": 2491500,
+      "gachae_yeonsu_nyeon": 167.6,
+      "saengsan_gwangsan_su": 14
+    },
+    {
+      "gwangmul": "형석",
+      "maejangnyang_ton": 477000,
+      "chujeongnyang_ton": 424000,
+      "gachae_yeonsu_nyeon": 3.2,
+      "saengsan_gwangsan_su": 38
+    },
+    {
+      "gwangmul": "불석",
+      "maejangnyang_ton": 29454600,
+      "chujeongnyang_ton": 29454600,
+      "gachae_yeonsu_nyeon": 88.2,
+      "saengsan_gwangsan_su": 16
+    },
+    {
+      "gwangmul": "규조토",
+      "maejangnyang_ton": 3427200,
+      "chujeongnyang_ton": 3427200,
+      "gachae_yeonsu_nyeon": 63,
+      "saengsan_gwangsan_su": 5
+    },
+    {
+      "gwangmul": "규회석",
+      "maejangnyang_ton": 4234500,
+      "chujeongnyang_ton": 4234500,
+      "gachae_yeonsu_nyeon": 118.7,
+      "saengsan_gwangsan_su": 7
+    },
+    {
+      "gwangmul": "명반석",
+      "maejangnyang_ton": 29299300,
+      "chujeongnyang_ton": 29299300,
+      "gachae_yeonsu_nyeon": "",
+      "saengsan_gwangsan_su": 4
+    },
+    {
+      "gwangmul": "사문석",
+      "maejangnyang_ton": 23393400,
+      "chujeongnyang_ton": 23393400,
+      "gachae_yeonsu_nyeon": 113.5,
+      "saengsan_gwangsan_su": 6
+    },
+    {
+      "gwangmul": "석면",
+      "maejangnyang_ton": 695500,
+      "chujeongnyang_ton": 571500,
+      "gachae_yeonsu_nyeon": "",
+      "saengsan_gwangsan_su": 5
+    },
+    {
+      "gwangmul": "석영 /자수정",
+      "maejangnyang_ton": 44,
+      "chujeongnyang_ton": "",
+      "gachae_yeonsu_nyeon": 850,
+      "saengsan_gwangsan_su": 3
+    },
+    {
+      "gwangmul": "중정석",
+      "maejangnyang_ton": 842100,
+      "chujeongnyang_ton": 231000,
+      "gachae_yeonsu_nyeon": 16.6,
+      "saengsan_gwangsan_su": 1
+    },
+    {
+      "gwangmul": "홍주석",
+      "maejangnyang_ton": 1041000,
+      "chujeongnyang_ton": 1041000,
+      "gachae_yeonsu_nyeon": 88.3,
+      "saengsan_gwangsan_su": 1
+    },
+    {
+      "gwangmul": "규사",
+      "maejangnyang_ton": 5848200,
+      "chujeongnyang_ton": 5848200,
+      "gachae_yeonsu_nyeon": 2.4,
+      "saengsan_gwangsan_su": 14
+    },
+    {
+      "gwangmul": "연옥",
+      "maejangnyang_ton": 115600,
+      "chujeongnyang_ton": 84400,
+      "gachae_yeonsu_nyeon": "",
+      "saengsan_gwangsan_su": 1
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 지하자원(광물) 매장량 - Free Download",
+    "description": "대한민국의 주요 광물(금, 은, 철, 석회석, 고령토 등)별 매장량(확인량+추정량, 톤), 추정량, 가채년수 및 생산 광산 수 (2022년 통계청 자료, 한국어 위키백과). Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 지하자원(광물) 매장량 | ListBase",
+    "seo_description": "Download 대한민국의 지하자원(광물) 매장량 — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_자원"
+    ]
+  }
+}
