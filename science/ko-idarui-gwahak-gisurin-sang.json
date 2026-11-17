@@ -1,0 +1,2816 @@
+{
+  "id": "ko-idarui-gwahak-gisurin-sang",
+  "name": "이달의 과학기술인상 역대 수상자",
+  "title": "이달의 과학기술인상 역대 수상자",
+  "description": "1997년부터 매월 선정된 이달의 과학기술인상 수상자의 수상 연월, 이름, 소속, 분야, 주요 공적 목록입니다.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/이달의_과학기술인상",
+  "source_url": "https://ko.wikipedia.org/wiki/이달의_과학기술인상",
+  "updated": "2026-11",
+  "record_count": 345,
+  "columns": [
+    {
+      "key": "nyeon",
+      "label": "Nyeon",
+      "type": "string"
+    },
+    {
+      "key": "wol",
+      "label": "Wol",
+      "type": "string"
+    },
+    {
+      "key": "susangja",
+      "label": "Susangja",
+      "type": "string"
+    },
+    {
+      "key": "sosok",
+      "label": "Sosok",
+      "type": "string"
+    },
+    {
+      "key": "bunya",
+      "label": "Bunya",
+      "type": "string"
+    },
+    {
+      "key": "gongjeok",
+      "label": "Gongjeok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nyeon": "1997년",
+      "wol": "4월",
+      "susangja": "이종민",
+      "sosok": "한국원자력연구소",
+      "bunya": "원자력",
+      "gongjeok": "원자력용 레이저 분광학 기술개발"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "5월",
+      "susangja": "김춘추",
+      "sosok": "가톨릭대학교 의과대학",
+      "bunya": "의학과",
+      "gongjeok": "난치성 혈액종양질환자의 골수이식 기술 확립"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "6월",
+      "susangja": "정수원",
+      "sosok": "웰텍",
+      "bunya": "조선해양공학",
+      "gongjeok": "조선산업의 용접공법 및 자동화 제조공법 연구개발"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "7월",
+      "susangja": "조순행",
+      "sosok": "한국에너지기술연구원 분리공정연구센터",
+      "bunya": "화공과",
+      "gongjeok": "에너지 절약형 압력흡착 가스분리 신공정 개발"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "8월",
+      "susangja": "이철훈",
+      "sosok": "한양대학교 의과대학",
+      "bunya": "인간유전학",
+      "gongjeok": "레지오넬라균 살균 무독성 신물질 개발"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "9월",
+      "susangja": "양현승",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "전자전산학과",
+      "gongjeok": "지능형 이동로봇 개발"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "10월",
+      "susangja": "이경광",
+      "sosok": "한국생명공학연구원 재생의학연구센타",
+      "bunya": "농학부",
+      "gongjeok": "락토페린을 대량 생산하는 형질전환 젖소 개발"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "11월",
+      "susangja": "박용수",
+      "sosok": "연세대학교 공과대학",
+      "bunya": "금속공학과",
+      "gongjeok": "초내식성 슈퍼스테인 레스강 개발 실용화"
+    },
+    {
+      "nyeon": "1997년",
+      "wol": "12월",
+      "susangja": "우종수",
+      "sosok": "한미약품(주)중앙연구소 제제연구센터",
+      "bunya": "약학",
+      "gongjeok": "면역억제제 싸이크로스포린제제 국내 최초개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "1월",
+      "susangja": "박종철",
+      "sosok": "한국표준과학연구원 양자물리연구실",
+      "bunya": "초전도체물리",
+      "gongjeok": "고온 초전도체 소재 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "2월",
+      "susangja": "윤인섭",
+      "sosok": "서울대학교 공과대학",
+      "bunya": "화학생물공학부",
+      "gongjeok": "MOSA 라는 화학공장의 조업용 동적모사기 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "3월",
+      "susangja": "도무회",
+      "sosok": "㈜온바이오",
+      "bunya": "농화학",
+      "gongjeok": "고순도 폴리덱스트로의 제조 공정 국산화"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "4월",
+      "susangja": "정일남",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "재료부",
+      "gongjeok": "규소화학에 대한 학술적 성과와 국내연구 수준 향상"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "5월",
+      "susangja": "황규영",
+      "sosok": "한국과학기술원(KAIST",
+      "bunya": "전산학과",
+      "gongjeok": "객체지향성 멀티미디어 ‘오디세우스’를 개발 상용화"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "6월",
+      "susangja": "김주한",
+      "sosok": "(주)터보테크기술연구소",
+      "bunya": "전기 및 전자공학과",
+      "gongjeok": "공작기계 선반/밀링용 CNC 콘트롤러 장치 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "7월",
+      "susangja": "유성은",
+      "sosok": "한국화학연구원 생체기능조절물질개발사업단",
+      "bunya": "화학",
+      "gongjeok": "고혈압제 2종의 신의약품을 국내최초로 개발 상업화"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "8월",
+      "susangja": "이진수",
+      "sosok": "포항공과대학교",
+      "bunya": "전기전자공학과",
+      "gongjeok": "철강산업의 후판제어 및 검출기술을 세계 최초 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "9월",
+      "susangja": "이정선",
+      "sosok": "현대자동차㈜제품개발연구소",
+      "bunya": "울산엔진 설계부",
+      "gongjeok": "1000cc이하 경차용 가솔린엔진을 독자 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "10월",
+      "susangja": "배규진",
+      "sosok": "한국건설기술연구원",
+      "bunya": "토목연구부",
+      "gongjeok": "터널기술의 신기술. 신공법 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "11월",
+      "susangja": "정제창",
+      "sosok": "한양대학교 공과대학",
+      "bunya": "전자전기컴퓨터공학부",
+      "gongjeok": "MPEG2 국제표준에 채택된 요소기술 개발"
+    },
+    {
+      "nyeon": "1998년",
+      "wol": "12월",
+      "susangja": "윤종은",
+      "sosok": "만도공조㈜ 위니아 사업본부",
+      "bunya": "기계공학과",
+      "gongjeok": "세계 최초의 김치 숙성기술 및 보관기술 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "1월",
+      "susangja": "강성규",
+      "sosok": "한국에너지기술연구원 선임연구부",
+      "bunya": "유체공학",
+      "gongjeok": "폐가스순환형 촉매연소 건조기 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "2월",
+      "susangja": "강헌",
+      "sosok": "서울대학교 자연과학대학",
+      "bunya": "화학부",
+      "gongjeok": "Cs+을 사용한 표면분석법 연구"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "3월",
+      "susangja": "이승호",
+      "sosok": "버추얼미디어",
+      "bunya": "전산학과",
+      "gongjeok": "그룹웨어 핸디오피스 개발 상용화"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "4월",
+      "susangja": "김희영",
+      "sosok": "한국화학연구원 마이크로파 화학기술연구팀",
+      "bunya": "화학공학과",
+      "gongjeok": "반도체용 다결정실리콘 제조 공정 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "5월",
+      "susangja": "황우석",
+      "sosok": "서울대학교 수의과대학",
+      "bunya": "수의학과",
+      "gongjeok": "체세포핵이식기법에 의한 고능력 젖소 복제 생산"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "6월",
+      "susangja": "이형우",
+      "sosok": "(주)마이다스 IT",
+      "bunya": "기계설계학과",
+      "gongjeok": "토목.건축분야 구조해석 및 최적설계용 프로그램 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "7월",
+      "susangja": "김동호",
+      "sosok": "연세대학교 이과대학",
+      "bunya": "화학과",
+      "gongjeok": "극초단 펄스 레이져를 이용한 초고속 현상의 규명"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "8월",
+      "susangja": "김형민",
+      "sosok": "원광대학교 약학대학",
+      "bunya": "한약학과",
+      "gongjeok": "알레르기반응의 비만세포 변형성인자 역할 규명"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "9월",
+      "susangja": "송원표",
+      "sosok": "효성중공업연구소 창원분소 전력팀 차단기파트",
+      "bunya": "전기공학",
+      "gongjeok": "765kVA급 초고압 대용량 가스절연 개폐장치 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "10월",
+      "susangja": "김국헌",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "전기공학과",
+      "gongjeok": "화력 및 원자력발전용 발전기 여자시스템 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "11월",
+      "susangja": "신성철",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "물리학과",
+      "gongjeok": "고밀도 정보저장 나노자성 다층박층 신소재 개발"
+    },
+    {
+      "nyeon": "1999년",
+      "wol": "12월",
+      "susangja": "김대기",
+      "sosok": "㈜인투젠",
+      "bunya": "약학",
+      "gongjeok": "제3세대 백금착제 항암제 선플라 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "1월",
+      "susangja": "이영욱",
+      "sosok": "연세대학교 이과대학",
+      "bunya": "천문우주학과",
+      "gongjeok": "우리 은하의 형성과 진화과정 규명"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "2월",
+      "susangja": "오태광",
+      "sosok": "한국생명공학연구원 미생물유전체연구실",
+      "bunya": "미생물효소",
+      "gongjeok": "환경오염예방 신규 효소 ‘파이타아제’ 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "3월",
+      "susangja": "이기원",
+      "sosok": "삼성전자㈜ CTO 전략실",
+      "bunya": "전기공학",
+      "gongjeok": "System-on-chip ASIC 기반 기술 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "4월",
+      "susangja": "박용기",
+      "sosok": "한국표준과학연구원 전자기표준부 초전도그룹",
+      "bunya": "재료공학",
+      "gongjeok": "초전도 SQUID를 이용한 심자도 측정장치 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "5월",
+      "susangja": "노태원",
+      "sosok": "서울대학교 자연과학대학",
+      "bunya": "물리·천문학부",
+      "gongjeok": "F램용 신소재 박막 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "6월",
+      "susangja": "홍창용",
+      "sosok": "LG화학기술연구원 생명과학부 신약연구소",
+      "bunya": "유기화학",
+      "gongjeok": "세계적 신약 차세대항생제 ‘Factive’ 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "7월",
+      "susangja": "박노상",
+      "sosok": "한국화학연구원 의약화학센터",
+      "bunya": "화학",
+      "gongjeok": "비마약성 진통제 연구 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "8월",
+      "susangja": "김기문",
+      "sosok": "포항공과대학교",
+      "bunya": "첨단재료과학부",
+      "gongjeok": "키랄 다공성 결정물질 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "9월",
+      "susangja": "오준남",
+      "sosok": "㈜만도 중앙연구소",
+      "bunya": "전자공학과",
+      "gongjeok": "전자제어 브레이크 장치 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "10월",
+      "susangja": "김은규",
+      "sosok": "한국과학기술연구원(KIST) 시스템연구부",
+      "bunya": "반도체물리학",
+      "gongjeok": "반도체 양자소자 및 단일전자 트랜지스터 개발"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "11월",
+      "susangja": "남홍길",
+      "sosok": "포항공과대학교",
+      "bunya": "융합생명공학부",
+      "gongjeok": "광주기적 개화시기조절 유전자의 분리 및 성질 규명"
+    },
+    {
+      "nyeon": "2000년",
+      "wol": "12월",
+      "susangja": "김종민",
+      "sosok": "삼성종합기술원 전자방출원연구단",
+      "bunya": "전기공학과",
+      "gongjeok": "전자방출소자를 이용한 대면적디지털 영상소자 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "1월",
+      "susangja": "백영준",
+      "sosok": "한국과학기술연구원(KIST) 미래기술연구본부",
+      "bunya": "재료공학과",
+      "gongjeok": "직류 플라즈마를 응용한 다이아몬드웨이퍼 합성기술"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "2월",
+      "susangja": "류한일",
+      "sosok": "서울대학교 공과대학",
+      "bunya": "재료공학부",
+      "gongjeok": "제로(0) 열기전력 세라믹 신소재 발견"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "3월",
+      "susangja": "이상엽",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생명화학공학",
+      "gongjeok": "광학적으로 순수한 정밀화학물질 군 생산기술 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "4월",
+      "susangja": "이현철",
+      "sosok": "연세대학교 의과대학 내과학교실",
+      "bunya": "당뇨병학",
+      "gongjeok": "당뇨병 유전자 치료법 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "5월",
+      "susangja": "이종욱",
+      "sosok": "㈜유한양행 중앙연구소",
+      "bunya": "약학",
+      "gongjeok": "새로운 위궤양 치료제 YH1885의 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "6월",
+      "susangja": "문대원",
+      "sosok": "한국표준과학연구원 나노표면그룹",
+      "bunya": "표면화학",
+      "gongjeok": "초박막 계면 정밀분석 기술 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "7월",
+      "susangja": "김낙산",
+      "sosok": "현대자동차(주) 연구개발본부 승용디젤엔진설계팀",
+      "bunya": "기계설계학과",
+      "gongjeok": "초저공해 저연비 승용디젤엔진 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "8월",
+      "susangja": "유룡",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "화학",
+      "gongjeok": "메조다공성 실리카 결정물질의 합성 및 구조결정"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "9월",
+      "susangja": "류성언",
+      "sosok": "한국생명공학연구원 세포스위치단백질구조연구단",
+      "bunya": "화학",
+      "gongjeok": "활성산소에 의한 세포기능 스위치 기작 규명"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "10월",
+      "susangja": "강용수",
+      "sosok": "한국과학기술연구원(KIST) 촉진수송분리막 연구단",
+      "bunya": "화학공학과",
+      "gongjeok": "환경 친화성. 에너지 절약형 분리막 개발"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "11월",
+      "susangja": "오병하",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생명과학과",
+      "gongjeok": "헬리코박터 파이롤리의 위장 내 생존 기작 규명"
+    },
+    {
+      "nyeon": "2001년",
+      "wol": "12월",
+      "susangja": "구본경",
+      "sosok": "만도 중앙(연) 제동시스템팀",
+      "bunya": "전자공학과",
+      "gongjeok": "자동차용 구동력 제어장치 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "1월",
+      "susangja": "송충의",
+      "sosok": "한국과학기술연구원(KIST) 생체과학연구부",
+      "bunya": "화학",
+      "gongjeok": "이온성 액체를 이용한 청정 광학활성화합물 제조기술"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "2월",
+      "susangja": "이성익",
+      "sosok": "포항공과대학교",
+      "bunya": "물리학과",
+      "gongjeok": "이붕소 마그네슘 초전도 박막 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "3월",
+      "susangja": "박충모",
+      "sosok": "금호생명 환경과학연구소",
+      "bunya": "생물과학과",
+      "gongjeok": "빛에 의한 식물생장 조절 원리의 규명"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "4월",
+      "susangja": "강대임",
+      "sosok": "한국표준과학연구원 물질량 표준부 나노표면그룹",
+      "bunya": "기계공학과",
+      "gongjeok": "힘표준기 정확도 절대평가 기술 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "5월",
+      "susangja": "남창희",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "물리학과",
+      "gongjeok": "펨토초 테라와트 레이저를 이용한 결맞는 X-선 발생"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "6월",
+      "susangja": "이원호",
+      "sosok": "LG화학기술연구원 고분자연구소 화학공정그룹",
+      "bunya": "화학공학과",
+      "gongjeok": "아크릴산 제조 촉매 상업화"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "7월",
+      "susangja": "김대준",
+      "sosok": "세종대학교 공과대학",
+      "bunya": "신소재공학과",
+      "gongjeok": "지르코니아 바이오 세라믹스의 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "8월",
+      "susangja": "현택환",
+      "sosok": "서울대학교",
+      "bunya": "화학생물공학부",
+      "gongjeok": "크기분리과정 없이 균일하고 결정성이 우수한 자기 나노입자 대량 생산 기술 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "9월",
+      "susangja": "한옥희",
+      "sosok": "한국기초과학지원연구원 대구센터 고체시료분석팀",
+      "bunya": "화학",
+      "gongjeok": "고체 핵자기 공명을 사용한 치환원소 위치측정법 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "10월",
+      "susangja": "박천홍",
+      "sosok": "한국기계연구원 지능형정밀기계연구부",
+      "bunya": "기계공학",
+      "gongjeok": "초정밀 위치결정용 stage의 운동정밀도 향상기술 개발"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "11월",
+      "susangja": "배석철",
+      "sosok": "충북대학교 의과대학",
+      "bunya": "유전자발현생화학",
+      "gongjeok": "위암억제 유전자의 발견"
+    },
+    {
+      "nyeon": "2002년",
+      "wol": "12월",
+      "susangja": "제정호",
+      "sosok": "포항공과대학교 신소재공학과 엑스선영상연구단",
+      "bunya": "재료공학과",
+      "gongjeok": "고해상 및 실시간 X선 투시 Microradio logy 기술개발"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "1월",
+      "susangja": "김재희",
+      "sosok": "한국원자력연구원 지능시스템연구실",
+      "bunya": "생산공학과",
+      "gongjeok": "원자로 자동 탐상 신기술 개발"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "2월",
+      "susangja": "김규원",
+      "sosok": "서울대학교",
+      "bunya": "분자의학 및 바이오제약학과",
+      "gongjeok": "혈관신생조절 단백질의 새로운 구조변형과 분해기전 규명"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "3월",
+      "susangja": "김형주",
+      "sosok": "한국바이오시스템 기업부설연구소",
+      "bunya": "생물공학과",
+      "gongjeok": "원천기술인 무매개체형 미생물연료전지를 이용한 BOD 계측기 개발"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "4월",
+      "susangja": "김종수",
+      "sosok": "한국천문연구원 응용천문연구부",
+      "bunya": "천문학과",
+      "gongjeok": "거대분자운의 형성에 관한 이론 연구"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "5월",
+      "susangja": "허남회",
+      "sosok": "서강대학교 자연과학대학",
+      "bunya": "화학전공",
+      "gongjeok": "거대자기저항 재료에서 reentrant spin glass 현상 최초로 발견"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "6월",
+      "susangja": "김선창",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생물과학과",
+      "gongjeok": "생물산업용 인공균주 개발"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "7월",
+      "susangja": "한장선",
+      "sosok": "(주)LG화학 기술 연구원/기능수지 연구소",
+      "bunya": "화학공학",
+      "gongjeok": "새로운 유화 중합 방법을 도입한 고효율 바인더의 제조 및 상업화"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "8월",
+      "susangja": "안치득",
+      "sosok": "한국전자통신연구원",
+      "bunya": "디지털전자공학",
+      "gongjeok": "멀티미디어 및 디지털 방송 분야 핵심 기술 개발 및 국제표준기술 확보"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "9월",
+      "susangja": "김성훈",
+      "sosok": "서울대학교",
+      "bunya": "분자의학 및 바이오제약학과",
+      "gongjeok": "Downregulation of fuse-binding protein c-myc by tRNA synthetase cofactor p38 is required for lung cell differentiation"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "10월",
+      "susangja": "김영주",
+      "sosok": "삼성전자(주) CTO전략실 소프트웨어센터",
+      "bunya": "계산통계학",
+      "gongjeok": "제3세대 이동통신 시스템 셀 용량 분석 및 무선망 설계 기술 개발"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "11월",
+      "susangja": "윤석진",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "재료연구부",
+      "gongjeok": "나노위치제어용 압전초음파 모터개발"
+    },
+    {
+      "nyeon": "2003년",
+      "wol": "12월",
+      "susangja": "김진곤",
+      "sosok": "포항공과대학교",
+      "bunya": "화학공학과",
+      "gongjeok": "특정온도 범위에서만 나노구조를 가지는 블록공중합체 개발"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "1월",
+      "susangja": "박영옥",
+      "sosok": "한국에너지기술연구원",
+      "bunya": "청정에너지연구부",
+      "gongjeok": "집진필터 고효율 및 복합기능 부여기술"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "2월",
+      "susangja": "오승훈",
+      "sosok": "SK(주) 정밀화학연구팀",
+      "bunya": "화학공학과",
+      "gongjeok": "트랜스 알킬화 촉매 상용화"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "3월",
+      "susangja": "신희섭",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "신경과학센터",
+      "gongjeok": "의식 차단 유전자의 통증 억제 메카니즘 규명"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "4월",
+      "susangja": "김충선",
+      "sosok": "연세대학교",
+      "bunya": "물리학과",
+      "gongjeok": "우주 속 존재하는 물질과 반물질의 비대칭성에 대한 새로운 가능성 탐구"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "5월",
+      "susangja": "성단근",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "전자전산학과 전기 및 전자공학전공",
+      "gongjeok": "직교 부호/자원 도약 다중화 방식"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "6월",
+      "susangja": "김진수",
+      "sosok": "(주)툴젠",
+      "bunya": "화학부",
+      "gongjeok": "유전자 조절 원천기술 개발 및 산업화"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "7월",
+      "susangja": "정광화",
+      "sosok": "충남대학교",
+      "bunya": "반도체물리학",
+      "gongjeok": "72개 항목의 진공특성 평가 기술 개발 및 진공기술 정보 보급"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "8월",
+      "susangja": "최수경",
+      "sosok": "경상대학교",
+      "bunya": "물리학과",
+      "gongjeok": "벨실험에서 새로운 입자-X(3872)발견 에서 주도적인 역할을 함"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "9월",
+      "susangja": "박준택",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "화학과",
+      "gongjeok": "플러렌 - 금속뭉치화합물의 합성, 반응성 및 전기화학적 성질 규명"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "10월",
+      "susangja": "박용조",
+      "sosok": "삼성종합기술원 Photonics Lab",
+      "bunya": "금속공학과",
+      "gongjeok": "차세대 광기록 기기용 405nm파장의 45mWLaserDiode개발"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "11월",
+      "susangja": "안지환",
+      "sosok": "한국지질자원연구원 자원활용소재연구부",
+      "bunya": "광물처리공학",
+      "gongjeok": "석회석을 원료로 한 고기능성 침강성 탄산칼슘 제조 기술 개발"
+    },
+    {
+      "nyeon": "2004년",
+      "wol": "12월",
+      "susangja": "이상열",
+      "sosok": "경상대학교",
+      "bunya": "응용생명과학부",
+      "gongjeok": "환경 스트레스에 대한 퍼록시레독신 단백질의 두 가지 기능조절에 의한 생체방어 기전연구"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "1월",
+      "susangja": "박수진",
+      "sosok": "한국화학연구원 화학소재연구부",
+      "bunya": "화학과",
+      "gongjeok": "LNG선박용 초저온형 접착실링제 기술개발"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "2월",
+      "susangja": "이용희",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "물리학과",
+      "gongjeok": "전류구동 단세포 광자결정 레이저"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "3월",
+      "susangja": "이기용",
+      "sosok": "삼성에스디아이(주)중앙연구소 개발1팀",
+      "bunya": "재료역학과",
+      "gongjeok": "세계최초 유기EL 디스플레이용 저온폴리 실리콘 新 결정화 기술개발 및 이를 적용한 유기EL디스플레이 개발"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "4월",
+      "susangja": "강성철",
+      "sosok": "한국과학기술연구원(KIST) 지능로봇센터",
+      "bunya": "로봇공학",
+      "gongjeok": "신개념 험지주행 메커니즘을 갖는 위험작업 로봇롭해즈 (ROBHAZ) 개발 및 실용화"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "5월",
+      "susangja": "한탁돈",
+      "sosok": "연세대학교",
+      "bunya": "컴퓨터과학과",
+      "gongjeok": "컬러기반 이미지 센서 연구"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "6월",
+      "susangja": "안규홍",
+      "sosok": "한국과학기술연구원(KIST) 환경공정연구부",
+      "bunya": "토목공학과",
+      "gongjeok": "상수원 보전 및 하천수질 개선을 위한 신기술 개발"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "7월",
+      "susangja": "남원우",
+      "sosok": "이화여자대학교",
+      "bunya": "나노과학부/화학전공",
+      "gongjeok": "산소화 효소의 중간체 생성 규명"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "8월",
+      "susangja": "백융기",
+      "sosok": "연세대학교 일반대학원",
+      "bunya": "의생명과학과",
+      "gongjeok": "선충의 장수유도 다우몬의 최초 발견과 합성방법 개발"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "9월",
+      "susangja": "이흔",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생명화학공학과",
+      "gongjeok": "물로 이루어진 얼음입자내의 수소저장 현상 규명"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "10월",
+      "susangja": "김진석",
+      "sosok": "한국표준과학연구원 삶의질표준부",
+      "bunya": "화학과",
+      "gongjeok": "공기조성 오류 발견으로 공기밀도를 재정의"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "11월",
+      "susangja": "박재근",
+      "sosok": "한양대학교",
+      "bunya": "융합전자공학부",
+      "gongjeok": "차세대 정보통신 반도체용 고성능 나노 SOI 기술개발"
+    },
+    {
+      "nyeon": "2005년",
+      "wol": "12월",
+      "susangja": "임기홍",
+      "sosok": "포항공과대학교",
+      "bunya": "전자전기공학과",
+      "gongjeok": "단일 및 다중반송파 통신방식 표준기술 개발"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "1월",
+      "susangja": "우정원",
+      "sosok": "이화여자대학교",
+      "bunya": "화학·나노과학전공",
+      "gongjeok": "3차원 광자결정의 제조와 액정을 이용한 밴드갭의 조절"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "2월",
+      "susangja": "권식철",
+      "sosok": "한국기계연구원부설 재료연구소",
+      "bunya": "신소재공학과",
+      "gongjeok": "장축 고압 실린더 내면의 내마모 코팅기술 개발"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "3월",
+      "susangja": "이명수",
+      "sosok": "서울대학교",
+      "bunya": "화학부",
+      "gongjeok": "양친매성 Rigid-Flexible Macrocycle 분자들의 자기 조립을 통한 초분자 튜브의 형성"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "4월",
+      "susangja": "김경규",
+      "sosok": "성균관대학교",
+      "bunya": "의학과",
+      "gongjeok": "DNA의 B형/Z형 연결부위 삼차원 구조 규명"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "5월",
+      "susangja": "김진근",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "건설·환경공학과",
+      "gongjeok": "콘크리트 균열 제어 평가 시스템 개발"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "6월",
+      "susangja": "서영준",
+      "sosok": "서울대학교",
+      "bunya": "분자의학 및 바이오제약학과",
+      "gongjeok": "분자지표를 이용한 발암제어 기술 구축 및 이를 기반 으로 하는 암예방 식품소재 탐색 및 작용 기전 규명"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "7월",
+      "susangja": "최양규",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "전기전자과",
+      "gongjeok": "세계 최소형 3nm급 나노전자소자(FinFET) 개발"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "8월",
+      "susangja": "염한웅",
+      "sosok": "포항공과대학교",
+      "bunya": "물리학과",
+      "gongjeok": "금속 원자선의 특이 상전이 세계 최초 발견"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "9월",
+      "susangja": "금종해",
+      "sosok": "고등과학원(한국과학기술원부설)",
+      "bunya": "수학부",
+      "gongjeok": "K3 곡면의 유한 대칭군의 분류"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "10월",
+      "susangja": "이종호",
+      "sosok": "서울대학교",
+      "bunya": "전기·컴퓨터공학부군",
+      "gongjeok": "고집적/고성능 3차원 CMOS 소자"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "11월",
+      "susangja": "하창식",
+      "sosok": "부산대학교",
+      "bunya": "고분자공학과",
+      "gongjeok": "고도로 규칙성있는 큰 나노기공 구조의 유기-무기 하이브리드 재료 개발"
+    },
+    {
+      "nyeon": "2006년",
+      "wol": "12월",
+      "susangja": "정종경",
+      "sosok": "서울대학교",
+      "bunya": "생명과학부",
+      "gongjeok": "파킨슨병의 분자메카니즘 규명"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "1월",
+      "susangja": "박석순",
+      "sosok": "이화여자대학교",
+      "bunya": "환경공학과",
+      "gongjeok": "팔당호 수리 및 수질 특성 규명을 위한 모델 연구"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "2월",
+      "susangja": "홍성민",
+      "sosok": "인하대학교",
+      "bunya": "생명해양과학부",
+      "gongjeok": "빙하연구를 위한 세계적 수준의 핵심 기반 기술 개발"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "3월",
+      "susangja": "안광석",
+      "sosok": "서울대학교",
+      "bunya": "생명과학부",
+      "gongjeok": "면역시스템이 병든 세포만을 색출하여 공격하는 원리 규명"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "4월",
+      "susangja": "이문호",
+      "sosok": "포항공과대학교",
+      "bunya": "첨단재료과학부",
+      "gongjeok": "초저유전 고분자 나노소재 및 방사광 X-선 나노분석 기술 개발"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "5월",
+      "susangja": "신성우",
+      "sosok": "한양대학교",
+      "bunya": "건축학부",
+      "gongjeok": "지속가능한 초고층건축물 구법시스템 개발"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "6월",
+      "susangja": "이일항",
+      "sosok": "인하대학교",
+      "bunya": "정보통신공학부",
+      "gongjeok": "“광(光)인쇄회로기판(O-PCB)\" 개발"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "7월",
+      "susangja": "정용환",
+      "sosok": "한국원자력연구원 첨단노심재료개발랩",
+      "bunya": "재료공학과",
+      "gongjeok": "고성능 지르코늄 합금(HANATM Alloy) 개발"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "8월",
+      "susangja": "서판길",
+      "sosok": "울산과학기술대학교",
+      "bunya": "풍수명리과",
+      "gongjeok": "성장 호르몬 신호 조절 과정의 핵심 매커니즘 규명"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "9월",
+      "susangja": "한정호",
+      "sosok": "충북대학교",
+      "bunya": "물리학과",
+      "gongjeok": "새로운 방법을 통한 외계행성 발견"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "10월",
+      "susangja": "김환규",
+      "sosok": "고려대학교",
+      "bunya": "신소재화학과",
+      "gongjeok": "고효율 광증폭 나노소재의 신합성법 개발 및 원리규명을 위한 분광학 연구"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "11월",
+      "susangja": "선우명호",
+      "sosok": "한양대학교",
+      "bunya": "미래자동차공학과",
+      "gongjeok": "네트워크기반 차세대 자동차 전자제어시스템 설계 기술"
+    },
+    {
+      "nyeon": "2007년",
+      "wol": "12월",
+      "susangja": "지선하",
+      "sosok": "연세대학교 보건대학원",
+      "bunya": "보건대학",
+      "gongjeok": "비만이 사망에 미치는 영향"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "1월",
+      "susangja": "이문호",
+      "sosok": "전북대학교",
+      "bunya": "전자정보공학부",
+      "gongjeok": "세계 최초 Jacket 행렬 발견과 이동통신 최적코드 설계"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "2월",
+      "susangja": "김선기",
+      "sosok": "서울대학교",
+      "bunya": "물리·천문학부",
+      "gongjeok": "암흑물질 탐색실험"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "3월",
+      "susangja": "김성준",
+      "sosok": "한국기계연구원 부설 재료연구소",
+      "bunya": "철강학과",
+      "gongjeok": "자동차용 첨단 고강도 철강재료 및 일체화 성형 부품 개발"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "4월",
+      "susangja": "이지오",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "나노과학기술학과",
+      "gongjeok": "TLR 수용체 구조규명"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "5월",
+      "susangja": "김병현",
+      "sosok": "포항공과대학교",
+      "bunya": "융합생명공학부",
+      "gongjeok": "새로운 핵산 분석을 위한 무소광체 분자 비콘 개발"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "6월",
+      "susangja": "오병권",
+      "sosok": "서울대학교",
+      "bunya": "수리과학부",
+      "gongjeok": "n-정규형식과 n -보편형식에 대한 연구"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "7월",
+      "susangja": "이원재",
+      "sosok": "이화여자대학교",
+      "bunya": "생명과학과",
+      "gongjeok": "장내세균 공생원리 규명"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "8월",
+      "susangja": "이응숙",
+      "sosok": "한국기계연구원 나노기계연구본부",
+      "bunya": "기계공학부",
+      "gongjeok": "대면적 나노임프린트 공정 및 응용기술개발"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "9월",
+      "susangja": "박남규",
+      "sosok": "성균관대학교",
+      "bunya": "화학공학부",
+      "gongjeok": "염료감응 태양전지 핵심기술개발 및 산업화 연구"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "10월",
+      "susangja": "안순일",
+      "sosok": "연세대학교",
+      "bunya": "대기과학과",
+      "gongjeok": "지구온난화에 따른 엘니뇨의 변동 메커니즘 규명"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "11월",
+      "susangja": "박광성",
+      "sosok": "전남대학교",
+      "bunya": "의과학과 비뇨기과학교실",
+      "gongjeok": "아쿠아포린 수분이동통로에 의한 질윤활작용 기전"
+    },
+    {
+      "nyeon": "2008년",
+      "wol": "12월",
+      "susangja": "백운규",
+      "sosok": "한양대학교",
+      "bunya": "신소재공학부 에너지공학과",
+      "gongjeok": "수계 리튬2차전지용 음극재료 및 공정의 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "1월",
+      "susangja": "원종필",
+      "sosok": "건국대학교",
+      "bunya": "사회환경시스템공학과",
+      "gongjeok": "콘크리트 구조물의 성능향상을 위한 고성능 복합재료의 개발 및 적용"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "2월",
+      "susangja": "유범재",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "인지로봇연구단",
+      "gongjeok": "전신운동하는 실시간 원격제어 네트워크 기반 인간형 로봇 <마루> 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "3월",
+      "susangja": "오우택",
+      "sosok": "서울대학교",
+      "bunya": "분자의학 및 바이오제약학과",
+      "gongjeok": "새로운 염소채널인 ANOCTAMIN1의 클로닝과 기능연구"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "4월",
+      "susangja": "장태현",
+      "sosok": "포항공과대학교",
+      "bunya": "화학과",
+      "gongjeok": "고분자의 정밀 분리/분석 방법 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "5월",
+      "susangja": "이병택",
+      "sosok": "순천향대학교",
+      "bunya": "의학과",
+      "gongjeok": "세라믹 미세조직 제어 및 다중압출 공정 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "6월",
+      "susangja": "김상국",
+      "sosok": "서울대학교",
+      "bunya": "재료공학부",
+      "gongjeok": "자기소용돌이 동역학 정립 및 스핀파의 핵심원천 기술 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "7월",
+      "susangja": "김영준",
+      "sosok": "연세대학교",
+      "bunya": "의생명과학과",
+      "gongjeok": "유전자 발현의 후성유전학적 조절기전"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "8월",
+      "susangja": "이필호",
+      "sosok": "강원대학교",
+      "bunya": "유기화학",
+      "gongjeok": "인듐 금속을 이용한 새로운 유기반응의 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "9월",
+      "susangja": "이병호",
+      "sosok": "서울대학교",
+      "bunya": "전기.컴퓨터공학부",
+      "gongjeok": "입체 디스플레이를 위한 광학 시스템 및 영상처리 기술의 연구"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "10월",
+      "susangja": "김승우",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "기계항공시스템학부",
+      "gongjeok": "극초단 레이저를 이용한 플라즈몬 공명 기반 극자외선 레이저의 개발"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "11월",
+      "susangja": "이용남",
+      "sosok": "서강대학교",
+      "bunya": "수학과",
+      "gongjeok": "기하종수가 0인 단순연결된 일반형 복소곡면의 건설"
+    },
+    {
+      "nyeon": "2009년",
+      "wol": "12월",
+      "susangja": "조민행",
+      "sosok": "고려대학교",
+      "bunya": "화학과",
+      "gongjeok": "광학이성질체 극초단 분광학 연구"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "1월",
+      "susangja": "양근혁",
+      "sosok": "경기대학교",
+      "bunya": "플랜트 건충공학과",
+      "gongjeok": "시멘트 없는 친환경 콘크리트의 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "2월",
+      "susangja": "김상건",
+      "sosok": "서울대학교",
+      "bunya": "약학과",
+      "gongjeok": "지방간 및 지방간염 유발 기전과 새로운 치료약물군 연구"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "3월",
+      "susangja": "함병승",
+      "sosok": "인하대학교 정보통신대학원",
+      "bunya": "정보통신공학부",
+      "gongjeok": "장시간 양자메모리 프로토콜 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "4월",
+      "susangja": "조길원",
+      "sosok": "포항공과대학교",
+      "bunya": "화학공학과",
+      "gongjeok": "자극응답성 기능성 나노표면 및 유기인쇄전자소자 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "5월",
+      "susangja": "정하웅",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "물리학과",
+      "gongjeok": "복잡계 네트워크 과학의 응용"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "6월",
+      "susangja": "이탁희",
+      "sosok": "광주과학기술원(GIST)",
+      "bunya": "물리천문학부",
+      "gongjeok": "분자 트렌지스터 소자 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "7월",
+      "susangja": "장정식",
+      "sosok": "서울대학교",
+      "bunya": "화학생물공학부",
+      "gongjeok": "전도성 고분자 나노재료 기반 고감응 센서 제조기술 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "8월",
+      "susangja": "장준연",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "금속공학과",
+      "gongjeok": "전자의 스핀을 이용한 스핀트랜지스터 소자 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "9월",
+      "susangja": "이현우",
+      "sosok": "포항공과대학교",
+      "bunya": "물리학과",
+      "gongjeok": "Interdimensional universality of dynamic interfaces"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "10월",
+      "susangja": "한창수",
+      "sosok": "한국기계연구원 나노기계연구본부",
+      "bunya": "기계공학부",
+      "gongjeok": "마이크로칩을 이용한 탄소나노튜브 분리기술 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "11월",
+      "susangja": "고재중",
+      "sosok": "고려대학교",
+      "bunya": "소재화학과",
+      "gongjeok": "염료감응 태양전지용 유기염료 개발"
+    },
+    {
+      "nyeon": "2010년",
+      "wol": "12월",
+      "susangja": "유회준",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "전기및전자공학부",
+      "gongjeok": "인간의 뇌 구조를 모사한 물체인식 프로세서 개발"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "1월",
+      "susangja": "이창준",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "화학과",
+      "gongjeok": "뇌의 비신경세포에서의 신호전달 물질 분비기작 규명"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "2월",
+      "susangja": "이재우",
+      "sosok": "세종대학교",
+      "bunya": "천문우주학과",
+      "gongjeok": "구상성단과 우리 은하계 형성과정 규명"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "3월",
+      "susangja": "이심성",
+      "sosok": "경상대학교",
+      "bunya": "화학과",
+      "gongjeok": "단결정간 구조변환을 통해 광발광이 조절되는 지능형 나노초분자 개발"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "4월",
+      "susangja": "강성호",
+      "sosok": "연세대학교",
+      "bunya": "전기및전자공학부",
+      "gongjeok": "효과적인 메모리의 테스트 및 자체 수리에 관한 연구"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "5월",
+      "susangja": "차재춘",
+      "sosok": "포항공과대학교",
+      "bunya": "수학과",
+      "gongjeok": "고리의 4차원 변형에 대한 불변량 이론"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "6월",
+      "susangja": "김태환",
+      "sosok": "한양대학교",
+      "bunya": "융합전자공학부",
+      "gongjeok": "차세대 비휘발성 메모리소자 개발"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "7월",
+      "susangja": "한윤봉",
+      "sosok": "전북대학교",
+      "bunya": "화학공학부",
+      "gongjeok": "금속산화물 나노구조 제조 및 화학/바이오센서 응용기술 개발"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "8월",
+      "susangja": "고규영",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생명과학부",
+      "gongjeok": "암 성장과 전이를 억제하는 “이중혈관신생차단제” 개발"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "9월",
+      "susangja": "김은성",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "물리학과",
+      "gongjeok": "초고체 현상의 발견"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "10월",
+      "susangja": "이학주",
+      "sosok": "한국기계연구원",
+      "bunya": "기계공학부",
+      "gongjeok": "10 nm 급 나노측정 원천기술 개발"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "11월",
+      "susangja": "윤주영",
+      "sosok": "이화여자대학교",
+      "bunya": "화학생명분자과학부",
+      "gongjeok": "APT에 선택적인 형광화학센서에 대한 연구"
+    },
+    {
+      "nyeon": "2011년",
+      "wol": "12월",
+      "susangja": "최준호",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생명과학부",
+      "gongjeok": "The novel gene twenty-four defines a critical translation step in the Drosophila clock"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "1월",
+      "susangja": "박배호",
+      "sosok": "건국대학교",
+      "bunya": "물리학과",
+      "gongjeok": "Friction Anisotropy-Driver Domain Imaging on Exfoliated Monolayer Graphene"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "2월",
+      "susangja": "이성환",
+      "sosok": "고려대학교",
+      "bunya": "뇌공학과",
+      "gongjeok": "컴퓨터 비젼 기반 휴먼 동작 자동 분석 및 인식 기술 개발"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "3월",
+      "susangja": "박찬범",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "신소재공학과",
+      "gongjeok": "나노소재 기반 인공광합성 기술개발"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "4월",
+      "susangja": "노철언",
+      "sosok": "인하대학교",
+      "bunya": "화학과",
+      "gongjeok": "새로운 대기입자 측정 분석 기술의 개발"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "5월",
+      "susangja": "이명균",
+      "sosok": "서울대학교",
+      "bunya": "물리천문학부",
+      "gongjeok": "방랑하는 구상성단의 거대구조 발견"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "6월",
+      "susangja": "이상훈",
+      "sosok": "고려대학교",
+      "bunya": "전기공학부",
+      "gongjeok": "물질 및 구조의 마이크로 단위 코딩 가능한 극세사 개발과 재생의학의 활용 가능 기술 개발"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "7월",
+      "susangja": "정희태",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "화학생명공학과",
+      "gongjeok": "그래핀 물성향상 원천기술 개발"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "8월",
+      "susangja": "이준호",
+      "sosok": "서울대학교",
+      "bunya": "생명공학부",
+      "gongjeok": "종의 확산 과정에 대한 세포수준 규명 연구"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "9월",
+      "susangja": "이기암",
+      "sosok": "서울대학교",
+      "bunya": "수리공학부",
+      "gongjeok": "완전 비선형 방정식에 대한 연구"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "10월",
+      "susangja": "서갑양",
+      "sosok": "서울대학교",
+      "bunya": "기계항공공학부",
+      "gongjeok": "풍뎅이 날개의 잠금장치를 모사한 고감도 피부부착센서"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "11월",
+      "susangja": "신인재",
+      "sosok": "연세대학교",
+      "bunya": "화학과",
+      "gongjeok": "단백질 활성을 조절할 수 있는 생기능성 유기분자 발굴 및 응용"
+    },
+    {
+      "nyeon": "2012년",
+      "wol": "12월",
+      "susangja": "윤여준",
+      "sosok": "이화여자대학교",
+      "bunya": "화학생명분자과학부",
+      "gongjeok": "항생제 카나마이신 생합성 과정 세계 최초 규명 및 다제내성 슈퍼세균 치료용 신규 항생제 후보물질 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "1월",
+      "susangja": "김선국",
+      "sosok": "경희대학교",
+      "bunya": "건축학부",
+      "gongjeok": "고이동/유연 2D 나노판상 박막트랜지스터 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "2월",
+      "susangja": "이정용",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "신소재공학과",
+      "gongjeok": "액체 속 결정 성장의 실시간 원자 단위 분석 기술 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "3월",
+      "susangja": "김종승",
+      "sosok": "고려대학교",
+      "bunya": "화학과",
+      "gongjeok": "질병 진단과 치료를 겸비한 새로운 약물전달 복합체의 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "4월",
+      "susangja": "윤홍덕",
+      "sosok": "서울대학교",
+      "bunya": "의과대학",
+      "gongjeok": "줄기세포 전분화성 전사네트워크 조절 기전 규명"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "5월",
+      "susangja": "강병남",
+      "sosok": "서울대학교",
+      "bunya": "물리천문학부",
+      "gongjeok": "Explosive percolation transition (폭발적 여과전이)"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "6월",
+      "susangja": "이중희",
+      "sosok": "전북대학교",
+      "bunya": "융합공학과",
+      "gongjeok": "고전도성 나노복합재료의 친환경적인 제조 기술 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "7월",
+      "susangja": "이태우",
+      "sosok": "포항공과대학교",
+      "bunya": "신소재공학과",
+      "gongjeok": "그래핀 전극을 이용한 고효율 플렉서블 유기 발광 다이오드 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "8월",
+      "susangja": "황선욱",
+      "sosok": "고려대학교",
+      "bunya": "의과학과",
+      "gongjeok": "뇌신경의 짠맛 수용체 단백질 최초 발견"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "9월",
+      "susangja": "김맹기",
+      "sosok": "공주대학교",
+      "bunya": "대기과학과",
+      "gongjeok": "인류기원 블랙카본이 히말라야/티벳고원의 빙하와 적설 Melting 가속화에 미치는 영향 규명"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "10월",
+      "susangja": "김동훈",
+      "sosok": "한국기계연구원",
+      "bunya": "전자공학과",
+      "gongjeok": "무인화 가공 최적화 및 자율대응 원천기반 요소기술 개발"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "11월",
+      "susangja": "김우식",
+      "sosok": "경희대학교",
+      "bunya": "의학과",
+      "gongjeok": "테일러 와류를 이용한 신개념 결정화기술"
+    },
+    {
+      "nyeon": "2013년",
+      "wol": "12월",
+      "susangja": "이승훈",
+      "sosok": "서울대학교병원",
+      "bunya": "의학과",
+      "gongjeok": "뇌졸중의 새로운 치료제인 세리아 나노입자 개발"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "1월",
+      "susangja": "이흥노",
+      "sosok": "광주과학기술원(GIST)",
+      "bunya": "정보통신공학부",
+      "gongjeok": "부호이론적 다중 압축 센싱 기법을 이용한 고해상도 정보 획득 기술 실현"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "2월",
+      "susangja": "이종람",
+      "sosok": "포항공과대학교",
+      "bunya": "신소재공학과",
+      "gongjeok": "플렉서블 전자소자용 기판 기술 개발"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "3월",
+      "susangja": "김진영",
+      "sosok": "울산과학기술대학교",
+      "bunya": "화학공학부",
+      "gongjeok": "표면플라즈몬 공명 효과를 통한 고분자 광전자소자의 효율 향상 연구 논문을 Nature Photonics 지에 게재"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "4월",
+      "susangja": "안지훈",
+      "sosok": "고려대학교",
+      "bunya": "생명과학과",
+      "gongjeok": "기온 변화를 감지하는 식물의 온도계 단백질 규명"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "5월",
+      "susangja": "김영훈",
+      "sosok": "서울대학교",
+      "bunya": "수리과학부",
+      "gongjeok": "리만곡면의 모듈라이 공간과 불변량"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "6월",
+      "susangja": "김상욱",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "컴퓨터공학부",
+      "gongjeok": "화학적으로 도핑된 탄소소재 분자조립 나노기술"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "7월",
+      "susangja": "박승범",
+      "sosok": "서울대학교",
+      "bunya": "화학부",
+      "gongjeok": "독창적 형광골격인 Seoul-Fluor의 양자효율 조절기술"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "8월",
+      "susangja": "전장수",
+      "sosok": "광주과학기술원(GIST)",
+      "bunya": "생명과학부",
+      "gongjeok": "퇴행성관절염의 발병원인 규명"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "9월",
+      "susangja": "구본철",
+      "sosok": "서울대학교",
+      "bunya": "물리천문학부",
+      "gongjeok": "생명체의 필수원소인 인(P)의 생성과 기원을 확인"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "10월",
+      "susangja": "김종만",
+      "sosok": "한양대학교",
+      "bunya": "나노공과대학",
+      "gongjeok": "땀구멍 지도를 이용한 새로운 지문분석법 개발"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "11월",
+      "susangja": "황철상",
+      "sosok": "포항공과대학교",
+      "bunya": "생명공학부",
+      "gongjeok": "N-말단 메티오닌 단백질 분해 신호와 분해 경로 발견"
+    },
+    {
+      "nyeon": "2014년",
+      "wol": "12월",
+      "susangja": "장윤석",
+      "sosok": "포항공과대학교",
+      "bunya": "환경분석화학",
+      "gongjeok": "나노-바이오 융합기술을 이용한 환경오염물질 처리 및 나노물질의 환경생태위해성 규명"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "1월",
+      "susangja": "조용훈",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "물리학과",
+      "gongjeok": "나노 구조를 이용한 신개념 포토닉스 광원 및 광제어 기술"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "2월",
+      "susangja": "조광현",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "바이오및뇌공학과",
+      "gongjeok": "IT 융합연구를 통한 신개념의 암세포 사멸 제어기술 개발"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "3월",
+      "susangja": "신세현",
+      "sosok": "고려대학교",
+      "bunya": "기계공학부",
+      "gongjeok": "Separation of platelets from whole blood using standing surface acoustic waves in a microchannel"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "4월",
+      "susangja": "김진현",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "신경과",
+      "gongjeok": "뇌 신경망맵핑 신기술(mGRASP) 개발을 통한 3차원 뇌지도 제작"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "5월",
+      "susangja": "이기택",
+      "sosok": "포항공과대학교",
+      "bunya": "화학해양",
+      "gongjeok": "대기 질소오염물질 유입에 의한 해양생태계 변화 규명"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "6월",
+      "susangja": "김성웅",
+      "sosok": "성균관대학교",
+      "bunya": "에너지과학과",
+      "gongjeok": "고밀도 입계 전위의 형성 및 전자. 열전달 현상 규명을 통한 고효율 열전소재 개발"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "7월",
+      "susangja": "이창희",
+      "sosok": "서울대학교",
+      "bunya": "전기정보공학부",
+      "gongjeok": "세계 최고 효율 삼원색 양자점발광다이오드 개발"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "8월",
+      "susangja": "이상준",
+      "sosok": "포항공과대학교",
+      "bunya": "기계공학과",
+      "gongjeok": "미지의 생체유동현상 규명 및 핵심기반 기술 개발"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "9월",
+      "susangja": "하헌필",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "재료공학부",
+      "gongjeok": "광역온도에서 작동 가능한 고효율/내구성을 갖는 저온탈질 촉매"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "10월",
+      "susangja": "김용희",
+      "sosok": "한양대학교",
+      "bunya": "약학과",
+      "gongjeok": "비만 및 비만유래 대사증후군 치료용 지방세포 표적 유전자 전달시스템 개발"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "11월",
+      "susangja": "염영일",
+      "sosok": "한국생명공학연구원",
+      "bunya": "분자유전학전공",
+      "gongjeok": "젖산에 의한 세포신호전달체계 규명"
+    },
+    {
+      "nyeon": "2015년",
+      "wol": "12월",
+      "susangja": "이태억",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "시스템공학과",
+      "gongjeok": "반도체 제조공정장비 운영 최적화 및 이산사건시스템 스케쥴링 이론 및 방법 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "1월",
+      "susangja": "국종성",
+      "sosok": "포항공과대학교",
+      "bunya": "기후학",
+      "gongjeok": "최근 북극 및 중위도 지역의 기후변화 원인 규명"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "2월",
+      "susangja": "김현재",
+      "sosok": "연세대학교",
+      "bunya": "전기전자공학과",
+      "gongjeok": "평판 디스플레이를 위한 백플레인 핵심 기술 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "3월",
+      "susangja": "김근수",
+      "sosok": "포항공과대학교",
+      "bunya": "물리학과",
+      "gongjeok": "2차원 물질의 밴드갭 제어 및 비등방적 디락상태 발견"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "4월",
+      "susangja": "함시현",
+      "sosok": "숙명여자대학교",
+      "bunya": "화학과",
+      "gongjeok": "질병 관련 단백질의 응집연구 선도"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "5월",
+      "susangja": "조동우",
+      "sosok": "포항공과대학교",
+      "bunya": "기계공학과",
+      "gongjeok": "인체 내 손상된 조직/장기의 재생을 위한 통합형 3D 조직/장기 프린팅 기술 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "6월",
+      "susangja": "심태보",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "의약화학과",
+      "gongjeok": "기술이전 (글로벌혁신표적항암제 후보물질 도출)"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "7월",
+      "susangja": "변재형",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "수리과학과",
+      "gongjeok": "집적해의 구성을 위한 변분법의 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "8월",
+      "susangja": "한욱신",
+      "sosok": "포항공과대학교",
+      "bunya": "창의IT융합공학과",
+      "gongjeok": "세계 최고 효율의 빅 그래프 데이터 분석 기술 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "9월",
+      "susangja": "노용영",
+      "sosok": "동국대학교",
+      "bunya": "융합에너지 신소재공학과",
+      "gongjeok": "인쇄기술을 통한 초박막, 고성능 유연 전자소자 및 고감도 가스센서 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "10월",
+      "susangja": "김동표",
+      "sosok": "포항공과대학교",
+      "bunya": "화학공학과",
+      "gongjeok": "마이크로초 합성화학 제어기술 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "11월",
+      "susangja": "조맹효",
+      "sosok": "서울대학교",
+      "bunya": "기계항공공학부",
+      "gongjeok": "광반응 고분자 소재의 멀티스케일 해석 원천기술 개발"
+    },
+    {
+      "nyeon": "2016년",
+      "wol": "12월",
+      "susangja": "김정훈",
+      "sosok": "포항공과대학교",
+      "bunya": "생명과학과",
+      "gongjeok": "Dopamine Regulation of Amygdala Inhibitory Circuits for Expression of Learned Fear"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "1월",
+      "susangja": "박태성",
+      "sosok": "서울대학교",
+      "bunya": "통계학과",
+      "gongjeok": "Pathway-based approach using hierarchical components of collapsed rare variants"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "2월",
+      "susangja": "정종화",
+      "sosok": "경상대학교",
+      "bunya": "화학과",
+      "gongjeok": "자기조립에 의한 지능형 초분자 젤의 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "3월",
+      "susangja": "박남규",
+      "sosok": "서울대학교",
+      "bunya": "전기정보공학부",
+      "gongjeok": "세계 최초 하향설계식 만능형 메타물질/메타표면 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "4월",
+      "susangja": "허원도",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "생명과학과",
+      "gongjeok": "생체 내 칼슘이온을 제어하는 광유전학 원천기술개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "5월",
+      "susangja": "이종섭",
+      "sosok": "고려대학교",
+      "bunya": "건축사회환경공학부",
+      "gongjeok": "지반공학적, 지구물리학적 지반 특성 평가기술 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "6월",
+      "susangja": "강기석",
+      "sosok": "서울대학교",
+      "bunya": "재료공학부",
+      "gongjeok": "차세대 금속-공기 이차전지 신소재 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "7월",
+      "susangja": "윤태영",
+      "sosok": "서울대학교",
+      "bunya": "전기공학부",
+      "gongjeok": "생체막 단백질의 움직임을 하나의 분자 수준에서 규명"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "8월",
+      "susangja": "김인강",
+      "sosok": "고등과학원",
+      "bunya": "수학과",
+      "gongjeok": "3차원 다양체의 위상수학 및 기하학 난제 해석"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "9월",
+      "susangja": "심상준",
+      "sosok": "고려대학교",
+      "bunya": "생물화학공학",
+      "gongjeok": "DNA 기반의 크기?모양 제어 금속 나노입자 합성기술 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "10월",
+      "susangja": "박진홍",
+      "sosok": "성균관대학교 전기전자공학부",
+      "bunya": "전기공학",
+      "gongjeok": "3진법이 가능한 초절전 반도체 소자 및 회로 기술 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "11월",
+      "susangja": "성형진",
+      "sosok": "한국과학기술원",
+      "bunya": "기계공학",
+      "gongjeok": "미세유체칩의 정교한 액체방울 제어기술 개발"
+    },
+    {
+      "nyeon": "2017년",
+      "wol": "12월",
+      "susangja": "김창영",
+      "sosok": "서울대학교",
+      "bunya": "고체물리학",
+      "gongjeok": "고온 초전도체 등 강상관계 물질의 전자구조 규명"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "1월",
+      "susangja": "김준",
+      "sosok": "연세대학교 대기과학과",
+      "bunya": "대기물리, 대기환경, 원격탐사",
+      "gongjeok": "대기오염물질의 지역 분포와 이동 현황을 볼 수 있는,정지궤도에서 대기오염 분석이 가능한 원격탐사기법 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "2월",
+      "susangja": "이경무",
+      "sosok": "서울대학교",
+      "bunya": "전기공학",
+      "gongjeok": "딥 러닝 기반 초해상도 영상복원 기술 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "3월",
+      "susangja": "이희승",
+      "sosok": "한국과학기술원",
+      "bunya": "화학",
+      "gongjeok": "비자성 생체분자 펩타이드로 자기 나침반 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "4월",
+      "susangja": "선정윤",
+      "sosok": "서울대학교",
+      "bunya": "재료공학",
+      "gongjeok": "투명성·신축성 높인 하이드로젤 기반 터치패널 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "5월",
+      "susangja": "박희성",
+      "sosok": "한국과학기술원",
+      "bunya": "화학",
+      "gongjeok": "질병 유발 단백질 제어하는 맞춤형 단백질 변형기술 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "6월",
+      "susangja": "김기현",
+      "sosok": "한양대학교",
+      "bunya": "건설환경공학과",
+      "gongjeok": "친환경 신소재로 대기오염 물질 감지 및 제어"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "7월",
+      "susangja": "박홍규",
+      "sosok": "고려대학교",
+      "bunya": "물리학과",
+      "gongjeok": "빛으로 동작하는 나노선 트랜지스터 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "8월",
+      "susangja": "윤성로",
+      "sosok": "서울대학교",
+      "bunya": "전기정보공학부",
+      "gongjeok": "서열형 빅데이터 분석을 위한 인공지능 기술 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "9월",
+      "susangja": "구종민",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "화학공학",
+      "gongjeok": "MXene-고분자 복합체 원천소재기술 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "10월",
+      "susangja": "이해신",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "화학과",
+      "gongjeok": "찔러도 피 안나는 무출혈 주사바늘 개발"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "11월",
+      "susangja": "김명희",
+      "sosok": "한국생명공학연구원(KRIBB)",
+      "bunya": "식품미생물학",
+      "gongjeok": "단백질 합성 효소복합체의 항바이러스 기능 규명"
+    },
+    {
+      "nyeon": "2018년",
+      "wol": "12월",
+      "susangja": "천정희",
+      "sosok": "서울대학교",
+      "bunya": "수학",
+      "gongjeok": "암호학계 최대 이슈인 다중선형함수 완전 해독"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "1월",
+      "susangja": "이용재",
+      "sosok": "연세대학교",
+      "bunya": "지질학",
+      "gongjeok": "지하 깊은 곳에 초수화 광물 최초 발견"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "2월",
+      "susangja": "이종호",
+      "sosok": "한국과학기술연구원(KIST)",
+      "bunya": "무기재료",
+      "gongjeok": "대면적 프로톤 세라믹 연료전지 기술 확보"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "3월",
+      "susangja": "최현용",
+      "sosok": "연세대학교",
+      "bunya": "전지전자공학과",
+      "gongjeok": "레이저를 이용한 양자 정보 변환 소자 개발"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "4월",
+      "susangja": "방창현",
+      "sosok": "성균관대학교",
+      "bunya": "화학공학/기계항공공학부",
+      "gongjeok": "문어 빨판 비밀 밝혀 수중점착 가능한 진단,치료용 패치 개발"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "5월",
+      "susangja": "김형범",
+      "sosok": "연세대학교",
+      "bunya": "의학",
+      "gongjeok": "인공지능으로 유전자가위 활성 정밀 예측"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "6월",
+      "susangja": "곽준명",
+      "sosok": "DGIST",
+      "bunya": "식물분자유전학",
+      "gongjeok": "식물의 탈리가 항상 일정한 위치에서 일어나는 이유·원리 규명"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "7월",
+      "susangja": "신관우",
+      "sosok": "서강대학교",
+      "bunya": "화학과",
+      "gongjeok": "스스로 에너지 대사활동 하는 인공세포 구현"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "8월",
+      "susangja": "박호석",
+      "sosok": "성균관대학교",
+      "bunya": "화학공학/고분자공학부",
+      "gongjeok": "2차원 반도체 포스포린의 에너지 저장 기작 규명"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "9월",
+      "susangja": "송석호",
+      "sosok": "한양대학교",
+      "bunya": "물리학과",
+      "gongjeok": "에너지 손실을 활용하는 신개념 광소자 작동원리 고안"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "10월",
+      "susangja": "박병국",
+      "sosok": "KAIST",
+      "bunya": "신소재공학과",
+      "gongjeok": "차세대 반도체 핵심 '고효율 스핀전류 생성 소재' 개발"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "11월",
+      "susangja": "홍용택",
+      "sosok": "서울대학교",
+      "bunya": "전기·정보공학부",
+      "gongjeok": "인쇄공정 기반 신축성 하이브리드 전자기술 개발"
+    },
+    {
+      "nyeon": "2019년",
+      "wol": "12월",
+      "susangja": "박종혁",
+      "sosok": "충북대 의과대학",
+      "bunya": "의학",
+      "gongjeok": "빅데이터로 장애인 건강연구 및 보건의료정책 근거 제시"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "1월",
+      "susangja": "김도환",
+      "sosok": "한양대학교",
+      "bunya": "화학공학과",
+      "gongjeok": "촉각세포를 모사해 웨어러블 전자기기에 적용할 수 있는 전자피부 기술 개발"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "2월",
+      "susangja": "심재윤",
+      "sosok": "포항공대학교",
+      "bunya": "전자전기공학",
+      "gongjeok": "초소형 무선 IoT 센서 플랫폼을 위한 나노와트 집적회로 개발"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "3월",
+      "susangja": "황대희",
+      "sosok": "서울대학교 생명과학부",
+      "bunya": "생명과학",
+      "gongjeok": "30~40대 위협하는 조기발병 위암 유전단백체 기전 규명"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "4월",
+      "susangja": "김상우",
+      "sosok": "성균관대학교",
+      "bunya": "신소재공학부",
+      "gongjeok": "인체 안전한 초음파로 체내 삽입 의료기기 충전기술 개발"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "5월",
+      "susangja": "전헌수",
+      "sosok": "서울대학교 자연과학대학 물리천문학부",
+      "bunya": "물리학",
+      "gongjeok": "무질서한 광모드 속성 밝혀 차세대 레이저 제어 기술 개발"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "6월",
+      "susangja": "예상욱",
+      "sosok": "한양대학교(ERICA) 해양융합공학과",
+      "bunya": "대기과학",
+      "gongjeok": "CO2 증가에 따른 열대태평양의 강수변화를 조절하는 대기 순환 특성 규명"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "7월",
+      "susangja": "김상현",
+      "sosok": "고등과학원",
+      "bunya": "수학과",
+      "gongjeok": "미분동형사상군의 정칙성 규명으로 위상수학 난제 해결"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "8월",
+      "susangja": "홍원빈",
+      "sosok": "포항공과대학교학교 전자전기공학과",
+      "bunya": "전자전기공학과",
+      "gongjeok": "초고주파 5G 통신 안테나 원천기술로 데이터 고속도로 기반 제공"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "9월",
+      "susangja": "김병석",
+      "sosok": "한국건설기술연구원",
+      "bunya": "토목구조",
+      "gongjeok": "200년 수명 초고강도·고내구성 슈퍼콘크리트 개발·실용화 추진"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "10월",
+      "susangja": "김정원",
+      "sosok": "한국과학기술원",
+      "bunya": "전기공학",
+      "gongjeok": "나노미터 차이 감지하는 초고속·고분해능·다기능성 센서기술 개발"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "11월",
+      "susangja": "백종범",
+      "sosok": "울산과학기술원",
+      "bunya": "고분자공학과",
+      "gongjeok": "금속 자석에 대한 고정관념을 깨고 세계 최초 플라스틱 자성체 규명"
+    },
+    {
+      "nyeon": "2020년",
+      "wol": "12월",
+      "susangja": "김종필",
+      "sosok": "동국대학교",
+      "bunya": "생명공학",
+      "gongjeok": "세계 최초 생체내 세포 운명전환을 통한 파킨슨병 치료 기술 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "1월",
+      "susangja": "김범준",
+      "sosok": "한국과학기술원",
+      "bunya": "화학공학",
+      "gongjeok": "내구성 높은 블록 공중합체 탄화입자와 고성능 연료전지 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "2월",
+      "susangja": "박경표",
+      "sosok": "서울대학교 치의학대학원",
+      "bunya": "치의학",
+      "gongjeok": "방사선 피폭 시 활성산소를 제거하는 방사선 보호제 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "3월",
+      "susangja": "박진형",
+      "sosok": "서강대학교",
+      "bunya": "수학과",
+      "gongjeok": "대수기하학의 시컨다양체 기하학적·대수학적 난제 해결"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "4월",
+      "susangja": "한승용",
+      "sosok": "서울대학교",
+      "bunya": "전기정보공학",
+      "gongjeok": "고온초전도자석 이용한 직류 자기장 세계 신기록 달성"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "5월",
+      "susangja": "신병하",
+      "sosok": "KAIST",
+      "bunya": "신소재공학과",
+      "gongjeok": "고효율·고안정성의 큰 밴드갭 페로브스카이트 태양전지 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "6월",
+      "susangja": "엄진기",
+      "sosok": "한국철도기술연구원 미래교통정책본부",
+      "bunya": "교통공학",
+      "gongjeok": "사람중심의 빅데이터 기반 통행자 분석 시스템 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "7월",
+      "susangja": "심흥선",
+      "sosok": "한국과학기술원",
+      "bunya": "물리학",
+      "gongjeok": "미래 반도체 개발 단초 될 콘도 스핀 구름 이론적 규명 및 존재 최초 입증"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "8월",
+      "susangja": "박훈철",
+      "sosok": "건국대학교",
+      "bunya": "스마트운행체공학과",
+      "gongjeok": "충돌에도 추락하지 않고 탐사 지속하는 풍뎅이 모방 날갯짓 비행 로봇 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "9월",
+      "susangja": "이창하",
+      "sosok": "서울대학교",
+      "bunya": "화학생물공학",
+      "gongjeok": "다양한 신종 수질오염물질의 제거 효율을 높이는 지능형 수처리 기술 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "10월",
+      "susangja": "양창덕",
+      "sosok": "울산과학기술원",
+      "bunya": "에너지화학공학",
+      "gongjeok": "차세대 태양전지의 안정성과 효율성을 함께 해결한 핵심소재 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "11월",
+      "susangja": "이혁진",
+      "sosok": "이화여대 약학대학",
+      "bunya": "의공학",
+      "gongjeok": "리보핵산 치료제 및 전령 리보핵산 백신의 체내 전달 돕는 지질나노입자 개발"
+    },
+    {
+      "nyeon": "2021년",
+      "wol": "12월",
+      "susangja": "김철홍",
+      "sosok": "포항공과대학교",
+      "bunya": "전자전기공학과",
+      "gongjeok": "광초음파 의료영상 개발 및 상용화로 디지털건강(헬스)산업 경쟁력 강화"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "1월",
+      "susangja": "문주호",
+      "sosok": "연세대학교",
+      "bunya": "신소재공학",
+      "gongjeok": "저비용·고효율 태양전지 이용한 친환경(그린) 수소 생산기술 개발"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "2월",
+      "susangja": "이준엽",
+      "sosok": "성균관대",
+      "bunya": "화학공학/고분자공학",
+      "gongjeok": "고효율·장수명 청색 유기발광다이오드(OLED) 개발로 디스플레이 초격차 기술 확보"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "3월",
+      "susangja": "조승우",
+      "sosok": "연세대학교",
+      "bunya": "생명공학",
+      "gongjeok": "줄기세포와 조직공학을 기반으로 고도화된 인공 뇌 구현"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "4월",
+      "susangja": "이창수",
+      "sosok": "한국원자력연구원",
+      "bunya": "에너지시스템공학",
+      "gongjeok": "고준위방사성폐기물 심층처분 위한 복합거동 해석시뮬레이터 개발"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "5월",
+      "susangja": "이정용",
+      "sosok": "한국과학기술원",
+      "bunya": "전기및전자공학부",
+      "gongjeok": "차세대 반도체 이종 접합으로 고효율 광전소자 개발"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "6월",
+      "susangja": "박선영",
+      "sosok": "경북대학교",
+      "bunya": "지구시스템과학부",
+      "gongjeok": "지구환경 변화 원인물질 관측…기후변화 대응의 과학적 근거 제시"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "7월",
+      "susangja": "권성훈",
+      "sosok": "서울대학교",
+      "bunya": "전기·정보공학",
+      "gongjeok": "초고순도 디엔에이(DNA) 정제 기술로 디엔에이(DNA) 메모리 상용화 해법 마련"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "8월",
+      "susangja": "조길영",
+      "sosok": "포항공과대학교",
+      "bunya": "물리학",
+      "gongjeok": "빛으로 물질의 성질 바꿀 수 있는‘플로케 상태’지속 성공"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "9월",
+      "susangja": "김동현",
+      "sosok": "한국철도기술연구원",
+      "bunya": "기계공학",
+      "gongjeok": "고속철도 '터널 소닉붐 저감후드' 개발"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "10월",
+      "susangja": "한정우",
+      "sosok": "포항공과대학교",
+      "bunya": "화학공학",
+      "gongjeok": "성능과 안정성이 우수한 나노촉매 합성 원천기술 개발"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "11월",
+      "susangja": "고승환",
+      "sosok": "서울대학교",
+      "bunya": "기계공학",
+      "gongjeok": "장기모사칩에 적용 가능한 투명 실리콘 미세패터닝 기술 개발"
+    },
+    {
+      "nyeon": "2022년",
+      "wol": "12월",
+      "susangja": "배상수",
+      "sosok": "서울대학교",
+      "bunya": "의과대학",
+      "gongjeok": "정교하고 안전한 차세대 DNA 염기교정 유전자가위 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "1월",
+      "susangja": "김윤석",
+      "sosok": "성균관대학교",
+      "bunya": "신소재공학",
+      "gongjeok": "이온빔을 이용한 차세대 반도체소재 고성능화 실현"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "2월",
+      "susangja": "송영민",
+      "sosok": "광주과학기술원",
+      "bunya": "정보기전공학",
+      "gongjeok": "360도 전방위 촬영 가능한 수륙양용 초소형 광각카메라 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "3월",
+      "susangja": "이상호",
+      "sosok": "국민대학교",
+      "bunya": "건설시스템공학부",
+      "gongjeok": "물 부족 위기 극복 위한 차세대 수처리·담수화 및 수자원 관리 기술 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "4월",
+      "susangja": "강문진",
+      "sosok": "KAIST",
+      "bunya": "수리과학과",
+      "gongjeok": "압축성 오일러 방정식의 충격파에 관한 난제 해결"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "5월",
+      "susangja": "신현석",
+      "sosok": "울산과학기술원",
+      "bunya": "화학과",
+      "gongjeok": "반도체 미세공정 한계 돌파 가능한 비정질 질화붕소 박막 합성"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "6월",
+      "susangja": "김찬혁",
+      "sosok": "KAIST",
+      "bunya": "화학과",
+      "gongjeok": "면역체계 이용한 새로운 기전의 알츠하이머 치매 치료제 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "7월",
+      "susangja": "최정균",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "바이오및뇌공학과",
+      "gongjeok": "스마트 면역세포 시스템 및 메모리 리보핵산(mRNA) 기반 항암백신 원천기술 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "8월",
+      "susangja": "김윤희",
+      "sosok": "경상국립대학교",
+      "bunya": "화학과",
+      "gongjeok": "고효율·고안정성 유기 태양전지용 소재 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "9월",
+      "susangja": "권일한",
+      "sosok": "한양대학교",
+      "bunya": "자원환경공학과",
+      "gongjeok": "탄소순환형 폐자원 고부가가치화 기술 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "10월",
+      "susangja": "신영수",
+      "sosok": "KAIST",
+      "bunya": "전기및전자공학부",
+      "gongjeok": "기계학습 이용한 고성능 반도체 리소그래피 최적화 기술 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "11월",
+      "susangja": "정상국",
+      "sosok": "명지대학교",
+      "bunya": "기계공학과",
+      "gongjeok": "자율주행용 센서를 위한 전자식 자가세정 유리 개발"
+    },
+    {
+      "nyeon": "2023년",
+      "wol": "12월",
+      "susangja": "정수종",
+      "sosok": "서울대학교",
+      "bunya": "환경대학원",
+      "gongjeok": "기후변화 대응을 위한 전 지구 탄소순환 진단 기술 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "1월",
+      "susangja": "김태일",
+      "sosok": "성균관대학교",
+      "bunya": "화학공학과",
+      "gongjeok": "생체모사로 노이즈 필터 소재 개발 및 바이오 전자소자 적용"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "2월",
+      "susangja": "김정",
+      "sosok": "한국과학기술원",
+      "bunya": "기계공학과",
+      "gongjeok": "인간처럼 촉각을 느끼고 상처 치유도 가능한 대면적 로봇 피부 기술 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "3월",
+      "susangja": "김대덕",
+      "sosok": "서울대학교",
+      "bunya": "제약학과",
+      "gongjeok": "설계 전략 선진화로 체외 배설 가능한 초소형 종양 표적화 나노입자 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "4월",
+      "susangja": "손동희",
+      "sosok": "성균관대학교",
+      "bunya": "전자전기공학부",
+      "gongjeok": "생체조직에 인터페이싱 가능한 신축성 바이오 전자소자 시스템 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "5월",
+      "susangja": "서민교",
+      "sosok": "한국과학기술원",
+      "bunya": "물리학",
+      "gongjeok": "광학적 무반사와 광학적 진공의 극한 도전과 재발견"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "6월",
+      "susangja": "김승규",
+      "sosok": "인천대학교",
+      "bunya": "해양학과",
+      "gongjeok": "미세플라스틱의 전 지구적 순환과 북극의 역할 규명"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "7월",
+      "susangja": "노준석",
+      "sosok": "포항공과대학교",
+      "bunya": "기계공학과/화학공학과/전기전자공학과",
+      "gongjeok": "초박막 메타렌즈 대량 생산용 소재 및 가공 기술 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "8월",
+      "susangja": "김창석",
+      "sosok": "부산대학교",
+      "bunya": "광메카트로닉스공학과",
+      "gongjeok": "악천후에도 자율주행 가능한 컬러변조 4차원 광영상 기술 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "9월",
+      "susangja": "이성중",
+      "sosok": "서울대학교",
+      "bunya": "치의과학과",
+      "gongjeok": "뇌 신경교세포에 의한 사회성 행동 조절 기전 세계 최초 규명"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "10월",
+      "susangja": "박문정",
+      "sosok": "포항공과대학교",
+      "bunya": "화학과",
+      "gongjeok": "고분자 상전이 연구의 새로운 패러다임 제시"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "11월",
+      "susangja": "정일문",
+      "sosok": "한국건설기술연구원",
+      "bunya": "수자원공학",
+      "gongjeok": "산간지역 물복지 증진을 위한 바이패스형 샌드댐 개발"
+    },
+    {
+      "nyeon": "2024년",
+      "wol": "12월",
+      "susangja": "김범준",
+      "sosok": "포항공과대학교",
+      "bunya": "물리학",
+      "gongjeok": "스핀 네마틱 상 세계 최초 발견"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "1월",
+      "susangja": "최형진",
+      "sosok": "서울대학교",
+      "bunya": "의학과",
+      "gongjeok": "뇌 시상하부에 의한 GLP-1 식욕 조절 기전"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "2월",
+      "susangja": "이건재",
+      "sosok": "한국과학기술원(KAIST)",
+      "bunya": "신소재공학과",
+      "gongjeok": "마이크로 대량 진공전사를 이용한 면발광 마이크로 LED 마스크 개발"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "3월",
+      "susangja": "이상혁",
+      "sosok": "서울대학교",
+      "bunya": "수리과학부",
+      "gongjeok": "공간곡선에 대한 극대함수의 유계"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "4월",
+      "susangja": "오준학",
+      "sosok": "서울대학교",
+      "bunya": "화학생물공학부",
+      "gongjeok": "키랄성 유기 소재 제조 및 첨단 광전자 소자 응용"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "5월",
+      "susangja": "김재준",
+      "sosok": "서울대학교",
+      "bunya": "전기·정보공학",
+      "gongjeok": "인공지능 모델 경량화 및 전용 반도체 가속기 설계"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "6월",
+      "susangja": "오형석",
+      "sosok": "한국과학기술연구원 청정에너지연구센터",
+      "bunya": "화공생명공학과",
+      "gongjeok": "전기화학적 CO₂전환을 통한 고부가 화합물(e-Chemical) 생산기술 개발 및 실증화"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "7월",
+      "susangja": "김상현",
+      "sosok": "연세대학교",
+      "bunya": "건설및환경공학과",
+      "gongjeok": "유기성 폐자원 이용한 ‘ 친환경 생명과학 수소(그린 바이오수소)’ 고효율 연속 생산 기술 개발"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "8월",
+      "susangja": "정명화",
+      "sosok": "서강대학교",
+      "bunya": "물리학과",
+      "gongjeok": "상온 양자역학 스핀 펌핑 현상 세계 최초 발견"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "9월",
+      "susangja": "정재웅",
+      "sosok": "한국과학기술원",
+      "bunya": "전기및전자공학부",
+      "gongjeok": "체온에 의해 부드러워지는 가변강성 정맥 주사바늘 개발"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "10월",
+      "susangja": "한보형",
+      "sosok": "서울대학교",
+      "bunya": "컴퓨터공학",
+      "gongjeok": "추가 학습 없이 무한 길이 영상 생성 추론 알고리즘(FIFO-Diffusion) 개발"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "11월",
+      "susangja": "최민기",
+      "sosok": "한국과학기술원",
+      "bunya": "생명화학공학과",
+      "gongjeok": "친환경적 암모니아 합성을 위한 고성능 촉매 개발"
+    },
+    {
+      "nyeon": "2025년",
+      "wol": "12월",
+      "susangja": "이관형",
+      "sosok": "서울대학교",
+      "bunya": "재료공학",
+      "gongjeok": "대면적 단결정 2차원 반도체 성장 플랫폼 ‘하이포택시’ 공정 개발"
+    }
+  ],
+  "meta": {
+    "title": "이달의 과학기술인상 역대 수상자 - Free Download",
+    "description": "1997년부터 매월 선정된 이달의 과학기술인상 수상자의 수상 연월, 이름, 소속, 분야, 주요 공적 목록입니다. Contains 345 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "이달의 과학기술인상 역대 수상자 | ListBase",
+    "seo_description": "Download 이달의 과학기술인상 역대 수상자 — 345 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 345 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/이달의_과학기술인상"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-16T02:22:56.828Z",
-  "total_datasets": 594,
-  "total_records": 460374,
+  "generated": "2026-11-17T02:22:39.836Z",
+  "total_datasets": 595,
+  "total_records": 460719,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "society",
@@ -12576,6 +12576,33 @@
         "xlsx": {
           "name": "ko-hwahak-wonso_KO.xlsx",
           "size": 20081
+        }
+      }
+    },
+    {
+      "id": "ko-idarui-gwahak-gisurin-sang",
+      "name": "이달의 과학기술인상 역대 수상자",
+      "category": "science",
+      "record_count": 345,
+      "columns": [
+        "nyeon",
+        "wol",
+        "susangja",
+        "sosok",
+        "bunya",
+        "gongjeok"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/이달의_과학기술인상",
+      "updated": "2026-11",
+      "size": 91426,
+      "files": {
+        "csv": {
+          "name": "ko-idarui-gwahak-gisurin-sang_KO.csv",
+          "size": 51000
+        },
+        "xlsx": {
+          "name": "ko-idarui-gwahak-gisurin-sang_KO.xlsx",
+          "size": 31449
         }
       }
     },
