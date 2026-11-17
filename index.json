@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-17T02:22:52.952Z",
-  "total_datasets": 596,
-  "total_records": 460761,
+  "generated": "2026-11-17T02:23:03.642Z",
+  "total_datasets": 597,
+  "total_records": 460798,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "history",
@@ -7819,6 +7819,33 @@
         "xlsx": {
           "name": "ko-uigwa-daehak_KO.xlsx",
           "size": 8354
+        }
+      }
+    },
+    {
+      "id": "ko-yakhak-daehak",
+      "name": "대한민국의 약학대학 목록",
+      "category": "health",
+      "record_count": 37,
+      "columns": [
+        "gwonyeok",
+        "sido",
+        "daehak",
+        "jeongwon",
+        "seollip_juche",
+        "seollip_yeondo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_약학대학",
+      "updated": "2026-11",
+      "size": 10054,
+      "files": {
+        "csv": {
+          "name": "ko-yakhak-daehak_KO.csv",
+          "size": 3424
+        },
+        "xlsx": {
+          "name": "ko-yakhak-daehak_KO.xlsx",
+          "size": 8222
         }
       }
     },

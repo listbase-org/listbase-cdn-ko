@@ -1,0 +1,352 @@
+{
+  "id": "ko-yakhak-daehak",
+  "name": "대한민국의 약학대학 목록",
+  "title": "대한민국의 약학대학 목록",
+  "description": "대한민국의 약학대학(약학과) 목록으로, 권역·시도별 대학명, 입학 정원, 설립 주체(국립·사립), 설립 연도를 정리했습니다.",
+  "category": "health",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_약학대학",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_약학대학",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "sido",
+      "label": "Sido",
+      "type": "string"
+    },
+    {
+      "key": "daehak",
+      "label": "Daehak",
+      "type": "string"
+    },
+    {
+      "key": "jeongwon",
+      "label": "Jeongwon",
+      "type": "string"
+    },
+    {
+      "key": "seollip_juche",
+      "label": "Seollip Juche",
+      "type": "string"
+    },
+    {
+      "key": "seollip_yeondo",
+      "label": "Seollip Yeondo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "경희대학교 약학대학 약학과",
+      "jeongwon": "40명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1955년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "덕성여자대학교 약학대학 약학과",
+      "jeongwon": "80명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1954년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "동덕여자대학교 약학대학 약학과",
+      "jeongwon": "40명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1955년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "삼육대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1982년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "서울대학교 약학대학 약학과",
+      "jeongwon": "63명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "1950년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "숙명여자대학교 약학대학 약학부",
+      "jeongwon": "80명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1953년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "이화여자대학교 약학대학 약학과",
+      "jeongwon": "120명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1945년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "서울",
+      "daehak": "중앙대학교 약학대학 약학부",
+      "jeongwon": "120명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1953년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "경기",
+      "daehak": "가톨릭대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "경기",
+      "daehak": "동국대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "경기",
+      "daehak": "성균관대학교 약학대학 약학과",
+      "jeongwon": "65명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1953년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "경기",
+      "daehak": "아주대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "경기",
+      "daehak": "차의과학대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "경기",
+      "daehak": "한양대학교 ERICA캠퍼스 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "인천",
+      "daehak": "가천대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "수도권",
+      "sido": "인천",
+      "daehak": "연세대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "강원권",
+      "sido": "강원",
+      "daehak": "강원대학교 약학대학 약학과",
+      "jeongwon": "50명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "1982년"
+    },
+    {
+      "gwonyeok": "충청권",
+      "sido": "대전",
+      "daehak": "충남대학교 약학대학 약학부",
+      "jeongwon": "50명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "1979년"
+    },
+    {
+      "gwonyeok": "충청권",
+      "sido": "세종",
+      "daehak": "고려대학교 세종캠퍼스 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "충청권",
+      "sido": "충남",
+      "daehak": "단국대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "충청권",
+      "sido": "충북",
+      "daehak": "충북대학교 약학대학 약학과",
+      "jeongwon": "50명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "1956년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "대구",
+      "daehak": "계명대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "대구",
+      "daehak": "경북대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "경북",
+      "daehak": "대구가톨릭대학교 약학대학 약학부",
+      "jeongwon": "50명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1953년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "경북",
+      "daehak": "영남대학교 약학대학 약학부",
+      "jeongwon": "70명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1954년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "부산",
+      "daehak": "경성대학교 약학대학 약학과",
+      "jeongwon": "50명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1981년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "부산",
+      "daehak": "부산대학교 약학대학 약학부",
+      "jeongwon": "60명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "1953년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "경남",
+      "daehak": "경상대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "영남권",
+      "sido": "경남",
+      "daehak": "인제대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "전북",
+      "daehak": "원광대학교 약학대학 약학과",
+      "jeongwon": "40명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1965년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "전북",
+      "daehak": "우석대학교 약학대학 약학과",
+      "jeongwon": "40명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1979년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "전북",
+      "daehak": "전북대학교 약학대학",
+      "jeongwon": "30명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "2020년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "광주",
+      "daehak": "전남대학교 약학대학 약학부",
+      "jeongwon": "60명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "1982년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "광주",
+      "daehak": "조선대학교 약학대학 약학과",
+      "jeongwon": "75명",
+      "seollip_juche": "사립",
+      "seollip_yeondo": "1954년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "전남",
+      "daehak": "목포대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "호남권",
+      "sido": "전남",
+      "daehak": "순천대학교 약학대학 약학과",
+      "jeongwon": "30명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "2011년"
+    },
+    {
+      "gwonyeok": "제주권",
+      "sido": "제주",
+      "daehak": "제주대학교 약학대학",
+      "jeongwon": "30명",
+      "seollip_juche": "국립",
+      "seollip_yeondo": "2020년"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 약학대학 목록 - Free Download",
+    "description": "대한민국의 약학대학(약학과) 목록으로, 권역·시도별 대학명, 입학 정원, 설립 주체(국립·사립), 설립 연도를 정리했습니다. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 약학대학 목록 | ListBase",
+    "seo_description": "Download 대한민국의 약학대학 목록 — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_약학대학"
+    ]
+  }
+}
