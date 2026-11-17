@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-17T02:22:39.836Z",
-  "total_datasets": 595,
-  "total_records": 460719,
+  "generated": "2026-11-17T02:22:52.952Z",
+  "total_datasets": 596,
+  "total_records": 460761,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "finance",
@@ -3235,6 +3235,30 @@
         "xlsx": {
           "name": "ko-jijin_KO.xlsx",
           "size": 9385
+        }
+      }
+    },
+    {
+      "id": "ko-juyo-pungsuhae",
+      "name": "대한민국의 주요 풍수해 (태풍·집중호우)",
+      "category": "environment",
+      "record_count": 42,
+      "columns": [
+        "sigi",
+        "jaehae",
+        "juyo_pihae"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_풍수해",
+      "updated": "2026-11",
+      "size": 14452,
+      "files": {
+        "csv": {
+          "name": "ko-juyo-pungsuhae_KO.csv",
+          "size": 10026
+        },
+        "xlsx": {
+          "name": "ko-juyo-pungsuhae_KO.xlsx",
+          "size": 10876
         }
       }
     },
