@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-18T02:22:19.283Z",
-  "total_datasets": 599,
-  "total_records": 460880,
+  "generated": "2026-11-18T02:22:31.582Z",
+  "total_datasets": 600,
+  "total_records": 460937,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "music",
@@ -8816,6 +8816,36 @@
         "xlsx": {
           "name": "ko-gyodoso-guchiso_KO.xlsx",
           "size": 7815
+        }
+      }
+    },
+    {
+      "id": "ko-haeyang-gyeongchalcheongjang",
+      "name": "대한민국 역대 해양경찰 최고책임자 (해양경찰대장~해양경찰청장)",
+      "category": "law",
+      "record_count": 57,
+      "columns": [
+        "jigwi",
+        "jeongbu",
+        "daesu",
+        "ireum",
+        "hanja",
+        "gyegeup",
+        "imgi_sijak",
+        "imgi_jongnyo",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_해양경찰청장",
+      "updated": "2026-11",
+      "size": 19985,
+      "files": {
+        "csv": {
+          "name": "ko-haeyang-gyeongchalcheongjang_KO.csv",
+          "size": 7973
+        },
+        "xlsx": {
+          "name": "ko-haeyang-gyeongchalcheongjang_KO.xlsx",
+          "size": 10623
         }
       }
     },

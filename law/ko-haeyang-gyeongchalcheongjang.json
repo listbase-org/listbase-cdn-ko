@@ -1,0 +1,698 @@
+{
+  "id": "ko-haeyang-gyeongchalcheongjang",
+  "name": "대한민국 역대 해양경찰 최고책임자 (해양경찰대장~해양경찰청장)",
+  "title": "대한민국 역대 해양경찰 최고책임자 (해양경찰대장~해양경찰청장)",
+  "description": "1953년 해양경찰대 창설 이후 역대 해양경찰대장·해양경찰청장 등의 정부, 대수, 이름(한자), 계급, 임기 및 비고 목록.",
+  "category": "law",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_해양경찰청장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_해양경찰청장",
+  "updated": "2026-11",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "jigwi",
+      "label": "Jigwi",
+      "type": "string"
+    },
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "gyegeup",
+      "label": "Gyegeup",
+      "type": "string"
+    },
+    {
+      "key": "imgi_sijak",
+      "label": "Imgi Sijak",
+      "type": "string"
+    },
+    {
+      "key": "imgi_jongnyo",
+      "label": "Imgi Jongnyo",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제1공화국",
+      "daesu": "초대",
+      "ireum": "이상열",
+      "hanja": "李相烈",
+      "gyegeup": "경무관",
+      "imgi_sijak": "1953년 12월 21일",
+      "imgi_jongnyo": "1955년 2월 7일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해무청 해양경비대장",
+      "jeongbu": "제1공화국",
+      "daesu": "초대",
+      "ireum": "이상열",
+      "hanja": "李相烈",
+      "gyegeup": "경무관",
+      "imgi_sijak": "1955년 2월 7일",
+      "imgi_jongnyo": "1955년 6월 14일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해무청 해양경비대장",
+      "jeongbu": "제1공화국",
+      "daesu": "2대",
+      "ireum": "김옥경",
+      "hanja": "金玉卿",
+      "gyegeup": "서기관",
+      "imgi_sijak": "1955년 8월 4일",
+      "imgi_jongnyo": "1956년 6월 7일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해무청 해양경비대장",
+      "jeongbu": "제1공화국",
+      "daesu": "3대",
+      "ireum": "최효용",
+      "hanja": "崔孝鏞",
+      "gyegeup": "이사관",
+      "imgi_sijak": "1956년 6월 28일",
+      "imgi_jongnyo": "1957년 9월 12일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해무청 해양경비대장",
+      "jeongbu": "제1공화국",
+      "daesu": "4대",
+      "ireum": "김석응",
+      "hanja": "金錫應",
+      "gyegeup": "이사관",
+      "imgi_sijak": "1957년 9월 12일",
+      "imgi_jongnyo": "1960년 5월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해무청 해양경비대장",
+      "jeongbu": "제2공화국",
+      "daesu": "5대",
+      "ireum": "민흥기",
+      "hanja": "閔興基",
+      "gyegeup": "이사관",
+      "imgi_sijak": "1960년 5월 30일",
+      "imgi_jongnyo": "1961년 6월 19일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해무청 해양경비대장",
+      "jeongbu": "제2공화국",
+      "daesu": "6대",
+      "ireum": "김순일",
+      "hanja": "金淳一",
+      "gyegeup": "해군 대령",
+      "imgi_sijak": "1961년 10월 30일",
+      "imgi_jongnyo": "1962년 5월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제2공화국",
+      "daesu": "초대",
+      "ireum": "김순일",
+      "hanja": "金淳一",
+      "gyegeup": "해군 대령",
+      "imgi_sijak": "1962년 5월 1일",
+      "imgi_jongnyo": "1963년 12월 17일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제3공화국",
+      "daesu": "2대",
+      "ireum": "신광영",
+      "hanja": "辛光永",
+      "gyegeup": "해군 대령",
+      "imgi_sijak": "1963년 12월 17일",
+      "imgi_jongnyo": "1964년 2월 2일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제3공화국",
+      "daesu": "3대",
+      "ireum": "신영철",
+      "hanja": "申永撤",
+      "gyegeup": "치안부이사관",
+      "imgi_sijak": "1964년 2월 3일",
+      "imgi_jongnyo": "1966년 9월 30일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제3공화국",
+      "daesu": "4대",
+      "ireum": "신용관",
+      "hanja": "申用寬",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1966년 10월 13일",
+      "imgi_jongnyo": "1971년 6월 21일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제3공화국",
+      "daesu": "5대",
+      "ireum": "이종학",
+      "hanja": "李宗鶴",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1971년 6월 21일",
+      "imgi_jongnyo": "1973년 5월 19일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "5대",
+      "ireum": "이종학",
+      "hanja": "李宗鶴",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1971년 6월 21일",
+      "imgi_jongnyo": "1973년 5월 19일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "6대",
+      "ireum": "하삼식",
+      "hanja": "河三植",
+      "gyegeup": "경무관",
+      "imgi_sijak": "1973년 5월 19일",
+      "imgi_jongnyo": "1973년 12월 17일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "7대",
+      "ireum": "박용전",
+      "hanja": "朴用銓",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1973년 12월 17일",
+      "imgi_jongnyo": "1974년 7월 12일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "8대",
+      "ireum": "장일훈",
+      "hanja": "張日勳",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1974년 7월 12일",
+      "imgi_jongnyo": "1975년 5월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "9대",
+      "ireum": "박병훈",
+      "hanja": "朴秉勳",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1975년 6월 3일",
+      "imgi_jongnyo": "1976년 7월 28일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "10대",
+      "ireum": "염보현",
+      "hanja": "廉普鉉",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1976년 7월 28일",
+      "imgi_jongnyo": "1979년 2월 29일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "11대",
+      "ireum": "이광수",
+      "hanja": "李光洙",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1979년 2월 20일",
+      "imgi_jongnyo": "1980년 7월 8일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제4공화국",
+      "daesu": "12대",
+      "ireum": "안응모",
+      "hanja": "安應模",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1980년 7월 23일",
+      "imgi_jongnyo": "1981년 3월 9일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "13대",
+      "ireum": "이균범",
+      "hanja": "李鈞範",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1981년 3월 9일",
+      "imgi_jongnyo": "1982년 1월 5일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "14대",
+      "ireum": "강민창",
+      "hanja": "姜玟昌",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1982년 1월 5일",
+      "imgi_jongnyo": "1983년 4월 8일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "15대",
+      "ireum": "홍세기",
+      "hanja": "洪世基",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1983년 4월 8일",
+      "imgi_jongnyo": "1983년 12월 13일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "16대",
+      "ireum": "최영덕",
+      "hanja": "崔永德",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1983년 12월 13일",
+      "imgi_jongnyo": "1985년 1월 18일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "17대",
+      "ireum": "안규학",
+      "hanja": "安圭鶴",
+      "gyegeup": "경무관",
+      "imgi_sijak": "1985년 1월 18일",
+      "imgi_jongnyo": "1985년 2월 28일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "18대",
+      "ireum": "조종석",
+      "hanja": "趙鍾奭",
+      "gyegeup": "치안감",
+      "imgi_sijak": "1985년 2월 28일",
+      "imgi_jongnyo": "1986년 1월 17일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "19대",
+      "ireum": "김상조",
+      "hanja": "金相祚",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1986년 1월 17일",
+      "imgi_jongnyo": "1986년 10월 27일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "20대",
+      "ireum": "권복경",
+      "hanja": "權福慶",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1986년 10월 27일",
+      "imgi_jongnyo": "1987년 1월 22일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "제5공화국",
+      "daesu": "21대",
+      "ireum": "주병덕",
+      "hanja": "朱炳德",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1987년 1월 22일",
+      "imgi_jongnyo": "1988년 6월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "노태우 정부",
+      "daesu": "22대",
+      "ireum": "정용득",
+      "hanja": "鄭龍得",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1988년 6월 1일",
+      "imgi_jongnyo": "1990년 6월 26일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "내무부 해양경찰대장",
+      "jeongbu": "노태우 정부",
+      "daesu": "23대",
+      "ireum": "허진원",
+      "hanja": "許鎭遠",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1990년 6월 26일",
+      "imgi_jongnyo": "1991년 7월 31일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "경찰청 해양경찰청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "초대",
+      "ireum": "이강년",
+      "hanja": "李康年",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1991년 7월 31일",
+      "imgi_jongnyo": "1993년 3월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "경찰청 해양경찰청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "2대",
+      "ireum": "최재삼",
+      "hanja": "崔在三",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1993년 3월 15일",
+      "imgi_jongnyo": "1993년 9월 22일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "경찰청 해양경찰청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "3대",
+      "ireum": "박일용",
+      "hanja": "朴一龍",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1993년 9월 23일",
+      "imgi_jongnyo": "1994년 7월 18일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "경찰청 해양경찰청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "4대",
+      "ireum": "정진규",
+      "hanja": "鄭鎭奎",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1994년 7월 19일",
+      "imgi_jongnyo": "1994년 12월 26일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "경찰청 해양경찰청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "5대",
+      "ireum": "유상식",
+      "hanja": "兪相植",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1994년 12월 27일",
+      "imgi_jongnyo": "1996년 8월 12일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "초대",
+      "ireum": "조성빈",
+      "hanja": "曺聖彬",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1996년 8월 12일",
+      "imgi_jongnyo": "1998년 3월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "2대",
+      "ireum": "김대원",
+      "hanja": "金大圓",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1998년 3월 1일",
+      "imgi_jongnyo": "1999년 12월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "3대",
+      "ireum": "김종우",
+      "hanja": "金宗佑",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "1999년 12월 3일",
+      "imgi_jongnyo": "2000년 12월 6일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "4대",
+      "ireum": "이규식",
+      "hanja": "李奎植",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "2000년 12월 7일",
+      "imgi_jongnyo": "2001년 11월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "5대",
+      "ireum": "박봉태",
+      "hanja": "朴奉泰",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "2001년 11월 1일",
+      "imgi_jongnyo": "2003년 3월 2일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "6대",
+      "ireum": "서재관",
+      "hanja": "徐載寬",
+      "gyegeup": "치안정감",
+      "imgi_sijak": "2003년 3월 3일",
+      "imgi_jongnyo": "2004년 1월 7일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "7대",
+      "ireum": "이승재",
+      "hanja": "李承栽",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2004년 1월 7일",
+      "imgi_jongnyo": "2006년 8월 9일",
+      "bigo": "재임 중 차관급으로 격상"
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "8대",
+      "ireum": "권동옥",
+      "hanja": "權東玉",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2006년 8월 9일",
+      "imgi_jongnyo": "2008년 3월 5일",
+      "bigo": "최초의 해양경찰관 출신"
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "9대",
+      "ireum": "강희락",
+      "hanja": "姜熙洛",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2008년 3월 6일",
+      "imgi_jongnyo": "2009년 3월 9일",
+      "bigo": "경찰청장 역임"
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "10대",
+      "ireum": "이길범",
+      "hanja": "李吉範",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2009년 3월 9일",
+      "imgi_jongnyo": "2010년 9월 8일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "11대",
+      "ireum": "모강인",
+      "hanja": "牟康仁",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2010년 9월 8일",
+      "imgi_jongnyo": "2012년 5월 7일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "12대",
+      "ireum": "이강덕",
+      "hanja": "李康德",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2012년 5월 7일",
+      "imgi_jongnyo": "2013년 3월 18일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "13대",
+      "ireum": "김석균",
+      "hanja": "金錫均",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2013년 3월 18일",
+      "imgi_jongnyo": "2014년 11월 18일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경비안전본부장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "14대",
+      "ireum": "홍익태",
+      "hanja": "弘益太",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2014년 11월 19일",
+      "imgi_jongnyo": "2017년 7월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "15대",
+      "ireum": "박경민",
+      "hanja": "朴敬暋",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2017년 7월 26일",
+      "imgi_jongnyo": "2018년 6월 24일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "16대",
+      "ireum": "조현배",
+      "hanja": "調現培",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2018년 6월 25일",
+      "imgi_jongnyo": "2020년 3월 5일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "17대",
+      "ireum": "김홍희",
+      "hanja": "金洪熙",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2020년 3월 5일",
+      "imgi_jongnyo": "2021년 12월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "18대",
+      "ireum": "정봉훈",
+      "hanja": "丁奉勳",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2021년 12월 3일",
+      "imgi_jongnyo": "2023년 1월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "19대",
+      "ireum": "김종욱",
+      "hanja": "金鍾旭",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2023년 1월 4일",
+      "imgi_jongnyo": "2025년 1월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "20대",
+      "ireum": "김용진",
+      "hanja": "金容珍",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2025년 2월 10일",
+      "imgi_jongnyo": "2025년 12월 11일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "해양경찰청장",
+      "jeongbu": "이재명 정부",
+      "daesu": "21대",
+      "ireum": "하만식",
+      "hanja": "河萬植",
+      "gyegeup": "치안총감",
+      "imgi_sijak": "2026년 9월 18일",
+      "imgi_jongnyo": "",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 해양경찰 최고책임자 (해양경찰대장~해양경찰청장) - Free Download",
+    "description": "1953년 해양경찰대 창설 이후 역대 해양경찰대장·해양경찰청장 등의 정부, 대수, 이름(한자), 계급, 임기 및 비고 목록. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 해양경찰 최고책임자 (해양경찰대장~해양경찰청장) | ListBase",
+    "seo_description": "Download 대한민국 역대 해양경찰 최고책임자 (해양경찰대장~해양경찰청장) — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_해양경찰청장"
+    ]
+  }
+}
