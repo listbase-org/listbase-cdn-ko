@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-18T02:22:07.642Z",
-  "total_datasets": 598,
-  "total_records": 460828,
+  "generated": "2026-11-18T02:22:19.283Z",
+  "total_datasets": 599,
+  "total_records": 460880,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "education",
@@ -951,6 +951,35 @@
         "xlsx": {
           "name": "ko-gukga-saneop-danji_KO.xlsx",
           "size": 7817
+        }
+      }
+    },
+    {
+      "id": "ko-gwansecheongjang",
+      "name": "대한민국 역대 관세청장 (재무부 세관국장~관세청장)",
+      "category": "economy",
+      "record_count": 52,
+      "columns": [
+        "jigwi",
+        "jeongbu",
+        "daesu",
+        "ireum",
+        "hanja",
+        "imgi_sijak",
+        "imgi_jongnyo",
+        "bigo"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_관세청장",
+      "updated": "2026-11",
+      "size": 15961,
+      "files": {
+        "csv": {
+          "name": "ko-gwansecheongjang_KO.csv",
+          "size": 5954
+        },
+        "xlsx": {
+          "name": "ko-gwansecheongjang_KO.xlsx",
+          "size": 10066
         }
       }
     },

@@ -1,0 +1,586 @@
+{
+  "id": "ko-gwansecheongjang",
+  "name": "대한민국 역대 관세청장 (재무부 세관국장~관세청장)",
+  "title": "대한민국 역대 관세청장 (재무부 세관국장~관세청장)",
+  "description": "재무부 세관국장(1948~)과 1970년 관세청 개청 이후 역대 관세청장의 정부, 대수, 이름(한자), 임기 및 비고 목록.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국_관세청장",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국_관세청장",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "jigwi",
+      "label": "Jigwi",
+      "type": "string"
+    },
+    {
+      "key": "jeongbu",
+      "label": "Jeongbu",
+      "type": "string"
+    },
+    {
+      "key": "daesu",
+      "label": "Daesu",
+      "type": "string"
+    },
+    {
+      "key": "ireum",
+      "label": "Ireum",
+      "type": "string"
+    },
+    {
+      "key": "hanja",
+      "label": "Hanja",
+      "type": "string"
+    },
+    {
+      "key": "imgi_sijak",
+      "label": "Imgi Sijak",
+      "type": "string"
+    },
+    {
+      "key": "imgi_jongnyo",
+      "label": "Imgi Jongnyo",
+      "type": "string"
+    },
+    {
+      "key": "bigo",
+      "label": "Bigo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제1공화국",
+      "daesu": "초대",
+      "ireum": "강성태",
+      "hanja": "姜聲邰",
+      "imgi_sijak": "1948년 11월 4일",
+      "imgi_jongnyo": "1953년 9월 14일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제1공화국",
+      "daesu": "2대",
+      "ireum": "안정근",
+      "hanja": "安定根",
+      "imgi_sijak": "1953년 10월 7일",
+      "imgi_jongnyo": "1956년 6월 10일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제1공화국",
+      "daesu": "3대",
+      "ireum": "김신서",
+      "hanja": "金信瑞",
+      "imgi_sijak": "1956년 6월 10일",
+      "imgi_jongnyo": "1959년 4월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제1공화국",
+      "daesu": "4대",
+      "ireum": "이용철",
+      "hanja": "李龍哲",
+      "imgi_sijak": "1959년 4월 1일",
+      "imgi_jongnyo": "1960년 9월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제2공화국",
+      "daesu": "5대",
+      "ireum": "김영균",
+      "hanja": "金永均",
+      "imgi_sijak": "1960년 10월 8일",
+      "imgi_jongnyo": "1961년 6월 13일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제2공화국",
+      "daesu": "6대",
+      "ireum": "임천순",
+      "hanja": "任天淳",
+      "imgi_sijak": "1961년 6월 13일",
+      "imgi_jongnyo": "",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제2공화국",
+      "daesu": "7대",
+      "ireum": "민영훈",
+      "hanja": "閔泳薰",
+      "imgi_sijak": "",
+      "imgi_jongnyo": "1962년 7월 14일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제2공화국",
+      "daesu": "8대",
+      "ireum": "신관섭",
+      "hanja": "申寬燮",
+      "imgi_sijak": "1962년 7월 14일",
+      "imgi_jongnyo": "1964년 5월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "8대",
+      "ireum": "신관섭",
+      "hanja": "申寬燮",
+      "imgi_sijak": "1962년 7월 14일",
+      "imgi_jongnyo": "1964년 5월 1일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "9대",
+      "ireum": "백경복",
+      "hanja": "白慶福",
+      "imgi_sijak": "1964년 5월 1일",
+      "imgi_jongnyo": "1965년 12월 14일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "10대",
+      "ireum": "김재덕",
+      "hanja": "金在德",
+      "imgi_sijak": "1965년 12월 14일",
+      "imgi_jongnyo": "1966년 2월 28일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "11대",
+      "ireum": "명동근",
+      "hanja": "明東根",
+      "imgi_sijak": "1966년 2월 28일",
+      "imgi_jongnyo": "1966년 11월 15일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "12대",
+      "ireum": "최각규",
+      "hanja": "崔珏圭",
+      "imgi_sijak": "1966년 11월 15일",
+      "imgi_jongnyo": "1968년 2월 10일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "13대",
+      "ireum": "조충훈",
+      "hanja": "趙忠勳",
+      "imgi_sijak": "1968년 2월 10일",
+      "imgi_jongnyo": "1969년 4월 10일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "14새",
+      "ireum": "임영득",
+      "hanja": "任煐得",
+      "imgi_sijak": "1969년 4월 10일",
+      "imgi_jongnyo": "1970년 3월 11일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "재무부 세관국장",
+      "jeongbu": "제3공화국",
+      "daesu": "15대",
+      "ireum": "최운지",
+      "hanja": "崔雲芝",
+      "imgi_sijak": "1970년 3월 11일",
+      "imgi_jongnyo": "1970년 8월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "제3공화국",
+      "daesu": "초대",
+      "ireum": "이택규",
+      "hanja": "李宅珪",
+      "imgi_sijak": "1970년 8월 4일",
+      "imgi_jongnyo": "1974년 2월 4일",
+      "bigo": "검사 출신"
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "제4공화국",
+      "daesu": "2대",
+      "ireum": "최대현",
+      "hanja": "崔大賢",
+      "imgi_sijak": "1974년 2월 5일",
+      "imgi_jongnyo": "1978년 12월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "제4공화국",
+      "daesu": "3대",
+      "ireum": "김재현",
+      "hanja": "金在鉉",
+      "imgi_sijak": "1978년 12월 26일",
+      "imgi_jongnyo": "1981년 4월 26일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "제5공화국",
+      "daesu": "4대",
+      "ireum": "김욱태",
+      "hanja": "金煜泰",
+      "imgi_sijak": "1981년 4월 27일",
+      "imgi_jongnyo": "1986년 8월 28일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "제5공화국",
+      "daesu": "5대",
+      "ireum": "장영철",
+      "hanja": "張永喆",
+      "imgi_sijak": "1986년 8월 29일",
+      "imgi_jongnyo": "1988년 3월 4일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "6대",
+      "ireum": "이동호",
+      "hanja": "李同浩",
+      "imgi_sijak": "1988년 3월 5일",
+      "imgi_jongnyo": "1988년 12월 12일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "7대",
+      "ireum": "홍재형",
+      "hanja": "洪在馨",
+      "imgi_sijak": "1988년 12월 13일",
+      "imgi_jongnyo": "1990년 3월 27일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "8대",
+      "ireum": "이수휴",
+      "hanja": "李秀烋",
+      "imgi_sijak": "1990년 3월 28일",
+      "imgi_jongnyo": "1991년 2월 18일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "9대",
+      "ireum": "김기인",
+      "hanja": "金基仁",
+      "imgi_sijak": "1991년 2월 19일",
+      "imgi_jongnyo": "1992년 1월 28일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "10대",
+      "ireum": "백원구",
+      "hanja": "白源九",
+      "imgi_sijak": "1992년 12월 29일",
+      "imgi_jongnyo": "1993년 3월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노태우 정부",
+      "daesu": "11대",
+      "ireum": "김경태",
+      "hanja": "金景泰",
+      "imgi_sijak": "1993년 3월 4일",
+      "imgi_jongnyo": "1993년 12월 27일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "12대",
+      "ireum": "김용진",
+      "hanja": "金容鎭",
+      "imgi_sijak": "1993년 12월 28일",
+      "imgi_jongnyo": "1994년 5월 22일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "13대",
+      "ireum": "이환균",
+      "hanja": "李桓均",
+      "imgi_sijak": "1994년 5월 23일",
+      "imgi_jongnyo": "1995년 12월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "14대",
+      "ireum": "강만수",
+      "hanja": "姜萬洙",
+      "imgi_sijak": "1995년 12월 26일",
+      "imgi_jongnyo": "1996년 12월 23일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "15대",
+      "ireum": "김영섭",
+      "hanja": "金永燮",
+      "imgi_sijak": "1996년 12월 24일",
+      "imgi_jongnyo": "1997년 11월 19일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김영삼 정부",
+      "daesu": "16대",
+      "ireum": "엄낙용",
+      "hanja": "嚴洛鎔",
+      "imgi_sijak": "1997년 11월 20일",
+      "imgi_jongnyo": "1999년 5월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "16대",
+      "ireum": "엄낙용",
+      "hanja": "嚴洛鎔",
+      "imgi_sijak": "1997년 11월 20일",
+      "imgi_jongnyo": "1999년 5월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "17대",
+      "ireum": "김호식",
+      "hanja": "金昊植",
+      "imgi_sijak": "1999년 5월 26일",
+      "imgi_jongnyo": "2001년 4월 2일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "18대",
+      "ireum": "윤진식",
+      "hanja": "尹鎭植",
+      "imgi_sijak": "2001년 4월 6일",
+      "imgi_jongnyo": "2002년 2월 4일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "김대중 정부",
+      "daesu": "19대",
+      "ireum": "이용섭",
+      "hanja": "李庸燮",
+      "imgi_sijak": "2002년 2월 5일",
+      "imgi_jongnyo": "2003년 3월 3일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "20대",
+      "ireum": "김용덕",
+      "hanja": "金容德",
+      "imgi_sijak": "2003년 3월 3일",
+      "imgi_jongnyo": "2005년 5월 26일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "노무현 정부",
+      "daesu": "21대",
+      "ireum": "성윤갑",
+      "hanja": "成允甲",
+      "imgi_sijak": "2005년 5월 27일",
+      "imgi_jongnyo": "2008년 3월 6일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "22대",
+      "ireum": "허용석",
+      "hanja": "許龍錫",
+      "imgi_sijak": "2008년 3월 7일",
+      "imgi_jongnyo": "2010년 3월 22일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "23대",
+      "ireum": "윤영선",
+      "hanja": "尹永善",
+      "imgi_sijak": "2010년 3월 23일",
+      "imgi_jongnyo": "2011년 7월 21일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "이명박 정부",
+      "daesu": "24대",
+      "ireum": "주영섭",
+      "hanja": "周英燮",
+      "imgi_sijak": "2011년 7월 22일",
+      "imgi_jongnyo": "2013년 3월 18일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "25대",
+      "ireum": "백운찬",
+      "hanja": "白雲瓚",
+      "imgi_sijak": "2013년 3월 18일",
+      "imgi_jongnyo": "2014년 7월 25일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "26대",
+      "ireum": "김낙회",
+      "hanja": "金樂懷",
+      "imgi_sijak": "2014년 7월 25일",
+      "imgi_jongnyo": "2016년 5월 24일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "박근혜 정부",
+      "daesu": "27대",
+      "ireum": "천홍욱",
+      "hanja": "千泓昱",
+      "imgi_sijak": "2016년 5월 24일",
+      "imgi_jongnyo": "2017년 7월 15일",
+      "bigo": "최초의 내부 승진 청장"
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "직무 대행",
+      "ireum": "김종열",
+      "hanja": "金鍾烈",
+      "imgi_sijak": "2017년 7월 15일",
+      "imgi_jongnyo": "2017년 7월 31일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "28대",
+      "ireum": "김영문",
+      "hanja": "金榮文",
+      "imgi_sijak": "2017년 7월 31일",
+      "imgi_jongnyo": "2019년 12월 12일",
+      "bigo": "38년 만의 검사 출신 청장"
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "29대",
+      "ireum": "노석환",
+      "hanja": "盧奭桓",
+      "imgi_sijak": "2019년 12월 13일",
+      "imgi_jongnyo": "2021년 3월 26일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "문재인 정부",
+      "daesu": "30대",
+      "ireum": "임재현",
+      "hanja": "林在賢",
+      "imgi_sijak": "2021년 3월 27일",
+      "imgi_jongnyo": "2022년 5월 13일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "31대",
+      "ireum": "윤태식",
+      "hanja": "尹泰植",
+      "imgi_sijak": "2022년 5월 13일",
+      "imgi_jongnyo": "2023년 7월 5일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "윤석열 정부",
+      "daesu": "32대",
+      "ireum": "고광효",
+      "hanja": "高光孝",
+      "imgi_sijak": "2023년 7월 6일",
+      "imgi_jongnyo": "2025년 7월",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "이재명 정부",
+      "daesu": "33대",
+      "ireum": "이명구",
+      "hanja": "李明九",
+      "imgi_sijak": "2025년 7월 14일",
+      "imgi_jongnyo": "2026년 5월 15일",
+      "bigo": ""
+    },
+    {
+      "jigwi": "관세청장",
+      "jeongbu": "이재명 정부",
+      "daesu": "34대",
+      "ireum": "이종욱",
+      "hanja": "李宗昱",
+      "imgi_sijak": "2026년 5월 15일",
+      "imgi_jongnyo": "",
+      "bigo": ""
+    }
+  ],
+  "meta": {
+    "title": "대한민국 역대 관세청장 (재무부 세관국장~관세청장) - Free Download",
+    "description": "재무부 세관국장(1948~)과 1970년 관세청 개청 이후 역대 관세청장의 정부, 대수, 이름(한자), 임기 및 비고 목록. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 역대 관세청장 (재무부 세관국장~관세청장) | ListBase",
+    "seo_description": "Download 대한민국 역대 관세청장 (재무부 세관국장~관세청장) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국_관세청장"
+    ]
+  }
+}
