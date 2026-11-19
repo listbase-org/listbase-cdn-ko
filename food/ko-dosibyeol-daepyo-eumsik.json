@@ -1,0 +1,316 @@
+{
+  "id": "ko-dosibyeol-daepyo-eumsik",
+  "name": "한국의 도시별 대표 요리·특산물 목록",
+  "title": "한국의 도시별 대표 요리·특산물 목록",
+  "description": "한국의 시·군별로 널리 알려진 대표 음식과 특산 식품 목록 (춘천 닭갈비, 전주 비빔밥, 안동 간고등어, 포항 과메기 등).",
+  "category": "food",
+  "source": "https://ko.wikipedia.org/wiki/한국의_도시별_대표_요리_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_도시별_대표_요리_목록",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "jiyeok",
+      "label": "Jiyeok",
+      "type": "string"
+    },
+    {
+      "key": "daepyo_eumsik",
+      "label": "Daepyo Eumsik",
+      "type": "string"
+    },
+    {
+      "key": "bukhan",
+      "label": "Bukhan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jiyeok": "평양직할시",
+      "daepyo_eumsik": "평양 랭면 (평양 식 냉면)",
+      "bukhan": "예"
+    },
+    {
+      "jiyeok": "개성특급시",
+      "daepyo_eumsik": "인삼",
+      "bukhan": "예"
+    },
+    {
+      "jiyeok": "삼척시",
+      "daepyo_eumsik": "곰치국",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "속초시",
+      "daepyo_eumsik": "아바이순대",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "속초시",
+      "daepyo_eumsik": "오징어순대",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "속초시",
+      "daepyo_eumsik": "코다리냉면",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "춘천시",
+      "daepyo_eumsik": "닭갈비",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "춘천시",
+      "daepyo_eumsik": "막국수",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "평창군",
+      "daepyo_eumsik": "메밀",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "홍천군",
+      "daepyo_eumsik": "찰옥수수",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "횡성군",
+      "daepyo_eumsik": "한우",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "횡성군",
+      "daepyo_eumsik": "더덕",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "횡성군",
+      "daepyo_eumsik": "찐빵",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "가평군",
+      "daepyo_eumsik": "잣",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "이천시",
+      "daepyo_eumsik": "쌀",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "여주시",
+      "daepyo_eumsik": "쌀",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "여주시",
+      "daepyo_eumsik": "고구마",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "여주시",
+      "daepyo_eumsik": "복숭아",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "여주시",
+      "daepyo_eumsik": "가지",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "여주시",
+      "daepyo_eumsik": "참외",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "포천시",
+      "daepyo_eumsik": "막걸리",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "포천시",
+      "daepyo_eumsik": "갈비",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "화성시",
+      "daepyo_eumsik": "포도",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "금산군",
+      "daepyo_eumsik": "인삼",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "논산시",
+      "daepyo_eumsik": "딸기",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "괴산군",
+      "daepyo_eumsik": "고추",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "음성군",
+      "daepyo_eumsik": "고추",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "천안시",
+      "daepyo_eumsik": "호두과자",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "청양군",
+      "daepyo_eumsik": "구기자",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "고흥군",
+      "daepyo_eumsik": "유자",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "곡성군",
+      "daepyo_eumsik": "멜론",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "광양시",
+      "daepyo_eumsik": "불고기",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "광양시",
+      "daepyo_eumsik": "재첩",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "나주시",
+      "daepyo_eumsik": "곰탕",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "나주시",
+      "daepyo_eumsik": "배",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "남원시",
+      "daepyo_eumsik": "추어탕",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "보성군",
+      "daepyo_eumsik": "녹차",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "보성군",
+      "daepyo_eumsik": "꼬막",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "신안군",
+      "daepyo_eumsik": "홍어",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "영광군",
+      "daepyo_eumsik": "굴비",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "전주시",
+      "daepyo_eumsik": "비빔밥",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "전주시",
+      "daepyo_eumsik": "모주",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "전주시",
+      "daepyo_eumsik": "이강주",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "김해시",
+      "daepyo_eumsik": "단감",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "상주시",
+      "daepyo_eumsik": "곶감",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "안동시",
+      "daepyo_eumsik": "간고등어",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "영덕군",
+      "daepyo_eumsik": "대게",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "영주시",
+      "daepyo_eumsik": "인삼",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "울릉군",
+      "daepyo_eumsik": "오징어",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "울릉군",
+      "daepyo_eumsik": "호박엿",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "포항시",
+      "daepyo_eumsik": "과메기",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "하동군",
+      "daepyo_eumsik": "녹차",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "하동군",
+      "daepyo_eumsik": "재첩",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "제주도",
+      "daepyo_eumsik": "감귤",
+      "bukhan": "아니요"
+    },
+    {
+      "jiyeok": "제주도",
+      "daepyo_eumsik": "말고기",
+      "bukhan": "아니요"
+    }
+  ],
+  "meta": {
+    "title": "한국의 도시별 대표 요리·특산물 목록 - Free Download",
+    "description": "한국의 시·군별로 널리 알려진 대표 음식과 특산 식품 목록 (춘천 닭갈비, 전주 비빔밥, 안동 간고등어, 포항 과메기 등). Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국의 도시별 대표 요리·특산물 목록 | ListBase",
+    "seo_description": "Download 한국의 도시별 대표 요리·특산물 목록 — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_도시별_대표_요리_목록"
+    ]
+  }
+}

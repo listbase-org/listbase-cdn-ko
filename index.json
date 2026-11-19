@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-18T02:22:31.582Z",
-  "total_datasets": 600,
-  "total_records": 460937,
+  "generated": "2026-11-19T02:29:47.204Z",
+  "total_datasets": 601,
+  "total_records": 460992,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "geography",
@@ -4032,6 +4032,30 @@
         "xlsx": {
           "name": "ko-yureop-gukga_KO.xlsx",
           "size": 15830
+        }
+      }
+    },
+    {
+      "id": "ko-dosibyeol-daepyo-eumsik",
+      "name": "한국의 도시별 대표 요리·특산물 목록",
+      "category": "food",
+      "record_count": 55,
+      "columns": [
+        "jiyeok",
+        "daepyo_eumsik",
+        "bukhan"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_도시별_대표_요리_목록",
+      "updated": "2026-11",
+      "size": 7468,
+      "files": {
+        "csv": {
+          "name": "ko-dosibyeol-daepyo-eumsik_KO.csv",
+          "size": 1956
+        },
+        "xlsx": {
+          "name": "ko-dosibyeol-daepyo-eumsik_KO.xlsx",
+          "size": 8126
         }
       }
     },
