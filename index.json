@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-19T02:29:47.204Z",
-  "total_datasets": 601,
-  "total_records": 460992,
+  "generated": "2026-11-19T02:29:58.935Z",
+  "total_datasets": 602,
+  "total_records": 461005,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "tech",
@@ -13613,6 +13613,33 @@
         "xlsx": {
           "name": "ko-kleague1-yeokdae-useung_KO.xlsx",
           "size": 8589
+        }
+      }
+    },
+    {
+      "id": "ko-kleague2-yeokdae-useung",
+      "name": "K리그2 역대 시즌 우승팀 (2013~2025)",
+      "category": "sports",
+      "record_count": 13,
+      "columns": [
+        "hoecha",
+        "sijeun",
+        "chamga_timsu",
+        "daehoe_bangsik",
+        "useung",
+        "jun_useung"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/K리그_우승_기록",
+      "updated": "2026-11",
+      "size": 4524,
+      "files": {
+        "csv": {
+          "name": "ko-kleague2-yeokdae-useung_KO.csv",
+          "size": 1098
+        },
+        "xlsx": {
+          "name": "ko-kleague2-yeokdae-useung_KO.xlsx",
+          "size": 7393
         }
       }
     },
