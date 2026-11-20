@@ -1,0 +1,240 @@
+{
+  "id": "ko-pyeji-tongpyeham-gungnip-daehak",
+  "name": "대한민국의 폐지·통폐합된 대학 목록 (국립대학 위주)",
+  "title": "대한민국의 폐지·통폐합된 대학 목록 (국립대학 위주)",
+  "description": "위키백과 「대한민국의 국립 대학 목록」에 수록된 폐지·통폐합 대학(주로 국립 대학·전문대학, 일부 폐교 대학 포함)의 이름, 종류, 통합된 학교, 폐지 연도와 상태(통폐합/폐교).",
+  "category": "education",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_국립_대학_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_국립_대학_목록",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "successor",
+      "label": "Successor",
+      "type": "string"
+    },
+    {
+      "key": "year_closed",
+      "label": "Year Closed",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "경남간호전문대학",
+      "type": "전문대학",
+      "successor": "경상국립대학교",
+      "year_closed": 1984,
+      "status": "통폐합"
+    },
+    {
+      "name": "경남과학기술대학교",
+      "type": "대학",
+      "successor": "경상국립대학교",
+      "year_closed": 2021,
+      "status": "통폐합"
+    },
+    {
+      "name": "공주문화대학",
+      "type": "전문대학",
+      "successor": "국립공주대학교",
+      "year_closed": 2001,
+      "status": "통폐합"
+    },
+    {
+      "name": "국립의료원 간호대학",
+      "type": "전문대학",
+      "successor": "성신여자대학교",
+      "year_closed": 2007,
+      "status": "통폐합"
+    },
+    {
+      "name": "군산수산전문대학",
+      "type": "전문대학",
+      "successor": "국립군산대학교",
+      "year_closed": 1992,
+      "status": "통폐합"
+    },
+    {
+      "name": "대구사범대학",
+      "type": "사범대학",
+      "successor": "경북대학교",
+      "year_closed": 1951,
+      "status": "통폐합"
+    },
+    {
+      "name": "밀양대학교",
+      "type": "산업대학",
+      "successor": "부산대학교",
+      "year_closed": 2006,
+      "status": "통폐합"
+    },
+    {
+      "name": "부산공업대학교",
+      "type": "산업대학",
+      "successor": "국립부경대학교",
+      "year_closed": 1996,
+      "status": "통폐합"
+    },
+    {
+      "name": "부산수산대학교",
+      "type": "대학",
+      "successor": "국립부경대학교",
+      "year_closed": 1996,
+      "status": "통폐합"
+    },
+    {
+      "name": "삼척대학교",
+      "type": "산업대학",
+      "successor": "강원대학교",
+      "year_closed": 2006,
+      "status": "통폐합"
+    },
+    {
+      "name": "상주대학교",
+      "type": "산업대학",
+      "successor": "경북대학교",
+      "year_closed": 2008,
+      "status": "통폐합"
+    },
+    {
+      "name": "세무대학",
+      "type": "전문대학",
+      "successor": "",
+      "year_closed": 2001,
+      "status": "폐교"
+    },
+    {
+      "name": "여수대학교",
+      "type": "산업대학",
+      "successor": "전남대학교",
+      "year_closed": 2006,
+      "status": "통폐합"
+    },
+    {
+      "name": "예산농업전문대학",
+      "type": "전문대학",
+      "successor": "국립공주대학교",
+      "year_closed": 1992,
+      "status": "통폐합"
+    },
+    {
+      "name": "원주대학",
+      "type": "전문대학",
+      "successor": "강원대학교",
+      "year_closed": 2007,
+      "status": "통폐합"
+    },
+    {
+      "name": "익산대학",
+      "type": "전문대학",
+      "successor": "전북대학교",
+      "year_closed": 2008,
+      "status": "통폐합"
+    },
+    {
+      "name": "제주교육대학교",
+      "type": "교육대학",
+      "successor": "제주대학교",
+      "year_closed": 2008,
+      "status": "통폐합"
+    },
+    {
+      "name": "천안공업대학",
+      "type": "전문대학",
+      "successor": "국립공주대학교",
+      "year_closed": 2005,
+      "status": "통폐합"
+    },
+    {
+      "name": "청주과학대학",
+      "type": "전문대학",
+      "successor": "국립한국교통대학교",
+      "year_closed": 2006,
+      "status": "통폐합"
+    },
+    {
+      "name": "충주대학교",
+      "type": "대학",
+      "successor": "국립한국교통대학교",
+      "year_closed": 2012,
+      "status": "통폐합"
+    },
+    {
+      "name": "통영수산전문대학",
+      "type": "전문대학",
+      "successor": "경상국립대학교",
+      "year_closed": 1995,
+      "status": "통폐합"
+    },
+    {
+      "name": "한국복지대학교",
+      "type": "전문대학",
+      "successor": "한경국립대학교",
+      "year_closed": 2023,
+      "status": "통폐합"
+    },
+    {
+      "name": "한국정보통신대학교",
+      "type": "대학",
+      "successor": "한국과학기술원",
+      "year_closed": 2009,
+      "status": "통폐합"
+    },
+    {
+      "name": "한국철도대학",
+      "type": "전문대학",
+      "successor": "국립한국교통대학교",
+      "year_closed": 2012,
+      "status": "통폐합"
+    },
+    {
+      "name": "광주예술대학교",
+      "type": "대학",
+      "successor": "",
+      "year_closed": 2000,
+      "status": "폐교"
+    },
+    {
+      "name": "명신대학교",
+      "type": "대학",
+      "successor": "",
+      "year_closed": 2012,
+      "status": "폐교"
+    },
+    {
+      "name": "한려대학교",
+      "type": "대학",
+      "successor": "",
+      "year_closed": 2022,
+      "status": "폐교"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 폐지·통폐합된 대학 목록 (국립대학 위주) - Free Download",
+    "description": "위키백과 「대한민국의 국립 대학 목록」에 수록된 폐지·통폐합 대학(주로 국립 대학·전문대학, 일부 폐교 대학 포함)의 이름, 종류, 통합된 학교, 폐지 연도와 상태(통폐합/폐교). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 폐지·통폐합된 대학 목록 (국립대학 위주) | ListBase",
+    "seo_description": "Download 대한민국의 폐지·통폐합된 대학 목록 (국립대학 위주) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_국립_대학_목록"
+    ]
+  }
+}

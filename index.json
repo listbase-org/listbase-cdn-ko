@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-20T02:14:45.174Z",
-  "total_datasets": 604,
-  "total_records": 461151,
+  "generated": "2026-11-20T02:25:59.503Z",
+  "total_datasets": 605,
+  "total_records": 461178,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 39
+      "dataset_count": 40
     },
     {
       "id": "entertainment",
@@ -2214,6 +2214,32 @@
         "xlsx": {
           "name": "ko-jeonbuk-daehak_KO.xlsx",
           "size": 8412
+        }
+      }
+    },
+    {
+      "id": "ko-pyeji-tongpyeham-gungnip-daehak",
+      "name": "대한민국의 폐지·통폐합된 대학 목록 (국립대학 위주)",
+      "category": "education",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "type",
+        "successor",
+        "year_closed",
+        "status"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_국립_대학_목록",
+      "updated": "2026-11",
+      "size": 6788,
+      "files": {
+        "csv": {
+          "name": "ko-pyeji-tongpyeham-gungnip-daehak_KO.csv",
+          "size": 2044
+        },
+        "xlsx": {
+          "name": "ko-pyeji-tongpyeham-gungnip-daehak_KO.xlsx",
+          "size": 7805
         }
       }
     },
