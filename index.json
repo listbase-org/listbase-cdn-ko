@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-19T02:29:58.935Z",
-  "total_datasets": 602,
-  "total_records": 461005,
+  "generated": "2026-11-20T02:14:35.644Z",
+  "total_datasets": 603,
+  "total_records": 461134,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "tech",
@@ -13275,6 +13275,44 @@
         "xlsx": {
           "name": "ko-cheonha-jangsa_KO.xlsx",
           "size": 8594
+        }
+      }
+    },
+    {
+      "id": "ko-chukgu-gukga-daepyo-gamdok-girok",
+      "name": "대한민국 축구 국가대표팀 역대 감독 기록",
+      "category": "sports",
+      "record_count": 129,
+      "columns": [
+        "year",
+        "no",
+        "coach",
+        "assistant_coach",
+        "appointed",
+        "took_office",
+        "left_office",
+        "matches",
+        "wins",
+        "draws",
+        "losses",
+        "goals_for",
+        "goals_against",
+        "goal_difference",
+        "win_pct",
+        "top_scorer",
+        "major_tournaments"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀_감독과_수석코치_명단_기록",
+      "updated": "2026-11",
+      "size": 68643,
+      "files": {
+        "csv": {
+          "name": "ko-chukgu-gukga-daepyo-gamdok-girok_KO.csv",
+          "size": 22636
+        },
+        "xlsx": {
+          "name": "ko-chukgu-gukga-daepyo-gamdok-girok_KO.xlsx",
+          "size": 19664
         }
       }
     },
