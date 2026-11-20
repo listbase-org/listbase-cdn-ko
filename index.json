@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-20T02:14:35.644Z",
-  "total_datasets": 603,
-  "total_records": 461134,
+  "generated": "2026-11-20T02:14:45.174Z",
+  "total_datasets": 604,
+  "total_records": 461151,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "education",
@@ -1191,6 +1191,32 @@
         "xlsx": {
           "name": "ko-sangho-chulja-jehan-gieopjipdan_KO.xlsx",
           "size": 8801
+        }
+      }
+    },
+    {
+      "id": "ko-sido-jiyeongnae-chongsaengsan-2023",
+      "name": "대한민국 시·도별 지역내총생산(GRDP) (2023년)",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "region",
+        "grdp_rank",
+        "grdp_trillion_krw",
+        "grdp_per_capita_rank",
+        "grdp_per_capita_10k_krw"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_지역별_국내_총생산",
+      "updated": "2026-11",
+      "size": 4954,
+      "files": {
+        "csv": {
+          "name": "ko-sido-jiyeongnae-chongsaengsan-2023_KO.csv",
+          "size": 764
+        },
+        "xlsx": {
+          "name": "ko-sido-jiyeongnae-chongsaengsan-2023_KO.xlsx",
+          "size": 7388
         }
       }
     },

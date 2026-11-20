@@ -1,0 +1,170 @@
+{
+  "id": "ko-sido-jiyeongnae-chongsaengsan-2023",
+  "name": "대한민국 시·도별 지역내총생산(GRDP) (2023년)",
+  "title": "대한민국 시·도별 지역내총생산(GRDP) (2023년)",
+  "description": "2023년 통계청 지역소득 통계 기준 대한민국 17개 시·도의 명목 지역내총생산(조 원)과 1인당 지역내총생산(만 원) 및 순위.",
+  "category": "economy",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_지역별_국내_총생산",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_지역별_국내_총생산",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "grdp_rank",
+      "label": "Grdp Rank",
+      "type": "number"
+    },
+    {
+      "key": "grdp_trillion_krw",
+      "label": "Grdp Trillion Krw",
+      "type": "number"
+    },
+    {
+      "key": "grdp_per_capita_rank",
+      "label": "Grdp Per Capita Rank",
+      "type": "number"
+    },
+    {
+      "key": "grdp_per_capita_10k_krw",
+      "label": "Grdp Per Capita 10k Krw",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "경기도",
+      "grdp_rank": 1,
+      "grdp_trillion_krw": 594,
+      "grdp_per_capita_rank": 8,
+      "grdp_per_capita_10k_krw": 4307
+    },
+    {
+      "region": "서울특별시",
+      "grdp_rank": 2,
+      "grdp_trillion_krw": 548,
+      "grdp_per_capita_rank": 3,
+      "grdp_per_capita_10k_krw": 5825
+    },
+    {
+      "region": "충청남도",
+      "grdp_rank": 3,
+      "grdp_trillion_krw": 143,
+      "grdp_per_capita_rank": 2,
+      "grdp_per_capita_10k_krw": 6471
+    },
+    {
+      "region": "경상남도",
+      "grdp_rank": 4,
+      "grdp_trillion_krw": 138,
+      "grdp_per_capita_rank": 9,
+      "grdp_per_capita_10k_krw": 4214
+    },
+    {
+      "region": "경상북도",
+      "grdp_rank": 5,
+      "grdp_trillion_krw": 127,
+      "grdp_per_capita_rank": 6,
+      "grdp_per_capita_10k_krw": 4881
+    },
+    {
+      "region": "인천광역시",
+      "grdp_rank": 6,
+      "grdp_trillion_krw": 117,
+      "grdp_per_capita_rank": 11,
+      "grdp_per_capita_10k_krw": 3884
+    },
+    {
+      "region": "부산광역시",
+      "grdp_rank": 7,
+      "grdp_trillion_krw": 114,
+      "grdp_per_capita_rank": 16,
+      "grdp_per_capita_10k_krw": 3476
+    },
+    {
+      "region": "전라남도",
+      "grdp_rank": 8,
+      "grdp_trillion_krw": 98,
+      "grdp_per_capita_rank": 4,
+      "grdp_per_capita_10k_krw": 5551
+    },
+    {
+      "region": "울산광역시",
+      "grdp_rank": 9,
+      "grdp_trillion_krw": 90,
+      "grdp_per_capita_rank": 1,
+      "grdp_per_capita_10k_krw": 8124
+    },
+    {
+      "region": "충청북도",
+      "grdp_rank": 10,
+      "grdp_trillion_krw": 88,
+      "grdp_per_capita_rank": 5,
+      "grdp_per_capita_10k_krw": 5421
+    },
+    {
+      "region": "대구광역시",
+      "grdp_rank": 11,
+      "grdp_trillion_krw": 73,
+      "grdp_per_capita_rank": 17,
+      "grdp_per_capita_10k_krw": 3098
+    },
+    {
+      "region": "전북특별자치도",
+      "grdp_rank": 12,
+      "grdp_trillion_krw": 64,
+      "grdp_per_capita_rank": 14,
+      "grdp_per_capita_10k_krw": 3628
+    },
+    {
+      "region": "강원특별자치도",
+      "grdp_rank": 13,
+      "grdp_trillion_krw": 62,
+      "grdp_per_capita_rank": 10,
+      "grdp_per_capita_10k_krw": 4071
+    },
+    {
+      "region": "대전광역시",
+      "grdp_rank": 14,
+      "grdp_trillion_krw": 54,
+      "grdp_per_capita_rank": 13,
+      "grdp_per_capita_10k_krw": 3665
+    },
+    {
+      "region": "광주광역시",
+      "grdp_rank": 15,
+      "grdp_trillion_krw": 52,
+      "grdp_per_capita_rank": 15,
+      "grdp_per_capita_10k_krw": 3545
+    },
+    {
+      "region": "제주특별자치도",
+      "grdp_rank": 16,
+      "grdp_trillion_krw": 26,
+      "grdp_per_capita_rank": 12,
+      "grdp_per_capita_10k_krw": 3845
+    },
+    {
+      "region": "세종특별자치시",
+      "grdp_rank": 17,
+      "grdp_trillion_krw": 17,
+      "grdp_per_capita_rank": 7,
+      "grdp_per_capita_10k_krw": 4317
+    }
+  ],
+  "meta": {
+    "title": "대한민국 시·도별 지역내총생산(GRDP) (2023년) - Free Download",
+    "description": "2023년 통계청 지역소득 통계 기준 대한민국 17개 시·도의 명목 지역내총생산(조 원)과 1인당 지역내총생산(만 원) 및 순위. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국 시·도별 지역내총생산(GRDP) (2023년) | ListBase",
+    "seo_description": "Download 대한민국 시·도별 지역내총생산(GRDP) (2023년) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_지역별_국내_총생산"
+    ]
+  }
+}
