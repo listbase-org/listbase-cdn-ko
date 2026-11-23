@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-20T02:25:59.503Z",
-  "total_datasets": 605,
-  "total_records": 461178,
+  "generated": "2026-11-23T02:25:18.549Z",
+  "total_datasets": 606,
+  "total_records": 461595,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "tech",
@@ -13508,6 +13508,33 @@
         "xlsx": {
           "name": "ko-kbo-choeso-gwanjung-gyeonggi_KO.xlsx",
           "size": 7661
+        }
+      }
+    },
+    {
+      "id": "ko-kbo-gaein-taiteul-suhangja",
+      "name": "KBO 리그 개인 타이틀 역대 수상자",
+      "category": "sports",
+      "record_count": 417,
+      "columns": [
+        "year",
+        "title",
+        "player",
+        "team",
+        "record",
+        "note"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/KBO_홈런상",
+      "updated": "2026-11",
+      "size": 83324,
+      "files": {
+        "csv": {
+          "name": "ko-kbo-gaein-taiteul-suhangja_KO.csv",
+          "size": 37775
+        },
+        "xlsx": {
+          "name": "ko-kbo-gaein-taiteul-suhangja_KO.xlsx",
+          "size": 23677
         }
       }
     },
