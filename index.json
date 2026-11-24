@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-23T02:25:27.045Z",
-  "total_datasets": 607,
-  "total_records": 461912,
+  "generated": "2026-11-24T02:18:26.792Z",
+  "total_datasets": 608,
+  "total_records": 463562,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "economy",
@@ -875,6 +875,30 @@
         "xlsx": {
           "name": "ko-wangneung-gobun_KO.xlsx",
           "size": 19335
+        }
+      }
+    },
+    {
+      "id": "ko-yeondobyeol-beseuteuselleo",
+      "name": "대한민국 연도별 종합 베스트셀러 (2000~2019)",
+      "category": "culture",
+      "record_count": 1650,
+      "columns": [
+        "year",
+        "rank",
+        "title"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_베스트셀러_목록",
+      "updated": "2026-11",
+      "size": 175243,
+      "files": {
+        "csv": {
+          "name": "ko-yeondobyeol-beseuteuselleo_KO.csv",
+          "size": 84471
+        },
+        "xlsx": {
+          "name": "ko-yeondobyeol-beseuteuselleo_KO.xlsx",
+          "size": 49615
         }
       }
     },
