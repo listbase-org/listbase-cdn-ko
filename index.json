@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-24T02:18:26.792Z",
-  "total_datasets": 608,
-  "total_records": 463562,
+  "generated": "2026-11-25T02:20:34.516Z",
+  "total_datasets": 609,
+  "total_records": 463606,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "society",
@@ -12748,6 +12748,31 @@
         "xlsx": {
           "name": "ko-gwahakja_KO.xlsx",
           "size": 7727
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-pachungryu",
+      "name": "한국의 파충류 목록",
+      "category": "science",
+      "record_count": 44,
+      "columns": [
+        "name",
+        "scientific_name",
+        "family",
+        "group"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_파충류",
+      "updated": "2026-11",
+      "size": 8249,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-pachungryu_KO.csv",
+          "size": 2990
+        },
+        "xlsx": {
+          "name": "ko-hanguk-pachungryu_KO.xlsx",
+          "size": 8510
         }
       }
     },
