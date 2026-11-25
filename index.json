@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-25T02:20:34.516Z",
-  "total_datasets": 609,
-  "total_records": 463606,
+  "generated": "2026-11-25T02:20:55.717Z",
+  "total_datasets": 610,
+  "total_records": 463634,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "society",
@@ -12803,6 +12803,31 @@
         "xlsx": {
           "name": "ko-hanguk-poyu-dongmul_KO.xlsx",
           "size": 12840
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-yangseoryu",
+      "name": "한국의 양서류 목록",
+      "category": "science",
+      "record_count": 28,
+      "columns": [
+        "name",
+        "scientific_name",
+        "family",
+        "order"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국의_양서류",
+      "updated": "2026-11",
+      "size": 6310,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-yangseoryu_KO.csv",
+          "size": 2447
+        },
+        "xlsx": {
+          "name": "ko-hanguk-yangseoryu_KO.xlsx",
+          "size": 7821
         }
       }
     },

@@ -1,0 +1,214 @@
+{
+  "id": "ko-hanguk-yangseoryu",
+  "name": "한국의 양서류 목록",
+  "title": "한국의 양서류 목록",
+  "description": "한국(한반도)에 서식하는 양서류(도롱뇽·개구리·두꺼비)의 국명, 학명, 과 및 목 목록.",
+  "category": "science",
+  "source": "https://ko.wikipedia.org/wiki/한국의_양서류",
+  "source_url": "https://ko.wikipedia.org/wiki/한국의_양서류",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "도롱뇽",
+      "scientific_name": "Hynobius leechii",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "고리도롱뇽",
+      "scientific_name": "Hynobius yangi",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "제주도롱뇽",
+      "scientific_name": "Hynobius quelpaertensis",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "꼬마도롱뇽",
+      "scientific_name": "Hynobius unisacculus",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "거제도롱뇽",
+      "scientific_name": "Hynobius geojeensis",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "남방도롱뇽",
+      "scientific_name": "Hynobius notialis",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "숨은의령도롱뇽",
+      "scientific_name": "Hynobius perplicatus",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "한국꼬리치레도롱뇽",
+      "scientific_name": "Onychodactylus koreanus",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "양산꼬리치레도롱뇽",
+      "scientific_name": "Onychodactylus sillanus",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "네발가락도롱뇽",
+      "scientific_name": "Salamandrella keyserlingii",
+      "family": "도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "이끼도롱뇽",
+      "scientific_name": "Karsenia koreana",
+      "family": "미주도롱뇽과",
+      "order": "유미목(도롱뇽)"
+    },
+    {
+      "name": "무당개구리",
+      "scientific_name": "Bombina orientalis",
+      "family": "무당개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "두꺼비",
+      "scientific_name": "Bufo gargarizans",
+      "family": "두꺼비과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "물두꺼비",
+      "scientific_name": "Bufo stejnegeri",
+      "family": "두꺼비과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "작은두꺼비",
+      "scientific_name": "Bufo raddei",
+      "family": "두꺼비과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "청개구리",
+      "scientific_name": "Hyla japonica",
+      "family": "청개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "수원청개구리",
+      "scientific_name": "Hyla suweonensis",
+      "family": "청개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "노랑배청개구리",
+      "scientific_name": "Hyla flaviventris",
+      "family": "청개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "맹꽁이",
+      "scientific_name": "Kaloula borealis",
+      "family": "맹꽁이과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "한국산개구리",
+      "scientific_name": "Rana coreana",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "아무르산개구리",
+      "scientific_name": "Rana amurensis",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "큰산개구리",
+      "scientific_name": "Rana uenoi",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "북방산개구리",
+      "scientific_name": "Rana dybowskii",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "계곡산개구리",
+      "scientific_name": "Rana huanrenensis",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "참개구리",
+      "scientific_name": "Rana nigromaculata",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "금개구리",
+      "scientific_name": "Rana chosenica",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "옴개구리",
+      "scientific_name": "Rana rugosa",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    },
+    {
+      "name": "황소개구리",
+      "scientific_name": "Rana catesbeiana",
+      "family": "개구리과",
+      "order": "무미목(개구리 및 두꺼비)"
+    }
+  ],
+  "meta": {
+    "title": "한국의 양서류 목록 - Free Download",
+    "description": "한국(한반도)에 서식하는 양서류(도롱뇽·개구리·두꺼비)의 국명, 학명, 과 및 목 목록. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "한국의 양서류 목록 | ListBase",
+    "seo_description": "Download 한국의 양서류 목록 — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/한국의_양서류"
+    ]
+  }
+}
