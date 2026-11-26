@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-25T02:20:55.717Z",
-  "total_datasets": 610,
-  "total_records": 463634,
+  "generated": "2026-11-26T02:17:41.593Z",
+  "total_datasets": 611,
+  "total_records": 463685,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "politics",
@@ -9290,6 +9290,31 @@
         "xlsx": {
           "name": "ko-hanguk-daejung-eumaksang-jongap-bumun_KO.xlsx",
           "size": 8521
+        }
+      }
+    },
+    {
+      "id": "ko-hanguk-jeontong-akgi",
+      "name": "한국 전통 악기 분류 (유래·연주법별)",
+      "category": "music",
+      "record_count": 51,
+      "columns": [
+        "악기",
+        "유래",
+        "분류",
+        "세부_분류"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/한국_전통_악기",
+      "updated": "2026-11",
+      "size": 8325,
+      "files": {
+        "csv": {
+          "name": "ko-hanguk-jeontong-akgi_KO.csv",
+          "size": 2100
+        },
+        "xlsx": {
+          "name": "ko-hanguk-jeontong-akgi_KO.xlsx",
+          "size": 8006
         }
       }
     },
