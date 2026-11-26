@@ -1,12 +1,12 @@
 {
   "lang": "ko",
-  "generated": "2026-11-26T02:17:41.593Z",
-  "total_datasets": 611,
-  "total_records": 463685,
+  "generated": "2026-11-26T02:17:50.365Z",
+  "total_datasets": 612,
+  "total_records": 463862,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "culture",
@@ -126,6 +126,33 @@
         "xlsx": {
           "name": "ko-haeyang-susan-janggwan_KO.xlsx",
           "size": 9786
+        }
+      }
+    },
+    {
+      "id": "ko-jeosuji",
+      "name": "대한민국의 저수지 및 인공호 (좌표 포함)",
+      "category": "agriculture",
+      "record_count": 177,
+      "columns": [
+        "이름",
+        "영문명",
+        "소재_행정구역",
+        "위도",
+        "경도",
+        "위키데이터"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q131681",
+      "updated": "2026-11",
+      "size": 40302,
+      "files": {
+        "csv": {
+          "name": "ko-jeosuji_KO.csv",
+          "size": 14574
+        },
+        "xlsx": {
+          "name": "ko-jeosuji_KO.xlsx",
+          "size": 16120
         }
       }
     },
