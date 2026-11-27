@@ -1,0 +1,691 @@
+{
+  "id": "ko-gukga-hacheon",
+  "name": "대한민국의 국가하천 목록",
+  "title": "대한민국의 국가하천 목록",
+  "description": "하천법에 따라 지정된 대한민국의 국가하천을 권역·수계별로 정리하고 기점, 종점, 하천연장(km), 본류·지류 구분을 수록한 목록.",
+  "category": "geography",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_국가하천_목록",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_국가하천_목록",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "gwonyeok",
+      "label": "Gwonyeok",
+      "type": "string"
+    },
+    {
+      "key": "sugye",
+      "label": "Sugye",
+      "type": "string"
+    },
+    {
+      "key": "myeongching",
+      "label": "Myeongching",
+      "type": "string"
+    },
+    {
+      "key": "gijeom",
+      "label": "Gijeom",
+      "type": "string"
+    },
+    {
+      "key": "jongjeom",
+      "label": "Jongjeom",
+      "type": "string"
+    },
+    {
+      "key": "hacheon_yeonjang_km",
+      "label": "Hacheon Yeonjang Km",
+      "type": "number"
+    },
+    {
+      "key": "gubun",
+      "label": "Gubun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "한강",
+      "gijeom": "강원특별자치도 정선군 여량면",
+      "jongjeom": "경기도 김포시 월곶면",
+      "hacheon_yeonjang_km": 402.36,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "달천",
+      "gijeom": "충청북도 청주시 상당구 미원면",
+      "jongjeom": "충청북도 충주시 칠금동",
+      "hacheon_yeonjang_km": 80.2,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "평창강",
+      "gijeom": "강원특별자치도 평창군 대화면",
+      "jongjeom": "강원특별자치도 영월군 영월읍",
+      "hacheon_yeonjang_km": 96,
+      "gubun": ""
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "원주천",
+      "gijeom": "강원특별자치도 원주시 판부면",
+      "jongjeom": "강원특별자치도 원주시 호저면",
+      "hacheon_yeonjang_km": 20.95,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "섬강",
+      "gijeom": "강원특별자치도 횡성군 횡성읍",
+      "jongjeom": "강원특별자치도 원주시 부론면",
+      "hacheon_yeonjang_km": 55.41,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "청미천",
+      "gijeom": "경기도 이천시 장호원읍",
+      "jongjeom": "경기도 여주시 점동면",
+      "hacheon_yeonjang_km": 24.64,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "복하천",
+      "gijeom": "경기도 이천시 호법면",
+      "jongjeom": "경기도 여주시 흥천면",
+      "hacheon_yeonjang_km": 19.8,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "북한강",
+      "gijeom": "강원특별자치도 화천군 화천읍",
+      "jongjeom": "경기도 양평군 양서면",
+      "hacheon_yeonjang_km": 158.82,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "홍천강",
+      "gijeom": "강원특별자치도 홍천군 두촌면",
+      "jongjeom": "강원특별자치도 홍천군 서면",
+      "hacheon_yeonjang_km": 95,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "양구서천",
+      "gijeom": "강원특별자치도 양구군 양구읍",
+      "jongjeom": "강원특별자치도 양구군 양구읍",
+      "hacheon_yeonjang_km": 14.75,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "소양강",
+      "gijeom": "강원특별자치도 인제군 인제읍",
+      "jongjeom": "강원특별자치도 춘천시 근화동",
+      "hacheon_yeonjang_km": 77.3,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "경안천",
+      "gijeom": "경기도 광주시 매산동",
+      "jongjeom": "경기도 광주시 남종면",
+      "hacheon_yeonjang_km": 22.5,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "중랑천",
+      "gijeom": "경기도 의정부시 장암동",
+      "jongjeom": "서울특별시 성동구 금호동",
+      "hacheon_yeonjang_km": 20.47,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "목감천",
+      "gijeom": "경기도 시흥시 논곡동",
+      "jongjeom": "서울특별시 구로구 개봉동",
+      "hacheon_yeonjang_km": 15.5,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "안양천",
+      "gijeom": "경기도 안양시 만안구 안양동",
+      "jongjeom": "서울특별시 영등포구 양평동",
+      "hacheon_yeonjang_km": 20.7,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "굴포천",
+      "gijeom": "인천광역시 부평구 갈산동",
+      "jongjeom": "경기도 김포시 고촌읍",
+      "hacheon_yeonjang_km": 15.31,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "공릉천",
+      "gijeom": "경기도 파주시 조리읍 경기도 고양시 덕양구 내유동",
+      "jongjeom": "경기도 파주시 교하동",
+      "hacheon_yeonjang_km": 16.05,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "신천",
+      "gijeom": "경기도 양주시 남면",
+      "jongjeom": "경기도 연천군 청산면",
+      "hacheon_yeonjang_km": 39.51,
+      "gubun": "지방하천"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "임진강",
+      "gijeom": "경기도 연천군 왕징면",
+      "jongjeom": "경기도 파주시 탄현면",
+      "hacheon_yeonjang_km": 91.1,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강",
+      "myeongching": "문산천",
+      "gijeom": "경기도 파주시 파주읍",
+      "jongjeom": "경기도 파주시 문산읍",
+      "hacheon_yeonjang_km": 11.6,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "안성천",
+      "myeongching": "안성천",
+      "gijeom": "경기도 안성시 공도읍",
+      "jongjeom": "경기도 평택시 현덕면",
+      "hacheon_yeonjang_km": 37.34,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "안성천",
+      "myeongching": "진위천",
+      "gijeom": "경기도 평택시 서탄면",
+      "jongjeom": "경기도 평택시 오성면, 고덕면",
+      "hacheon_yeonjang_km": 18,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "안성천",
+      "myeongching": "오산천",
+      "gijeom": "경기도 용인시 기흥구 기흥동",
+      "jongjeom": "경기도 평택시 서탄면",
+      "hacheon_yeonjang_km": 15,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "안성천",
+      "myeongching": "황구지천",
+      "gijeom": "경기도 수원시 권선구 대황교동",
+      "jongjeom": "경기도 평택시 서탄면",
+      "hacheon_yeonjang_km": 16.3,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "한강",
+      "sugye": "한강서해권",
+      "myeongching": "아라천",
+      "gijeom": "서울특별시 강서구 개화동",
+      "jongjeom": "인천광역시 서구 오류동",
+      "hacheon_yeonjang_km": 18.8,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "낙동강",
+      "gijeom": "경상북도 안동시 도산면",
+      "jongjeom": "부산광역시 강서구 명지동",
+      "hacheon_yeonjang_km": 382.97,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "반변천",
+      "gijeom": "경상북도 청송군 파천면",
+      "jongjeom": "경상북도 안동시 용상동",
+      "hacheon_yeonjang_km": 33.7,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "내성천",
+      "gijeom": "경상북도 예천군 호명면",
+      "jongjeom": "경상북도 예천군 용궁면",
+      "hacheon_yeonjang_km": 27,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "감천",
+      "gijeom": "경상북도 김천시 조마면 구성리",
+      "jongjeom": "경상북도 구미시 선산읍",
+      "hacheon_yeonjang_km": 39,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "금호강",
+      "gijeom": "경상북도 영천시 완산동",
+      "jongjeom": "대구광역시 달성군 다사면",
+      "hacheon_yeonjang_km": 69.3,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "황강",
+      "gijeom": "경상남도 거창군 거창읍",
+      "jongjeom": "경상남도 합천군 청덕면",
+      "hacheon_yeonjang_km": 83.52,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "남강",
+      "gijeom": "경상남도 함양군 유림면",
+      "jongjeom": "경상남도 함안군 대산면",
+      "hacheon_yeonjang_km": 144.59,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "덕천강",
+      "gijeom": "경상남도 사천시 곤명면",
+      "jongjeom": "경상남도 사천시 곤명면",
+      "hacheon_yeonjang_km": 4.2,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "함안천",
+      "gijeom": "경상남도 함안군 함안면",
+      "jongjeom": "경상남도 함안군 법수면",
+      "hacheon_yeonjang_km": 9.6,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "밀양강",
+      "gijeom": "경상남도 밀양시 상동면",
+      "jongjeom": "경상남도 밀양시 삼랑진읍",
+      "hacheon_yeonjang_km": 31.5,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강",
+      "myeongching": "양산천",
+      "gijeom": "경상남도 양산시 상북면",
+      "jongjeom": "경상남도 양산시 동면",
+      "hacheon_yeonjang_km": 10.05,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "낙동강 남해권",
+      "myeongching": "가화천",
+      "gijeom": "경상남도 진주시 나동",
+      "jongjeom": "경상남도 사천시 축동면",
+      "hacheon_yeonjang_km": 10.38,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "서낙동강",
+      "myeongching": "서낙동강",
+      "gijeom": "부산광역시 강서구 대저1동",
+      "jongjeom": "부산광역시 강서구 녹산동, 명지동",
+      "hacheon_yeonjang_km": 18.55,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "서낙동강",
+      "myeongching": "평강천",
+      "gijeom": "부산광역시 강서구 대저1동",
+      "jongjeom": "부산광역시 강서구 명지동",
+      "hacheon_yeonjang_km": 12.54,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "서낙동강",
+      "myeongching": "맥도강",
+      "gijeom": "부산광역시 강서구 대저2동",
+      "jongjeom": "부산광역시 강서구 강동동",
+      "hacheon_yeonjang_km": 7.84,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "태화강",
+      "myeongching": "태화강",
+      "gijeom": "울산광역시 울주군 상북면",
+      "jongjeom": "울산광역시 남구 매암동",
+      "hacheon_yeonjang_km": 41.01,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "형산강",
+      "myeongching": "형산강",
+      "gijeom": "경상북도 경주시 율동",
+      "jongjeom": "경상북도 포항시 남구 송정동",
+      "hacheon_yeonjang_km": 36,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "낙동강",
+      "sugye": "수영강",
+      "myeongching": "수영강",
+      "gijeom": "부산광역시 금정구 회동동",
+      "jongjeom": "부산광역시 수영구 민락동",
+      "hacheon_yeonjang_km": 28.68,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "금강",
+      "gijeom": "전북특별자치도 진안군 진안읍",
+      "jongjeom": "충청남도 서천군 마서면",
+      "hacheon_yeonjang_km": 360.7,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "갑천",
+      "gijeom": "대전광역시 서구 용촌동",
+      "jongjeom": "대전광역시 유성구 봉산동",
+      "hacheon_yeonjang_km": 33.53,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "대전천",
+      "gijeom": "대전광역시 중구 옥계동",
+      "jongjeom": "대전광역시 대덕구 오정동",
+      "hacheon_yeonjang_km": 26.29,
+      "gubun": "제3지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "유등천",
+      "gijeom": "대전광역시 중구 침산동",
+      "jongjeom": "대전광역시 서구 삼천동",
+      "hacheon_yeonjang_km": 15.53,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "미호강",
+      "gijeom": "충청북도 진천군 이월면",
+      "jongjeom": "세종특별자치시 금남면",
+      "hacheon_yeonjang_km": 39.13,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "논산천",
+      "gijeom": "충청남도 논산시 양촌면",
+      "jongjeom": "충청남도 논산시 강경읍",
+      "hacheon_yeonjang_km": 21.45,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "노성천",
+      "gijeom": "충청남도 논산시 부적면",
+      "jongjeom": "충청남도 논산시 대교동",
+      "hacheon_yeonjang_km": 4.75,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "금강",
+      "myeongching": "강경천",
+      "gijeom": "전북특별자치도 익산시 망성면",
+      "jongjeom": "충청남도 논산시 강경읍",
+      "hacheon_yeonjang_km": 6.41,
+      "gubun": "제2지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "동진강",
+      "myeongching": "동진강",
+      "gijeom": "전북특별자치도 정읍시 정우면",
+      "jongjeom": "전북특별자치도 부안군 동진면",
+      "hacheon_yeonjang_km": 19.2,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "동진강",
+      "myeongching": "정읍천",
+      "gijeom": "전북특별자치도 정읍시 내장동",
+      "jongjeom": "전북특별자치도 정읍시 이평면",
+      "hacheon_yeonjang_km": 18.2,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "동진강",
+      "myeongching": "고부천",
+      "gijeom": "전북특별자치도 정읍시 고부면",
+      "jongjeom": "전북특별자치도 부안군 동진면",
+      "hacheon_yeonjang_km": 16.2,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "동진강",
+      "myeongching": "원평천",
+      "gijeom": "전북특별자치도 김제시 봉남면",
+      "jongjeom": "전북특별자치도 김제시 죽산면",
+      "hacheon_yeonjang_km": 16.2,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "만경강",
+      "myeongching": "만경강",
+      "gijeom": "전북특별자치도 완주군 고산면",
+      "jongjeom": "전북특별자치도 김제시 진봉면",
+      "hacheon_yeonjang_km": 54,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "만경강",
+      "myeongching": "소양천",
+      "gijeom": "전북특별자치도 완주군 용진읍",
+      "jongjeom": "전북특별자치도 전주시 덕진구 전미동1가",
+      "hacheon_yeonjang_km": 7,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "만경강",
+      "myeongching": "전주천",
+      "gijeom": "전북특별자치도 전주시 완산구 삼천동",
+      "jongjeom": "전북특별자치도 전주시 덕진구 고랑동",
+      "hacheon_yeonjang_km": 7,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "삽교천",
+      "myeongching": "삽교천",
+      "gijeom": "충청남도 예산군 삽교읍",
+      "jongjeom": "충청남도 아산시 인주면",
+      "hacheon_yeonjang_km": 31.9,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "삽교천",
+      "myeongching": "무한천",
+      "gijeom": "충청남도 예산군 예산읍",
+      "jongjeom": "충청남도 예산군 신암면",
+      "hacheon_yeonjang_km": 12.73,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "금강",
+      "sugye": "삽교천",
+      "myeongching": "곡교천",
+      "gijeom": "충청남도 천안시 광덕면",
+      "jongjeom": "충청남도 아산시 인주면",
+      "hacheon_yeonjang_km": 18.39,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "영산강",
+      "sugye": "영산강",
+      "myeongching": "영산강",
+      "gijeom": "전라남도 담양군 담양읍",
+      "jongjeom": "전라남도 영암군 삼호읍",
+      "hacheon_yeonjang_km": 111.68,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "영산강",
+      "sugye": "영산강",
+      "myeongching": "황룡강",
+      "gijeom": "광주광역시 광산구 삼도동",
+      "jongjeom": "광주광역시 광산구 유계동",
+      "hacheon_yeonjang_km": 9.41,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "영산강",
+      "sugye": "영산강",
+      "myeongching": "지석천",
+      "gijeom": "전라남도 화순군 이양면",
+      "jongjeom": "전라남도 나주시 금천면",
+      "hacheon_yeonjang_km": 34,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "영산강",
+      "sugye": "영산강",
+      "myeongching": "고막원천",
+      "gijeom": "전라남도 함평군 나산면",
+      "jongjeom": "전라남도 함평군 학교면",
+      "hacheon_yeonjang_km": 22.33,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "영산강",
+      "sugye": "영산강",
+      "myeongching": "함평천",
+      "gijeom": "전라남도 함평군 대동면",
+      "jongjeom": "전라남도 함평군 엄다면",
+      "hacheon_yeonjang_km": 13.91,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "영산강",
+      "sugye": "탐진강",
+      "myeongching": "탐진강",
+      "gijeom": "전라남도 장흥군 유치면",
+      "jongjeom": "전라남도 강진군 군동면",
+      "hacheon_yeonjang_km": 34.52,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "섬진강",
+      "sugye": "섬진강",
+      "myeongching": "섬진강",
+      "gijeom": "전북특별자치도 임실군 신평면",
+      "jongjeom": "경상남도 하동군 금남면",
+      "hacheon_yeonjang_km": 173.3,
+      "gubun": "본류"
+    },
+    {
+      "gwonyeok": "섬진강",
+      "sugye": "섬진강",
+      "myeongching": "요천",
+      "gijeom": "전북특별자치도 남원시 월락동",
+      "jongjeom": "전북특별자치도 남원시 송동면",
+      "hacheon_yeonjang_km": 17.9,
+      "gubun": "제1지류"
+    },
+    {
+      "gwonyeok": "섬진강",
+      "sugye": "섬진강",
+      "myeongching": "보성강",
+      "gijeom": "전라남도 보성군 문덕면",
+      "jongjeom": "전라남도 곡성군 오곡면",
+      "hacheon_yeonjang_km": 46.8,
+      "gubun": "제1지류"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 국가하천 목록 - Free Download",
+    "description": "하천법에 따라 지정된 대한민국의 국가하천을 권역·수계별로 정리하고 기점, 종점, 하천연장(km), 본류·지류 구분을 수록한 목록. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 국가하천 목록 | ListBase",
+    "seo_description": "Download 대한민국의 국가하천 목록 — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_국가하천_목록"
+    ]
+  }
+}

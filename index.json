@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-27T02:19:23.900Z",
-  "total_datasets": 613,
-  "total_records": 463895,
+  "generated": "2026-11-27T02:19:32.866Z",
+  "total_datasets": 614,
+  "total_records": 463965,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 107
+      "dataset_count": 108
     },
     {
       "id": "health",
@@ -5615,6 +5615,34 @@
         "xlsx": {
           "name": "ko-got_KO.xlsx",
           "size": 7513
+        }
+      }
+    },
+    {
+      "id": "ko-gukga-hacheon",
+      "name": "대한민국의 국가하천 목록",
+      "category": "geography",
+      "record_count": 70,
+      "columns": [
+        "gwonyeok",
+        "sugye",
+        "myeongching",
+        "gijeom",
+        "jongjeom",
+        "hacheon_yeonjang_km",
+        "gubun"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_국가하천_목록",
+      "updated": "2026-11",
+      "size": 21396,
+      "files": {
+        "csv": {
+          "name": "ko-gukga-hacheon_KO.csv",
+          "size": 9067
+        },
+        "xlsx": {
+          "name": "ko-gukga-hacheon_KO.xlsx",
+          "size": 10932
         }
       }
     },
