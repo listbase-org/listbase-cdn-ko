@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-26T02:17:50.365Z",
-  "total_datasets": 612,
-  "total_records": 463862,
+  "generated": "2026-11-27T02:19:23.900Z",
+  "total_datasets": 613,
+  "total_records": 463895,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 61
+      "dataset_count": 62
     },
     {
       "id": "units",
@@ -16680,6 +16680,30 @@
         "xlsx": {
           "name": "ko-gimpo-dosi-cheoldo-jihacheol-yeok_KO.xlsx",
           "size": 7554
+        }
+      }
+    },
+    {
+      "id": "ko-gonggong-jajeongeo",
+      "name": "대한민국의 공공자전거·공유자전거 서비스 목록",
+      "category": "transport",
+      "record_count": 33,
+      "columns": [
+        "myeongching",
+        "seobiseu_jiyeok",
+        "unyeong_gubun"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/대한민국의_공공자전거",
+      "updated": "2026-11",
+      "size": 7390,
+      "files": {
+        "csv": {
+          "name": "ko-gonggong-jajeongeo_KO.csv",
+          "size": 2905
+        },
+        "xlsx": {
+          "name": "ko-gonggong-jajeongeo_KO.xlsx",
+          "size": 8245
         }
       }
     },

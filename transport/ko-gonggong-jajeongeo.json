@@ -1,0 +1,206 @@
+{
+  "id": "ko-gonggong-jajeongeo",
+  "name": "대한민국의 공공자전거·공유자전거 서비스 목록",
+  "title": "대한민국의 공공자전거·공유자전거 서비스 목록",
+  "description": "대한민국의 지방자치단체 공공자전거(운영 중·종료)와 민간 공유자전거 서비스의 명칭, 서비스 지역, 운영 구분 목록.",
+  "category": "transport",
+  "source": "https://ko.wikipedia.org/wiki/대한민국의_공공자전거",
+  "source_url": "https://ko.wikipedia.org/wiki/대한민국의_공공자전거",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "myeongching",
+      "label": "Myeongching",
+      "type": "string"
+    },
+    {
+      "key": "seobiseu_jiyeok",
+      "label": "Seobiseu Jiyeok",
+      "type": "string"
+    },
+    {
+      "key": "unyeong_gubun",
+      "label": "Unyeong Gubun",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "myeongching": "따릉이",
+      "seobiseu_jiyeok": "서울특별시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "TAZO",
+      "seobiseu_jiyeok": "고양시, 수원시, 인천광역시 연수구",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "타슈",
+      "seobiseu_jiyeok": "대전광역시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "백제씽씽",
+      "seobiseu_jiyeok": "공주시, 부여군",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "어울링",
+      "seobiseu_jiyeok": "세종특별자치시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "타랑께",
+      "seobiseu_jiyeok": "광주광역시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "여수랑",
+      "seobiseu_jiyeok": "여수시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "온누리",
+      "seobiseu_jiyeok": "순천시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "꽃싱이",
+      "seobiseu_jiyeok": "전주시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "경북도청 공익자전거",
+      "seobiseu_jiyeok": "예천군",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "별타고",
+      "seobiseu_jiyeok": "영천시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "타실라",
+      "seobiseu_jiyeok": "경주시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "타반나",
+      "seobiseu_jiyeok": "부산광역시 기장군",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "누비자",
+      "seobiseu_jiyeok": "창원시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "그린씽",
+      "seobiseu_jiyeok": "거창군",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "타고가야",
+      "seobiseu_jiyeok": "김해시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "양산시 공공자전거",
+      "seobiseu_jiyeok": "양산시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "e바퀴로",
+      "seobiseu_jiyeok": "원주시",
+      "unyeong_gubun": "지방자치단체 (운영 중)"
+    },
+    {
+      "myeongching": "오포",
+      "seobiseu_jiyeok": "부산광역시",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "COOKIE",
+      "seobiseu_jiyeok": "연수구",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "페달로",
+      "seobiseu_jiyeok": "안산시",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "피프틴",
+      "seobiseu_jiyeok": "고양시",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "반티클",
+      "seobiseu_jiyeok": "수원시",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "행복두바퀴",
+      "seobiseu_jiyeok": "경산시",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "제주 공공자전거",
+      "seobiseu_jiyeok": "제주시",
+      "unyeong_gubun": "지방자치단체 (운영 종료)"
+    },
+    {
+      "myeongching": "알파카",
+      "seobiseu_jiyeok": "서울, 수원, 안성, 안양, 오산, 용인, 평택, 화성, 성남, 안산, 양평, 경기광주, 원주, 홍천, 아산, 청주, 충주, 제천, 대전, 천안, 예산, 옥천, 계룡, 금산, 전주, 광양, 대구, 안동, 영주, 예천, 구미, 부산, 울산, 진주, 창원, 양산, 김해",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "일레클",
+      "seobiseu_jiyeok": "마포(여의도), 과천, 수원, 김포, 남양주, 부천, 시흥, 안양, 의왕, 양주, 파주, 화성, 오산, 군포, 남양주, 천안, 아산, 세종, 충주, 부산(강서), 김해, 창원(성산), 제주",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "유니콘바이크",
+      "seobiseu_jiyeok": "은평",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "에브리바이크",
+      "seobiseu_jiyeok": "서울, 광명, 안양, 의왕, 군포, 안산, 평택",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "메리바이크(메리쉐어링)",
+      "seobiseu_jiyeok": "서울(용산·서초·강남), 수원, 제부도, 세종, 군산, 여수, 경주, 제주, 서귀포",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "지바이크(GCOO, 지쿠)",
+      "seobiseu_jiyeok": "서울(서초,강남,신사,논현,대치,도곡,노원,강서.강동), 인천, 고양, 수원, 안산, 용인, 춘천, 대전, 광주, 순천, 대구, 경산, 안동, 제주, 충주",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "카카오T 바이크",
+      "seobiseu_jiyeok": "송파, 성남, 인천, 하남, 안산, 김포, 고양, 파주, 대전, 청주, 전주, 광주, 대구, 울산",
+      "unyeong_gubun": "민간"
+    },
+    {
+      "myeongching": "ZET",
+      "seobiseu_jiyeok": "대전, 제주",
+      "unyeong_gubun": "민간"
+    }
+  ],
+  "meta": {
+    "title": "대한민국의 공공자전거·공유자전거 서비스 목록 - Free Download",
+    "description": "대한민국의 지방자치단체 공공자전거(운영 중·종료)와 민간 공유자전거 서비스의 명칭, 서비스 지역, 운영 구분 목록. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "대한민국의 공공자전거·공유자전거 서비스 목록 | ListBase",
+    "seo_description": "Download 대한민국의 공공자전거·공유자전거 서비스 목록 — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ko.wikipedia.org/wiki/대한민국의_공공자전거"
+    ]
+  }
+}
