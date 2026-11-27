@@ -1,8 +1,8 @@
 {
   "lang": "ko",
-  "generated": "2026-11-27T02:19:32.866Z",
-  "total_datasets": 614,
-  "total_records": 463965,
+  "generated": "2026-11-27T02:19:42.485Z",
+  "total_datasets": 615,
+  "total_records": 464182,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "finance",
@@ -3521,6 +3521,37 @@
         "xlsx": {
           "name": "ko-sallimcheongjang_KO.xlsx",
           "size": 9282
+        }
+      }
+    },
+    {
+      "id": "ko-seoul-bohosu",
+      "name": "서울특별시의 보호수 목록",
+      "category": "environment",
+      "record_count": 217,
+      "columns": [
+        "yeonbeon",
+        "jijeong_beonho",
+        "sujong",
+        "suryeong_nyeon",
+        "sugo_m",
+        "hyunggo_dulle_m",
+        "hyunggo_jikgyeong_m",
+        "jijeong_ilja",
+        "yuhyeong",
+        "gwallija"
+      ],
+      "source": "https://ko.wikipedia.org/wiki/서울특별시의_보호수_목록",
+      "updated": "2026-11",
+      "size": 71361,
+      "files": {
+        "csv": {
+          "name": "ko-seoul-bohosu_KO.csv",
+          "size": 20995
+        },
+        "xlsx": {
+          "name": "ko-seoul-bohosu_KO.xlsx",
+          "size": 18635
         }
       }
     },
